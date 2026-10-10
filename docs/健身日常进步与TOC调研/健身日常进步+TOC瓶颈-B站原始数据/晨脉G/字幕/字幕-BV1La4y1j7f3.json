@@ -1,0 +1,219 @@
+[
+ {
+  "from": 0.0,
+  "to": 1.38,
+  "sid": 1,
+  "location": 2,
+  "content": "出卖的常见错误"
+ },
+ {
+  "from": 1.38,
+  "to": 3.82,
+  "sid": 2,
+  "location": 2,
+  "content": "第一个呢是脉诊的位置错误"
+ },
+ {
+  "from": 3.82,
+  "to": 7.84,
+  "sid": 3,
+  "location": 2,
+  "content": "正常情况下脉诊应该放在手腕的正下方"
+ },
+ {
+  "from": 7.84,
+  "to": 10.27,
+  "sid": 4,
+  "location": 2,
+  "content": "方向与手臂垂直"
+ },
+ {
+  "from": 10.27,
+  "to": 14.77,
+  "sid": 5,
+  "location": 2,
+  "content": "这样的话就能使患者腕部的寸口脉充分显露"
+ },
+ {
+  "from": 14.77,
+  "to": 18.16,
+  "sid": 6,
+  "location": 2,
+  "content": "如果脉诊的方向不正确啊"
+ },
+ {
+  "from": 18.54,
+  "to": 20.34,
+  "sid": 7,
+  "location": 2,
+  "content": "或者是这样"
+ },
+ {
+  "from": 20.34,
+  "to": 21.47,
+  "sid": 8,
+  "location": 2,
+  "content": "或者是这样"
+ },
+ {
+  "from": 21.47,
+  "to": 24.26,
+  "sid": 9,
+  "location": 2,
+  "content": "或者它的位置过于靠近指端"
+ },
+ {
+  "from": 24.26,
+  "to": 27.56,
+  "sid": 10,
+  "location": 2,
+  "content": "都会导致寸口脉的显露不充分"
+ },
+ {
+  "from": 27.56,
+  "to": 29.03,
+  "sid": 11,
+  "location": 2,
+  "content": "影响我们的默脉"
+ },
+ {
+  "from": 29.03,
+  "to": 31.61,
+  "sid": 12,
+  "location": 2,
+  "content": "那如果脉诊过于靠近肘端"
+ },
+ {
+  "from": 31.61,
+  "to": 33.26,
+  "sid": 13,
+  "location": 2,
+  "content": "就会使腕不过深"
+ },
+ {
+  "from": 33.26,
+  "to": 35.03,
+  "sid": 14,
+  "location": 2,
+  "content": "前辈的肌肉紧张啊"
+ },
+ {
+  "from": 35.03,
+  "to": 37.0,
+  "sid": 15,
+  "location": 2,
+  "content": "影响脉象的表现"
+ },
+ {
+  "from": 37.0,
+  "to": 40.5,
+  "sid": 16,
+  "location": 2,
+  "content": "第二大类的这个错误呢是不止错误"
+ },
+ {
+  "from": 40.66,
+  "to": 44.88,
+  "sid": 17,
+  "location": 2,
+  "content": "正常情况下应该先用中指定髋部"
+ },
+ {
+  "from": 44.88,
+  "to": 47.76,
+  "sid": 18,
+  "location": 2,
+  "content": "然后食指和无名指自然落下"
+ },
+ {
+  "from": 47.76,
+  "to": 50.12,
+  "sid": 19,
+  "location": 2,
+  "content": "分别定寸和尺部"
+ },
+ {
+  "from": 50.12,
+  "to": 52.91,
+  "sid": 20,
+  "location": 2,
+  "content": "三指应该是自然弯曲"
+ },
+ {
+  "from": 52.91,
+  "to": 53.96,
+  "sid": 21,
+  "location": 2,
+  "content": "呈弓形"
+ },
+ {
+  "from": 53.96,
+  "to": 57.1,
+  "sid": 22,
+  "location": 2,
+  "content": "以指木啊这个位置感受脉象"
+ },
+ {
+  "from": 57.1,
+  "to": 58.78,
+  "sid": 23,
+  "location": 2,
+  "content": "那么常见的错误有"
+ },
+ {
+  "from": 58.78,
+  "to": 59.38,
+  "sid": 24,
+  "location": 2,
+  "content": "第一个"
+ },
+ {
+  "from": 59.38,
+  "to": 63.279,
+  "sid": 25,
+  "location": 2,
+  "content": "终止定关不准或者是太低或者是太高"
+ },
+ {
+  "from": 63.66,
+  "to": 65.62,
+  "sid": 26,
+  "location": 2,
+  "content": "第二个啊"
+ },
+ {
+  "from": 65.62,
+  "to": 68.11,
+  "sid": 27,
+  "location": 2,
+  "content": "以食指定指无名指定错"
+ },
+ {
+  "from": 68.11,
+  "to": 69.13,
+  "sid": 28,
+  "location": 2,
+  "content": "这样就反了"
+ },
+ {
+  "from": 69.13,
+  "to": 75.23,
+  "sid": 29,
+  "location": 2,
+  "content": "第三个是三个指头的曲度过大或者过小"
+ },
+ {
+  "from": 75.23,
+  "to": 79.13,
+  "sid": 30,
+  "location": 2,
+  "content": "这样的话就不能正好用实木来感受脉象"
+ },
+ {
+  "from": 79.13,
+  "to": 80.7,
+  "sid": 31,
+  "location": 2,
+  "content": "从而影响我们的脉"
+ }
+]

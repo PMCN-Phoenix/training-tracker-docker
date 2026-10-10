@@ -1,0 +1,582 @@
+{
+ "title": "什么是里程碑，如何编制项目里程碑计划？",
+ "owner": "项目管理进度猫",
+ "body": [
+  {
+   "from": 0.0,
+   "to": 2.26,
+   "sid": 1,
+   "location": 2,
+   "content": "里程碑是项目进程中的重要标记点",
+   "music": 0.0
+  },
+  {
+   "from": 2.26,
+   "to": 3.98,
+   "sid": 2,
+   "location": 2,
+   "content": "标志着项目在特定时间",
+   "music": 0.0
+  },
+  {
+   "from": 3.98,
+   "to": 6.24,
+   "sid": 3,
+   "location": 2,
+   "content": "达到了某个具有标志性意义的阶段",
+   "music": 0.0
+  },
+  {
+   "from": 6.24,
+   "to": 8.12,
+   "sid": 4,
+   "location": 2,
+   "content": "或完成了特定的关键成果",
+   "music": 0.0
+  },
+  {
+   "from": 8.12,
+   "to": 9.6,
+   "sid": 5,
+   "location": 2,
+   "content": "里程碑的三个特点",
+   "music": 0.0
+  },
+  {
+   "from": 9.6,
+   "to": 10.32,
+   "sid": 6,
+   "location": 2,
+   "content": "标志性",
+   "music": 0.0
+  },
+  {
+   "from": 10.32,
+   "to": 13.6,
+   "sid": 7,
+   "location": 2,
+   "content": "代表项目中的重大事件或关键成果的达成",
+   "music": 0.0
+  },
+  {
+   "from": 13.6,
+   "to": 16.56,
+   "sid": 8,
+   "location": 2,
+   "content": "清晰地展示项目的进展和阶段性成就",
+   "music": 0.0
+  },
+  {
+   "from": 16.56,
+   "to": 20.2,
+   "sid": 9,
+   "location": 2,
+   "content": "阶段性将项目的生命周期划分为不同的阶段",
+   "music": 0.0
+  },
+  {
+   "from": 20.2,
+   "to": 22.4,
+   "sid": 10,
+   "location": 2,
+   "content": "有助于项目团队和相关利益者",
+   "music": 0.0
+  },
+  {
+   "from": 22.4,
+   "to": 25.0,
+   "sid": 11,
+   "location": 2,
+   "content": "更好地理解项目的节奏和逻辑顺序",
+   "music": 0.0
+  },
+  {
+   "from": 25.0,
+   "to": 26.0,
+   "sid": 12,
+   "location": 2,
+   "content": "可衡量性",
+   "music": 0.0
+  },
+  {
+   "from": 26.0,
+   "to": 29.36,
+   "sid": 13,
+   "location": 2,
+   "content": "每个里程碑都有明确的完成标准或交付成果",
+   "music": 0.0
+  },
+  {
+   "from": 29.36,
+   "to": 32.46,
+   "sid": 14,
+   "location": 2,
+   "content": "能够通过客观的指标或检查点进行验证",
+   "music": 0.0
+  },
+  {
+   "from": 32.46,
+   "to": 35.36,
+   "sid": 15,
+   "location": 2,
+   "content": "以下是编写项目里程碑计划的步骤和要点",
+   "music": 0.0
+  },
+  {
+   "from": 35.36,
+   "to": 37.46,
+   "sid": 16,
+   "location": 2,
+   "content": "第一明确项目目标与范围",
+   "music": 0.0
+  },
+  {
+   "from": 37.46,
+   "to": 39.08,
+   "sid": 17,
+   "location": 2,
+   "content": "在设定里程碑之前",
+   "music": 0.0
+  },
+  {
+   "from": 39.08,
+   "to": 41.72,
+   "sid": 18,
+   "location": 2,
+   "content": "必须对项目的总体目标和涵盖范围",
+   "music": 0.0
+  },
+  {
+   "from": 41.72,
+   "to": 42.86,
+   "sid": 19,
+   "location": 2,
+   "content": "有清晰的理解",
+   "music": 0.0
+  },
+  {
+   "from": 42.86,
+   "to": 45.42,
+   "sid": 20,
+   "location": 2,
+   "content": "这包括确定项目的主要交付成果",
+   "music": 0.0
+  },
+  {
+   "from": 45.42,
+   "to": 46.66,
+   "sid": 21,
+   "location": 2,
+   "content": "预期的业务效益",
+   "music": 0.0
+  },
+  {
+   "from": 46.66,
+   "to": 49.94,
+   "sid": 22,
+   "location": 2,
+   "content": "以及项目涉及的关键业务领域或功能模块等",
+   "music": 0.0
+  },
+  {
+   "from": 49.94,
+   "to": 52.75,
+   "sid": 23,
+   "location": 2,
+   "content": "二分解项目工作机构WBS",
+   "music": 0.0
+  },
+  {
+   "from": 52.75,
+   "to": 55.83,
+   "sid": 24,
+   "location": 2,
+   "content": "将项目按照可管理的工作单元进行分解",
+   "music": 0.0
+  },
+  {
+   "from": 55.83,
+   "to": 57.43,
+   "sid": 25,
+   "location": 2,
+   "content": "形成工作分解结构",
+   "music": 0.0
+  },
+  {
+   "from": 57.43,
+   "to": 59.71,
+   "sid": 26,
+   "location": 2,
+   "content": "更有助于全面梳理项目任务",
+   "music": 0.0
+  },
+  {
+   "from": 59.71,
+   "to": 62.32,
+   "sid": 27,
+   "location": 2,
+   "content": "识别出关键的工作阶段和任务群组",
+   "music": 0.0
+  },
+  {
+   "from": 62.32,
+   "to": 64.72,
+   "sid": 28,
+   "location": 2,
+   "content": "我们可以使用项目管理工具进度猫",
+   "music": 0.0
+  },
+  {
+   "from": 64.72,
+   "to": 66.64,
+   "sid": 29,
+   "location": 2,
+   "content": "并在甘特图中分解项目",
+   "music": 0.0
+  },
+  {
+   "from": 66.64,
+   "to": 67.84,
+   "sid": 30,
+   "location": 2,
+   "content": "确定任务时间",
+   "music": 0.0
+  },
+  {
+   "from": 67.84,
+   "to": 69.78,
+   "sid": 31,
+   "location": 2,
+   "content": "例如对于软件开发项目",
+   "music": 0.0
+  },
+  {
+   "from": 69.78,
+   "to": 72.16,
+   "sid": 32,
+   "location": 2,
+   "content": "可以分解为需求分析设计",
+   "music": 0.0
+  },
+  {
+   "from": 72.16,
+   "to": 73.24,
+   "sid": 33,
+   "location": 2,
+   "content": "编码测试",
+   "music": 0.0
+  },
+  {
+   "from": 73.24,
+   "to": 74.58,
+   "sid": 34,
+   "location": 2,
+   "content": "上线部署等阶段",
+   "music": 0.0
+  },
+  {
+   "from": 74.58,
+   "to": 76.68,
+   "sid": 35,
+   "location": 2,
+   "content": "三确定关键里程碑事件",
+   "music": 0.0
+  },
+  {
+   "from": 76.68,
+   "to": 79.19,
+   "sid": 36,
+   "location": 2,
+   "content": "基于项目的WBS和业务流程",
+   "music": 0.0
+  },
+  {
+   "from": 79.19,
+   "to": 81.17,
+   "sid": 37,
+   "location": 2,
+   "content": "高选出具有标志性意义",
+   "music": 0.0
+  },
+  {
+   "from": 81.17,
+   "to": 84.51,
+   "sid": 38,
+   "location": 2,
+   "content": "能够代表项目重要进展阶段完成的关键事件",
+   "music": 0.0
+  },
+  {
+   "from": 84.51,
+   "to": 85.37,
+   "sid": 39,
+   "location": 2,
+   "content": "作为里程碑",
+   "music": 0.0
+  },
+  {
+   "from": 85.37,
+   "to": 88.4,
+   "sid": 40,
+   "location": 2,
+   "content": "那些事件通常是项目成果的重要交付点",
+   "music": 0.0
+  },
+  {
+   "from": 88.4,
+   "to": 90.58,
+   "sid": 41,
+   "location": 2,
+   "content": "阶段评审点或者关键决策点",
+   "music": 0.0
+  },
+  {
+   "from": 90.58,
+   "to": 93.04,
+   "sid": 42,
+   "location": 2,
+   "content": "例如项目启动里程碑标志",
+   "music": 0.0
+  },
+  {
+   "from": 93.04,
+   "to": 94.14,
+   "sid": 43,
+   "location": 2,
+   "content": "项目正式开始",
+   "music": 0.0
+  },
+  {
+   "from": 94.14,
+   "to": 95.84,
+   "sid": 44,
+   "location": 2,
+   "content": "可能包括项目团队组建",
+   "music": 0.0
+  },
+  {
+   "from": 95.84,
+   "to": 97.89,
+   "sid": 45,
+   "location": 2,
+   "content": "完成项目计划获得批准等",
+   "music": 0.0
+  },
+  {
+   "from": 97.89,
+   "to": 100.49,
+   "sid": 46,
+   "location": 2,
+   "content": "活动完成主要阶段完成里程碑",
+   "music": 0.0
+  },
+  {
+   "from": 100.49,
+   "to": 102.61,
+   "sid": 47,
+   "location": 2,
+   "content": "按软件项目中系统蓝图设计",
+   "music": 0.0
+  },
+  {
+   "from": 102.61,
+   "to": 104.37,
+   "sid": 48,
+   "location": 2,
+   "content": "完成关键模块上线",
+   "music": 0.0
+  },
+  {
+   "from": 104.37,
+   "to": 105.65,
+   "sid": 49,
+   "location": 2,
+   "content": "系统全面集成",
+   "music": 0.0
+  },
+  {
+   "from": 105.65,
+   "to": 108.43,
+   "sid": 50,
+   "location": 2,
+   "content": "测试通过等都可作为重要里程碑",
+   "music": 0.0
+  },
+  {
+   "from": 108.43,
+   "to": 110.55,
+   "sid": 51,
+   "location": 2,
+   "content": "四设定里程碑时间节点",
+   "music": 0.0
+  },
+  {
+   "from": 110.55,
+   "to": 111.91,
+   "sid": 52,
+   "location": 2,
+   "content": "为每个里程碑事件",
+   "music": 0.0
+  },
+  {
+   "from": 111.91,
+   "to": 114.15,
+   "sid": 53,
+   "location": 2,
+   "content": "预估合理的时间点或时间范围",
+   "music": 0.0
+  },
+  {
+   "from": 114.15,
+   "to": 116.53,
+   "sid": 54,
+   "location": 2,
+   "content": "这需要综合考虑项目的总体工期",
+   "music": 0.0
+  },
+  {
+   "from": 116.53,
+   "to": 117.4,
+   "sid": 55,
+   "location": 2,
+   "content": "资源分配",
+   "music": 0.0
+  },
+  {
+   "from": 117.4,
+   "to": 120.12,
+   "sid": 56,
+   "location": 2,
+   "content": "任务依赖关系以及可能的风险因素等",
+   "music": 0.0
+  },
+  {
+   "from": 120.12,
+   "to": 121.26,
+   "sid": 57,
+   "location": 2,
+   "content": "非采用正推法",
+   "music": 0.0
+  },
+  {
+   "from": 121.26,
+   "to": 125.06,
+   "sid": 58,
+   "location": 2,
+   "content": "从项目开始时间逐步推算里程碑时间或倒推法",
+   "music": 0.0
+  },
+  {
+   "from": 125.06,
+   "to": 128.32,
+   "sid": 59,
+   "location": 2,
+   "content": "从项目预期完成时间倒推里程碑时间来确定",
+   "music": 0.0
+  },
+  {
+   "from": 128.32,
+   "to": 130.079,
+   "sid": 60,
+   "location": 2,
+   "content": "五分配里程碑责任人",
+   "music": 0.0
+  },
+  {
+   "from": 130.079,
+   "to": 133.32,
+   "sid": 61,
+   "location": 2,
+   "content": "为每个里程碑指定主要的负责人员或团队",
+   "music": 0.0
+  },
+  {
+   "from": 133.32,
+   "to": 133.88,
+   "sid": 62,
+   "location": 2,
+   "content": "责任人",
+   "music": 0.0
+  },
+  {
+   "from": 133.88,
+   "to": 135.94,
+   "sid": 63,
+   "location": 2,
+   "content": "应负责推动相关工作的进展",
+   "music": 0.0
+  },
+  {
+   "from": 135.94,
+   "to": 139.5,
+   "sid": 64,
+   "location": 2,
+   "content": "并在里程碑达成时组织相关的验收和交接工作",
+   "music": 0.0
+  },
+  {
+   "from": 139.5,
+   "to": 141.4,
+   "sid": 65,
+   "location": 2,
+   "content": "六里程碑评审与监控",
+   "music": 0.0
+  },
+  {
+   "from": 141.4,
+   "to": 142.94,
+   "sid": 66,
+   "location": 2,
+   "content": "建立里程碑评审机制",
+   "music": 0.0
+  },
+  {
+   "from": 142.94,
+   "to": 144.68,
+   "sid": 67,
+   "location": 2,
+   "content": "在每个里程碑达成前后",
+   "music": 0.0
+  },
+  {
+   "from": 144.68,
+   "to": 148.34,
+   "sid": 68,
+   "location": 2,
+   "content": "组织相关人员对该里程碑的完成情况进行评审",
+   "music": 0.0
+  },
+  {
+   "from": 148.34,
+   "to": 150.2,
+   "sid": 69,
+   "location": 2,
+   "content": "检查是否达到预期的目标",
+   "music": 0.0
+  },
+  {
+   "from": 150.2,
+   "to": 151.68,
+   "sid": 70,
+   "location": 2,
+   "content": "质量标准等要求",
+   "music": 0.0
+  },
+  {
+   "from": 151.68,
+   "to": 153.36,
+   "sid": 71,
+   "location": 2,
+   "content": "同时制定监控计划",
+   "music": 0.0
+  },
+  {
+   "from": 153.36,
+   "to": 156.86,
+   "sid": 72,
+   "location": 2,
+   "content": "定期对里程碑的进展情况进行跟踪和监控",
+   "music": 0.0
+  }
+ ]
+}

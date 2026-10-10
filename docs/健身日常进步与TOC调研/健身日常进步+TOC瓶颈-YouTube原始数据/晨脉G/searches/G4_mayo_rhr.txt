@@ -1,0 +1,13 @@
+QUERY: ytsearch10:Mayo Clinic how to measure your heart rate pulse
+COUNT: 10
+======================================================================
+g3OILanxDh0 | 108s | Mayo Clinic | Heart Rate vs. Heart Rhythm: Understanding the Basics - Ask Mayo Clinic Health System
+DRnw-5lBP48 | 59s | Mayo Clinic | Mayo Clinic Minute: Are you hitting your target heart rate?
+7aoEtq4twes | 60s | Mayo Clinic | Mayo Clinic Minute: How to hit your target heart rate
+gKy1VH1ABWQ | 891s | Mayo Clinic | ECG Insights - Session 6
+xoTSxeSy_Yw | 912s | Mayo Clinic | Mayo Clinic Q&A podcast: Heart rhythm problems need attention
+rNckzt94RcU | 60s | Mayo Clinic | Mayo Clinic Minute: 3 things women should know about heart disease
+NC4hN0mTRsY | 61s | Mayo Clinic | Mayo Clinic Minute: What is a cardiac stress test?
+tNfKPu94bXM | 57s | Homestead Ec  | How to Take Your Pulse | Easy Heartbeat Activity for Kids
+BSlRvD-CZSo | 32s | UT MD Anderson Cancer Center | How to check your pulse and heart rate
+75f9S6rR-mo | 64s | Measurement & Evaluation Techniques | Heart Rate Measurement

@@ -1,0 +1,147 @@
+[00:00] 
+[00:02] let's take a step back and now just talk
+[00:04] about where you think HRV belongs in the
+[00:08] hierarchy of Health metrics um we we've
+[00:10] talked about so many different types of
+[00:11] Health metrics and we've talked about
+[00:15] how output metrics tend to be preferable
+[00:16] you know we can sort of think of them as
+[00:19] functional metrics um you know I like an
+[00:21] oral glucose tolerance test more than a
+[00:23] hemoglobin A1c one is kind of functional
+[00:25] it actually is a test it watches how you
+[00:29] do something V2 max strength those are
+[00:32] more fun tests than maybe resting heart
+[00:34] rate or muscle mass right muscle mass is
+[00:36] great it's predictive as is resting
+[00:38] heart rate but when you actually put the
+[00:41] workout um HRV is obviously a readout
+[00:44] State what where do you think on the
+[00:48] dashboard of Health longevity uh where
+[00:49] do you where do you place it you know I
+[00:51] think it's important to monitor as
+[00:52] you're going along but I would say if
+[00:54] all your other metrics are telling you
+[00:55] you're healthy and you're going the
+[00:57] right direction nine times out of 10
+[00:59] it's we tell you the same thing the the
+[01:02] point where I would be more uh aware of
+[01:05] it is where it's very low and you don't
+[01:06] have a reason for that you want to
+[01:08] figure that out we've had people have a
+[01:09] rhythmia they had no idea about and they
+[01:11] go to the doctor and they and have some
+[01:12] serious heart condition that they need
+[01:14] to be aware of but I would just say
+[01:17] longterm it's it should line up with V2
+[01:18] it should line up with your metabolic
+[01:20] Market it should line up with all of
+[01:23] this stuff it's easier to track because
+[01:24] we can measure it in a daily basis I
+[01:25] think that's probably the advantage I
+[01:27] would say it has is you're not getting a
+[01:30] V2 Max test every day obviously see
+[01:31] every week or every month you know
+[01:32] you're not doing lactate testing you're
+[01:34] not doing these markers that are more
+[01:36] output based that are really important
+[01:39] frequently enough to get feedback of
+[01:39] whether or not you're going the right
+[01:41] direction so I think we can look at HRV
+[01:44] in a more granular daily basis just kind
+[01:46] of say am I going the right direction
+[01:48] and that's probably more of a utility
+[01:50] than a great predictor of you know
+[01:52] something and we can look at those daily
+[01:54] changes to help us make more informed
+[01:56] decisions we can't do that with V2 Max
+[01:59] or with you know more invasive tests so
+[02:02] it it's a more uh you know narrow data
+[02:03] point but it gives us something we can
+[02:06] use more actionably than these longer
+[02:07] term tests I think are better actual
+[02:09] measures of outcome and if we see our
+[02:11] HRV trending down significantly that is
+[02:13] a warning sign we're doing something
+[02:14] wrong our body is not adapting the way
+[02:16] that it should be we need to make
+[02:18] adjustments whether it's the training or
+[02:20] or lifestyle so I think it's used
+[02:22] differently right like we use V2 and we
+[02:24] use uh those sorts of output measures as
+[02:26] are we going the right direction and we
+[02:28] have some prognostic value specifically
+[02:30] from them we use HRV to say
+[02:32] you know are we more likely to be making
+[02:33] improvements on the short term or are we
+[02:35] heading the wrong direction where if we
+[02:37] keep doing that for a long period of
+[02:38] time we're going to either see the
+[02:40] benefit or the cost depend which
+[02:41] direction we're going so I think they're
+[02:45] different is there a number Joel on the
+[02:47] um the log normal transformation you're
+[02:50] doing on the rmssd a number below which
+[02:53] if it's consistently there you think
+[02:56] that you know I would I would want to
+[02:59] inquire more 50s 40s I mean those are
+[03:01] those are pretty low numbers for for
+[03:03] just for folks listening that's not the
+[03:06] rmssd number right the rmssd number
+[03:09] might be far far lower than that exactly
+[03:11] yeah so you you really do have to be
+[03:12] specific of what we're talking about the
+[03:16] systems um but yeah I mean this is a you
+[03:17] know n of one but I was at a guy there
+[03:19] was melif who you probably aren't
+[03:20] familiar with but he was a very
+[03:23] well-known Sports scientist he wrote a
+[03:24] book called Super train I at his house
+[03:27] with the original uh HRV system I was
+[03:30] using and I had all the metrics and this
+[03:33] he was like five and he just looked
+[03:34] really bad you know I said then he heart
+[03:36] had a heart attack and I said well this
+[03:38] looks really concerning he was you know
+[03:40] he kind of brushed it off and he died of
+[03:42] a heart attack you know a few months
+[03:44] later and so you know if you're really
+[03:48] seeing these super low rmssd or Morpheus
+[03:50] numbers like it's definitely indication
+[03:51] that that autonomic nervous system is
+[03:53] not responding well to the world around
+[03:55] it if it's really really low you know
+[03:56] there could be a legitimate medical
+[03:59] concern that's driving that so if you're
+[04:01] you know more 40s 30s and you you're
+[04:03] just not getting up it's probably worth
+[04:04] looking into and it's something to
+[04:06] definitely be concerned about and do you
+[04:08] see the opposite where really high
+[04:10] numbers or a sudden change from low to
+[04:12] high can indicate an arhythmia or
+[04:14] something like that yeah absolutely you
+[04:15] definitely do see these these kind of
+[04:17] weird numbers come out you know that
+[04:19] could be arhythmia that could be
+[04:21] medications it could be who knows you
+[04:22] see some of these these things jump
+[04:25] around from anomalies that you just kind
+[04:26] of like it's an artifact I don't know
+[04:27] what happened and then sometimes you do
+[04:30] see a medication or you you see weird
+[04:32] stuff with covid and you definitely see
+[04:34] some weird stuff in the data that you
+[04:35] want to be aware of that you know you
+[04:36] probably wouldn't pick up otherwise I
+[04:38] would say HRV is more of a leading
+[04:40] indicator and kind of how you feel and
+[04:42] some of those symptoms can come days
+[04:44] later so you'll often times pick up
+[04:46] something that looks weird and then two
+[04:47] days later you get a cold or you get flu
+[04:49] or you get some sort of uh thing that
+[04:54] 
+[04:54] [Music]
+[04:59] 
+[04:59] oh

@@ -1,0 +1,27 @@
+# 运行时数据卷（勿提交，勿删除）
+influxdb_data/
+grafana_data/
+
+# WSL 修复与临时文件
+wsl-fix-files/
+fix-wsl-*.ps1
+fix-wsl-*.log
+post-reboot.ps1
+post-reboot.log
+post-reboot-status.txt
+reboot-needed.txt
+encoded-cmd.txt
+执行记录-重启前.md
+
+# 日志与配置备份
+*.log
+*.bak
+*.bak-*
+
+# Node-RED 依赖（勿提交）
+nodered_data/node_modules/
+
+# Cookie / 凭据（安全）
+bilibili-cookie.txt
+*.cookie
+*.cookies

@@ -1,0 +1,177 @@
+[00:00] 
+[00:02] welcome to our video series on using
+[00:05] prerequisite tree thinking tools for
+[00:07] business in this video we'll look at
+[00:20] 
+[00:22] in this video I'm going to introduce you
+[00:25] to the theory of constraint thinking
+[00:27] tools and I'm going to focus in
+[00:29] specifically on one of the tools which
+[00:33] is called the prerequisite tree
+[00:36] okay first of all what is the theory of
+[00:38] constraint at the simplest level it's
+[00:40] really a management theory for
+[00:42] optimizing business and it's a huge
+[00:44] subject so i can't really do it to
+[00:47] justice it deserves here but it's really
+[00:49] a very respected management theory for
+[00:52] helping optimize businesses and it's a
+[00:54] huge subject so it may be something you
+[00:57] want to look into there are a lot of
+[00:59] publications about it and an awful lot
+[01:01] of websites about it and part of the
+[01:04] Theory of Constraints is thinking
+[01:08] processes tools for problem solving
+[01:10] and again if you just do a search you'll
+[01:12] come up with many websites with
+[01:14] information on this and there's a lot of
+[01:16] free information but part of the problem
+[01:19] is that there's a lot of niche language
+[01:21] used with this subject and it can be
+[01:24] quite inaccessible initially obviously
+[01:26] as I'm creating a video series on
+[01:28] prerequisite trees I'm quite familiar
+[01:30] with them and I've created quite a few
+[01:33] of them myself but just reading how to
+[01:35] do a prerequisite tree on many of these
+[01:39] sites is very inaccessible so really the
+[01:41] goal of this video series is to help you
+[01:44] get productive with prerequisite trees
+[01:49] so what are prerequisite trees ok I'll
+[01:51] go to that in just a moment but first of
+[01:56] 
+[01:58] okay this is one of the top sites
+[02:01] returned when doing a google search for
+[02:04] theory of constraint thinking tools it
+[02:06] provides a lot of good information but
+[02:09] again it is quite inaccessible initially
+[02:11] for example here the theory of
+[02:14] constraint toc is a philosophy of
+[02:16] management and improvement originally
+[02:22] 
+[02:24] and actually let's bring up another
+[02:27] example and from the same website the
+[02:30] toc thinking process tools for problem
+[02:30] solving
+[02:35] problems are related to dilemmas doubts
+[02:38] and decisions from a scientific
+[02:40] viewpoint any problem can be stated in
+[02:43] terms of a conflict or conflicts between
+[02:45] okay you can have a read through that if
+[02:48] 
+[02:51] and there are actually six tools tool
+[02:55] one the evaporating cloud
+[02:59] tool to the current reality tree 23 the
+[03:02] future reality tree
+[03:06] and some examples here 20 for the
+[03:12] 
+[03:16] 205 the prerequisite tree
+[03:21] tool six the transition tree okay do you
+[03:23] really need to learn all these tools if
+[03:25] you really want to dive into the subject
+[03:28] you can certainly do that but why I'm
+[03:30] going to focus on the prerequisite tree
+[03:33] which is detailed as tool five out of
+[03:36] six here is because it's a great tool to
+[03:38] jump straight into and it's hugely
+[03:40] helpful or whatever type of business
+[03:43] you're running as you'll discover as we
+[03:45] go through this and even though the
+[03:47] prerequisite tree is even though there's
+[03:49] a huge amount of information about it
+[03:49] online
+[03:54] 
+[03:56] I first became familiar with it through
+[03:59] a site called strategic profits which
+[04:01] focuses on helping small businesses
+[04:04] clarify their business strategy and make
+[04:07] a lot more money with that strategy and
+[04:09] that's where I was first introduced to
+[04:12] the prerequisite tree and really got my
+[04:13] interest in it and the Theory of
+[04:16] Constraints subject matter from there
+[04:19] I've done a lot more research and
+[04:21] actually because i've used prerequisite
+[04:24] trees a lot myself I've customized the
+[04:26] process a little bit I feel obviously
+[04:28] you can take what I demonstrate and
+[04:31] customize it for yourself but I've
+[04:33] customized the process a little bit and
+[04:35] I find that it just helps make the whole
+[04:37] process a little bit easier and a little
+[04:39] bit more logical at least that's my
+[04:42] opinion but you may disagree and you may
+[04:44] want to use it in a slightly different
+[04:44] way
+[04:47] 
+[04:49] and actually I mentioned this resource I
+[04:52] hope that when you view this video it
+[04:54] will still be available if you're
+[04:55] running a small business and you're
+[04:57] interested in optimizing your business
+[05:00] strategy and being as successful as
+[05:02] possible in your business this is a
+[05:05] fantastic resource
+[05:07] they have the business growth system
+[05:10] which is a 12 month course that really
+[05:12] covers everything you need to have a
+[05:16] really successful small business and a
+[05:19] very very small part of that is the
+[05:22] prerequisite tree also covered is the
+[05:24] theory of constraint but there's a huge
+[05:27] amount of the course beyond that so you
+[05:29] can visit that page if you like and it
+[05:35] 
+[05:37] okay what I'm going to focus on as
+[05:40] mentioned is the prerequisite tree and
+[05:42] even for personal decisions or business
+[05:45] decisions I'm sure you'll find it hugely
+[05:47] helpful once you become familiar with it
+[05:50] the reason for that is that it makes
+[05:52] complicated goals and complicated
+[05:55] decisions very logical and gives you a
+[05:57] lot of clarity about them I think you'll
+[05:59] see that quite clearly as we go through
+[06:03] these videos so in the next video we'll
+[06:06] get started but actually just before
+[06:07] that let me introduce you to the
+[06:10] software will be using and prerequisite
+[06:14] tree let's see well this really isn't an
+[06:16] example of a prerequisite tree but
+[06:19] really all these sorts of thinking tools
+[06:22] are in this sort of format and you have
+[06:24] different items and they're all linked
+[06:24] somehow
+[06:28] and you can of course create such
+[06:31] diagrams using Microsoft PowerPoint for
+[06:34] example or there's microsoft visio which
+[06:37] helps you create such diagrams as that
+[06:39] and you can even create such diagrams in
+[06:42] image creation programs of course and
+[06:44] what I'll be using for these
+[06:46] demonstrations is software pretty much
+[06:49] created for the theory of constraint
+[06:51] thinking tools
+[06:53] and the software is called
+[07:01] 
+[07:07] and the top result is transformation
+[07:11] hyphen logic tree calm and as it says
+[07:15] here TLT transformation logic tree is
+[07:17] quality software for managing business
+[07:20] process improvement and general
+[07:22] problem-solving via the thinking
+[07:26] processes and it's suitable for all the
+[07:31] 
+[07:33] but i'll be using it specifically in
+[07:36] these examples for prerequisite trees
+[07:39] and if we download there's a 30-day free
+[07:42] trial and after that it's quite
+[07:45] inexpensive $28 effectively but you can
+[07:48] try that for the 30-day trial become
+[07:50] familiar with it and see if it's right
+[07:53] for you so all you need to do is I'm
+[07:56] going to download that and install that
+[07:58] and it's a very straightforward process
+[08:01] and then in the next video I'll start
+[08:03] talking you through using the
+[08:06] transformation logic tree specifically

@@ -1,0 +1,100 @@
+[
+    {
+        "id": "flow1",
+        "type": "tab",
+        "label": "训练数据录入",
+        "disabled": false,
+        "info": "手机/网页 POST 自然语言文本 → 正则解析 → 写入 InfluxDB 时序库"
+    },
+    {
+        "id": "http-in",
+        "type": "http in",
+        "z": "flow1",
+        "name": "录入训练数据",
+        "url": "/add-training",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 120,
+        "wires": [
+            [
+                "parse-training"
+            ]
+        ]
+    },
+    {
+        "id": "parse-training",
+        "type": "function",
+        "z": "flow1",
+        "name": "智能解析训练文本",
+        "func": "var msgText = (typeof msg.payload === 'string') ? msg.payload : (msg.payload.text || '').trim();\nvar metrics = [\n  { name: \"running_distance_km\", display: \"跑步距离_km\", regex: /跑步.*?(\\d+(?:\\.\\d+)?)\\s*(?:km|公里|千米)/i },\n  { name: \"running_duration_min\", display: \"跑步时长_min\", regex: /跑步.*?(\\d+(?:\\.\\d+)?)\\s*(?:min|分钟)/i },\n  { name: \"squat_weight_kg\", display: \"深蹲重量_kg\", regex: /深蹲.*?(\\d+(?:\\.\\d+)?)\\s*(?:kg|公斤)/i },\n  { name: \"squat_sets\", display: \"深蹲组数\", regex: /深蹲.*?(\\d+)\\s*组/i }\n];\nvar measurements = [];\nmetrics.forEach(function (m) {\n  var match = msgText.match(m.regex);\n  if (match && match[1] !== undefined) {\n    measurements.push({\n      measurement: m.name,\n      fields: { value: parseFloat(match[1]) },\n      tags: { source: \"phone\" }\n    });\n  }\n});\nif (measurements.length === 0) {\n  msg.payload = { ok: false, message: \"未能识别训练数据\", detail: msgText };\n  msg.statusCode = 400;\n  return [null, msg];\n}\nmsg.payload = measurements;\nmsg.trainingCount = measurements.length;\nreturn [msg, null];",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 120,
+        "wires": [
+            [
+                "influx-out"
+            ],
+            [
+                "resp-err"
+            ]
+        ]
+    },
+    {
+        "id": "influx-out",
+        "type": "influxdb batch",
+        "z": "flow1",
+        "name": "写入 InfluxDB",
+        "influxdb": "influx-config",
+        "measurement": "",
+        "precision": "",
+        "retentionPolicy": "",
+        "x": 600,
+        "y": 100,
+        "wires": [
+            [
+                "resp-ok"
+            ]
+        ],
+        "org": "training-org",
+        "bucket": "training",
+        "precisionV18FluxV20": "ms"
+    },
+    {
+        "id": "resp-ok",
+        "type": "http response",
+        "z": "flow1",
+        "name": "成功响应",
+        "statusCode": "200",
+        "headers": {},
+        "x": 820,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "resp-err",
+        "type": "http response",
+        "z": "flow1",
+        "name": "失败响应",
+        "statusCode": "400",
+        "headers": {},
+        "x": 820,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "influx-config",
+        "type": "influxdb",
+        "z": "flow1",
+        "name": "InfluxDB 2.x",
+        "influxdbVersion": "2.0",
+        "timeout": "10",
+        "url": "http://influxdb:8086",
+        "rejectUnauthorized": false
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "influx-config": {
+        "token": "training-super-secret-token-2026"
+    }
+}

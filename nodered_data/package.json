@@ -1,0 +1,9 @@
+{
+  "name": "training-tracker-nodered",
+  "description": "训练数据录入 Node-RED 流程 — 正则解析 → InfluxDB",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-red-contrib-influxdb": "0.7.0"
+  }
+}

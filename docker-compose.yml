@@ -1,0 +1,47 @@
+version: "3.8"
+
+services:
+  influxdb:
+    image: influxdb:2.7
+    container_name: training-influxdb
+    ports:
+      - "8086:8086"
+    volumes:
+      - ./influxdb_data:/var/lib/influxdb2
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=training_pass_2026
+      - DOCKER_INFLUXDB_INIT_ORG=training-org
+      - DOCKER_INFLUXDB_INIT_BUCKET=training
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=training-super-secret-token-2026
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:10.4.0
+    container_name: training-grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+      - ../bench-3d-chart/output:/usr/share/grafana/public/bench-3d:ro
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_AUTH_ANONYMOUS_ENABLED=false
+      - TZ=Asia/Shanghai
+    depends_on:
+      - influxdb
+    restart: unless-stopped
+
+  nodered:
+    image: nodered/node-red:3.1.0
+    container_name: training-nodered
+    ports:
+      - "1880:1880"
+    volumes:
+      - ./nodered_data:/data
+    environment:
+      - TZ=Asia/Shanghai
+    restart: unless-stopped

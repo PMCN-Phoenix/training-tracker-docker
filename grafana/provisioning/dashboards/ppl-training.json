@@ -1,0 +1,963 @@
+{
+  "title": "推拉蹲训练",
+  "uid": "ppl-training-monitor",
+  "schemaVersion": 39,
+  "version": 2,
+  "timezone": "browser",
+  "refresh": "10s",
+  "time": {
+    "from": "now-90d",
+    "to": "now"
+  },
+  "editable": true,
+  "tags": [
+    "training",
+    "fitness",
+    "ppl"
+  ],
+  "panels": [
+    {
+      "id": 2000,
+      "type": "timeseries",
+      "title": "总览 · 整体与三方向趋势",
+      "gridPos": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "推/拉/蹲三方向每练总容量（Σ重量×次数）+ 3点移动平均；整体线 = 按周取三方向容量均值（缺方向时用现存方向平均）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": [
+          {
+            "matcher": {
+              "id": "byName",
+              "options": "整体(周均值)"
+            },
+            "properties": [
+              {
+                "id": "custom.lineWidth",
+                "value": 3
+              },
+              {
+                "id": "custom.fillOpacity",
+                "value": 0
+              },
+              {
+                "id": "color",
+                "value": {
+                  "fixedColor": "#0f172a",
+                  "mode": "fixed"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_(push|pull|squat)_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> filter(fn: (r) => r.direction == \"push\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: []) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> set(key: \"_field\", value: \"推日容量\") |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        },
+        {
+          "refId": "B",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_(push|pull|squat)_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> filter(fn: (r) => r.direction == \"pull\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: []) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> set(key: \"_field\", value: \"拉日容量\") |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        },
+        {
+          "refId": "C",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_(push|pull|squat)_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> filter(fn: (r) => r.direction == \"squat\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: []) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> set(key: \"_field\", value: \"蹲日容量\") |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        },
+        {
+          "refId": "D",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_(push|pull|squat)_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: [\"direction\"]) |> aggregateWindow(every: 1w, fn: sum, createEmpty: false) |> truncateTimeColumn(unit: 1w) |> group(columns: [\"_time\"]) |> mean() |> group(columns: []) |> set(key: \"_field\", value: \"整体(周均值)\")",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2001,
+      "type": "timeseries",
+      "title": "推日 · 动作总容量",
+      "gridPos": {
+        "x": 0,
+        "y": 8,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "推日 4 个动作各自的每练总容量（Σ重量×次数）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_push_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2002,
+      "type": "timeseries",
+      "title": "推日 · 最重一组重量",
+      "gridPos": {
+        "x": 12,
+        "y": 8,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "推日 4 个动作每次训练最重一组的重量（kg）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_push_/) |> filter(fn: (r) => r._field == \"weight_kg\") |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2003,
+      "type": "timeseries",
+      "title": "拉日 · 动作总容量",
+      "gridPos": {
+        "x": 0,
+        "y": 16,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "拉日 4 个动作各自的每练总容量（Σ重量×次数）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_pull_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2004,
+      "type": "timeseries",
+      "title": "拉日 · 最重一组重量",
+      "gridPos": {
+        "x": 12,
+        "y": 16,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "拉日 4 个动作每次训练最重一组的重量（kg）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_pull_/) |> filter(fn: (r) => r._field == \"weight_kg\") |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2005,
+      "type": "timeseries",
+      "title": "蹲日 · 动作总容量",
+      "gridPos": {
+        "x": 0,
+        "y": 24,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "蹲日 4 个动作各自的每练总容量（Σ重量×次数）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_squat_/) |> filter(fn: (r) => r._field == \"weight_kg\" or r._field == \"reps\") |> pivot(rowKey: [\"_time\", \"session_id\", \"set_index\"], columnKey: [\"_field\"], valueColumn: \"_value\") |> map(fn: (r) => ({r with _value: float(v: r.weight_kg) * float(v: r.reps)})) |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: sum, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "id": 2006,
+      "type": "timeseries",
+      "title": "蹲日 · 最重一组重量",
+      "gridPos": {
+        "x": 12,
+        "y": 24,
+        "w": 12,
+        "h": 8
+      },
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "蹲日 4 个动作每次训练最重一组的重量（kg）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "lineInterpolation": "linear",
+            "fillOpacity": 8,
+            "showPoints": "always",
+            "lineWidth": 2,
+            "axisCenteredZero": false
+          },
+          "unit": "kg"
+        },
+        "overrides": []
+      },
+      "options": {
+        "legend": {
+          "showLegend": true,
+          "displayMode": "list",
+          "placement": "bottom",
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ]
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement =~ /^ppl_squat_/) |> filter(fn: (r) => r._field == \"weight_kg\") |> group(columns: [\"exercise\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 3)",
+          "hide": false
+        }
+      ]
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "每次训练总时长（到场时间，分钟），按推/拉/蹲方向分线，实线=原始，虚线=3 点移动平均。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 8,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always"
+          },
+          "unit": "min"
+        },
+        "overrides": [
+          {
+            "matcher": {
+              "id": "byRegexp",
+              "options": "/MA/"
+            },
+            "properties": [
+              {
+                "id": "custom.lineStyle",
+                "value": {
+                  "dash": [
+                    8,
+                    4
+                  ]
+                }
+              },
+              {
+                "id": "custom.lineWidth",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 40
+      },
+      "id": 2007,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"push\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"推日时长\")",
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"pull\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"拉日时长\")",
+          "refId": "B"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"squat\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"蹲日时长\")",
+          "refId": "C"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"push\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"推日时长MA\") |> movingAverage(n: 3)",
+          "refId": "A2"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"pull\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"拉日时长MA\") |> movingAverage(n: 3)",
+          "refId": "B2"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"squat\") |> sort(columns: [\"_time\"]) |> set(key: \"_field\", value: \"蹲日时长MA\") |> movingAverage(n: 3)",
+          "refId": "C2"
+        }
+      ],
+      "title": "时长 · 每次训练时长趋势",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "每周训练总时长（分钟），按方向堆叠柱状。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 40,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always",
+            "drawStyle": "bars",
+            "stacking": {
+              "mode": "normal",
+              "group": "A"
+            },
+            "barAlignment": 0
+          },
+          "unit": "min"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 12,
+        "y": 40
+      },
+      "id": 2008,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"push\") |> group(columns: [\"direction\"]) |> aggregateWindow(every: 1w, fn: sum, createEmpty: false) |> truncateTimeColumn(unit: 1w) |> group(columns: []) |> set(key: \"_field\", value: \"推日\") |> sort(columns: [\"_time\"])",
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"pull\") |> group(columns: [\"direction\"]) |> aggregateWindow(every: 1w, fn: sum, createEmpty: false) |> truncateTimeColumn(unit: 1w) |> group(columns: []) |> set(key: \"_field\", value: \"拉日\") |> sort(columns: [\"_time\"])",
+          "refId": "B"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_duration_min\") |> filter(fn: (r) => r._field == \"minutes\") |> filter(fn: (r) => r.direction == \"squat\") |> group(columns: [\"direction\"]) |> aggregateWindow(every: 1w, fn: sum, createEmpty: false) |> truncateTimeColumn(unit: 1w) |> group(columns: []) |> set(key: \"_field\", value: \"蹲日\") |> sort(columns: [\"_time\"])",
+          "refId": "C"
+        }
+      ],
+      "title": "时长 · 每周总时长",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "推日各动作 PR 检验：每个重量档位能做到的最大次数，按测试日期推进（每次 PR 测试一个点）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 8,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always"
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 48
+      },
+      "id": 2009,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_pr_test\") |> filter(fn: (r) => r.direction == \"push\") |> filter(fn: (r) => r._field == \"max_reps\") |> group(columns: [\"exercise\", \"weight_kg\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> map(fn: (r) => ({ r with _field: r.exercise + \" \" + string(v: r.weight_kg) + \"kg\" })) |> group(columns: [\"_field\"]) |> sort(columns: [\"_time\"])",
+          "refId": "A"
+        }
+      ],
+      "title": "PR · 推日 动作最大次数",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "拉日各动作 PR 检验：每个重量档位能做到的最大次数，按测试日期推进（每次 PR 测试一个点）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 8,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always"
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 56
+      },
+      "id": 2010,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_pr_test\") |> filter(fn: (r) => r.direction == \"pull\") |> filter(fn: (r) => r._field == \"max_reps\") |> group(columns: [\"exercise\", \"weight_kg\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> map(fn: (r) => ({ r with _field: r.exercise + \" \" + string(v: r.weight_kg) + \"kg\" })) |> group(columns: [\"_field\"]) |> sort(columns: [\"_time\"])",
+          "refId": "A"
+        }
+      ],
+      "title": "PR · 拉日 动作最大次数",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "蹲日各动作 PR 检验：每个重量档位能做到的最大次数，按测试日期推进（每次 PR 测试一个点）。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 8,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always"
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 64
+      },
+      "id": 2011,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_pr_test\") |> filter(fn: (r) => r.direction == \"squat\") |> filter(fn: (r) => r._field == \"max_reps\") |> group(columns: [\"exercise\", \"weight_kg\"]) |> aggregateWindow(every: 1d, fn: max, createEmpty: false) |> map(fn: (r) => ({ r with _field: r.exercise + \" \" + string(v: r.weight_kg) + \"kg\" })) |> group(columns: [\"_field\"]) |> sort(columns: [\"_time\"])",
+          "refId": "A"
+        }
+      ],
+      "title": "PR · 蹲日 动作最大次数",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {
+        "type": "influxdb",
+        "uid": "influxdb-training"
+      },
+      "description": "每天一次静息心率（bpm）。原始点 + 7 点移动平均（虚线）。预警：单日 ≥ 基线+5 或 +10% → 当天不加负荷不冲 PR；减载：连续 3 天高于基线 → 四查恢复项。基线 = 最近 7 天中位数，口径见处方文档 §8.1。",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "palette-classic"
+          },
+          "custom": {
+            "axisCenteredZero": false,
+            "fillOpacity": 20,
+            "lineInterpolation": "linear",
+            "lineWidth": 2,
+            "showPoints": "always"
+          },
+          "unit": "bpm"
+        },
+        "overrides": [
+          {
+            "matcher": {
+              "id": "byRegexp",
+              "options": "/MA/"
+            },
+            "properties": [
+              {
+                "id": "custom.lineStyle",
+                "value": {
+                  "dash": [
+                    8,
+                    4
+                  ]
+                }
+              },
+              {
+                "id": "custom.lineWidth",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      "gridPos": {
+        "h": 8,
+        "w": 24,
+        "x": 0,
+        "y": 72
+      },
+      "id": 2012,
+      "options": {
+        "legend": {
+          "calcs": [
+            "mean",
+            "lastNotNull"
+          ],
+          "displayMode": "list",
+          "placement": "bottom",
+          "showLegend": true
+        },
+        "tooltip": {
+          "mode": "multi",
+          "sort": "desc"
+        }
+      },
+      "targets": [
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_morning_hr\") |> filter(fn: (r) => r._field == \"bpm\") |> aggregateWindow(every: 1d, fn: last, createEmpty: false) |> set(key: \"_field\", value: \"晨脉\")",
+          "refId": "A"
+        },
+        {
+          "datasource": {
+            "type": "influxdb",
+            "uid": "influxdb-training"
+          },
+          "hide": false,
+          "query": "from(bucket: \"training\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"ppl_morning_hr\") |> filter(fn: (r) => r._field == \"bpm\") |> aggregateWindow(every: 1d, fn: last, createEmpty: false) |> sort(columns: [\"_time\"]) |> movingAverage(n: 7) |> set(key: \"_field\", value: \"晨脉 7日均线MA\")",
+          "refId": "B"
+        }
+      ],
+      "title": "晨脉 · 恢复状态监控",
+      "type": "timeseries"
+    },
+    {
+      "id": 2099,
+      "type": "text",
+      "title": "",
+      "gridPos": {
+        "x": 0,
+        "y": 80,
+        "w": 24,
+        "h": 2
+      },
+      "options": {
+        "content": "<div style='text-align:center;font-size:18px;padding:10px'><a href='/public/bench-3d/bench_3d_progress.html' target='_blank' style='color:#FF9830;text-decoration:none;font-weight:bold'>3D 平板卧推进展图</a></div>",
+        "mode": "html"
+      },
+      "transparent": true
+    }
+  ]
+}

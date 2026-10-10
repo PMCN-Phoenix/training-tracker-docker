@@ -1,0 +1,28 @@
+健身日常进步 + TOC瓶颈 — YouTube 选定视频清单（最终版）
+抓取日期：2026-10-10
+方法：yt-dlp --flat-playlist ytsearchN（代理 127.0.0.1:7892）；字幕 = android client + --write-auto-subs en
+============================================================
+A 日常恢复
+A1 | 1xeSCokUsSI | Renaissance Periodization | Sleep Is The Best Muscle Building "Drug"?
+A2 | Pok0Jg2JAkE | Jeff Nippard | The Smartest Way To Use Protein To Build Muscle
+A3 | NLqq_dJB0iM | Jeff Nippard | How To Maximize Gains and NOT Overtrain
+B 恢复自检
+B1 | Ayicxx-VPLI | Peter Attia (w/ Joel Jamieson) | How valuable is HRV as a metric of health?
+B2 | INcIStIWPmc | Peter Attia (w/ Dr. Mike Israetel) | Understanding CNS Fatigue
+C 关节维护
+C1 | QU-_Du-Zk3I | Squat University | 5 Tips To Fix Shoulder Pain (BENCH PRESS)
+C2b | gsR201qbQ5s | Catalyst Athletics (Greg Everett) | Thoracic Spine Mobility for Olympic Weightlifting
+C3 | RSgUf4y_oYo | MVMT | Knee Valgus Fix: Mini Band Squat ISO Glute Holds
+D 神经/感知
+D1 | 6iwXwM5hiaY | Huberman Lab Clips | How to Learn Skills With Visualization & Mental Training
+D2 | JgYOWf2OCKA | Doc Skinner | Valsalva Maneuver: what is it, how it works
+E 约束理论
+E | _WRZzpKKbpk | The Work Matters (Rami Goldratt) | Find the Constraint Before You Try to Improve Everything
+F 阶段门控/前提树
+F1 | dSrM3DYps1U | Cerri.com | Stage-Gate Process Defined
+F2 | oRHh_-5x4F8 | how2instructionalvid | Prerequisite Tree Thinking Tools
+------------------------------------------------------------
+替换记录：
+- C2 原 mlstZw2dTHU ([P]rehab wall angel) 无 en 字幕 -> 换 C2b
+- F2 原 -9InhKTO6A (Marris) ID 以连字符开头无法解析 -> 换 oRHh_-5x4F8
+- D2 原 nE4mvAWZKXw / vAp84Bvhunw 持续 429 -> 换 Doc Skinner JgYOWf2OCKA

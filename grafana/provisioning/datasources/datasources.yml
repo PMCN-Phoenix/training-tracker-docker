@@ -1,0 +1,15 @@
+apiVersion: 1
+datasources:
+  - name: InfluxDB
+    uid: influxdb-training
+    type: influxdb
+    access: proxy
+    url: http://influxdb:8086
+    isDefault: true
+    jsonData:
+      version: Flux
+      organization: training-org
+      defaultBucket: training
+      tlsSkipVerify: true
+    secureJsonData:
+      token: training-super-secret-token-2026

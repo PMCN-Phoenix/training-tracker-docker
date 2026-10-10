@@ -1,0 +1,226 @@
+[
+ {
+  "from": 1.78,
+  "to": 3.2,
+  "sid": 1,
+  "location": 2,
+  "content": "戴好帽子口罩",
+  "music": 0.0
+ },
+ {
+  "from": 3.2,
+  "to": 4.26,
+  "sid": 2,
+  "location": 2,
+  "content": "穿好白大褂",
+  "music": 0.0
+ },
+ {
+  "from": 5.34,
+  "to": 6.56,
+  "sid": 3,
+  "location": 2,
+  "content": "考官你好",
+  "music": 0.0
+ },
+ {
+  "from": 6.56,
+  "to": 8.26,
+  "sid": 4,
+  "location": 2,
+  "content": "我是本场考生",
+  "music": 0.0
+ },
+ {
+  "from": 8.26,
+  "to": 11.94,
+  "sid": 5,
+  "location": 2,
+  "content": "接下来我将进行脉搏测量",
+  "music": 0.0
+ },
+ {
+  "from": 11.94,
+  "to": 13.72,
+  "sid": 6,
+  "location": 2,
+  "content": "扰动脉",
+  "music": 0.0
+ },
+ {
+  "from": 14.8,
+  "to": 18.84,
+  "sid": 7,
+  "location": 2,
+  "content": "以首先进行七步洗手法",
+  "music": 0.0
+ },
+ {
+  "from": 19.18,
+  "to": 20.04,
+  "sid": 8,
+  "location": 2,
+  "content": "您好",
+  "music": 0.0
+ },
+ {
+  "from": 20.04,
+  "to": 22.14,
+  "sid": 9,
+  "location": 2,
+  "content": "请问您是患者某某吗",
+  "music": 0.0
+ },
+ {
+  "from": 22.14,
+  "to": 23.88,
+  "sid": 10,
+  "location": 2,
+  "content": "我是您的管床医生",
+  "music": 0.0
+ },
+ {
+  "from": 23.88,
+  "to": 28.02,
+  "sid": 11,
+  "location": 2,
+  "content": "接下来由我对您进行脉搏测量",
+  "music": 0.0
+ },
+ {
+  "from": 28.76,
+  "to": 33.68,
+  "sid": 12,
+  "location": 2,
+  "content": "首先以食指中指环指三指并拢指腹",
+  "music": 0.0
+ },
+ {
+  "from": 33.68,
+  "to": 37.989,
+  "sid": 13,
+  "location": 2,
+  "content": "至于背剪纸的腕部桡动脉处",
+  "music": 0.0
+ },
+ {
+  "from": 38.95,
+  "to": 41.35,
+  "sid": 14,
+  "location": 2,
+  "content": "以适当压力触诊桡动脉",
+  "music": 0.0
+ },
+ {
+  "from": 41.35,
+  "to": 43.89,
+  "sid": 15,
+  "location": 2,
+  "content": "触诊时间至少20秒",
+  "music": 0.0
+ },
+ {
+  "from": 43.89,
+  "to": 45.63,
+  "sid": 16,
+  "location": 2,
+  "content": "属其脉率",
+  "music": 0.0
+ },
+ {
+  "from": 47.8,
+  "to": 50.32,
+  "sid": 17,
+  "location": 2,
+  "content": "每分钟约75次",
+  "music": 0.0
+ },
+ {
+  "from": 52.38,
+  "to": 56.9,
+  "sid": 18,
+  "location": 2,
+  "content": "对侧桡动脉同样进行对比检查",
+  "music": 0.0
+ },
+ {
+  "from": 59.46,
+  "to": 61.62,
+  "sid": 19,
+  "location": 2,
+  "content": "每分钟75次",
+  "music": 0.0
+ },
+ {
+  "from": 64.119,
+  "to": 64.999,
+  "sid": 20,
+  "location": 2,
+  "content": "报告考官",
+  "music": 0.0
+ },
+ {
+  "from": 66.039,
+  "to": 68.979,
+  "sid": 21,
+  "location": 2,
+  "content": "该患者卖绿检查",
+  "music": 0.0
+ },
+ {
+  "from": 68.979,
+  "to": 70.999,
+  "sid": 22,
+  "location": 2,
+  "content": "每分钟75次",
+  "music": 0.0
+ },
+ {
+  "from": 70.999,
+  "to": 73.179,
+  "sid": 23,
+  "location": 2,
+  "content": "脉搏的节律",
+  "music": 0.0
+ },
+ {
+  "from": 73.179,
+  "to": 78.39,
+  "sid": 24,
+  "location": 2,
+  "content": "紧张度强弱及波形变化无异常",
+  "music": 0.0
+ },
+ {
+  "from": 79.19,
+  "to": 81.75,
+  "sid": 25,
+  "location": 2,
+  "content": "动脉壁弹性良好",
+  "music": 0.0
+ },
+ {
+  "from": 84.06,
+  "to": 84.66,
+  "sid": 26,
+  "location": 2,
+  "content": "你好",
+  "music": 0.0
+ },
+ {
+  "from": 84.66,
+  "to": 85.58,
+  "sid": 27,
+  "location": 2,
+  "content": "帮你嗯",
+  "music": 0.0
+ },
+ {
+  "from": 85.58,
+  "to": 86.7,
+  "sid": 28,
+  "location": 2,
+  "content": "穿好衣服",
+  "music": 0.0
+ }
+]

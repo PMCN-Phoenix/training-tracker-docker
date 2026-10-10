@@ -1,0 +1,813 @@
+[00:00] [Music]
+[00:12] welcome to work matters where we explore
+[00:13] what leaders can do to make work more
+[00:16] productive valuable meaningful and
+[00:19] impactful I am your host Thomas burles
+[00:21] in today's episode of work matters we
+[00:23] take a look at the theory of
+[00:26] constraints my guest is Ramy G rat he is
+[00:29] the CEO of G rat Consulting he is
+[00:30] considered one of the most most
+[00:33] influential leaders of the TOC movement
+[00:34] specifically with regards to applying it
+[00:36] to sales and marketing as well as the
+[00:39] education system he also has extensive
+[00:41] Global Experience in a number of
+[00:43] Industries including retail Automotive
+[00:46] textile chemical and services in our
+[00:48] discussion we explore what the theory of
+[00:50] consts is and how companies have
+[00:53] successfully implemented it what kind of
+[00:55] challenges can be addressed through to
+[00:58] and how to impacts managers and
+[01:00] employees we talk about what the typical
+[01:03] imigration challenges are and how to
+[01:05] differs from other Improvement
+[01:07] methodologies I hope you enjoyed this
+[01:09] conversation and if you do please don't
+[01:11] forget to like subscribe and share it
+[01:13] with at least one other
+[01:16] colleague welcome to the work matters
+[01:18] podcast thank you very much well I'm
+[01:21] happy to be here I'm a huge fan of your
+[01:24] father's work your firm is famous for
+[01:27] the theory of constraints your dad wrote
+[01:28] a very famous book the goal among other
+[01:30] books that he wrote so the theory of
+[01:34] constraints what's the big idea so the
+[01:37] the big idea is basically to maintain
+[01:40] focus and and I don't think I need to
+[01:42] elaborate to what extent today
+[01:44] especially in today's reality it's very
+[01:46] difficult to maintain Focus there are so
+[01:49] many requirements so many temptations
+[01:52] that lead you astray so thec is all
+[01:55] about understanding where are the key
+[01:57] constraints the key focal points that
+[02:00] really governs the flow of work in the
+[02:02] system and when you find these
+[02:04] constraints you should figure out how
+[02:06] you deal with them in a better way how
+[02:08] to structure the organization to enable
+[02:10] you to get more of these constraints and
+[02:12] then get more throughput so that's like
+[02:15] the big idea behind it sounds it sounds
+[02:18] very simple but my father always said
+[02:21] simple is not easy I think it's very
+[02:24] true so could you give us an example for
+[02:26] maybe a company that you worked with
+[02:28] that applied this Theory I'll give you
+[02:30] several examples just so you see the
+[02:32] broad spectrum of where constraints
+[02:34] could be one company for example in the
+[02:37] heavy engineering section industry they
+[02:40] are making a high press vessels like
+[02:44] boilers that goes into refineries into
+[02:47] nuclear facilities and things like that
+[02:50] and obviously it's a giant operation
+[02:52] with a lot of assembly that goes into
+[02:54] making these products but one of the key
+[02:55] constraint they have in their flow is in
+[02:57] the welding section when you weld the
+[03:00] whole things together and and when we
+[03:03] focus there know this way to see
+[03:05] bottlenecks or constraints is that there
+[03:07] is a lot of working process that piles
+[03:09] up in front of them so that's that was
+[03:13] very obvious and when you're able to
+[03:15] focus and thinking how you can get much
+[03:17] out of this and by the way a lot of the
+[03:20] work was not with the welders but with
+[03:21] the previous sections and how they
+[03:23] brought the work to the welders so we
+[03:25] wanted to make sure that they have
+[03:26] something that is called full kit so
+[03:28] once they start welding they can finish
+[03:30] the job nothing will be missing and that
+[03:33] they know the specs and all of that and
+[03:34] and when you are able to get let's say
+[03:37] 20% out of a bottleneck then the entire
+[03:39] organization makes 20% more so this is
+[03:42] one example another example from a very
+[03:45] different industry is an airline we're
+[03:47] working with Delta Airlines for example
+[03:50] and over there constraints could be very
+[03:52] different things for example a
+[03:54] constraint in normal operations could be
+[03:56] the gate how you get more flights out of
+[04:00] a gate another constraint when you have
+[04:01] other issues like today in today's
+[04:03] environment it's no longer the gates
+[04:05] it's not even the airplanes that are the
+[04:08] constraints but the crew and the pilots
+[04:10] coming out of covid and then you need to
+[04:12] ask yourself how do we structure the
+[04:14] whole schedule the whole thing to get
+[04:16] more flights giving my new constraints
+[04:20] which are pilots and things like that so
+[04:21] the constraints could be if you talk
+[04:23] about retail environments the constraint
+[04:25] will be how do we figure out to have the
+[04:27] right merchandise at the right place at
+[04:30] the right time that's the key
+[04:33] constraint so whenever you focus on the
+[04:34] key constraints and you get much more
+[04:36] out of it the organization can make
+[04:39] substantial improvements it's a matter
+[04:42] of focus so what kind of challenges lend
+[04:44] themselves to the application of to and
+[04:46] and maybe also what challenges don't
+[04:48] lend themselves right is this like a
+[04:50] mostly an operational topic is this
+[04:52] inside the four walls of an organization
+[04:55] or does it also apply to let's say
+[04:57] constraints in the marketplace the
+[05:00] constraints do not have to be are not
+[05:02] always are internal they're not always
+[05:04] operational there are there are Market
+[05:07] constraints so if if many companies that
+[05:09] we work with that what really constrains
+[05:12] their growth is not their internal
+[05:15] operation but how to develop better
+[05:17] value proposition so they can sell more
+[05:19] and and have healthy sales that give
+[05:22] them right product right profits for
+[05:24] this you need to focus not on your
+[05:25] constraints but actually on your
+[05:28] customers limitations because if you
+[05:30] want to really come up with a
+[05:32] breakthrough product or value
+[05:35] propositions my father said exceptional
+[05:37] value is provided when you're able to
+[05:39] remove a significant limitation for the
+[05:41] customer in a way that was not possible
+[05:43] before so in order to do that you need
+[05:46] to focus on customers limitations and
+[05:48] think how to remove them and and a lot
+[05:51] of our work is in this field as well
+[05:53] what's the impact of doing this how does
+[05:54] this impact the organization how does it
+[05:56] impact sector managers how does it
+[05:58] impact on
+[06:01] employees so the financial impact first
+[06:03] of all is quite clear if you are able to
+[06:05] debotton like something that really
+[06:07] clogs the flow and get much more
+[06:09] throughput and sell it through boot then
+[06:11] obviously you have more healthier bottom
+[06:14] line Etc but there are a lot of
+[06:16] implications also on the work
+[06:19] environment let's say on the culture
+[06:20] because when you're not dealing with the
+[06:23] constraints in the right way and many
+[06:25] times it happens when each section has a
+[06:27] silo they're working and they're looking
+[06:29] only at their own link they're not
+[06:32] looking at the impact as a whole then
+[06:34] this creates a lot of conflicts a lot of
+[06:36] conflicts between different sections of
+[06:39] the system different functions there are
+[06:41] conflicts even internal conflicts you
+[06:43] look at workers and they know that what
+[06:45] they do is meaningless there's no impact
+[06:47] on the overall performance and this
+[06:50] frustration seeks an outlet eventually
+[06:53] so a lot of iterations and things like
+[06:58] that so if you are able to fix the flow
+[07:00] if you're able to debot if you're able
+[07:01] to get much more if you're able to
+[07:03] synchronize everything based on your
+[07:06] constraints you see also a lot of the
+[07:08] dis my father used to call it engines of
+[07:11] disharmony a lot of those engines
+[07:13] disappear what are some typical
+[07:15] challenges in applying this what are
+[07:18] like some road blocks that you run into
+[07:21] in environments that are more project
+[07:25] oriented so engineer design service
+[07:28] organizations where the work is less
+[07:30] repetitive and there are are a lot of
+[07:32] time these constraints that I'm talking
+[07:34] about we refer to them as obstacles to
+[07:36] flow in these environments one of them
+[07:38] one of the major ones we call it bad
+[07:41] multitasking and bad multitasking
+[07:43] happens when people switch between tasks
+[07:46] without finishing any of the tasks now
+[07:48] when people hear about it and agree with
+[07:50] us then everybody say Okay so let's
+[07:52] prioritize and say which task needs to
+[07:54] be done and the rest will put on hold
+[07:57] and everything is okay but we know that
+[07:59] this is just a partial solution you
+[08:01] priorities will not solve the problem
+[08:04] because the reason why people multitask
+[08:07] switching task all the time is not
+[08:09] because they like to do it they do it
+[08:12] because priorities change so if I'm
+[08:14] setting priorities now tomorrow I will
+[08:17] change them and I'm bring back the bad
+[08:19] multitasking so to really solve bad
+[08:21] multitasking you you need to put
+[08:24] discipline in in place to restrict the
+[08:26] level of open assignments of open work
+[08:29] in the system so you each design or
+[08:31] engineer is working let's say on 20
+[08:33] assignments in parallel you say no
+[08:36] they're only allowed to work on five and
+[08:37] only if they complete one we will
+[08:41] allocate and assign and release another
+[08:45] one instead and but this is again simple
+[08:48] to understand but very difficult to
+[08:50] implement there are a lot of challenges
+[08:53] because everybody will agree that we
+[08:56] need to prioritize and put things on
+[08:58] hold and only release them when things
+[09:00] are open as as long as their assignment
+[09:03] is in the pipeline in the funnel so
+[09:05] everybody agree as long as you don't put
+[09:08] their assignments on hold but once you
+[09:10] start to say no no guys then if
+[09:12] everything is open we're not changing
+[09:14] anything then you see a lot of
+[09:16] challenges and and even if people agree
+[09:19] and we put assignments on holes and we
+[09:22] focus on the right things then very
+[09:25] quickly you you get people say wait a
+[09:27] minute we need to change something
+[09:31] urgent comes stop job do something else
+[09:33] they bring back the chaos and now so we
+[09:35] need to really sustain this discipline
+[09:37] and I'm just talking about a simple one
+[09:40] one element of a solution that we have
+[09:42] for because remember when when you're
+[09:44] going to achieve breakthrough results
+[09:46] you you have to change some fundamental
+[09:49] practices processes otherwise why would
+[09:51] things be different you need to always
+[09:54] ask yourself why these rooted practices
+[09:56] that create all these disruptions why
+[09:58] they are in place what brought them to
+[09:58] be
+[10:02] okay like bad multitasking what what
+[10:03] brought it to beats because people want
+[10:06] to start all work as soon as
+[10:09] possible that's why they keep pushing
+[10:11] more assignments into the pipeline okay
+[10:13] and that that's a challenge to change
+[10:16] it's it doesn't happen
+[10:17] overnight I think it's really
+[10:19] interesting what you just said because
+[10:21] it also makes me think about the impact
+[10:23] of fragmented workflows right because
+[10:25] you talked about bad multitasking which
+[10:27] is basically people never finish a task
+[10:28] but I think probably the other obstacle
+[10:31] is if work is so highly fragmented that
+[10:33] the entire task is broken up over like
+[10:36] 20 30 departments or hundreds of people
+[10:37] which makes it really impossible to
+[10:39] coordinate all that tightly and create
+[10:41] that flow right so is one of like the
+[10:44] the Solutions in your toolkit also to
+[10:47] expand the responsibilities of people so
+[10:48] that they maybe do an entire work
+[10:51] product from start to finish okay that's
+[10:53] definitely one of the solutions one of
+[10:56] the problems when you over fragment the
+[11:00] work to very specific tasks like most
+[11:02] likely you will have a lot of challenges
+[11:02] in
+[11:06] synchronization because will now you you
+[11:09] leave people the the freedom to choose
+[11:12] which task to Tak next in their own okay
+[11:13] but now what the likelihood that they
+[11:16] will pick the right work that is needed
+[11:18] for you to finish the entire project on
+[11:21] time many times these local priorities
+[11:23] are not aligned with global priority
+[11:27] what needs to be in place for to to have
+[11:32] an impact like any methodology that is
+[11:35] aiming to be holistic because the power
+[11:37] of to is to focus on the right things to
+[11:39] get more through put out of the entire
+[11:40] organization or
+[11:43] system you need as a condition you need
+[11:45] the buying and the collaboration of the
+[11:45] top
+[11:49] management because if you don't have it
+[11:50] I mean you can still apply Toc but you
+[11:53] will apply it in your own pocket and you
+[11:54] will get more throughput but more
+[11:57] throughput from your PO from your Silo
+[11:58] okay if you want a Global Effect it has
+[12:01] to be be blessed by the top management
+[12:04] it's quite a strong condition okay it's
+[12:07] not one one of the advantages other Tech
+[12:09] methodologies have like clean Etc
+[12:12] everybody can do it in their own
+[12:15] area and that's very nice very good I'm
+[12:16] not against it but a lot of these local
+[12:18] Improvement then do not translate to a
+[12:20] global Improvement it's like other
+[12:22] Improvement methodologies I I grew up
+[12:24] with the whole lean lean6 Sigma
+[12:27] framework is to in competition with
+[12:30] lean6 Sigma is it complimentary what's
+[12:30] the
+[12:33] relationship I think that there are a
+[12:36] lot of tools in L and to that are
+[12:39] overlapping but what is important is is
+[12:42] the way I view it we are using TC to
+[12:43] look at the system as a whole and
+[12:45] understand where to focus when you know
+[12:47] where to focus you can apply other
+[12:50] methodologies on this area Sig Sigma or
+[12:52] Lin whatever it is to get much more out
+[12:55] of it there's no conflict in this manner
+[12:57] okay the conflict really is on the
+[13:01] principles of where to apply the tools
+[13:03] okay if you just want to fix any problem
+[13:05] that comes your way and do continuous
+[13:09] Improvement everywhere then that's fine
+[13:12] but then you rely on like chance that
+[13:13] you will hit the constraint you
+[13:15] described earlier how T can be applied
+[13:17] at the Enterprise level looking overall
+[13:19] at the entire system for Delta and
+[13:22] optimizing access to Gates or whatever
+[13:24] it might be but what about if I'm like a
+[13:26] middle manager in a large company and
+[13:28] and I'm responsible for a function or a
+[13:30] department can I apply Toc is like at
+[13:34] the micro level as well you can apply TC
+[13:35] the micro level but you will the
+[13:38] throughput you unless you are a
+[13:40] constraint for the entire organization
+[13:42] the throughput you will get is the
+[13:44] throughput from your
+[13:47] subsystem by applying it so every system
+[13:49] can look at its own operation and ask
+[13:50] where is the constraint in my own
+[13:52] operation and by dealing with it we'll
+[13:56] get more throughput for its defined
+[13:59] system of course you can do it this way
+[14:01] but again to get the Maximum Impact if
+[14:02] you're looking at an organization as a
+[14:05] whole you need to look at it as a whole
+[14:07] but a lot of projects we have are done
+[14:10] on a department level or unit level
+[14:11] usually the first thing we check though
+[14:13] is that this unit or department is
+[14:15] really impacting the entire performance
+[14:16] of the
+[14:19] organization otherwise you can get more
+[14:20] improvements but then they will not
+[14:23] materialize into more profit for the
+[14:25] whole organization the idea Toc has been
+[14:29] around for four five decades
+[14:31] right quite a while we celebrate this
+[14:33] year the 40th anniversary of the book
+[14:36] The Go wonderful which is actually as I
+[14:37] said before it's one of my favorite
+[14:39] books probably one of the top 10 books
+[14:41] on on the business side that I've ever
+[14:42] read if people haven't read it I can
+[14:43] highly recommend it it's a fun read
+[14:45] because it's written as a fable telling
+[14:47] a the story of a real manager who
+[14:49] struggles to get more out of the system
+[14:51] and to save his plans the idea has been
+[14:54] around for four decades now so why
+[14:57] haven't more people heard about this
+[14:59] first of all there are many people that
+[15:01] did hear about it so it's not such a
+[15:03] secret anymore like it used to be in the
+[15:05] past I think most graduates from
+[15:06] Business
+[15:09] Schools have at least in one of the
+[15:12] courses one of their professors
+[15:14] recommended this book as a as part of
+[15:16] the reading list
+[15:19] so in terms of awareness to the theory I
+[15:22] think that it's quite high and more in
+[15:24] the manufacturing side project side Less
+[15:27] in in let's say Tech
+[15:30] Etc and but if there there are a lot of
+[15:33] implementations of TLC that I hear about
+[15:35] especially on the project management
+[15:38] side software development side Etc is
+[15:40] okay a lot of people read the book the
+[15:43] goal is considered to be one of the top
+[15:44] five best sellers in history of
+[15:44] management
+[15:48] books but how many people from the
+[15:50] number of people who read the book how
+[15:52] many really applied it for me that's the
+[15:54] key question and it goes back to what I
+[15:57] said simple is not
+[16:00] easy yeah so I would imagine that one of
+[16:02] the key challenges is to figure out
+[16:04] where the bottleneck is in the first
+[16:07] place and how do you go about that in my
+[16:08] experience a lot of companies don't
+[16:11] really have really good process level
+[16:14] data they got Financial metrics but they
+[16:16] don't really have operational metrics on
+[16:18] cycle time and through port and all we
+[16:19] come and ask them where is your
+[16:22] constraint and they say Okay depends
+[16:23] which day you're coming to and asking
+[16:26] this question seems to be moving all the
+[16:28] in reality the constraint cannot move
+[16:29] all the time
+[16:31] you have a weak link somewhere and it
+[16:34] will not change overnight so when
+[16:36] companies struggle to find their
+[16:39] constraint probably it means it's an
+[16:42] indication that there is some policy or
+[16:45] practice let's say that disrupt the flow
+[16:47] to the point that creates a bottleneck
+[16:51] in different parts of the Flow by Design
+[16:54] because of this policy like working in
+[16:56] very large batches like delaying the
+[16:59] risky work in a project later on so
+[17:01] everything you do tasks that are less
+[17:04] risky of of discovering mistakes and
+[17:06] then you discover all mistakes later on
+[17:07] in the project suddenly the constraint
+[17:10] is over there but it's all coming from
+[17:12] practices and and of course we have our
+[17:15] tools and Analysis methodologies that we
+[17:18] use to find these practices to to sit
+[17:20] with with the management and understand
+[17:23] where are the challenges and and and
+[17:25] understand where is the we call it the
+[17:29] Vicious Cycle that Propel these problem
+[17:31] s and keep them in a way that we keep
+[17:33] facing them and this vicious cycle will
+[17:36] also show us these practices that move
+[17:37] the bottlenecks
+[17:39] around also you already mentioned that
+[17:41] once you solve like the the constraint
+[17:44] the bottleneck what typically happens is
+[17:46] that you find the next bottleneck and
+[17:48] once you solve for that one you find the
+[17:50] next bottleneck so in a way this is like
+[17:52] an ongoing continuous Improvement
+[17:54] Journey right it's not like a oneand
+[17:57] done this is absolutely true you can
+[18:00] control it to some extent stands you can
+[18:02] already predict what will be your next
+[18:05] constraint and you don't need to wait
+[18:07] you take already actions to prevent it
+[18:08] from becoming the constraint because
+[18:10] when your constraint moves the your
+[18:12] entire Focus moves your entire
+[18:14] synchronization moves constraint is not
+[18:16] just a bottom leg that you need to open
+[18:18] the constraint is for us is also
+[18:20] something we call a drum it's it's
+[18:23] dictate the pace of releasing what work
+[18:25] in the system but con but you can
+[18:26] predict them it's not happening by
+[18:29] surprise if how to analyze the system
+[18:31] the real frustrations I see with
+[18:33] companies is that the constraints are
+[18:36] moving from Market to operations so many
+[18:38] times you have like bottom legs inside
+[18:41] and you trying you struggle to deliver
+[18:43] you know the goods on time or faster or
+[18:46] reliably and you put a lot to improve
+[18:48] flow but then suddenly you get excess
+[18:50] capacity and you cannot sell it because
+[18:52] the bottleneck is outside you have a
+[18:54] market constraint then you focus a lot
+[18:56] on on getting more sales and you
+[18:59] immediately having this is really a
+[19:01] are creating a lot of you talked about
+[19:03] frustration of people this really is
+[19:06] frustrating creating a lot of disharmony
+[19:06] in
+[19:09] organizations a lot of finger point so I
+[19:11] guess one way to look at this to say you
+[19:13] have an you have a system you find the
+[19:15] bottleneck you fix that bottleneck
+[19:16] through some operational Improvement
+[19:19] let's say right and then you tackle the
+[19:21] next bottleneck but I'm wondering if
+[19:23] there's also like a design element to
+[19:25] that right that actually the way we
+[19:26] structured the
+[19:29] organization is is really the root cause
+[19:31] right it's the policies it's all
+[19:33] budgeting framework right that drives
+[19:35] dysfunctional behaviors right to what
+[19:37] extent do you find that it's right
+[19:39] management decisions of the past right
+[19:41] that really the root cause of flow
+[19:44] issues in the present so obviously
+[19:46] anything that you see in reality
+[19:48] decisions and actions what happened in
+[19:50] the past happened in the past I need to
+[19:51] understand it just to know how to avoid
+[19:54] it from happening again I I start with
+[19:57] the way what is happening now and what
+[19:59] why we keep facing it
+[20:01] not why it happened but why we keep
+[20:03] facing it this is what I call the
+[20:05] Vicious Cycle so for example let's take
+[20:07] the example of bad multitasking that I
+[20:10] spoke about so because we have a lot of
+[20:12] bad multitasking we switch task without
+[20:14] completing any of the tasks then the
+[20:17] duration of every task gets much longer
+[20:20] and new task are coming so it take us
+[20:22] longer to complete the task and new task
+[20:24] are coming it means that the backlog of
+[20:27] task is growing rapidly which means that
+[20:29] now we'll be under more pressure to
+[20:32] release tasks to work because they're
+[20:34] waiting in the backlog okay so you push
+[20:37] even more tasks into the pipeline
+[20:39] basically loading resources people with
+[20:42] more tasks now they will be even in more
+[20:43] hectic bad
+[20:45] multitasking okay and then it's a
+[20:47] vicious cycle this is happening because
+[20:49] the par log is big and because we have
+[20:51] an assumption that we need to release
+[20:53] task as soon as
+[20:55] possible okay and then this is where I
+[20:57] need to focus this the way to solve it
+[20:59] is to restrict the release and to
+[21:02] release it in a control manner Etc the
+[21:04] idea again is is not to look so much to
+[21:06] the past but to ask yourself why do I
+[21:08] keep facing the problems if I were to
+[21:10] start a business from scratch I'm a fast
+[21:12] growing business and I want to design
+[21:15] the organization to scale seamlessly
+[21:16] right besides like waiting until the
+[21:18] constraints show up and then trying to
+[21:20] tackle them but is there like a design
+[21:22] approach design the organization for
+[21:25] flow Let Me Maybe pinpoint to two
+[21:28] elements in what you said when you spoke
+[21:31] about about I want to set up a new
+[21:33] business then the first thing that I
+[21:35] will say before you design the operation
+[21:37] of the business is to really ask the
+[21:40] tough question what is the value that
+[21:43] you give Focus there first of all
+[21:46] because if you don't get this right then
+[21:48] you can structure your operation as much
+[21:49] as you want you have a lot of conflicts
+[21:51] later on a lot of problems that will
+[21:53] come from the struggle to get more sales
+[21:55] in the competition in the red ocean and
+[21:58] all of that I see a lot of organizations
+[22:00] that struggle to scale especially
+[22:02] because work in this organization is
+[22:06] less standard so it's not so repetitive
+[22:08] if it's a repetitive work then scaling
+[22:10] is just a matter of buying more machines
+[22:12] in the right time Etc of course it's an
+[22:15] investment Vision but the challenge is
+[22:19] monetary challenge the in organizations
+[22:22] that struggle to that the work is not
+[22:24] standard like highly engineered
+[22:26] organizations or service organizations
+[22:30] 
+[22:32] in these organizations the struggle to
+[22:35] scale is not monetary it's something
+[22:35] different
+[22:40] because if work is not standard it means
+[22:43] that your operations undoubtly relies on
+[22:45] experienced people let's call them
+[22:47] experts these are people with
+[22:49] accumulated expertise that know how to
+[22:52] manage this non-standard work how to
+[22:54] make the right judgment calls now these
+[22:56] people obviously are scarce they're not
+[22:59] easily found and they takes time to
+[23:02] develop them now if you want to scale it
+[23:03] means by definition that you will
+[23:06] introduce an influx of non-standard work
+[23:07] into the
+[23:10] system immediately these experts will
+[23:11] become a
+[23:15] bottleneck now work cannot wait for them
+[23:19] to do the job which means that
+[23:21] unavoidably less experienced people will
+[23:23] now need to do the job and they will not
+[23:25] be able to wait the experts to guide
+[23:27] them if less experienced people need to
+[23:29] do the job what do you think will have
+[23:29] mistakes
+[23:36] obviously now who needs to fix the
+[23:38] mistakes the experts the ones who are
+[23:41] super busy so now in addition to their
+[23:43] daily job and in addition to train the
+[23:45] new recruits they also needs to fix all
+[23:48] these mistakes now they're even more
+[23:50] busy even more work will be done by less
+[23:53] experienced people and the Vicious Cycle
+[23:55] continues and then everybody in this
+[23:57] organization will cry for standard
+[24:00] standardize in order to scale and but
+[24:02] then there is a mistake we think that
+[24:05] standardization is writing the SOP
+[24:07] standard standard operating writing the
+[24:10] manual okay work in this organization is
+[24:13] not standard so it's impossible to write
+[24:16] a manual that will cover all cases and
+[24:18] when you try to do it who needs to write
+[24:20] the manual again the experts the one
+[24:22] that are super busy and even if they
+[24:24] write it there are so many exceptions
+[24:26] now and people will stop using it and
+[24:28] you're back into the Vicious Cycle
+[24:31] standardization is not just about
+[24:33] writing a manual or an sop that's maybe
+[24:36] the end goal standardization really is
+[24:39] your ability to rely Less on
+[24:42] Experts that's standardization and the
+[24:43] less you rely them the more you can
+[24:46] scale without compromising your quality
+[24:48] and there is a whole methodology now how
+[24:50] to go about it which is basically
+[24:52] dealing with a constraint to scale your
+[24:55] experts you first need to ask yourself
+[24:57] what is the job that only they can do
+[25:00] what is this expertise that require
+[25:03] judgment and then after you define it
+[25:05] look at what they're doing and surprise
+[25:08] surprise you will see let's say not 100%
+[25:10] of their time is this
+[25:15] work I'm being mod humble now right you
+[25:17] will be able to see that you can at
+[25:20] least take 20 30% offload from them
+[25:22] especially if you promoted them to be
+[25:25] managers a lot of their work will be in
+[25:26] managing people not in doing this
+[25:29] expertise to promote them I'm not saying
+[25:32] you should not but try to do it without
+[25:34] adding non expertise job to their
+[25:37] portfolios once once you're able to find
+[25:39] this non expertise job they're doing and
+[25:42] to offload it from them now comes the
+[25:45] toughest part in the process the most
+[25:47] challenging part you need to overcome
+[25:50] the temptation to fill up the capacity
+[25:52] of the expert because that's a
+[25:54] Temptation they are bottleneck so if I'm
+[25:56] able to free up the work let me bring
+[25:59] them more work to do
+[26:00] that's a mistake because if your end
+[26:03] goal is to scale then you then it means
+[26:05] that you should not look on the most
+[26:05] shortterm
+[26:08] throughput you need to build
+[26:10] organization to scale now right you need
+[26:13] to take the capacity that you freed up
+[26:17] from them and use it for them to prepare
+[26:19] the less experienced people we call it
+[26:22] in Toc to full kit to prepare the less
+[26:26] experienced people to do a specific job
+[26:27] and it could be the preparation is not
+[26:29] only the beginning it could be with
+[26:32] several Milestones that I check the work
+[26:34] right but this is how you ramp up the
+[26:36] less experienced people to do the job
+[26:39] right without with less mistakes and to
+[26:42] scale okay I told you now is just part
+[26:43] of the process but that's how you deal
+[26:46] with constraint that's how you structure
+[26:48] an organization to
+[26:51] scale and of course one of the
+[26:53] biggest things that you can do if you
+[26:56] can do when is to try not to scale not
+[26:58] to introduce business that will require
+[27:01] much of their expertise so try not to to
+[27:04] go to totally new markets or things like
+[27:06] that will just to increase the
+[27:09] non-standard work that comes in the old
+[27:12] adage is knowledge is power and and if I
+[27:15] were like a very experienced operator I
+[27:17] probably like the idea that non-mission
+[27:19] critical work is being taken off my
+[27:21] plate so I can focus on where I have the
+[27:24] most expertise but I can also see that
+[27:26] people probably resist to full kit the
+[27:28] rest of the work because it's the min is
+[27:31] their influence how do you overcome that
+[27:33] resistance when I say standardizing the
+[27:35] work I'm not saying that you make the
+[27:37] work repetitive because it's not you
+[27:39] cannot force you cannot impose
+[27:42] standardization on non-standard work
+[27:44] it's nonstandard it will take maybe in
+[27:47] the future it will become so for me when
+[27:49] I say non stardard it means that I
+[27:51] reduce the dependence of the experts to
+[27:54] do the job now you may say maybe the the
+[27:57] experts will resist they lose power Etc
+[27:59] but in most organizations the experts
+[28:03] now are so overloaded they are so they
+[28:05] themselves feel unproductive because of
+[28:08] that super busy but not productive we
+[28:10] don't see that resistance they would be
+[28:11] very happy that others will make less
+[28:13] mistakes that they need to fix believe
+[28:16] me okay when we ask them to full kit to
+[28:18] prepare with others actually it give
+[28:21] them power okay they will be the one
+[28:23] that will dictate how others will do the
+[28:25] job and we prepare them and as I
+[28:27] mentioned it's several Milestone during
+[28:29] it's not just at the beginning this is
+[28:31] not diminishing their
+[28:33] power and I'll tell you a secret most of
+[28:35] them also hate to be managers so if
+[28:36] you're able to take some of these
+[28:38] managerial you won't see a lot of
+[28:40] resistance it's resistance in our minds
+[28:42] in the manager Minds not in their mind I
+[28:44] would also imagine that if you go down
+[28:48] this journey and you standardize right
+[28:51] more of the work you systematize it that
+[28:54] you might also need less managers right
+[28:56] because if the work flow is more
+[28:58] predictable if the work flow is even
+[29:00] you need less managers to tell people
+[29:02] what to do fly by wire right micromanage
+[29:06] the process do you see that's like Toc
+[29:08] also contributes to maybe like flatter
+[29:10] organization why do we need
+[29:13] managers sometimes I when I speak with
+[29:15] the people in in lectures Etc I asked
+[29:17] this question why do we and to
+[29:20] generalize all the answers you get you
+[29:22] will come to three challenges that needs
+[29:26] to be managed one is complexity that you
+[29:27] have all these different elements that
+[29:30] needs to synchronize one is
+[29:32] uncertainty that you cannot eliminate
+[29:34] uncertainty it needs to be managed
+[29:36] uncertainty in demand un certainty in
+[29:39] the variability of outputs Etc and
+[29:40] another one is we need to manage
+[29:43] conflicting requirements by different
+[29:47] stakeholders customers suppliers Etc
+[29:48] conflicting requirements in in the
+[29:51] product design like it needs to be cheap
+[29:53] it also needs to have a high quality
+[29:56] whatever it is so the more complexity
+[29:58] the more insury the more more
+[29:59] conflicting requirements the more you
+[30:02] need managers if you are able to deal
+[30:03] better with complexity and creat a
+[30:05] synchronization if you're able to deal
+[30:07] better with
+[30:09] uncertainty to put the right processes
+[30:11] in place and if you're able to resolve
+[30:14] the key conflicts you don't need as man
+[30:16] managers as much as before which is a
+[30:18] good thing wonderful Ramy thank you so
+[30:20] much for coming on the show and and talk
+[30:22] to us the theory of constraint I want to
+[30:24] emphasize the need to read this book the
+[30:26] goal I think it's a I think it's a great
+[30:29] read what are some other resource for
+[30:31] people to learn more about Theory
+[30:33] constraints let me Focus only on one
+[30:36] because it's a very recent book that was
+[30:39] launched a year ago written by my sister
+[30:42] by the way and the book is called G
+[30:47] rules of flow I have it here G rules of
+[30:50] flow and so if you are intrigued about
+[30:53] bad multitasking about standardization
+[30:55] issues about how you man full kit
+[30:58] concept how you manage projects work
+[30:59] how do you manage environments where
+[31:03] work is less standard less repeatable
+[31:04] and you still need to get a lot of
+[31:06] projects done and faster with the same
+[31:09] resources that's the book for you so and
+[31:11] it's also written as a novel by the way
+[31:13] Thomas when I read your book fixing work
+[31:15] which I really liked as well I thought
+[31:17] these two books are complimentary thank
+[31:19] you so much for for the kind words on
+[31:22] the book and we'll put links to right
+[31:24] the various books and also your website
+[31:27] into the show notes for our readers
+[31:28] listen thank you so much much for coming
+[31:30] on the show really enjoyed the
+[31:32] conversation thank you very much
+[31:34] goodbye we hope you enjoyed this
+[31:37] discussion if you did be sure to
+[31:40] subscribe like share or comment until
+[31:44] next time let's make work matter
+[31:44] [Music]

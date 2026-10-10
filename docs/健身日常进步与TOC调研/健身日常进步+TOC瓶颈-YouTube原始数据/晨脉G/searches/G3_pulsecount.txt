@@ -1,0 +1,15 @@
+QUERY: ytsearch12:count pulse 60 seconds irregular heartbeat vital signs
+COUNT: 12
+======================================================================
+vmVjnpTv_Nk | 218s | RegisteredNurseRN | How to Check Your Pulse | Finding the Radial Pulse
+XpFVuPwbMso | 125s | sbcccna | 06 Counts Radial Pulse
+dyAYN1weM0c | 352s | nclexuprep | Lesson 3: Vital Signs Measurent And Interpretation
+7xoTzpSKdpQ | 134s | Solution- Pharmacy | How to Check Pulse Rate or Heart Rate | Determination of Pulse Rate | ENGLISH
+z6VsUniAVGI | 220s | SimpleNursing | How to Calculate Heart Rate on ECG: Easy Steps to Master Pulse Counting
+JmfABHbL-HM | 115s | RegisteredNurseRN | Radial Pulse Assessment and Palpation: Nursing, CNA Skill
+RpaY7wM3QoM | 228s | RegisteredNurseRN | Apical Pulse Assessment Location Nursing | Auscultate and Palpate Apical Pulse
+5_GtgFgDBQ4 | 870s | Heart Matters | Slow Pulse | Bradycardia - How Low is Too Low for our Heart Rate?
+BSlRvD-CZSo | 32s | UT MD Anderson Cancer Center | How to check your pulse and heart rate
+A1j2bV2_bGA | 325s | Nursing made easy | 01.04 Adult Vital Signs
+31qBW0Imj_0 | 170s | 4yourCNA | Measure and Record Radial Pulse CNA Skill Prometric
+IDFaPKFbIO8 | 333s | RegisteredNurseRN | Counting Respirations Nursing Skill Assessment | Respiratory Rate CNA Skill

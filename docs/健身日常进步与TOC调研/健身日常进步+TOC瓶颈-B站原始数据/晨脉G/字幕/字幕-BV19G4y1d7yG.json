@@ -1,0 +1,498 @@
+[
+ {
+  "from": 0.98,
+  "to": 3.82,
+  "sid": 1,
+  "location": 2,
+  "content": "这次我们来讲一下简易版的摸脉",
+  "music": 0.0
+ },
+ {
+  "from": 3.88,
+  "to": 7.42,
+  "sid": 2,
+  "location": 2,
+  "content": "正常情况下我们把脉是讲寸关尺的啊",
+  "music": 0.0
+ },
+ {
+  "from": 7.42,
+  "to": 9.51,
+  "sid": 3,
+  "location": 2,
+  "content": "我们这回只讲关脉",
+  "music": 0.0
+ },
+ {
+  "from": 9.51,
+  "to": 12.57,
+  "sid": 4,
+  "location": 2,
+  "content": "象下冠脉以上为阳关脉",
+  "music": 0.0
+ },
+ {
+  "from": 12.57,
+  "to": 13.629,
+  "sid": 5,
+  "location": 2,
+  "content": "以下为阴",
+  "music": 0.0
+ },
+ {
+  "from": 13.629,
+  "to": 15.339,
+  "sid": 6,
+  "location": 2,
+  "content": "只讲阴阳二脉",
+  "music": 0.0
+ },
+ {
+  "from": 15.339,
+  "to": 16.92,
+  "sid": 7,
+  "location": 2,
+  "content": "这样会简单一点",
+  "music": 0.0
+ },
+ {
+  "from": 17.18,
+  "to": 18.89,
+  "sid": 8,
+  "location": 2,
+  "content": "所谓阴阳二脉",
+  "music": 0.0
+ },
+ {
+  "from": 18.89,
+  "to": 21.26,
+  "sid": 9,
+  "location": 2,
+  "content": "怎么样才能知道自己是否正常",
+  "music": 0.0
+ },
+ {
+  "from": 21.26,
+  "to": 22.25,
+  "sid": 10,
+  "location": 2,
+  "content": "阴阳调和",
+  "music": 0.0
+ },
+ {
+  "from": 22.25,
+  "to": 23.78,
+  "sid": 11,
+  "location": 2,
+  "content": "我们两个手指头放上去",
+  "music": 0.0
+ },
+ {
+  "from": 23.78,
+  "to": 26.69,
+  "sid": 12,
+  "location": 2,
+  "content": "先不要用劲轻轻搭上去",
+  "music": 0.0
+ },
+ {
+  "from": 26.69,
+  "to": 28.4,
+  "sid": 13,
+  "location": 2,
+  "content": "这时候如果能摸到脉",
+  "music": 0.0
+ },
+ {
+  "from": 28.4,
+  "to": 30.78,
+  "sid": 14,
+  "location": 2,
+  "content": "这就是不正常的一种表现啊",
+  "music": 0.0
+ },
+ {
+  "from": 30.919,
+  "to": 34.579,
+  "sid": 15,
+  "location": 2,
+  "content": "因为我们的羊已经没有办法潜藏了",
+  "music": 0.0
+ },
+ {
+  "from": 34.579,
+  "to": 36.139,
+  "sid": 16,
+  "location": 2,
+  "content": "我们才能那么快就摸到它",
+  "music": 0.0
+ },
+ {
+  "from": 36.139,
+  "to": 38.98,
+  "sid": 17,
+  "location": 2,
+  "content": "正常我们的阳脉是潜藏在我们的皮肤下面",
+  "music": 0.0
+ },
+ {
+  "from": 38.98,
+  "to": 41.14,
+  "sid": 18,
+  "location": 2,
+  "content": "如果你刚碰到皮肤还没用力呢",
+  "music": 0.0
+ },
+ {
+  "from": 41.14,
+  "to": 43.16,
+  "sid": 19,
+  "location": 2,
+  "content": "摸到这就是表面",
+  "music": 0.0
+ },
+ {
+  "from": 43.16,
+  "to": 46.73,
+  "sid": 20,
+  "location": 2,
+  "content": "你可能外感风邪或者外感寒邪之类的啊",
+  "music": 0.0
+ },
+ {
+  "from": 46.73,
+  "to": 50.18,
+  "sid": 21,
+  "location": 2,
+  "content": "这种情况下你的正气在往外攻邪的时候",
+  "music": 0.0
+ },
+ {
+  "from": 50.18,
+  "to": 52.6,
+  "sid": 22,
+  "location": 2,
+  "content": "你的羊就会抗争搏动",
+  "music": 0.0
+ },
+ {
+  "from": 52.6,
+  "to": 54.28,
+  "sid": 23,
+  "location": 2,
+  "content": "所以你很早就能摸到它",
+  "music": 0.0
+ },
+ {
+  "from": 54.28,
+  "to": 57.4,
+  "sid": 24,
+  "location": 2,
+  "content": "这反而是一种有邪气在体内",
+  "music": 0.0
+ },
+ {
+  "from": 57.4,
+  "to": 59.519,
+  "sid": 25,
+  "location": 2,
+  "content": "正在往外攻的这么一个过程",
+  "music": 0.0
+ },
+ {
+  "from": 60.34,
+  "to": 62.61,
+  "sid": 26,
+  "location": 2,
+  "content": "接下来我们轻轻往下按一点",
+  "music": 0.0
+ },
+ {
+  "from": 62.61,
+  "to": 63.77,
+  "sid": 27,
+  "location": 2,
+  "content": "轻轻按啊",
+  "music": 0.0
+ },
+ {
+  "from": 63.77,
+  "to": 65.27,
+  "sid": 28,
+  "location": 2,
+  "content": "按一点点以后",
+  "music": 0.0
+ },
+ {
+  "from": 65.27,
+  "to": 68.99,
+  "sid": 29,
+  "location": 2,
+  "content": "你会感觉到我们的阳脉已经有有波动",
+  "music": 0.0
+ },
+ {
+  "from": 68.99,
+  "to": 70.7,
+  "sid": 30,
+  "location": 2,
+  "content": "感觉你感觉到他在波动",
+  "music": 0.0
+ },
+ {
+  "from": 70.7,
+  "to": 72.299,
+  "sid": 31,
+  "location": 2,
+  "content": "这是一个正常啊",
+  "music": 0.0
+ },
+ {
+  "from": 72.299,
+  "to": 75.119,
+  "sid": 32,
+  "location": 2,
+  "content": "但这首阴脉应该摸不到啊",
+  "music": 0.0
+ },
+ {
+  "from": 75.119,
+  "to": 78.54,
+  "sid": 33,
+  "location": 2,
+  "content": "因为音是比羊还要浅仓的",
+  "music": 0.0
+ },
+ {
+  "from": 78.54,
+  "to": 81.82,
+  "sid": 34,
+  "location": 2,
+  "content": "这个时候我们继续往下按",
+  "music": 0.0
+ },
+ {
+  "from": 81.86,
+  "to": 85.52,
+  "sid": 35,
+  "location": 2,
+  "content": "你会感觉到诶阴脉也开始有了啊",
+  "music": 0.0
+ },
+ {
+  "from": 85.52,
+  "to": 88.15,
+  "sid": 36,
+  "location": 2,
+  "content": "这就说明正常啊",
+  "music": 0.0
+ },
+ {
+  "from": 88.15,
+  "to": 89.92,
+  "sid": 37,
+  "location": 2,
+  "content": "我们如果把它分三层",
+  "music": 0.0
+ },
+ {
+  "from": 89.92,
+  "to": 92.28,
+  "sid": 38,
+  "location": 2,
+  "content": "第一层在表层就不应该摸脉",
+  "music": 0.0
+ },
+ {
+  "from": 92.28,
+  "to": 94.38,
+  "sid": 39,
+  "location": 2,
+  "content": "第二层就是阳脉的位置",
+  "music": 0.0
+ },
+ {
+  "from": 94.38,
+  "to": 96.87,
+  "sid": 40,
+  "location": 2,
+  "content": "第三层就是阴脉的位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 96.87,
+  "to": 99.979,
+  "sid": 41,
+  "location": 2,
+  "content": "如果你继续按到了第二层才有脉",
+  "music": 0.0
+ },
+ {
+  "from": 99.979,
+  "to": 102.049,
+  "sid": 42,
+  "location": 2,
+  "content": "这就又不对了啊",
+  "music": 0.0
+ },
+ {
+  "from": 102.049,
+  "to": 103.879,
+  "sid": 43,
+  "location": 2,
+  "content": "就麦太外面不对",
+  "music": 0.0
+ },
+ {
+  "from": 103.879,
+  "to": 105.139,
+  "sid": 44,
+  "location": 2,
+  "content": "太里面也不对",
+  "music": 0.0
+ },
+ {
+  "from": 105.139,
+  "to": 108.67,
+  "sid": 45,
+  "location": 2,
+  "content": "当麦太外面的时候是病邪在表啊",
+  "music": 0.0
+ },
+ {
+  "from": 108.67,
+  "to": 110.83,
+  "sid": 46,
+  "location": 2,
+  "content": "当卖菜里面的时候就是并写在里",
+  "music": 0.0
+ },
+ {
+  "from": 110.83,
+  "to": 112.93,
+  "sid": 47,
+  "location": 2,
+  "content": "就当你并邪在脏腑的时候",
+  "music": 0.0
+ },
+ {
+  "from": 112.93,
+  "to": 114.94,
+  "sid": 48,
+  "location": 2,
+  "content": "那你就按到骨头边",
+  "music": 0.0
+ },
+ {
+  "from": 114.94,
+  "to": 116.5,
+  "sid": 49,
+  "location": 2,
+  "content": "都快按到骨头边了",
+  "music": 0.0
+ },
+ {
+  "from": 116.5,
+  "to": 117.4,
+  "sid": 50,
+  "location": 2,
+  "content": "你才能摸到脉",
+  "music": 0.0
+ },
+ {
+  "from": 117.4,
+  "to": 119.38,
+  "sid": 51,
+  "location": 2,
+  "content": "如果你手轻轻碰下去",
+  "music": 0.0
+ },
+ {
+  "from": 119.38,
+  "to": 125.23,
+  "sid": 52,
+  "location": 2,
+  "content": "你发现诶阴阳两处这个脉都同时出现啊",
+  "music": 0.0
+ },
+ {
+  "from": 125.23,
+  "to": 129.529,
+  "sid": 53,
+  "location": 2,
+  "content": "这时候你就要判断到底是这个阳比较浅",
+  "music": 0.0
+ },
+ {
+  "from": 129.529,
+  "to": 132.24,
+  "sid": 54,
+  "location": 2,
+  "content": "还是这个音比较抗啊",
+  "music": 0.0
+ },
+ {
+  "from": 132.24,
+  "to": 134.76,
+  "sid": 55,
+  "location": 2,
+  "content": "如果你这个阴和阳都是同时",
+  "music": 0.0
+ },
+ {
+  "from": 134.76,
+  "to": 137.04,
+  "sid": 56,
+  "location": 2,
+  "content": "本来应该在摸到阳脉的时候",
+  "music": 0.0
+ },
+ {
+  "from": 137.04,
+  "to": 138.84,
+  "sid": 57,
+  "location": 2,
+  "content": "你阴脉也出现了",
+  "music": 0.0
+ },
+ {
+  "from": 138.84,
+  "to": 140.76,
+  "sid": 58,
+  "location": 2,
+  "content": "那就是病在阴",
+  "music": 0.0
+ },
+ {
+  "from": 141.06,
+  "to": 144.84,
+  "sid": 59,
+  "location": 2,
+  "content": "如果你是按到阴的位置才摸到阳脉",
+  "music": 0.0
+ },
+ {
+  "from": 144.84,
+  "to": 146.42,
+  "sid": 60,
+  "location": 2,
+  "content": "就是病在阳",
+  "music": 0.0
+ },
+ {
+  "from": 146.7,
+  "to": 149.04,
+  "sid": 61,
+  "location": 2,
+  "content": "这样你就可以很好的分辨自己身体",
+  "music": 0.0
+ },
+ {
+  "from": 149.04,
+  "to": 151.28,
+  "sid": 62,
+  "location": 2,
+  "content": "到底是阴阳问题还是阳有问题",
+  "music": 0.0
+ }
+]

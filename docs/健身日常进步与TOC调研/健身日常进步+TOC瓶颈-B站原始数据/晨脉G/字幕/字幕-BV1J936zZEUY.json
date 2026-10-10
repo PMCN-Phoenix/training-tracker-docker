@@ -1,0 +1,8122 @@
+[
+ {
+  "content": "我刚下单并收到了两个米班十",
+  "from": 0.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1,
+  "to": 2.9
+ },
+ {
+  "content": "而今天我们将系统科学地测试它们",
+  "from": 2.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 2,
+  "to": 6.72
+ },
+ {
+  "content": "以验证心率监测和睡眠阶段监测的准确性",
+  "from": 6.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 3,
+  "to": 10.14
+ },
+ {
+  "content": "这些廉价的雅米手表",
+  "from": 10.14,
+  "location": 2,
+  "music": 0.0,
+  "sid": 4,
+  "to": 12.28
+ },
+ {
+  "content": "顺便说一句，对于不了解我的观众",
+  "from": 12.28,
+  "location": 2,
+  "music": 0.0,
+  "sid": 5,
+  "to": 13.88
+ },
+ {
+  "content": "我叫罗布",
+  "from": 13.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 6,
+  "to": 14.72
+ },
+ {
+  "content": "我是专注于生物数据分析的博士后研究员",
+  "from": 14.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 7,
+  "to": 18.63
+ },
+ {
+  "content": "这次视频将与我的常规内容有所不同",
+  "from": 18.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 8,
+  "to": 22.12
+ },
+ {
+  "content": "首先这将是初步测试",
+  "from": 22.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 9,
+  "to": 24.24
+ },
+ {
+  "content": "仅进行几项运动",
+  "from": 24.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 10,
+  "to": 25.76
+ },
+ {
+  "content": "一到两晚的睡眠",
+  "from": 25.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 11,
+  "to": 27.22
+ },
+ {
+  "content": "最多",
+  "from": 27.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 12,
+  "to": 27.9
+ },
+ {
+  "content": "仅为了初步了解这些手表的心率和睡眠监测效果",
+  "from": 27.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 13,
+  "to": 31.92
+ },
+ {
+  "content": "其次我们将开启安装这些手表的旅程",
+  "from": 31.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 14,
+  "to": 36.129
+ },
+ {
+  "content": "看看能否获取到数据",
+  "from": 36.129,
+  "location": 2,
+  "music": 0.0,
+  "sid": 15,
+  "to": 38.129
+ },
+ {
+  "content": "因为这是智能设备的一个问题",
+  "from": 38.129,
+  "location": 2,
+  "music": 0.0,
+  "sid": 16,
+  "to": 40.54
+ },
+ {
+  "content": "通常很难获取原始数据并进行分析",
+  "from": 40.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 17,
+  "to": 44.66
+ },
+ {
+  "content": "我喜欢这样做",
+  "from": 44.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 18,
+  "to": 46.06
+ },
+ {
+  "content": "也许我们会遇到很多麻烦，你也会有同样的困扰",
+  "from": 46.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 19,
+  "to": 49.46
+ },
+ {
+  "content": "但你也会了解到这确实很难",
+  "from": 49.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 20,
+  "to": 51.54
+ },
+ {
+  "content": "有时难以获取这些数据",
+  "from": 51.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 21,
+  "to": 52.72
+ },
+ {
+  "content": "现在开始吧",
+  "from": 52.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 22,
+  "to": 53.68
+ },
+ {
+  "content": "我们需要拆箱并将它们连接到两部不同手机",
+  "from": 53.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 23,
+  "to": 56.56
+ },
+ {
+  "content": "和两个不同的小米账号",
+  "from": 56.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 24,
+  "to": 57.98
+ },
+ {
+  "content": "所以让我们开始吧",
+  "from": 57.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 25,
+  "to": 58.95
+ },
+ {
+  "content": "我这里有两部iPhone",
+  "from": 58.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 26,
+  "to": 61.03
+ },
+ {
+  "content": "都绑定了独立的米Fit账号",
+  "from": 61.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 27,
+  "to": 63.53
+ },
+ {
+  "content": "都同步到苹果健康",
+  "from": 63.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 28,
+  "to": 65.79
+ },
+ {
+  "content": "还有两个独立的Strava账号",
+  "from": 65.79,
+  "location": 2,
+  "music": 0.0,
+  "sid": 29,
+  "to": 68.09
+ },
+ {
+  "content": "这样应该能获取心率数据",
+  "from": 68.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 30,
+  "to": 70.41
+ },
+ {
+  "content": "这在过去曾是问题",
+  "from": 70.41,
+  "location": 2,
+  "music": 0.0,
+  "sid": 31,
+  "to": 72.24
+ },
+ {
+  "content": "有时数据就是无法同步",
+  "from": 72.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 32,
+  "to": 75.34
+ },
+ {
+  "content": "所以在实际测试小米手表和小米手环九Pro前",
+  "from": 75.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 33,
+  "to": 79.88
+ },
+ {
+  "content": "仅针对弯折线",
+  "from": 79.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 34,
+  "to": 81.18
+ },
+ {
+  "content": "罗，我是否真的在Strava获取了心率数据",
+  "from": 81.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 35,
+  "to": 83.85
+ },
+ {
+  "content": "不知为何手环的数据完全未同步",
+  "from": 83.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 36,
+  "to": 87.53
+ },
+ {
+  "content": "我手表",
+  "from": 87.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 37,
+  "to": 88.03
+ },
+ {
+  "content": "所以我正在重复使用之前的账号",
+  "from": 88.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 38,
+  "to": 89.81
+ },
+ {
+  "content": "为手环九Pro准备的账号",
+  "from": 89.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 39,
+  "to": 91.41
+ },
+ {
+  "content": "并在新手机上为另一只手环创建了新账号",
+  "from": 91.41,
+  "location": 2,
+  "music": 0.0,
+  "sid": 40,
+  "to": 95.459
+ },
+ {
+  "content": "这样两者应该都能同步到Strava",
+  "from": 95.459,
+  "location": 2,
+  "music": 0.0,
+  "sid": 41,
+  "to": 97.919
+ },
+ {
+  "content": "首先快速拆箱两个设备",
+  "from": 97.919,
+  "location": 2,
+  "music": 0.0,
+  "sid": 42,
+  "to": 100.65
+ },
+ {
+  "content": "我实际订购了两种不同颜色",
+  "from": 100.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 43,
+  "to": 102.69
+ },
+ {
+  "content": "以便区分",
+  "from": 102.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 44,
+  "to": 103.93
+ },
+ {
+  "content": "一个白色和一个黑色",
+  "from": 103.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 45,
+  "to": 107.0
+ },
+ {
+  "content": "嗯",
+  "from": 107.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 46,
+  "to": 107.68
+ },
+ {
+  "content": "包装很简单",
+  "from": 107.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 47,
+  "to": 108.72
+ },
+ {
+  "content": "一如既往，这里有表带和充电器",
+  "from": 108.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 48,
+  "to": 112.6
+ },
+ {
+  "content": "仍在使用旧USB线",
+  "from": 112.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 49,
+  "to": 114.729
+ },
+ {
+  "content": "就是这样",
+  "from": 114.729,
+  "location": 2,
+  "music": 0.0,
+  "sid": 50,
+  "to": 116.029
+ },
+ {
+  "content": "然后我们还有一个黑色版本在这里",
+  "from": 116.029,
+  "location": 2,
+  "music": 0.0,
+  "sid": 51,
+  "to": 121.38
+ },
+ {
+  "content": "同样的设置USB Type A和黑色版本",
+  "from": 121.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 52,
+  "to": 127.66
+ },
+ {
+  "content": "所以让我们先设置黑色设备",
+  "from": 131.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 53,
+  "to": 134.08
+ },
+ {
+  "content": "一如既往",
+  "from": 134.08,
+  "location": 2,
+  "music": 0.0,
+  "sid": 54,
+  "to": 134.8
+ },
+ {
+  "content": "这款基尔非常不错",
+  "from": 134.8,
+  "location": 2,
+  "music": 0.0,
+  "sid": 55,
+  "to": 136.34
+ },
+ {
+  "content": "现在在金色iPhone上设置黑色设备",
+  "from": 136.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 56,
+  "to": 140.09
+ },
+ {
+  "content": "这操作还算简单",
+  "from": 142.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 57,
+  "to": 144.23
+ },
+ {
+  "content": "快速更新一下",
+  "from": 144.23,
+  "location": 2,
+  "music": 0.0,
+  "sid": 58,
+  "to": 145.67
+ },
+ {
+  "content": "同时我们也可以安装另一个设备",
+  "from": 145.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 59,
+  "to": 148.84
+ },
+ {
+  "content": "这里展示的是白色版本",
+  "from": 148.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 60,
+  "to": 152.269
+ },
+ {
+  "content": "你可以看到",
+  "from": 152.269,
+  "location": 2,
+  "music": 0.0,
+  "sid": 61,
+  "to": 153.289
+ },
+ {
+  "content": "之前",
+  "from": 153.289,
+  "location": 2,
+  "music": 0.0,
+  "sid": 62,
+  "to": 153.969
+ },
+ {
+  "content": "我进行了演示",
+  "from": 153.969,
+  "location": 2,
+  "music": 0.0,
+  "sid": 63,
+  "to": 155.309
+ },
+ {
+  "content": "我连接了Band 89 Pro和另一台9 Pro",
+  "from": 155.309,
+  "location": 2,
+  "music": 0.0,
+  "sid": 64,
+  "to": 158.63
+ },
+ {
+  "content": "但我们这次要连接新设备",
+  "from": 158.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 65,
+  "to": 162.43
+ },
+ {
+  "content": "好的",
+  "from": 164.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 66,
+  "to": 164.82
+ },
+ {
+  "content": "现在两个设备都在更新",
+  "from": 164.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 67,
+  "to": 167.92
+ },
+ {
+  "content": "等待更新完成",
+  "from": 167.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 68,
+  "to": 169.95
+ },
+ {
+  "content": "接下来进行测试环节",
+  "from": 169.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 69,
+  "to": 172.09
+ },
+ {
+  "content": "五分钟模拟运动",
+  "from": 172.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 70,
+  "to": 174.01
+ },
+ {
+  "content": "看看数据能否同步到Strava并生效",
+  "from": 174.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 71,
+  "to": 176.98
+ },
+ {
+  "content": "现在开始真实测试",
+  "from": 176.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 72,
+  "to": 178.54
+ },
+ {
+  "content": "但一如既往",
+  "from": 178.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 73,
+  "to": 179.78
+ },
+ {
+  "content": "由于需要等待更新完成",
+  "from": 179.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 74,
+  "to": 182.22
+ },
+ {
+  "content": "我可以快速泡杯咖啡慢慢享用",
+  "from": 182.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 75,
+  "to": 185.54
+ },
+ {
+  "content": "等待期间",
+  "from": 185.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 76,
+  "to": 186.9
+ },
+ {
+  "content": "好的",
+  "from": 201.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 77,
+  "to": 202.02
+ },
+ {
+  "content": "更新已完成",
+  "from": 202.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 78,
+  "to": 203.48
+ },
+ {
+  "content": "咖啡准备好了",
+  "from": 203.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 79,
+  "to": 204.56
+ },
+ {
+  "content": "现在启动两个模拟训练",
+  "from": 205.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 80,
+  "to": 208.88
+ },
+ {
+  "content": "验证数据是否同步",
+  "from": 208.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 81,
+  "to": 210.3
+ },
+ {
+  "content": "现在开始测试",
+  "from": 210.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 82,
+  "to": 211.25
+ },
+ {
+  "content": "这也意味着暂时无法测试vivo设备",
+  "from": 211.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 83,
+  "to": 213.17
+ },
+ {
+  "content": "至少今天和明天无法测试Garmin Active 6",
+  "from": 213.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 84,
+  "to": 216.03
+ },
+ {
+  "content": "我还在测试另一个建议",
+  "from": 216.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 85,
+  "to": 218.13
+ },
+ {
+  "content": "大家对Amazfit Helios手表很感兴趣",
+  "from": 218.13,
+  "location": 2,
+  "music": 0.0,
+  "sid": 86,
+  "to": 222.279
+ },
+ {
+  "content": "这里展示的是手环表带",
+  "from": 222.279,
+  "location": 2,
+  "music": 0.0,
+  "sid": 87,
+  "to": 225.039
+ },
+ {
+  "content": "这是表带部分",
+  "from": 225.039,
+  "location": 2,
+  "music": 0.0,
+  "sid": 88,
+  "to": 226.43
+ },
+ {
+  "content": "但我会同时佩戴它",
+  "from": 226.43,
+  "location": 2,
+  "music": 0.0,
+  "sid": 89,
+  "to": 229.27
+ },
+ {
+  "content": "通过使用Whop表带改装而成",
+  "from": 229.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 90,
+  "to": 231.95
+ },
+ {
+  "content": "四点零版肱二头肌",
+  "from": 231.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 91,
+  "to": 233.89
+ },
+ {
+  "content": "不知道该怎么称呼这些配件比如肱二头肌",
+  "from": 233.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 92,
+  "to": 236.43
+ },
+ {
+  "content": "袖套之类的",
+  "from": 236.43,
+  "location": 2,
+  "music": 0.0,
+  "sid": 93,
+  "to": 237.31
+ },
+ {
+  "content": "接下来几周我会佩戴这个",
+  "from": 237.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 94,
+  "to": 239.57
+ },
+ {
+  "content": "另外还搭配第二块Helios手环",
+  "from": 239.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 95,
+  "to": 241.79
+ },
+ {
+  "content": "手腕上佩戴",
+  "from": 241.79,
+  "location": 2,
+  "music": 0.0,
+  "sid": 96,
+  "to": 242.97
+ },
+ {
+  "content": "之后我们两周后再进行测试",
+  "from": 242.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 97,
+  "to": 245.33
+ },
+ {
+  "content": "我对这个非常期待",
+  "from": 245.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 98,
+  "to": 246.75
+ },
+ {
+  "content": "这可能替代Woop",
+  "from": 246.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 99,
+  "to": 248.39
+ },
+ {
+  "content": "无需订阅",
+  "from": 248.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 100,
+  "to": 249.55
+ },
+ {
+  "content": "所以你也得等等",
+  "from": 249.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 101,
+  "to": 250.57
+ },
+ {
+  "content": "如果你感兴趣的话",
+  "from": 250.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 102,
+  "to": 251.49
+ },
+ {
+  "content": "请订阅这个频道",
+  "from": 251.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 103,
+  "to": 252.47
+ },
+ {
+  "content": "但暂时先",
+  "from": 252.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 104,
+  "to": 253.34
+ },
+ {
+  "content": "当然接下来两天我们将专注于小米米面十",
+  "from": 253.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 105,
+  "to": 256.86
+ },
+ {
+  "content": "我们先尝试室内训练",
+  "from": 256.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 106,
+  "to": 259.08
+ },
+ {
+  "content": "因为有时候它们不会同步到Strava",
+  "from": 259.08,
+  "location": 2,
+  "music": 0.0,
+  "sid": 107,
+  "to": 261.42
+ },
+ {
+  "content": "又出现了一些奇怪的情况",
+  "from": 261.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 108,
+  "to": 263.69
+ },
+ {
+  "content": "必须将设备戴离手腕稍远",
+  "from": 263.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 109,
+  "to": 266.39
+ },
+ {
+  "content": "这样应该没问题",
+  "from": 266.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 110,
+  "to": 267.61
+ },
+ {
+  "content": "所以我们出发吧",
+  "from": 267.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 111,
+  "to": 269.28
+ },
+ {
+  "content": "还有第二个设备",
+  "from": 269.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 112,
+  "to": 273.06
+ },
+ {
+  "content": "相同的信息",
+  "from": 273.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 113,
+  "to": 274.56
+ },
+ {
+  "content": "我们出发",
+  "from": 274.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 114,
+  "to": 275.94
+ },
+ {
+  "content": "好的",
+  "from": 276.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 115,
+  "to": 276.74
+ },
+ {
+  "content": "我们等五分钟",
+  "from": 276.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 116,
+  "to": 278.3
+ },
+ {
+  "content": "或者你可以看到心率还未被检测到",
+  "from": 278.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 117,
+  "to": 282.58
+ },
+ {
+  "content": "不知道你现在能否看到屏幕",
+  "from": 282.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 118,
+  "to": 284.9
+ },
+ {
+  "content": "如你所见心率还未被检测",
+  "from": 284.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 119,
+  "to": 288.34
+ },
+ {
+  "content": "这正是",
+  "from": 288.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 120,
+  "to": 289.36
+ },
+ {
+  "content": "看看心率会不会出现",
+  "from": 289.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 121,
+  "to": 291.04
+ },
+ {
+  "content": "是的",
+  "from": 291.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 122,
+  "to": 291.3
+ },
+ {
+  "content": "76次",
+  "from": 291.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 123,
+  "to": 292.36
+ },
+ {
+  "content": "73次",
+  "from": 292.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 124,
+  "to": 293.06
+ },
+ {
+  "content": "这很合理",
+  "from": 293.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 125,
+  "to": 294.02
+ },
+ {
+  "content": "我可以说",
+  "from": 294.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 126,
+  "to": 295.0
+ },
+ {
+  "content": "而另一个小米手环心率会显示96吗",
+  "from": 295.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 127,
+  "to": 300.01
+ },
+ {
+  "content": "这可能有点高",
+  "from": 300.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 128,
+  "to": 301.81
+ },
+ {
+  "content": "五分钟后",
+  "from": 301.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 129,
+  "to": 303.31
+ },
+ {
+  "content": "好的",
+  "from": 303.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 130,
+  "to": 303.81
+ },
+ {
+  "content": "我们现在进入五分钟关键时刻",
+  "from": 303.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 131,
+  "to": 307.15
+ },
+ {
+  "content": "停止两个手表和黑色设备",
+  "from": 307.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 132,
+  "to": 312.34
+ },
+ {
+  "content": "还有白色设备",
+  "from": 313.239,
+  "location": 2,
+  "music": 0.0,
+  "sid": 133,
+  "to": 315.059
+ },
+ {
+  "content": "好的一个成功了",
+  "from": 315.059,
+  "location": 2,
+  "music": 0.0,
+  "sid": 134,
+  "to": 318.03
+ },
+ {
+  "content": "另一个也成功了",
+  "from": 318.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 135,
+  "to": 320.57
+ },
+ {
+  "content": "效果明显",
+  "from": 320.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 136,
+  "to": 321.45
+ },
+ {
+  "content": "开始吧",
+  "from": 321.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 137,
+  "to": 322.45
+ },
+ {
+  "content": "活动记录",
+  "from": 322.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 138,
+  "to": 324.13
+ },
+ {
+  "content": "不不别喝猛饮",
+  "from": 325.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 139,
+  "to": 327.25
+ },
+ {
+  "content": "不不Strava未同步",
+  "from": 327.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 140,
+  "to": 330.27
+ },
+ {
+  "content": "我们再试一次",
+  "from": 330.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 141,
+  "to": 331.09
+ },
+ {
+  "content": "我们进行了自由训练",
+  "from": 331.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 142,
+  "to": 332.87
+ },
+ {
+  "content": "设备记录了我的心率",
+  "from": 332.87,
+  "location": 2,
+  "music": 0.0,
+  "sid": 143,
+  "to": 335.479
+ },
+ {
+  "content": "我的小米十号",
+  "from": 335.479,
+  "location": 2,
+  "music": 0.0,
+  "sid": 144,
+  "to": 336.279
+ },
+ {
+  "content": "但Strava上没有显示",
+  "from": 336.279,
+  "location": 2,
+  "music": 0.0,
+  "sid": 145,
+  "to": 337.819
+ },
+ {
+  "content": "我们重新连接",
+  "from": 337.819,
+  "location": 2,
+  "music": 0.0,
+  "sid": 146,
+  "to": 339.519
+ },
+ {
+  "content": "或许",
+  "from": 339.519,
+  "location": 2,
+  "music": 0.0,
+  "sid": 147,
+  "to": 340.919
+ },
+ {
+  "content": "五分钟后回来",
+  "from": 344.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 148,
+  "to": 347.13
+ },
+ {
+  "content": "经过一段漫长的愤怒线程后",
+  "from": 347.13,
+  "location": 2,
+  "music": 0.0,
+  "sid": 149,
+  "to": 349.57
+ },
+ {
+  "content": "好的",
+  "from": 349.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 150,
+  "to": 350.25
+ },
+ {
+  "content": "我们五分钟后回来",
+  "from": 350.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 151,
+  "to": 351.93
+ },
+ {
+  "content": "结束训练吧",
+  "from": 351.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 152,
+  "to": 354.17
+ },
+ {
+  "content": "哎呀",
+  "from": 354.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 153,
+  "to": 355.22
+ },
+ {
+  "content": "那是杰克·斯特拉瓦",
+  "from": 355.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 154,
+  "to": 357.16
+ },
+ {
+  "content": "是的",
+  "from": 357.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 155,
+  "to": 358.36
+ },
+ {
+  "content": "好的",
+  "from": 359.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 156,
+  "to": 359.5
+ },
+ {
+  "content": "看来我需要重新连接草稿",
+  "from": 359.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 157,
+  "to": 361.72
+ },
+ {
+  "content": "或者可能连接到了其他账户",
+  "from": 361.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 158,
+  "to": 364.84
+ },
+ {
+  "content": "现在一切正常了",
+  "from": 364.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 159,
+  "to": 367.07
+ },
+ {
+  "content": "好的",
+  "from": 367.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 160,
+  "to": 367.63
+ },
+ {
+  "content": "这很好",
+  "from": 367.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 161,
+  "to": 368.15
+ },
+ {
+  "content": "现在一切正常了",
+  "from": 368.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 162,
+  "to": 369.29
+ },
+ {
+  "content": "我的计划首先是",
+  "from": 369.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 163,
+  "to": 371.51
+ },
+ {
+  "content": "或许进行室内骑行",
+  "from": 371.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 164,
+  "to": 373.59
+ },
+ {
+  "content": "然后进行短时力量训练",
+  "from": 373.59,
+  "location": 2,
+  "music": 0.0,
+  "sid": 165,
+  "to": 375.51
+ },
+ {
+  "content": "大概胸肌和三头肌",
+  "from": 375.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 166,
+  "to": 377.5
+ },
+ {
+  "content": "然后我其实要去参加聚会",
+  "from": 377.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 167,
+  "to": 378.98
+ },
+ {
+  "content": "但我会骑车过去",
+  "from": 378.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 168,
+  "to": 379.98
+ },
+ {
+  "content": "这样我们能获取往返骑行数据",
+  "from": 379.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 169,
+  "to": 382.83
+ },
+ {
+  "content": "然后就这样",
+  "from": 382.83,
+  "location": 2,
+  "music": 0.0,
+  "sid": 170,
+  "to": 384.15
+ },
+ {
+  "content": "大概明天再说",
+  "from": 384.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 171,
+  "to": 385.07
+ },
+ {
+  "content": "我要去跑步",
+  "from": 385.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 172,
+  "to": 385.83
+ },
+ {
+  "content": "然后我们有很多数据要分析",
+  "from": 385.83,
+  "location": 2,
+  "music": 0.0,
+  "sid": 173,
+  "to": 387.75
+ },
+ {
+  "content": "当然这只是初步测试",
+  "from": 387.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 174,
+  "to": 389.3
+ },
+ {
+  "content": "但能展示两个独立实验的效果",
+  "from": 389.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 175,
+  "to": 392.8
+ },
+ {
+  "content": "是否能准确追踪我的心率",
+  "from": 392.8,
+  "location": 2,
+  "music": 0.0,
+  "sid": 176,
+  "to": 394.36
+ },
+ {
+  "content": "那我们开始吧",
+  "from": 394.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 177,
+  "to": 395.58
+ },
+ {
+  "content": "我们先从这里开始室内骑行",
+  "from": 395.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 178,
+  "to": 398.66
+ },
+ {
+  "content": "这对设备追踪应该相对容易",
+  "from": 398.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 179,
+  "to": 401.98
+ },
+ {
+  "content": "让我们看看是否能显示弯十",
+  "from": 401.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 180,
+  "to": 404.38
+ },
+ {
+  "content": "能否在室内骑行时追踪心率",
+  "from": 404.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 181,
+  "to": 407.69
+ },
+ {
+  "content": "好的",
+  "from": 413.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 182,
+  "to": 414.28
+ },
+ {
+  "content": "刚才的训练相当激烈",
+  "from": 414.28,
+  "location": 2,
+  "music": 0.0,
+  "sid": 183,
+  "to": 416.24
+ },
+ {
+  "content": "几次查看手腕",
+  "from": 416.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 184,
+  "to": 418.2
+ },
+ {
+  "content": "查看代谢心率",
+  "from": 418.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 185,
+  "to": 420.24
+ },
+ {
+  "content": "并与佳明胸带对比",
+  "from": 420.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 186,
+  "to": 422.62
+ },
+ {
+  "content": "看起来非常相似",
+  "from": 422.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 187,
+  "to": 423.96
+ },
+ {
+  "content": "初步看起来不错",
+  "from": 423.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 188,
+  "to": 425.68
+ },
+ {
+  "content": "但我们现在要做正式分析并在电脑上编程",
+  "from": 425.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 189,
+  "to": 429.12
+ },
+ {
+  "content": "有一点我想强调",
+  "from": 429.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 190,
+  "to": 431.84
+ },
+ {
+  "content": "佳明总是显示过高的最大值",
+  "from": 431.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 191,
+  "to": 434.76
+ },
+ {
+  "content": "它说我最大心率是68",
+  "from": 434.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 192,
+  "to": 437.0
+ },
+ {
+  "content": "这明显偏低",
+  "from": 437.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 193,
+  "to": 438.36
+ },
+ {
+  "content": "实际我的情况",
+  "from": 438.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 194,
+  "to": 439.04
+ },
+ {
+  "content": "我最大心率是58",
+  "from": 439.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 195,
+  "to": 440.58
+ },
+ {
+  "content": "根据上次测量",
+  "from": 440.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 196,
+  "to": 441.88
+ },
+ {
+  "content": "这只是个附带说明",
+  "from": 441.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 197,
+  "to": 443.0
+ },
+ {
+  "content": "通常佳明能准确匹配我的心率",
+  "from": 443.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 198,
+  "to": 445.94
+ },
+ {
+  "content": "但这次我们将以Polar H作为参考",
+  "from": 445.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 199,
+  "to": 448.92
+ },
+ {
+  "content": "但从我观察的情况",
+  "from": 448.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 200,
+  "to": 449.9
+ },
+ {
+  "content": "基本上无论你选择哪个胸带",
+  "from": 449.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 201,
+  "to": 451.78
+ },
+ {
+  "content": "都能获得准确的心率数据",
+  "from": 451.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 202,
+  "to": 453.0
+ },
+ {
+  "content": "因此应以双极胸带作为参考",
+  "from": 453.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 203,
+  "to": 455.04
+ },
+ {
+  "content": "观察gui van的实际表现如何",
+  "from": 455.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 204,
+  "to": 457.12
+ },
+ {
+  "content": "好的",
+  "from": 457.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 205,
+  "to": 457.58
+ },
+ {
+  "content": "室内骑行测试结果出炉",
+  "from": 457.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 206,
+  "to": 460.12
+ },
+ {
+  "content": "结果看起来相当令人惊喜",
+  "from": 460.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 207,
+  "to": 462.74
+ },
+ {
+  "content": "现在",
+  "from": 462.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 208,
+  "to": 463.1
+ },
+ {
+  "content": "在这张图表中",
+  "from": 463.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 209,
+  "to": 463.7
+ },
+ {
+  "content": "你看到的是整体概况",
+  "from": 463.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 210,
+  "to": 465.38
+ },
+ {
+  "content": "左腕设备的数据沿水平轴分布",
+  "from": 465.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 211,
+  "to": 468.97
+ },
+ {
+  "content": "参考设备是Polar H10胸带",
+  "from": 468.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 212,
+  "to": 471.85
+ },
+ {
+  "content": "垂直轴方向",
+  "from": 471.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 213,
+  "to": 473.37
+ },
+ {
+  "content": "每个点代表两者测量值的对应数据",
+  "from": 473.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 214,
+  "to": 477.52
+ },
+ {
+  "content": "如果完全一致的话",
+  "from": 477.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 215,
+  "to": 479.18
+ },
+ {
+  "content": "所有数值应沿这条蓝色直线",
+  "from": 479.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 216,
+  "to": 481.93
+ },
+ {
+  "content": "正如你所见",
+  "from": 481.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 217,
+  "to": 483.27
+ },
+ {
+  "content": "几乎所有点都在",
+  "from": 483.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 218,
+  "to": 485.09
+ },
+ {
+  "content": "或至少非常接近蓝色直线",
+  "from": 485.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 219,
+  "to": 487.25
+ },
+ {
+  "content": "对于如此廉价的设备如Mian",
+  "from": 487.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 220,
+  "to": 489.65
+ },
+ {
+  "content": "这表现真的很好",
+  "from": 489.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 221,
+  "to": 491.37
+ },
+ {
+  "content": "我们可以用相关系数量化这种一致性",
+  "from": 491.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 222,
+  "to": 494.63
+ },
+ {
+  "content": "这就是这里的r值",
+  "from": 494.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 223,
+  "to": 496.169
+ },
+ {
+  "content": "左腕设备的r值为0.99",
+  "from": 496.169,
+  "location": 2,
+  "music": 0.0,
+  "sid": 224,
+  "to": 499.249
+ },
+ {
+  "content": "效果极佳",
+  "from": 499.249,
+  "location": 2,
+  "music": 0.0,
+  "sid": 225,
+  "to": 500.129
+ },
+ {
+  "content": "我对这个结果很满意",
+  "from": 500.129,
+  "location": 2,
+  "music": 0.0,
+  "sid": 226,
+  "to": 501.189
+ },
+ {
+  "content": "我们再看看右腕设备的数据",
+  "from": 501.189,
+  "location": 2,
+  "music": 0.0,
+  "sid": 227,
+  "to": 504.48
+ },
+ {
+  "content": "这些结果并非完全相同",
+  "from": 504.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 228,
+  "to": 508.319
+ },
+ {
+  "content": "这里存在轻微偏差",
+  "from": 508.319,
+  "location": 2,
+  "music": 0.0,
+  "sid": 229,
+  "to": 511.01
+ },
+ {
+  "content": "但整体依然",
+  "from": 511.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 230,
+  "to": 512.47
+ },
+ {
+  "content": "相关系数达0.99",
+  "from": 512.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 231,
+  "to": 514.51
+ },
+ {
+  "content": "表现依然优秀",
+  "from": 514.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 232,
+  "to": 515.47
+ },
+ {
+  "content": "几乎所有点都在或接近蓝色直线",
+  "from": 515.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 233,
+  "to": 519.489
+ },
+ {
+  "content": "让我们查看单次训练数据找出原因",
+  "from": 519.489,
+  "location": 2,
+  "music": 0.0,
+  "sid": 234,
+  "to": 521.529
+ },
+ {
+  "content": "仍有少许偏差存在",
+  "from": 521.529,
+  "location": 2,
+  "music": 0.0,
+  "sid": 235,
+  "to": 523.15
+ },
+ {
+  "content": "但结果仍让我感到意外",
+  "from": 523.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 236,
+  "to": 527.07
+ },
+ {
+  "content": "水平轴为时间轴，垂直轴为心率",
+  "from": 527.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 237,
+  "to": 529.77
+ },
+ {
+  "content": "蓝色和绿色",
+  "from": 529.77,
+  "location": 2,
+  "music": 0.0,
+  "sid": 238,
+  "to": 530.71
+ },
+ {
+  "content": "参考设备为Polar和Mian左腕数据",
+  "from": 530.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 239,
+  "to": 533.47
+ },
+ {
+  "content": "红色线条与蓝色线条几乎完全重合",
+  "from": 533.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 240,
+  "to": 538.54
+ },
+ {
+  "content": "开头有轻微偏差",
+  "from": 538.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 241,
+  "to": 540.66
+ },
+ {
+  "content": "或许在低心率区间",
+  "from": 540.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 242,
+  "to": 543.38
+ },
+ {
+  "content": "存在微小偏差",
+  "from": 543.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 243,
+  "to": 545.24
+ },
+ {
+  "content": "但整体性能足够优秀",
+  "from": 545.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 244,
+  "to": 548.02
+ },
+ {
+  "content": "查看右腕设备的数据",
+  "from": 548.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 245,
+  "to": 550.44
+ },
+ {
+  "content": "情况大致相同",
+  "from": 550.44,
+  "location": 2,
+  "music": 0.0,
+  "sid": 246,
+  "to": 552.0
+ },
+ {
+  "content": "一致性极佳",
+  "from": 552.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 247,
+  "to": 553.73
+ },
+ {
+  "content": "仅在此刻检测到稍高心率",
+  "from": 553.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 248,
+  "to": 557.81
+ },
+ {
+  "content": "但整体影响很小",
+  "from": 557.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 249,
+  "to": 560.219
+ },
+ {
+  "content": "这效果非常好，完全符合我的需求",
+  "from": 560.219,
+  "location": 2,
+  "music": 0.0,
+  "sid": 250,
+  "to": 562.079
+ },
+ {
+  "content": "我们可以将这些结果与其他设备进行对比",
+  "from": 562.079,
+  "location": 2,
+  "music": 0.0,
+  "sid": 251,
+  "to": 565.279
+ },
+ {
+  "content": "我之前测试过这些设备",
+  "from": 565.279,
+  "location": 2,
+  "music": 0.0,
+  "sid": 252,
+  "to": 566.24
+ },
+ {
+  "content": "这些结果正在这里展示",
+  "from": 566.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 253,
+  "to": 568.2
+ },
+ {
+  "content": "之前提到的相关值在横轴显示，纵轴则为",
+  "from": 568.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 254,
+  "to": 573.75
+ },
+ {
+  "content": "我已经订购了这些手表",
+  "from": 573.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 255,
+  "to": 574.55
+ },
+ {
+  "content": "从底部最差到顶部最佳排序",
+  "from": 574.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 256,
+  "to": 576.98
+ },
+ {
+  "content": "越靠右和位置越高的设备",
+  "from": 576.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 257,
+  "to": 579.38
+ },
+ {
+  "content": "与参考设备的匹配度越好",
+  "from": 579.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 258,
+  "to": 581.82
+ },
+ {
+  "content": "现在我来展示一下",
+  "from": 581.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 259,
+  "to": 582.82
+ },
+ {
+  "content": "左手腕的Ben十手表用红色标记",
+  "from": 582.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 260,
+  "to": 584.84
+ },
+ {
+  "content": "稍后我们会放大查看细节",
+  "from": 584.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 261,
+  "to": 586.42
+ },
+ {
+  "content": "你也可以看到右手腕的数据是",
+  "from": 586.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 262,
+  "to": 588.6
+ },
+ {
+  "content": "现在呈现的是放大后的视图",
+  "from": 588.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 263,
+  "to": 590.12
+ },
+ {
+  "content": "这些设备的相关值均在0.9以上",
+  "from": 590.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 264,
+  "to": 593.6
+ },
+ {
+  "content": "其中一些表现更好的设备再次",
+  "from": 593.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 265,
+  "to": 595.9
+ },
+ {
+  "content": "左手腕的设备在此处标记",
+  "from": 595.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 266,
+  "to": 598.54
+ },
+ {
+  "content": "右手腕的设备在此处",
+  "from": 598.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 267,
+  "to": 600.94
+ },
+ {
+  "content": "两者几乎完全一致",
+  "from": 600.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 268,
+  "to": 602.72
+ },
+ {
+  "content": "在众多优秀设备中",
+  "from": 602.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 269,
+  "to": 605.38
+ },
+ {
+  "content": "它们表现非常出色",
+  "from": 605.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 270,
+  "to": 606.54
+ },
+ {
+  "content": "这只是针对单次训练的初步测试",
+  "from": 606.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 271,
+  "to": 610.0
+ },
+ {
+  "content": "两者表现优异至少令人鼓舞",
+  "from": 610.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 272,
+  "to": 613.93
+ },
+ {
+  "content": "总体而言我对结果感到惊喜且满意",
+  "from": 613.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 273,
+  "to": 617.01
+ },
+ {
+  "content": "让我们看看其他设备在概览中的表现",
+  "from": 617.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 274,
+  "to": 620.23
+ },
+ {
+  "content": "这里显示的是米邦八代",
+  "from": 620.23,
+  "location": 2,
+  "music": 0.0,
+  "sid": 275,
+  "to": 622.15
+ },
+ {
+  "content": "性能明显更差",
+  "from": 622.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 276,
+  "to": 624.109
+ },
+ {
+  "content": "我可能需要进一步测试这款",
+  "from": 624.109,
+  "location": 2,
+  "music": 0.0,
+  "sid": 277,
+  "to": 626.839
+ },
+ {
+  "content": "米邦九代在概览中呈现",
+  "from": 626.839,
+  "location": 2,
+  "music": 0.0,
+  "sid": 278,
+  "to": 629.579
+ },
+ {
+  "content": "米邦九代表现也不差",
+  "from": 629.579,
+  "location": 2,
+  "music": 0.0,
+  "sid": 279,
+  "to": 632.399
+ },
+ {
+  "content": "它与米邦十代非常接近",
+  "from": 632.399,
+  "location": 2,
+  "music": 0.0,
+  "sid": 280,
+  "to": 635.86
+ },
+ {
+  "content": "我认为米邦十可能略优于九代",
+  "from": 635.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 281,
+  "to": 639.75
+ },
+ {
+  "content": "整体性能依然优秀",
+  "from": 639.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 282,
+  "to": 642.09
+ },
+ {
+  "content": "接下来我们看看更复杂的运动",
+  "from": 642.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 283,
+  "to": 645.17
+ },
+ {
+  "content": "设备要准确追踪举重",
+  "from": 645.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 284,
+  "to": 647.03
+ },
+ {
+  "content": "任何设备追踪举重都需应对",
+  "from": 647.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 285,
+  "to": 649.17
+ },
+ {
+  "content": "手臂承受巨大拉力",
+  "from": 649.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 286,
+  "to": 650.69
+ },
+ {
+  "content": "这对追踪器来说非常困难",
+  "from": 650.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 287,
+  "to": 653.73
+ },
+ {
+  "content": "准确监测手腕心率",
+  "from": 653.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 288,
+  "to": 655.81
+ },
+ {
+  "content": "现在进行测试，之后查看户外骑行",
+  "from": 655.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 289,
+  "to": 658.95
+ },
+ {
+  "content": "需要先修理一辆自行车",
+  "from": 658.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 290,
+  "to": 661.05
+ },
+ {
+  "content": "我们马上处理",
+  "from": 661.05,
+  "location": 2,
+  "music": 0.0,
+  "sid": 291,
+  "to": 661.93
+ },
+ {
+  "content": "然后进行骑行，但先做举重训练",
+  "from": 661.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 292,
+  "to": 664.65
+ },
+ {
+  "content": "这里与第四部分类似概览",
+  "from": 664.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 293,
+  "to": 666.81
+ },
+ {
+  "content": "现在针对举重训练",
+  "from": 666.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 294,
+  "to": 668.82
+ },
+ {
+  "content": "参考设备在横轴显示",
+  "from": 668.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 295,
+  "to": 671.54
+ },
+ {
+  "content": "左手腕的米邦十",
+  "from": 671.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 296,
+  "to": 673.58
+ },
+ {
+  "content": "纵轴则为数据",
+  "from": 673.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 297,
+  "to": 675.37
+ },
+ {
+  "content": "我们看到典型模式",
+  "from": 675.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 298,
+  "to": 677.63
+ },
+ {
+  "content": "在较低心率区间",
+  "from": 677.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 299,
+  "to": 680.15
+ },
+ {
+  "content": "所有点都紧贴蓝色基准线",
+  "from": 680.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 300,
+  "to": 683.79
+ },
+ {
+  "content": "因此这里的测量结果正常",
+  "from": 683.79,
+  "location": 2,
+  "music": 0.0,
+  "sid": 301,
+  "to": 685.45
+ },
+ {
+  "content": "但在较高心率范围内",
+  "from": 685.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 302,
+  "to": 687.51
+ },
+ {
+  "content": "有很多点低于蓝色线",
+  "from": 687.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 303,
+  "to": 689.3
+ },
+ {
+  "content": "表明这些时刻可能检测到过低心率",
+  "from": 689.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 304,
+  "to": 693.26
+ },
+ {
+  "content": "现在",
+  "from": 693.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 305,
+  "to": 693.58
+ },
+ {
+  "content": "这通常意味着当我心率出现峰值时",
+  "from": 693.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 306,
+  "to": 696.22
+ },
+ {
+  "content": "所以手臂承受很大压力",
+  "from": 696.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 307,
+  "to": 698.099
+ },
+ {
+  "content": "米安十无法准确检测心率",
+  "from": 698.099,
+  "location": 2,
+  "music": 0.0,
+  "sid": 308,
+  "to": 700.539
+ },
+ {
+  "content": "但我们现在看看右手腕的设备",
+  "from": 700.539,
+  "location": 2,
+  "music": 0.0,
+  "sid": 309,
+  "to": 702.919
+ },
+ {
+  "content": "这里显示这些结果",
+  "from": 702.919,
+  "location": 2,
+  "music": 0.0,
+  "sid": 310,
+  "to": 704.339
+ },
+ {
+  "content": "这些结果大多相同",
+  "from": 704.339,
+  "location": 2,
+  "music": 0.0,
+  "sid": 311,
+  "to": 705.86
+ },
+ {
+  "content": "虽然稍好一些",
+  "from": 705.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 312,
+  "to": 707.18
+ },
+ {
+  "content": "较高心率区域更多点接近蓝色线",
+  "from": 707.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 313,
+  "to": 710.67
+ },
+ {
+  "content": "但仍有许多点低于蓝色线",
+  "from": 710.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 314,
+  "to": 713.19
+ },
+ {
+  "content": "就在这里",
+  "from": 713.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 315,
+  "to": 713.85
+ },
+ {
+  "content": "相关值之前看到的数值现在为零点",
+  "from": 713.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 316,
+  "to": 717.49
+ },
+ {
+  "content": "九二，右手腕设备",
+  "from": 717.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 317,
+  "to": 719.77
+ },
+ {
+  "content": "左腕设备为零点八九",
+  "from": 719.77,
+  "location": 2,
+  "music": 0.0,
+  "sid": 318,
+  "to": 722.839
+ },
+ {
+  "content": "相比竞品这其实相当不错",
+  "from": 722.839,
+  "location": 2,
+  "music": 0.0,
+  "sid": 319,
+  "to": 725.879
+ },
+ {
+  "content": "但首先看看单次测试结果",
+  "from": 725.879,
+  "location": 2,
+  "music": 0.0,
+  "sid": 320,
+  "to": 727.899
+ },
+ {
+  "content": "然后我们再与竞品对比",
+  "from": 727.899,
+  "location": 2,
+  "music": 0.0,
+  "sid": 321,
+  "to": 729.42
+ },
+ {
+  "content": "这里是左腕米本十的结果",
+  "from": 729.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 322,
+  "to": 732.6
+ },
+ {
+  "content": "但红色仍是米安十",
+  "from": 732.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 323,
+  "to": 734.5
+ },
+ {
+  "content": "蓝色绿色为参考数据",
+  "from": 734.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 324,
+  "to": 736.53
+ },
+ {
+  "content": "每次我做一组训练时",
+  "from": 736.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 325,
+  "to": 738.53
+ },
+ {
+  "content": "心率会出现峰值",
+  "from": 738.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 326,
+  "to": 739.91
+ },
+ {
+  "content": "这些蓝色线清晰显示",
+  "from": 739.91,
+  "location": 2,
+  "music": 0.0,
+  "sid": 327,
+  "to": 742.76
+ },
+ {
+  "content": "很明显米安十经常无法检测",
+  "from": 742.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 328,
+  "to": 746.7
+ },
+ {
+  "content": "心率峰值",
+  "from": 746.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 329,
+  "to": 747.82
+ },
+ {
+  "content": "至少左腕设备如此",
+  "from": 747.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 330,
+  "to": 749.3
+ },
+ {
+  "content": "查看右腕设备结果",
+  "from": 749.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 331,
+  "to": 751.48
+ },
+ {
+  "content": "可能稍好一些",
+  "from": 751.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 332,
+  "to": 753.26
+ },
+ {
+  "content": "部分峰值被检测到",
+  "from": 753.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 333,
+  "to": 754.9
+ },
+ {
+  "content": "我认为这两个，这里这个",
+  "from": 754.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 334,
+  "to": 757.02
+ },
+ {
+  "content": "这里这个",
+  "from": 757.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 335,
+  "to": 757.78
+ },
+ {
+  "content": "现在第一个几乎完全检测到",
+  "from": 757.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 336,
+  "to": 761.19
+ },
+ {
+  "content": "但仍有多峰值被遗漏",
+  "from": 761.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 337,
+  "to": 763.21
+ },
+ {
+  "content": "不能说足够好",
+  "from": 763.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 338,
+  "to": 765.39
+ },
+ {
+  "content": "但相比竞品",
+  "from": 765.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 339,
+  "to": 767.17
+ },
+ {
+  "content": "这其实不算太差",
+  "from": 767.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 340,
+  "to": 768.57
+ },
+ {
+  "content": "现在看看竞品对比",
+  "from": 768.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 341,
+  "to": 769.89
+ },
+ {
+  "content": "这里显示这些结果",
+  "from": 769.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 342,
+  "to": 771.21
+ },
+ {
+  "content": "与之前类似概览",
+  "from": 771.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 343,
+  "to": 772.85
+ },
+ {
+  "content": "希望设备尽可能靠近顶部",
+  "from": 772.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 344,
+  "to": 775.25
+ },
+ {
+  "content": "越靠上越好",
+  "from": 775.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 345,
+  "to": 776.47
+ },
+ {
+  "content": "右腕米安十设备",
+  "from": 776.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 346,
+  "to": 778.69
+ },
+ {
+  "content": "红色标记在此",
+  "from": 778.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 347,
+  "to": 779.87
+ },
+ {
+  "content": "相关值零点九二",
+  "from": 779.87,
+  "location": 2,
+  "music": 0.0,
+  "sid": 348,
+  "to": 782.21
+ },
+ {
+  "content": "在同类设备中表现相当不错",
+  "from": 782.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 349,
+  "to": 785.68
+ },
+ {
+  "content": "如果稍微放大查看",
+  "from": 785.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 350,
+  "to": 786.76
+ },
+ {
+  "content": "我们可以更清楚地读取这些标签",
+  "from": 786.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 351,
+  "to": 788.24
+ },
+ {
+  "content": "这些都是相关性达到零点七或更高的设备",
+  "from": 788.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 352,
+  "to": 791.5
+ },
+ {
+  "content": "这里是我右手腕上的米安十和稍下方一点",
+  "from": 791.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 353,
+  "to": 795.96
+ },
+ {
+  "content": "这里就是我左手腕上的米安十",
+  "from": 795.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 354,
+  "to": 798.74
+ },
+ {
+  "content": "它们非常接近",
+  "from": 798.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 355,
+  "to": 800.04
+ },
+ {
+  "content": "实际上",
+  "from": 800.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 356,
+  "to": 800.38
+ },
+ {
+  "content": "基本上给出相似的结果",
+  "from": 800.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 357,
+  "to": 802.36
+ },
+ {
+  "content": "有时我发现左右手腕设备的性能有所不同",
+  "from": 802.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 358,
+  "to": 806.819
+ },
+ {
+  "content": "实际上总体而言",
+  "from": 806.819,
+  "location": 2,
+  "music": 0.0,
+  "sid": 359,
+  "to": 807.819
+ },
+ {
+  "content": "我的左腕似乎更适合米邦手表",
+  "from": 807.819,
+  "location": 2,
+  "music": 0.0,
+  "sid": 360,
+  "to": 810.539
+ },
+ {
+  "content": "目前为止我还看不出任何区别",
+  "from": 810.539,
+  "location": 2,
+  "music": 0.0,
+  "sid": 361,
+  "to": 812.199
+ },
+ {
+  "content": "结合这个相关性",
+  "from": 812.199,
+  "location": 2,
+  "music": 0.0,
+  "sid": 362,
+  "to": 813.359
+ },
+ {
+  "content": "这在同类设备中表现相当不错",
+  "from": 813.359,
+  "location": 2,
+  "music": 0.0,
+  "sid": 363,
+  "to": 815.99
+ },
+ {
+  "content": "可能做到",
+  "from": 815.99,
+  "location": 2,
+  "music": 0.0,
+  "sid": 364,
+  "to": 817.33
+ },
+ {
+  "content": "以及许多华为设备",
+  "from": 817.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 365,
+  "to": 819.48
+ },
+ {
+  "content": "不如苹果手表出色",
+  "from": 819.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 366,
+  "to": 821.68
+ },
+ {
+  "content": "这些是心率追踪领域最好的设备之一",
+  "from": 821.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 367,
+  "to": 824.52
+ },
+ {
+  "content": "但就价格而言",
+  "from": 824.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 368,
+  "to": 825.54
+ },
+ {
+  "content": "这确实非常优秀",
+  "from": 825.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 369,
+  "to": 827.2
+ },
+ {
+  "content": "我对这个结果很满意",
+  "from": 827.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 370,
+  "to": 828.87
+ },
+ {
+  "content": "现在来看举重测试",
+  "from": 828.87,
+  "location": 2,
+  "music": 0.0,
+  "sid": 371,
+  "to": 829.99
+ },
+ {
+  "content": "我仍然不会使用它",
+  "from": 829.99,
+  "location": 2,
+  "music": 0.0,
+  "sid": 372,
+  "to": 831.25
+ },
+ {
+  "content": "通常不会使用手腕佩戴的设备",
+  "from": 831.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 373,
+  "to": 833.57
+ },
+ {
+  "content": "除了苹果手表可能例外",
+  "from": 833.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 374,
+  "to": 835.41
+ },
+ {
+  "content": "但如果你想在举重时监测心率",
+  "from": 835.41,
+  "location": 2,
+  "music": 0.0,
+  "sid": 375,
+  "to": 837.53
+ },
+ {
+  "content": "强烈建议使用胸带设备",
+  "from": 837.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 376,
+  "to": 839.62
+ },
+ {
+  "content": "接下来我们来看骑行测试",
+  "from": 839.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 377,
+  "to": 841.54
+ },
+ {
+  "content": "这将是最重要的测试项目",
+  "from": 841.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 378,
+  "to": 843.839
+ },
+ {
+  "content": "因为户外骑行难度远超室内骑行",
+  "from": 843.839,
+  "location": 2,
+  "music": 0.0,
+  "sid": 379,
+  "to": 846.279
+ },
+ {
+  "content": "对许多人来说也非常重要",
+  "from": 846.279,
+  "location": 2,
+  "music": 0.0,
+  "sid": 380,
+  "to": 848.099
+ },
+ {
+  "content": "但难度仍不及举重",
+  "from": 848.099,
+  "location": 2,
+  "music": 0.0,
+  "sid": 381,
+  "to": 850.48
+ },
+ {
+  "content": "但在进行测试前",
+  "from": 850.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 382,
+  "to": 851.64
+ },
+ {
+  "content": "我需要先修理一辆自行车",
+  "from": 851.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 383,
+  "to": 853.16
+ },
+ {
+  "content": "这里有很多自行车",
+  "from": 853.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 384,
+  "to": 855.24
+ },
+ {
+  "content": "我其实还有更多自行车",
+  "from": 855.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 385,
+  "to": 857.02
+ },
+ {
+  "content": "我需要调整后轮辐条的张力",
+  "from": 857.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 386,
+  "to": 860.64
+ },
+ {
+  "content": "之前已经部分修复过",
+  "from": 860.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 387,
+  "to": 862.66
+ },
+ {
+  "content": "但仍存在小问题",
+  "from": 862.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 388,
+  "to": 863.88
+ },
+ {
+  "content": "需要更换那组踏板",
+  "from": 863.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 389,
+  "to": 866.41
+ },
+ {
+  "content": "然后应该就能骑行了",
+  "from": 866.41,
+  "location": 2,
+  "music": 0.0,
+  "sid": 390,
+  "to": 868.33
+ },
+ {
+  "content": "这辆自行车我已多年用于公路骑行",
+  "from": 868.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 391,
+  "to": 871.66
+ },
+ {
+  "content": "朋友们都有这些高端自行车",
+  "from": 871.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 392,
+  "to": 873.42
+ },
+ {
+  "content": "而我仍在使用老款钢架车",
+  "from": 873.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 393,
+  "to": 876.74
+ },
+ {
+  "content": "它仍然能正常工作",
+  "from": 876.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 394,
+  "to": 877.6
+ },
+ {
+  "content": "确实有些挑战",
+  "from": 877.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 395,
+  "to": 878.68
+ },
+ {
+  "content": "追赶他们的速度",
+  "from": 878.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 396,
+  "to": 879.38
+ },
+ {
+  "content": "但对健身很有帮助",
+  "from": 879.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 397,
+  "to": 880.63
+ },
+ {
+  "content": "我现在有一辆较新的自行车",
+  "from": 880.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 398,
+  "to": 882.71
+ },
+ {
+  "content": "仍来自两千年代",
+  "from": 882.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 399,
+  "to": 883.85
+ },
+ {
+  "content": "让我快速展示这辆给大家",
+  "from": 883.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 400,
+  "to": 885.53
+ },
+ {
+  "content": "这实际上就是我现在的公路车就在这里",
+  "from": 885.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 401,
+  "to": 888.3
+ },
+ {
+  "content": "它来自两千年初",
+  "from": 888.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 402,
+  "to": 890.54
+ },
+ {
+  "content": "那时候我觉得这是一辆很棒的自行车",
+  "from": 890.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 403,
+  "to": 892.7
+ },
+ {
+  "content": "但车身还是大部分是铝合金材质",
+  "from": 892.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 404,
+  "to": 894.36
+ },
+ {
+  "content": "如果有自行车品牌想赞助我",
+  "from": 894.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 405,
+  "to": 897.34
+ },
+ {
+  "content": "我是个非常热衷的骑行爱好者",
+  "from": 897.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 406,
+  "to": 898.82
+ },
+ {
+  "content": "我经常骑行",
+  "from": 898.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 407,
+  "to": 899.94
+ },
+ {
+  "content": "但用的都是比较旧的车",
+  "from": 899.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 408,
+  "to": 901.34
+ },
+ {
+  "content": "我很乐意试用碳纤维自行车",
+  "from": 901.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 409,
+  "to": 903.34
+ },
+ {
+  "content": "有时候猫在",
+  "from": 903.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 410,
+  "to": 904.62
+ },
+ {
+  "content": "例如",
+  "from": 904.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 411,
+  "to": 905.2
+ },
+ {
+  "content": "我给你发消息",
+  "from": 905.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 412,
+  "to": 906.16
+ },
+ {
+  "content": "我喜欢你的步枪装备",
+  "from": 906.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 413,
+  "to": 907.58
+ },
+ {
+  "content": "我有很多你的产品",
+  "from": 907.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 414,
+  "to": 908.839
+ },
+ {
+  "content": "如果你以后需要我",
+  "from": 908.839,
+  "location": 2,
+  "music": 0.0,
+  "sid": 415,
+  "to": 910.079
+ },
+ {
+  "content": "试试你的自行车",
+  "from": 910.079,
+  "location": 2,
+  "music": 0.0,
+  "sid": 416,
+  "to": 910.959
+ },
+ {
+  "content": "我很愿意",
+  "from": 910.959,
+  "location": 2,
+  "music": 0.0,
+  "sid": 417,
+  "to": 911.479
+ },
+ {
+  "content": "但只要是能生产高质量碳纤维车架的品牌",
+  "from": 911.479,
+  "location": 2,
+  "music": 0.0,
+  "sid": 418,
+  "to": 915.92
+ },
+ {
+  "content": "好的",
+  "from": 920.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 419,
+  "to": 921.1
+ },
+ {
+  "content": "我刚结束骑行回来",
+  "from": 921.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 420,
+  "to": 922.52
+ },
+ {
+  "content": "已经分析了数据",
+  "from": 922.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 421,
+  "to": 923.58
+ },
+ {
+  "content": "结果非常有趣",
+  "from": 923.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 422,
+  "to": 924.9
+ },
+ {
+  "content": "只有两次短途骑行",
+  "from": 924.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 423,
+  "to": 926.76
+ },
+ {
+  "content": "各约三十到三十五分钟",
+  "from": 926.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 424,
+  "to": 929.41
+ },
+ {
+  "content": "但数据非常清晰",
+  "from": 929.41,
+  "location": 2,
+  "music": 0.0,
+  "sid": 425,
+  "to": 930.97
+ },
+ {
+  "content": "我可以说",
+  "from": 930.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 426,
+  "to": 931.49
+ },
+ {
+  "content": "同时佩戴两块手表",
+  "from": 931.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 427,
+  "to": 932.61
+ },
+ {
+  "content": "我们实际上有四次骑行数据可分析",
+  "from": 932.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 428,
+  "to": 934.63
+ },
+ {
+  "content": "让我们看看并抱歉",
+  "from": 934.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 429,
+  "to": 936.17
+ },
+ {
+  "content": "这段视频里有些镜头我没穿衬衫",
+  "from": 936.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 430,
+  "to": 938.13
+ },
+ {
+  "content": "但此时房间温度是27度",
+  "from": 938.13,
+  "location": 2,
+  "music": 0.0,
+  "sid": 431,
+  "to": 940.17
+ },
+ {
+  "content": "摄氏度",
+  "from": 940.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 432,
+  "to": 941.35
+ },
+ {
+  "content": "对我来说太热了",
+  "from": 941.35,
+  "location": 2,
+  "music": 0.0,
+  "sid": 433,
+  "to": 942.8
+ },
+ {
+  "content": "我不知道那里是",
+  "from": 942.8,
+  "location": 2,
+  "music": 0.0,
+  "sid": 434,
+  "to": 943.84
+ },
+ {
+  "content": "华氏度阿莱克斯可以标注",
+  "from": 943.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 435,
+  "to": 945.2
+ },
+ {
+  "content": "现在让我们看看数据",
+  "from": 945.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 436,
+  "to": 947.0
+ },
+ {
+  "content": "而不是直接跳到相关性分析",
+  "from": 947.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 437,
+  "to": 949.02
+ },
+ {
+  "content": "我首先想观察骑行本身",
+  "from": 949.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 438,
+  "to": 951.61
+ },
+ {
+  "content": "这是第一次骑行就在这里",
+  "from": 951.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 439,
+  "to": 953.83
+ },
+ {
+  "content": "蓝色作为参考线",
+  "from": 953.83,
+  "location": 2,
+  "music": 0.0,
+  "sid": 440,
+  "to": 955.07
+ },
+ {
+  "content": "绿色和amieban十佩戴在我的右腕",
+  "from": 955.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 441,
+  "to": 957.27
+ },
+ {
+  "content": "红色显示在手腕处",
+  "from": 957.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 442,
+  "to": 958.27
+ },
+ {
+  "content": "看起来效果很好",
+  "from": 958.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 443,
+  "to": 959.87
+ },
+ {
+  "content": "说实话",
+  "from": 959.87,
+  "location": 2,
+  "music": 0.0,
+  "sid": 444,
+  "to": 960.43
+ },
+ {
+  "content": "mian十基本上能跟随我的心率变化",
+  "from": 960.43,
+  "location": 2,
+  "music": 0.0,
+  "sid": 445,
+  "to": 964.72
+ },
+ {
+  "content": "是的",
+  "from": 964.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 446,
+  "to": 965.14
+ },
+ {
+  "content": "有些细节缺失",
+  "from": 965.14,
+  "location": 2,
+  "music": 0.0,
+  "sid": 447,
+  "to": 966.76
+ },
+ {
+  "content": "但整体表现不错",
+  "from": 966.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 448,
+  "to": 969.46
+ },
+ {
+  "content": "这对我来说已经足够",
+  "from": 969.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 449,
+  "to": 970.74
+ },
+ {
+  "content": "现在让我们看看这次相同骑行",
+  "from": 970.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 450,
+  "to": 972.54
+ },
+ {
+  "content": "但现在看看我左腕上的那个，结果就在这里",
+  "from": 972.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 451,
+  "to": 976.59
+ },
+ {
+  "content": "看起来也不错",
+  "from": 976.59,
+  "location": 2,
+  "music": 0.0,
+  "sid": 452,
+  "to": 977.95
+ },
+ {
+  "content": "它会犯一些不同的错误",
+  "from": 977.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 453,
+  "to": 979.71
+ },
+ {
+  "content": "但整体表现大同小异",
+  "from": 979.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 454,
+  "to": 982.59
+ },
+ {
+  "content": "我认为",
+  "from": 982.59,
+  "location": 2,
+  "music": 0.0,
+  "sid": 455,
+  "to": 983.51
+ },
+ {
+  "content": "而第二辆自行车的右腕数据看起来更糟糕",
+  "from": 983.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 456,
+  "to": 987.67
+ },
+ {
+  "content": "仍然比某些设备的情况好很多",
+  "from": 987.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 457,
+  "to": 990.72
+ },
+ {
+  "content": "我们看到明显的偏差",
+  "from": 990.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 458,
+  "to": 992.74
+ },
+ {
+  "content": "尤其是在右半段的前半部分",
+  "from": 992.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 459,
+  "to": 995.06
+ },
+ {
+  "content": "可以看到红线有时偏高，比如这里",
+  "from": 995.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 460,
+  "to": 998.34
+ },
+ {
+  "content": "比如或者在这里",
+  "from": 998.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 461,
+  "to": 999.84
+ },
+ {
+  "content": "有时又偏低，比如这里",
+  "from": 999.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 462,
+  "to": 1002.319
+ },
+ {
+  "content": "但左腕佩戴的那个在这次表现稍好",
+  "from": 1002.319,
+  "location": 2,
+  "music": 0.0,
+  "sid": 463,
+  "to": 1006.599
+ },
+ {
+  "content": "这更接近真实情况",
+  "from": 1006.599,
+  "location": 2,
+  "music": 0.0,
+  "sid": 464,
+  "to": 1008.859
+ },
+ {
+  "content": "所以这对我来说已经足够好了",
+  "from": 1008.859,
+  "location": 2,
+  "music": 0.0,
+  "sid": 465,
+  "to": 1011.399
+ },
+ {
+  "content": "现在让我们看看这些相关性",
+  "from": 1011.399,
+  "location": 2,
+  "music": 0.0,
+  "sid": 466,
+  "to": 1013.39
+ },
+ {
+  "content": "先从右腕的miantenna开始",
+  "from": 1013.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 467,
+  "to": 1016.45
+ },
+ {
+  "content": "因为第二次骑行时它的表现最差",
+  "from": 1016.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 468,
+  "to": 1019.569
+ },
+ {
+  "content": "这里是我们整体结果的概览",
+  "from": 1019.569,
+  "location": 2,
+  "music": 0.0,
+  "sid": 469,
+  "to": 1021.72
+ },
+ {
+  "content": "相关性仍达0.91，相当不错",
+  "from": 1021.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 470,
+  "to": 1025.56
+ },
+ {
+  "content": "比市面上许多设备都要好",
+  "from": 1025.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 471,
+  "to": 1028.02
+ },
+ {
+  "content": "大多数点都靠近蓝色基准线",
+  "from": 1028.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 472,
+  "to": 1030.98
+ },
+ {
+  "content": "正如我们看到的",
+  "from": 1030.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 473,
+  "to": 1032.06
+ },
+ {
+  "content": "在较低心率区间",
+  "from": 1032.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 474,
+  "to": 1033.76
+ },
+ {
+  "content": "有时到较高心率",
+  "from": 1033.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 475,
+  "to": 1035.82
+ },
+ {
+  "content": "在较高心率区间",
+  "from": 1035.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 476,
+  "to": 1037.82
+ },
+ {
+  "content": "有时检测到偏低心率",
+  "from": 1037.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 477,
+  "to": 1040.65
+ },
+ {
+  "content": "这与第二次测试前半段的情况相关",
+  "from": 1040.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 478,
+  "to": 1044.27
+ },
+ {
+  "content": "有时偏高有时偏低",
+  "from": 1044.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 479,
+  "to": 1047.579
+ },
+ {
+  "content": "但整体仍不算太差",
+  "from": 1047.579,
+  "location": 2,
+  "music": 0.0,
+  "sid": 480,
+  "to": 1050.139
+ },
+ {
+  "content": "现在看看我左腕佩戴的那个",
+  "from": 1050.139,
+  "location": 2,
+  "music": 0.0,
+  "sid": 481,
+  "to": 1052.99
+ },
+ {
+  "content": "结果更好",
+  "from": 1052.99,
+  "location": 2,
+  "music": 0.0,
+  "sid": 482,
+  "to": 1054.55
+ },
+ {
+  "content": "相关性非常出色",
+  "from": 1054.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 483,
+  "to": 1056.33
+ },
+ {
+  "content": "达到零点",
+  "from": 1056.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 484,
+  "to": 1057.11
+ },
+ {
+  "content": "九六，多数点位于",
+  "from": 1057.11,
+  "location": 2,
+  "music": 0.0,
+  "sid": 485,
+  "to": 1059.74
+ },
+ {
+  "content": "或至少接近蓝色基准线",
+  "from": 1059.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 486,
+  "to": 1061.34
+ },
+ {
+  "content": "考虑到这款设备的价格",
+  "from": 1061.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 487,
+  "to": 1063.67
+ },
+ {
+  "content": "大概五十美元左右",
+  "from": 1063.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 488,
+  "to": 1066.15
+ },
+ {
+  "content": "但具体购买时间可能更便宜",
+  "from": 1066.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 489,
+  "to": 1067.39
+ },
+ {
+  "content": "甚至更便宜",
+  "from": 1067.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 490,
+  "to": 1068.77
+ },
+ {
+  "content": "这真的太棒了",
+  "from": 1068.77,
+  "location": 2,
+  "music": 0.0,
+  "sid": 491,
+  "to": 1070.4
+ },
+ {
+  "content": "现在有一些原因可能让它表现良好",
+  "from": 1070.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 492,
+  "to": 1072.88
+ },
+ {
+  "content": "其中一个原因是",
+  "from": 1072.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 493,
+  "to": 1073.48
+ },
+ {
+  "content": "例如",
+  "from": 1073.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 494,
+  "to": 1073.84
+ },
+ {
+  "content": "外界温度",
+  "from": 1073.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 495,
+  "to": 1074.88
+ },
+ {
+  "content": "正如你看到的",
+  "from": 1074.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 496,
+  "to": 1075.74
+ },
+ {
+  "content": "现在室内温度很高",
+  "from": 1075.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 497,
+  "to": 1077.46
+ },
+ {
+  "content": "27.4摄氏度",
+  "from": 1077.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 498,
+  "to": 1079.12
+ },
+ {
+  "content": "因为外面很热",
+  "from": 1079.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 499,
+  "to": 1080.909
+ },
+ {
+  "content": "而升高温度可能促进了手臂的血液循环",
+  "from": 1080.909,
+  "location": 2,
+  "music": 0.0,
+  "sid": 500,
+  "to": 1085.869
+ },
+ {
+  "content": "因此设备更容易捕捉到这个信号",
+  "from": 1085.869,
+  "location": 2,
+  "music": 0.0,
+  "sid": 501,
+  "to": 1088.94
+ },
+ {
+  "content": "我不确定这是否真的如此",
+  "from": 1088.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 502,
+  "to": 1090.46
+ },
+ {
+  "content": "这是我非常想深入研究的课题",
+  "from": 1090.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 503,
+  "to": 1092.5
+ },
+ {
+  "content": "看看设备性能与外界温度是否存在关联",
+  "from": 1092.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 504,
+  "to": 1097.389
+ },
+ {
+  "content": "但整体来看效果相当不错",
+  "from": 1097.389,
+  "location": 2,
+  "music": 0.0,
+  "sid": 505,
+  "to": 1098.949
+ },
+ {
+  "content": "但我们需要将其放在众多设备的对比中",
+  "from": 1098.949,
+  "location": 2,
+  "music": 0.0,
+  "sid": 506,
+  "to": 1101.889
+ },
+ {
+  "content": "你可以在这里看到这个概览图",
+  "from": 1101.889,
+  "location": 2,
+  "music": 0.0,
+  "sid": 507,
+  "to": 1103.709
+ },
+ {
+  "content": "你现在应该对这种概览图很熟悉了",
+  "from": 1103.709,
+  "location": 2,
+  "music": 0.0,
+  "sid": 508,
+  "to": 1106.22
+ },
+ {
+  "content": "我们希望设备尽可能靠近右上角",
+  "from": 1106.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 509,
+  "to": 1109.22
+ },
+ {
+  "content": "我在这里用红色标出了左腕的mian ten",
+  "from": 1109.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 510,
+  "to": 1113.07
+ },
+ {
+  "content": "它与右腕的mian ten相差不远",
+  "from": 1113.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 511,
+  "to": 1116.95
+ },
+ {
+  "content": "就在这里",
+  "from": 1116.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 512,
+  "to": 1117.97
+ },
+ {
+  "content": "这个数据有点难读",
+  "from": 1117.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 513,
+  "to": 1119.45
+ },
+ {
+  "content": "但我想强调其右上角的位置",
+  "from": 1119.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 514,
+  "to": 1122.17
+ },
+ {
+  "content": "这些设备至少基于这个初步测试",
+  "from": 1122.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 515,
+  "to": 1125.21
+ },
+ {
+  "content": "相比竞品表现相当出色",
+  "from": 1125.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 516,
+  "to": 1127.89
+ },
+ {
+  "content": "但让我们稍微放大一点",
+  "from": 1127.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 517,
+  "to": 1129.16
+ },
+ {
+  "content": "这样标签会更清晰易读",
+  "from": 1129.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 518,
+  "to": 1130.48
+ },
+ {
+  "content": "这个缩放视图正在播放",
+  "from": 1130.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 519,
+  "to": 1132.24
+ },
+ {
+  "content": "这些设备与左腕mian ten的相关性达0.8以上",
+  "from": 1132.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 520,
+  "to": 1136.05
+ },
+ {
+  "content": "左腕的mian ten用红色标记",
+  "from": 1136.05,
+  "location": 2,
+  "music": 0.0,
+  "sid": 521,
+  "to": 1138.73
+ },
+ {
+  "content": "就在这里稍低一点",
+  "from": 1138.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 522,
+  "to": 1141.37
+ },
+ {
+  "content": "这里是右腕的mian ten",
+  "from": 1141.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 523,
+  "to": 1143.55
+ },
+ {
+  "content": "但两者表现确实不错",
+  "from": 1143.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 524,
+  "to": 1146.1
+ },
+ {
+  "content": "嗯",
+  "from": 1146.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 525,
+  "to": 1146.5
+ },
+ {
+  "content": "它们的表现与",
+  "from": 1146.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 526,
+  "to": 1148.5
+ },
+ {
+  "content": "例如",
+  "from": 1148.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 527,
+  "to": 1149.18
+ },
+ {
+  "content": "这是另一款小型设备",
+  "from": 1150.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 528,
+  "to": 1152.409
+ },
+ {
+  "content": "华为Watch Fit三",
+  "from": 1152.409,
+  "location": 2,
+  "music": 0.0,
+  "sid": 529,
+  "to": 1153.889
+ },
+ {
+  "content": "以及Whyi Watch四代",
+  "from": 1153.889,
+  "location": 2,
+  "music": 0.0,
+  "sid": 530,
+  "to": 1155.109
+ },
+ {
+  "content": "这两款硬件追踪器也很优秀",
+  "from": 1155.109,
+  "location": 2,
+  "music": 0.0,
+  "sid": 531,
+  "to": 1157.69
+ },
+ {
+  "content": "我对这两款的数据比mivan ten更多",
+  "from": 1157.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 532,
+  "to": 1160.57
+ },
+ {
+  "content": "未来需要做更多测试",
+  "from": 1160.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 533,
+  "to": 1162.45
+ },
+ {
+  "content": "但初步测试结果令人满意",
+  "from": 1162.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 534,
+  "to": 1164.95
+ },
+ {
+  "content": "不如Pixel Watch三代",
+  "from": 1164.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 535,
+  "to": 1167.79
+ },
+ {
+  "content": "以及不同款苹果手表",
+  "from": 1167.79,
+  "location": 2,
+  "music": 0.0,
+  "sid": 536,
+  "to": 1169.27
+ },
+ {
+  "content": "这些仍是最佳硬件追踪器",
+  "from": 1169.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 537,
+  "to": 1171.85
+ },
+ {
+  "content": "但就价格而言",
+  "from": 1171.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 538,
+  "to": 1173.15
+ },
+ {
+  "content": "我确实相当满意",
+  "from": 1173.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 539,
+  "to": 1175.37
+ },
+ {
+  "content": "现在这个价格的心率追踪表现不错",
+  "from": 1175.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 540,
+  "to": 1178.999
+ },
+ {
+  "content": "这是初步测试",
+  "from": 1178.999,
+  "location": 2,
+  "music": 0.0,
+  "sid": 541,
+  "to": 1180.079
+ },
+ {
+  "content": "至少能反映设备的潜在能力",
+  "from": 1180.079,
+  "location": 2,
+  "music": 0.0,
+  "sid": 542,
+  "to": 1183.719
+ },
+ {
+  "content": "还有一个运动项目",
+  "from": 1183.719,
+  "location": 2,
+  "music": 0.0,
+  "sid": 543,
+  "to": 1185.24
+ },
+ {
+  "content": "不过如果你查看",
+  "from": 1185.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 544,
+  "to": 1185.96
+ },
+ {
+  "content": "那就是跑步",
+  "from": 1185.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 545,
+  "to": 1186.54
+ },
+ {
+  "content": "我始终使用跑步APP进行测试",
+  "from": 1186.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 546,
+  "to": 1188.2
+ },
+ {
+  "content": "但后续再说",
+  "from": 1188.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 547,
+  "to": 1189.26
+ },
+ {
+  "content": "明天我会做跑步测试",
+  "from": 1189.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 548,
+  "to": 1191.2
+ },
+ {
+  "content": "因为我真的需要休息了",
+  "from": 1191.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 549,
+  "to": 1192.44
+ },
+ {
+  "content": "现在已经很晚了",
+  "from": 1192.44,
+  "location": 2,
+  "music": 0.0,
+  "sid": 550,
+  "to": 1193.61
+ },
+ {
+  "content": "今天我已经做了不少练习",
+  "from": 1193.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 551,
+  "to": 1195.91
+ },
+ {
+  "content": "所以我们明天再做",
+  "from": 1195.91,
+  "location": 2,
+  "music": 0.0,
+  "sid": 552,
+  "to": 1197.17
+ },
+ {
+  "content": "还要检查睡眠阶段的一致性",
+  "from": 1197.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 553,
+  "to": 1200.09
+ },
+ {
+  "content": "追踪两个设备",
+  "from": 1200.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 554,
+  "to": 1202.07
+ },
+ {
+  "content": "因为它们应该追踪相同的睡眠阶段",
+  "from": 1202.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 555,
+  "to": 1204.37
+ },
+ {
+  "content": "如果不然",
+  "from": 1204.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 556,
+  "to": 1204.85
+ },
+ {
+  "content": "那它们可能不太可靠",
+  "from": 1204.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 557,
+  "to": 1206.68
+ },
+ {
+  "content": "我们还会尝试与EEG设备对比",
+  "from": 1206.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 558,
+  "to": 1209.28
+ },
+ {
+  "content": "那个实际测量脑波的设备",
+  "from": 1209.28,
+  "location": 2,
+  "music": 0.0,
+  "sid": 559,
+  "to": 1210.84
+ },
+ {
+  "content": "但单晚有时可能出现误差",
+  "from": 1210.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 560,
+  "to": 1212.9
+ },
+ {
+  "content": "现在由明天的罗伯发言",
+  "from": 1212.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 561,
+  "to": 1215.04
+ },
+ {
+  "content": "我第一次用两个Me Ben设备入睡",
+  "from": 1215.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 562,
+  "to": 1217.6
+ },
+ {
+  "content": "结果并不理想",
+  "from": 1217.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 563,
+  "to": 1220.08
+ },
+ {
+  "content": "初看之下",
+  "from": 1220.08,
+  "location": 2,
+  "music": 0.0,
+  "sid": 564,
+  "to": 1221.08
+ },
+ {
+  "content": "至少我可以并排对比睡眠阶段",
+  "from": 1221.08,
+  "location": 2,
+  "music": 0.0,
+  "sid": 565,
+  "to": 1224.9
+ },
+ {
+  "content": "这是其中一个设备",
+  "from": 1224.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 566,
+  "to": 1226.86
+ },
+ {
+  "content": "如果我们将另一个并排放置",
+  "from": 1226.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 567,
+  "to": 1228.92
+ },
+ {
+  "content": "两者存在明显差异",
+  "from": 1228.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 568,
+  "to": 1231.63
+ },
+ {
+  "content": "醒来时刻大致相似",
+  "from": 1231.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 569,
+  "to": 1234.05
+ },
+ {
+  "content": "但其他时间差异明显",
+  "from": 1234.05,
+  "location": 2,
+  "music": 0.0,
+  "sid": 570,
+  "to": 1237.09
+ },
+ {
+  "content": "我打算做正式分析",
+  "from": 1237.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 571,
+  "to": 1240.47
+ },
+ {
+  "content": "但提取数据很困难",
+  "from": 1240.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 572,
+  "to": 1242.43
+ },
+ {
+  "content": "我得手动录入Excel表格",
+  "from": 1242.43,
+  "location": 2,
+  "music": 0.0,
+  "sid": 573,
+  "to": 1245.29
+ },
+ {
+  "content": "希望EEG数据质量也足够",
+  "from": 1245.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 574,
+  "to": 1248.97
+ },
+ {
+  "content": "我也要检查这部分数据",
+  "from": 1248.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 575,
+  "to": 1250.51
+ },
+ {
+  "content": "但先去跑步",
+  "from": 1250.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 576,
+  "to": 1251.95
+ },
+ {
+  "content": "因为天气开始变热",
+  "from": 1251.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 577,
+  "to": 1253.08
+ },
+ {
+  "content": "房间温度又回升到27度",
+  "from": 1253.08,
+  "location": 2,
+  "music": 0.0,
+  "sid": 578,
+  "to": 1256.92
+ },
+ {
+  "content": "我的工作室更热",
+  "from": 1256.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 579,
+  "to": 1258.9
+ },
+ {
+  "content": "这里没有空调",
+  "from": 1258.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 580,
+  "to": 1260.88
+ },
+ {
+  "content": "得赶紧去跑步",
+  "from": 1260.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 581,
+  "to": 1263.1
+ },
+ {
+  "content": "接下来查看数据",
+  "from": 1263.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 582,
+  "to": 1264.6
+ },
+ {
+  "content": "然后进行睡眠阶段正式分析",
+  "from": 1264.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 583,
+  "to": 1268.26
+ },
+ {
+  "content": "对比两个设备数据一致性",
+  "from": 1268.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 584,
+  "to": 1271.139
+ },
+ {
+  "content": "是否与EEG结果相符",
+  "from": 1271.139,
+  "location": 2,
+  "music": 0.0,
+  "sid": 585,
+  "to": 1272.859
+ },
+ {
+  "content": "数据质量是否足够",
+  "from": 1272.859,
+  "location": 2,
+  "music": 0.0,
+  "sid": 586,
+  "to": 1274.419
+ },
+ {
+  "content": "但先去跑步",
+  "from": 1274.419,
+  "location": 2,
+  "music": 0.0,
+  "sid": 587,
+  "to": 1276.079
+ },
+ {
+  "content": "嗯",
+  "from": 1276.079,
+  "location": 2,
+  "music": 0.0,
+  "sid": 588,
+  "to": 1276.419
+ },
+ {
+  "content": "先喝杯咖啡再去跑步",
+  "from": 1276.419,
+  "location": 2,
+  "music": 0.0,
+  "sid": 589,
+  "to": 1278.82
+ },
+ {
+  "content": "我并非专业跑者",
+  "from": 1278.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 590,
+  "to": 1280.64
+ },
+ {
+  "content": "我是自行车运动员",
+  "from": 1280.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 591,
+  "to": 1282.02
+ },
+ {
+  "content": "骑了大约十五年",
+  "from": 1282.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 592,
+  "to": 1284.66
+ },
+ {
+  "content": "用于运动和日常通勤",
+  "from": 1284.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 593,
+  "to": 1288.099
+ },
+ {
+  "content": "一直难以制定跑步计划",
+  "from": 1288.099,
+  "location": 2,
+  "music": 0.0,
+  "sid": 594,
+  "to": 1290.159
+ },
+ {
+  "content": "这就是Runner的作用",
+  "from": 1290.159,
+  "location": 2,
+  "music": 0.0,
+  "sid": 595,
+  "to": 1291.619
+ },
+ {
+  "content": "我加入Runner社区",
+  "from": 1291.619,
+  "location": 2,
+  "music": 0.0,
+  "sid": 596,
+  "to": 1292.879
+ },
+ {
+  "content": "Runner是最佳跑步教练App",
+  "from": 1292.879,
+  "location": 2,
+  "music": 0.0,
+  "sid": 597,
+  "to": 1295.579
+ },
+ {
+  "content": "它会为你制定完整跑计划",
+  "from": 1295.579,
+  "location": 2,
+  "music": 0.0,
+  "sid": 598,
+  "to": 1297.7
+ },
+ {
+  "content": "设定目标后",
+  "from": 1297.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 599,
+  "to": 1298.72
+ },
+ {
+  "content": "或者如果你只是想开始跑步",
+  "from": 1298.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 600,
+  "to": 1301.1
+ },
+ {
+  "content": "在跑步过程中",
+  "from": 1301.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 601,
+  "to": 1302.18
+ },
+ {
+  "content": "例如在你的佳明设备或手机上",
+  "from": 1302.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 602,
+  "to": 1304.36
+ },
+ {
+  "content": "会显示你的配速",
+  "from": 1304.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 603,
+  "to": 1305.84
+ },
+ {
+  "content": "如果这个配速在范围内",
+  "from": 1305.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 604,
+  "to": 1307.28
+ },
+ {
+  "content": "或者是否需要加速或减速",
+  "from": 1307.28,
+  "location": 2,
+  "music": 0.0,
+  "sid": 605,
+  "to": 1309.23
+ },
+ {
+  "content": "我真的很喜欢",
+  "from": 1309.23,
+  "location": 2,
+  "music": 0.0,
+  "sid": 606,
+  "to": 1310.27
+ },
+ {
+  "content": "它彻底改变了",
+  "from": 1310.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 607,
+  "to": 1311.11
+ },
+ {
+  "content": "我跑步的方式变得积极",
+  "from": 1311.11,
+  "location": 2,
+  "music": 0.0,
+  "sid": 608,
+  "to": 1312.51
+ },
+ {
+  "content": "让我有种知道自己在做什么的感觉",
+  "from": 1312.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 609,
+  "to": 1315.01
+ },
+ {
+  "content": "因为以前我会开始太快",
+  "from": 1315.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 610,
+  "to": 1317.22
+ },
+ {
+  "content": "快得太多",
+  "from": 1317.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 611,
+  "to": 1318.18
+ },
+ {
+  "content": "因为我通常因骑行保持良好体能",
+  "from": 1318.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 612,
+  "to": 1320.26
+ },
+ {
+  "content": "而对于跑步",
+  "from": 1320.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 613,
+  "to": 1320.98
+ },
+ {
+  "content": "我总是受伤",
+  "from": 1320.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 614,
+  "to": 1321.94
+ },
+ {
+  "content": "现在好多了",
+  "from": 1321.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 615,
+  "to": 1323.1
+ },
+ {
+  "content": "所以喝完咖啡后",
+  "from": 1323.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 616,
+  "to": 1324.06
+ },
+ {
+  "content": "我们要和Runner一起跑并分析数据",
+  "from": 1324.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 617,
+  "to": 1327.5
+ },
+ {
+  "content": "我会尝试边 multitasking 边拉伸",
+  "from": 1330.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 618,
+  "to": 1333.58
+ },
+ {
+  "content": "跑步时我同时查看手表和参考数据",
+  "from": 1333.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 619,
+  "to": 1337.01
+ },
+ {
+  "content": "两者看起来还算正常",
+  "from": 1337.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 620,
+  "to": 1339.05
+ },
+ {
+  "content": "有一刻看到一些偏差",
+  "from": 1339.05,
+  "location": 2,
+  "music": 0.0,
+  "sid": 621,
+  "to": 1341.21
+ },
+ {
+  "content": "但可能只是短暂差异",
+  "from": 1341.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 622,
+  "to": 1344.19
+ },
+ {
+  "content": "所有分析正在运行",
+  "from": 1344.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 623,
+  "to": 1345.67
+ },
+ {
+  "content": "现在我可以展示",
+  "from": 1345.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 624,
+  "to": 1346.95
+ },
+ {
+  "content": "所有心率分析都在这里进行",
+  "from": 1346.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 625,
+  "to": 1350.25
+ },
+ {
+  "content": "我正在分析睡眠阶段数据",
+  "from": 1350.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 626,
+  "to": 1353.54
+ },
+ {
+  "content": "做完拉伸后",
+  "from": 1353.54,
+  "location": 2,
+  "music": 0.0,
+  "sid": 627,
+  "to": 1355.4
+ },
+ {
+  "content": "我们共同查看结果，跑步数据看起来很棒",
+  "from": 1355.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 628,
+  "to": 1360.24
+ },
+ {
+  "content": "这是左手腕上的设备",
+  "from": 1360.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 629,
+  "to": 1362.659
+ },
+ {
+  "content": "可以看到小米手环十的红线",
+  "from": 1362.659,
+  "location": 2,
+  "music": 0.0,
+  "sid": 630,
+  "to": 1366.139
+ },
+ {
+  "content": "几乎完美重合参考设备的蓝绿线",
+  "from": 1366.139,
+  "location": 2,
+  "music": 0.0,
+  "sid": 631,
+  "to": 1370.25
+ },
+ {
+  "content": "这里我没有任何抱怨",
+  "from": 1370.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 632,
+  "to": 1372.75
+ },
+ {
+  "content": "看看另一个",
+  "from": 1372.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 633,
+  "to": 1374.37
+ },
+ {
+  "content": "右手腕的设备同样完美",
+  "from": 1374.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 634,
+  "to": 1377.73
+ },
+ {
+  "content": "有些细微偏差",
+  "from": 1377.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 635,
+  "to": 1379.21
+ },
+ {
+  "content": "但非常微小",
+  "from": 1379.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 636,
+  "to": 1380.57
+ },
+ {
+  "content": "初期这里无需抱怨",
+  "from": 1380.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 637,
+  "to": 1383.939
+ },
+ {
+  "content": "可以看到刚开始时",
+  "from": 1383.939,
+  "location": 2,
+  "music": 0.0,
+  "sid": 638,
+  "to": 1385.339
+ },
+ {
+  "content": "需要几秒稳定心率",
+  "from": 1385.339,
+  "location": 2,
+  "music": 0.0,
+  "sid": 639,
+  "to": 1387.3
+ },
+ {
+  "content": "只有几秒钟",
+  "from": 1387.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 640,
+  "to": 1388.68
+ },
+ {
+  "content": "之后基本完美",
+  "from": 1388.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 641,
+  "to": 1391.69
+ },
+ {
+  "content": "但我们需要量化",
+  "from": 1391.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 642,
+  "to": 1392.97
+ },
+ {
+  "content": "计算相关性并查看图表",
+  "from": 1392.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 643,
+  "to": 1395.63
+ },
+ {
+  "content": "这是左手腕小米十的相关图表",
+  "from": 1395.63,
+  "location": 2,
+  "music": 0.0,
+  "sid": 644,
+  "to": 1399.52
+ },
+ {
+  "content": "相关性近乎完美",
+  "from": 1399.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 645,
+  "to": 1401.86
+ },
+ {
+  "content": "相关系数接近1.00",
+  "from": 1401.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 646,
+  "to": 1405.22
+ },
+ {
+  "content": "相关性最高为1",
+  "from": 1405.22,
+  "location": 2,
+  "music": 0.0,
+  "sid": 647,
+  "to": 1407.56
+ },
+ {
+  "content": "1.00接近完美",
+  "from": 1407.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 648,
+  "to": 1410.18
+ },
+ {
+  "content": "仍有微小偏差",
+  "from": 1410.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 649,
+  "to": 1411.94
+ },
+ {
+  "content": "但这通常是能达到的最好效果了",
+  "from": 1411.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 650,
+  "to": 1415.0
+ },
+ {
+  "content": "不过让我们看看右手腕上的那个",
+  "from": 1415.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 651,
+  "to": 1417.78
+ },
+ {
+  "content": "这同样基本完美",
+  "from": 1417.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 652,
+  "to": 1419.36
+ },
+ {
+  "content": "我们看到开始时它需要几秒来同步心率",
+  "from": 1419.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 653,
+  "to": 1422.78
+ },
+ {
+  "content": "这就是为什么在几次测量中",
+  "from": 1422.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 654,
+  "to": 1424.62
+ },
+ {
+  "content": "心率显示偏低",
+  "from": 1424.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 655,
+  "to": 1425.9
+ },
+ {
+  "content": "但之后再次",
+  "from": 1425.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 656,
+  "to": 1427.36
+ },
+ {
+  "content": "紧贴蓝色基准线",
+  "from": 1427.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 657,
+  "to": 1428.94
+ },
+ {
+  "content": "很少有手表能像这个设备表现得这么好",
+  "from": 1428.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 658,
+  "to": 1432.139
+ },
+ {
+  "content": "不过让我们更详细地观察一下",
+  "from": 1432.139,
+  "location": 2,
+  "music": 0.0,
+  "sid": 659,
+  "to": 1434.659
+ },
+ {
+  "content": "通过分析我过去测试过的众多设备表现",
+  "from": 1434.659,
+  "location": 2,
+  "music": 0.0,
+  "sid": 660,
+  "to": 1437.46
+ },
+ {
+  "content": "这里是我们整体概览",
+  "from": 1437.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 661,
+  "to": 1439.04
+ },
+ {
+  "content": "我们希望设备尽可能靠近右上角",
+  "from": 1439.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 662,
+  "to": 1442.6
+ },
+ {
+  "content": "左腕的miband十用红色标注",
+  "from": 1442.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 663,
+  "to": 1445.74
+ },
+ {
+  "content": "就在这里，右腕的设备也非常接近",
+  "from": 1445.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 664,
+  "to": 1449.49
+ },
+ {
+  "content": "就在这里",
+  "from": 1449.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 665,
+  "to": 1450.37
+ },
+ {
+  "content": "大概五台设备左右",
+  "from": 1450.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 666,
+  "to": 1453.3
+ },
+ {
+  "content": "但它们都是顶尖设备之一",
+  "from": 1453.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 667,
+  "to": 1456.1
+ },
+ {
+  "content": "我确实没想到会是这样",
+  "from": 1456.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 668,
+  "to": 1458.75
+ },
+ {
+  "content": "不知道当前天气状况",
+  "from": 1458.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 669,
+  "to": 1460.97
+ },
+ {
+  "content": "以及我跑步时的节奏是否平稳",
+  "from": 1460.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 670,
+  "to": 1464.49
+ },
+ {
+  "content": "某种方式提升了性能",
+  "from": 1464.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 671,
+  "to": 1466.45
+ },
+ {
+  "content": "但整体表现非常出色",
+  "from": 1466.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 672,
+  "to": 1468.42
+ },
+ {
+  "content": "我们也看到其他表现优异的运动项目",
+  "from": 1468.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 673,
+  "to": 1471.36
+ },
+ {
+  "content": "不过我们再放大一点",
+  "from": 1471.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 674,
+  "to": 1472.36
+ },
+ {
+  "content": "这样标签更清晰",
+  "from": 1472.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 675,
+  "to": 1473.66
+ },
+ {
+  "content": "这里需要调整视图",
+  "from": 1473.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 676,
+  "to": 1475.24
+ },
+ {
+  "content": "仅显示相关性0.9或更高的设备",
+  "from": 1475.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 677,
+  "to": 1479.26
+ },
+ {
+  "content": "左腕的miband十表现最佳",
+  "from": 1479.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 678,
+  "to": 1482.62
+ },
+ {
+  "content": "在我测试的所有设备中再次",
+  "from": 1482.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 679,
+  "to": 1485.26
+ },
+ {
+  "content": "这是在晴天单次跑步的数据",
+  "from": 1485.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 680,
+  "to": 1488.29
+ },
+ {
+  "content": "但仍非常优秀",
+  "from": 1488.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 681,
+  "to": 1489.73
+ },
+ {
+  "content": "右腕的设备几乎相同",
+  "from": 1489.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 682,
+  "to": 1492.3
+ },
+ {
+  "content": "至少双腕都有重复测量",
+  "from": 1492.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 683,
+  "to": 1495.64
+ },
+ {
+  "content": "我有点担心",
+  "from": 1495.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 684,
+  "to": 1496.78
+ },
+ {
+  "content": "但我觉得并非如此",
+  "from": 1496.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 685,
+  "to": 1498.34
+ },
+ {
+  "content": "或许miband十在搜索蓝牙心率信号",
+  "from": 1498.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 686,
+  "to": 1502.78
+ },
+ {
+  "content": "并未经允许就使用这些数据",
+  "from": 1502.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 687,
+  "to": 1505.34
+ },
+ {
+  "content": "这应该不是真的",
+  "from": 1505.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 688,
+  "to": 1506.909
+ },
+ {
+  "content": "这可能是它表现优异的异常解释",
+  "from": 1506.909,
+  "location": 2,
+  "music": 0.0,
+  "sid": 689,
+  "to": 1510.76
+ },
+ {
+  "content": "假设并非如此",
+  "from": 1510.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 690,
+  "to": 1512.38
+ },
+ {
+  "content": "它依然表现极佳",
+  "from": 1512.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 691,
+  "to": 1513.48
+ },
+ {
+  "content": "miband内置心率监测效果很好",
+  "from": 1513.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 692,
+  "to": 1518.27
+ },
+ {
+  "content": "就价格而言",
+  "from": 1518.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 693,
+  "to": 1519.23
+ },
+ {
+  "content": "这几乎是最佳设备",
+  "from": 1519.23,
+  "location": 2,
+  "music": 0.0,
+  "sid": 694,
+  "to": 1521.19
+ },
+ {
+  "content": "唯一竞争对手",
+  "from": 1521.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 695,
+  "to": 1522.66
+ },
+ {
+  "content": "华为手环",
+  "from": 1522.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 696,
+  "to": 1523.62
+ },
+ {
+  "content": "所以",
+  "from": 1523.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 697,
+  "to": 1523.82
+ },
+ {
+  "content": "例如",
+  "from": 1523.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 698,
+  "to": 1524.18
+ },
+ {
+  "content": "华为手环九在我身上表现不错",
+  "from": 1524.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 699,
+  "to": 1526.38
+ },
+ {
+  "content": "运行效果与miband十差不多",
+  "from": 1526.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 700,
+  "to": 1529.0
+ },
+ {
+  "content": "这两款华为手环都非常便宜",
+  "from": 1529.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 701,
+  "to": 1532.04
+ },
+ {
+  "content": "屏幕稍大一些",
+  "from": 1532.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 702,
+  "to": 1533.46
+ },
+ {
+  "content": "但总体我对小米非常满意",
+  "from": 1533.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 703,
+  "to": 1536.42
+ },
+ {
+  "content": "表现大致相同",
+  "from": 1536.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 704,
+  "to": 1538.6
+ },
+ {
+  "content": "例如",
+  "from": 1538.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 705,
+  "to": 1539.14
+ },
+ {
+  "content": "我佩戴在上臂的whoop mg或不同款苹果手表",
+  "from": 1539.14,
+  "location": 2,
+  "music": 0.0,
+  "sid": 706,
+  "to": 1543.53
+ },
+ {
+  "content": "现在我会进行更多测试",
+  "from": 1543.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 707,
+  "to": 1544.75
+ },
+ {
+  "content": "希望也给raphael做测试",
+  "from": 1544.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 708,
+  "to": 1547.35
+ },
+ {
+  "content": "或者让其他人独立测试",
+  "from": 1547.35,
+  "location": 2,
+  "music": 0.0,
+  "sid": 709,
+  "to": 1549.89
+ },
+ {
+  "content": "米十在心率监测方面表现不错",
+  "from": 1549.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 710,
+  "to": 1552.61
+ },
+ {
+  "content": "但这已是一个良好开端",
+  "from": 1552.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 711,
+  "to": 1554.23
+ },
+ {
+  "content": "我不知道你的看法 我没预料到这个结果",
+  "from": 1554.23,
+  "location": 2,
+  "music": 0.0,
+  "sid": 712,
+  "to": 1556.39
+ },
+ {
+  "content": "也许你有不同的使用体验",
+  "from": 1556.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 713,
+  "to": 1558.31
+ },
+ {
+  "content": "我其实想看看米带十的中心部分",
+  "from": 1558.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 714,
+  "to": 1561.27
+ },
+ {
+  "content": "并与之前的米带型号对比",
+  "from": 1561.27,
+  "location": 2,
+  "music": 0.0,
+  "sid": 715,
+  "to": 1563.31
+ },
+ {
+  "content": "我之前没怎么跑步",
+  "from": 1563.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 716,
+  "to": 1565.19
+ },
+ {
+  "content": "因此未对旧款米带进行跑步测试",
+  "from": 1565.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 717,
+  "to": 1568.34
+ },
+ {
+  "content": "但作为初步迹象",
+  "from": 1568.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 718,
+  "to": 1570.0
+ },
+ {
+  "content": "这非常出色",
+  "from": 1570.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 719,
+  "to": 1571.02
+ },
+ {
+  "content": "这些结果真的令人惊喜",
+  "from": 1571.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 720,
+  "to": 1573.72
+ },
+ {
+  "content": "现在我要检查睡眠阶段追踪功能",
+  "from": 1573.72,
+  "location": 2,
+  "music": 0.0,
+  "sid": 721,
+  "to": 1576.44
+ },
+ {
+  "content": "这需要我花些时间处理",
+  "from": 1576.44,
+  "location": 2,
+  "music": 0.0,
+  "sid": 722,
+  "to": 1578.6
+ },
+ {
+  "content": "数据导入电脑需要大量手动操作",
+  "from": 1578.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 723,
+  "to": 1582.389
+ },
+ {
+  "content": "我们先做数据分析",
+  "from": 1582.389,
+  "location": 2,
+  "music": 0.0,
+  "sid": 724,
+  "to": 1583.909
+ },
+ {
+  "content": "我得先吃点东西",
+  "from": 1583.909,
+  "location": 2,
+  "music": 0.0,
+  "sid": 725,
+  "to": 1584.709
+ },
+ {
+  "content": "之后我再回来",
+  "from": 1584.709,
+  "location": 2,
+  "music": 0.0,
+  "sid": 726,
+  "to": 1585.92
+ },
+ {
+  "content": "我已经分析了所有睡眠数据",
+  "from": 1585.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 727,
+  "to": 1587.6
+ },
+ {
+  "content": "我们将首先比较米带十与竞品参考设备",
+  "from": 1587.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 728,
+  "to": 1592.0
+ },
+ {
+  "content": "我使用的z max eg头带",
+  "from": 1592.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 729,
+  "to": 1594.73
+ },
+ {
+  "content": "能实际测量脑波",
+  "from": 1594.73,
+  "location": 2,
+  "music": 0.0,
+  "sid": 730,
+  "to": 1596.55
+ },
+ {
+  "content": "专为睡眠追踪设计",
+  "from": 1596.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 731,
+  "to": 1599.32
+ },
+ {
+  "content": "这里可以看到米十的表现",
+  "from": 1599.32,
+  "location": 2,
+  "music": 0.0,
+  "sid": 732,
+  "to": 1601.56
+ },
+ {
+  "content": "黑色版本与参考设备对比",
+  "from": 1601.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 733,
+  "to": 1604.52
+ },
+ {
+  "content": "参考设备测量的睡眠阶段在上方",
+  "from": 1604.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 734,
+  "to": 1608.17
+ },
+ {
+  "content": "米带十的数据显示在左侧",
+  "from": 1608.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 735,
+  "to": 1610.69
+ },
+ {
+  "content": "手腕部分在左侧",
+  "from": 1610.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 736,
+  "to": 1611.93
+ },
+ {
+  "content": "每列总计100%",
+  "from": 1611.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 737,
+  "to": 1614.92
+ },
+ {
+  "content": "显示各睡眠阶段的百分比",
+  "from": 1614.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 738,
+  "to": 1617.92
+ },
+ {
+  "content": "参考设备检测的睡眠阶段由米带十识别",
+  "from": 1617.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 739,
+  "to": 1621.48
+ },
+ {
+  "content": "若完全一致对角线应均为100%",
+  "from": 1621.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 740,
+  "to": 1626.19
+ },
+ {
+  "content": "我需要说明两点",
+  "from": 1626.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 741,
+  "to": 1627.71
+ },
+ {
+  "content": "参考设备存在少量数据问题",
+  "from": 1627.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 742,
+  "to": 1630.489
+ },
+ {
+  "content": "主要导致更多清醒时段",
+  "from": 1630.489,
+  "location": 2,
+  "music": 0.0,
+  "sid": 743,
+  "to": 1632.629
+ },
+ {
+  "content": "我们将忽略清醒时段列",
+  "from": 1632.629,
+  "location": 2,
+  "music": 0.0,
+  "sid": 744,
+  "to": 1636.31
+ },
+ {
+  "content": "这只是单一夜间数据",
+  "from": 1636.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 745,
+  "to": 1637.81
+ },
+ {
+  "content": "因此不能得出结论",
+  "from": 1637.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 746,
+  "to": 1640.01
+ },
+ {
+  "content": "但我认为模式已很清晰",
+  "from": 1640.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 747,
+  "to": 1642.61
+ },
+ {
+  "content": "首先对于这个米带",
+  "from": 1642.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 748,
+  "to": 1644.31
+ },
+ {
+  "content": "深度睡眠阶段绿色部分约90%准确",
+  "from": 1644.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 749,
+  "to": 1647.81
+ },
+ {
+  "content": "在光睡眠协议和RAM睡眠协议之后",
+  "from": 1647.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 750,
+  "to": 1651.15
+ },
+ {
+  "content": "两者都不太好，只有约50%的协议一致",
+  "from": 1651.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 751,
+  "to": 1654.409
+ },
+ {
+  "content": "而其中大部分被预测为RAM的光睡眠",
+  "from": 1654.409,
+  "location": 2,
+  "music": 0.0,
+  "sid": 752,
+  "to": 1658.65
+ },
+ {
+  "content": "或者是深度睡眠或REM睡眠在光睡眠案例中",
+  "from": 1658.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 753,
+  "to": 1661.71
+ },
+ {
+  "content": "看起来效果不佳",
+  "from": 1661.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 754,
+  "to": 1663.09
+ },
+ {
+  "content": "说实话",
+  "from": 1663.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 755,
+  "to": 1663.45
+ },
+ {
+  "content": "但更令人惊讶和担忧的是",
+  "from": 1663.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 756,
+  "to": 1665.97
+ },
+ {
+  "content": "另一只设备的表现糟糕得多",
+  "from": 1665.97,
+  "location": 2,
+  "music": 0.0,
+  "sid": 757,
+  "to": 1669.079
+ },
+ {
+  "content": "这就是这个设备",
+  "from": 1669.079,
+  "location": 2,
+  "music": 0.0,
+  "sid": 758,
+  "to": 1670.359
+ },
+ {
+  "content": "这是我的右腕佩戴的MeBand",
+  "from": 1670.359,
+  "location": 2,
+  "music": 0.0,
+  "sid": 759,
+  "to": 1672.69
+ },
+ {
+  "content": "我们深度睡眠协议匹配度很差",
+  "from": 1672.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 760,
+  "to": 1674.87
+ },
+ {
+  "content": "大部分被误判为光睡眠",
+  "from": 1674.87,
+  "location": 2,
+  "music": 0.0,
+  "sid": 761,
+  "to": 1677.67
+ },
+ {
+  "content": "其余则被预测为深度睡眠或REM睡眠",
+  "from": 1677.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 762,
+  "to": 1680.33
+ },
+ {
+  "content": "REM睡眠协议也非常糟糕",
+  "from": 1680.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 763,
+  "to": 1682.92
+ },
+ {
+  "content": "其中一个设备与参考设备稍好一些",
+  "from": 1682.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 764,
+  "to": 1686.68
+ },
+ {
+  "content": "这也说明两者彼此间很可能不一致",
+  "from": 1686.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 765,
+  "to": 1690.02
+ },
+ {
+  "content": "我想通过直接观察数据来展示",
+  "from": 1690.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 766,
+  "to": 1692.78
+ },
+ {
+  "content": "这里是我们实际的数据图表，上方是参考设备",
+  "from": 1692.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 767,
+  "to": 1697.02
+ },
+ {
+  "content": "横轴为时间，纵轴为睡眠阶段",
+  "from": 1697.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 768,
+  "to": 1701.31
+ },
+ {
+  "content": "底部是类似的图表",
+  "from": 1701.31,
+  "location": 2,
+  "music": 0.0,
+  "sid": 769,
+  "to": 1703.11
+ },
+ {
+  "content": "但现在针对事件十",
+  "from": 1703.11,
+  "location": 2,
+  "music": 0.0,
+  "sid": 770,
+  "to": 1704.889
+ },
+ {
+  "content": "可以看到协议一致性不高",
+  "from": 1704.889,
+  "location": 2,
+  "music": 0.0,
+  "sid": 771,
+  "to": 1708.209
+ },
+ {
+  "content": "说实话",
+  "from": 1708.209,
+  "location": 2,
+  "music": 0.0,
+  "sid": 772,
+  "to": 1708.709
+ },
+ {
+  "content": "从百分比看，EEG设备检测到的大量深度睡眠",
+  "from": 1708.709,
+  "location": 2,
+  "music": 0.0,
+  "sid": 773,
+  "to": 1713.05
+ },
+ {
+  "content": "也被MeBand十检测到",
+  "from": 1713.05,
+  "location": 2,
+  "music": 0.0,
+  "sid": 774,
+  "to": 1715.01
+ },
+ {
+  "content": "有三个主要深度睡眠段落",
+  "from": 1715.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 775,
+  "to": 1717.53
+ },
+ {
+  "content": "这些基本都被MeBand十检测到",
+  "from": 1717.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 776,
+  "to": 1721.159
+ },
+ {
+  "content": "但整夜额外检测到大量深度睡眠",
+  "from": 1721.159,
+  "location": 2,
+  "music": 0.0,
+  "sid": 777,
+  "to": 1724.559
+ },
+ {
+  "content": "这不太现实",
+  "from": 1724.559,
+  "location": 2,
+  "music": 0.0,
+  "sid": 778,
+  "to": 1726.409
+ },
+ {
+  "content": "REM睡眠也随机分布在夜间",
+  "from": 1726.409,
+  "location": 2,
+  "music": 0.0,
+  "sid": 779,
+  "to": 1730.389
+ },
+ {
+  "content": "通常会经历睡眠周期",
+  "from": 1730.389,
+  "location": 2,
+  "music": 0.0,
+  "sid": 780,
+  "to": 1732.369
+ },
+ {
+  "content": "每个周期以REM睡眠结束",
+  "from": 1732.369,
+  "location": 2,
+  "music": 0.0,
+  "sid": 781,
+  "to": 1733.689
+ },
+ {
+  "content": "我大概经历了一次两次",
+  "from": 1733.689,
+  "location": 2,
+  "music": 0.0,
+  "sid": 782,
+  "to": 1735.659
+ },
+ {
+  "content": "三次",
+  "from": 1735.659,
+  "location": 2,
+  "music": 0.0,
+  "sid": 783,
+  "to": 1736.439
+ },
+ {
+  "content": "四到五次睡眠周期",
+  "from": 1736.439,
+  "location": 2,
+  "music": 0.0,
+  "sid": 784,
+  "to": 1739.07
+ },
+ {
+  "content": "基于EEG设备可以清晰看到",
+  "from": 1739.07,
+  "location": 2,
+  "music": 0.0,
+  "sid": 785,
+  "to": 1741.67
+ },
+ {
+  "content": "深睡和浅睡后接REM",
+  "from": 1741.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 786,
+  "to": 1744.56
+ },
+ {
+  "content": "深睡和浅睡后接RAM",
+  "from": 1744.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 787,
+  "to": 1746.76
+ },
+ {
+  "content": "深睡",
+  "from": 1746.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 788,
+  "to": 1747.26
+ },
+ {
+  "content": "浅睡后接REM等",
+  "from": 1747.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 789,
+  "to": 1749.71
+ },
+ {
+  "content": "但MeBand数据无法体现",
+  "from": 1749.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 790,
+  "to": 1752.57
+ },
+ {
+  "content": "如果查看另一只设备",
+  "from": 1752.57,
+  "location": 2,
+  "music": 0.0,
+  "sid": 791,
+  "to": 1754.37
+ },
+ {
+  "content": "即右腕的设备",
+  "from": 1754.37,
+  "location": 2,
+  "music": 0.0,
+  "sid": 792,
+  "to": 1756.25
+ },
+ {
+  "content": "我们看到完全不同模式",
+  "from": 1756.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 793,
+  "to": 1758.47
+ },
+ {
+  "content": "同样效果差且差异显著",
+  "from": 1758.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 794,
+  "to": 1761.39
+ },
+ {
+  "content": "夜间初期深度睡眠明显减少",
+  "from": 1761.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 795,
+  "to": 1764.469
+ },
+ {
+  "content": "入睡时间也有轻微偏移",
+  "from": 1764.469,
+  "location": 2,
+  "music": 0.0,
+  "sid": 796,
+  "to": 1767.249
+ },
+ {
+  "content": "并非我允许的偏移",
+  "from": 1767.249,
+  "location": 2,
+  "music": 0.0,
+  "sid": 797,
+  "to": 1769.249
+ },
+ {
+  "content": "我在脚本中允许参考数据最佳匹配",
+  "from": 1769.249,
+  "location": 2,
+  "music": 0.0,
+  "sid": 798,
+  "to": 1773.85
+ },
+ {
+  "content": "然后通过正负十五分钟偏移与MeBand对齐",
+  "from": 1773.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 799,
+  "to": 1777.29
+ },
+ {
+  "content": "因为总会有某些差异存在",
+  "from": 1777.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 800,
+  "to": 1779.29
+ },
+ {
+  "content": "而找到的最佳匹配",
+  "from": 1779.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 801,
+  "to": 1781.49
+ },
+ {
+  "content": "它与脑电设备的契合度其实很差",
+  "from": 1781.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 802,
+  "to": 1784.699
+ },
+ {
+  "content": "但整夜接近尾声时会有大量深度睡眠",
+  "from": 1784.699,
+  "location": 2,
+  "music": 0.0,
+  "sid": 803,
+  "to": 1787.459
+ },
+ {
+  "content": "而我通常几乎没有深度睡眠",
+  "from": 1787.459,
+  "location": 2,
+  "music": 0.0,
+  "sid": 804,
+  "to": 1789.48
+ },
+ {
+  "content": "REM睡眠与脑电设备的契合度也非常差",
+  "from": 1789.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 805,
+  "to": 1794.179
+ },
+ {
+  "content": "总体而言我对这个表现不太满意",
+  "from": 1794.179,
+  "location": 2,
+  "music": 0.0,
+  "sid": 806,
+  "to": 1797.439
+ },
+ {
+  "content": "我可以实际展示许多表现更好的设备",
+  "from": 1797.439,
+  "location": 2,
+  "music": 0.0,
+  "sid": 807,
+  "to": 1800.959
+ },
+ {
+  "content": "你也可以在概览中看到这一点",
+  "from": 1800.959,
+  "location": 2,
+  "music": 0.0,
+  "sid": 808,
+  "to": 1803.059
+ },
+ {
+  "content": "就在这里",
+  "from": 1803.059,
+  "location": 2,
+  "music": 0.0,
+  "sid": 809,
+  "to": 1803.77
+ },
+ {
+  "content": "这是睡眠阶段追踪的性能表现",
+  "from": 1803.77,
+  "location": 2,
+  "music": 0.0,
+  "sid": 810,
+  "to": 1806.49
+ },
+ {
+  "content": "针对我过去测试过的所有设备",
+  "from": 1806.49,
+  "location": 2,
+  "music": 0.0,
+  "sid": 811,
+  "to": 1808.39
+ },
+ {
+  "content": "或至少其中许多设备被推移到右侧和更高位置",
+  "from": 1808.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 812,
+  "to": 1812.679
+ },
+ {
+  "content": "其与参考标准的契合度越好",
+  "from": 1812.679,
+  "location": 2,
+  "music": 0.0,
+  "sid": 813,
+  "to": 1814.999
+ },
+ {
+  "content": "我确实",
+  "from": 1814.999,
+  "location": 2,
+  "music": 0.0,
+  "sid": 814,
+  "to": 1815.439
+ },
+ {
+  "content": "如果将各睡眠阶段的平均契合度沿水平轴",
+  "from": 1815.439,
+  "location": 2,
+  "music": 0.0,
+  "sid": 815,
+  "to": 1819.58
+ },
+ {
+  "content": "而睡眠阶段契合度沿垂直轴",
+  "from": 1819.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 816,
+  "to": 1822.76
+ },
+ {
+  "content": "现在",
+  "from": 1822.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 817,
+  "to": 1822.94
+ },
+ {
+  "content": "我实际上还未在概览中绘制迈恩10",
+  "from": 1822.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 818,
+  "to": 1825.78
+ },
+ {
+  "content": "但我们可以这样做",
+  "from": 1825.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 819,
+  "to": 1826.95
+ },
+ {
+  "content": "如果我们非常宽容",
+  "from": 1826.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 820,
+  "to": 1829.09
+ },
+ {
+  "content": "我们可以取这里的最佳契合度",
+  "from": 1829.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 821,
+  "to": 1831.45
+ },
+ {
+  "content": "因此我们可以计算这三个数字的平均值",
+  "from": 1831.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 822,
+  "to": 1837.98
+ },
+ {
+  "content": "并除以三",
+  "from": 1837.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 823,
+  "to": 1839.88
+ },
+ {
+  "content": "因此得到65%",
+  "from": 1839.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 824,
+  "to": 1842.15
+ },
+ {
+  "content": "最差的睡眠阶段约为52%",
+  "from": 1842.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 825,
+  "to": 1845.21
+ },
+ {
+  "content": "如果我们取65%和52%这两个数值",
+  "from": 1845.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 826,
+  "to": 1850.86
+ },
+ {
+  "content": "最终结果会在这里",
+  "from": 1850.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 827,
+  "to": 1854.33
+ },
+ {
+  "content": "实际上表现还不错",
+  "from": 1854.33,
+  "location": 2,
+  "music": 0.0,
+  "sid": 828,
+  "to": 1856.01
+ },
+ {
+  "content": "但正如我们所见，结果会略显乐观",
+  "from": 1856.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 829,
+  "to": 1860.09
+ },
+ {
+  "content": "如果我们采用其他百分比",
+  "from": 1860.09,
+  "location": 2,
+  "music": 0.0,
+  "sid": 830,
+  "to": 1862.55
+ },
+ {
+  "content": "所以这些就是这里的数值",
+  "from": 1862.55,
+  "location": 2,
+  "music": 0.0,
+  "sid": 831,
+  "to": 1864.89
+ },
+ {
+  "content": "最终结果会是",
+  "from": 1864.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 832,
+  "to": 1866.69
+ },
+ {
+  "content": "假设平均契合度为4",
+  "from": 1866.69,
+  "location": 2,
+  "music": 0.0,
+  "sid": 833,
+  "to": 1869.91
+ },
+ {
+  "content": "1%且最差为36%，那么41%和36%会在这里",
+  "from": 1869.91,
+  "location": 2,
+  "music": 0.0,
+  "sid": 834,
+  "to": 1878.24
+ },
+ {
+  "content": "大约在某些华为设备附近",
+  "from": 1878.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 835,
+  "to": 1881.06
+ },
+ {
+  "content": "略逊于我之前测试的迈恩带9",
+  "from": 1881.06,
+  "location": 2,
+  "music": 0.0,
+  "sid": 836,
+  "to": 1884.4
+ },
+ {
+  "content": "而这里的迈恩带9 Pro在哪",
+  "from": 1884.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 837,
+  "to": 1886.7
+ },
+ {
+  "content": "这些结果就在这里",
+  "from": 1886.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 838,
+  "to": 1888.1
+ },
+ {
+  "content": "但我们也可以取这两个结果的平均值",
+  "from": 1888.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 839,
+  "to": 1890.28
+ },
+ {
+  "content": "这样会更公平",
+  "from": 1890.28,
+  "location": 2,
+  "music": 0.0,
+  "sid": 840,
+  "to": 1891.85
+ },
+ {
+  "content": "我暂时就放在这里",
+  "from": 1891.85,
+  "location": 2,
+  "music": 0.0,
+  "sid": 841,
+  "to": 1893.29
+ },
+ {
+  "content": "让我快速计算一下",
+  "from": 1893.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 842,
+  "to": 1895.13
+ },
+ {
+  "content": "假设平均值准确",
+  "from": 1895.13,
+  "location": 2,
+  "music": 0.0,
+  "sid": 843,
+  "to": 1897.81
+ },
+ {
+  "content": "在三个睡眠阶段上",
+  "from": 1897.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 844,
+  "to": 1900.17
+ },
+ {
+  "content": "现在平均来看",
+  "from": 1900.17,
+  "location": 2,
+  "music": 0.0,
+  "sid": 845,
+  "to": 1901.51
+ },
+ {
+  "content": "这并不完美",
+  "from": 1901.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 846,
+  "to": 1903.32
+ },
+ {
+  "content": "我可以重新计算长期测试数据",
+  "from": 1903.32,
+  "location": 2,
+  "music": 0.0,
+  "sid": 847,
+  "to": 1905.88
+ },
+ {
+  "content": "最终在三个睡眠阶段的平均值约为53%",
+  "from": 1905.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 848,
+  "to": 1911.12
+ },
+ {
+  "content": "而这里的睡眠阶段约为44%",
+  "from": 1911.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 849,
+  "to": 1914.3
+ },
+ {
+  "content": "因此平均会有五三，大约四四",
+  "from": 1914.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 850,
+  "to": 1917.5
+ },
+ {
+  "content": "这是最差的睡眠阶段",
+  "from": 1917.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 851,
+  "to": 1918.96
+ },
+ {
+  "content": "如果将这两个数字放入此处的ov中",
+  "from": 1918.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 852,
+  "to": 1921.82
+ },
+ {
+  "content": "我们将得到五五",
+  "from": 1921.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 853,
+  "to": 1923.94
+ },
+ {
+  "content": "因此此处大约是五三",
+  "from": 1923.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 854,
+  "to": 1926.38
+ },
+ {
+  "content": "假设然后四四会出现在这里",
+  "from": 1926.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 855,
+  "to": 1932.0
+ },
+ {
+  "content": "可能稍微低一点",
+  "from": 1932.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 856,
+  "to": 1934.46
+ },
+ {
+  "content": "因此此处就是mien ten的终点",
+  "from": 1934.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 857,
+  "to": 1937.42
+ },
+ {
+  "content": "我们可以使其更易读",
+  "from": 1937.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 858,
+  "to": 1940.88
+ },
+ {
+  "content": "好的，我们到了这里",
+  "from": 1940.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 859,
+  "to": 1941.88
+ },
+ {
+  "content": "这大致是我们得到的临时概览",
+  "from": 1941.88,
+  "location": 2,
+  "music": 0.0,
+  "sid": 860,
+  "to": 1945.13
+ },
+ {
+  "content": "我们在这里有me band十",
+  "from": 1945.13,
+  "location": 2,
+  "music": 0.0,
+  "sid": 861,
+  "to": 1947.61
+ },
+ {
+  "content": "其平均准确率为五四%",
+  "from": 1947.61,
+  "location": 2,
+  "music": 0.0,
+  "sid": 862,
+  "to": 1950.51
+ },
+ {
+  "content": "在测试中并不完美",
+  "from": 1950.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 863,
+  "to": 1952.29
+ },
+ {
+  "content": "但若重新计算",
+  "from": 1952.29,
+  "location": 2,
+  "music": 0.0,
+  "sid": 864,
+  "to": 1954.01
+ },
+ {
+  "content": "我们仍将得到类似结果",
+  "from": 1954.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 865,
+  "to": 1956.46
+ },
+ {
+  "content": "然后四四在另一轴线上",
+  "from": 1956.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 866,
+  "to": 1959.46
+ },
+ {
+  "content": "至少可以看到这个初步测试",
+  "from": 1959.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 867,
+  "to": 1961.78
+ },
+ {
+  "content": "与me band九相差不远",
+  "from": 1961.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 868,
+  "to": 1964.659
+ },
+ {
+  "content": "me at九专业版",
+  "from": 1964.659,
+  "location": 2,
+  "music": 0.0,
+  "sid": 869,
+  "to": 1966.519
+ },
+ {
+  "content": "而event八在我的测试中表现极差",
+  "from": 1966.519,
+  "location": 2,
+  "music": 0.0,
+  "sid": 870,
+  "to": 1969.459
+ },
+ {
+  "content": "这可能是偶然现象",
+  "from": 1969.459,
+  "location": 2,
+  "music": 0.0,
+  "sid": 871,
+  "to": 1970.839
+ },
+ {
+  "content": "但所有设备都属于低效行列",
+  "from": 1970.839,
+  "location": 2,
+  "music": 0.0,
+  "sid": 872,
+  "to": 1974.26
+ },
+ {
+  "content": "就在这里",
+  "from": 1974.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 873,
+  "to": 1974.82
+ },
+ {
+  "content": "表现不佳",
+  "from": 1974.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 874,
+  "to": 1976.34
+ },
+ {
+  "content": "市面上最佳睡眠阶段追踪器是苹果手表",
+  "from": 1976.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 875,
+  "to": 1979.4
+ },
+ {
+  "content": "获取更早或更新版本",
+  "from": 1979.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 876,
+  "to": 1981.4
+ },
+ {
+  "content": "都能获得不错的睡眠阶段追踪",
+  "from": 1981.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 877,
+  "to": 1983.46
+ },
+ {
+  "content": "即使是2022年的苹果手表SE",
+  "from": 1983.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 878,
+  "to": 1986.78
+ },
+ {
+  "content": "可以优惠价购买翻新机",
+  "from": 1986.78,
+  "location": 2,
+  "music": 0.0,
+  "sid": 879,
+  "to": 1989.2
+ },
+ {
+  "content": "搭配Eight Sleep Pod",
+  "from": 1989.2,
+  "location": 2,
+  "music": 0.0,
+  "sid": 880,
+  "to": 1992.0
+ },
+ {
+  "content": "这是我最爱的夏季睡眠改善设备",
+  "from": 1992.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 881,
+  "to": 1995.82
+ },
+ {
+  "content": "显著提升了我的睡眠质量",
+  "from": 1995.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 882,
+  "to": 1997.64
+ },
+ {
+  "content": "因为它能独立调节床两侧的温度",
+  "from": 1997.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 883,
+  "to": 2001.53
+ },
+ {
+  "content": "这对我的睡眠简直是救星",
+  "from": 2001.53,
+  "location": 2,
+  "music": 0.0,
+  "sid": 884,
+  "to": 2003.81
+ },
+ {
+  "content": "价格非常昂贵",
+  "from": 2003.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 885,
+  "to": 2005.35
+ },
+ {
+  "content": "不过",
+  "from": 2005.35,
+  "location": 2,
+  "music": 0.0,
+  "sid": 886,
+  "to": 2005.65
+ },
+ {
+  "content": "只有经济允许才值得入手",
+  "from": 2005.65,
+  "location": 2,
+  "music": 0.0,
+  "sid": 887,
+  "to": 2007.47
+ },
+ {
+  "content": "若想获得最佳折扣",
+  "from": 2007.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 888,
+  "to": 2009.19
+ },
+ {
+  "content": "我的联盟链接在此处或上方",
+  "from": 2009.19,
+  "location": 2,
+  "music": 0.0,
+  "sid": 889,
+  "to": 2011.7
+ },
+ {
+  "content": "同时支持频道发展",
+  "from": 2011.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 890,
+  "to": 2013.92
+ },
+ {
+  "content": "我们还有oura戒指在此",
+  "from": 2013.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 891,
+  "to": 2016.62
+ },
+ {
+  "content": "表现相当不错",
+  "from": 2016.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 892,
+  "to": 2017.99
+ },
+ {
+  "content": "最后是Nukua现更名为Sleep2应用",
+  "from": 2017.99,
+  "location": 2,
+  "music": 0.0,
+  "sid": 893,
+  "to": 2021.4
+ },
+ {
+  "content": "专为睡眠追踪设计",
+  "from": 2021.4,
+  "location": 2,
+  "music": 0.0,
+  "sid": 894,
+  "to": 2023.82
+ },
+ {
+  "content": "同样表现良好",
+  "from": 2023.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 895,
+  "to": 2024.64
+ },
+ {
+  "content": "需搭配额外设备使用",
+  "from": 2024.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 896,
+  "to": 2026.32
+ },
+ {
+  "content": "不过",
+  "from": 2026.32,
+  "location": 2,
+  "music": 0.0,
+  "sid": 897,
+  "to": 2026.52
+ },
+ {
+  "content": "因为它只是一个应用",
+  "from": 2026.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 898,
+  "to": 2027.83
+ },
+ {
+  "content": "第二梯队设备包括不同谷歌 amphibian 设备",
+  "from": 2027.83,
+  "location": 2,
+  "music": 0.0,
+  "sid": 899,
+  "to": 2031.95
+ },
+ {
+  "content": "这些也相当不错",
+  "from": 2031.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 900,
+  "to": 2033.15
+ },
+ {
+  "content": "你还能以合理的价格买到Fitbit",
+  "from": 2033.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 901,
+  "to": 2035.84
+ },
+ {
+  "content": "你将获得相同的睡眠阶段追踪功能",
+  "from": 2035.84,
+  "location": 2,
+  "music": 0.0,
+  "sid": 902,
+  "to": 2037.96
+ },
+ {
+  "content": "Charge 6或Pixel手表",
+  "from": 2042.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 903,
+  "to": 2043.75
+ },
+ {
+  "content": "最后是Whop手环",
+  "from": 2043.75,
+  "location": 2,
+  "music": 0.0,
+  "sid": 904,
+  "to": 2045.68
+ },
+ {
+  "content": "这是我最喜欢的全能设备之一",
+  "from": 2045.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 905,
+  "to": 2048.14
+ },
+ {
+  "content": "我这里也提供了该产品的联盟链接",
+  "from": 2048.14,
+  "location": 2,
+  "music": 0.0,
+  "sid": 906,
+  "to": 2050.81
+ },
+ {
+  "content": "你也可以查看我的完整评测",
+  "from": 2050.81,
+  "location": 2,
+  "music": 0.0,
+  "sid": 907,
+  "to": 2052.59
+ },
+ {
+  "content": "但总体来说，小米手环10的睡眠阶段追踪并不出色",
+  "from": 2052.59,
+  "location": 2,
+  "music": 0.0,
+  "sid": 908,
+  "to": 2056.95
+ },
+ {
+  "content": "现在让我们总结整体结论",
+  "from": 2056.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 909,
+  "to": 2059.46
+ },
+ {
+  "content": "好的",
+  "from": 2059.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 910,
+  "to": 2059.94
+ },
+ {
+  "content": "这就是关于小米手环10的大量数据",
+  "from": 2059.94,
+  "location": 2,
+  "music": 0.0,
+  "sid": 911,
+  "to": 2062.46
+ },
+ {
+  "content": "实际上是有两个小米手环10",
+  "from": 2062.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 912,
+  "to": 2063.92
+ },
+ {
+  "content": "结果非常有趣",
+  "from": 2063.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 913,
+  "to": 2065.64
+ },
+ {
+  "content": "在我看来",
+  "from": 2065.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 914,
+  "to": 2066.44
+ },
+ {
+  "content": "实际比我预期的更好",
+  "from": 2066.44,
+  "location": 2,
+  "music": 0.0,
+  "sid": 915,
+  "to": 2068.24
+ },
+ {
+  "content": "等等",
+  "from": 2068.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 916,
+  "to": 2068.58
+ },
+ {
+  "content": "让我稍作停顿",
+  "from": 2068.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 917,
+  "to": 2070.24
+ },
+ {
+  "content": "在心率追踪方面，小米手环10表现相当不错甚至非常出色",
+  "from": 2070.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 918,
+  "to": 2075.56
+ },
+ {
+  "content": "至少在价格区间内",
+  "from": 2075.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 919,
+  "to": 2077.46
+ },
+ {
+  "content": "如果你以",
+  "from": 2077.46,
+  "location": 2,
+  "music": 0.0,
+  "sid": 920,
+  "to": 2078.32
+ },
+ {
+  "content": "四十或五十美元的价格入手",
+  "from": 2078.32,
+  "location": 2,
+  "music": 0.0,
+  "sid": 921,
+  "to": 2080.15
+ },
+ {
+  "content": "它确实表现优异",
+  "from": 2080.15,
+  "location": 2,
+  "music": 0.0,
+  "sid": 922,
+  "to": 2082.03
+ },
+ {
+  "content": "至少根据初步测试结果",
+  "from": 2082.03,
+  "location": 2,
+  "music": 0.0,
+  "sid": 923,
+  "to": 2083.71
+ },
+ {
+  "content": "它表现远超许多",
+  "from": 2083.71,
+  "location": 2,
+  "music": 0.0,
+  "sid": 924,
+  "to": 2085.39
+ },
+ {
+  "content": "价格更高的设备",
+  "from": 2085.39,
+  "location": 2,
+  "music": 0.0,
+  "sid": 925,
+  "to": 2087.83
+ },
+ {
+  "content": "现在你得到的是小屏幕",
+  "from": 2087.83,
+  "location": 2,
+  "music": 0.0,
+  "sid": 926,
+  "to": 2089.21
+ },
+ {
+  "content": "可能并非最佳智能手表",
+  "from": 2089.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 927,
+  "to": 2092.45
+ },
+ {
+  "content": "但在心率追踪方面",
+  "from": 2092.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 928,
+  "to": 2093.99
+ },
+ {
+  "content": "至少在我的使用中",
+  "from": 2093.99,
+  "location": 2,
+  "music": 0.0,
+  "sid": 929,
+  "to": 2094.93
+ },
+ {
+  "content": "表现令人惊喜",
+  "from": 2094.93,
+  "location": 2,
+  "music": 0.0,
+  "sid": 930,
+  "to": 2096.96
+ },
+ {
+  "content": "我也让同事Raphael进行测试",
+  "from": 2096.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 931,
+  "to": 2099.6
+ },
+ {
+  "content": "或者另一位用户",
+  "from": 2099.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 932,
+  "to": 2100.68
+ },
+ {
+  "content": "因为非常想看看这些结果是否能在其他人身上复现",
+  "from": 2100.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 933,
+  "to": 2105.38
+ },
+ {
+  "content": "当然这只是初步测试",
+  "from": 2105.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 934,
+  "to": 2107.7
+ },
+ {
+  "content": "仅做一两次相同动作",
+  "from": 2107.7,
+  "location": 2,
+  "music": 0.0,
+  "sid": 935,
+  "to": 2110.9
+ },
+ {
+  "content": "我们需要进行大量测试以确认长期结果的一致性",
+  "from": 2110.9,
+  "location": 2,
+  "music": 0.0,
+  "sid": 936,
+  "to": 2116.74
+ },
+ {
+  "content": "但我感到非常惊喜",
+  "from": 2116.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 937,
+  "to": 2118.42
+ },
+ {
+  "content": "考虑到价格，即使实际性能稍逊",
+  "from": 2118.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 938,
+  "to": 2122.609
+ },
+ {
+  "content": "你也很难出错",
+  "from": 2122.609,
+  "location": 2,
+  "music": 0.0,
+  "sid": 939,
+  "to": 2124.489
+ },
+ {
+  "content": "如果你需要基础心率追踪",
+  "from": 2124.489,
+  "location": 2,
+  "music": 0.0,
+  "sid": 940,
+  "to": 2126.649
+ },
+ {
+  "content": "甚至可能是优秀的心率追踪",
+  "from": 2126.649,
+  "location": 2,
+  "music": 0.0,
+  "sid": 941,
+  "to": 2128.849
+ },
+ {
+  "content": "睡眠阶段追踪功能",
+  "from": 2128.849,
+  "location": 2,
+  "music": 0.0,
+  "sid": 942,
+  "to": 2130.5
+ },
+ {
+  "content": "另一方面",
+  "from": 2130.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 943,
+  "to": 2131.24
+ },
+ {
+  "content": "我并不太期待",
+  "from": 2131.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 944,
+  "to": 2132.8
+ },
+ {
+  "content": "但这是预期的结果",
+  "from": 2132.8,
+  "location": 2,
+  "music": 0.0,
+  "sid": 945,
+  "to": 2134.5
+ },
+ {
+  "content": "小米要为整个产品线开发更好的睡眠算法需要投入大量资金",
+  "from": 2134.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 946,
+  "to": 2137.82
+ },
+ {
+  "content": "通常来说",
+  "from": 2137.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 947,
+  "to": 2140.34
+ },
+ {
+  "content": "通常在整个产品线中",
+  "from": 2140.34,
+  "location": 2,
+  "music": 0.0,
+  "sid": 948,
+  "to": 2142.42
+ },
+ {
+  "content": "一个品牌拥有相同的睡眠阶段追踪算法",
+  "from": 2142.42,
+  "location": 2,
+  "music": 0.0,
+  "sid": 949,
+  "to": 2145.38
+ },
+ {
+  "content": "因为你需要创建大量参考数据和数据集",
+  "from": 2145.38,
+  "location": 2,
+  "music": 0.0,
+  "sid": 950,
+  "to": 2149.26
+ },
+ {
+  "content": "通过设备实际训练该模型",
+  "from": 2149.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 951,
+  "to": 2151.12
+ },
+ {
+  "content": "因此实际上这是一个AI或机器学习任务",
+  "from": 2151.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 952,
+  "to": 2154.3
+ },
+ {
+  "content": "你经常听到这些术语被频繁提及",
+  "from": 2154.3,
+  "location": 2,
+  "music": 0.0,
+  "sid": 953,
+  "to": 2156.26
+ },
+ {
+  "content": "为此你需要大量参考数据或训练数据",
+  "from": 2156.26,
+  "location": 2,
+  "music": 0.0,
+  "sid": 954,
+  "to": 2159.24
+ },
+ {
+  "content": "类似于如何",
+  "from": 2159.24,
+  "location": 2,
+  "music": 0.0,
+  "sid": 955,
+  "to": 2160.02
+ },
+ {
+  "content": "例如",
+  "from": 2160.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 956,
+  "to": 2160.44
+ },
+ {
+  "content": "谷歌开发了他们的大型语言模型或ChatGPT的开发",
+  "from": 2160.44,
+  "location": 2,
+  "music": 0.0,
+  "sid": 957,
+  "to": 2164.01
+ },
+ {
+  "content": "需要大量训练数据才能成为优秀模型",
+  "from": 2164.01,
+  "location": 2,
+  "music": 0.0,
+  "sid": 958,
+  "to": 2167.56
+ },
+ {
+  "content": "睡眠阶段追踪也是如此",
+  "from": 2167.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 959,
+  "to": 2170.0
+ },
+ {
+  "content": "需要包含参考设备测量和实际设备测量的数据",
+  "from": 2170.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 960,
+  "to": 2174.6
+ },
+ {
+  "content": "与你正在训练的设备相关",
+  "from": 2174.6,
+  "location": 2,
+  "music": 0.0,
+  "sid": 961,
+  "to": 2176.62
+ },
+ {
+  "content": "使设备能够学习预测你的睡眠阶段",
+  "from": 2176.62,
+  "location": 2,
+  "music": 0.0,
+  "sid": 962,
+  "to": 2180.82
+ },
+ {
+  "content": "这始终是一个需要相当多数据的相对困难任务",
+  "from": 2180.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 963,
+  "to": 2185.529
+ },
+ {
+  "content": "我怀疑小米没有收集此类数据",
+  "from": 2185.529,
+  "location": 2,
+  "music": 0.0,
+  "sid": 964,
+  "to": 2188.989
+ },
+ {
+  "content": "那这个设备是给谁用的呢",
+  "from": 2188.989,
+  "location": 2,
+  "music": 0.0,
+  "sid": 965,
+  "to": 2190.929
+ },
+ {
+  "content": "根据我的初步测试",
+  "from": 2190.929,
+  "location": 2,
+  "music": 0.0,
+  "sid": 966,
+  "to": 2192.86
+ },
+ {
+  "content": "想要在锻炼时追踪心率的人",
+  "from": 2192.86,
+  "location": 2,
+  "music": 0.0,
+  "sid": 967,
+  "to": 2196.189
+ },
+ {
+  "content": "不太在意应用程序",
+  "from": 2196.189,
+  "location": 2,
+  "music": 0.0,
+  "sid": 968,
+  "to": 2198.529
+ },
+ {
+  "content": "相比竞争对手，我对小米运动应用并不太喜欢",
+  "from": 2198.529,
+  "location": 2,
+  "music": 0.0,
+  "sid": 969,
+  "to": 2203.109
+ },
+ {
+  "content": "但我仍然认为",
+  "from": 2203.109,
+  "location": 2,
+  "music": 0.0,
+  "sid": 970,
+  "to": 2204.069
+ },
+ {
+  "content": "例如",
+  "from": 2204.069,
+  "location": 2,
+  "music": 0.0,
+  "sid": 971,
+  "to": 2204.649
+ },
+ {
+  "content": "Aura戒指或Whoop手环确实提供更好的应用体验",
+  "from": 2204.649,
+  "location": 2,
+  "music": 0.0,
+  "sid": 972,
+  "to": 2208.89
+ },
+ {
+  "content": "数据更易解读",
+  "from": 2208.89,
+  "location": 2,
+  "music": 0.0,
+  "sid": 973,
+  "to": 2210.51
+ },
+ {
+  "content": "同时在恢复状态方面",
+  "from": 2210.51,
+  "location": 2,
+  "music": 0.0,
+  "sid": 974,
+  "to": 2211.67
+ },
+ {
+  "content": "两者睡眠阶段追踪也更精准",
+  "from": 2211.67,
+  "location": 2,
+  "music": 0.0,
+  "sid": 975,
+  "to": 2214.47
+ },
+ {
+  "content": "如果你关注健康和睡眠追踪",
+  "from": 2214.47,
+  "location": 2,
+  "music": 0.0,
+  "sid": 976,
+  "to": 2217.45
+ },
+ {
+  "content": "则不建议购买小米手环",
+  "from": 2217.45,
+  "location": 2,
+  "music": 0.0,
+  "sid": 977,
+  "to": 2219.11
+ },
+ {
+  "content": "但如果你仅需心率追踪",
+  "from": 2219.11,
+  "location": 2,
+  "music": 0.0,
+  "sid": 978,
+  "to": 2220.95
+ },
+ {
+  "content": "想在锻炼时查看心率",
+  "from": 2220.95,
+  "location": 2,
+  "music": 0.0,
+  "sid": 979,
+  "to": 2223.279
+ },
+ {
+  "content": "判断运动强度是否合适",
+  "from": 2223.279,
+  "location": 2,
+  "music": 0.0,
+  "sid": 980,
+  "to": 2225.679
+ },
+ {
+  "content": "这可能是个合理选择",
+  "from": 2225.679,
+  "location": 2,
+  "music": 0.0,
+  "sid": 981,
+  "to": 2227.259
+ },
+ {
+  "content": "考虑到价格",
+  "from": 2227.259,
+  "location": 2,
+  "music": 0.0,
+  "sid": 982,
+  "to": 2228.579
+ },
+ {
+  "content": "其实性价比不错",
+  "from": 2228.579,
+  "location": 2,
+  "music": 0.0,
+  "sid": 983,
+  "to": 2229.92
+ },
+ {
+  "content": "当然",
+  "from": 2229.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 984,
+  "to": 2230.58
+ },
+ {
+  "content": "考虑其他方式",
+  "from": 2230.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 985,
+  "to": 2231.76
+ },
+ {
+  "content": "你真的需要这个设备吗",
+  "from": 2231.76,
+  "location": 2,
+  "music": 0.0,
+  "sid": 986,
+  "to": 2233.36
+ },
+ {
+  "content": "还是现在购买更好的设备",
+  "from": 2233.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 987,
+  "to": 2235.66
+ },
+ {
+  "content": "而不是现在买便宜的",
+  "from": 2235.66,
+  "location": 2,
+  "music": 0.0,
+  "sid": 988,
+  "to": 2237.04
+ },
+ {
+  "content": "半年后再升级",
+  "from": 2237.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 989,
+  "to": 2238.96
+ },
+ {
+  "content": "但如果你预算有限",
+  "from": 2238.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 990,
+  "to": 2240.64
+ },
+ {
+  "content": "且会长期使用此设备",
+  "from": 2240.64,
+  "location": 2,
+  "music": 0.0,
+  "sid": 991,
+  "to": 2243.36
+ },
+ {
+  "content": "这可能是个不错的选择",
+  "from": 2243.36,
+  "location": 2,
+  "music": 0.0,
+  "sid": 992,
+  "to": 2245.18
+ },
+ {
+  "content": "但我会在重新测试和长期评测后",
+  "from": 2245.18,
+  "location": 2,
+  "music": 0.0,
+  "sid": 993,
+  "to": 2246.68
+ },
+ {
+  "content": "继续更新你们",
+  "from": 2246.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 994,
+  "to": 2249.48
+ },
+ {
+  "content": "如果你决定购买小米手环10",
+  "from": 2249.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 995,
+  "to": 2252.1
+ },
+ {
+  "content": "Whoop手带",
+  "from": 2252.1,
+  "location": 2,
+  "music": 0.0,
+  "sid": 996,
+  "to": 2253.52
+ },
+ {
+  "content": "Aura戒指",
+  "from": 2253.52,
+  "location": 2,
+  "music": 0.0,
+  "sid": 997,
+  "to": 2254.48
+ },
+ {
+  "content": "Eight睡眠舱",
+  "from": 2254.48,
+  "location": 2,
+  "music": 0.0,
+  "sid": 998,
+  "to": 2255.74
+ },
+ {
+  "content": "另一个设备",
+  "from": 2255.74,
+  "location": 2,
+  "music": 0.0,
+  "sid": 999,
+  "to": 2256.58
+ },
+ {
+  "content": "或者亚马逊上的任何东西",
+  "from": 2256.58,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1000,
+  "to": 2258.5
+ },
+ {
+  "content": "说起来",
+  "from": 2258.5,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1001,
+  "to": 2259.0
+ },
+ {
+  "content": "甚至像厕纸这样的小东西",
+  "from": 2259.0,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1002,
+  "to": 2260.82
+ },
+ {
+  "content": "如果你想支持频道并省钱",
+  "from": 2260.82,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1003,
+  "to": 2263.56
+ },
+ {
+  "content": "描述下方有不同联盟链接，提供最佳折扣",
+  "from": 2263.56,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1004,
+  "to": 2267.92
+ },
+ {
+  "content": "如果你喜欢跑步",
+  "from": 2267.92,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1005,
+  "to": 2269.02
+ },
+ {
+  "content": "我强烈推荐Runa应用",
+  "from": 2269.02,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1006,
+  "to": 2270.96
+ },
+ {
+  "content": "它为你制定跑步计划并在跑步时提供生活指导",
+  "from": 2270.96,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1007,
+  "to": 2274.68
+ },
+ {
+  "content": "或者如果你想追踪血糖水平",
+  "from": 2274.68,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1008,
+  "to": 2276.98
+ },
+ {
+  "content": "我想找出哪些食物会引发你个人的血糖飙升",
+  "from": 2276.98,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1009,
+  "to": 2281.25
+ },
+ {
+  "content": "我真的很喜欢Levels，两者下方都有联盟链接",
+  "from": 2281.25,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1010,
+  "to": 2284.21
+ },
+ {
+  "content": "现在给你最优惠的价格",
+  "from": 2284.21,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1011,
+  "to": 2286.12
+ },
+ {
+  "content": "鉴于你全程观看了这款小米手环十",
+  "from": 2286.12,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1012,
+  "to": 2289.16
+ },
+ {
+  "content": "我觉得你可能会喜欢这个关于WOP陷阱的视频",
+  "from": 2289.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1013,
+  "to": 2292.04
+ },
+ {
+  "content": "或者这个关于华为的视频",
+  "from": 2292.04,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1014,
+  "to": 2294.16
+ },
+ {
+  "content": "观看以获取专业内容",
+  "from": 2294.16,
+  "location": 2,
+  "music": 0.0,
+  "sid": 1015,
+  "to": 2295.42
+ }
+]

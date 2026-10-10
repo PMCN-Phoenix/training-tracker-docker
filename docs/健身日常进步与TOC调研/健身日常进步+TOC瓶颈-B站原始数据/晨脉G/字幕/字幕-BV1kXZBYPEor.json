@@ -1,0 +1,706 @@
+[
+ {
+  "from": 0.24,
+  "to": 1.86,
+  "sid": 1,
+  "location": 2,
+  "content": "想知道自己心率是多少",
+  "music": 0.0
+ },
+ {
+  "from": 1.86,
+  "to": 3.0,
+  "sid": 2,
+  "location": 2,
+  "content": "那常规情况下",
+  "music": 0.0
+ },
+ {
+  "from": 3.0,
+  "to": 5.1,
+  "sid": 3,
+  "location": 2,
+  "content": "其实我们可以摸脉搏自己测",
+  "music": 0.0
+ },
+ {
+  "from": 5.1,
+  "to": 8.56,
+  "sid": 4,
+  "location": 2,
+  "content": "那你看我教你那食指中指轻按桡部",
+  "music": 0.0
+ },
+ {
+  "from": 8.56,
+  "to": 10.94,
+  "sid": 5,
+  "location": 2,
+  "content": "腕动脉或者颈动脉计时15秒",
+  "music": 0.0
+ },
+ {
+  "from": 10.94,
+  "to": 12.92,
+  "sid": 6,
+  "location": 2,
+  "content": "那跳动次数乘以四",
+  "music": 0.0
+ },
+ {
+  "from": 12.92,
+  "to": 14.64,
+  "sid": 7,
+  "location": 2,
+  "content": "就等于每分钟我们的心率",
+  "music": 0.0
+ },
+ {
+  "from": 14.64,
+  "to": 16.14,
+  "sid": 8,
+  "location": 2,
+  "content": "你可以记住这个口诀",
+  "music": 0.0
+ },
+ {
+  "from": 16.14,
+  "to": 17.78,
+  "sid": 9,
+  "location": 2,
+  "content": "摸脉搏看时钟",
+  "music": 0.0
+ },
+ {
+  "from": 17.78,
+  "to": 20.15,
+  "sid": 10,
+  "location": 2,
+  "content": "15秒乘以四即心钟",
+  "music": 0.0
+ },
+ {
+  "from": 20.15,
+  "to": 22.91,
+  "sid": 11,
+  "location": 2,
+  "content": "那很多朋友都以为心率是越慢越好",
+  "music": 0.0
+ },
+ {
+  "from": 22.91,
+  "to": 25.57,
+  "sid": 12,
+  "location": 2,
+  "content": "或者是心率快就一定是心脏病",
+  "music": 0.0
+ },
+ {
+  "from": 25.57,
+  "to": 26.81,
+  "sid": 13,
+  "location": 2,
+  "content": "其实都存在误解",
+  "music": 0.0
+ },
+ {
+  "from": 26.81,
+  "to": 28.78,
+  "sid": 14,
+  "location": 2,
+  "content": "那心率的正常范围是多少",
+  "music": 0.0
+ },
+ {
+  "from": 28.78,
+  "to": 30.88,
+  "sid": 15,
+  "location": 2,
+  "content": "过快或者过慢的可能原因",
+  "music": 0.0
+ },
+ {
+  "from": 30.88,
+  "to": 32.4,
+  "sid": 16,
+  "location": 2,
+  "content": "那如何自我测量",
+  "music": 0.0
+ },
+ {
+  "from": 32.4,
+  "to": 33.88,
+  "sid": 17,
+  "location": 2,
+  "content": "以及何时需要担心",
+  "music": 0.0
+ },
+ {
+  "from": 33.88,
+  "to": 35.9,
+  "sid": 18,
+  "location": 2,
+  "content": "我觉得很有必要给你们讲清楚",
+  "music": 0.0
+ },
+ {
+  "from": 35.9,
+  "to": 38.43,
+  "sid": 19,
+  "location": 2,
+  "content": "那人的心脏就像汽车的引擎",
+  "music": 0.0
+ },
+ {
+  "from": 38.43,
+  "to": 40.87,
+  "sid": 20,
+  "location": 2,
+  "content": "心率就是引擎每分钟转动的次数",
+  "music": 0.0
+ },
+ {
+  "from": 40.87,
+  "to": 43.72,
+  "sid": 21,
+  "location": 2,
+  "content": "那正常引擎需要保持稳定的转速",
+  "music": 0.0
+ },
+ {
+  "from": 43.72,
+  "to": 44.88,
+  "sid": 22,
+  "location": 2,
+  "content": "太快容易过热",
+  "music": 0.0
+ },
+ {
+  "from": 44.88,
+  "to": 46.3,
+  "sid": 23,
+  "location": 2,
+  "content": "那太慢容易熄火",
+  "music": 0.0
+ },
+ {
+  "from": 46.3,
+  "to": 50.47,
+  "sid": 24,
+  "location": 2,
+  "content": "那正常心率静止时在60~100次每分钟",
+  "music": 0.0
+ },
+ {
+  "from": 50.47,
+  "to": 54.57,
+  "sid": 25,
+  "location": 2,
+  "content": "但运动员心率可能会低至40~50次每分钟",
+  "music": 0.0
+ },
+ {
+  "from": 54.57,
+  "to": 57.03,
+  "sid": 26,
+  "location": 2,
+  "content": "就类似于改装后的引擎会更高效",
+  "music": 0.0
+ },
+ {
+  "from": 57.03,
+  "to": 60.13,
+  "sid": 27,
+  "location": 2,
+  "content": "那如果心率过快大于100次每分钟",
+  "music": 0.0
+ },
+ {
+  "from": 60.13,
+  "to": 62.07,
+  "sid": 28,
+  "location": 2,
+  "content": "就好比引擎超速运转",
+  "music": 0.0
+ },
+ {
+  "from": 62.07,
+  "to": 64.41,
+  "sid": 29,
+  "location": 2,
+  "content": "那长期如此容易造成心脏疲劳",
+  "music": 0.0
+ },
+ {
+  "from": 64.41,
+  "to": 65.36,
+  "sid": 30,
+  "location": 2,
+  "content": "心肌损伤",
+  "music": 0.0
+ },
+ {
+  "from": 65.36,
+  "to": 68.48,
+  "sid": 31,
+  "location": 2,
+  "content": "那常见原因可能有运动紧张",
+  "music": 0.0
+ },
+ {
+  "from": 68.48,
+  "to": 70.64,
+  "sid": 32,
+  "location": 2,
+  "content": "摄入咖啡因等生理性原因",
+  "music": 0.0
+ },
+ {
+  "from": 70.64,
+  "to": 72.8,
+  "sid": 33,
+  "location": 2,
+  "content": "也可能是甲亢贫血",
+  "music": 0.0
+ },
+ {
+  "from": 72.8,
+  "to": 74.95,
+  "sid": 34,
+  "location": 2,
+  "content": "心衰等病理性原因",
+  "music": 0.0
+ },
+ {
+  "from": 74.95,
+  "to": 76.49,
+  "sid": 35,
+  "location": 2,
+  "content": "平时我们要学会自查",
+  "music": 0.0
+ },
+ {
+  "from": 76.49,
+  "to": 79.73,
+  "sid": 36,
+  "location": 2,
+  "content": "那如果静坐时心跳像跑完步一样快",
+  "music": 0.0
+ },
+ {
+  "from": 79.73,
+  "to": 81.58,
+  "sid": 37,
+  "location": 2,
+  "content": "同时伴随心慌气短啊",
+  "music": 0.0
+ },
+ {
+  "from": 81.58,
+  "to": 82.92,
+  "sid": 38,
+  "location": 2,
+  "content": "就需要检查心电图",
+  "music": 0.0
+ },
+ {
+  "from": 82.92,
+  "to": 84.0,
+  "sid": 39,
+  "location": 2,
+  "content": "排查心率失常",
+  "music": 0.0
+ },
+ {
+  "from": 84.0,
+  "to": 85.42,
+  "sid": 40,
+  "location": 2,
+  "content": "那这里你还需记住",
+  "music": 0.0
+ },
+ {
+  "from": 85.42,
+  "to": 89.4,
+  "sid": 41,
+  "location": 2,
+  "content": "一个运动时的最大心率不宜超过220",
+  "music": 0.0
+ },
+ {
+  "from": 89.4,
+  "to": 92.229,
+  "sid": 42,
+  "location": 2,
+  "content": "减年龄的差乘以0.85",
+  "music": 0.0
+ },
+ {
+  "from": 92.229,
+  "to": 93.529,
+  "sid": 43,
+  "location": 2,
+  "content": "超过最大心率",
+  "music": 0.0
+ },
+ {
+  "from": 93.529,
+  "to": 97.06,
+  "sid": 44,
+  "location": 2,
+  "content": "可能会增加心血管系统的压力和风险",
+  "music": 0.0
+ },
+ {
+  "from": 97.06,
+  "to": 98.46,
+  "sid": 45,
+  "location": 2,
+  "content": "那如果心率过慢",
+  "music": 0.0
+ },
+ {
+  "from": 98.46,
+  "to": 99.78,
+  "sid": 46,
+  "location": 2,
+  "content": "小于60次",
+  "music": 0.0
+ },
+ {
+  "from": 99.78,
+  "to": 100.4,
+  "sid": 47,
+  "location": 2,
+  "content": "每分钟",
+  "music": 0.0
+ },
+ {
+  "from": 100.4,
+  "to": 102.74,
+  "sid": 48,
+  "location": 2,
+  "content": "就好比引擎怠速过低",
+  "music": 0.0
+ },
+ {
+  "from": 102.74,
+  "to": 104.02,
+  "sid": 49,
+  "location": 2,
+  "content": "爬坡容易熄火",
+  "music": 0.0
+ },
+ {
+  "from": 104.02,
+  "to": 107.0,
+  "sid": 50,
+  "location": 2,
+  "content": "也就是说心脏可能无法泵血到全身",
+  "music": 0.0
+ },
+ {
+  "from": 107.0,
+  "to": 108.8,
+  "sid": 51,
+  "location": 2,
+  "content": "容易经常引起头昏乏力",
+  "music": 0.0
+ },
+ {
+  "from": 108.8,
+  "to": 111.77,
+  "sid": 52,
+  "location": 2,
+  "content": "那常见原因可能是人处于睡眠当中",
+  "music": 0.0
+ },
+ {
+  "from": 111.77,
+  "to": 113.21,
+  "sid": 53,
+  "location": 2,
+  "content": "像打开了节能模式",
+  "music": 0.0
+ },
+ {
+  "from": 113.21,
+  "to": 116.65,
+  "sid": 54,
+  "location": 2,
+  "content": "或者是运动员经过特殊训练等生理性原因",
+  "music": 0.0
+ },
+ {
+  "from": 116.65,
+  "to": 118.89,
+  "sid": 55,
+  "location": 2,
+  "content": "但也可能是房室传导组织",
+  "music": 0.0
+ },
+ {
+  "from": 118.89,
+  "to": 121.44,
+  "sid": 56,
+  "location": 2,
+  "content": "甲状腺功能减退等病理性原因",
+  "music": 0.0
+ },
+ {
+  "from": 121.44,
+  "to": 123.76,
+  "sid": 57,
+  "location": 2,
+  "content": "所以我们也要引起警惕",
+  "music": 0.0
+ },
+ {
+  "from": 123.76,
+  "to": 126.84,
+  "sid": 58,
+  "location": 2,
+  "content": "那如果清醒时心率小于40次每分",
+  "music": 0.0
+ },
+ {
+  "from": 126.84,
+  "to": 129.32,
+  "sid": 59,
+  "location": 2,
+  "content": "或者眼前伴水发黑晕倒",
+  "music": 0.0
+ },
+ {
+  "from": 129.32,
+  "to": 131.97,
+  "sid": 60,
+  "location": 2,
+  "content": "那可能需要安装心脏起搏器",
+  "music": 0.0
+ },
+ {
+  "from": 131.97,
+  "to": 133.93,
+  "sid": 61,
+  "location": 2,
+  "content": "向加装一组外挂电池",
+  "music": 0.0
+ },
+ {
+  "from": 133.93,
+  "to": 136.74,
+  "sid": 62,
+  "location": 2,
+  "content": "那心率出现哪些数值需要紧急关注",
+  "music": 0.0
+ },
+ {
+  "from": 136.74,
+  "to": 138.62,
+  "sid": 63,
+  "location": 2,
+  "content": "这个需要结合症状来判断",
+  "music": 0.0
+ },
+ {
+  "from": 138.62,
+  "to": 141.58,
+  "sid": 64,
+  "location": 2,
+  "content": "那这里我说三个需要立即就医的组合",
+  "music": 0.0
+ },
+ {
+  "from": 141.58,
+  "to": 144.67,
+  "sid": 65,
+  "location": 2,
+  "content": "那第一心率大于150次每分",
+  "music": 0.0
+ },
+ {
+  "from": 144.67,
+  "to": 146.09,
+  "sid": 66,
+  "location": 2,
+  "content": "同时伴有胸痛啊",
+  "music": 0.0
+ },
+ {
+  "from": 146.09,
+  "to": 147.01,
+  "sid": 67,
+  "location": 2,
+  "content": "呼吸困难啊",
+  "music": 0.0
+ },
+ {
+  "from": 147.01,
+  "to": 149.49,
+  "sid": 68,
+  "location": 2,
+  "content": "那第二心率小于40次每分钟",
+  "music": 0.0
+ },
+ {
+  "from": 149.49,
+  "to": 150.83,
+  "sid": 69,
+  "location": 2,
+  "content": "同时伴有意识模糊",
+  "music": 0.0
+ },
+ {
+  "from": 150.83,
+  "to": 153.28,
+  "sid": 70,
+  "location": 2,
+  "content": "那第三心率忽快忽慢",
+  "music": 0.0
+ },
+ {
+  "from": 153.28,
+  "to": 154.4,
+  "sid": 71,
+  "location": 2,
+  "content": "像打鼓乱敲",
+  "music": 0.0
+ },
+ {
+  "from": 154.4,
+  "to": 157.34,
+  "sid": 72,
+  "location": 2,
+  "content": "所以心率也是心脏健康的起源标",
+  "music": 0.0
+ },
+ {
+  "from": 157.34,
+  "to": 159.63,
+  "sid": 73,
+  "location": 2,
+  "content": "出现不适一定要及时就医",
+  "music": 0.0
+ },
+ {
+  "from": 159.63,
+  "to": 162.63,
+  "sid": 74,
+  "location": 2,
+  "content": "日常我们可以减少浓茶咖啡的摄入",
+  "music": 0.0
+ },
+ {
+  "from": 163.93,
+  "to": 165.57,
+  "sid": 75,
+  "location": 2,
+  "content": "避免紧急加速",
+  "music": 0.0
+ },
+ {
+  "from": 165.57,
+  "to": 168.68,
+  "sid": 76,
+  "location": 2,
+  "content": "那保证睡眠也就是需要熄火保养",
+  "music": 0.0
+ },
+ {
+  "from": 168.68,
+  "to": 171.2,
+  "sid": 77,
+  "location": 2,
+  "content": "那控制焦虑这个很重要",
+  "music": 0.0
+ },
+ {
+  "from": 171.2,
+  "to": 172.94,
+  "sid": 78,
+  "location": 2,
+  "content": "类似避免紧急刹车",
+  "music": 0.0
+ },
+ {
+  "from": 172.94,
+  "to": 174.54,
+  "sid": 79,
+  "location": 2,
+  "content": "那这点大家可以学学",
+  "music": 0.0
+ },
+ {
+  "from": 174.54,
+  "to": 175.64,
+  "sid": 80,
+  "location": 2,
+  "content": "用于缓解压力",
+  "music": 0.0
+ },
+ {
+  "from": 175.64,
+  "to": 176.56,
+  "sid": 81,
+  "location": 2,
+  "content": "放松身心",
+  "music": 0.0
+ },
+ {
+  "from": 176.56,
+  "to": 179.7,
+  "sid": 82,
+  "location": 2,
+  "content": "帮助改善睡眠质量的478呼吸法",
+  "music": 0.0
+ },
+ {
+  "from": 179.7,
+  "to": 181.18,
+  "sid": 83,
+  "location": 2,
+  "content": "那平静状态下",
+  "music": 0.0
+ },
+ {
+  "from": 181.18,
+  "to": 184.85,
+  "sid": 84,
+  "location": 2,
+  "content": "用鼻子缓慢吸气四秒",
+  "music": 0.0
+ },
+ {
+  "from": 184.85,
+  "to": 187.49,
+  "sid": 85,
+  "location": 2,
+  "content": "然后屏气七秒",
+  "music": 0.0
+ },
+ {
+  "from": 187.49,
+  "to": 191.499,
+  "sid": 86,
+  "location": 2,
+  "content": "最后嘴巴缓慢呼吸八秒",
+  "music": 0.0
+ },
+ {
+  "from": 191.499,
+  "to": 192.539,
+  "sid": 87,
+  "location": 2,
+  "content": "那每天三次",
+  "music": 0.0
+ },
+ {
+  "from": 192.539,
+  "to": 194.18,
+  "sid": 88,
+  "location": 2,
+  "content": "像给引擎降温",
+  "music": 0.0
+ }
+]

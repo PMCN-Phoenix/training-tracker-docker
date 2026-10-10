@@ -1,0 +1,226 @@
+[
+ {
+  "from": 0.94,
+  "to": 2.3,
+  "sid": 1,
+  "location": 2,
+  "content": "脉搏测量",
+  "music": 0.0
+ },
+ {
+  "from": 3.26,
+  "to": 5.5,
+  "sid": 2,
+  "location": 2,
+  "content": "进行我们的脉搏测量的时候",
+  "music": 0.0
+ },
+ {
+  "from": 5.5,
+  "to": 9.74,
+  "sid": 3,
+  "location": 2,
+  "content": "其实我们在临床上可以选择桡动脉呀",
+  "music": 0.0
+ },
+ {
+  "from": 9.74,
+  "to": 10.82,
+  "sid": 4,
+  "location": 2,
+  "content": "肱动脉呀",
+  "music": 0.0
+ },
+ {
+  "from": 10.82,
+  "to": 11.54,
+  "sid": 5,
+  "location": 2,
+  "content": "股动脉",
+  "music": 0.0
+ },
+ {
+  "from": 11.54,
+  "to": 12.92,
+  "sid": 6,
+  "location": 2,
+  "content": "而在考试的时候",
+  "music": 0.0
+ },
+ {
+  "from": 12.92,
+  "to": 15.3,
+  "sid": 7,
+  "location": 2,
+  "content": "我们都是选择桡动脉",
+  "music": 0.0
+ },
+ {
+  "from": 15.3,
+  "to": 16.98,
+  "sid": 8,
+  "location": 2,
+  "content": "在检查脉搏的时候",
+  "music": 0.0
+ },
+ {
+  "from": 16.98,
+  "to": 20.48,
+  "sid": 9,
+  "location": 2,
+  "content": "首先你要知道我们检查脉搏的内容有哪些",
+  "music": 0.0
+ },
+ {
+  "from": 20.5,
+  "to": 24.74,
+  "sid": 10,
+  "location": 2,
+  "content": "有麦率节律和紧张度",
+  "music": 0.0
+ },
+ {
+  "from": 24.74,
+  "to": 29.78,
+  "sid": 11,
+  "location": 2,
+  "content": "以及动脉壁的弹性强弱及波形变化",
+  "music": 0.0
+ },
+ {
+  "from": 30.12,
+  "to": 32.61,
+  "sid": 12,
+  "location": 2,
+  "content": "在检查的时候呢",
+  "music": 0.0
+ },
+ {
+  "from": 32.61,
+  "to": 38.87,
+  "sid": 13,
+  "location": 2,
+  "content": "要求是我们的左手四指中指和环指三指并拢",
+  "music": 0.0
+ },
+ {
+  "from": 38.87,
+  "to": 42.79,
+  "sid": 14,
+  "location": 2,
+  "content": "放在被检查者的桡动脉波动处",
+  "music": 0.0
+ },
+ {
+  "from": 42.79,
+  "to": 46.21,
+  "sid": 15,
+  "location": 2,
+  "content": "以适当的力度到底多大力度呢",
+  "music": 0.0
+ },
+ {
+  "from": 46.21,
+  "to": 49.6,
+  "sid": 16,
+  "location": 2,
+  "content": "不知道适当力度在检查的时候呢",
+  "music": 0.0
+ },
+ {
+  "from": 49.6,
+  "to": 53.18,
+  "sid": 17,
+  "location": 2,
+  "content": "要求是至少触摸15~30秒钟",
+  "music": 0.0
+ },
+ {
+  "from": 53.18,
+  "to": 55.17,
+  "sid": 18,
+  "location": 2,
+  "content": "我建议最好是30秒钟",
+  "music": 0.0
+ },
+ {
+  "from": 55.17,
+  "to": 56.55,
+  "sid": 19,
+  "location": 2,
+  "content": "我们这个时候在测的时候",
+  "music": 0.0
+ },
+ {
+  "from": 56.55,
+  "to": 59.52,
+  "sid": 20,
+  "location": 2,
+  "content": "要知道我们测的内容是第一个脉率",
+  "music": 0.0
+ },
+ {
+  "from": 59.52,
+  "to": 62.4,
+  "sid": 21,
+  "location": 2,
+  "content": "脉率指的每分钟跳多少次",
+  "music": 0.0
+ },
+ {
+  "from": 62.4,
+  "to": 66.27,
+  "sid": 22,
+  "location": 2,
+  "content": "第二个就是节律是否整齐",
+  "music": 0.0
+ },
+ {
+  "from": 66.27,
+  "to": 70.33,
+  "sid": 23,
+  "location": 2,
+  "content": "然后就是所有我们的紧张度是否适中",
+  "music": 0.0
+ },
+ {
+  "from": 70.33,
+  "to": 73.03,
+  "sid": 24,
+  "location": 2,
+  "content": "而且要进行双侧对比",
+  "music": 0.0
+ },
+ {
+  "from": 73.03,
+  "to": 74.86,
+  "sid": 25,
+  "location": 2,
+  "content": "你不要把左侧侧了",
+  "music": 0.0
+ },
+ {
+  "from": 74.86,
+  "to": 76.62,
+  "sid": 26,
+  "location": 2,
+  "content": "右侧没有测",
+  "music": 0.0
+ },
+ {
+  "from": 76.62,
+  "to": 80.16,
+  "sid": 27,
+  "location": 2,
+  "content": "所以需要进行双侧对比检查",
+  "music": 0.0
+ },
+ {
+  "from": 80.16,
+  "to": 85.02,
+  "sid": 28,
+  "location": 2,
+  "content": "然后就是检测完毕后需要汇报我们的检查结果",
+  "music": 0.0
+ }
+]
