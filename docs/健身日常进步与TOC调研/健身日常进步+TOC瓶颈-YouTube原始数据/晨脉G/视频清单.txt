@@ -1,0 +1,19 @@
+晨脉 G — YouTube 选定视频清单（最终版）
+抓取日期：2026-10-10
+方法：yt-dlp ytsearchN（代理 127.0.0.1:7892）；字幕 = android client + --write-auto-subs en
+============================================================
+G 晨脉手动测量（桡动脉计数）
+G1 | vmVjnpTv_Nk | RegisteredNurseRN | How to Check Your Pulse / Finding the Radial Pulse
+G2 | gUWJ-6nL5-8 | RegisteredNurseRN | Vital Signs Nursing（脉搏段 05:43-07:16）
+G3 | g3OILanxDh0 | Mayo Clinic | Heart Rate vs. Heart Rhythm
+G4 | RIUguNMq_S8  | Florida Training Academy | How to Take the Radial Pulse (CNA/PCT)
+G5 | BSlRvD-CZSo | UT MD Anderson | How to check your pulse and heart rate
+------------------------------------------------------------
+不引用（留档但自动字幕不可用）：
+- CGNR4bbnbDA | Geeky Medics | How to Feel a Pulse（vtt 存在但 ASR 近空转）
+------------------------------------------------------------
+替换/失败记录：
+- JmfABHbL-HM (RN Radial Pulse Assessment) 无 en 字幕轨道 -> 换 G4 RIUguNMq_S8
+- w77tHehp6AI (The Heart Doctor own pulse) 三次 429 -> 放弃，由 G1/G2 覆盖
+- AHHr8qNU9QY (Hamilton take pulse) 字幕轨道为空 -> 放弃
+- 75f9S6rR-mo (MeasEval Heart Rate Measurement) 三次 429 -> 设备对比证据缺口，引用主题B既有结论
