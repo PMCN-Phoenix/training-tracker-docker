@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>训练感悟系统 · 交互 Demo</title>
+<style>
+  :root{
+    --bg:#0e1116; --panel:#151a22; --panel2:#1a222e; --line:#242e3c;
+    --text:#e8ecf1; --sub:#97a3b4; --dim:#67738a;
+    --amber:#e8a23d; --amber-bg:#2a2215; --amber-line:#4a3a1c;
+    --green:#4ade80; --blue:#60a5fa; --red:#f87171;
+    --mono:ui-monospace,"SF Mono",Consolas,"Cascadia Mono",monospace;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{height:100%;}
+  body{background:var(--bg);color:var(--text);font-family:"PingFang SC","Microsoft YaHei",system-ui,-apple-system,sans-serif;font-size:14px;}
+  /* ===== 顶栏 ===== */
+  .top{display:flex;align-items:center;gap:28px;padding:14px 22px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#151a22,#12161d);}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .brand .logo{width:26px;height:26px;border-radius:7px;background:radial-gradient(circle at 30% 30%,#e8a23d,#7a5a1c);display:flex;align-items:center;justify-content:center;}
+  .brand h1{font-size:16px;font-weight:700;letter-spacing:.3px;}
+  .brand small{display:block;color:var(--dim);font-size:11px;font-weight:400;margin-top:1px;}
+  .stats{display:flex;gap:22px;margin-left:auto;}
+  .stat{text-align:right;}
+  .stat b{font-family:var(--mono);font-size:20px;display:block;line-height:1;}
+  .stat span{color:var(--sub);font-size:11px;}
+  .stat b.g{color:var(--green);} .stat b.a{color:var(--amber);} .stat b.b{color:var(--blue);}
+  .daybar{display:flex;align-items:center;gap:10px;border-top:1px solid var(--line);background:#1b120b;padding:8px 22px;font-size:12.5px;color:var(--amber);}
+  .daybar .dot{width:7px;height:7px;border-radius:50%;background:var(--amber);flex-shrink:0;}
+  .daybar b{color:#f5c76b;font-weight:600;}
+  .daybar .empty{color:var(--dim);}
+  /* ===== 工作台 ===== */
+  .workbench{display:flex;height:calc(100vh - 96px);min-height:520px;}
+  /* 左栏 */
+  .col-left{width:206px;flex-shrink:0;border-right:1px solid var(--line);background:var(--panel);overflow-y:auto;padding:12px 10px;}
+  .grp-label{font-size:11px;color:var(--dim);letter-spacing:1px;margin:12px 8px 6px;text-transform:uppercase;}
+  .act{display:flex;align-items:center;justify-content:space-between;padding:8px 10px;border-radius:7px;cursor:pointer;color:var(--sub);font-size:13px;border:1px solid transparent;transition:background .12s;}
+  .act:hover{background:var(--panel2);color:var(--text);}
+  .act.on{background:#1c2534;border-color:var(--blue);color:var(--text);}
+  .act .cnt{font-family:var(--mono);font-size:11px;color:var(--dim);}
+  .act.on .cnt{color:var(--blue);}
+  .act .tag-r{width:8px;height:8px;border-radius:50%;background:var(--amber);margin-right:6px;flex-shrink:0;display:none;}
+  .act.has-r .tag-r{display:inline-block;}
+  /* 中栏 */
+  .col-mid{flex:1;overflow-y:auto;padding:16px 18px;min-width:0;}
+  .mid-head{display:flex;align-items:baseline;gap:10px;margin-bottom:4px;}
+  .mid-head h2{font-size:17px;}
+  .mid-head .dir{font-size:11px;color:var(--dim);border:1px solid var(--line);border-radius:4px;padding:2px 7px;}
+  .mid-sub{color:var(--sub);font-size:12px;margin-bottom:14px;}
+  .exref{display:flex;gap:8px;align-items:flex-start;background:var(--amber-bg);border:1px solid var(--amber-line);border-radius:8px;padding:10px 12px;margin-bottom:14px;}
+  .exref .ic{color:var(--amber);flex-shrink:0;margin-top:1px;}
+  .exref .meta{color:#c9a568;font-size:11px;margin-top:3px;}
+  .session{background:var(--panel);border:1px solid var(--line);border-radius:9px;margin-bottom:12px;overflow:hidden;}
+  .shead{display:flex;align-items:center;gap:10px;padding:9px 12px;border-bottom:1px solid var(--line);font-size:12px;color:var(--sub);}
+  .shead .date{color:var(--text);font-weight:600;font-family:var(--mono);}
+  .shead .sess-id{font-family:var(--mono);font-size:10.5px;color:var(--dim);}
+  .shead .pr{border:1px solid var(--red);color:var(--red);font-size:10px;border-radius:4px;padding:1px 6px;}
+  .set-row{display:flex;align-items:center;gap:12px;padding:10px 12px;border-bottom:1px dashed #1f2834;cursor:pointer;transition:background .12s;}
+  .set-row:last-child{border-bottom:none;}
+  .set-row:hover{background:#1a2130;}
+  .set-row.sel{background:#22304a;box-shadow:inset 3px 0 0 var(--blue);}
+  .set-no{width:44px;color:var(--dim);font-size:12px;flex-shrink:0;}
+  .set-w{font-family:var(--mono);font-weight:700;font-size:14px;color:var(--green);min-width:78px;}
+  .set-reps{font-family:var(--mono);color:var(--text);font-size:13px;}
+  .set-tags{margin-left:auto;display:flex;align-items:center;gap:8px;}
+  .note-ic{display:none;align-items:center;gap:4px;color:var(--amber);font-size:11px;border:1px solid var(--amber-line);background:var(--amber-bg);border-radius:20px;padding:2px 8px;}
+  .set-row.has-r .note-ic{display:flex;}
+  .unmatch{display:flex;align-items:center;gap:8px;background:#161b24;border:1px dashed var(--dim);border-radius:8px;padding:10px 12px;margin-bottom:10px;color:var(--sub);font-size:12.5px;cursor:pointer;}
+  .unmatch:hover{background:#1a2230;}
+  .unmatch .u-ic{color:var(--dim);flex-shrink:0;}
+  .unmatch b{color:#c9d2de;font-weight:600;}
+  .unmatch .pend{margin-left:auto;font-size:10.5px;color:var(--dim);border:1px solid var(--line);border-radius:4px;padding:1px 7px;}
+  .empty-mid{color:var(--dim);font-size:13px;padding:30px 10px;text-align:center;border:1px dashed var(--line);border-radius:9px;}
+  /* 右栏 */
+  .col-right{width:300px;flex-shrink:0;border-left:1px solid var(--line);background:var(--panel);overflow-y:auto;padding:16px 14px;}
+  .side-head{font-size:12px;color:var(--dim);margin-bottom:12px;letter-spacing:.5px;}
+  .side-target{font-size:15px;font-weight:700;margin-bottom:14px;line-height:1.4;}
+  .side-target .t-sub{display:block;font-size:11.5px;font-weight:400;color:var(--sub);margin-top:3px;}
+  .note-card{background:#201a10;border:1px solid var(--amber-line);border-left:3px solid var(--amber);border-radius:8px;padding:12px;margin-bottom:10px;}
+  .note-card .n-date{font-size:11px;color:#c9a568;margin-bottom:6px;font-family:var(--mono);}
+  .note-card .n-text{font-size:13.5px;line-height:1.65;color:#f3e3c0;}
+  .note-card .n-meta{display:flex;align-items:center;gap:10px;margin-top:9px;font-size:11px;color:var(--sub);}
+  .note-card .n-tags{display:flex;gap:5px;flex-wrap:wrap;}
+  .note-card .n-tag{color:var(--amber);background:var(--amber-bg);border:1px solid var(--amber-line);border-radius:4px;padding:1px 7px;font-size:10.5px;}
+  .note-card .n-act{margin-left:auto;display:flex;gap:6px;}
+  .n-btn{background:none;border:1px solid var(--line);color:var(--sub);border-radius:5px;padding:2px 9px;font-size:11.5px;cursor:pointer;font-family:inherit;}
+  .n-btn:hover{color:var(--text);border-color:var(--sub);}
+  .n-btn.danger:hover{color:var(--red);border-color:var(--red);}
+  .pend-card{background:#161b24;border:1px dashed var(--dim);border-radius:8px;padding:12px;margin-bottom:10px;}
+  .pend-card .p-title{color:#c9d2de;font-weight:600;font-size:13px;margin-bottom:6px;}
+  .pend-card .p-text{color:var(--sub);font-size:12.5px;line-height:1.6;}
+  .pend-card .p-tip{color:var(--dim);font-size:11.5px;margin-top:8px;border-top:1px dashed #27303d;padding-top:8px;}
+  .side-empty{color:var(--dim);font-size:12.5px;line-height:1.7;border:1px dashed var(--line);border-radius:8px;padding:14px;text-align:center;}
+  .side-empty b{color:var(--sub);font-weight:600;}
+  .add-note{margin-top:14px;}
+  .add-note button{width:100%;padding:9px;background:#1c2534;border:1px dashed var(--blue);color:var(--blue);border-radius:7px;cursor:pointer;font-size:12.5px;font-family:inherit;}
+  .add-note button:hover{background:#22304a;}
+  .add-note small{display:block;text-align:center;color:var(--dim);font-size:11px;margin-top:6px;}
+  /* 页脚提示 */
+  .demo-note{position:fixed;left:0;right:0;bottom:0;background:#0b0e13;border-top:1px solid var(--line);color:var(--dim);font-size:11.5px;padding:6px 22px;z-index:9;}
+  /* 响应式 */
+  @media (max-width:900px){
+    .workbench{flex-direction:column;height:auto;overflow:visible;}
+    .col-left{width:100%;border-right:none;border-bottom:1px solid var(--line);max-height:180px;}
+    .col-mid{width:100%;}
+    .col-right{width:100%;border-left:none;border-top:1px solid var(--line);}
+    .top{flex-wrap:wrap;gap:12px;}
+    .stats{margin-left:0;}
+    .stat{text-align:left;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== 顶栏：品牌 + 统计 + 日级感悟条 ===== -->
+<header class="top">
+  <div class="brand">
+    <div class="logo">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#1b120b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5M4 12h16"/></svg>
+    </div>
+    <div><h1>训练感悟系统</h1><small>training-tracker · 交互 Demo</small></div>
+  </div>
+  <div class="stats">
+    <div class="stat"><b class="a" id="stTotal">–</b><span>感悟总数</span></div>
+    <div class="stat"><b class="b" id="stToday">–</b><span>今日</span></div>
+    <div class="stat"><b class="g" id="stStreak">–</b><span>连续天数</span></div>
+    <div class="stat"><b class="a" id="stEx">–</b><span>覆盖动作</span></div>
+  </div>
+</header>
+<div class="daybar" id="daybar"><span class="dot"></span><span id="daybarText">…</span></div>
+
+<main class="workbench">
+  <!-- ===== 左栏：动作列表 ===== -->
+  <aside class="col-left" id="colLeft"></aside>
+
+  <!-- ===== 中栏：动作历史训练 ===== -->
+  <section class="col-mid" id="colMid"></section>
+
+  <!-- ===== 右栏：侧栏感悟 ===== -->
+  <aside class="col-right" id="colRight"></aside>
+</main>
+
+<div class="demo-note">Demo 验证交互与 join 逻辑 · 数据为贴近真实形态的示例，非真实记录 · 正式版由 Node-RED 录入 + FastAPI 查询</div>
+
+<script>
+/* ============================================================
+   模拟数据（形态对齐产品设计文档 §3：ppl_reflection + ppl_* 训练点）
+   ============================================================ */
+var EX = [
+  { id:'ppl_push_bench_flat',    direction:'push',  label:'平板卧推' },
+  { id:'ppl_push_bench_incline', direction:'push',  label:'上斜卧推' },
+  { id:'ppl_push_bench_close',   direction:'push',  label:'窄距卧推' },
+  { id:'ppl_push_overhead_press',direction:'push',  label:'站姿推举' },
+  { id:'ppl_push_pec_deck',      direction:'push',  label:'夹胸' },
+  { id:'ppl_pull_deadlift',      direction:'pull',  label:'硬拉' },
+  { id:'ppl_pull_seated_row',    direction:'pull',  label:'坐姿划船' },
+  { id:'ppl_pull_tbar_row',      direction:'pull',  label:'T杆划船' },
+  { id:'ppl_pull_lat_pulldown',  direction:'pull',  label:'高位下拉' },
+  { id:'ppl_pull_barbell_curl',  direction:'pull',  label:'杠铃弯举' },
+  { id:'ppl_squat_back_squat',   direction:'squat', label:'杠铃深蹲' },
+  { id:'ppl_squat_leg_press_hack',direction:'squat',label:'倒蹬/哈克' },
+  { id:'ppl_squat_leg_extension',direction:'squat', label:'腿屈伸' },
+  { id:'ppl_squat_leg_curl',     direction:'squat', label:'腿弯举' },
+  { id:'ppl_squat_calf_raise',   direction:'squat', label:'站姿提踵' }
+];
+var DIR_NAME = { push:'推日', pull:'拉日', squat:'蹲日' };
+
+/* 训练记录：一次 session 一轮；set_index 从 1 起（形态对齐 parse-training 输出） */
+var SESSIONS = [
+  { sessionId:'s1739000000000', date:'2026-10-11', exercise:'平板卧推', direction:'push', sets:[{w:47.5,r:8},{w:47.5,r:9},{w:47.5,r:8}] },
+  { sessionId:'s1738910000000', date:'2026-10-09', exercise:'平板卧推', direction:'push', sets:[{w:45,r:12},{w:45,r:11},{w:45,r:10}] },
+  { sessionId:'s1738390000000', date:'2026-09-28', exercise:'平板卧推', direction:'push', sets:[{w:45,r:10},{w:45,r:9},{w:45,r:8}] },
+  { sessionId:'s1739001000000', date:'2026-10-11', exercise:'上斜卧推', direction:'push', sets:[{w:12.5,r:10},{w:12.5,r:9},{w:12.5,r:8}] },
+  { sessionId:'s1738911000000', date:'2026-10-09', exercise:'窄距卧推', direction:'push', sets:[{w:45,r:11},{w:45,r:9},{w:45,r:8}] },
+  { sessionId:'s1739002000000', date:'2026-10-11', exercise:'站姿推举', direction:'push', sets:[{w:10,r:12},{w:10,r:11},{w:10,r:10}] },
+  { sessionId:'s1738800000000', date:'2026-10-07', exercise:'夹胸',     direction:'push', sets:[{w:40,r:16},{w:40,r:14},{w:40,r:12}] },
+  { sessionId:'s1738950000000', date:'2026-10-10', exercise:'杠铃深蹲', direction:'squat',sets:[{w:70,r:6},{w:70,r:6},{w:70,r:5}] },
+  { sessionId:'s1738820000000', date:'2026-10-08', exercise:'硬拉',     direction:'pull', sets:[{w:90,r:5},{w:90,r:5},{w:90,r:4}] }
+];
+
+/* 感悟：组级(setIndex 有值) / 动作级(无 setIndex) / 日级(无 exercise) */
+var REFLECTIONS = [
+  { id:'ref_20261011_a', date:'2026-10-11', direction:'push', exercise:'平板卧推', setIndex:1, content:'肩胛锁死后推起来更稳，下放节奏再慢一点。', tags:['发力感'],            source:'消息', time:'19:24' },
+  { id:'ref_20261011_b', date:'2026-10-11', direction:'push', exercise:'平板卧推', setIndex:2, content:'这组最顺，瓦式呼吸之后明显有力。',          tags:['发力感','技术点'], source:'消息', time:'19:28' },
+  { id:'ref_20261011_c', date:'2026-10-11', direction:'push', exercise:'平板卧推', setIndex:3, content:'最后一下有点变形，下次组间休息拉长到 3 分钟。', tags:['状态'],              source:'消息', time:'19:33' },
+  { id:'ref_20260928_d', date:'2026-09-28', direction:'push', exercise:'平板卧推', setIndex:2, content:'起桥做出来之后，胸的拉伸感更完整。',          tags:['技术点'],            source:'消息', time:'20:05' },
+  { id:'ref_20261009_e', date:'2026-10-09', direction:'push', exercise:'窄距卧推', setIndex:1, content:'握距收到肩宽略内，三头参与更明显。',          tags:['技术点'],            source:'消息', time:'19:41' },
+  /* ↓ 夹胸 · 10-11 第2组感悟：当天夹胸训练数据未录入 → 演示「待匹配」宽松绑定 */
+  { id:'ref_20261011_f', date:'2026-10-11', direction:'push', exercise:'夹胸',     setIndex:2, content:'离心放慢一点，顶峰收缩保持 1 秒。',            tags:['技术点'],            source:'消息', time:'20:02' },
+  /* 动作级（无 setIndex） */
+  { id:'ref_20261011_g', date:'2026-10-11', direction:'push', exercise:'上斜卧推', content:'今天上胸感觉好，角度调低半格更明显。',            tags:['发力感'],            source:'消息', time:'19:52' },
+  { id:'ref_20261010_h', date:'2026-10-10', direction:'squat',exercise:'杠铃深蹲', content:'髋部打开后蹲得更深，呼吸节奏稳定。',             tags:['技术点'],            source:'消息', time:'18:30' },
+  /* 日级（无 exercise） */
+  { id:'ref_20261011_i', date:'2026-10-11', content:'整体状态一般，组间拉到 3 分钟再上重量。', tags:['状态'], source:'消息', time:'19:10' }
+];
+
+/* ============================================================
+   状态
+   ============================================================ */
+var state = {
+  activeExercise: '平板卧推',
+  selected: { type:'set', sessionId:null, setIndex:null }  // set / exercise / day
+};
+
+/* ============================================================
+   工具
+   ============================================================ */
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function refsForExercise(ex){ return REFLECTIONS.filter(function(r){ return r.exercise === ex; }); }
+function setRefs(ex, date, setIndex){
+  return REFLECTIONS.filter(function(r){ return r.exercise === ex && r.date === date && r.setIndex === setIndex; });
+}
+function exRefs(ex){ return REFLECTIONS.filter(function(r){ return r.exercise === ex && !r.setIndex; }); }
+function dayRefs(){ return REFLECTIONS.filter(function(r){ return !r.exercise; }); }
+function sessionsOf(ex){ return SESSIONS.filter(function(s){ return s.exercise === ex; }); }
+function exRefCount(ex){ return refsForExercise(ex).length; }
+function isMatched(r){
+  if (!r.setIndex) return true;
+  return SESSIONS.some(function(s){ return s.exercise === r.exercise && s.date === r.date && s.sets[r.setIndex-1]; });
+}
+
+/* ============================================================
+   统计
+   ============================================================ */
+function renderStats(){
+  var today = '2026-10-11';
+  var total = REFLECTIONS.length;
+  var todayN = REFLECTIONS.filter(function(r){ return r.date === today; }).length;
+  var days = {}; REFLECTIONS.forEach(function(r){ days[r.date]=1; });
+  var dates = Object.keys(days).sort(); var streak = 0;
+  var d = new Date('2026-10-11');
+  for (var i=0;i<30;i++){
+    var key = d.toISOString().slice(0,10);
+    if (dates.indexOf(key) >= 0){ streak++; d.setDate(d.getDate()-1); } else break;
+  }
+  var exN = {}; REFLECTIONS.forEach(function(r){ if(r.exercise) exN[r.exercise]=1; });
+  document.getElementById('stTotal').textContent = total;
+  document.getElementById('stToday').textContent = todayN;
+  document.getElementById('stStreak').textContent = streak;
+  document.getElementById('stEx').textContent = Object.keys(exN).length;
+}
+
+function renderDaybar(){
+  var r = dayRefs();
+  var el = document.getElementById('daybarText');
+  if (!r.length){ el.innerHTML = '<span class="empty">暂无训练日随笔 —— 发「推日 感悟：……」记录</span>'; return; }
+  var latest = r.sort(function(a,b){ return b.date.localeCompare(a.date); })[0];
+  el.innerHTML = '训练日随笔 · <b>' + latest.date + '</b> —— ' + esc(latest.content) +
+    ' <span style="opacity:.6">（' + latest.tags.map(esc).join(' / ') + '）</span>';
+}
+
+/* ============================================================
+   左栏
+   ============================================================ */
+function renderLeft(){
+  var el = document.getElementById('colLeft');
+  var html = '';
+  ['push','pull','squat'].forEach(function(dir){
+    html += '<div class="grp-label">' + DIR_NAME[dir] + '</div>';
+    EX.filter(function(e){ return e.direction === dir; }).forEach(function(e){
+      var has = exRefCount(e.label) > 0;
+      html += '<div class="act' + (state.activeExercise===e.label?' on':'') + (has?' has-r':'') + '" data-ex="'+esc(e.label)+'">' +
+        '<span><span class="tag-r"></span>' + esc(e.label) + '</span>' +
+        '<span class="cnt">' + (has ? exRefCount(e.label) : '–') + '</span></div>';
+    });
+  });
+  el.innerHTML = html;
+  el.querySelectorAll('.act').forEach(function(a){
+    a.addEventListener('click', function(){
+      state.activeExercise = a.getAttribute('data-ex');
+      state.selected = { type:'set', sessionId:null, setIndex:null };
+      renderLeft(); renderMid(); renderRight();
+    });
+  });
+}
+
+/* ============================================================
+   中栏：动作历史训练（按 session 分组）
+   ============================================================ */
+function renderMid(){
+  var el = document.getElementById('colMid');
+  var ex = EX.filter(function(e){ return e.label === state.activeExercise; })[0];
+  var sessions = sessionsOf(ex.label).sort(function(a,b){ return b.date.localeCompare(a.date); });
+  var html = '<div class="mid-head"><h2>' + esc(ex.label) + '</h2><span class="dir">' + DIR_NAME[ex.direction] + '</span></div>';
+  html += '<div class="mid-sub">历史训练 · 按训练轮分组，点击任意一组查看右侧当时的感悟</div>';
+
+  /* 动作级感悟条 */
+  var ers = exRefs(ex.label);
+  ers.forEach(function(r){
+    html += '<div class="exref"><span class="ic"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg></span>' +
+      '<div>动作级感悟 · <b>' + esc(r.content) + '</b><div class="meta">' + r.date + ' ' + r.time + ' · ' + r.tags.map(esc).join(' / ') + '</div></div></div>';
+  });
+
+  /* 未匹配感悟（宽松绑定：感悟已记，训练数据未补录） */
+  var unmatched = REFLECTIONS.filter(function(r){ return r.exercise === ex.label && r.setIndex && !isMatched(r); });
+  unmatched.forEach(function(r){
+    html += '<div class="unmatch" data-ref="'+r.id+'"><span class="u-ic"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></span>' +
+      '<div><b>第'+r.setIndex+'组感悟待匹配</b> · ' + esc(r.content) + '</div><span class="pend">未匹配到组</span></div>';
+  });
+
+  if (!sessions.length && !unmatched.length){
+    html += '<div class="empty-mid">暂无训练记录 —— 通过消息录入「'+esc(ex.label)+' 47.5kg×8」后，这里会出现历史组数×重量</div>';
+  }
+
+  sessions.forEach(function(s){
+    var sRefCount = 0;
+    html += '<div class="session"><div class="shead"><span class="date">' + s.date + '</span><span>' + DIR_NAME[s.direction] + '</span><span class="sess-id">共 ' + s.sets.length + ' 组</span></div>';
+    s.sets.forEach(function(st, idx){
+      var setIndex = idx + 1;
+      var srs = setRefs(ex.label, s.date, setIndex);
+      if (srs.length) sRefCount += srs.length;
+      var sel = state.selected.type==='set' && state.selected.sessionId===s.sessionId && state.selected.setIndex===setIndex;
+      html += '<div class="set-row' + (sel?' sel':'') + (srs.length?' has-r':'') + '" data-session="'+s.sessionId+'" data-set="'+setIndex+'">' +
+        '<span class="set-no">第'+setIndex+'组</span>' +
+        '<span class="set-w">'+st.w+'kg</span><span class="set-reps">× '+st.r+' 次</span>' +
+        '<span class="set-tags"><span class="note-ic"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>' + srs.length + '</span></span></div>';
+    });
+    html += '</div>';
+    void sRefCount;
+  });
+
+  el.innerHTML = html;
+  el.querySelectorAll('.set-row').forEach(function(r){
+    r.addEventListener('click', function(){
+      state.selected = { type:'set', sessionId:r.getAttribute('data-session'), setIndex:parseInt(r.getAttribute('data-set'),10) };
+      renderMid(); renderRight();
+    });
+  });
+  el.querySelectorAll('.unmatch').forEach(function(u){
+    u.addEventListener('click', function(){
+      state.selected = { type:'ref', refId:u.getAttribute('data-ref') };
+      renderMid(); renderRight();
+    });
+  });
+  el.querySelectorAll('.exref').forEach(function(x){
+    x.addEventListener('click', function(){
+      state.selected = { type:'exercise', exercise: ex.label };
+      renderMid(); renderRight();
+    });
+  });
+}
+
+/* ============================================================
+   右栏：侧栏感悟（组级 / 动作级 / 待匹配）
+   ============================================================ */
+function renderRight(){
+  var el = document.getElementById('colRight');
+  var sel = state.selected;
+  var html = '<div class="side-head">侧栏 · 与选中组一一对应</div>';
+
+  if (sel.type === 'set'){
+    var session = SESSIONS.filter(function(s){ return s.sessionId === sel.sessionId; })[0];
+    if (!session){
+      html += '<div class="side-empty">点击中间任意一组训练记录，右侧显示那一组当时的感悟。<br><b>顺序</b>：左栏选动作 → 中栏点某组 → 右侧看感悟。</div>';
+      el.innerHTML = html;
+      return;
+    }
+    var st = session.sets[sel.setIndex-1];
+    var srs = setRefs(session.exercise, session.date, sel.setIndex);
+    html += '<div class="side-target">第'+sel.setIndex+'组 · '+session.exercise+'<span class="t-sub">'+session.date+' · '+st.w+'kg × '+st.r+' 次</span></div>';
+    if (srs.length){
+      srs.forEach(function(r){ html += noteCard(r); });
+    } else {
+      html += '<div class="side-empty"><b>这组没有感悟。</b><br>当时没记的话，可以在下方补录；组间随手发「'+session.exercise+' 第'+sel.setIndex+'组 感悟：……」即可自动挂到这一组。</div>';
+    }
+    html += addNoteBtn(session.exercise, sel.setIndex, session.date);
+  }
+
+  else if (sel.type === 'exercise'){
+    var ers = exRefs(sel.exercise);
+    html += '<div class="side-target">'+sel.exercise+' · 动作级感悟<span class="t-sub">不绑定具体组，动作练完后的总结</span></div>';
+    if (ers.length){ ers.forEach(function(r){ html += noteCard(r); }); }
+    else { html += '<div class="side-empty"><b>该动作暂无动作级感悟。</b><br>发「'+sel.exercise+' 感悟：……」记录。</div>'; }
+    html += addNoteBtn(sel.exercise, null, null);
+  }
+
+  else if (sel.type === 'ref'){
+    var rf = REFLECTIONS.filter(function(r){ return r.id === sel.refId; })[0];
+    html += '<div class="side-target">待匹配感悟<span class="t-sub">'+rf.exercise+' · 第'+rf.setIndex+'组 · '+rf.date+'</span></div>';
+    html += '<div class="pend-card"><div class="p-title">'+esc(rf.content)+'</div>' +
+      '<div class="p-text">这条感悟已经记录，但当天「'+esc(rf.exercise)+'」的第'+rf.setIndex+'组训练数据还没有录入。</div>' +
+      '<div class="p-tip">宽松绑定逻辑：数据补录后（发「'+esc(rf.exercise)+' '+ '40kg×14 第2组」），本卡片自动转为正常组级感悟，无需任何操作。</div></div>';
+    html += addNoteBtn(rf.exercise, rf.setIndex, rf.date);
+  }
+
+  else {
+    html += '<div class="side-empty">点击中间任意一组训练记录，右侧显示那一组当时的感悟。<br><b>顺序</b>：左栏选动作 → 中栏点某组 → 右侧看感悟。</div>';
+  }
+  el.innerHTML = html;
+
+  el.querySelectorAll('.n-btn').forEach(function(b){
+    b.addEventListener('click', function(){
+      toast(b.getAttribute('data-act') === 'del' ? '删除：正式版调 DELETE /api/reflections/{id}' : '编辑：正式版弹窗调 PUT /api/reflections/{id}');
+    });
+  });
+  el.querySelectorAll('.add-note button').forEach(function(b){
+    b.addEventListener('click', function(){
+      toast('补录：正式版弹窗调 POST /api/reflections（关联 '+b.getAttribute('data-ex')+'）');
+    });
+  });
+}
+
+function noteCard(r){
+  return '<div class="note-card"><div class="n-date">' + r.date + ' ' + r.time + ' · ' + r.source + '</div>' +
+    '<div class="n-text">' + esc(r.content) + '</div>' +
+    '<div class="n-meta"><span class="n-tags">' + r.tags.map(function(t){ return '<span class="n-tag">'+esc(t)+'</span>'; }).join('') + '</span>' +
+    '<span class="n-act"><button class="n-btn" data-act="edit">编辑</button><button class="n-btn danger" data-act="del">删除</button></span></div></div>';
+}
+function addNoteBtn(ex, setIndex, date){
+  var suffix = setIndex ? '第'+setIndex+'组' : (date ? '（补录到'+date+'）' : '');
+  return '<div class="add-note"><button data-ex="'+esc(ex||'')+'" data-set="'+(setIndex||'')+'">+ 补录感悟 · ' + esc(ex||'该动作') + (suffix?' '+suffix:'') + '</button>' +
+    '<small>正式版：组间随手发消息「'+esc(ex||'动作')+(setIndex?' 第'+setIndex+'组':'')+' 感悟：……」最快</small></div>';
+}
+
+/* ============================================================
+   Toast（占位反馈，demo 不接真实 API）
+   ============================================================ */
+function toast(msg){
+  var t = document.createElement('div');
+  t.style.cssText = 'position:fixed;left:50%;bottom:40px;transform:translateX(-50%);background:#22304a;color:#dfe7f3;border:1px solid #3a4d6d;padding:9px 16px;border-radius:8px;font-size:12.5px;z-index:99;box-shadow:0 6px 20px rgba(0,0,0,.4);';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(function(){ t.remove(); }, 2600);
+}
+
+/* ============================================================
+   初始化
+   ============================================================ */
+renderStats(); renderDaybar(); renderLeft(); renderMid(); renderRight();
+</script>
+</body>
+</html>
