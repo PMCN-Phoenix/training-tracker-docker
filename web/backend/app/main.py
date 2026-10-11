@@ -146,6 +146,41 @@ async def delete_reflection(ref_id: str):
         return ApiResponse(code=500, message=str(e))
 
 
+@app.post("/api/reflections/markdown-sync", response_model=ApiResponse)
+async def sync_reflection_markdown():
+    """从库全量重写按日 Markdown（消息录入链路不经 CRUD，需此端点补同步）"""
+    try:
+        all_items = []
+        offset = 0
+        while True:
+            page = ref_repo.list_ppl_reflections(limit=500, offset=offset)
+            items = page.get("items", [])
+            all_items.extend(items)
+            if len(items) < 500:
+                break
+            offset += 500
+        by_date: dict = {}
+        for r in all_items:
+            d = r.get("date", "")
+            if d:
+                by_date.setdefault(d, []).append(r)
+        for date, items in by_date.items():
+            reflection_markdown.write_date_reflections(date, items)
+        md_dates = set(reflection_markdown.list_all_markdown_dates())
+        lib_dates = set(by_date.keys())
+        removed = 0
+        for stale in md_dates - lib_dates:
+            p = reflection_markdown.get_markdown_path(stale)
+            if os.path.exists(p):
+                os.remove(p)
+                removed += 1
+        return ApiResponse(code=0, data={
+            "dates": len(by_date), "items": len(all_items), "stale_removed": removed
+        })
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
 @app.get("/api/reflections/markdown/{date}", response_model=ApiResponse)
 async def get_reflection_markdown(date: str):
     """读：返回指定日期的 Markdown 原文（按日 md 双向同步的读路径）"""
