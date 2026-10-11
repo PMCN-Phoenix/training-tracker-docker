@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>训练感悟系统 v1.0 端到端验证</title>
+</head>
+<body style="background:#0d1117;color:#c9d1d9;font-family:Consolas,monospace;font-size:13px;padding:16px;">
+<h3>端到端验证结果（Chrome headless 驱动 demo iframe）</h3>
+<pre id="result" style="white-space:pre-wrap;line-height:1.5;">RUNNING...</pre>
+<iframe id="demo" src="../训练感悟系统-v1.0完整demo.html" style="width:1280px;height:800px;border:1px solid #30363d;margin-top:12px;background:#0d1117;"></iframe>
+<script>
+var out = [];
+var step = 0;
+var doc = null;   // iframe 内部 document
+var win = null;
+
+function log(ok, name, detail){
+  out.push((ok ? 'PASS ' : 'FAIL ') + name + (detail !== undefined ? '  [' + detail + ']' : ''));
+  document.getElementById('result').textContent = out.join('\n');
+  if (!ok) { window.__e2eFail = true; }
+}
+function $q(sel, root){ return (root || doc).querySelector(sel); }
+function $qa(sel, root){ return Array.prototype.slice.call((root || doc).querySelectorAll(sel)); }
+function click(sel){
+  var el = $q(sel); if (!el) throw new Error('no element: ' + sel);
+  el.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
+}
+function setVal(sel, v){
+  var el = $q(sel); el.value = v;
+  el.dispatchEvent(new Event('change', { bubbles: true }));
+}
+function wait(ms){ return new Promise(function(res){ setTimeout(res, ms); }); }
+
+function bind(t){ return t.match(/[0-9]{4}-[0-9]{2}-[0-9]{2}/) || t.match(/[0-9]+kg|[0-9]+ 次/g) || t.slice(0,40); }
+
+async function run(){
+  try {
+    var frame = document.getElementById('demo');
+    doc = frame.contentDocument; win = frame.contentWindow;
+
+    /* E1 初始渲染 */
+    var stats = $qa('#stTotal,#stToday,#stStreak,#stEx').map(function(e){ return e.textContent; });
+    log(stats[0] === '10' && stats[1] === '1' && stats[2] === '3' && stats[3] === '5', 'E1 统计(10/1/3/5)', stats.join('/'));
+    var acts = $qa('.act');
+    log(acts.length === 15, 'E1b 左栏动作 15 个', acts.length);
+    var prOn = $qa('.act.pr-on').length;
+    log(prOn === 5, 'E1c PR 红标动作 5 个', prOn);
+    var pc = $q('#prCard .pc-head');
+    log(!!pc && pc.textContent.indexOf('当前最佳') >= 0 && pc.textContent.indexOf('65kg') >= 0, 'E1d PR 卡片当前最佳=最重档65', pc ? pc.textContent.slice(0,60) : '无');
+    var setRows = $qa('.set-row');
+    log(setRows.length === 9, 'E1e 中栏训练组行 9', setRows.length);
+    log($q('#colRight .side-empty') !== null, 'E1f 右栏初始空态引导');
+
+    /* E2 按日切换 + 日历 */
+    click('#modeSw [data-mode=day]');
+    await wait(50);
+    log($q('.cal') !== null, 'E2a 按日模式迷你日历出现');
+    var calDots = $qa('.cal-day .cal-dots i').length;
+    log(calDots >= 4, 'E2b 日历打点(训练/感悟日)', calDots);
+    log($q('.cal-day.today') !== null, 'E2c 今天(10-11)蓝框标记');
+
+    /* E3 日历点 10-11 */
+    var d11 = $qa('.cal-day').filter(function(c){ return c.textContent.indexOf('11') === 0; })[0];
+    if (d11) d11.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+    await wait(50);
+    var midDay = $q('#colMid');
+    log(midDay && midDay.textContent.indexOf('当日全貌') >= 0, 'E3a 中栏 10-11 当日全貌');
+    var right = $q('#colRight');
+    log(right && right.textContent.indexOf('77') >= 0 && right.textContent.indexOf('晨脉') >= 0, 'E3b 右栏晨脉 77', right ? right.textContent.slice(0,80) : '无');
+    log(right && right.textContent.indexOf('已完成') >= 0, 'E3c 意象打卡已完成');
+
+    /* E4 切回按动作 → 点 10-09 平板第2组（按 session 头日期定位） */
+    click('#modeSw [data-mode=ex]');
+    await wait(50);
+    var target = null;
+    $qa('.session').forEach(function(s){
+      var head = s.querySelector('.shead');
+      if (head && head.textContent.indexOf('10-09') >= 0){
+        $qa('.set-row', s).forEach(function(r){ if (r.textContent.indexOf('第2组') >= 0) target = r; });
+      }
+    });
+    if (target){ target.dispatchEvent(new MouseEvent('click', { bubbles: true })); }
+    await wait(50);
+    var r2 = $q('#colRight');
+    log(!!target, 'E4a 找到 10-09 第2组', target ? bind(target.textContent) : '无');
+    log(r2 && r2.textContent.indexOf('肩胛锁死') >= 0, 'E4b 右栏该组感悟-肩胛锁死', r2 ? r2.textContent.slice(0,60) : '无');
+    log($q('.set-row.sel') !== null, 'E4c 中栏该组高亮');
+
+    /* E5 PR 抽屉打开 + 两两下拉填充 */
+    click('#pcHead'); /* 展开 PR 卡片 */
+    await wait(30);
+    var histBtn = $qa('.pc-hist button')[0];
+    if (histBtn){ histBtn.dispatchEvent(new MouseEvent('click', { bubbles: true })); }
+    await wait(80);
+    var drawer = $q('#drawer');
+    log(drawer && drawer.classList.contains('open'), 'E5a 抽屉打开');
+    var selA = $q('#selA');
+    log(selA && selA.options.length === 3, 'E5b 两两下拉 option=3(填充修复)', selA ? selA.options.length : 0);
+    var dbg = selA ? ('selA.value=' + selA.value + ' selB.value=' + $q('#selB').value + ' optVals=[' + Array.prototype.map.call(selA.options, function(o){ return o.value; }).join(',') + '] selA.selIdx=' + selA.selectedIndex) : 'selA缺失';
+    log(selA && selA.value === '1' && $q('#selB').value === '3', 'E5c 默认 第1 vs 第3', dbg);
+    log(selA && selA.disabled === true, 'E5d 全部对比时下拉禁用(初始态)');
+
+    /* E6 两两对比切换 + 曲线两条 */
+    var radioPair = $qa('input[name=pcmode]').filter(function(r){ return r.value === 'pair'; })[0];
+    radioPair.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+    await wait(80);
+    log($q('#selA').disabled === false && $q('#selB').disabled === false, 'E6a 两两模式下拉启用');
+    setVal('#selA', 1); setVal('#selB', 3);
+    await wait(80);
+    var paths = $qa('#prSvg path[stroke]');
+    log(paths.length === 2, 'E6b 两两对比曲线 2 条(第1 vs 第3)', paths.length);
+    var pdots = $qa('#prSvg .pdot');
+    log(pdots.length > 0, 'E6c 曲线数据点存在', pdots.length);
+
+    /* E7 历史联动：点 60×3(10-10) */
+    var hrow = null;
+    $qa('#drHist .h-row').forEach(function(r){
+      if (r.textContent.indexOf('60kg × 3') >= 0) hrow = r;
+    });
+    if (hrow){ hrow.dispatchEvent(new MouseEvent('click', { bubbles: true })); }
+    await wait(120);
+    log(!!hrow, 'E7a 找到历史档 60×3', hrow ? bind(hrow.textContent) : '无');
+    log(!$q('#drawer').classList.contains('open'), 'E7b 抽屉已关闭');
+    var selRow = $q('.set-row.sel');
+    log(!!selRow && selRow.textContent.indexOf('60kg') >= 0, 'E7c 中栏跳转 60kg 组高亮', selRow ? bind(selRow.textContent) : '无');
+    var r7 = $q('#colRight');
+    log(r7 && r7.textContent.indexOf('60kg × 3') >= 0, 'E7d 右栏该组信息 60kg×3', r7 ? r7.textContent.slice(0,60) : '无');
+
+    /* E8 PR 全屏总览 */
+    click('#btnPrFull');
+    await wait(60);
+    log($q('#prfull').classList.contains('show'), 'E8a 全屏总览打开');
+    var pf = $qa('.pf-card').length;
+    log(pf === 5, 'E8b 成绩单卡片 5 个动作', pf);
+    var pfBest = $q('.pf-card .pf-best');
+    log(!!pfBest, 'E8c 成绩单显示最佳档', pfBest ? pfBest.textContent : '');
+    click('#btnPrFullClose');
+    await wait(30);
+
+    /* E9 弹窗新建（日级） */
+    click('#btnDayRef');
+    await wait(40);
+    log($q('#mask').classList.contains('show'), 'E9a 弹窗打开');
+    var fc = $q('#fContent');
+    fc.value = '验证：今晚保证 7 小时睡眠';
+    var fDate = $q('#fDate'); fDate.value = '2026-10-11';
+    click('#dlgSave');
+    await wait(80);
+    log($q('#mask').classList.contains('show') === false, 'E9b 弹窗关闭');
+    var stats2 = $q('#stTotal').textContent;
+    log(stats2 === '11', 'E9c 统计总数 10→11', stats2);
+    log($q('#daybar').textContent.indexOf('验证') >= 0, 'E9d 日级随笔条更新');
+
+    /* E10 全程无未捕获异常 */
+    log(window.__e2eFail === undefined, 'E10 全程无失败');
+    out.push('========================================');
+    out.push(window.__e2eFail ? '端到端：存在 FAIL' : '端到端：全部通过 ✓');
+    document.getElementById('result').textContent = out.join('\n');
+  } catch (e) {
+    out.push('FAIL 异常中断: ' + e.message);
+    document.getElementById('result').textContent = out.join('\n');
+  }
+}
+
+var frame = document.getElementById('demo');
+var attempts = 0;
+(function waitDemo(){
+  var d = frame.contentDocument;
+  if (d && d.readyState === 'complete' && d.querySelectorAll('.act').length > 0) {
+    run();
+  } else if (++attempts < 100) {
+    setTimeout(waitDemo, 150);   /* 最多等 15s */
+  } else {
+    out.push('FAIL iframe demo 未加载完成（.act=0）');
+    document.getElementById('result').textContent = out.join('\n');
+  }
+})();
+</script>
+</body>
+</html>

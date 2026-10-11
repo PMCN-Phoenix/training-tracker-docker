@@ -624,6 +624,18 @@ function renderMid(){
       renderMid(); renderRight();
     });
   });
+  /* PR 卡片：展开/折叠 + 历史 PR → 抽屉 */
+  var pc = el.querySelector('#prCard');
+  if (pc){
+    el.querySelector('#pcHead').addEventListener('click', function(){ pc.classList.toggle('open'); });
+    var histBtn = el.querySelector('.pc-hist button');
+    if (histBtn){
+      histBtn.addEventListener('click', function(ev){
+        ev.stopPropagation();
+        openDrawer(this.getAttribute('data-ex'));
+      });
+    }
+  }
 }
 
 function miniChart(ex){
@@ -860,6 +872,13 @@ function renderDrawer(){
   var latest = t.length ? t[t.length-1] : null;
   var best = latest ? latest.points.slice().sort(function(a,b){ return b[0]-a[0]; })[0] : null;   /* 最高档 = 最重 */
 
+  /* 两两对比下拉（第 N 次编号 = 1-based，按索引生成） */
+  var opts = '';
+  t.forEach(function(tr, i){ opts += '<option value="'+(i+1)+'">第 '+(i+1)+' 次（'+tr.date+'）</option>'; });
+  var selA = document.getElementById('selA'), selB = document.getElementById('selB');
+  selA.innerHTML = opts; selB.innerHTML = opts;
+  selA.value = 1; selB.value = t.length > 1 ? t.length : 1;
+
   /* 阶梯 */
   var bestHtml = latest ? '<div class="step best"><span>'+best[0]+'kg</span><span>'+best[1]+' 次（'+latest.date+'）</span></div>' : '<div style="color:var(--dim)">暂无 PR 测试</div>';
   document.getElementById('drBest').innerHTML = bestHtml;
@@ -911,7 +930,7 @@ function renderPrCurve(ex, tests, trainW){
   var selA = document.getElementById('selA'), selB = document.getElementById('selB');
   var show = {};
   if (mode === 'all'){ tests.forEach(function(t,i){ show[i]=true; }); }
-  else { show[parseInt(selA.value,10)] = true; show[parseInt(selB.value,10)] = true; }
+  else { show[parseInt(selA.value,10)-1] = true; show[parseInt(selB.value,10)-1] = true; }
 
   var W = 340, H = 190, ML = 32, MR = 12, MT = 10, MB = 22;
   var all = []; tests.forEach(function(t){ t.points.forEach(function(p){ all.push(p[0]); all.push(p[1]); }); });
@@ -980,6 +999,12 @@ document.querySelectorAll('input[name=pcmode]').forEach(function(r){
     if (DRAWER_EX) renderDrawer();
   });
 });
+/* 初始禁用态（默认全部对比） */
+(function(){
+  var pair = document.querySelector('input[name=pcmode]:checked').value === 'pair';
+  document.getElementById('selA').disabled = !pair;
+  document.getElementById('selB').disabled = !pair;
+})();
 document.getElementById('selA').addEventListener('change', function(){ if (DRAWER_EX) renderDrawer(); });
 document.getElementById('selB').addEventListener('change', function(){ if (DRAWER_EX) renderDrawer(); });
 
