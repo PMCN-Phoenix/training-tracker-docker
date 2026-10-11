@@ -1,0 +1,1919 @@
+{
+ "title": "神经运动学入门（第一期）| α运动神经元 γ运动神经元 & 运动单位 & 肌纤维结构 & 高尔基腱体",
+ "owner": "明朗的脑袋_Fiona",
+ "duration": 547,
+ "body": [
+  {
+   "from": 0.12,
+   "to": 2.2,
+   "sid": 1,
+   "location": 2,
+   "content": "倒水这一个看似简单的动作",
+   "music": 0.0
+  },
+  {
+   "from": 2.2,
+   "to": 5.02,
+   "sid": 2,
+   "location": 2,
+   "content": "其实包含了非常精妙的大脑调控机制",
+   "music": 0.0
+  },
+  {
+   "from": 5.02,
+   "to": 7.96,
+   "sid": 3,
+   "location": 2,
+   "content": "每时每刻杯子的重量都在发生改变",
+   "music": 0.0
+  },
+  {
+   "from": 7.96,
+   "to": 9.379,
+   "sid": 4,
+   "location": 2,
+   "content": "而为了保持稳定",
+   "music": 0.0
+  },
+  {
+   "from": 9.379,
+   "to": 11.539,
+   "sid": 5,
+   "location": 2,
+   "content": "我们的肌肉需要不断的接收反馈",
+   "music": 0.0
+  },
+  {
+   "from": 11.539,
+   "to": 13.039,
+   "sid": 6,
+   "location": 2,
+   "content": "并调整发力大小",
+   "music": 0.0
+  },
+  {
+   "from": 13.039,
+   "to": 15.48,
+   "sid": 7,
+   "location": 2,
+   "content": "我们的大脑是如何做到这一切的呢",
+   "music": 0.0
+  },
+  {
+   "from": 15.48,
+   "to": 16.02,
+   "sid": 8,
+   "location": 2,
+   "content": "哈喽大家好",
+   "music": 0.0
+  },
+  {
+   "from": 16.02,
+   "to": 17.04,
+   "sid": 9,
+   "location": 2,
+   "content": "我是明朗",
+   "music": 0.0
+  },
+  {
+   "from": 17.04,
+   "to": 19.18,
+   "sid": 10,
+   "location": 2,
+   "content": "我们来聊聊动神经系统",
+   "music": 0.0
+  },
+  {
+   "from": 19.18,
+   "to": 21.74,
+   "sid": 11,
+   "location": 2,
+   "content": "运动神经元通常可以分成两类",
+   "music": 0.0
+  },
+  {
+   "from": 21.74,
+   "to": 24.44,
+   "sid": 12,
+   "location": 2,
+   "content": "上运动神经元和下运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 24.44,
+   "to": 27.68,
+   "sid": 13,
+   "location": 2,
+   "content": "这里的上下可以通俗理解成人站立的时候",
+   "music": 0.0
+  },
+  {
+   "from": 27.68,
+   "to": 28.57,
+   "sid": 14,
+   "location": 2,
+   "content": "上下方位",
+   "music": 0.0
+  },
+  {
+   "from": 28.57,
+   "to": 32.05,
+   "sid": 15,
+   "location": 2,
+   "content": "上运动神经元的细胞体在脑袋或者运动皮质",
+   "music": 0.0
+  },
+  {
+   "from": 32.05,
+   "to": 34.65,
+   "sid": 16,
+   "location": 2,
+   "content": "它们的轴突可以直接延伸到脊髓",
+   "music": 0.0
+  },
+  {
+   "from": 34.65,
+   "to": 36.96,
+   "sid": 17,
+   "location": 2,
+   "content": "与下运动神经元突触接触",
+   "music": 0.0
+  },
+  {
+   "from": 36.96,
+   "to": 40.26,
+   "sid": 18,
+   "location": 2,
+   "content": "下运动神经元细胞体就在脊髓灰质中",
+   "music": 0.0
+  },
+  {
+   "from": 40.26,
+   "to": 42.78,
+   "sid": 19,
+   "location": 2,
+   "content": "如果看运动系统整体结构的话",
+   "music": 0.0
+  },
+  {
+   "from": 42.78,
+   "to": 46.89,
+   "sid": 20,
+   "location": 2,
+   "content": "运动皮质和脑干的上运动神经元发起运动指令",
+   "music": 0.0
+  },
+  {
+   "from": 46.89,
+   "to": 48.3,
+   "sid": 21,
+   "location": 2,
+   "content": "比方说高抬腿",
+   "music": 0.0
+  },
+  {
+   "from": 48.3,
+   "to": 51.84,
+   "sid": 22,
+   "location": 2,
+   "content": "同时机顶盒和小脑也会起到精准调控",
+   "music": 0.0
+  },
+  {
+   "from": 51.84,
+   "to": 54.14,
+   "sid": 23,
+   "location": 2,
+   "content": "反馈运动控制的作用",
+   "music": 0.0
+  },
+  {
+   "from": 54.14,
+   "to": 57.94,
+   "sid": 24,
+   "location": 2,
+   "content": "这些指令自上而下传导脊髓的下运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 57.94,
+   "to": 60.28,
+   "sid": 25,
+   "location": 2,
+   "content": "和一些脊髓局部的通路",
+   "music": 0.0
+  },
+  {
+   "from": 60.28,
+   "to": 63.82,
+   "sid": 26,
+   "location": 2,
+   "content": "最终下神经元将这些指令传递给肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 63.82,
+   "to": 64.819,
+   "sid": 27,
+   "location": 2,
+   "content": "食指移动",
+   "music": 0.0
+  },
+  {
+   "from": 64.819,
+   "to": 67.309,
+   "sid": 28,
+   "location": 2,
+   "content": "同时感觉信息也会经由通路",
+   "music": 0.0
+  },
+  {
+   "from": 67.309,
+   "to": 69.679,
+   "sid": 29,
+   "location": 2,
+   "content": "从脊髓向上传导回大脑",
+   "music": 0.0
+  },
+  {
+   "from": 69.679,
+   "to": 71.42,
+   "sid": 30,
+   "location": 2,
+   "content": "来帮助我们调整指令",
+   "music": 0.0
+  },
+  {
+   "from": 71.42,
+   "to": 74.12,
+   "sid": 31,
+   "location": 2,
+   "content": "比方说踩在地毯上和平地上跑步",
+   "music": 0.0
+  },
+  {
+   "from": 74.12,
+   "to": 75.47,
+   "sid": 32,
+   "location": 2,
+   "content": "受到的反馈力不同",
+   "music": 0.0
+  },
+  {
+   "from": 75.47,
+   "to": 78.62,
+   "sid": 33,
+   "location": 2,
+   "content": "我们也会相应的调整肌肉控制",
+   "music": 0.0
+  },
+  {
+   "from": 78.62,
+   "to": 80.51,
+   "sid": 34,
+   "location": 2,
+   "content": "这期视频我们主要聊聊",
+   "music": 0.0
+  },
+  {
+   "from": 80.51,
+   "to": 83.22,
+   "sid": 35,
+   "location": 2,
+   "content": "和肌肉直接接触的下运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 83.22,
+   "to": 85.08,
+   "sid": 36,
+   "location": 2,
+   "content": "在之前的大脑解剖系列里",
+   "music": 0.0
+  },
+  {
+   "from": 85.08,
+   "to": 89.04,
+   "sid": 37,
+   "location": 2,
+   "content": "我们讲过脊髓中灰色的小蝴蝶部分就是灰质",
+   "music": 0.0
+  },
+  {
+   "from": 89.04,
+   "to": 90.57,
+   "sid": 38,
+   "location": 2,
+   "content": "而下端的副角",
+   "music": 0.0
+  },
+  {
+   "from": 90.57,
+   "to": 93.48,
+   "sid": 39,
+   "location": 2,
+   "content": "则汇集着我们下运动神经元的细胞体",
+   "music": 0.0
+  },
+  {
+   "from": 93.48,
+   "to": 95.58,
+   "sid": 40,
+   "location": 2,
+   "content": "从投射图上我们可以看到",
+   "music": 0.0
+  },
+  {
+   "from": 95.58,
+   "to": 98.04,
+   "sid": 41,
+   "location": 2,
+   "content": "不同脊髓区域的神经元数量不同",
+   "music": 0.0
+  },
+  {
+   "from": 98.04,
+   "to": 100.52,
+   "sid": 42,
+   "location": 2,
+   "content": "越密集就代表越精细的控制",
+   "music": 0.0
+  },
+  {
+   "from": 100.52,
+   "to": 102.92,
+   "sid": 43,
+   "location": 2,
+   "content": "绘制的腹侧角的下运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 102.92,
+   "to": 104.38,
+   "sid": 44,
+   "location": 2,
+   "content": "又可以细分成两种",
+   "music": 0.0
+  },
+  {
+   "from": 104.38,
+   "to": 107.32,
+   "sid": 45,
+   "location": 2,
+   "content": "alpha运动神经元和伽马运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 107.32,
+   "to": 109.78,
+   "sid": 46,
+   "location": 2,
+   "content": "alpha连接梭外肌纤维",
+   "music": 0.0
+  },
+  {
+   "from": 109.78,
+   "to": 114.24,
+   "sid": 47,
+   "location": 2,
+   "content": "而伽马连接激素或者也叫缩内肌纤维急缩",
+   "music": 0.0
+  },
+  {
+   "from": 114.24,
+   "to": 115.5,
+   "sid": 48,
+   "location": 2,
+   "content": "顾名思义就是这样的",
+   "music": 0.0
+  },
+  {
+   "from": 115.5,
+   "to": 116.97,
+   "sid": 49,
+   "location": 2,
+   "content": "像梭形的结构",
+   "music": 0.0
+  },
+  {
+   "from": 116.97,
+   "to": 120.42,
+   "sid": 50,
+   "location": 2,
+   "content": "主要起到传递感觉信息和运动反馈的作用",
+   "music": 0.0
+  },
+  {
+   "from": 120.42,
+   "to": 123.12,
+   "sid": 51,
+   "location": 2,
+   "content": "一般中间有8~10条的肌缩纤维",
+   "music": 0.0
+  },
+  {
+   "from": 123.12,
+   "to": 125.789,
+   "sid": 52,
+   "location": 2,
+   "content": "然后被层层外肌缩纤维包裹",
+   "music": 0.0
+  },
+  {
+   "from": 125.789,
+   "to": 128.459,
+   "sid": 53,
+   "location": 2,
+   "content": "蓝色的部分我们看到的是感觉神经元",
+   "music": 0.0
+  },
+  {
+   "from": 128.459,
+   "to": 131.339,
+   "sid": 54,
+   "location": 2,
+   "content": "而直接接触内肌缩纤维的红色神经元",
+   "music": 0.0
+  },
+  {
+   "from": 131.339,
+   "to": 132.98,
+   "sid": 55,
+   "location": 2,
+   "content": "就是伽马运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 132.98,
+   "to": 135.38,
+   "sid": 56,
+   "location": 2,
+   "content": "在详细讲运动神经元控制之前",
+   "music": 0.0
+  },
+  {
+   "from": 135.38,
+   "to": 137.78,
+   "sid": 57,
+   "location": 2,
+   "content": "我们先来仔细看看肌肉结构",
+   "music": 0.0
+  },
+  {
+   "from": 137.78,
+   "to": 139.76,
+   "sid": 58,
+   "location": 2,
+   "content": "大家应该吃过鸡丝凉面吧",
+   "music": 0.0
+  },
+  {
+   "from": 139.76,
+   "to": 141.65,
+   "sid": 59,
+   "location": 2,
+   "content": "或者很柴很柴的鸡胸肉",
+   "music": 0.0
+  },
+  {
+   "from": 141.65,
+   "to": 145.84,
+   "sid": 60,
+   "location": 2,
+   "content": "一条条塞牙的就是鸡数大块的肌肉由肌肉组成",
+   "music": 0.0
+  },
+  {
+   "from": 145.84,
+   "to": 147.94,
+   "sid": 61,
+   "location": 2,
+   "content": "每个基数有很多肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 147.94,
+   "to": 151.45,
+   "sid": 62,
+   "location": 2,
+   "content": "而每一根肌肉纤维也有很多肌原纤维组成",
+   "music": 0.0
+  },
+  {
+   "from": 151.45,
+   "to": 155.4,
+   "sid": 63,
+   "location": 2,
+   "content": "一根肌纤维只接受一个alpha运动神经元的指令",
+   "music": 0.0
+  },
+  {
+   "from": 155.4,
+   "to": 157.47,
+   "sid": 64,
+   "location": 2,
+   "content": "但是因为人体的肌纤维数量",
+   "music": 0.0
+  },
+  {
+   "from": 157.47,
+   "to": 160.08,
+   "sid": 65,
+   "location": 2,
+   "content": "远比脊髓的alpha运动神经元数量多",
+   "music": 0.0
+  },
+  {
+   "from": 160.08,
+   "to": 163.98,
+   "sid": 66,
+   "location": 2,
+   "content": "所以一个alpha运动神经元可以连接多个肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 163.98,
+   "to": 166.77,
+   "sid": 67,
+   "location": 2,
+   "content": "如果每个颜色代表一个alpha运动神经元的话",
+   "music": 0.0
+  },
+  {
+   "from": 166.77,
+   "to": 168.42,
+   "sid": 68,
+   "location": 2,
+   "content": "可以看到一块肌肉里",
+   "music": 0.0
+  },
+  {
+   "from": 168.42,
+   "to": 171.3,
+   "sid": 69,
+   "location": 2,
+   "content": "分布至多个受他控制的纤维",
+   "music": 0.0
+  },
+  {
+   "from": 171.3,
+   "to": 175.26,
+   "sid": 70,
+   "location": 2,
+   "content": "我们常把一个alpha神经元和受他控制的肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 175.26,
+   "to": 177.37,
+   "sid": 71,
+   "location": 2,
+   "content": "们成为一个motor unit",
+   "music": 0.0
+  },
+  {
+   "from": 177.37,
+   "to": 178.45,
+   "sid": 72,
+   "location": 2,
+   "content": "运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 178.45,
+   "to": 181.15,
+   "sid": 73,
+   "location": 2,
+   "content": "不同的身体部位的运动单位比例不同",
+   "music": 0.0
+  },
+  {
+   "from": 181.15,
+   "to": 185.16,
+   "sid": 74,
+   "location": 2,
+   "content": "比方说小腿下侧的比目鱼肌对人体站立行走",
+   "music": 0.0
+  },
+  {
+   "from": 185.16,
+   "to": 187.14,
+   "sid": 75,
+   "location": 2,
+   "content": "保持体态起到了很重要的作用",
+   "music": 0.0
+  },
+  {
+   "from": 187.14,
+   "to": 190.82,
+   "sid": 76,
+   "location": 2,
+   "content": "平均一个运动神经元对接180条肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 190.82,
+   "to": 194.09,
+   "sid": 77,
+   "location": 2,
+   "content": "小腿上侧的腓肠肌需要承载大量的力",
+   "music": 0.0
+  },
+  {
+   "from": 194.09,
+   "to": 195.78,
+   "sid": 78,
+   "location": 2,
+   "content": "运动单位是一比2000",
+   "music": 0.0
+  },
+  {
+   "from": 195.78,
+   "to": 199.44,
+   "sid": 79,
+   "location": 2,
+   "content": "而眼眶的眼外肌运动单位需要精准的控制",
+   "music": 0.0
+  },
+  {
+   "from": 199.44,
+   "to": 200.88,
+   "sid": 80,
+   "location": 2,
+   "content": "然而是一比三",
+   "music": 0.0
+  },
+  {
+   "from": 200.88,
+   "to": 202.89,
+   "sid": 81,
+   "location": 2,
+   "content": "初中生物课大家应该学过",
+   "music": 0.0
+  },
+  {
+   "from": 202.89,
+   "to": 205.08,
+   "sid": 82,
+   "location": 2,
+   "content": "我们的身体里有不同类型的肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 205.08,
+   "to": 207.27,
+   "sid": 83,
+   "location": 2,
+   "content": "通俗来说就是红肉和白肉",
+   "music": 0.0
+  },
+  {
+   "from": 207.27,
+   "to": 210.04,
+   "sid": 84,
+   "location": 2,
+   "content": "红肌纤维也叫做慢缩肌纤维",
+   "music": 0.0
+  },
+  {
+   "from": 210.04,
+   "to": 211.21,
+   "sid": 85,
+   "location": 2,
+   "content": "之所以是红色",
+   "music": 0.0
+  },
+  {
+   "from": 211.21,
+   "to": 212.92,
+   "sid": 86,
+   "location": 2,
+   "content": "是因为有很多血红蛋白",
+   "music": 0.0
+  },
+  {
+   "from": 212.92,
+   "to": 215.04,
+   "sid": 87,
+   "location": 2,
+   "content": "很多线粒体来产生能量",
+   "music": 0.0
+  },
+  {
+   "from": 215.04,
+   "to": 216.33,
+   "sid": 88,
+   "location": 2,
+   "content": "然而他们收缩的慢",
+   "music": 0.0
+  },
+  {
+   "from": 216.33,
+   "to": 217.53,
+   "sid": 89,
+   "location": 2,
+   "content": "但是累的也慢",
+   "music": 0.0
+  },
+  {
+   "from": 217.53,
+   "to": 219.66,
+   "sid": 90,
+   "location": 2,
+   "content": "可以说是长跑耐力型肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 219.66,
+   "to": 222.6,
+   "sid": 91,
+   "location": 2,
+   "content": "而白肌纤维也叫快缩肌纤维",
+   "music": 0.0
+  },
+  {
+   "from": 222.6,
+   "to": 223.56,
+   "sid": 92,
+   "location": 2,
+   "content": "千里体少",
+   "music": 0.0
+  },
+  {
+   "from": 223.56,
+   "to": 224.4,
+   "sid": 93,
+   "location": 2,
+   "content": "收缩得快",
+   "music": 0.0
+  },
+  {
+   "from": 224.4,
+   "to": 225.33,
+   "sid": 94,
+   "location": 2,
+   "content": "累得也快",
+   "music": 0.0
+  },
+  {
+   "from": 225.33,
+   "to": 227.67,
+   "sid": 95,
+   "location": 2,
+   "content": "也就是冲刺型爆发肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 227.67,
+   "to": 229.44,
+   "sid": 96,
+   "location": 2,
+   "content": "不知道大家在看奥运会的时候",
+   "music": 0.0
+  },
+  {
+   "from": 229.44,
+   "to": 230.22,
+   "sid": 97,
+   "location": 2,
+   "content": "有没有发现",
+   "music": 0.0
+  },
+  {
+   "from": 230.22,
+   "to": 231.96,
+   "sid": 98,
+   "location": 2,
+   "content": "马拉松运动员和短跑运动员",
+   "music": 0.0
+  },
+  {
+   "from": 231.96,
+   "to": 234.09,
+   "sid": 99,
+   "location": 2,
+   "content": "身材比例看起来不太一样",
+   "music": 0.0
+  },
+  {
+   "from": 234.09,
+   "to": 235.56,
+   "sid": 100,
+   "location": 2,
+   "content": "前者往往更瘦弱",
+   "music": 0.0
+  },
+  {
+   "from": 235.56,
+   "to": 237.03,
+   "sid": 101,
+   "location": 2,
+   "content": "而后者肌肉更多",
+   "music": 0.0
+  },
+  {
+   "from": 237.03,
+   "to": 239.05,
+   "sid": 102,
+   "location": 2,
+   "content": "的确很多实验发现",
+   "music": 0.0
+  },
+  {
+   "from": 239.05,
+   "to": 242.35,
+   "sid": 103,
+   "location": 2,
+   "content": "马拉松运动员的体内红肌纤维占大多数",
+   "music": 0.0
+  },
+  {
+   "from": 242.35,
+   "to": 246.11,
+   "sid": 104,
+   "location": 2,
+   "content": "而短跑运动员的肌肉白肌纤维占大多数",
+   "music": 0.0
+  },
+  {
+   "from": 246.11,
+   "to": 248.06,
+   "sid": 105,
+   "location": 2,
+   "content": "针对不同的肌肉类型",
+   "music": 0.0
+  },
+  {
+   "from": 248.06,
+   "to": 249.5,
+   "sid": 106,
+   "location": 2,
+   "content": "自然有不同的运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 249.5,
+   "to": 251.31,
+   "sid": 107,
+   "location": 2,
+   "content": "控制慢运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 251.31,
+   "to": 254.43,
+   "sid": 108,
+   "location": 2,
+   "content": "往往指的是控制红肌纤维的alpha运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 254.43,
+   "to": 255.74,
+   "sid": 109,
+   "location": 2,
+   "content": "和他们的肌肉们",
+   "music": 0.0
+  },
+  {
+   "from": 255.74,
+   "to": 256.46,
+   "sid": 110,
+   "location": 2,
+   "content": "快",
+   "music": 0.0
+  },
+  {
+   "from": 256.46,
+   "to": 259.76,
+   "sid": 111,
+   "location": 2,
+   "content": "一类运动单位指的是控制白皙纤维的",
+   "music": 0.0
+  },
+  {
+   "from": 259.76,
+   "to": 262.23,
+   "sid": 112,
+   "location": 2,
+   "content": "alpha运动神经元和他的肌肉们",
+   "music": 0.0
+  },
+  {
+   "from": 262.23,
+   "to": 263.07,
+   "sid": 113,
+   "location": 2,
+   "content": "好好教书的",
+   "music": 0.0
+  },
+  {
+   "from": 263.07,
+   "to": 265.2,
+   "sid": 114,
+   "location": 2,
+   "content": "第三类快不一类运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 265.2,
+   "to": 267.54,
+   "sid": 115,
+   "location": 2,
+   "content": "指的是中等大小产生的力大",
+   "music": 0.0
+  },
+  {
+   "from": 267.54,
+   "to": 269.58,
+   "sid": 116,
+   "location": 2,
+   "content": "但是更有耐力的运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 269.599,
+   "to": 271.669,
+   "sid": 117,
+   "location": 2,
+   "content": "从左边这张图可以看到",
+   "music": 0.0
+  },
+  {
+   "from": 271.669,
+   "to": 273.979,
+   "sid": 118,
+   "location": 2,
+   "content": "这三类运动单位产生不同大小的力",
+   "music": 0.0
+  },
+  {
+   "from": 273.979,
+   "to": 276.84,
+   "sid": 119,
+   "location": 2,
+   "content": "有不同的激活阈值和维持的时间",
+   "music": 0.0
+  },
+  {
+   "from": 276.84,
+   "to": 279.06,
+   "sid": 120,
+   "location": 2,
+   "content": "大脑精妙调控不同活动",
+   "music": 0.0
+  },
+  {
+   "from": 279.06,
+   "to": 280.08,
+   "sid": 121,
+   "location": 2,
+   "content": "发力大小的秘密",
+   "music": 0.0
+  },
+  {
+   "from": 280.08,
+   "to": 282.56,
+   "sid": 122,
+   "location": 2,
+   "content": "就是依靠这些不同类型的运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 282.56,
+   "to": 283.94,
+   "sid": 123,
+   "location": 2,
+   "content": "以及不同肌肉里",
+   "music": 0.0
+  },
+  {
+   "from": 283.94,
+   "to": 286.5,
+   "sid": 124,
+   "location": 2,
+   "content": "运动单位可以有不同数量的肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 286.5,
+   "to": 287.76,
+   "sid": 125,
+   "location": 2,
+   "content": "小的突触刺激",
+   "music": 0.0
+  },
+  {
+   "from": 287.76,
+   "to": 289.2,
+   "sid": 126,
+   "location": 2,
+   "content": "只能激活小一些的",
+   "music": 0.0
+  },
+  {
+   "from": 289.2,
+   "to": 292.7,
+   "sid": 127,
+   "location": 2,
+   "content": "只有较少肌肉纤维的运动单位以及快运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 292.7,
+   "to": 294.32,
+   "sid": 128,
+   "location": 2,
+   "content": "随着大脑指令增强",
+   "music": 0.0
+  },
+  {
+   "from": 294.32,
+   "to": 295.7,
+   "sid": 129,
+   "location": 2,
+   "content": "突触刺激增强",
+   "music": 0.0
+  },
+  {
+   "from": 295.7,
+   "to": 298.34,
+   "sid": 130,
+   "location": 2,
+   "content": "开始逐渐激活快一类运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 298.34,
+   "to": 299.96,
+   "sid": 131,
+   "location": 2,
+   "content": "快不异类运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 299.96,
+   "to": 303.72,
+   "sid": 132,
+   "location": 2,
+   "content": "以及激活更大的有更多肌肉纤维的运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 303.72,
+   "to": 306.3,
+   "sid": 133,
+   "location": 2,
+   "content": "这个理论常被称为science principle",
+   "music": 0.0
+  },
+  {
+   "from": 306.3,
+   "to": 307.26,
+   "sid": 134,
+   "location": 2,
+   "content": "大小原则",
+   "music": 0.0
+  },
+  {
+   "from": 307.26,
+   "to": 309.0,
+   "sid": 135,
+   "location": 2,
+   "content": "比方说站立的时候",
+   "music": 0.0
+  },
+  {
+   "from": 309.0,
+   "to": 310.98,
+   "sid": 136,
+   "location": 2,
+   "content": "吴王只用到了慢运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 310.98,
+   "to": 314.44,
+   "sid": 137,
+   "location": 2,
+   "content": "走路跑步开始召唤快不异类运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 314.44,
+   "to": 315.16,
+   "sid": 138,
+   "location": 2,
+   "content": "跑跳跳",
+   "music": 0.0
+  },
+  {
+   "from": 315.16,
+   "to": 317.04,
+   "sid": 139,
+   "location": 2,
+   "content": "召唤快一类运动单位",
+   "music": 0.0
+  },
+  {
+   "from": 317.04,
+   "to": 318.0,
+   "sid": 140,
+   "location": 2,
+   "content": "上世纪末",
+   "music": 0.0
+  },
+  {
+   "from": 318.0,
+   "to": 320.67,
+   "sid": 141,
+   "location": 2,
+   "content": "神经科学家们做了一个很有趣的杂交实验",
+   "music": 0.0
+  },
+  {
+   "from": 320.67,
+   "to": 324.62,
+   "sid": 142,
+   "location": 2,
+   "content": "他们用手术改变了运动神经元控制的肌肉纤维",
+   "music": 0.0
+  },
+  {
+   "from": 324.62,
+   "to": 328.58,
+   "sid": 143,
+   "location": 2,
+   "content": "让原本控制慢肌纤维的神经元大家控会计纤维",
+   "music": 0.0
+  },
+  {
+   "from": 328.58,
+   "to": 329.72,
+   "sid": 144,
+   "location": 2,
+   "content": "反之亦然",
+   "music": 0.0
+  },
+  {
+   "from": 329.72,
+   "to": 330.92,
+   "sid": 145,
+   "location": 2,
+   "content": "实验发现",
+   "music": 0.0
+  },
+  {
+   "from": 330.92,
+   "to": 332.75,
+   "sid": 146,
+   "location": 2,
+   "content": "交换了接触对象之后",
+   "music": 0.0
+  },
+  {
+   "from": 332.75,
+   "to": 336.52,
+   "sid": 147,
+   "location": 2,
+   "content": "原本脉收缩慢疲劳的慢肌纤维变得快收缩快",
+   "music": 0.0
+  },
+  {
+   "from": 336.52,
+   "to": 337.36,
+   "sid": 148,
+   "location": 2,
+   "content": "疲劳了起来",
+   "music": 0.0
+  },
+  {
+   "from": 337.36,
+   "to": 340.04,
+   "sid": 149,
+   "location": 2,
+   "content": "而跨界纤维有了慢肌纤维的性质",
+   "music": 0.0
+  },
+  {
+   "from": 340.04,
+   "to": 340.91,
+   "sid": 150,
+   "location": 2,
+   "content": "换言之",
+   "music": 0.0
+  },
+  {
+   "from": 340.91,
+   "to": 342.41,
+   "sid": 151,
+   "location": 2,
+   "content": "法律的最终调控权",
+   "music": 0.0
+  },
+  {
+   "from": 342.41,
+   "to": 345.2,
+   "sid": 152,
+   "location": 2,
+   "content": "似乎在运动神经元释放的神经递质数量",
+   "music": 0.0
+  },
+  {
+   "from": 345.2,
+   "to": 346.86,
+   "sid": 153,
+   "location": 2,
+   "content": "以及放电频率改变上",
+   "music": 0.0
+  },
+  {
+   "from": 346.86,
+   "to": 348.75,
+   "sid": 154,
+   "location": 2,
+   "content": "而非肌肉本身的限制",
+   "music": 0.0
+  },
+  {
+   "from": 348.75,
+   "to": 350.56,
+   "sid": 155,
+   "location": 2,
+   "content": "因而随着不断的训练",
+   "music": 0.0
+  },
+  {
+   "from": 350.56,
+   "to": 352.39,
+   "sid": 156,
+   "location": 2,
+   "content": "不断的快速激活一些肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 352.39,
+   "to": 354.43,
+   "sid": 157,
+   "location": 2,
+   "content": "是有可能让他们有快速疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 354.43,
+   "to": 355.51,
+   "sid": 158,
+   "location": 2,
+   "content": "变得更有耐力",
+   "music": 0.0
+  },
+  {
+   "from": 355.51,
+   "to": 356.83,
+   "sid": 159,
+   "location": 2,
+   "content": "或者增强收缩",
+   "music": 0.0
+  },
+  {
+   "from": 356.83,
+   "to": 357.98,
+   "sid": 160,
+   "location": 2,
+   "content": "提高发力",
+   "music": 0.0
+  },
+  {
+   "from": 357.98,
+   "to": 359.81,
+   "sid": 161,
+   "location": 2,
+   "content": "从这张图我们可以看到",
+   "music": 0.0
+  },
+  {
+   "from": 359.81,
+   "to": 362.75,
+   "sid": 162,
+   "location": 2,
+   "content": "打印的神经元放电只会造成较小的力",
+   "music": 0.0
+  },
+  {
+   "from": 362.75,
+   "to": 365.64,
+   "sid": 163,
+   "location": 2,
+   "content": "但是如果同时激活很多的运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 365.64,
+   "to": 366.3,
+   "sid": 164,
+   "location": 2,
+   "content": "就会叠加",
+   "music": 0.0
+  },
+  {
+   "from": 366.3,
+   "to": 367.82,
+   "sid": 165,
+   "location": 2,
+   "content": "产生更大的力",
+   "music": 0.0
+  },
+  {
+   "from": 367.82,
+   "to": 369.17,
+   "sid": 166,
+   "location": 2,
+   "content": "这里要考考大家了",
+   "music": 0.0
+  },
+  {
+   "from": 369.17,
+   "to": 371.36,
+   "sid": 167,
+   "location": 2,
+   "content": "为什么这样的叠加会有上限呢",
+   "music": 0.0
+  },
+  {
+   "from": 372.92,
+   "to": 374.42,
+   "sid": 168,
+   "location": 2,
+   "content": "答案就是我们在电商里",
+   "music": 0.0
+  },
+  {
+   "from": 374.42,
+   "to": 376.92,
+   "sid": 169,
+   "location": 2,
+   "content": "视频里讲到的神经元的超级化",
+   "music": 0.0
+  },
+  {
+   "from": 376.92,
+   "to": 378.33,
+   "sid": 170,
+   "location": 2,
+   "content": "从而进入不应期",
+   "music": 0.0
+  },
+  {
+   "from": 378.33,
+   "to": 380.28,
+   "sid": 171,
+   "location": 2,
+   "content": "无法再产生动作电视",
+   "music": 0.0
+  },
+  {
+   "from": 380.28,
+   "to": 384.22,
+   "sid": 172,
+   "location": 2,
+   "content": "第二是与突触后膜上不同受体的抑制状态有关",
+   "music": 0.0
+  },
+  {
+   "from": 384.22,
+   "to": 388.38,
+   "sid": 173,
+   "location": 2,
+   "content": "而三是和肌纤维本身的收缩极限相关",
+   "music": 0.0
+  },
+  {
+   "from": 388.38,
+   "to": 391.34,
+   "sid": 174,
+   "location": 2,
+   "content": "其他运动控制的主要是alpha神经元",
+   "music": 0.0
+  },
+  {
+   "from": 391.34,
+   "to": 393.62,
+   "sid": 175,
+   "location": 2,
+   "content": "那伽马运动神经元的作用",
+   "music": 0.0
+  },
+  {
+   "from": 393.62,
+   "to": 396.27,
+   "sid": 176,
+   "location": 2,
+   "content": "简单来说就是协助感觉反馈",
+   "music": 0.0
+  },
+  {
+   "from": 396.27,
+   "to": 398.28,
+   "sid": 177,
+   "location": 2,
+   "content": "听起来可能很反常识",
+   "music": 0.0
+  },
+  {
+   "from": 398.28,
+   "to": 401.54,
+   "sid": 178,
+   "location": 2,
+   "content": "运动神经元怎么协助感觉是信息的传入呢",
+   "music": 0.0
+  },
+  {
+   "from": 401.54,
+   "to": 404.6,
+   "sid": 179,
+   "location": 2,
+   "content": "光有感觉神经元不就足够能够传递信息了吗",
+   "music": 0.0
+  },
+  {
+   "from": 404.6,
+   "to": 408.12,
+   "sid": 180,
+   "location": 2,
+   "content": "我们假设有这样一块肌肉和与之并联的激素",
+   "music": 0.0
+  },
+  {
+   "from": 408.12,
+   "to": 408.54,
+   "sid": 181,
+   "location": 2,
+   "content": "肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 408.54,
+   "to": 409.38,
+   "sid": 182,
+   "location": 2,
+   "content": "放松的时候",
+   "music": 0.0
+  },
+  {
+   "from": 409.38,
+   "to": 410.28,
+   "sid": 183,
+   "location": 2,
+   "content": "节奏拉长",
+   "music": 0.0
+  },
+  {
+   "from": 410.28,
+   "to": 412.66,
+   "sid": 184,
+   "location": 2,
+   "content": "感觉神经元的放电频率增加",
+   "music": 0.0
+  },
+  {
+   "from": 412.66,
+   "to": 414.97,
+   "sid": 185,
+   "location": 2,
+   "content": "但当肌肉比收缩变短之后",
+   "music": 0.0
+  },
+  {
+   "from": 414.97,
+   "to": 416.89,
+   "sid": 186,
+   "location": 2,
+   "content": "就好像弹簧失去了张力",
+   "music": 0.0
+  },
+  {
+   "from": 416.89,
+   "to": 419.36,
+   "sid": 187,
+   "location": 2,
+   "content": "也就无法提供任何感觉信息了",
+   "music": 0.0
+  },
+  {
+   "from": 419.36,
+   "to": 421.7,
+   "sid": 188,
+   "location": 2,
+   "content": "这时候如果有伽马运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 421.7,
+   "to": 425.02,
+   "sid": 189,
+   "location": 2,
+   "content": "它会在节奏变短的时候让肌肤内纤维收缩",
+   "music": 0.0
+  },
+  {
+   "from": 425.02,
+   "to": 427.48,
+   "sid": 190,
+   "location": 2,
+   "content": "从而保持感觉神经元的敏感度",
+   "music": 0.0
+  },
+  {
+   "from": 427.48,
+   "to": 431.04,
+   "sid": 191,
+   "location": 2,
+   "content": "因而伽马运动神经元常常被称作肌肉增益",
+   "music": 0.0
+  },
+  {
+   "from": 431.04,
+   "to": 435.08,
+   "sid": 192,
+   "location": 2,
+   "content": "这就好比游戏里加Buff减少技能冷却时间一样",
+   "music": 0.0
+  },
+  {
+   "from": 435.08,
+   "to": 436.52,
+   "sid": 193,
+   "location": 2,
+   "content": "在一般发力的时候",
+   "music": 0.0
+  },
+  {
+   "from": 436.52,
+   "to": 439.64,
+   "sid": 194,
+   "location": 2,
+   "content": "alpha和GUMA运动神经元会同时被激活",
+   "music": 0.0
+  },
+  {
+   "from": 439.64,
+   "to": 441.53,
+   "sid": 195,
+   "location": 2,
+   "content": "前者负责让肌肉收缩",
+   "music": 0.0
+  },
+  {
+   "from": 441.53,
+   "to": 444.94,
+   "sid": 196,
+   "location": 2,
+   "content": "而后者负责保持激素的敏感性增益",
+   "music": 0.0
+  },
+  {
+   "from": 444.94,
+   "to": 448.42,
+   "sid": 197,
+   "location": 2,
+   "content": "感觉神经元的反馈与运动神经元只要相似",
+   "music": 0.0
+  },
+  {
+   "from": 448.42,
+   "to": 451.14,
+   "sid": 198,
+   "location": 2,
+   "content": "调控增益作用的还有高尔基剑气",
+   "music": 0.0
+  },
+  {
+   "from": 451.14,
+   "to": 453.75,
+   "sid": 199,
+   "location": 2,
+   "content": "它位于肌肉和肌腱结合处",
+   "music": 0.0
+  },
+  {
+   "from": 453.75,
+   "to": 456.56,
+   "sid": 200,
+   "location": 2,
+   "content": "和外肌纤素的串联位置",
+   "music": 0.0
+  },
+  {
+   "from": 456.56,
+   "to": 458.48,
+   "sid": 201,
+   "location": 2,
+   "content": "接近我们啃大棒骨的时候",
+   "music": 0.0
+  },
+  {
+   "from": 458.48,
+   "to": 461.24,
+   "sid": 202,
+   "location": 2,
+   "content": "肉和骨头接连部分很有嚼劲的筋",
+   "music": 0.0
+  },
+  {
+   "from": 461.24,
+   "to": 463.73,
+   "sid": 203,
+   "location": 2,
+   "content": "它的作用就是肌肉收缩的报警器",
+   "music": 0.0
+  },
+  {
+   "from": 463.73,
+   "to": 466.28,
+   "sid": 204,
+   "location": 2,
+   "content": "防止肌肉过度收缩而损伤",
+   "music": 0.0
+  },
+  {
+   "from": 466.28,
+   "to": 468.98,
+   "sid": 205,
+   "location": 2,
+   "content": "有伽马类似的是高尔基腱体",
+   "music": 0.0
+  },
+  {
+   "from": 468.98,
+   "to": 470.42,
+   "sid": 206,
+   "location": 2,
+   "content": "对主动收缩很敏感",
+   "music": 0.0
+  },
+  {
+   "from": 470.42,
+   "to": 472.06,
+   "sid": 207,
+   "location": 2,
+   "content": "肌肉在主动收缩的时候",
+   "music": 0.0
+  },
+  {
+   "from": 472.06,
+   "to": 475.66,
+   "sid": 208,
+   "location": 2,
+   "content": "高二级健体的感觉神经元反而会提高放电频率",
+   "music": 0.0
+  },
+  {
+   "from": 475.66,
+   "to": 477.91,
+   "sid": 209,
+   "location": 2,
+   "content": "从而抑制alpha运动神经元的活动",
+   "music": 0.0
+  },
+  {
+   "from": 477.91,
+   "to": 478.96,
+   "sid": 210,
+   "location": 2,
+   "content": "减少乏力",
+   "music": 0.0
+  },
+  {
+   "from": 478.96,
+   "to": 482.16,
+   "sid": 211,
+   "location": 2,
+   "content": "现在让我们回到视频最开始倒水的问题",
+   "music": 0.0
+  },
+  {
+   "from": 482.16,
+   "to": 484.96,
+   "sid": 212,
+   "location": 2,
+   "content": "一开始大脑发出一种指令",
+   "music": 0.0
+  },
+  {
+   "from": 484.96,
+   "to": 486.91,
+   "sid": 213,
+   "location": 2,
+   "content": "让阿尔法运动神经元放电",
+   "music": 0.0
+  },
+  {
+   "from": 486.91,
+   "to": 488.14,
+   "sid": 214,
+   "location": 2,
+   "content": "肱二头肌收缩",
+   "music": 0.0
+  },
+  {
+   "from": 488.14,
+   "to": 489.37,
+   "sid": 215,
+   "location": 2,
+   "content": "从而拿着水杯",
+   "music": 0.0
+  },
+  {
+   "from": 489.37,
+   "to": 491.89,
+   "sid": 216,
+   "location": 2,
+   "content": "当水杯中的水量逐渐增多的时候",
+   "music": 0.0
+  },
+  {
+   "from": 491.89,
+   "to": 494.78,
+   "sid": 217,
+   "location": 2,
+   "content": "上臂的肱二头肌的肌缩被动伸长",
+   "music": 0.0
+  },
+  {
+   "from": 494.78,
+   "to": 497.18,
+   "sid": 218,
+   "location": 2,
+   "content": "感觉神经元将信息传递给脊髓",
+   "music": 0.0
+  },
+  {
+   "from": 497.18,
+   "to": 498.89,
+   "sid": 219,
+   "location": 2,
+   "content": "灰质的alpha运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 498.89,
+   "to": 501.28,
+   "sid": 220,
+   "location": 2,
+   "content": "alpha运动神经元从而发出指令",
+   "music": 0.0
+  },
+  {
+   "from": 501.28,
+   "to": 504.98,
+   "sid": 221,
+   "location": 2,
+   "content": "让肌肉收缩来稳定手臂回到平衡状态",
+   "music": 0.0
+  },
+  {
+   "from": 504.98,
+   "to": 507.8,
+   "sid": 222,
+   "location": 2,
+   "content": "这时候肱二头肌的肌缩缩短了",
+   "music": 0.0
+  },
+  {
+   "from": 507.8,
+   "to": 509.54,
+   "sid": 223,
+   "location": 2,
+   "content": "伽马运动神经元激活",
+   "music": 0.0
+  },
+  {
+   "from": 509.54,
+   "to": 512.419,
+   "sid": 224,
+   "location": 2,
+   "content": "让内肌纤维仍然保持紧绷状态",
+   "music": 0.0
+  },
+  {
+   "from": 512.419,
+   "to": 515.749,
+   "sid": 225,
+   "location": 2,
+   "content": "此外脊髓里还有抑制性的中间神经元",
+   "music": 0.0
+  },
+  {
+   "from": 515.749,
+   "to": 518.22,
+   "sid": 226,
+   "location": 2,
+   "content": "抑制三头肌的alpha运动神经元",
+   "music": 0.0
+  },
+  {
+   "from": 518.22,
+   "to": 520.95,
+   "sid": 227,
+   "location": 2,
+   "content": "因为夹紧手臂需要二头肌收紧",
+   "music": 0.0
+  },
+  {
+   "from": 520.95,
+   "to": 522.66,
+   "sid": 228,
+   "location": 2,
+   "content": "三头肌放松伸长",
+   "music": 0.0
+  },
+  {
+   "from": 522.66,
+   "to": 524.44,
+   "sid": 229,
+   "location": 2,
+   "content": "在水不断注入的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 524.44,
+   "to": 527.44,
+   "sid": 230,
+   "location": 2,
+   "content": "你大脑脊髓中的神经元不断的在根据反馈",
+   "music": 0.0
+  },
+  {
+   "from": 527.44,
+   "to": 528.28,
+   "sid": 231,
+   "location": 2,
+   "content": "调整力度",
+   "music": 0.0
+  },
+  {
+   "from": 528.28,
+   "to": 529.6,
+   "sid": 232,
+   "location": 2,
+   "content": "甚至预测力度",
+   "music": 0.0
+  },
+  {
+   "from": 529.6,
+   "to": 532.45,
+   "sid": 233,
+   "location": 2,
+   "content": "这样一个看似再平常再简单不过的动作",
+   "music": 0.0
+  },
+  {
+   "from": 532.45,
+   "to": 534.19,
+   "sid": 234,
+   "location": 2,
+   "content": "都有超负载的原理呢",
+   "music": 0.0
+  },
+  {
+   "from": 534.19,
+   "to": 536.41,
+   "sid": 235,
+   "location": 2,
+   "content": "以上就是本期视频的主要内容",
+   "music": 0.0
+  },
+  {
+   "from": 536.41,
+   "to": 539.11,
+   "sid": 236,
+   "location": 2,
+   "content": "下期视频我们会看看上一楼神经系统",
+   "music": 0.0
+  },
+  {
+   "from": 539.11,
+   "to": 542.22,
+   "sid": 237,
+   "location": 2,
+   "content": "还有身体是如何达成精妙的协调协作的",
+   "music": 0.0
+  },
+  {
+   "from": 542.22,
+   "to": 545.07,
+   "sid": 238,
+   "location": 2,
+   "content": "我是明朗一个能让大家都知道的cup主",
+   "music": 0.0
+  },
+  {
+   "from": 545.07,
+   "to": 546.6,
+   "sid": 239,
+   "location": 2,
+   "content": "我们下期视频再见",
+   "music": 0.0
+  }
+ ]
+}

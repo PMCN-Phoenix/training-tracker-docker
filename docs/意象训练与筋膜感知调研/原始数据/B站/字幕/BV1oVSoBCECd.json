@@ -1,0 +1,503 @@
+{
+ "title": "“神经募集的训练方法\"",
+ "owner": "非帆Jeff",
+ "duration": 124,
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.8,
+   "sid": 1,
+   "location": 2,
+   "content": "教练这个可以练神经募集吗",
+   "music": 0.0
+  },
+  {
+   "from": 1.8,
+   "to": 2.64,
+   "sid": 2,
+   "location": 2,
+   "content": "不可以",
+   "music": 0.0
+  },
+  {
+   "from": 2.64,
+   "to": 3.6,
+   "sid": 3,
+   "location": 2,
+   "content": "必须摄影",
+   "music": 0.0
+  },
+  {
+   "from": 3.6,
+   "to": 4.98,
+   "sid": 4,
+   "location": 2,
+   "content": "只能回到三次的重量",
+   "music": 0.0
+  },
+  {
+   "from": 4.98,
+   "to": 7.14,
+   "sid": 5,
+   "location": 2,
+   "content": "向心的时候全力爆发加速",
+   "music": 0.8333332947530885
+  },
+  {
+   "from": 7.14,
+   "to": 8.52,
+   "sid": 6,
+   "location": 2,
+   "content": "关键点是大重量",
+   "music": 0.0
+  },
+  {
+   "from": 8.52,
+   "to": 9.2,
+   "sid": 7,
+   "location": 2,
+   "content": "低次数",
+   "music": 0.0
+  },
+  {
+   "from": 9.2,
+   "to": 11.2,
+   "sid": 8,
+   "location": 2,
+   "content": "哇哇这个肌肉不是长的",
+   "music": 0.30379744912674317
+  },
+  {
+   "from": 11.2,
+   "to": 12.04,
+   "sid": 9,
+   "location": 2,
+   "content": "是脑子有点累",
+   "music": 0.0
+  },
+  {
+   "from": 12.04,
+   "to": 13.18,
+   "sid": 10,
+   "location": 2,
+   "content": "这就对了",
+   "music": 0.0
+  },
+  {
+   "from": 13.18,
+   "to": 14.58,
+   "sid": 11,
+   "location": 2,
+   "content": "椎间长一点",
+   "music": 0.0
+  },
+  {
+   "from": 14.58,
+   "to": 16.02,
+   "sid": 12,
+   "location": 2,
+   "content": "一定要追求质量",
+   "music": 0.0
+  },
+  {
+   "from": 16.02,
+   "to": 18.05,
+   "sid": 13,
+   "location": 2,
+   "content": "那教练这个可以练习",
+   "music": 0.0
+  },
+  {
+   "from": 18.05,
+   "to": 18.9,
+   "sid": 14,
+   "location": 2,
+   "content": "你攻击吗",
+   "music": 0.0
+  },
+  {
+   "from": 18.9,
+   "to": 20.58,
+   "sid": 15,
+   "location": 2,
+   "content": "可以但差点意思",
+   "music": 0.0
+  },
+  {
+   "from": 20.58,
+   "to": 21.7,
+   "sid": 16,
+   "location": 2,
+   "content": "等常用精力时做",
+   "music": 0.0
+  },
+  {
+   "from": 21.7,
+   "to": 23.42,
+   "sid": 17,
+   "location": 2,
+   "content": "练的是神经持续控制刺激",
+   "music": 0.0
+  },
+  {
+   "from": 23.42,
+   "to": 27.64,
+   "sid": 18,
+   "location": 2,
+   "content": "高抑制单位与同步持续是有了打点刺激更明显",
+   "music": 0.0
+  },
+  {
+   "from": 27.64,
+   "to": 29.78,
+   "sid": 19,
+   "location": 2,
+   "content": "最大用力保持10~30秒",
+   "music": 0.0
+  },
+  {
+   "from": 29.78,
+   "to": 32.68,
+   "sid": 20,
+   "location": 2,
+   "content": "比如这个耶耶哦",
+   "music": 0.0
+  },
+  {
+   "from": 32.68,
+   "to": 35.3,
+   "sid": 21,
+   "location": 2,
+   "content": "我哇哦也不是酸菜",
+   "music": 0.0
+  },
+  {
+   "from": 35.3,
+   "to": 37.06,
+   "sid": 22,
+   "location": 2,
+   "content": "感觉就浑身发抖",
+   "music": 0.0
+  },
+  {
+   "from": 37.06,
+   "to": 39.74,
+   "sid": 23,
+   "location": 2,
+   "content": "然后要的就是这个教练",
+   "music": 0.0
+  },
+  {
+   "from": 39.74,
+   "to": 41.96,
+   "sid": 24,
+   "location": 2,
+   "content": "那这个可以练神经募集吗",
+   "music": 0.0
+  },
+  {
+   "from": 43.799,
+   "to": 46.75,
+   "sid": 25,
+   "location": 2,
+   "content": "可以但很明显你不知道自己在干嘛啊",
+   "music": 0.0
+  },
+  {
+   "from": 46.75,
+   "to": 48.83,
+   "sid": 26,
+   "location": 2,
+   "content": "漂亮有什么不知道的",
+   "music": 0.0
+  },
+  {
+   "from": 48.83,
+   "to": 50.63,
+   "sid": 27,
+   "location": 2,
+   "content": "你练练这个叫爆发力",
+   "music": 0.0
+  },
+  {
+   "from": 50.63,
+   "to": 52.41,
+   "sid": 28,
+   "location": 2,
+   "content": "快速伸缩腹部训练",
+   "music": 0.0
+  },
+  {
+   "from": 52.41,
+   "to": 54.05,
+   "sid": 29,
+   "location": 2,
+   "content": "练的是速度加臀部",
+   "music": 0.0
+  },
+  {
+   "from": 54.05,
+   "to": 55.93,
+   "sid": 30,
+   "location": 2,
+   "content": "看的不是你过弯剧组的速度",
+   "music": 0.0
+  },
+  {
+   "from": 55.93,
+   "to": 58.81,
+   "sid": 31,
+   "location": 2,
+   "content": "而是你在跳的时候发力的速度有多快",
+   "music": 0.0
+  },
+  {
+   "from": 58.81,
+   "to": 61.09,
+   "sid": 32,
+   "location": 2,
+   "content": "那一瞬间你能有多少权力",
+   "music": 0.0
+  },
+  {
+   "from": 61.09,
+   "to": 63.15,
+   "sid": 33,
+   "location": 2,
+   "content": "这才能练到神经募集",
+   "music": 0.0
+  },
+  {
+   "from": 63.15,
+   "to": 65.0,
+   "sid": 34,
+   "location": 2,
+   "content": "你专注错地方了",
+   "music": 0.0
+  },
+  {
+   "from": 65.0,
+   "to": 66.72,
+   "sid": 35,
+   "location": 2,
+   "content": "可这一点强度没有啊",
+   "music": 0.0
+  },
+  {
+   "from": 66.72,
+   "to": 67.84,
+   "sid": 36,
+   "location": 2,
+   "content": "没感觉啊",
+   "music": 0.0
+  },
+  {
+   "from": 67.84,
+   "to": 69.26,
+   "sid": 37,
+   "location": 2,
+   "content": "你确定吗",
+   "music": 0.0
+  },
+  {
+   "from": 69.26,
+   "to": 71.18,
+   "sid": 38,
+   "location": 2,
+   "content": "记住任何东西",
+   "music": 0.0
+  },
+  {
+   "from": 71.18,
+   "to": 72.12,
+   "sid": 39,
+   "location": 2,
+   "content": "只要全力",
+   "music": 0.0
+  },
+  {
+   "from": 72.12,
+   "to": 73.54,
+   "sid": 40,
+   "location": 2,
+   "content": "哪怕只够一次",
+   "music": 0.0
+  },
+  {
+   "from": 73.54,
+   "to": 75.12,
+   "sid": 41,
+   "location": 2,
+   "content": "强度都是100%",
+   "music": 0.0
+  },
+  {
+   "from": 75.12,
+   "to": 76.53,
+   "sid": 42,
+   "location": 2,
+   "content": "那教练还有别的方法吗",
+   "music": 0.0
+  },
+  {
+   "from": 76.53,
+   "to": 78.53,
+   "sid": 43,
+   "location": 2,
+   "content": "你一直都没有问到最关键的方法",
+   "music": 0.0
+  },
+  {
+   "from": 78.53,
+   "to": 80.09,
+   "sid": 44,
+   "location": 2,
+   "content": "找到刚才的规律",
+   "music": 0.0
+  },
+  {
+   "from": 80.09,
+   "to": 82.83,
+   "sid": 45,
+   "location": 2,
+   "content": "他们有个共同点哦",
+   "music": 0.0
+  },
+  {
+   "from": 82.83,
+   "to": 83.49,
+   "sid": 46,
+   "location": 2,
+   "content": "次数少",
+   "music": 0.0
+  },
+  {
+   "from": 83.49,
+   "to": 84.05,
+   "sid": 47,
+   "location": 2,
+   "content": "大幅重",
+   "music": 0.0
+  },
+  {
+   "from": 84.05,
+   "to": 85.83,
+   "sid": 48,
+   "location": 2,
+   "content": "还有尽力",
+   "music": 0.0
+  },
+  {
+   "from": 85.83,
+   "to": 89.47,
+   "sid": 49,
+   "location": 2,
+   "content": "还有哦快快速调动发力",
+   "music": 0.0
+  },
+  {
+   "from": 89.47,
+   "to": 91.45,
+   "sid": 50,
+   "location": 2,
+   "content": "怎么才能快啊",
+   "music": 0.0
+  },
+  {
+   "from": 91.45,
+   "to": 92.87,
+   "sid": 51,
+   "location": 2,
+   "content": "怎么才能转",
+   "music": 0.0
+  },
+  {
+   "from": 92.87,
+   "to": 94.19,
+   "sid": 52,
+   "location": 2,
+   "content": "你是练跑的吧",
+   "music": 0.0
+  },
+  {
+   "from": 94.19,
+   "to": 97.77,
+   "sid": 53,
+   "location": 2,
+   "content": "对现在去做一个跑的专项技术训练",
+   "music": 0.0
+  },
+  {
+   "from": 98.75,
+   "to": 101.05,
+   "sid": 54,
+   "location": 2,
+   "content": "所有项目都有他们的专项技术",
+   "music": 0.0
+  },
+  {
+   "from": 101.05,
+   "to": 102.72,
+   "sid": 55,
+   "location": 2,
+   "content": "变得全都是省省力气",
+   "music": 0.0
+  },
+  {
+   "from": 102.72,
+   "to": 105.32,
+   "sid": 56,
+   "location": 2,
+   "content": "真的练这个不只是专注",
+   "music": 0.0
+  },
+  {
+   "from": 105.32,
+   "to": 106.94,
+   "sid": 57,
+   "location": 2,
+   "content": "哪里用力才能走快",
+   "music": 0.0
+  },
+  {
+   "from": 106.94,
+   "to": 108.02,
+   "sid": 58,
+   "location": 2,
+   "content": "还需要专注",
+   "music": 0.0
+  },
+  {
+   "from": 108.02,
+   "to": 110.16,
+   "sid": 59,
+   "location": 2,
+   "content": "哪里不需要用力",
+   "music": 0.0
+  },
+  {
+   "from": 110.16,
+   "to": 117.18,
+   "sid": 60,
+   "location": 2,
+   "content": "这叫意念肌肉连接MMC专注精准控制是神经募集训练的关键",
+   "music": 0.0
+  },
+  {
+   "from": 117.18,
+   "to": 120.12,
+   "sid": 61,
+   "location": 2,
+   "content": "到这能听得懂的都是高水平",
+   "music": 0.09166666284722169
+  },
+  {
+   "from": 120.12,
+   "to": 123.94,
+   "sid": 62,
+   "location": 2,
+   "content": "哟哟哟嘿哟嘿哟嘿哟嘿哟嗨哟",
+   "music": 0.9999999702380962
+  }
+ ]
+}

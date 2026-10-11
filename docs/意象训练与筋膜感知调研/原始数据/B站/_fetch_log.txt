@@ -1,0 +1,64 @@
+﻿wbi init ok, uname=bili_10794259649
+
+=== BV1Yv411k7PQ ===
+  title: 本体觉及本体感受器（肌梭、高尔基腱器官、其他关节感受器） | aid=244942841 cid=247105334 dur=396s
+  subtitle: no_ai_subtitle
+  comments: 6
+
+=== BV15b4y1W7Gf ===
+  title: NSCA CPT CSCS 肌梭和高尔基腱器 详解 认证考试 备考知识点 | aid=637028730 cid=544484469 dur=153s
+  subtitle: 54 seg, coverage=0.96
+  comments: 2
+
+=== BV1LGp46bE2p ===
+  title: 【脚踝扭伤全解·下】慢性不稳怎么办？神经训练重建本体感觉｜肌梭·牵张反射·九宫格 | aid=117410329789215 cid=42593487491 dur=680s
+  subtitle: 322 seg, coverage=1.00
+  comments: 48
+
+=== BV1jjmoYLEaN ===
+  title: 如何训练你的中枢神经系统——解锁你的全部力量和表现 | aid=113486608733528 cid=26773360299 dur=1470s
+  subtitle: 596 seg, coverage=1.00
+  comments: 160
+
+=== BV1Qo4y1Z7jQ ===
+  title: 健身割韭菜信息之一《轻重量找发力感、念动一致》 | aid=373429169 cid=275786985 dur=109s
+  subtitle: 49 seg, coverage=0.99
+  comments: 152
+
+=== BV1hM4y1t7Np ===
+  title: 【中英】精英运动员都在做的想象力训练，运动表现离不开强大的心理建设 | aid=911177043 cid=1131894238 dur=516s
+  subtitle: 180 seg, coverage=0.97
+  comments: 160
+
+=== BV1Nv4y1H7jE ===
+  title: 全网最好的筋膜健身教程_建立“反脆弱”及身体韧性 | aid=569763573 cid=1090908247 dur=3218s
+  subtitle: 794 seg, coverage=1.00
+  comments: 152
+
+=== BV1Jt421K7pi ===
+  title: 【脑科学改善】若没有眼睛的稳定凝视，就无法有稳定的脊柱#费登奎斯方法 | aid=1755260880 cid=1566445745 dur=1412s
+  subtitle: 410 seg, coverage=1.00
+  comments: 160
+
+=== BV1Mq4y1S7sQ ===
+  title: 神经运动学入门（第一期）| α运动神经元 γ运动神经元 & 运动单位 & 肌纤维 | aid=590332729 cid=401184528 dur=547s
+  subtitle: 239 seg, coverage=1.00
+  comments: 160
+
+=== BV1oVSoBCECd ===
+  title: “神经募集的训练方法" | aid=116356938732653 cid=37264360105 dur=124s
+  subtitle: 62 seg, coverage=1.00
+  comments: 160
+
+=== BV1RVb1zGEoc ===
+  title: 脑内电影的惊人效果，我用这个方法，3年的目标3个月就完成了，这是一套被世界顶级玩 | aid=114908897287360 cid=31254643096 dur=727s
+  subtitle: 367 seg, coverage=1.00
+  comments: 152
+
+=== BV1xsqTY8Ei9 ===
+  title: 结合两种筋膜释放术（《解剖列车》+意大利FM）手法演示大合集 | aid=113623829583829 cid=27261665522 dur=16234s
+  subtitle: 229 seg, coverage=0.03
+  comments: 160
+
+=== DONE ===
+有字幕: 11/12

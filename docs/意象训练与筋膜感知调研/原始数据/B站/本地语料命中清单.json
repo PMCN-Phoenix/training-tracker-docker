@@ -1,0 +1,1823 @@
+{
+ "total_hits": 299,
+ "by_bv_count": {
+  "相关视频搜索清单": 1,
+  "视频评论": 82,
+  "BV17JCgBaEHg": 6,
+  "BV19j2AYQET9": 6,
+  "BV1EK4y1P7VD": 1,
+  "BV1fN411p7bZ": 2,
+  "BV1Fs4y1g7Nr": 6,
+  "BV1gt4y1n7Ya": 4,
+  "BV1H1DMBHERL": 3,
+  "BV1K1421b7Xk": 4,
+  "BV1KogK6RETp": 1,
+  "BV1M24y1573Y": 8,
+  "BV1Nh411E7xQ": 1,
+  "BV1qb421v7Zo": 7,
+  "BV1rSht6hEnP": 9,
+  "BV1sh411e7i6": 2,
+  "BV1WgfuBCETG": 9,
+  "BV1X79NY5Etj": 7,
+  "BV1XZ421M7iU": 10,
+  "搜索清单": 30,
+  "新抓视频明细": 81,
+  "BV11DHhzNEBV": 19
+ },
+ "hits": [
+  {
+   "kw": "大脑训练",
+   "bv": "相关视频搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\相关视频搜索清单.json",
+   "ctx": "这种大脑训练让你比所有天才加起来更聪明 | 或扭曲到不再像人类"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "全身训练/如:胸×2组，背×2组，腿×2组，练一休一，周/3~4练，以动作标准/神经募集感+提升耐力为主要)  2.有一定基础的小伙伴也可以双分化(上下肢分化训练/如上半身循环:胸×2组，背×2组，肩×2组，"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @S7L_ :其实就是注重肌肉发力感，要推就纯拿胸推，我现在90公斤完完整整的纯胸推推8个可比以前各种弹胸乱七八糟扭来扭去的推的质量高多了"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "2.力量/重量(肌肉的承重能力) 3.代谢压力(乳酸的波动值/肌肉持续做功承受的张力) 4.组间休息时间(受训练强度的影响，重量越大，组间休息时间越长，反之则越短) 5.心肺压力(心率波动) 6.训练技巧"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "为啥要保持目标🎯肌肉持续紧张持续张力呢 真的很疑惑请求回答[喜欢][喜欢][喜欢] 是为了代谢压力更大更酸胀吗 还是为了肌纤维撕裂的更充分"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "复 @風间千鹤 :你就算用4公斤的重量做卧推，你的肩和三头也是参与发力的，有没有发力感和有没有发力有啥关系。除非你做卧推不用手[笑哭][笑哭][笑哭]"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "专门性 明确为了练啥。 新手小白-先恢复对身体的掌控-提高神经募集能力。 肌肥大-肌肥大也有追求力量，耐力的不同阶段，因此需要规划，不可一味加重量或者容量..."
+  },
+  {
+   "kw": "神经适应",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "新手最重要的是频率，学动作，神经适应，先全身过一遍，每个动作三到四组不力竭，一周五次左右最好"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @Aspen_ :可以提高强度，但换动作，以此缓解神经适应的疲劳。比如这次70%1rm的卧推做主项，臂屈伸辅助项，下次用75%1rm双杠臂屈伸做主项，卧推辅助项，一定程度上比只练"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "进步速度就无所谓，休息一个月也是练两轮就回来了。想进步快一点还是得做一半重量保持神经适应性，不然两轮可能都要两个星期了"
+  },
+  {
+   "kw": "专注",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "通过破坏后生长的方式来增肌。 但渐进式超负荷听上去的重点在“负荷”上，容易让人只专注重量，忽视其他。 渐进式刺激的“刺激”则可以通过重量，动作质量，组间歇时间等多种条件达成，不用专注于重量这一项同样可以达"
+  },
+  {
+   "kw": "专注",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "。 渐进式刺激的“刺激”则可以通过重量，动作质量，组间歇时间等多种条件达成，不用专注于重量这一项同样可以达成增肌的目的。 总结就是追求动作质量和训练效率，不要盲目硬上重量，这点其实很多健身UP也讲过。"
+  },
+  {
+   "kw": "筋膜",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "身材差不多是自然到头了。力量做5*5，更多的是募集神经的力量，做壶铃棒铃可以增加筋膜力量"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @OfMonstersAndMen :40分钟是正式组的时间 去掉热身组 拉伸，如果是这样的话40分钟够了。"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": " @cbhzqrxxp :可以啦[doge]我半年也就50左右，找好胸肌和肩胛骨发力感和角度，一周两练到位，有人保护一周一次冲冲大重量，新手前期找感觉耗时很多，但后面进步很快"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "，对纯小白就是关节活动度、关节稳定性、肌肉募集感觉（神经募集到的肌纤维越多，肌肉张力越大）和六大发力模式。 这时候训练次数一定是15-20次甚至更多，越小的重量才能越好找到目标单位的募集感，新手不适合12"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "保证了方向。 不同阶段不一样，对纯小白就是关节活动度、关节稳定性、肌肉募集感觉（神经募集到的肌纤维越多，肌肉张力越大）和六大发力模式。 这时候训练次数一定是15-20次甚至更多，越小的重量才能越好找到目标单位"
+  },
+  {
+   "kw": "神经肌肉",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "募集是神经肌肉连接，调动神经越多肌肉募集发力越多。危险环境千钧一发开基因锁爆发神力就是一个人的募集极限 泵感就是目标肌肉因为训练刺激极"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "不懂就问，募集感觉是发力感吗？"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "提高神经适应性，跟肌肉募集，应该不是同一种练法吧？"
+  },
+  {
+   "kw": "迁移",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "我就是把这个迁移到街健的，效率非常高"
+  },
+  {
+   "kw": "筋膜",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "力量薄弱，训练负荷难以长期递进，会陷入增肌瓶颈。且长期高疲劳代谢训练易加剧关节、筋膜劳损，肌肉密度低、体态虚浮，无法实现自然健身长期稳健增肌、强健体魄的核心目标。”我感觉就这个理，虽然我两个都练的，但主要"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @Markluoxu :基本上5x8也会有足够张力刺激肌原纤维生长，换成每组二三十次应该就难了，我以前练中长跑就练每组二三十次的"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "机械张力是排第一的，其次才是容量"
+  },
+  {
+   "kw": "肌梭",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "康复师补一句老哥说的全是对的，有点震惊于up学习方向。gto哪里其实还能再发散到肌梭这个经典的运动反射器官，大体思路完全正确。包括大小理论，这里补一句对于术后康复造成的神经性肌肉萎缩，其实最好的办法不是电"
+  },
+  {
+   "kw": "肌梭",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "多了，感受器你说的那个gto肌梭就占百分之二三十，剩下百分之70是别的。什么什么小体。一堆，理论你就学吧，很有意思。"
+  },
+  {
+   "kw": "高尔基",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "鲁非尼 环层 和其他痛觉感受。其他三种在力训里意义不大只要负重就可以刺激到，但是高尔基和肌梭之间的脊髓反射意义比较高"
+  },
+  {
+   "kw": "肌梭",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "环层 和其他痛觉感受。其他三种在力训里意义不大只要负重就可以刺激到，但是高尔基和肌梭之间的脊髓反射意义比较高"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "能停在某个阶段也不是什么坏事，给肌腱强化的时间，再优化训练与饮食，减载堆容量，这样就能有新的突破"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "能停在某个阶段也不是什么坏事，给肌腱强化的时间，再优化训练与饮食，减载堆容量，这样就能有新的突破"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "是的，容量是最最重要的，机械张力之所以重要是也只是为了打出更多容量。单纯高重量低容量对增肌没有任何意义"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "③ 速率编码与完全强制收缩——高频神经冲动实现肌肉持续峰值张力。接着介绍了高尔基腱器（GTO）保命机制及其去抑制化的增力过程，并指出组间休息时间不足会削弱磷酸原能量系统恢复、抑制中枢驱动，从而影响力量提"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "离子，导致肌球蛋白长时间锁定，实现峰值力量输出。 - 07:30 – 介绍高尔基腱器（GTO）的张力感受功能，解释去抑制化（desensitization）是增力的核心——通过持续大重量刺激让GTO逐渐"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "能动员高阈值快肌纤维，③ 速率编码与完全强制收缩——高频神经冲动实现肌肉持续峰值张力。接着介绍了高尔基腱器（GTO）保命机制及其去抑制化的增力过程，并指出组间休息时间不足会削弱磷酸原能量系统恢复、抑制中枢"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "白长时间锁定，实现峰值力量输出。 - 07:30 – 介绍高尔基腱器（GTO）的张力感受功能，解释去抑制化（desensitization）是增力的核心——通过持续大重量刺激让GTO逐渐“放宽”限制。 -"
+  },
+  {
+   "kw": "神经肌肉",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "瓶颈的前提，强调深度理解力量与增肌的关系至关重要。 - 03:23 – 详细介绍神经肌肉接头（突出间隙）的结构，阐述大脑电信号在接头处必须经历从电信号→化学信号→电信号的跨界转换过程。 - 04:50 – 阐"
+  },
+  {
+   "kw": "高尔基",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "纤维，③ 速率编码与完全强制收缩——高频神经冲动实现肌肉持续峰值张力。接着介绍了高尔基腱器（GTO）保命机制及其去抑制化的增力过程，并指出组间休息时间不足会削弱磷酸原能量系统恢复、抑制中枢驱动，从而影响力量"
+  },
+  {
+   "kw": "高尔基",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "释放钙离子，导致肌球蛋白长时间锁定，实现峰值力量输出。 - 07:30 – 介绍高尔基腱器（GTO）的张力感受功能，解释去抑制化（desensitization）是增力的核心——通过持续大重量刺激让GTO逐"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "值力量就会越恐怖。  此外，你的身体里隐藏着一个类似保险丝的保护机制，叫做高尔基腱器官。当你举起大重量时，它一旦觉得可能受伤，就会立刻强制给你的肌肉断电。而增加力量的本质，其实就是通过长期的重量刺激去脱"
+  },
+  {
+   "kw": "高尔基",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "出的峰值力量就会越恐怖。  此外，你的身体里隐藏着一个类似保险丝的保护机制，叫做高尔基腱器官。当你举起大重量时，它一旦觉得可能受伤，就会立刻强制给你的肌肉断电。而增加力量的本质，其实就是通过长期的重量刺激去"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "神经募集，体脂率，动作模式"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @云健身-仰望尾迹云 :所以其实卷腹和悬垂举腿的的效果是一样吗 我一直以为腱划分开了腹肌 卷腹练上面 举腿练下面[无语]"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "神经募集模式需要时间建立（两三周到三四周看人），所以鼓励决定好一个模式就短期不变，但是时间长了人体会自动进入省力模式（这玩意人体"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "意识控不住），人体会习惯这种刺激，肌肉也就难增长。 所以换个模式就是重新建立新的神经募集模式，给身体带来更充分的刺激。 但是你如果已经认真练了七八年乃至十多年，同时饮食、动作、休息都十分到位了，那很可能就已经"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "肌肉的能力还没有提升起来，可以在力量训练之前尝试小重量多次数的墙壁俯卧撑找找胸肌发力感，之后再正常俯卧撑或者卧推之类的重量刺激。我也是健身视频刷多了，很多up这么建议的。"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "神经募集肌肉的能力还没有提升起来，可以在力量训练之前尝试小重量多次数的墙壁俯卧撑找找胸肌发力感，之后再正常俯卧撑或者卧推之类的重"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "对，平时多做俯卧撑，对找发力感很有帮助"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @天上都是星星吖 : 这个得看神经募集天赋了，一年两倍体重。"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "我一卧推就腱鞘炎怎么办啊"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "去健身房实践了一下，小重量RM12，肩胛背部上躯干能很稳定的完成，并且发力感都很足，但是如果加杠铃片，提到RM5-8，最后几个左肩胛后面就有点锁不住了[笑哭]请问大家，现阶段我是应该继续维持更好发"
+  },
+  {
+   "kw": "筋膜",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "加杆子估计有40kg，15，12，12然后游泳一个半小时（水中泡水），之后还用了筋膜枪整个人都是麻的，不过之前那个一分化有点用"
+  },
+  {
+   "kw": "发力感",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "会平衡，东哥之前视频有讲，比如练手臂惯用手力量要比另一只手高一整组动作都很正常，发力感也要比另一只手好，所以长得快，神经不一样，比如胸部的话左边比右边大很正常，因为心脏在左边，话说健身的话要先矫正自己的体态"
+  },
+  {
+   "kw": "腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "真的看的好揪心，肌腱断了就告别自己的爱好了"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "真的看的好揪心，肌腱断了就告别自己的爱好了"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "机械张力代谢压力全都要"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "以增肌为目的的训练，只要在能让肌肉稳定地承载张力，不让关节等其他地方过度代偿的前提下，给它尽可能大的张力就行"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "只要在能让肌肉稳定地承载张力，不让关节等其他地方过度代偿的前提下，给它尽可能大的张力就行"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "练腿也是，有次练完回去突然大腿内侧那块肌肉抽筋凹进去……这种情况怎么改善，练完后拉伸也没什么用"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "度要是休息吧不够的前提下很容易对机体产生伤害。可以尝试一点别的运动，像普拉提或者拉伸类的那种，有氧也可以做一下，等身体强度稍微高一点了再尝试进行无氧力量训练"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "前面半周减疲劳诱因，后面半周为新周期目标，建立容量耐受或者神经募集的适应基础应该可以吧。好比新周期还是以神经募集为主，前面半周减完强度后，后半周把强度拉高再把容量降到最低点，以来达到提前"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "半周为新周期目标，建立容量耐受或者神经募集的适应基础应该可以吧。好比新周期还是以神经募集为主，前面半周减完强度后，后半周把强度拉高再把容量降到最低点，以来达到提前适应新周期？顺便能测试出上个周期的训练成果，来"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "m训练三次换成8-12rm训练3次再换成15rm训练三次 这样循环，是不是不停在神经适应啊，动作没有变。"
+  },
+  {
+   "kw": "专注",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "我认为突破增肌平台期的关键是切换到增力训练，专注提高肌力，并且减少增肌动作，让身体恢复新鲜感的同时增加后续的做组能力"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @夜莺雪丶 :但是对于离心阶段的F-f＝ma中，负重和肌肉张力应对应为F和f，在快速离心中显然是F＞f，肌肉张力在此过程中会相应变小。 这个过程与向心阶段中的对应关系相反，快速向心阶"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "段的F-f＝ma中，负重和肌肉张力应对应为F和f，在快速离心中显然是F＞f，肌肉张力在此过程中会相应变小。 这个过程与向心阶段中的对应关系相反，快速向心阶段，所需肌肉张力才会明显变大。"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "此过程中会相应变小。 这个过程与向心阶段中的对应关系相反，快速向心阶段，所需肌肉张力才会明显变大。"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "以推更大重量来说 动作 起桥 肩胛 呼吸 身体对位 张力 等动作技术，基础大于技术 补弱项 启动弱多练胸肩 后半程弱多练肘伸，开发上肢gpp（街健体操等 神经募集能力，科学的训"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "大于技术 补弱项 启动弱多练胸肩 后半程弱多练肘伸，开发上肢gpp（街健体操等 神经募集能力，科学的训练计划 你的力训认知水平决定了你能走多高走多远"
+  },
+  {
+   "kw": "迁移",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "spoto最好就是接近触胸而不触胸迁移性最高，视频里的距离是明显不合格的。"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "拉伸不重要吗"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "好奇怪啊，为什么都不讲拉伸啊"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "卧推从来都触不到胸[笑哭]像之前我看Jeff还是哪说过下放到大臂平行地面就是最大张力位置……我那个位置离胸还一大截[笑哭]"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "回复 @健美爱好者Eddie :涵盖刺激疲劳比，SRA曲线，机械张力，代谢压力，专项性，阶段增益，疲劳管理等概念，有大量相关科学论文支持，可量化的训练体系"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "说说你提到的所谓“自然练法”的概念：刺激疲劳比、SRA刺激-恢复-适应曲线、机械张力、代谢压力、疲劳管理，这些是抗阻训练的基础生理学原理，不是什么和韦德体系对立的“新科学”。恰恰相反，韦德法则的每一条，都"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "恰相反，韦德法则的每一条，都是围绕这些原理构建的： 1.渐进超负荷法则，就是机械张力进阶、SRA适应循环的核心实践； 2.持续紧张、离心收缩法则，就是最大化机械张力和代谢压力的经典技术； 3.多变法则、优"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "张力进阶、SRA适应循环的核心实践； 2.持续紧张、离心收缩法则，就是最大化机械张力和代谢压力的经典技术； 3.多变法则、优先训练法则，就是你说的“专项性、阶段增益”； 4.训练分化、组间休息控制、高级技"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "，烧点法则，渐降组法则。从我们现代的视角看，这确实产生了巨大的代谢压力和一些机械张力。但同时，它产生的神经疲劳，肌肉微损伤，导致皮质醇飙升，这些是需要花费非常长的时间去恢复的，对于自然训练者，这个法则的刺"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "用5-7天来恢复，但获得的肌肉增长可能只比正常多一点点，甚至会更少，（因为总机械张力很低）。韦德训练法垃圾容量极多，积累了大量疲劳的同时却没有积累很多的体适能，是极其低效率的。 而职业选手用药后，他们的恢"
+  },
+  {
+   "kw": "专注",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "但这只是一个最基础的底层理论，它正确并不代表韦德训练法本身正确。  渐进，变化，专注，贯穿于韦德训练法则的这3点确实没有任何问题，  但你在用“底层法则是正确，所以其上层建筑都是正确的”这种说辞混淆视听。"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "说大量训充血法则，顶峰收缩法则这类追求“感觉”的东西。而现代科学共识则表明，机械张力是肌肉肥大的首要因素，代谢压力只是辅助而已。比如两个来自2025年Sciencedirect和Pubmed的综述表明只有"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "比如两个来自2025年Sciencedirect和Pubmed的综述表明只有机械张力是主要驱动，Jeff nippard，brad schoenfeld，Jeremy ethier等等学术大咖也都认为机械"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "rad schoenfeld，Jeremy ethier等等学术大咖也都认为机械张力是主要甚至唯一的驱动力，所谓“泵感”等代谢压力的东西，最多也只有文献认为它能放大机械张力效果，而绝对不是训练要追求的一个"
+  },
+  {
+   "kw": "张力",
+   "bv": "视频评论",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\视频评论.json",
+   "ctx": "要甚至唯一的驱动力，所谓“泵感”等代谢压力的东西，最多也只有文献认为它能放大机械张力效果，而绝对不是训练要追求的一个目标。  我不想说很难听的话，追求“力竭”和“充血”就是药物训练者的东西，不是我们正常人"
+  },
+  {
+   "kw": "腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "第三个好处肌腱硬度增强"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "第三个好处肌腱硬度增强"
+  },
+  {
+   "kw": "腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "肌腱硬度指增强肌腱的刚性"
+  },
+  {
+   "kw": "腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "肌腱硬度指增强肌腱的刚性"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "肌腱硬度指增强肌腱的刚性"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "BV17JCgBaEHg",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV17JCgBaEHg.json",
+   "ctx": "肌腱硬度指增强肌腱的刚性"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "我们往往是肌肉的神经适应呢在前"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "他们也都要先经历神经适应为主的阶段"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "神经适应需要时间的更长"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "简单的单关节动作神经适应需要的时间短一些"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "这个就是肌肉的速度张力关系"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV19j2AYQET9",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV19j2AYQET9.json",
+   "ctx": "速度张力关系呢要深入讲"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "BV1EK4y1P7VD",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1EK4y1P7VD.json",
+   "ctx": "因为你的神经募集到的运动单元是不够多的"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1fN411p7bZ",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1fN411p7bZ.json",
+   "ctx": "你有足够的离心最大拉伸和向心啊"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1fN411p7bZ",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1fN411p7bZ.json",
+   "ctx": "单关节把这个哑铃飞鸟把它充分的拉伸"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "我们往往是肌肉的神经适应呢在前"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "他们也都要先经历神经适应为主的阶段"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "神经适应需要时间的更长"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "简单的单关节动作神经适应需要的时间短一些"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "这个就是肌肉的速度张力关系"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1Fs4y1g7Nr",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Fs4y1g7Nr.json",
+   "ctx": "速度张力关系呢要深入讲"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1gt4y1n7Ya",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1gt4y1n7Ya.json",
+   "ctx": "这个张力其实应该是拉满的状态"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1gt4y1n7Ya",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1gt4y1n7Ya.json",
+   "ctx": "让股四头肌形成张力"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1gt4y1n7Ya",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1gt4y1n7Ya.json",
+   "ctx": "OK注意腰骨四的张力"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1gt4y1n7Ya",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1gt4y1n7Ya.json",
+   "ctx": "股四的张力对"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1H1DMBHERL",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1H1DMBHERL.json",
+   "ctx": "相反我们需要专注于提供更有效的训练刺激以解释这一点"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1H1DMBHERL",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1H1DMBHERL.json",
+   "ctx": "而非专注于逐步增加次数或负荷"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1H1DMBHERL",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1H1DMBHERL.json",
+   "ctx": "专注于以最大化肥大刺激的方式完成每组"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1K1421b7Xk",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1K1421b7Xk.json",
+   "ctx": "我们去讲这个机械张力"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1K1421b7Xk",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1K1421b7Xk.json",
+   "ctx": "但是我们一旦讨论到机械张力"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1K1421b7Xk",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1K1421b7Xk.json",
+   "ctx": "一个是神经适应"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1K1421b7Xk",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1K1421b7Xk.json",
+   "ctx": "刚才突然说到了那个一个是神经适应"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1KogK6RETp",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1KogK6RETp.json",
+   "ctx": "更大的外部阻力会产生更高的机械张力"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "神经适应因素也好"
+  },
+  {
+   "kw": "腱",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "高尔基腱器官的抑制减弱啊"
+  },
+  {
+   "kw": "高尔基",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "高尔基腱器官的抑制减弱啊"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "因为靠神经适应去提升力量"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "很难从神经适应为主的过程"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "甚至你可能连神经适应都难以建立"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "这是一种神经适应"
+  },
+  {
+   "kw": "神经适应",
+   "bv": "BV1M24y1573Y",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1M24y1573Y.json",
+   "ctx": "那么又是一种神经适应了"
+  },
+  {
+   "kw": "发力感",
+   "bv": "BV1Nh411E7xQ",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1Nh411E7xQ.json",
+   "ctx": "比如哪一组我的发力感特别好"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "你的这个下肢的张力没有特别好的建设"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "我现在感觉第一点呢是你的下肢张力有点不好"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "就是我现在严重怀疑你的这个前侧肌张力"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "托马斯测试呢如果要是肌张力正常来说"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "那就说明他的前侧的肌张力过紧"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "导致前侧的张力就会很有强"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1qb421v7Zo",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1qb421v7Zo.json",
+   "ctx": "先把这个前侧的张力稍微松紧一点"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "充分拉伸肩部向后收紧"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "却缩短了底部拉伸幅度"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "但实际上肱二头肌承受的张力反而降低了"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "维持最大张力"
+  },
+  {
+   "kw": "拉伸感",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "先掌握好拉伸感和髋部铰链动作"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "先掌握好拉伸感和髋部铰链动作"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "可让动作底部始终保持张力"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "专注感受纯粹的肩部灼烧感"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1rSht6hEnP",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1rSht6hEnP.json",
+   "ctx": "让手臂充分深度拉伸"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1sh411e7i6",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1sh411e7i6.json",
+   "ctx": "他持续的啊承受这个张力"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1sh411e7i6",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1sh411e7i6.json",
+   "ctx": "中间要多拉伸放松"
+  },
+  {
+   "kw": "发力感",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "新手最常见的问题就是练不对发力感"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "每个训练日你只需要专注一到两个肌群"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "这条法则只适用于专注提升绝对力量的训练"
+  },
+  {
+   "kw": "念动",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "让你建立更强的念动一致"
+  },
+  {
+   "kw": "念动一致",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "让你建立更强的念动一致"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "使肌肉全程保持张力"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "每次只专注于一到两个肌肉部位"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "也会丢失肌肉的持续张力"
+  },
+  {
+   "kw": "专注",
+   "bv": "BV1WgfuBCETG",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1WgfuBCETG.json",
+   "ctx": "渐进变化专注"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "咱得保证把运动范围里拉伸的那部分给加上"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "或者在拉伸位置做部分范围训练"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "不过咱可别跳过拉伸的位置"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "拉伸最充分的状态"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "尤其是在拉伸到最长的时候"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "这就得把动作里拉伸的部分算上"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1X79NY5Etj",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1X79NY5Etj.json",
+   "ctx": "让目标肌肉保持最大张力"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "锻炼到我们底部的这种张力对抗"
+  },
+  {
+   "kw": "腱",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "然后以及一些什么肌腱的协调性"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "然后以及一些什么肌腱的协调性"
+  },
+  {
+   "kw": "迁移",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "就是为什么能够迁移到我的卧推上呢"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "因为我们前锯有很好的张力的话"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "保证张力的时候伸直"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "要保证有肌肉张力的同时去完成伸肘"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "肌肉没有张力"
+  },
+  {
+   "kw": "迁移",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "就是为了更好的迁移到我们卧推里面"
+  },
+  {
+   "kw": "张力",
+   "bv": "BV1XZ421M7iU",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\力量训练平台期突破-B站原始数据\\字幕\\字幕-BV1XZ421M7iU.json",
+   "ctx": "然后他也不会丢失张力"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【Eleni Fit】活动度打开！10分钟全身激活运动，可作为拉伸、热身使用"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "比冥想还狠的专注训练：盯墙"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【正念冥想训练营】｜大脑健身｜放下焦虑｜回归专注｜第35天｜10min冥想引导｜扫除无形干扰｜把控生命核心节奏"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "18min正念冥想 | 清除杂念，理清思绪，提升大脑专注"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【对抗诱惑!】如何训练大脑提升专注力!"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "每天10分钟专注训练，让工作、学习效率翻倍｜0基础冥想"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【心流冥想】每天10min，收获超强专注，高效一整天 | 专注系列01"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【心流冥想】每天10min，收获超强专注，高效一整天 | 专注系列01"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "没有天生的专注大神，只有练出来的心流高手！脑科学教你练出极致专注力"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "没有天生的专注大神，只有练出来的心流高手！脑科学教你练出极致专注力"
+  },
+  {
+   "kw": "大脑训练",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "这种大脑训练让你比所有天才加起来更聪明 | 或扭曲到不再像人类"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "正念入门必看|不求专注？不是放空？正念冥想到底是在做什么？"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "加赠-正念专注力提升训练营（7节完结）"
+  },
+  {
+   "kw": "腱",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【收藏级】肩峰撞击 肩部疼痛 肩部肌腱炎的自我评估&amp;自我康复 ps：附带纠正性训练和原理讲解"
+  },
+  {
+   "kw": "肌腱",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【收藏级】肩峰撞击 肩部疼痛 肩部肌腱炎的自我评估&amp;自我康复 ps：附带纠正性训练和原理讲解"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "好的训练就是拉伸，好的拉伸就是训练，希望对大家有所帮助！！"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "好的训练就是拉伸，好的拉伸就是训练，希望对大家有所帮助！！"
+  },
+  {
+   "kw": "发力感",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【10分钟臀肌激活】找到臀肌发力感 告别练臀腿酸 | 翘臀不粗腿 矫正臀部凹陷"
+  },
+  {
+   "kw": "表象训练",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "台湾运动心理学课程：以网球运动为例的表象训练方法"
+  },
+  {
+   "kw": "刻意练习",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "精通一切的黄金法则：刻意练习的6大原则，助力每一个追梦者"
+  },
+  {
+   "kw": "大脑训练",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "这种大脑训练让你比任何天才都更聪明，但你将再也无法回归平凡。"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "(中文字幕)干货！最科学有效的训前热身与拉伸丨学术帝 Jeff Nippard"
+  },
+  {
+   "kw": "表象训练",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "运动与心理_表象训练"
+  },
+  {
+   "kw": "刻意练习",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "脑科学10-刻意练习技术，快速培养能力的技术"
+  },
+  {
+   "kw": "张力",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "北体运动心理学——张力为"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "【中英+文稿】为什么你必须消失才能成功 | 用低调与专注换取进步"
+  },
+  {
+   "kw": "神经募集",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "“神经募集的训练方法&quot;"
+  },
+  {
+   "kw": "心理训练",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "对于运动员超级重要的心理训练！！！"
+  },
+  {
+   "kw": "专注",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\搜索清单.json",
+   "ctx": "管理学习UP主，支持UP主搜索与视频收藏等功能，阉割大部分娱乐内容，从根源上达成专注学习。"
+  },
+  {
+   "kw": "神经肌肉",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "理的做法是碳水健降，随适应逐步下调。镁、钙和维生素D也常被忽视：镁参与能量代谢和神经肌肉功能，深绿色蔬菜是优质来源但建议蒸或炒而非水煮；钙参与神经信号调控，牛奶是方便的选择；维生素D影响钙吸收和肌肉功能，长期"
+  },
+  {
+   "kw": "神经肌肉",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "源平衡，确保恢复条件充足。 ④矿物质与维生素对睡眠节律至关重要。镁参与能量代谢与神经肌肉功能，摄入不足易致睡眠不稳，建议通过燕麦、坚果及蒸炒深绿蔬菜补充。钙不仅关乎骨骼，更参与神经传导与松果体信号调控，牛奶是"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "回复 @6一口耶耶拿铁 :都行吧 我是做运动就不看手机 专注于动作"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "做完需要拉伸吗"
+  },
+  {
+   "kw": "发力感",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "我都可以正反手单手引体，但趴在地上Y字根本就起不来，起不来就算了，连发力感都根本没有，困难的我怀疑自己"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "比冥想还狠的专注训练：盯墙"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "从神经科学的角度，有一种能力能让你一天工作下来都不会累，而且会让你灵感变多，专注力提升，但99%的现代人都缺乏锻炼这种能力，这个能力就叫。无聊。大多数人对无聊的耐受度非常低，等电梯，上厕所，哪怕只有3"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "感。你会发现你对于外部事物的感知度一下子变得清晰了。还有一个很关键的点就是，当你专注于学习或工作的时候，你的海马体会实时记录信息，但这些信息都是缓存，很容易就会被你忘掉。而当你在休息时选择无聊，你的海马体"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "多巴胺刺激，这个过程就会被打断，结果就是记忆写不进去，大脑也越来越乱。所以真正的专注力提升和精力管理不是来自于工作，而是来自于工作前后的间隙，能否抓住每一个无聊的窗口和无聊相处，用无聊好好的滋养你的大脑。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "怪不得以前老师总叫我面壁思过，原来是帮我提升专注力"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "爱且自强 : 自然是单线程，楼主是进过训练后才能多线程。普通人多线程只会影响你的专注度"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "为娱乐时间有限，一边看视频一边打游戏，那时候我很骄傲我能做到兼顾，直到后来我无法专注做一件高难度事情，无论如何我都会同时去在脑海中编故事，保持双线程，所以我真的觉得这人胡扯呢，要不然他所谓的多线程是极其简"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "候眼睛会出现幻视，我觉得对眼睛尤其像我高度近视的人来说不太好，不过冥想放空大脑，专注呼吸，也是个好办法； 我目前的状态是很难开始做一件事，但一旦开始，往往可以很专注，但还是很难开始做，求建议[蹲蹲]"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "专注呼吸，也是个好办法； 我目前的状态是很难开始做一件事，但一旦开始，往往可以很专注，但还是很难开始做，求建议[蹲蹲]"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "种状态对你来说不是一件好事吗？催眠更不是了，你从大脑纷繁的乱象当中解放出来，重新专注于当下，这更像解除你的大脑对你的催眠"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "回复 @药药该吃药了 :影响专注大概率就是两方面，一个是心理，二是身体，心理上来说，有时候你想要达成某件事情，越想其实越做不好，还不如顺其自然，身体层面"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "评论区一堆王阳明绷不住了，说的就跟练练就练气了一样，这玩意顶天也就提升下专注力，没那么邪乎"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "能提升专注力已经非常有用了"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "还真是，我也冥想，提升专注力没问题，也有科学依据，评论区这些我都不敢评价，我也就提升提升专注力，人家这是修仙来了"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "我也冥想，提升专注力没问题，也有科学依据，评论区这些我都不敢评价，我也就提升提升专注力，人家这是修仙来了"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "友分享自己在考公时就是学习二小时+盯墙壁40分钟（好像）循环，这样可以使得学习更专注和高效，因为面壁时非常无聊，让学习成为了自己唯一能选择的“有趣”的、接受信息的事情。         我就尝试过一次，不"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "备考学习总感觉专注力不行 我也试试这个"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "根本就是冥想的一种，印度瑜伽/佛教/藏传佛教，叫【有缘奢摩他】，指依靠所专注的特定对象修持定力 饰Dr Strange 的BC, 就有套Netflix的电影，有讲观蜡烛修定力[喜极而泣] 老外ne"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "，一方面训练并还原了大脑集中注意力，一方面不再被填充棉花糖后脑袋就可以放入我们想专注的事了"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "甚至可能大脑会渴求我们本来不好专注的事"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "回复 @__sanji : 有差别，冥想是要专注的，本质上是拉回注意力，这时候时间会过得很快。 但是盯墙的差别很大，真的就是无聊，纯无聊，脑子会不受控制的走，但很快又再"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "受控制的走，但很快又再次回归无聊。 可以说最大的差异就是冥想是有事做的，是要支付专注力的，盯墙那是纯发呆。 举个例子，在冥想时，20 分钟感觉很快因为在认真做事。但是盯墙 20 分钟很慢，乏味无聊。  而"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "是一个高耗能行为。  冥想的最终效果我无法断定，但是我能确认冥想的效果之一是增强专注力和觉知，因为冥想全程要求你必须拉回某个主线，一般是要求你从走神状态觉知然后重新拉回呼吸上，这其实跟肌肉的锻炼很相似。 "
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "”。 所以我认为大多数人的焦虑和压力本质上来源于“不愿意无聊”上，而不是什么缺乏专注，在这方面，冥想的效果很一般。 当然，这些都是我对城市里人的观察感受，是主观的。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "评论区浅记录一下。 个人状态：97年男，很久之前(1年起步)意识到自己的专注度或者注意力明显下降，在做哪怕自己感兴趣的事情时候也会做出时不时玩会儿手机的额外举动，夜间或空闲时候会长时间刷b站短视频"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "1分钟时间里，快速嚼动口香糖的同时手上会有推下眼睛、揉下眼睛等小动作。开始尝试用专注呼吸(平稳吸气1，平稳呼气2，1-10不停循环)，小动作逐渐减少，口香糖也不会再嚼，身体起伏相对平静。  期间，出现了以"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "浮躁，小动作和想法都比较多。 --- 后续的学习、锻炼、再加上一个阅读，可能稍微专注一点吧，我也不是很确定，总体上没什么感觉。  睡眠质量：6/10，心情：5/10"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "的，并且有隔天跑步和力量训练，外加健康饮食和稍微饿一点的体感，写字1小时应该也算专注力训练了，每天还有不到2小时的背单词。种种因素叠加起来之后，我只能说，健康的生活习惯以及自己生活链条上本来自带的专注训练"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "单词。种种因素叠加起来之后，我只能说，健康的生活习惯以及自己生活链条上本来自带的专注训练能带来的收益，可能要比这个盯墙训练来的更为直观一点。  之后可能还会尝试吧，等我找到每天有时间留出30分钟之后再说。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "这还不算格，格物是为了参透事物原理，他只是为了工作效率，为了专注力纯蹬"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "盯墙训练其实就是让你大脑的视觉系统，只专注于墙面这样你眼里无任何“细节”只有一面白色或者其他颜色的墙。从而更好的清空你大脑的垃圾，其次神经会释放微量去甲肾上腺素，"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "脑的垃圾，其次神经会释放微量去甲肾上腺素，在配合平稳的深呼吸，能更好的进入大脑的专注模式。简单来说就是盯墙训练能让你短时间可以获得去甲肾上腺素加乙酰胆碱+GABA的正面buff，闭眼冥想会让一些初学者胡思"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "聊的盯着墙或者发呆，这是我以前的习惯，现在这种习惯渐渐没了，我也觉得自己的灵感和专注力被剥夺了，这个视频让我真想尝试一下，还有长时间盯着墙那个墙上的花纹真的像会跳出来一样"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "盯墙是为了专注训练，盯鞋是为了分散知觉"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "回复 @一闪而过的路人君 : 是一直保持专注的盯着还是可以放空思想去随意想象啊"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "如果按照这个说法，那在学习上常说的早上起来背英语单词是否可以理解为早上更专注，脑子无杂念（事实上好像老师确实是这样说的），但如果没有睡醒的话注意力是不是又下降了                  "
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "第一，在最重要的工作之前，不要处理其他任何事情。你首先专注的事情会占据大脑的最佳位置，而没有其他干扰。所以，把它留给你当天最想专注的首要任务。 第二，如果你不想工作，就盯着墙看1"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "。你首先专注的事情会占据大脑的最佳位置，而没有其他干扰。所以，把它留给你当天最想专注的首要任务。 第二，如果你不想工作，就盯着墙看10分钟。可能最多15分钟就够了。这和能量小睡差不多，都是脑部重启的小技巧"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "能延迟非必要的输入。越能长时间不让这些额外信息涌入，占用你的注意力带宽，你就越能专注投入于之前的一切。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "最重要的事情，这样可以减少其他事情的干扰，每一次睡觉都相当于一次重启。建议每此只专注于一件事情。 2.盯墙（实际上是指什么都不做，保持一个无聊的状态坚持一段时间，类似冥想），和睡觉类似，也是一个重启过程，"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "每天都有固定额度的带宽，每天做的各种工作和信息的输入会影响带宽，你剩余的带宽越多专注力就越强。在做重要事情之前不要做其他事，每次只做一件事。盯墙10分钟、小盹可以重置带宽。减少不重要的信息输入，比如各种社"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "，能看好久，这算一种锻炼吗，我只知道那时候我不管学习还是做别的事，都是全身心投入专注"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "脑会通过迷走神经释放乙酰胆碱，强制降低心率，乙酰胆碱是个好东西，它能提高你大脑的专注力，这玩意没这么困难，试着静下心来深呼吸就完事了，熟练了之后你闭不闭眼都无所谓，只要深呼吸个1-2分钟你的专注力都会提高"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "静下心来深呼吸就完事了，熟练了之后你闭不闭眼都无所谓，只要深呼吸个1-2分钟你的专注力都会提高的"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "本来没有耐心看完整个视频的，不知不觉看到最后了，感觉最近专注力确实挺差的，也经常分心做事情，昨天我都才和朋友边聊天边耍手机，一方面是当天本身有点劳累，所以跟他聊天是力不从心的，另一"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "身有点劳累，所以跟他聊天是力不从心的，另一方面可能也确实没有专心的跟他聊，加上我专注力一直都不太好。其实自己之前也试过，可能也属于冥想吧，放空个十多分钟，刚开始的两天感觉很棒，大脑说不出来的一种感觉，总而"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "断注意力，不得不去多线执行一些事情，可能这个也无法解决，最好的办法就是让自己持久专注的时间更高效吧，我还没试过盯着墙，一般都是放空，或许是一个好的方式"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "请问大脑呢？要尽量保持专注还是对想法没要求？"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "为基础的现代魔法系统的课程，学制几年我忘了，但是最初的时间就是这样的一整天进行的专注力训练和各种体式冥想。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": " “从神经科学的角度，有一种能力能让你一天工作下来都不会累，而且会让你灵感变多，专注力提升，但99%的现代人都缺乏锻炼这种能力，这个能力就叫。无聊。大多数人对无聊的耐受度非常低，等电梯，上厕所，哪怕只有3"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "感。你会发现你对于外部事物的感知度一下子变得清晰了。还有一个很关键的点就是，当你专注于学习或工作的时候，你的海马体会实时记录信息，但这些信息都是缓存，很容易就会被你忘掉。而当你在休息时选择无聊，你的海马体"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "多巴胺刺激，这个过程就会被打断，结果就是记忆写不进去，大脑也越来越乱。所以真正的专注力提升和精力管理不是来自于工作，而是来自于工作前后的间隙，能否抓住每一个无聊的窗口和无聊相处，用无聊好好的滋养你的大脑。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "这不就是冥想吗，只是专注的位置不一样。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "完全无法专注学习的我来试试。"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "：1. 核心方法：通过“盯墙”（无聊休息）和“禁止非必要屏幕”重置大脑，显著提升专注力，这是打破分心循环的关键。 2. 心理带宽概念：大脑的专注容量有限，每次输入（如刷手机、看邮件）都会消耗带宽，减少输入"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "”重置大脑，显著提升专注力，这是打破分心循环的关键。 2. 心理带宽概念：大脑的专注容量有限，每次输入（如刷手机、看邮件）都会消耗带宽，减少输入才能保留更多带宽用于深度工作。 3. 单一任务原则：不要同时"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "输入才能保留更多带宽用于深度工作。 3. 单一任务原则：不要同时做多件事，每次只专注一个任务，避免分心切换导致的效率下降。 4. 延迟非必要输入：尽可能推迟查看邮件、社交媒体等，保护大脑的“黄金时段”用于"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "排队、通勤等碎片时间；一次只做一件事。  2. 前两天很难熬，但适应后，他能连续专注数小时，还推进了拖延几个月的重要项目。  3. 中途只查了20分钟邮件和频道数据，相关念头却一整天留在脑中。他由此发现："
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "脑会通过迷走神经释放乙酰胆碱，强制降低心率，乙酰胆碱是个好东西，它能提高你大脑的专注力，这玩意没这么困难，试着静下心来深呼吸就完事了，熟练了之后你闭不闭眼都无所谓，只要深呼吸个1-2分钟你的专注力都会提高"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "静下心来深呼吸就完事了，熟练了之后你闭不闭眼都无所谓，只要深呼吸个1-2分钟你的专注力都会提高的"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "【内容总结】  本期视频是一位内容创作者分享的“盯墙”专注力训练实验。他为了完成一项重要项目，尝试了一种极端的专注方法：减少一切非必要屏幕使用，在休息时盯着墙壁发呆。视频记录了从"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "内容创作者分享的“盯墙”专注力训练实验。他为了完成一项重要项目，尝试了一种极端的专注方法：减少一切非必要屏幕使用，在休息时盯着墙壁发呆。视频记录了从第一天到第五天的体验变化，展示了这种看似荒谬的方法如何帮"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "视频记录了从第一天到第五天的体验变化，展示了这种看似荒谬的方法如何帮助他重新获得专注力，并深入解释了“心理带宽”（mental bandwidth）的概念。创作者强调，盯墙的意义不在于墙本身，而在于“什么"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "同时，视频也指出过度使用屏幕会持续占据心理带宽，即使停止使用也会留在潜意识中影响专注力。 【时间线】 - 00:28 - 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "注力。 【时间线】 - 00:28 - 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力的方式。他提到这源于他需要完成一项对全公司都很重要的困难项目。 - 01:54 -"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "- 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力的方式。他提到这源于他需要完成一项对全公司都很重要的困难项目。 - 01:54 - 介绍了瑞安·多尔蒂（Re-Endo"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "难项目。 - 01:54 - 介绍了瑞安·多尔蒂（Re-Endor-Us）的三条专注原则：无聊休息、占据间隙时间、一次只做一件事。这些原则帮助他利用多巴胺系统来提高生产力而非被手机支配。 - 03:13 "
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "【内容总结】  本期视频是一位内容创作者分享的“盯墙”专注力训练实验。他为了完成一项重要项目，尝试了一种极端的专注方法：减少一切非必要屏幕使用，在休息时盯着墙壁发呆。视频记录了从"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "内容创作者分享的“盯墙”专注力训练实验。他为了完成一项重要项目，尝试了一种极端的专注方法：减少一切非必要屏幕使用，在休息时盯着墙壁发呆。视频记录了从第一天到第五天的体验变化，展示了这种看似荒谬的方法如何帮"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "视频记录了从第一天到第五天的体验变化，展示了这种看似荒谬的方法如何帮助他重新获得专注力，并深入解释了“心理带宽”（mental bandwidth）的概念。创作者强调，盯墙的意义不在于墙本身，而在于“什么"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "同时，视频也指出过度使用屏幕会持续占据心理带宽，即使停止使用也会留在潜意识中影响专注力。 【时间线】 - 00:28 - 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "注力。 【时间线】 - 00:28 - 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力的方式。他提到这源于他需要完成一项对全公司都很重要的困难项目。 - 01:54 -"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "- 创作者介绍这是他花了一周时间总结出的简单专注协议，目的是教观众一种全新的思考专注力的方式。他提到这源于他需要完成一项对全公司都很重要的困难项目。 - 01:54 - 介绍了瑞安·多尔蒂（Re-Endo"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "难项目。 - 01:54 - 介绍了瑞安·多尔蒂（Re-Endor-Us）的三条专注原则：无聊休息、占据间隙时间、一次只做一件事。这些原则帮助他利用多巴胺系统来提高生产力而非被手机支配。 - 03:13 "
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "倍速或者三倍速看的，深陷这个视频，我也不知道，这个视频本身没什么足够长的事件让我专注，但是就是整个看进去了，去YouTube关注一手"
+  },
+  {
+   "kw": "专注",
+   "bv": "新抓视频明细",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\新抓视频明细.json",
+   "ctx": "都不用搞那么复杂 像我们这种以写ppt为生的人 盯着空白ppt半小时比什么都锻炼专注"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "我们来做祈祷拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "你会在中背部感到良好拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "这样我在做时能明显感受到中背部的拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "这就是祈祷拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "感受中背部的拉伸位置"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "现在这个拉伸和箱式拉伸很像"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "现在这个拉伸和箱式拉伸很像"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "宽背拉伸有什么不同"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "拉伸时要保持外旋"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "而在箱式拉伸时"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "就能同时拉伸斜方肌"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "最后一个拉伸在这里"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "我明显感受到手臂外侧的拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "而在胸椎拉伸时"
+  },
+  {
+   "kw": "拉伸感",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "这样能改变拉伸感受"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "这样能改变拉伸感受"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "主要拉伸中背部"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "这就是箱式拉伸"
+  },
+  {
+   "kw": "拉伸",
+   "bv": "BV11DHhzNEBV",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\字幕\\字幕-BV11DHhzNEBV.json",
+   "ctx": "你会在中背部感到轻微拉伸"
+  },
+  {
+   "kw": "张力",
+   "bv": "搜索清单",
+   "src": "D:\\11.project\\iwen-codex\\codex-list\\training-tracker-docker\\docs\\健身日常进步与TOC调研\\健身日常进步+TOC瓶颈-B站原始数据\\晨脉G\\搜索清单.json",
+   "ctx": "瞄准教练带你重新认识张力控制"
+  }
+ ]
+}

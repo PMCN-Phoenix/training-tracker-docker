@@ -1,0 +1,385 @@
+{
+ "title": "NSCA CPT CSCS 肌梭和高尔基腱器 详解 认证考试 备考知识点",
+ "owner": "毛线球爱健身",
+ "duration": 153,
+ "body": [
+  {
+   "from": 0.7,
+   "to": 0.88,
+   "sid": 1,
+   "location": 2,
+   "content": "hello"
+  },
+  {
+   "from": 0.88,
+   "to": 1.12,
+   "sid": 2,
+   "location": 2,
+   "content": "大家好"
+  },
+  {
+   "from": 1.12,
+   "to": 2.16,
+   "sid": 3,
+   "location": 2,
+   "content": "我是david"
+  },
+  {
+   "from": 2.16,
+   "to": 6.69,
+   "sid": 4,
+   "location": 2,
+   "content": "今天呢给大家讲一下nsc认证考试里面经常出现的"
+  },
+  {
+   "from": 6.69,
+   "to": 8.88,
+   "sid": 5,
+   "location": 2,
+   "content": "并且非常容易搞混的两样东西"
+  },
+  {
+   "from": 8.88,
+   "to": 11.4,
+   "sid": 6,
+   "location": 2,
+   "content": "那就是寄宿与高尔基建器"
+  },
+  {
+   "from": 11.52,
+   "to": 13.46,
+   "sid": 7,
+   "location": 2,
+   "content": "让我们花几分钟搞定它"
+  },
+  {
+   "from": 18.22,
+   "to": 19.04,
+   "sid": 8,
+   "location": 2,
+   "content": "我"
+  },
+  {
+   "from": 23.9,
+   "to": 25.18,
+   "sid": 9,
+   "location": 2,
+   "content": "首先说明一下"
+  },
+  {
+   "from": 25.18,
+   "to": 28.45,
+   "sid": 10,
+   "location": 2,
+   "content": "基缩和高尔基电器都属于本体感受器"
+  },
+  {
+   "from": 28.45,
+   "to": 32.159,
+   "sid": 11,
+   "location": 2,
+   "content": "本体感受器对人体而言相当于一个哨兵的角色"
+  },
+  {
+   "from": 32.2,
+   "to": 34.78,
+   "sid": 12,
+   "location": 2,
+   "content": "他们对压力和张力敏感"
+  },
+  {
+   "from": 34.78,
+   "to": 40.5,
+   "sid": 13,
+   "location": 2,
+   "content": "为中枢神经系统提供维持肌肉张力和执行复杂协调运动所需的信息"
+  },
+  {
+   "from": 40.64,
+   "to": 42.26,
+   "sid": 14,
+   "location": 2,
+   "content": "那为了方便大家理解呢"
+  },
+  {
+   "from": 42.26,
+   "to": 44.33,
+   "sid": 15,
+   "location": 2,
+   "content": "我们把两样东西对比着讲"
+  },
+  {
+   "from": 44.33,
+   "to": 46.48,
+   "sid": 16,
+   "location": 2,
+   "content": "第一点不同是它们的位置"
+  },
+  {
+   "from": 46.68,
+   "to": 48.84,
+   "sid": 17,
+   "location": 2,
+   "content": "肌酸是肌纤维的变体"
+  },
+  {
+   "from": 48.84,
+   "to": 50.86,
+   "sid": 18,
+   "location": 2,
+   "content": "是跟肌纤维平行排列的"
+  },
+  {
+   "from": 51.1,
+   "to": 53.92,
+   "sid": 19,
+   "location": 2,
+   "content": "而高尔基腱器的位置是在肌腱上"
+  },
+  {
+   "from": 53.92,
+   "to": 56.46,
+   "sid": 20,
+   "location": 2,
+   "content": "靠近肌肉与肌腱的连接处"
+  },
+  {
+   "from": 57.02,
+   "to": 59.84,
+   "sid": 21,
+   "location": 2,
+   "content": "第二点不同呢是他们感受的东西不同"
+  },
+  {
+   "from": 60.12,
+   "to": 63.6,
+   "sid": 22,
+   "location": 2,
+   "content": "肌缩感受的是肌肉的拉伸和拉伸的速度"
+  },
+  {
+   "from": 63.6,
+   "to": 66.74,
+   "sid": 23,
+   "location": 2,
+   "content": "也就是说感受的是肌纤维的形变"
+  },
+  {
+   "from": 67.04,
+   "to": 70.73,
+   "sid": 24,
+   "location": 2,
+   "content": "而高尔基建器感受的是基建承受的张力"
+  },
+  {
+   "from": 70.73,
+   "to": 73.32,
+   "sid": 25,
+   "location": 2,
+   "content": "也就是说感受的是力的大小"
+  },
+  {
+   "from": 74.1,
+   "to": 76.88,
+   "sid": 26,
+   "location": 2,
+   "content": "第三点不同是它们触发的肌肉反应"
+  },
+  {
+   "from": 77.08,
+   "to": 79.3,
+   "sid": 27,
+   "location": 2,
+   "content": "肌缩是感受到肌肉被拉伸"
+  },
+  {
+   "from": 79.3,
+   "to": 81.19,
+   "sid": 28,
+   "location": 2,
+   "content": "尤其是那种快速的拉伸"
+  },
+  {
+   "from": 81.19,
+   "to": 83.77,
+   "sid": 29,
+   "location": 2,
+   "content": "触发的反应呢是主动肌的收缩"
+  },
+  {
+   "from": 83.77,
+   "to": 86.54,
+   "sid": 30,
+   "location": 2,
+   "content": "也就是被拉伸的肌肉产生收缩"
+  },
+  {
+   "from": 86.7,
+   "to": 89.4,
+   "sid": 31,
+   "location": 2,
+   "content": "同时对应的拮抗肌放松"
+  },
+  {
+   "from": 89.4,
+   "to": 91.5,
+   "sid": 32,
+   "location": 2,
+   "content": "减少对收缩的抵抗"
+  },
+  {
+   "from": 92.02,
+   "to": 95.05,
+   "sid": 33,
+   "location": 2,
+   "content": "而高尔基电器感受呢是基建的张力"
+  },
+  {
+   "from": 95.05,
+   "to": 96.52,
+   "sid": 34,
+   "location": 2,
+   "content": "当其过大的时候"
+  },
+  {
+   "from": 96.52,
+   "to": 99.1,
+   "sid": 35,
+   "location": 2,
+   "content": "触发的反应是抑制主动机的激活"
+  },
+  {
+   "from": 99.1,
+   "to": 100.6,
+   "sid": 36,
+   "location": 2,
+   "content": "从而使其放松"
+  },
+  {
+   "from": 100.66,
+   "to": 104.14,
+   "sid": 37,
+   "location": 2,
+   "content": "防止肌肉产生过多张力而导致损伤"
+  },
+  {
+   "from": 104.38,
+   "to": 105.7,
+   "sid": 38,
+   "location": 2,
+   "content": "从底层来看呢"
+  },
+  {
+   "from": 105.7,
+   "to": 109.44,
+   "sid": 39,
+   "location": 2,
+   "content": "肌缩和高尔基进器都属于保护类的本体感受器"
+  },
+  {
+   "from": 109.5,
+   "to": 114.0,
+   "sid": 40,
+   "location": 2,
+   "content": "肌缩主要是防止肌肉被突然或过度的拉伸导致损伤"
+  },
+  {
+   "from": 114.0,
+   "to": 118.14,
+   "sid": 41,
+   "location": 2,
+   "content": "而高尔基电器呢是防止肌肉发力过大而导致的损伤"
+  },
+  {
+   "from": 118.46,
+   "to": 120.62,
+   "sid": 42,
+   "location": 2,
+   "content": "激素的反应更为迅速一些"
+  },
+  {
+   "from": 120.62,
+   "to": 122.93,
+   "sid": 43,
+   "location": 2,
+   "content": "而高二时期的反应则需要一定的时间"
+  },
+  {
+   "from": 122.93,
+   "to": 124.82,
+   "sid": 44,
+   "location": 2,
+   "content": "一般来讲是六秒左右"
+  },
+  {
+   "from": 125.28,
+   "to": 128.4,
+   "sid": 45,
+   "location": 2,
+   "content": "所以你肯定看到过一些因为负荷过大"
+  },
+  {
+   "from": 128.4,
+   "to": 130.6,
+   "sid": 46,
+   "location": 2,
+   "content": "但是却坚持做动作的小伙伴"
+  },
+  {
+   "from": 130.6,
+   "to": 134.41,
+   "sid": 47,
+   "location": 2,
+   "content": "最后导致肱二头肌或胸肌等等被拉断了的情况"
+  },
+  {
+   "from": 134.41,
+   "to": 137.0,
+   "sid": 48,
+   "location": 2,
+   "content": "真心吓死人好了"
+  },
+  {
+   "from": 137.0,
+   "to": 138.68,
+   "sid": 49,
+   "location": 2,
+   "content": "关于g缩和高尔基电器"
+  },
+  {
+   "from": 138.68,
+   "to": 140.09,
+   "sid": 50,
+   "location": 2,
+   "content": "相信大家都已经了解了"
+  },
+  {
+   "from": 140.09,
+   "to": 141.26,
+   "sid": 51,
+   "location": 2,
+   "content": "记得点赞关注"
+  },
+  {
+   "from": 141.26,
+   "to": 145.22,
+   "sid": 52,
+   "location": 2,
+   "content": "我会更新更多的关于s c a认证考试的知识点给大家"
+  },
+  {
+   "from": 145.24,
+   "to": 145.96,
+   "sid": 53,
+   "location": 2,
+   "content": "下期见喽"
+  },
+  {
+   "from": 145.96,
+   "to": 146.58,
+   "sid": 54,
+   "location": 2,
+   "content": "拜拜各位"
+  }
+ ]
+}
