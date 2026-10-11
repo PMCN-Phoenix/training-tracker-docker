@@ -150,6 +150,18 @@ async def get_pr_tests(
         return ApiResponse(code=500, message=str(e))
 
 
+# ==================== 训练日历接口 ====================
+
+@app.get("/api/training/calendar", response_model=ApiResponse)
+async def get_training_calendar(days: int = Query(365, ge=1, le=3650)):
+    """训练日历：有训练的日期 + 有 PR 测试的日期（日历打点数据源）"""
+    try:
+        data = tq.get_training_calendar(days)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
 # ==================== 按日全貌接口 ====================
 
 @app.get("/api/day/{date}", response_model=ApiResponse)
@@ -172,7 +184,7 @@ async def health_check():
 # ==================== 生产模式：前端静态文件服务 ====================
 
 frontend_dist = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))),
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
     "frontend", "dist"
 )
 

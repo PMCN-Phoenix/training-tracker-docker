@@ -25,3 +25,15 @@ nodered_data/node_modules/
 bilibili-cookie.txt
 *.cookie
 *.cookies
+
+# 前端依赖与验证临时产物
+**/node_modules/
+_verify/edge-profile-*/
+_verify/m3_e2e_out*.txt
+_verify/m3_edge_err*.txt
+_verify/m3_dom_*.txt
+_verify/m3_debug_out.txt
+_verify/m3_integ_out.txt
+_verify/m3_build_out.txt
+_verify/m3_shape_out.txt
+_verify/m3_unit_out.txt

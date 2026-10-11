@@ -69,7 +69,7 @@ from(bucket: "{db.bucket}")
   |> filter(fn: (r) => {_ex_measurement_filter()})
   |> filter(fn: (r) => r.exercise == "{exercise}")
   |> pivot(rowKey: ["_time"], columnKey: ["_field"], valueColumn: "_value")
-  |> keep(columns: ["_time", "session_id", "direction", "set_index", "weight_kg", "reps"])
+  |> keep(columns: ["_time", "session_id", "direction", "exercise", "set_index", "weight_kg", "reps"])
   |> sort(columns: ["_time"])
 '''
     rows = db.query(flux)
@@ -86,6 +86,7 @@ from(bucket: "{db.bucket}")
                 "session_id": sid,
                 "date": _date_from_utc(row.get("_time", "")),
                 "direction": row.get("direction", ""),
+                "exercise": exercise,
                 "time": row.get("_time", ""),
                 "sets": [],
             }
@@ -178,6 +179,34 @@ from(bucket: "{db.bucket}")
     # 动作按方向+名称排序
     items.sort(key=lambda x: (x["direction"], x["exercise"]))
     return {"exercises": items}
+
+
+def get_training_calendar(days: int = 365) -> Dict[str, Any]:
+    """训练日历：有训练的日期集合 + 有 PR 测试的日期集合（按天去重，升序）"""
+    def _dates_for(flux: str) -> List[str]:
+        seen = set()
+        for row in db.query(flux):
+            d = _date_from_utc(row.get("_time", ""))
+            if d:
+                seen.add(d)
+        return sorted(seen)
+
+    train_flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -{days}d)
+  |> filter(fn: (r) => {_ex_measurement_filter()})
+  |> keep(columns: ["_time"])
+'''
+    pr_flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -{days}d)
+  |> filter(fn: (r) => r._measurement == "ppl_pr_test")
+  |> keep(columns: ["_time"])
+'''
+    return {
+        "training_dates": _dates_for(train_flux),
+        "pr_dates": _dates_for(pr_flux),
+    }
 
 
 def get_day_all(date: str) -> Dict[str, Any]:
