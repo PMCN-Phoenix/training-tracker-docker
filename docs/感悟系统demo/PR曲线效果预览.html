@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PR 曲线 · 多系列对比效果预览</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#151c26; --panel2:#1a2230; --line:#232e3d;
+    --text:#e6edf3; --sub:#9aa7b8; --dim:#5f6c7e;
+    --amber:#e8a23d; --blue:#58a6ff; --red:#f85149; --green:#3fb950;
+    --mono:ui-monospace,"SF Mono",Consolas,"Cascadia Mono",monospace;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{background:var(--bg);color:var(--text);font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;font-size:14px;padding:28px 22px;max-width:760px;margin:0 auto;}
+  h1{font-size:18px;font-weight:700;display:flex;align-items:center;gap:10px;}
+  h1 .tag{font-size:11px;font-weight:400;color:var(--amber);border:1px solid #4a3a1c;background:#2a2215;border-radius:5px;padding:2px 8px;}
+  .sub{color:var(--dim);font-size:12.5px;margin-top:6px;line-height:1.7;}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:18px;}
+  /* 控件 */
+  .ctrl{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:6px;}
+  .ctrl .mode{display:flex;gap:16px;font-size:12.5px;color:var(--sub);}
+  .ctrl .mode label{cursor:pointer;display:flex;align-items:center;gap:5px;}
+  .ctrl .mode input{accent-color:var(--amber);}
+  .ctrl .pair{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--sub);}
+  .ctrl select{background:#0f141c;border:1px solid var(--line);color:var(--text);border-radius:6px;padding:4px 8px;font-size:12.5px;font-family:inherit;}
+  .ctrl select:disabled{opacity:.4;}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:10px;font-size:12px;color:var(--sub);}
+  .legend .lg{display:flex;align-items:center;gap:6px;}
+  .legend .sw{width:14px;height:3px;border-radius:2px;}
+  .legend .pt{width:8px;height:8px;border-radius:50%;}
+  .axis-note{display:flex;justify-content:space-between;font-size:11.5px;color:var(--dim);margin-top:4px;font-family:var(--mono);}
+  /* 图区 */
+  .chart-wrap{position:relative;}
+  svg{width:100%;display:block;}
+  .tip{position:absolute;pointer-events:none;background:#1c2633;border:1px solid #33415a;border-radius:8px;padding:8px 11px;font-size:12px;color:var(--text);box-shadow:0 8px 24px rgba(0,0,0,.45);display:none;white-space:nowrap;z-index:5;}
+  .tip b{color:var(--amber);}
+  .tip .t-date{color:var(--sub);font-size:11px;}
+  /* 数据说明 */
+  .note{font-size:11.5px;color:var(--dim);margin-top:14px;line-height:1.7;border-top:1px solid var(--line);padding-top:10px;}
+  .note b{color:var(--sub);}
+</style>
+</head>
+<body>
+
+<h1>PR 曲线 · 多系列对比 <span class="tag">效果预览</span></h1>
+<div class="sub">每次 PR 测试 = 一条曲线（重量 → 次数）。默认全部对比；切「两两」选两次测试对比，直接看到进步。</div>
+
+<div class="card">
+  <div class="ctrl">
+    <div class="mode">
+      <label><input type="radio" name="mode" value="all" checked> 全部对比</label>
+      <label><input type="radio" name="mode" value="pair"> 两两对比</label>
+    </div>
+    <div class="pair">
+      第 <select id="selA" disabled></select> 次 vs 第 <select id="selB" disabled></select> 次
+    </div>
+  </div>
+
+  <div class="chart-wrap" id="wrap">
+    <svg id="chart" viewBox="0 0 700 340" preserveAspectRatio="xMidYMid meet"></svg>
+    <div class="tip" id="tip"></div>
+  </div>
+
+  <div class="legend" id="legend"></div>
+  <div class="axis-note"><span>横轴：重量（kg）</span><span>纵轴：最多次数（次）</span></div>
+
+  <div class="note">
+    <b>数据</b>：第 1 次（10-09）与第 2 次（10-10）为你真实 PR 记录；第 3 次（10-17）为<b>示例推断</b>，用来演示两条以上曲线的对比效果。<br>
+    <b>训练档标记</b>：▼ 47.5kg = 你当前平板卧推处方重量，对比训练重量与 PR 极限的差距。
+  </div>
+</div>
+
+<script>
+var TESTS = [
+  { no:1, date:'10-09', color:'#58a6ff', points:[[40,15],[45,12],[50,11]] },
+  { no:2, date:'10-10', color:'#e8a23d', points:[[50,11],[55,6],[60,3]] },
+  { no:3, date:'10-17(示例)', color:'#f85149', points:[[50,12],[55,8],[60,5],[65,2]] }
+];
+var TRAIN_W = 47.5;
+
+var W = 700, H = 340, ML = 46, MR = 16, MT = 14, MB = 34;
+var XMIN = 35, XMAX = 65, YMIN = 0, YMAX = 18;
+function sx(w){ return ML + (w - XMIN) / (XMAX - XMIN) * (W - ML - MR); }
+function sy(n){ return H - MB - (n - YMIN) / (YMAX - YMIN) * (H - MT - MB); }
+
+function render(){
+  var mode = document.querySelector('input[name=mode]:checked').value;
+  var selA = document.getElementById('selA'), selB = document.getElementById('selB');
+  var show = {};
+  if (mode === 'all'){ TESTS.forEach(function(t){ show[t.no] = true; }); }
+  else {
+    var a = parseInt(selA.value,10), b = parseInt(selB.value,10);
+    show[a] = true; show[b] = true;
+  }
+
+  var svg = document.getElementById('chart');
+  var html = '';
+
+  /* 网格 */
+  for (var g=0; g<=6; g++){
+    var w = XMIN + g*(XMAX-XMIN)/6;
+    html += '<line x1="'+sx(w)+'" y1="'+sy(YMIN)+'" x2="'+sx(w)+'" y2="'+sy(YMAX)+'" stroke="#1c2531" stroke-width="1"/>';
+  }
+  for (var n=0; n<=YMAX; n+=3){
+    html += '<line x1="'+sx(XMIN)+'" y1="'+sy(n)+'" x2="'+sx(XMAX)+'" y2="'+sy(n)+'" stroke="#1c2531" stroke-width="1"/>';
+  }
+  /* 轴刻度 */
+  html += '<g fill="#5f6c7e" font-size="11" font-family="ui-monospace,Consolas,monospace">';
+  for (var t=0; t<=6; t++){
+    var w2 = XMIN + t*(XMAX-XMIN)/6;
+    html += '<text x="'+sx(w2)+'" y="'+(H-MB+16)+'" text-anchor="middle">'+w2+'</text>';
+  }
+  for (var n2=0; n2<=YMAX; n2+=3){
+    html += '<text x="'+(ML-8)+'" y="'+(sy(n2)+4)+'" text-anchor="end">'+n2+'</text>';
+  }
+  html += '</g>';
+  /* 轴 */
+  html += '<line x1="'+sx(XMIN)+'" y1="'+sy(YMIN)+'" x2="'+sx(XMAX)+'" y2="'+sy(YMIN)+'" stroke="#33415a" stroke-width="1"/>';
+  html += '<line x1="'+sx(XMIN)+'" y1="'+sy(YMIN)+'" x2="'+sx(XMIN)+'" y2="'+sy(YMAX)+'" stroke="#33415a" stroke-width="1"/>';
+
+  /* 训练档标记 */
+  var tx = sx(TRAIN_W);
+  html += '<line x1="'+tx+'" y1="'+sy(YMIN)+'" x2="'+tx+'" y2="'+sy(YMAX)+'" stroke="#3fb950" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>';
+  html += '<text x="'+tx+'" y="'+sy(YMIN)+13+'" text-anchor="middle" font-size="12" fill="#3fb950">▼ 47.5</text>';
+
+  /* 曲线 */
+  var series = [];
+  TESTS.forEach(function(t){
+    if (!show[t.no]) return;
+    var pts = t.points;
+    var d = '';
+    pts.forEach(function(p, i){
+      var x = sx(p[0]), y = sy(p[1]);
+      d += (i===0 ? 'M' : 'L') + x + ',' + y + ' ';
+    });
+    series.push({ t:t, d:d, pts:pts });
+    html += '<path d="'+d+'" fill="none" stroke="'+t.color+'" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>';
+  });
+  /* 数据点（后画，置顶） */
+  series.forEach(function(s){
+    s.pts.forEach(function(p){
+      var x = sx(p[0]), y = sy(p[1]);
+      html += '<circle class="dot" cx="'+x+'" cy="'+y+'" r="5" fill="'+s.t.color+'" stroke="#0d1117" stroke-width="2" data-no="'+s.t.no+'" data-w="'+p[0]+'" data-n="'+p[1]+'" data-date="'+s.t.date+'" style="cursor:pointer"/>';
+    });
+  });
+
+  svg.innerHTML = html;
+
+  /* 图例 */
+  var lg = document.getElementById('legend');
+  lg.innerHTML = TESTS.filter(function(t){ return show[t.no]; }).map(function(t){
+    return '<span class="lg"><span class="sw" style="background:'+t.color+'"></span>第'+t.no+'次（'+t.date+'）</span>';
+  }).join('');
+
+  /* hover */
+  var wrap = document.getElementById('wrap');
+  var tip = document.getElementById('tip');
+  svg.querySelectorAll('.dot').forEach(function(c){
+    c.addEventListener('mouseenter', function(ev){
+      var no = c.getAttribute('data-no'), w = c.getAttribute('data-w'), n = c.getAttribute('data-n'), date = c.getAttribute('data-date');
+      tip.innerHTML = '第'+no+'次（'+date+'）<br><b>'+w+'kg · '+n+' 次</b>';
+      tip.style.display = 'block';
+      var cx = parseFloat(c.getAttribute('cx')), cy = parseFloat(c.getAttribute('cy'));
+      var rect = wrap.getBoundingClientRect();
+      var px = cx / 700 * rect.width, py = cy / 340 * rect.height;
+      var tx2 = px + 14, ty = py - 10;
+      if (tx2 + 130 > rect.width) tx2 = px - 130;
+      tip.style.left = tx2 + 'px'; tip.style.top = ty + 'px';
+    });
+    c.addEventListener('mouseleave', function(){ tip.style.display = 'none'; });
+  });
+}
+
+/* 初始化下拉 */
+(function(){
+  var a = document.getElementById('selA'), b = document.getElementById('selB');
+  var opts = TESTS.map(function(t){ return '<option value="'+t.no+'">'+t.no+'（'+t.date+'）</option>'; }).join('');
+  a.innerHTML = opts; b.innerHTML = opts;
+  a.value = 1; b.value = TESTS.length;
+})();
+
+document.querySelectorAll('input[name=mode]').forEach(function(r){
+  r.addEventListener('change', function(){
+    var pair = document.querySelector('input[name=mode]:checked').value === 'pair';
+    document.getElementById('selA').disabled = !pair;
+    document.getElementById('selB').disabled = !pair;
+    render();
+  });
+});
+document.getElementById('selA').addEventListener('change', render);
+document.getElementById('selB').addEventListener('change', render);
+
+render();
+</script>
+</body>
+</html>
