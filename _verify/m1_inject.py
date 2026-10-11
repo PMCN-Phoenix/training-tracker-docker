@@ -7,6 +7,14 @@ import json, sys, shutil, os
 
 path = sys.argv[1]
 bak = path + ".bak"
+
+# 幂等保护：已注入则跳过（防止重复注入）
+with open(path, encoding="utf-8") as f:
+    _check = f.read()
+if "ppl_reflection" in _check:
+    print("SKIP: flows.json 已包含 ppl_reflection，无需重复注入")
+    sys.exit(0)
+
 shutil.copyfile(path, bak)
 
 with open(path, encoding="utf-8") as f:
