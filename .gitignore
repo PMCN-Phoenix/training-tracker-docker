@@ -37,3 +37,6 @@ _verify/m3_integ_out.txt
 _verify/m3_build_out.txt
 _verify/m3_shape_out.txt
 _verify/m3_unit_out.txt
+_verify/m4_*_out*.txt
+_verify/m4_debug_enc.py
+_verify/m4_direct.txt

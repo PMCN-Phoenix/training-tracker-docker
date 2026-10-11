@@ -25,7 +25,7 @@ export default function ReflectionForm() {
     if (!formOpen) return
     const editing = formEditId ? normalizeReflections(refData).find((r) => r.id === formEditId) : null
     setExercise(editing ? editing.exercise || '' : formPrefill?.exercise || (formPrefill?.day ? '' : ''))
-    setSetRaw(editing ? (editing.setIndex || '') : (formPrefill?.setIndex || ''))
+    setSetRaw(String(editing ? (editing.setIndex ?? '') : (formPrefill?.setIndex ?? '')))
     setDate(editing ? editing.date : formPrefill?.date || today)
     setContent(editing ? editing.content : '')
     setTagsRaw(editing ? (editing.tags || []).join(',') : '')

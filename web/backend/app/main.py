@@ -13,6 +13,7 @@ from app.repositories import training_queries as tq
 from app.models.ppl_reflection import (
     PplReflectionCreate, PplReflectionUpdate
 )
+from app.services import reflection_markdown
 
 app = FastAPI(title="训练感悟系统 API", version="0.1.0")
 
@@ -67,7 +68,7 @@ async def get_reflection_stats():
 
 @app.post("/api/reflections", response_model=ApiResponse)
 async def create_reflection(reflection: PplReflectionCreate):
-    """新建感悟"""
+    """新建感悟（自动同步当日 Markdown）"""
     try:
         data = ref_repo.create_ppl_reflection(
             content=reflection.content,
@@ -80,6 +81,20 @@ async def create_reflection(reflection: PplReflectionCreate):
             title=reflection.title,
             tags=reflection.tags,
         )
+        if data and reflection.date:
+            # 补全字段后同步 Markdown（repo 返回仅 id/created_at）
+            data.update({
+                "date": reflection.date,
+                "content": reflection.content,
+                "direction": reflection.direction,
+                "exercise": reflection.exercise,
+                "set_index": reflection.set_index,
+                "session_id": reflection.session_id,
+                "source": reflection.source,
+                "title": reflection.title,
+                "tags": reflection.tags,
+            })
+            reflection_markdown.sync_reflection_to_markdown(data)
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
@@ -99,10 +114,20 @@ async def get_reflection(ref_id: str):
 
 @app.put("/api/reflections/{ref_id}", response_model=ApiResponse)
 async def update_reflection(ref_id: str, reflection: PplReflectionUpdate):
-    """更新感悟（删除+重写，保留 id）"""
+    """更新感悟（删除+重写保留 id；自动同步 Markdown）"""
     try:
+        old = ref_repo.get_ppl_reflection_by_id(ref_id) or {}
         updates = reflection.dict(exclude_unset=True)
         data = ref_repo.update_ppl_reflection(ref_id, updates)
+        # Markdown 同步：合并 old+updates 拿完整字段；旧日期移除，新日期写入
+        merged = {**old, **updates}
+        old_date = old.get("date", "")
+        new_date = merged.get("date", "")
+        if old_date and old_date != new_date:
+            reflection_markdown.delete_reflection_from_markdown(old_date, ref_id)
+        if new_date:
+            merged["id"] = ref_id
+            reflection_markdown.sync_reflection_to_markdown(merged)
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
@@ -110,10 +135,28 @@ async def update_reflection(ref_id: str, reflection: PplReflectionUpdate):
 
 @app.delete("/api/reflections/{ref_id}", response_model=ApiResponse)
 async def delete_reflection(ref_id: str):
-    """删除感悟"""
+    """删除感悟（自动同步 Markdown）"""
     try:
+        old = ref_repo.get_ppl_reflection_by_id(ref_id)
         data = ref_repo.delete_ppl_reflection(ref_id)
+        if old and old.get("date"):
+            reflection_markdown.delete_reflection_from_markdown(old["date"], ref_id)
         return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/reflections/markdown/{date}", response_model=ApiResponse)
+async def get_reflection_markdown(date: str):
+    """读：返回指定日期的 Markdown 原文（按日 md 双向同步的读路径）"""
+    try:
+        path = reflection_markdown.get_markdown_path(date)
+        if not os.path.exists(path):
+            return ApiResponse(code=0, data={"date": date, "markdown": "", "count": 0})
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read()
+        parsed = reflection_markdown.parse_markdown_reflections(content)
+        return ApiResponse(code=0, data={"date": date, "markdown": content, "count": len(parsed), "reflections": parsed})
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
 
