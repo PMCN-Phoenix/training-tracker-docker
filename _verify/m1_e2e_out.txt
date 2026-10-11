@@ -1,0 +1,26 @@
+﻿== 1) POST 4 条消息 ==
+  [200] 平板卧推 第2组 感悟：肩胛锁死更稳 -> 已记录 1 条感悟（平板卧推·第2组）
+  [200] 推日 感悟：整体状态一般 -> 已记录 1 条感悟
+  [200] 平板卧推 47.5kg×8 第1组 感悟：这组最顺 -> 已记录 1 个动作 1 组，1 条感悟（平板卧推·第1组）
+  [200] 杠铃深蹲 100kg×5 3组 -> 已记录 1 个动作 1 组
+== 2) 查询 ppl_reflection（窗口 10-11 全天）==
+  PASS 感悟总数=3
+  PASS 组级感悟存在(date/exercise/set_index)
+  PASS 组级-content字段
+  PASS 组级-id
+  PASS 组级-direction
+  PASS 日级感悟存在(无exercise)
+  PASS 日级-direction=push
+  PASS 混录感悟存在(set_index=1)
+  PASS 混录-有session_id
+== 3) 混录训练数据也写入 ==
+  PASS 混录-平板卧推组写入
+== 4) 纯训练消息无感悟写入（对照）==
+  PASS 纯训练不新增感悟(仍=3)
+== 5) 清理测试数据（窄窗口 10-11 全天，仅本次测试 measurement）==
+  delete ppl_reflection -> 204
+  delete ppl_push_bench_flat -> 204
+  delete ppl_squat_back_squat -> 204
+  PASS 清理后感悟=0
+
+M1 端到端: 12 PASS / 0 FAIL
