@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>训练感悟系统 · 新版完整 Demo（v1.0 设计）</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#151c26; --panel2:#1a2230; --line:#232e3d;
+    --text:#e6edf3; --sub:#9aa7b8; --dim:#5f6c7e;
+    --amber:#e8a23d; --amber-bg:#2a2215; --amber-line:#4a3a1c;
+    --gold-hi:#f0b429; --gold-mid:#c9a24b; --gold-lo:#8f7a3d;
+    --blue:#58a6ff; --green:#3fb950; --red:#f85149;
+    --mono:ui-monospace,"SF Mono",Consolas,"Cascadia Mono",monospace;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html,body{height:100%;}
+  body{background:var(--bg);color:var(--text);font-family:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;font-size:14px;}
+  button{font-family:inherit;cursor:pointer;}
+  /* ===== 顶栏 ===== */
+  .top{display:flex;align-items:center;gap:16px;padding:12px 20px;border-bottom:1px solid var(--line);background:linear-gradient(180deg,#141a23,#10151d);flex-wrap:wrap;}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .brand .logo{width:28px;height:28px;border-radius:7px;background:radial-gradient(circle at 30% 30%,#e8a23d,#7a5a1c);display:flex;align-items:center;justify-content:center;}
+  .brand h1{font-size:15.5px;font-weight:700;}
+  .brand small{display:block;color:var(--dim);font-size:10.5px;font-weight:400;margin-top:1px;}
+  .stats{display:flex;gap:20px;}
+  .stat b{font-family:var(--mono);font-size:19px;display:block;line-height:1;}
+  .stat span{color:var(--sub);font-size:10.5px;}
+  .stat b.g{color:var(--green);} .stat b.a{color:var(--amber);} .stat b.b{color:var(--blue);}
+  .top .sep{width:1px;height:26px;background:var(--line);}
+  .mode-sw{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;}
+  .mode-sw button{background:none;border:none;color:var(--sub);font-size:12px;padding:7px 14px;}
+  .mode-sw button.on{background:#1c2534;color:var(--text);border-bottom:2px solid var(--blue);}
+  .top .btn{background:var(--panel);border:1px solid var(--line);color:var(--sub);border-radius:7px;padding:7px 12px;font-size:12px;}
+  .top .btn:hover{color:var(--text);border-color:var(--sub);}
+  .top .btn.primary{background:var(--amber-bg);border-color:var(--amber-line);color:var(--amber);}
+  .top .btn.primary:hover{border-color:var(--amber);}
+  .top .right{margin-left:auto;display:flex;align-items:center;gap:10px;}
+  .daybar{display:flex;align-items:center;gap:10px;border-top:1px solid var(--line);background:#1b120b;padding:8px 20px;font-size:12.5px;color:var(--gold-mid);}
+  .daybar .dot{width:7px;height:7px;border-radius:50%;background:var(--gold-lo);flex-shrink:0;}
+  .daybar b{color:var(--gold-mid);font-weight:600;}
+  .daybar .more{margin-left:auto;color:var(--dim);font-size:11px;flex-shrink:0;}
+  .daybar button{background:none;border:1px dashed var(--gold-lo);color:var(--gold-mid);border-radius:6px;padding:3px 10px;font-size:11.5px;flex-shrink:0;}
+  .daybar button:hover{border-color:var(--gold-mid);color:var(--gold-hi);}
+  /* ===== 工作台 ===== */
+  .workbench{display:flex;height:calc(100vh - 132px);min-height:480px;}
+  .col-left{width:200px;flex-shrink:0;border-right:1px solid var(--line);background:var(--panel);overflow-y:auto;padding:12px 10px;}
+  .grp-label{font-size:11px;color:var(--dim);letter-spacing:1px;margin:12px 8px 6px;}
+  .act{display:flex;align-items:center;justify-content:space-between;padding:8px 10px;border-radius:7px;cursor:pointer;color:var(--sub);font-size:13px;border:1px solid transparent;transition:background .12s;}
+  .act:hover{background:var(--panel2);color:var(--text);}
+  .act.on{background:#1c2534;border-color:var(--blue);color:var(--text);}
+  .act .nm{display:flex;align-items:center;gap:6px;min-width:0;}
+  .act .cnt{font-family:var(--mono);font-size:11px;color:var(--dim);flex-shrink:0;}
+  .act.on .cnt{color:var(--blue);}
+  .pr-dot{width:6px;height:6px;border-radius:50%;background:var(--red);flex-shrink:0;display:none;box-shadow:0 0 4px rgba(248,113,113,.6);}
+  .act.pr-on .pr-dot{display:inline-block;}
+  /* PR hover 浮层 */
+  .prpop{position:absolute;z-index:40;background:#1c2633;border:1px solid #33415a;border-radius:10px;padding:10px 12px;width:210px;box-shadow:0 12px 32px rgba(0,0,0,.5);display:none;font-size:12px;}
+  .prpop .pp-title{font-weight:700;margin-bottom:7px;display:flex;justify-content:space-between;align-items:center;}
+  .prpop .pp-title span{font-size:10.5px;color:var(--dim);font-weight:400;}
+  .prpop .pp-row{display:flex;justify-content:space-between;font-family:var(--mono);padding:2.5px 0;color:var(--sub);}
+  .prpop .pp-row.best{color:var(--gold-hi);font-weight:700;}
+  .prpop .pp-view{margin-top:8px;text-align:right;}
+  .prpop .pp-view button{background:none;border:none;color:var(--blue);font-size:11.5px;}
+  .prpop .pp-view button:hover{text-decoration:underline;}
+  /* 日历（按日模式左栏） */
+  .cal{padding:6px;}
+  .cal-head{display:flex;justify-content:space-between;align-items:center;font-size:13px;font-weight:700;margin-bottom:10px;padding:0 4px;}
+  .cal-head button{background:none;border:none;color:var(--sub);font-size:14px;padding:2px 8px;}
+  .cal-head button:hover{color:var(--text);}
+  .cal-week{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center;color:var(--dim);font-size:10.5px;margin-bottom:4px;}
+  .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;}
+  .cal-day{aspect-ratio:1;border-radius:6px;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:var(--mono);font-size:11.5px;color:var(--sub);cursor:pointer;position:relative;background:transparent;border:1px solid transparent;}
+  .cal-day:hover{background:var(--panel2);}
+  .cal-day.sel{background:#1c2534;border-color:var(--blue);color:var(--text);}
+  .cal-day.today{box-shadow:inset 0 0 0 1px var(--blue);}
+  .cal-day.other{color:var(--dim);opacity:.45;}
+  .cal-dots{display:flex;gap:2px;position:absolute;bottom:3px;}
+  .cal-dots i{width:4px;height:4px;border-radius:50%;}
+  .cal-dots .t{background:var(--blue);} .cal-dots .r{background:var(--gold-mid);}
+  /* 中栏 */
+  .col-mid{flex:1;overflow-y:auto;padding:14px 16px;min-width:0;}
+  .mid-head{display:flex;align-items:baseline;gap:10px;margin-bottom:2px;flex-wrap:wrap;}
+  .mid-head h2{font-size:17px;}
+  .mid-head .dir{font-size:11px;color:var(--dim);border:1px solid var(--line);border-radius:4px;padding:2px 7px;}
+  .mid-head .gfl{font-size:10.5px;color:var(--blue);margin-left:auto;text-decoration:none;border:1px solid #2a3a52;border-radius:5px;padding:2px 8px;}
+  .mid-head .gfl:hover{border-color:var(--blue);}
+  .mini-chart{background:var(--panel);border:1px solid var(--line);border-radius:9px;padding:8px 12px 6px;margin:8px 0 10px;}
+  .mini-chart .mc-title{font-size:10.5px;color:var(--dim);margin-bottom:4px;}
+  .pr-card{background:var(--amber-bg);border:1px solid var(--amber-line);border-radius:9px;padding:10px 12px;margin-bottom:10px;}
+  .pr-card .pc-head{display:flex;justify-content:space-between;align-items:center;cursor:pointer;font-size:12px;color:var(--gold-mid);}
+  .pr-card .pc-head b{color:var(--gold-hi);}
+  .pr-card .pc-body{display:none;margin-top:8px;}
+  .pr-card.open .pc-body{display:block;}
+  .pr-card .pc-row{display:flex;justify-content:space-between;font-family:var(--mono);font-size:12.5px;padding:3px 0;color:#c9a568;}
+  .pr-card .pc-row.best{color:var(--gold-hi);font-weight:700;background:rgba(232,162,61,.1);border-radius:4px;padding:3px 6px;margin:0 -6px;}
+  .pr-card .pc-hist{text-align:right;margin-top:6px;border-top:1px dashed #4a3a1c;padding-top:6px;}
+  .pr-card .pc-hist button{background:none;border:none;color:var(--blue);font-size:11.5px;}
+  .exref{display:flex;gap:8px;align-items:flex-start;background:#221d12;border:1px solid #4a3f22;border-radius:8px;padding:10px 12px;margin-bottom:10px;cursor:pointer;}
+  .exref:hover{border-color:var(--gold-mid);}
+  .exref .ic{color:var(--gold-mid);flex-shrink:0;margin-top:1px;}
+  .exref .meta{color:var(--gold-lo);font-size:11px;margin-top:3px;}
+  .session{background:var(--panel);border:1px solid var(--line);border-radius:9px;margin-bottom:10px;overflow:hidden;}
+  .shead{display:flex;align-items:center;gap:10px;padding:8px 12px;border-bottom:1px solid var(--line);font-size:12px;color:var(--sub);}
+  .shead .date{color:var(--text);font-weight:600;font-family:var(--mono);}
+  .shead .pr{border:1px solid var(--red);color:var(--red);font-size:10px;border-radius:4px;padding:1px 6px;background:rgba(248,113,113,.08);}
+  .shead .n{color:var(--dim);font-family:var(--mono);font-size:10.5px;}
+  .set-row{display:flex;align-items:center;gap:12px;padding:9px 12px;border-bottom:1px dashed #1f2834;cursor:pointer;transition:background .12s;}
+  .set-row:last-child{border-bottom:none;}
+  .set-row:hover{background:#1a2130;}
+  .set-row.sel{background:#22304a;box-shadow:inset 3px 0 0 var(--blue);}
+  .set-no{width:44px;color:var(--dim);font-size:12px;flex-shrink:0;}
+  .set-w{font-family:var(--mono);font-weight:700;font-size:14px;color:var(--green);min-width:74px;}
+  .set-reps{font-family:var(--mono);color:var(--text);font-size:13px;}
+  .set-tags{margin-left:auto;display:flex;align-items:center;gap:8px;}
+  .note-ic{display:none;align-items:center;gap:4px;color:var(--gold-hi);font-size:11px;border:1px solid var(--amber-line);background:var(--amber-bg);border-radius:20px;padding:2px 8px;}
+  .set-row.has-r .note-ic{display:flex;}
+  .unmatch{display:flex;align-items:center;gap:8px;background:#161b24;border:1px dashed var(--dim);border-radius:8px;padding:10px 12px;margin-bottom:10px;color:var(--sub);font-size:12.5px;cursor:pointer;}
+  .unmatch:hover{background:#1a2230;}
+  .unmatch b{color:#c9d2de;font-weight:600;}
+  .unmatch .pend{margin-left:auto;font-size:10.5px;color:var(--dim);border:1px solid var(--line);border-radius:4px;padding:1px 7px;flex-shrink:0;}
+  .empty-mid{color:var(--dim);font-size:13px;padding:26px 10px;text-align:center;border:1px dashed var(--line);border-radius:9px;}
+  .day-grp{margin-bottom:14px;}
+  .day-grp .dg-head{font-size:11px;color:var(--dim);letter-spacing:1px;margin:0 0 6px 2px;}
+  /* 右栏 */
+  .col-right{width:308px;flex-shrink:0;border-left:1px solid var(--line);background:var(--panel);overflow-y:auto;padding:14px;}
+  .side-head{font-size:12px;color:var(--dim);margin-bottom:10px;letter-spacing:.5px;}
+  .side-target{font-size:15px;font-weight:700;margin-bottom:12px;line-height:1.4;}
+  .side-target .t-sub{display:block;font-size:11.5px;font-weight:400;color:var(--sub);margin-top:3px;}
+  .filters{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap;}
+  .filters select,.filters input{background:#0f141c;border:1px solid var(--line);color:var(--text);border-radius:6px;padding:4px 7px;font-size:11.5px;font-family:inherit;}
+  .note-card{background:#201a10;border:1px solid var(--amber-line);border-left:3px solid var(--gold-hi);border-radius:8px;padding:11px;margin-bottom:10px;}
+  .note-card.mid{border-left-color:var(--gold-mid);}
+  .note-card.lo{border-left-color:var(--gold-lo);}
+  .note-card .n-date{font-size:11px;color:var(--gold-lo);margin-bottom:5px;font-family:var(--mono);}
+  .note-card .n-text{font-size:13px;line-height:1.65;color:#f3e3c0;}
+  .note-card .n-meta{display:flex;align-items:center;gap:10px;margin-top:8px;font-size:11px;color:var(--sub);}
+  .note-card .n-tags{display:flex;gap:5px;flex-wrap:wrap;}
+  .note-card .n-tag{color:var(--gold-mid);background:var(--amber-bg);border:1px solid var(--amber-line);border-radius:4px;padding:1px 7px;font-size:10.5px;}
+  .note-card .n-act{margin-left:auto;display:flex;gap:6px;}
+  .n-btn{background:none;border:1px solid var(--line);color:var(--sub);border-radius:5px;padding:2px 9px;font-size:11.5px;}
+  .n-btn:hover{color:var(--text);border-color:var(--sub);}
+  .n-btn.danger:hover{color:var(--red);border-color:var(--red);}
+  .day-bio{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:9px 11px;margin-bottom:10px;font-size:12px;color:var(--sub);}
+  .day-bio .b-row{display:flex;justify-content:space-between;padding:3px 0;}
+  .day-bio .b-row b{font-family:var(--mono);color:var(--text);}
+  .pend-card{background:#161b24;border:1px dashed var(--dim);border-radius:8px;padding:11px;margin-bottom:10px;}
+  .pend-card .p-title{color:#c9d2de;font-weight:600;font-size:13px;margin-bottom:5px;}
+  .pend-card .p-text{color:var(--sub);font-size:12px;line-height:1.6;}
+  .pend-card .p-tip{color:var(--dim);font-size:11px;margin-top:7px;border-top:1px dashed #27303d;padding-top:7px;}
+  .side-empty{color:var(--dim);font-size:12px;line-height:1.7;border:1px dashed var(--line);border-radius:8px;padding:13px;text-align:center;}
+  .side-empty b{color:var(--sub);font-weight:600;}
+  .add-note{margin-top:12px;}
+  .add-note button{width:100%;padding:8px;background:#1c2534;border:1px dashed var(--blue);color:var(--blue);border-radius:7px;font-size:12px;}
+  .add-note button:hover{background:#22304a;}
+  .add-note small{display:block;text-align:center;color:var(--dim);font-size:10.5px;margin-top:5px;}
+  /* ===== 弹窗 / 抽屉 ===== */
+  .mask{position:fixed;inset:0;background:rgba(8,10,14,.72);display:none;align-items:center;justify-content:center;z-index:60;}
+  .mask.show{display:flex;}
+  .dlg{width:420px;max-width:92vw;background:var(--panel2);border:1px solid #33415a;border-radius:12px;padding:18px 20px;box-shadow:0 16px 50px rgba(0,0,0,.5);}
+  .dlg h3{font-size:15px;margin-bottom:14px;}
+  .fld{margin-bottom:12px;}
+  .fld label{display:block;font-size:12px;color:var(--sub);margin-bottom:5px;}
+  .fld input,.fld select,.fld textarea{width:100%;background:#0f141c;border:1px solid var(--line);color:var(--text);border-radius:6px;padding:7px 10px;font-size:13px;font-family:inherit;}
+  .fld textarea{min-height:72px;resize:vertical;}
+  .fld input:focus,.fld select:focus,.fld textarea:focus{outline:none;border-color:var(--blue);}
+  .dlg-acts{display:flex;justify-content:flex-end;gap:8px;margin-top:16px;}
+  .btn{padding:7px 14px;border-radius:6px;font-size:12.5px;border:1px solid var(--line);background:var(--panel);color:var(--sub);}
+  .btn:hover{color:var(--text);border-color:var(--sub);}
+  .btn.primary{background:var(--blue);border-color:var(--blue);color:#0b1220;}
+  .btn.danger{background:none;border-color:var(--red);color:var(--red);}
+  .drawer-mask{position:fixed;inset:0;background:rgba(8,10,14,.55);display:none;z-index:55;}
+  .drawer-mask.show{display:block;}
+  .drawer{position:fixed;top:0;right:-400px;width:380px;max-width:94vw;height:100%;background:var(--panel2);border-left:1px solid #33415a;z-index:58;transition:right .22s ease;display:flex;flex-direction:column;}
+  .drawer.open{right:0;}
+  .drawer-head{display:flex;align-items:center;gap:10px;padding:14px 16px;border-bottom:1px solid var(--line);}
+  .drawer-head h3{font-size:15px;}
+  .drawer-head button{margin-left:auto;background:none;border:none;color:var(--dim);font-size:18px;}
+  .drawer-body{flex:1;overflow-y:auto;padding:14px 16px;}
+  .dr-title{font-size:12px;color:var(--dim);margin:10px 0 6px;}
+  .pr-curve{background:#0f141c;border:1px solid var(--line);border-radius:9px;padding:8px;position:relative;}
+  .pr-curve .pc-mode{display:flex;gap:10px;font-size:11px;color:var(--sub);align-items:center;padding:2px 2px 6px;flex-wrap:wrap;}
+  .pr-curve .pc-mode label{display:flex;align-items:center;gap:4px;cursor:pointer;}
+  .pr-curve .pc-mode select{background:#151c26;border:1px solid var(--line);color:var(--text);border-radius:5px;padding:2px 5px;font-size:11px;}
+  .dr-steps .step{display:flex;justify-content:space-between;font-family:var(--mono);font-size:12.5px;padding:4px 2px;color:#c9a568;cursor:pointer;border-radius:5px;}
+  .dr-steps .step:hover{background:#22304a;}
+  .dr-steps .step.best{color:var(--gold-hi);font-weight:700;}
+  .dr-hist .h-date{font-size:11.5px;color:var(--dim);margin:8px 0 3px;font-family:var(--mono);}
+  .dr-hist .h-row{display:flex;justify-content:space-between;font-family:var(--mono);font-size:12px;color:var(--sub);padding:3px 2px;cursor:pointer;border-radius:5px;}
+  .dr-hist .h-row:hover{background:#22304a;color:var(--text);}
+  .tip{position:fixed;pointer-events:none;background:#1c2633;border:1px solid #33415a;border-radius:8px;padding:7px 10px;font-size:12px;color:var(--text);box-shadow:0 8px 24px rgba(0,0,0,.45);display:none;white-space:nowrap;z-index:70;}
+  .tip b{color:var(--amber);}
+  .tip .t-date{color:var(--sub);font-size:11px;}
+  /* ===== 全屏 PR 总览 ===== */
+  .prfull{display:none;position:fixed;inset:0;background:var(--bg);z-index:45;flex-direction:column;}
+  .prfull.show{display:flex;}
+  .prfull-head{display:flex;align-items:center;gap:14px;padding:14px 20px;border-bottom:1px solid var(--line);}
+  .prfull-head h2{font-size:16px;}
+  .prfull-head button{margin-left:auto;background:var(--panel);border:1px solid var(--line);color:var(--sub);border-radius:7px;padding:6px 12px;font-size:12px;}
+  .prfull-body{flex:1;overflow-y:auto;padding:16px 20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;align-content:start;}
+  .pf-card{background:var(--panel);border:1px solid var(--line);border-radius:11px;padding:12px 14px;cursor:pointer;transition:border-color .12s;}
+  .pf-card:hover{border-color:var(--amber);}
+  .pf-card .pf-name{font-weight:700;font-size:13.5px;display:flex;justify-content:space-between;}
+  .pf-card .pf-best{font-family:var(--mono);color:var(--gold-hi);font-size:13px;margin-top:6px;}
+  .pf-card .pf-mini{color:var(--dim);font-size:11px;margin-top:4px;}
+  .pf-card .pf-btn{margin-top:8px;text-align:right;color:var(--blue);font-size:11.5px;}
+  /* 底部提示 */
+  .demo-note{position:fixed;left:0;right:0;bottom:0;background:#0b0e13;border-top:1px solid var(--line);color:var(--dim);font-size:11px;padding:5px 20px;z-index:9;display:flex;gap:14px;}
+  .demo-note .tag-new{color:var(--blue);border:1px solid var(--blue);border-radius:4px;padding:0 6px;font-size:10px;}
+  .toast{position:fixed;left:50%;bottom:40px;transform:translateX(-50%);background:#22304a;color:#dfe7f3;border:1px solid #3a4d6d;padding:9px 16px;border-radius:8px;font-size:12.5px;z-index:99;box-shadow:0 6px 20px rgba(0,0,0,.4);}
+  /* ===== 响应式 ===== */
+  @media (max-width:920px){
+    .workbench{flex-direction:column;height:auto;overflow:visible;}
+    .col-left{width:100%;border-right:none;border-bottom:1px solid var(--line);max-height:190px;}
+    .col-mid{width:100%;}
+    .col-right{width:100%;border-left:none;border-top:1px solid var(--line);}
+    .top{flex-wrap:wrap;gap:10px;}
+    .top .right{margin-left:0;width:100%;justify-content:space-between;}
+  }
+</style>
+</head>
+<body>
+
+<!-- ===== 顶栏 ===== -->
+<header class="top">
+  <div class="brand">
+    <div class="logo">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#1b120b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5M4 12h16"/></svg>
+    </div>
+    <div><h1>训练感悟系统</h1><small>training-tracker · v1.0 设计 Demo</small></div>
+  </div>
+  <div class="stats">
+    <div class="stat"><b class="a" id="stTotal">–</b><span>感悟总数</span></div>
+    <div class="stat"><b class="b" id="stToday">–</b><span>今日</span></div>
+    <div class="stat"><b class="g" id="stStreak">–</b><span>连续天数</span></div>
+    <div class="stat"><b class="a" id="stEx">–</b><span>覆盖动作</span></div>
+  </div>
+  <div class="sep"></div>
+  <div class="mode-sw" id="modeSw">
+    <button class="on" data-mode="ex">按动作</button>
+    <button data-mode="day">按日</button>
+  </div>
+  <div class="right">
+    <button class="btn primary" id="btnPrFull">PR 总览</button>
+    <button class="btn" id="btnGrafana">打开看板</button>
+  </div>
+</header>
+<div class="daybar" id="daybar"><span class="dot"></span><span id="daybarText">…</span><button id="btnDayRef">+ 写当日随笔</button></div>
+
+<main class="workbench">
+  <aside class="col-left" id="colLeft"></aside>
+  <section class="col-mid" id="colMid"></section>
+  <aside class="col-right" id="colRight"></aside>
+</main>
+
+<div class="prpop" id="prpop"></div>
+<div class="tip" id="tip"></div>
+
+<div class="demo-note"><span class="tag-new">v1.0 完整</span><span>双模式 / PR 体系 / 迷你日历 / 筛选 / 晨脉意象 —— 新建编辑删除为内存态，刷新重置</span></div>
+
+<!-- ===== PR 全屏总览 ===== -->
+<div class="prfull" id="prfull">
+  <div class="prfull-head"><h2>PR 总览 · 成绩单</h2><span style="color:var(--dim);font-size:12px;">数据读 ppl_pr_test（部分示例）</span><button id="btnPrFullClose">返回</button></div>
+  <div class="prfull-body" id="prfullBody"></div>
+</div>
+
+<!-- ===== PR 抽屉 ===== -->
+<div class="drawer-mask" id="drawerMask"></div>
+<aside class="drawer" id="drawer">
+  <div class="drawer-head"><h3 id="drTitle">PR 详情</h3><button id="drClose">✕</button></div>
+  <div class="drawer-body">
+    <div class="pr-curve" id="prCurve">
+      <div class="pc-mode">
+        <label><input type="radio" name="pcmode" value="all" checked> 全部</label>
+        <label><input type="radio" name="pcmode" value="pair"> 两两</label>
+        <span>第 <select id="selA"></select> 次 vs 第 <select id="selB"></select> 次</span>
+      </div>
+      <svg id="prSvg" viewBox="0 0 340 190" preserveAspectRatio="xMidYMid meet"></svg>
+    </div>
+    <div class="dr-title">当前最佳 · 最近测试</div>
+    <div class="dr-steps" id="drBest"></div>
+    <div class="dr-title">全档阶梯（点档位跳组行）</div>
+    <div class="dr-steps" id="drSteps"></div>
+    <div class="dr-title">历史 PR 测试轮（点档位联动）</div>
+    <div class="dr-hist" id="drHist"></div>
+  </div>
+</aside>
+
+<!-- ===== 弹窗：新建 / 编辑 ===== -->
+<div class="mask" id="mask">
+  <div class="dlg">
+    <h3 id="dlgTitle">新建感悟</h3>
+    <div class="fld"><label>动作（留空 = 训练日随笔）</label><select id="fExercise"><option value="">（训练日随笔）</option></select></div>
+    <div class="fld"><label>组号（不填 = 动作级 / 日级）</label><input id="fSet" type="number" min="1" max="10" placeholder="如 2，代表第 2 组"></div>
+    <div class="fld"><label>日期</label><input id="fDate" type="date"></div>
+    <div class="fld"><label>内容</label><textarea id="fContent" placeholder="这组最顺，肩胛锁死更稳…"></textarea></div>
+    <div class="fld"><label>标签（逗号分隔，可空）</label><input id="fTags" placeholder="发力感,技术点"></div>
+    <div class="dlg-acts">
+      <button class="btn" id="dlgCancel">取消</button>
+      <button class="btn primary" id="dlgSave">保存</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   数据（真实训练记录为主 + 少量推断示例，均标注）
+   ============================================================ */
+var EX = [
+  { id:'ppl_push_bench_flat',    direction:'push',  label:'平板卧推' },
+  { id:'ppl_push_bench_incline', direction:'push',  label:'上斜卧推' },
+  { id:'ppl_push_bench_close',   direction:'push',  label:'窄距卧推' },
+  { id:'ppl_push_overhead_press',direction:'push',  label:'站姿推举' },
+  { id:'ppl_push_pec_deck',      direction:'push',  label:'夹胸' },
+  { id:'ppl_pull_deadlift',      direction:'pull',  label:'硬拉' },
+  { id:'ppl_pull_seated_row',    direction:'pull',  label:'坐姿划船' },
+  { id:'ppl_pull_tbar_row',      direction:'pull',  label:'T杆划船' },
+  { id:'ppl_pull_lat_pulldown',  direction:'pull',  label:'高位下拉' },
+  { id:'ppl_pull_barbell_curl',  direction:'pull',  label:'杠铃弯举' },
+  { id:'ppl_squat_back_squat',   direction:'squat', label:'杠铃深蹲' },
+  { id:'ppl_squat_leg_press_hack',direction:'squat',label:'倒蹬/哈克' },
+  { id:'ppl_squat_leg_extension',direction:'squat', label:'腿屈伸' },
+  { id:'ppl_squat_leg_curl',     direction:'squat', label:'腿弯举' },
+  { id:'ppl_squat_calf_raise',   direction:'squat', label:'站姿提踵' }
+];
+var DIR_NAME = { push:'推日', pull:'拉日', squat:'蹲日' };
+
+var SESSIONS = [
+  { sessionId:'s1', date:'2026-09-23', exercise:'平板卧推', direction:'push', sets:[{w:45,r:12},{w:45,r:12},{w:45,r:12}] },
+  { sessionId:'s2', date:'2026-09-23', exercise:'上斜卧推', direction:'push', sets:[{w:10,r:12},{w:10,r:12},{w:10,r:12}] },
+  { sessionId:'s3', date:'2026-09-23', exercise:'窄距卧推', direction:'push', sets:[{w:40,r:12},{w:40,r:12},{w:40,r:12},{w:40,r:12}] },
+  { sessionId:'s4', date:'2026-09-23', exercise:'夹胸',     direction:'push', sets:[{w:40,r:12},{w:40,r:12},{w:40,r:12},{w:40,r:12}] },
+  { sessionId:'s5', date:'2026-09-23', exercise:'站姿推举', direction:'push', sets:[{w:10,r:12},{w:10,r:12},{w:10,r:12}] },
+  { sessionId:'s6', date:'2026-10-09', exercise:'平板卧推', direction:'push', sets:[{w:47.5,r:8},{w:47.5,r:9},{w:47.5,r:8}] },
+  { sessionId:'s7', date:'2026-10-09', exercise:'上斜卧推', direction:'push', sets:[{w:12.5,r:10},{w:12.5,r:9},{w:12.5,r:8}] },
+  { sessionId:'s8', date:'2026-10-09', exercise:'窄距卧推', direction:'push', sets:[{w:42.5,r:9},{w:42.5,r:8},{w:42.5,r:7}] },
+  { sessionId:'s9', date:'2026-10-09', exercise:'夹胸',     direction:'push', sets:[{w:40,r:14},{w:40,r:13},{w:40,r:12}] },
+  { sessionId:'s10',date:'2026-10-09', exercise:'站姿推举', direction:'push', sets:[{w:10,r:12},{w:10,r:11},{w:10,r:10}] },
+  { sessionId:'s11',date:'2026-10-10', exercise:'平板卧推', direction:'push', isPR:true, sets:[{w:50,r:11},{w:55,r:6},{w:60,r:3}] },
+  { sessionId:'s12',date:'2026-09-22', exercise:'杠铃深蹲', direction:'squat', sets:[{w:70,r:6},{w:70,r:6},{w:70,r:6}] },
+  { sessionId:'s13',date:'2026-09-22', exercise:'倒蹬/哈克', direction:'squat', sets:[{w:120,r:6},{w:120,r:6},{w:120,r:6}] },
+  { sessionId:'s14',date:'2026-09-22', exercise:'腿屈伸',   direction:'squat', sets:[{w:85,r:6},{w:85,r:6},{w:85,r:6}] },
+  { sessionId:'s15',date:'2026-09-22', exercise:'站姿提踵', direction:'squat', sets:[{w:80,r:6},{w:80,r:6},{w:80,r:6}] },
+  { sessionId:'s16',date:'2026-10-06', exercise:'杠铃深蹲', direction:'squat', sets:[{w:70,r:6},{w:70,r:6},{w:70,r:5}] },
+  { sessionId:'s17',date:'2026-10-04', exercise:'硬拉',     direction:'pull', sets:[{w:90,r:5},{w:90,r:5},{w:90,r:5}] },
+  { sessionId:'s18',date:'2026-10-04', exercise:'坐姿划船', direction:'pull', sets:[{w:60,r:12},{w:60,r:12},{w:60,r:12}] },
+  { sessionId:'s19',date:'2026-10-04', exercise:'高位下拉', direction:'pull', sets:[{w:50,r:12},{w:50,r:12},{w:50,r:12}] },
+  { sessionId:'s20',date:'2026-10-04', exercise:'杠铃弯举', direction:'pull', sets:[{w:20,r:12},{w:20,r:12},{w:20,r:12}] }
+];
+
+/* PR 测试：按动作分组，每次测试 = {date, points:[[w,n],...]}（按日期升序自动编号） */
+var PR_TESTS = {
+  '平板卧推':[
+    { date:'2026-10-09', points:[[40,15],[45,12],[50,11]] },
+    { date:'2026-10-10', points:[[50,11],[55,6],[60,3]] },
+    { date:'2026-10-17(示例)', points:[[50,12],[55,8],[60,5],[65,2]] }
+  ],
+  '上斜卧推':[
+    { date:'2026-10-09', points:[[10,16],[12.5,14],[15,10],[17.5,6]] },
+    { date:'2026-10-17(示例)', points:[[12.5,15],[15,12],[17.5,8]] }
+  ],
+  '窄距卧推':[
+    { date:'2026-10-09', points:[[40,16],[45,11],[50,8],[55,7],[60,5]] }
+  ],
+  '夹胸':[
+    { date:'2026-10-09', points:[[35,18],[40,16],[45,13],[50,10],[55,9],[60,5]] }
+  ],
+  '站姿推举':[
+    { date:'2026-10-09', points:[[10,13],[12.5,8],[15,6]] }
+  ]
+};
+var TRAIN_W = { '平板卧推':47.5, '上斜卧推':12.5, '窄距卧推':42.5, '夹胸':40, '站姿推举':10 };
+
+/* 当天全貌数据（按日模式用）：晨脉 / 意象 */
+var DAY_EXTRA = {
+  '2026-10-11':{ hr:77, imagery:true },
+  '2026-10-10':{ hr:68, imagery:false },
+  '2026-10-09':{ hr:null, imagery:false }
+};
+
+var REFLECTIONS = [
+  { id:'ref_20261009_a', date:'2026-10-09', direction:'push', exercise:'平板卧推', setIndex:1, content:'瓦式呼吸之后明显有力，起桥稳住。', tags:['发力感'], source:'消息', time:'19:24' },
+  { id:'ref_20261009_b', date:'2026-10-09', direction:'push', exercise:'平板卧推', setIndex:2, content:'肩胛锁死后推起来更稳，下放节奏再慢一点。', tags:['发力感','技术点'], source:'消息', time:'19:28' },
+  { id:'ref_20261009_c', date:'2026-10-09', direction:'push', exercise:'平板卧推', setIndex:3, content:'最后一下有点变形，下次组间休息拉长到 3 分钟。', tags:['状态'], source:'消息', time:'19:33' },
+  { id:'ref_20261009_d', date:'2026-10-09', direction:'push', exercise:'上斜卧推', setIndex:2, content:'角度调低半格，上胸感觉更明显。', tags:['技术点'], source:'消息', time:'19:47' },
+  { id:'ref_20261009_e', date:'2026-10-09', direction:'push', exercise:'窄距卧推', setIndex:1, content:'握距收到肩宽略内，三头参与更明显。', tags:['技术点'], source:'消息', time:'19:41' },
+  { id:'ref_20261010_f', date:'2026-10-10', direction:'squat', exercise:'杠铃深蹲', content:'髋部打开后蹲得更深，呼吸节奏稳定。', tags:['技术点'], source:'消息', time:'18:30' },
+  { id:'ref_20260923_g', date:'2026-09-23', direction:'push', exercise:'夹胸',     content:'顶峰收缩保持 1 秒，泵感明显。', tags:['发力感'], source:'消息', time:'20:05' },
+  { id:'ref_20261009_h', date:'2026-10-09', content:'整体状态一般，组间拉到 3 分钟再上重量。', tags:['状态'], source:'消息', time:'19:10' },
+  { id:'ref_20260923_i', date:'2026-09-23', content:'第一天按新处方走，容量不大但动作控制感好。', tags:['状态'], source:'消息', time:'19:40' },
+  { id:'ref_20261011_j', date:'2026-10-11', direction:'push', exercise:'夹胸', setIndex:2, content:'离心放慢一点，顶峰收缩保持 1 秒。', tags:['技术点'], source:'消息', time:'09:02' }
+];
+
+var state = {
+  mode:'ex', activeExercise:'平板卧推',
+  selected:{ type:'set', sessionId:null, setIndex:null },
+  calYear:2026, calMonth:9, calDay:11,   // 按日模式当前选中日
+  filterDir:'', filterTag:'', filterDate:''
+};
+var TODAY = '2026-10-11';
+</script>
+<script>
+/* ============================================================
+   工具
+   ============================================================ */
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function refsForExercise(ex){ return REFLECTIONS.filter(function(r){ return r.exercise === ex; }); }
+function setRefs(ex, date, setIndex){ return REFLECTIONS.filter(function(r){ return r.exercise === ex && r.date === date && r.setIndex === setIndex; }); }
+function exRefs(ex){ return REFLECTIONS.filter(function(r){ return r.exercise === ex && !r.setIndex; }); }
+function dayRefs(){ return REFLECTIONS.filter(function(r){ return !r.exercise; }); }
+function sessionsOf(ex){ return SESSIONS.filter(function(s){ return s.exercise === ex; }); }
+function exRefCount(ex){ return refsForExercise(ex).length; }
+function prTestsOf(ex){ return PR_TESTS[ex] || []; }
+function latestPrDate(ex){ var t = prTestsOf(ex); return t.length ? t[t.length-1].date : null; }
+function isMatched(r){
+  if (!r.setIndex) return true;
+  return SESSIONS.some(function(s){ return s.exercise === r.exercise && s.date === r.date && s.sets[r.setIndex-1]; });
+}
+function toast(msg){
+  var t = document.createElement('div'); t.className = 'toast'; t.textContent = msg;
+  document.body.appendChild(t); setTimeout(function(){ t.remove(); }, 2600);
+}
+function pad2(n){ return n < 10 ? '0'+n : ''+n; }
+function dateStr(y,m,d){ return y + '-' + pad2(m+1) + '-' + pad2(d); }
+
+/* ============================================================
+   统计 / 日级条 / 模式切换
+   ============================================================ */
+function renderStats(){
+  var total = REFLECTIONS.length;
+  var todayN = REFLECTIONS.filter(function(r){ return r.date === TODAY; }).length;
+  var dates = {}; REFLECTIONS.forEach(function(r){ dates[r.date]=1; });
+  var d = new Date(TODAY); var streak = 0;
+  for (var i=0;i<90;i++){
+    var key = d.toISOString().slice(0,10);
+    if (dates[key]){ streak++; d.setDate(d.getDate()-1); } else break;
+  }
+  var exN = {}; REFLECTIONS.forEach(function(r){ if(r.exercise) exN[r.exercise]=1; });
+  document.getElementById('stTotal').textContent = total;
+  document.getElementById('stToday').textContent = todayN;
+  document.getElementById('stStreak').textContent = streak;
+  document.getElementById('stEx').textContent = Object.keys(exN).length;
+}
+
+function renderDaybar(){
+  var r = dayRefs().sort(function(a,b){ return b.date.localeCompare(a.date); });
+  var el = document.getElementById('daybarText');
+  if (!r.length){ el.innerHTML = '<span style="color:var(--dim)">暂无训练日随笔 —— 发「推日 感悟：……」或点右侧按钮记录</span>'; }
+  else {
+    var latest = r[0];
+    el.innerHTML = '训练日随笔 · <b>' + latest.date + '</b> —— ' + esc(latest.content);
+    document.getElementById('daybar').onclick = function(){
+      state.selected = { type:'day' }; renderMid(); renderRight();
+    };
+  }
+}
+document.getElementById('btnDayRef').onclick = function(){ openDialog(null, { day:true }); };
+document.getElementById('modeSw').querySelectorAll('button').forEach(function(b){
+  b.addEventListener('click', function(){
+    document.getElementById('modeSw').querySelectorAll('button').forEach(function(x){ x.classList.remove('on'); });
+    b.classList.add('on');
+    state.mode = b.getAttribute('data-mode');
+    if (state.mode === 'day'){ state.selected = { type:'day' }; }
+    else { state.selected = { type:'set', sessionId:null, setIndex:null }; }
+    renderLeft(); renderMid(); renderRight();
+  });
+});
+
+/* ============================================================
+   左栏：按动作（列表 + PR 红标浮层） / 按日（迷你日历）
+   ============================================================ */
+function renderLeft(){
+  var el = document.getElementById('colLeft');
+  if (state.mode === 'day'){ renderCal(); return; }
+  var html = '';
+  ['push','pull','squat'].forEach(function(dir){
+    html += '<div class="grp-label">' + DIR_NAME[dir] + '</div>';
+    EX.filter(function(e){ return e.direction === dir; }).forEach(function(e){
+      var has = exRefCount(e.label) > 0;
+      var prOn = !!latestPrDate(e.label);
+      html += '<div class="act' + (state.activeExercise===e.label?' on':'') + (has?' has-r':'') + (prOn?' pr-on':'') + '" data-ex="'+esc(e.label)+'">' +
+        '<span class="nm"><span class="pr-dot"></span>' + esc(e.label) + '</span>' +
+        '<span class="cnt">' + (has ? exRefCount(e.label) : '–') + '</span></div>';
+    });
+  });
+  el.innerHTML = html;
+  el.querySelectorAll('.act').forEach(function(a){
+    a.addEventListener('click', function(){
+      state.activeExercise = a.getAttribute('data-ex');
+      state.selected = { type:'set', sessionId:null, setIndex:null };
+      hidePrPop(); renderLeft(); renderMid(); renderRight();
+    });
+    if (a.classList.contains('pr-on')){
+      a.addEventListener('mouseenter', function(ev){ showPrPop(ev, a.getAttribute('data-ex'), a); });
+      a.addEventListener('mouseleave', hidePrPop);
+    }
+  });
+}
+
+function showPrPop(ev, ex, anchor){
+  var t = prTestsOf(ex); if (!t.length) return;
+  var latest = t[t.length-1];
+  var best = latest.points.slice().sort(function(a,b){ return b[0]-a[0]; })[0];   /* 最高档 = 最重 */
+  var rows = latest.points.slice().sort(function(a,b){ return a[0]-b[0]; });
+  var html = '<div class="pp-title">'+esc(ex)+' · PR 阶梯 <span>最近 '+latest.date+'</span></div>';
+  rows.forEach(function(p){
+    var isBest = p[0]===best[0];
+    html += '<div class="pp-row'+(isBest?' best':'')+'"><span>'+p[0]+'kg</span><span>'+p[1]+' 次</span></div>';
+  });
+  html += '<div class="pp-view"><button data-ex="'+esc(ex)+'">查看详情 →</button></div>';
+  var pop = document.getElementById('prpop');
+  pop.innerHTML = html;
+  pop.style.display = 'block';
+  var r = anchor.getBoundingClientRect();
+  var left = r.left - 216; if (left < 8) left = r.right + 8;
+  var top = r.top + 4;
+  pop.style.left = left + 'px'; pop.style.top = top + 'px';
+  pop.querySelector('button').onclick = function(){
+    hidePrPop(); openDrawer(this.getAttribute('data-ex'));
+  };
+}
+function hidePrPop(){ document.getElementById('prpop').style.display = 'none'; }
+
+function renderCal(){
+  var el = document.getElementById('colLeft');
+  var y = state.calYear, m = state.calMonth;
+  var first = new Date(y, m, 1).getDay();
+  var daysInMonth = new Date(y, m+1, 0).getDate();
+  var trainDates = {}; var refDates = {};
+  SESSIONS.forEach(function(s){ trainDates[s.date] = 1; });
+  REFLECTIONS.forEach(function(r){ refDates[r.date] = 1; });
+  var sel = dateStr(state.calYear, state.calMonth, state.calDay);
+  var html = '<div class="cal"><div class="cal-head"><button id="calPrev">‹</button><span>' + y + '年' + (m+1) + '月</span><button id="calNext">›</button></div>';
+  html += '<div class="cal-week"><span>日</span><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span></div><div class="cal-grid">';
+  for (var i=0;i<first;i++) html += '<div class="cal-day other"></div>';
+  for (var d=1; d<=daysInMonth; d++){
+    var ds = dateStr(y, m, d);
+    var cls = 'cal-day';
+    if (ds === sel) cls += ' sel';
+    if (ds === TODAY) cls += ' today';
+    var dots = '';
+    if (trainDates[ds] || refDates[ds]){
+      dots = '<span class="cal-dots">';
+      if (trainDates[ds]) dots += '<i class="t"></i>';
+      if (refDates[ds]) dots += '<i class="r"></i>';
+      dots += '</span>';
+    }
+    html += '<div class="'+cls+'" data-d="'+d+'">'+d+dots+'</div>';
+  }
+  html += '</div></div>';
+  el.innerHTML = html;
+  el.querySelectorAll('.cal-day[data-d]').forEach(function(c){
+    c.addEventListener('click', function(){
+      state.calDay = parseInt(c.getAttribute('data-d'),10);
+      state.selected = { type:'day' };
+      renderCal(); renderMid(); renderRight();
+    });
+  });
+  document.getElementById('calPrev').onclick = function(){
+    if (state.calMonth === 0){ state.calYear--; state.calMonth = 11; } else state.calMonth--;
+    if (state.calDay > new Date(state.calYear, state.calMonth+1, 0).getDate()) state.calDay = 1;
+    renderCal();
+  };
+  document.getElementById('calNext').onclick = function(){
+    if (state.calMonth === 11){ state.calYear++; state.calMonth = 0; } else state.calMonth++;
+    if (state.calDay > new Date(state.calYear, state.calMonth+1, 0).getDate()) state.calDay = 1;
+    renderCal();
+  };
+}
+
+/* ============================================================
+   中栏：按动作（迷你图 + PR 卡片 + 训练轮）
+   ============================================================ */
+function renderMid(){
+  var el = document.getElementById('colMid');
+  if (state.mode === 'day'){ renderMidDay(); return; }
+  var ex = EX.filter(function(e){ return e.label === state.activeExercise; })[0];
+  var sessions = sessionsOf(ex.label).sort(function(a,b){ return b.date.localeCompare(a.date); });
+  var html = '<div class="mid-head"><h2>' + esc(ex.label) + '</h2><span class="dir">' + DIR_NAME[ex.direction] + '</span>' +
+    '<a class="gfl" href="http://127.0.0.1:3000/d/ppl-training-monitor/ppl-training-monitor?orgId=1" target="_blank">在 Grafana 查看 →</a></div>';
+
+  html += miniChart(ex.label);
+  html += prCard(ex.label);
+
+  var ers = exRefs(ex.label);
+  ers.forEach(function(r){
+    html += '<div class="exref" data-ref="'+r.id+'"><span class="ic"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg></span>' +
+      '<div>动作级感悟 · <b>' + esc(r.content) + '</b><div class="meta">' + r.date + ' ' + r.time + ' · ' + r.tags.map(esc).join(' / ') + '</div></div></div>';
+  });
+
+  var unmatched = REFLECTIONS.filter(function(r){ return r.exercise === ex.label && r.setIndex && !isMatched(r); });
+  unmatched.forEach(function(r){
+    html += '<div class="unmatch" data-ref="'+r.id+'"><span style="color:var(--dim)">◷</span><div><b>第'+r.setIndex+'组感悟待匹配</b> · ' + esc(r.content) + '</div><span class="pend">未匹配到组</span></div>';
+  });
+
+  if (!sessions.length && !unmatched.length && !ers.length){
+    html += '<div class="empty-mid">暂无训练记录 —— 消息录入「'+esc(ex.label)+' 47.5kg×8」后这里出现历史组数×重量</div>';
+  }
+
+  sessions.forEach(function(s){
+    html += '<div class="session"><div class="shead"><span class="date">' + s.date + '</span><span>' + DIR_NAME[s.direction] + '</span>' +
+      (s.isPR ? '<span class="pr">PR 测试</span>' : '') + '<span class="n">' + s.sets.length + ' 组</span></div>';
+    s.sets.forEach(function(st, idx){
+      var setIndex = idx + 1;
+      var srs = setRefs(ex.label, s.date, setIndex);
+      var sel = state.selected.type==='set' && state.selected.sessionId===s.sessionId && state.selected.setIndex===setIndex;
+      html += '<div class="set-row' + (sel?' sel':'') + (srs.length?' has-r':'') + '" data-session="'+s.sessionId+'" data-set="'+setIndex+'">' +
+        '<span class="set-no">第'+setIndex+'组</span><span class="set-w">'+st.w+'kg</span><span class="set-reps">× '+st.r+' 次</span>' +
+        '<span class="set-tags"><span class="note-ic"><svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>' + srs.length + '</span></span></div>';
+    });
+    html += '</div>';
+  });
+
+  el.innerHTML = html;
+  el.querySelectorAll('.set-row').forEach(function(r){
+    r.addEventListener('click', function(){
+      state.selected = { type:'set', sessionId:r.getAttribute('data-session'), setIndex:parseInt(r.getAttribute('data-set'),10) };
+      renderMid(); renderRight();
+    });
+  });
+  el.querySelectorAll('.unmatch, .exref').forEach(function(x){
+    x.addEventListener('click', function(){
+      state.selected = { type:'ref', refId:x.getAttribute('data-ref') };
+      renderMid(); renderRight();
+    });
+  });
+}
+
+function miniChart(ex){
+  var sessions = sessionsOf(ex).sort(function(a,b){ return a.date.localeCompare(b.date); });
+  var prs = prTestsOf(ex);
+  var pts = [], prpts = [];
+  sessions.forEach(function(s){
+    if (s.isPR){
+      /* PR 轮 → 只取与当天日期对应的那次测试的点 */
+      prs.filter(function(t){ return t.date === s.date; }).forEach(function(t){
+        t.points.forEach(function(p){ prpts.push({ date:s.date, w:p[0], n:p[1] }); });
+      });
+    }
+    else if (s.sets.length){ pts.push({ date:s.date, w:s.sets[0].w }); }
+  });
+  if (!pts.length && !prpts.length){
+    return '<div class="mini-chart"><div class="mc-title">重量趋势</div><div style="color:var(--dim);font-size:11.5px;padding:6px 0 4px;">暂无训练记录</div></div>';
+  }
+  var all = pts.concat(prpts.map(function(p){ return { date:p.date, w:p.w }; }));
+  var wmin = Math.min.apply(null, all.map(function(p){ return p.w; })) - 2.5;
+  var wmax = Math.max.apply(null, all.map(function(p){ return p.w; })) + 2.5;
+  var W = 640, H = 74, ML = 34, MR = 34, MT = 10, MB = 18;
+  function sx(w){ return ML + (w - wmin) / (wmax - wmin) * (W - ML - MR); }
+  function sy(n){ return H - MB - (n - 1) / 1 * (H - MT - MB); } /* 单行高度示意 */
+  var d = '';
+  pts.forEach(function(p, i){ var x = sx(p.w); var y = H - MB - 14; d += (i===0?'M':'L') + x + ',' + y + ' '; });
+  var html = '<div class="mini-chart"><div class="mc-title">重量趋势 · 训练第一组实线 / PR 极限虚线</div><svg viewBox="0 0 '+W+' '+H+'" style="width:100%;display:block;">';
+  html += '<line x1="'+sx(wmin)+'" y1="'+(H-MB)+'" x2="'+sx(wmax)+'" y2="'+(H-MB)+'" stroke="#33415a"/>';
+  pts.forEach(function(p){ html += '<circle cx="'+sx(p.w)+'" cy="'+(H-MB-14)+'" r="3.5" fill="#58a6ff" stroke="#0d1117" stroke-width="1.2" data-tip="'+p.date+' · '+p.w+'kg"/>'; });
+  if (d) html += '<path d="'+d+'" fill="none" stroke="#58a6ff" stroke-width="2"/>';
+  prpts.forEach(function(p){ html += '<circle cx="'+sx(p.w)+'" cy="'+(H-MB-14)+'" r="3.5" fill="#f85149" stroke="#0d1117" stroke-width="1.2" data-tip="PR '+p.date+' · '+p.w+'kg"/>'; });
+  html += '</svg></div>';
+  return html;
+}
+
+function prCard(ex){
+  var t = prTestsOf(ex); if (!t.length) return '';
+  var latest = t[t.length-1];
+  var best = latest.points.slice().sort(function(a,b){ return b[0]-a[0]; })[0];   /* 最高档 = 最重 */
+  var rows = latest.points.slice().sort(function(a,b){ return a[0]-b[0]; });
+  var trainW = TRAIN_W[ex];
+  var html = '<div class="pr-card" id="prCard"><div class="pc-head" id="pcHead"><span>PR · 最近 '+latest.date+'</span><span><b>当前最佳 '+best[0]+'kg → '+best[1]+' 次</b> '+(trainW?'（训练档 '+trainW+'kg）':'')+' ▾</span></div>';
+  html += '<div class="pc-body"><div class="dr-steps">';
+  rows.forEach(function(p){
+    var isBest = p[0]===best[0];
+    html += '<div class="step'+(isBest?' best':'')+'"><span>'+p[0]+'kg</span><span>'+p[1]+' 次</span></div>';
+  });
+  html += '</div><div class="pc-hist"><button data-ex="'+esc(ex)+'">查看历史 PR →</button></div></div></div>';
+  return html;
+}
+</script>
+<script>
+/* ============================================================
+   中栏：按日模式（当天全貌）
+   ============================================================ */
+function renderMidDay(){
+  var el = document.getElementById('colMid');
+  var ds = dateStr(state.calYear, state.calMonth, state.calDay);
+  var daySessions = SESSIONS.filter(function(s){ return s.date === ds; });
+  var refs = REFLECTIONS.filter(function(r){ return r.date === ds; });
+  var html = '<div class="mid-head"><h2>' + ds + ' · 当日全貌</h2><span class="dir">按日模式</span></div>';
+  if (!daySessions.length && !refs.length){
+    html += '<div class="empty-mid">这一天没有训练和感悟记录。<br>点日历其他日期，或切回「按动作」浏览历史。</div>';
+    el.innerHTML = html; bindDayRows(); return;
+  }
+  ['push','pull','squat'].forEach(function(dir){
+    var ds2 = daySessions.filter(function(s){ return s.direction === dir; });
+    if (!ds2.length) return;
+    html += '<div class="day-grp"><div class="dg-head">' + DIR_NAME[dir] + '</div>';
+    ds2.forEach(function(s){
+      html += '<div class="session"><div class="shead"><span class="date">' + s.date + '</span><span>' + esc(s.exercise) + '</span>' +
+        (s.isPR ? '<span class="pr">PR 测试</span>' : '') + '<span class="n">' + s.sets.length + ' 组</span></div>';
+      s.sets.forEach(function(st, idx){
+        var setIndex = idx + 1;
+        var srs = setRefs(s.exercise, s.date, setIndex);
+        var sel = state.selected.type==='set' && state.selected.sessionId===s.sessionId && state.selected.setIndex===setIndex;
+        html += '<div class="set-row' + (sel?' sel':'') + (srs.length?' has-r':'') + '" data-session="'+s.sessionId+'" data-set="'+setIndex+'">' +
+          '<span class="set-no">第'+setIndex+'组</span><span class="set-w">'+st.w+'kg</span><span class="set-reps">× '+st.r+' 次</span>' +
+          '<span class="set-tags"><span class="note-ic">💬 ' + srs.length + '</span></span></div>';
+      });
+      html += '</div>';
+    });
+    html += '</div>';
+  });
+  el.innerHTML = html;
+  bindDayRows();
+}
+function bindDayRows(){
+  var el = document.getElementById('colMid');
+  el.querySelectorAll('.set-row').forEach(function(r){
+    r.addEventListener('click', function(){
+      state.selected = { type:'set', sessionId:r.getAttribute('data-session'), setIndex:parseInt(r.getAttribute('data-set'),10) };
+      renderMid(); renderRight();
+    });
+  });
+}
+
+/* ============================================================
+   右栏：感悟视图 + 筛选 + 日级晨脉意象
+   ============================================================ */
+var FILTERS_HTML = '<div class="filters"><select id="fDir"><option value="">方向</option><option value="push">推日</option><option value="pull">拉日</option><option value="squat">蹲日</option></select>' +
+  '<input id="fTag" placeholder="标签" style="width:86px"><input id="fDate2" type="date" style="width:120px"></div>';
+
+function renderRight(){
+  var el = document.getElementById('colRight');
+  var sel = state.selected;
+  var html = '<div class="side-head">侧栏 · 与选中目标一一对应</div>' + FILTERS_HTML;
+
+  if (state.mode === 'day' && sel.type === 'day'){
+    var ds = dateStr(state.calYear, state.calMonth, state.calDay);
+    var extra = DAY_EXTRA[ds] || {};
+    var drs = dayRefs().filter(function(r){ return r.date === ds; });
+    var grp = REFLECTIONS.filter(function(r){ return r.date === ds && r.setIndex; });
+    html += '<div class="side-target">' + ds + ' · 当天<span class="t-sub">日级感悟 + 晨脉 + 意象 + 组级感悟</span></div>';
+    html += '<div class="day-bio"><div class="b-row"><span>晨脉</span><b>' + (extra.hr ? extra.hr+' 次/分' : '未记录') + '</b></div>' +
+      '<div class="b-row"><span>意象打卡</span><b>' + (extra.imagery ? '✓ 已完成' : '未打卡') + '</b></div></div>';
+    if (drs.length){ drs.forEach(function(r){ html += noteCard(r, 'lo'); }); }
+    else { html += '<div class="side-empty"><b>当天无日级随笔</b></div>'; }
+    if (grp.length){
+      html += '<div class="dr-title" style="margin:10px 0 6px;">当天组级感悟</div>';
+      grp.forEach(function(r){ html += noteCard(r, 'hi'); });
+    }
+    html += addNoteBtn(null, null, ds);
+    el.innerHTML = html; bindSide(html); return;
+  }
+
+  if (sel.type === 'set'){
+    var session = SESSIONS.filter(function(s){ return s.sessionId === sel.sessionId; })[0];
+    if (!session){
+      html += '<div class="side-empty">点击中间任意一组训练记录，右侧显示那一组当时的感悟。<br><b>顺序</b>：左栏选动作 → 中栏点某组 → 右侧看感悟。</div>';
+      el.innerHTML = html; bindSide(html); return;
+    }
+    var st = session.sets[sel.setIndex-1];
+    var srs = setRefs(session.exercise, session.date, sel.setIndex);
+    html += '<div class="side-target">第'+sel.setIndex+'组 · '+session.exercise+'<span class="t-sub">'+session.date+' · '+st.w+'kg × '+st.r+' 次'+(session.isPR?' · PR 测试':'')+'</span></div>';
+    if (srs.length){ srs.forEach(function(r){ html += noteCard(r, 'hi'); }); }
+    else { html += '<div class="side-empty"><b>这组没有感悟。</b><br>发「'+session.exercise+' 第'+sel.setIndex+'组 感悟：……」自动挂到这组。</div>'; }
+    html += addNoteBtn(session.exercise, sel.setIndex, session.date);
+  }
+  else if (sel.type === 'exercise' || (state.mode==='ex' && sel.type==='set' && !sel.sessionId)){
+    var ex = sel.type==='exercise' ? sel.exercise : state.activeExercise;
+    var ers = exRefs(ex);
+    html += '<div class="side-target">'+ex+' · 动作级感悟<span class="t-sub">不绑定具体组，动作练完后的总结</span></div>';
+    if (ers.length){ ers.forEach(function(r){ html += noteCard(r, 'mid'); }); }
+    else { html += '<div class="side-empty"><b>该动作暂无动作级感悟。</b><br>发「'+ex+' 感悟：……」记录。</div>'; }
+    html += addNoteBtn(ex, null, null);
+  }
+  else if (sel.type === 'ref'){
+    var rf = REFLECTIONS.filter(function(r){ return r.id === sel.refId; })[0];
+    if (!rf){ html += '<div class="side-empty">找不到该感悟</div>'; el.innerHTML = html; bindSide(html); return; }
+    html += '<div class="side-target">待匹配感悟<span class="t-sub">'+rf.exercise+' · 第'+rf.setIndex+'组 · '+rf.date+'</span></div>';
+    html += '<div class="pend-card"><div class="p-title">'+esc(rf.content)+'</div>' +
+      '<div class="p-text">当天「'+esc(rf.exercise)+'」的第'+rf.setIndex+'组训练数据还没录入。</div>' +
+      '<div class="p-tip">宽松绑定：训练数据补录后自动转为正常组级感悟。</div></div>';
+    html += addNoteBtn(rf.exercise, rf.setIndex, rf.date);
+  }
+  else {
+    html += '<div class="side-empty">点击中间任意一组训练记录，右侧显示那一组当时的感悟。</div>';
+  }
+  el.innerHTML = html; bindSide(html);
+}
+
+function noteCard(r, tone){
+  return '<div class="note-card '+(tone||'hi')+'"><div class="n-date">' + r.date + ' ' + r.time + ' · ' + r.source + (r.setIndex ? ' · 第'+r.setIndex+'组' : '') + '</div>' +
+    '<div class="n-text">' + esc(r.content) + '</div>' +
+    '<div class="n-meta"><span class="n-tags">' + (r.tags||[]).map(function(t){ return '<span class="n-tag">'+esc(t)+'</span>'; }).join('') + '</span>' +
+    '<span class="n-act"><button class="n-btn" data-id="'+r.id+'" data-act="edit">编辑</button><button class="n-btn danger" data-id="'+r.id+'" data-act="del">删除</button></span></div></div>';
+}
+function addNoteBtn(ex, setIndex, date){
+  var suffix = setIndex ? '第'+setIndex+'组' : (date ? '（'+date+'）' : '');
+  return '<div class="add-note"><button data-ex="'+esc(ex||'')+'" data-set="'+(setIndex||'')+'" data-date="'+(date||'')+'">+ 补录感悟 · ' + esc(ex||'训练日随笔') + (suffix?' '+suffix:'') + '</button>' +
+    '<small>正式版：组间发消息「'+esc(ex||'动作')+(setIndex?' 第'+setIndex+'组':'')+' 感悟：……」最快</small></div>';
+}
+
+function bindSide(){
+  var el = document.getElementById('colRight');
+  el.querySelectorAll('.n-btn').forEach(function(b){
+    b.addEventListener('click', function(ev){
+      ev.stopPropagation();
+      var id = b.getAttribute('data-id'), act = b.getAttribute('data-act');
+      if (act === 'edit'){ openDialog(id); }
+      else if (act === 'del'){
+        if (confirm('删除这条感悟？')){
+          var idx = REFLECTIONS.findIndex(function(r){ return r.id === id; });
+          if (idx >= 0) REFLECTIONS.splice(idx, 1);
+          state.selected = { type:'set', sessionId:null, setIndex:null };
+          renderStats(); renderDaybar(); renderLeft(); renderMid(); renderRight();
+          toast('已删除（内存态）');
+        }
+      }
+    });
+  });
+  el.querySelectorAll('.add-note button').forEach(function(b){
+    b.addEventListener('click', function(){ openDialog(null, { ex:b.getAttribute('data-ex'), set:b.getAttribute('data-set'), date:b.getAttribute('data-date') }); });
+  });
+  var fDir = document.getElementById('fDir'), fTag = document.getElementById('fTag'), fDate2 = document.getElementById('fDate2');
+  if (fDir){ fDir.value = state.filterDir; fDir.onchange = function(){ state.filterDir = this.value; applyFilter(); }; }
+  if (fTag){ fTag.value = state.filterTag; fTag.oninput = function(){ state.filterTag = this.value; applyFilter(); }; }
+  if (fDate2){ fDate2.value = state.filterDate; fDate2.onchange = function(){ state.filterDate = this.value; applyFilter(); }; }
+}
+function applyFilter(){
+  var el = document.getElementById('colRight');
+  var cards = el.querySelectorAll('.note-card, .pend-card');
+  cards.forEach(function(c){
+    var show = true;
+    if (state.filterDir){ show = show && c.getAttribute('data-dir') === state.filterDir; }
+    if (state.filterTag){ show = show && (c.getAttribute('data-tags')||'').indexOf(state.filterTag) >= 0; }
+    if (state.filterDate){ show = show && (c.getAttribute('data-date')||'').indexOf(state.filterDate) === 0; }
+    c.style.display = show ? '' : 'none';
+  });
+}
+
+/* ============================================================
+   PR 抽屉：曲线（多系列对比）+ 阶梯 + 历史 + 联动
+   ============================================================ */
+var DRAWER_EX = null;
+function openDrawer(ex){
+  DRAWER_EX = ex;
+  document.getElementById('drTitle').textContent = ex + ' · PR 详情';
+  document.getElementById('drawerMask').classList.add('show');
+  document.getElementById('drawer').classList.add('open');
+  renderDrawer();
+}
+function closeDrawer(){
+  document.getElementById('drawerMask').classList.remove('show');
+  document.getElementById('drawer').classList.remove('open');
+}
+document.getElementById('drClose').onclick = closeDrawer;
+document.getElementById('drawerMask').onclick = closeDrawer;
+
+function renderDrawer(){
+  var ex = DRAWER_EX; if (!ex) return;
+  var t = prTestsOf(ex); var trainW = TRAIN_W[ex];
+  var latest = t.length ? t[t.length-1] : null;
+  var best = latest ? latest.points.slice().sort(function(a,b){ return b[0]-a[0]; })[0] : null;   /* 最高档 = 最重 */
+
+  /* 阶梯 */
+  var bestHtml = latest ? '<div class="step best"><span>'+best[0]+'kg</span><span>'+best[1]+' 次（'+latest.date+'）</span></div>' : '<div style="color:var(--dim)">暂无 PR 测试</div>';
+  document.getElementById('drBest').innerHTML = bestHtml;
+
+  var stepsHtml = '';
+  if (latest){
+    latest.points.slice().sort(function(a,b){ return a[0]-b[0]; }).forEach(function(p){
+      stepsHtml += '<div class="step" data-w="'+p[0]+'" data-n="'+p[1]+'" data-date="'+latest.date+'" data-set="'+p[0]+'"><span>'+p[0]+'kg</span><span>'+p[1]+' 次</span></div>';
+    });
+  }
+  document.getElementById('drSteps').innerHTML = stepsHtml;
+
+  /* 历史轮 */
+  var histHtml = '';
+  t.slice().reverse().forEach(function(tr){
+    histHtml += '<div class="h-date">' + tr.date + '</div>';
+    tr.points.forEach(function(p){
+      histHtml += '<div class="h-row" data-w="'+p[0]+'" data-n="'+p[1]+'" data-date="'+tr.date+'"><span>'+p[0]+'kg × '+p[1]+' 次</span><span style="color:var(--dim)">→</span></div>';
+    });
+  });
+  document.getElementById('drHist').innerHTML = histHtml;
+
+  /* 曲线 */
+  renderPrCurve(ex, t, trainW);
+
+  /* 联动绑定 */
+  document.querySelectorAll('#drSteps .step, #drHist .h-row').forEach(function(r){
+    r.addEventListener('click', function(){
+      var w = parseFloat(r.getAttribute('data-w')), date = r.getAttribute('data-date');
+      var session = SESSIONS.filter(function(s){ return s.exercise === ex && s.date === date; })[0];
+      var setIndex = session ? session.sets.findIndex(function(st){ return st.w === w; }) + 1 : 1;
+      closeDrawer();
+      state.mode = 'ex'; document.getElementById('modeSw').querySelectorAll('button').forEach(function(x){ x.classList.remove('on'); });
+      document.getElementById('modeSw').querySelector('[data-mode=ex]').classList.add('on');
+      state.activeExercise = ex;
+      state.selected = { type:'set', sessionId: session ? session.sessionId : null, setIndex: setIndex };
+      renderLeft(); renderMid(); renderRight();
+      setTimeout(function(){
+        var el = document.querySelector('.set-row.sel');
+        if (el) el.scrollIntoView({ behavior:'smooth', block:'center' });
+      }, 60);
+      toast('已跳到 ' + date + ' ' + ex + ' 第' + setIndex + '组（' + w + 'kg）');
+    });
+  });
+}
+
+function renderPrCurve(ex, tests, trainW){
+  var mode = document.querySelector('input[name=pcmode]:checked').value;
+  var selA = document.getElementById('selA'), selB = document.getElementById('selB');
+  var show = {};
+  if (mode === 'all'){ tests.forEach(function(t,i){ show[i]=true; }); }
+  else { show[parseInt(selA.value,10)] = true; show[parseInt(selB.value,10)] = true; }
+
+  var W = 340, H = 190, ML = 32, MR = 12, MT = 10, MB = 22;
+  var all = []; tests.forEach(function(t){ t.points.forEach(function(p){ all.push(p[0]); all.push(p[1]); }); });
+  if (!all.length){ document.getElementById('prSvg').innerHTML = ''; return; }
+  var wmin = Math.min.apply(null, all) - 3, wmax = Math.max.apply(null, all) + 3;
+  var nmin = 0, nmax = Math.max.apply(null, all) + 2;
+  function sx(w){ return ML + (w - wmin) / (wmax - wmin) * (W - ML - MR); }
+  function sy(n){ return H - MB - (n - nmin) / (nmax - nmin) * (H - MT - MB); }
+
+  var COLORS = ['#58a6ff','#e8a23d','#f85149','#bc8cff','#3fb950','#7ee787'];
+  var html = '';
+  for (var g=0; g<=4; g++){
+    var wv = wmin + g*(wmax-wmin)/4;
+    html += '<line x1="'+sx(wv)+'" y1="'+sy(nmin)+'" x2="'+sx(wv)+'" y2="'+sy(nmax)+'" stroke="#1c2531"/>';
+  }
+  for (var n=0; n<=nmax; n+=Math.max(1,Math.round(nmax/4))){
+    html += '<line x1="'+sx(wmin)+'" y1="'+sy(n)+'" x2="'+sx(wmax)+'" y2="'+sy(n)+'" stroke="#1c2531"/>';
+  }
+  html += '<g fill="#5f6c7e" font-size="9" font-family="ui-monospace,Consolas,monospace">';
+  for (var g2=0; g2<=4; g2++){
+    var wv2 = wmin + g2*(wmax-wmin)/4;
+    html += '<text x="'+sx(wv2)+'" y="'+(H-MB+12)+'" text-anchor="middle">'+Math.round(wv2)+'</text>';
+  }
+  html += '</g>';
+
+  if (trainW){
+    var tx = sx(trainW);
+    html += '<line x1="'+tx+'" y1="'+sy(nmin)+'" x2="'+tx+'" y2="'+sy(nmax)+'" stroke="#3fb950" stroke-width="1" stroke-dasharray="3 3" opacity="0.6"/>';
+    html += '<text x="'+tx+'" y="'+sy(nmin)+11+'" text-anchor="middle" font-size="9.5" fill="#3fb950">▼'+trainW+'</text>';
+  }
+
+  var series = [];
+  tests.forEach(function(t, i){
+    if (!show[i]) return;
+    var d = '';
+    t.points.forEach(function(p, k){ var x=sx(p[0]), y=sy(p[1]); d += (k===0?'M':'L')+x+','+y+' '; });
+    series.push({ t:t, i:i, d:d });
+    html += '<path d="'+d+'" fill="none" stroke="'+COLORS[i%COLORS.length]+'" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>';
+  });
+  series.forEach(function(s){
+    s.t.points.forEach(function(p){
+      var x=sx(p[0]), y=sy(p[1]);
+      html += '<circle class="pdot" cx="'+x+'" cy="'+y+'" r="4.5" fill="'+COLORS[s.i%COLORS.length]+'" stroke="#0d1117" stroke-width="1.6" data-tip="第'+(s.i+1)+'次（'+s.t.date+'） · '+p[0]+'kg · '+p[1]+' 次"/>';
+    });
+  });
+
+  document.getElementById('prSvg').innerHTML = html;
+  var tip = document.getElementById('tip');
+  document.getElementById('prSvg').querySelectorAll('.pdot').forEach(function(c){
+    c.addEventListener('mousemove', function(ev){
+      tip.innerHTML = c.getAttribute('data-tip');
+      tip.style.display = 'block';
+      tip.style.left = (ev.clientX + 14) + 'px';
+      tip.style.top = (ev.clientY - 24) + 'px';
+    });
+    c.addEventListener('mouseleave', function(){ tip.style.display = 'none'; });
+  });
+}
+
+/* 抽屉控件事件 */
+document.querySelectorAll('input[name=pcmode]').forEach(function(r){
+  r.addEventListener('change', function(){
+    var pair = document.querySelector('input[name=pcmode]:checked').value === 'pair';
+    document.getElementById('selA').disabled = !pair;
+    document.getElementById('selB').disabled = !pair;
+    if (DRAWER_EX) renderDrawer();
+  });
+});
+document.getElementById('selA').addEventListener('change', function(){ if (DRAWER_EX) renderDrawer(); });
+document.getElementById('selB').addEventListener('change', function(){ if (DRAWER_EX) renderDrawer(); });
+
+/* ============================================================
+   PR 全屏总览
+   ============================================================ */
+document.getElementById('btnPrFull').onclick = function(){ renderPrFull(); document.getElementById('prfull').classList.add('show'); };
+document.getElementById('btnPrFullClose').onclick = function(){ document.getElementById('prfull').classList.remove('show'); };
+function renderPrFull(){
+  var el = document.getElementById('prfullBody');
+  var html = '';
+  EX.forEach(function(e){
+    var t = prTestsOf(e.label); if (!t.length) return;
+    var latest = t[t.length-1];
+    var best = latest.points.slice().sort(function(a,b){ return b[0]-a[0]; })[0];   /* 最高档 = 最重 */
+    html += '<div class="pf-card" data-ex="'+esc(e.label)+'"><div class="pf-name"><span>'+esc(e.label)+'</span><span style="font-size:10.5px;color:var(--dim)">'+DIR_NAME[e.direction]+'</span></div>' +
+      '<div class="pf-best">'+best[0]+'kg → '+best[1]+' 次</div>' +
+      '<div class="pf-mini">最近测试 '+latest.date+' · 共 '+t.length+' 次</div>' +
+      '<div class="pf-btn">查看详情 →</div></div>';
+  });
+  el.innerHTML = html;
+  el.querySelectorAll('.pf-card').forEach(function(c){
+    c.addEventListener('click', function(){ openDrawer(c.getAttribute('data-ex')); });
+  });
+}
+
+/* ============================================================
+   弹窗：新建 / 编辑（内存态）
+   ============================================================ */
+var editingId = null;
+function openDialog(id, prefill){
+  editingId = id || null;
+  var r = id ? REFLECTIONS.filter(function(x){ return x.id === id; })[0] : null;
+  document.getElementById('dlgTitle').textContent = r ? '编辑感悟' : '新建感悟';
+  var sel = document.getElementById('fExercise');
+  sel.innerHTML = '<option value="">（训练日随笔）</option>';
+  EX.forEach(function(e){
+    var o = document.createElement('option');
+    o.value = e.label; o.textContent = e.label + '（' + DIR_NAME[e.direction] + '）';
+    sel.appendChild(o);
+  });
+  sel.value = r ? (r.exercise || '') : (prefill && prefill.ex) || '';
+  document.getElementById('fSet').value = r ? (r.setIndex || '') : (prefill && prefill.set) || '';
+  document.getElementById('fDate').value = r ? r.date : (prefill && prefill.date) || TODAY;
+  document.getElementById('fContent').value = r ? r.content : '';
+  document.getElementById('fTags').value = r ? (r.tags||[]).join(',') : '';
+  document.getElementById('mask').classList.add('show');
+}
+document.getElementById('dlgCancel').onclick = function(){ document.getElementById('mask').classList.remove('show'); };
+document.getElementById('mask').addEventListener('click', function(ev){ if (ev.target === this) this.classList.remove('show'); });
+document.getElementById('dlgSave').onclick = function(){
+  var exercise = document.getElementById('fExercise').value;
+  var setRaw = document.getElementById('fSet').value.trim();
+  var date = document.getElementById('fDate').value;
+  var content = document.getElementById('fContent').value.trim();
+  if (!date || !content){ toast('日期、内容必填'); return; }
+  var setIndex = setRaw ? parseInt(setRaw, 10) : null;
+  if (setRaw && (!setIndex || setIndex < 1)){ toast('组号需为正整数，或留空'); return; }
+  var tags = document.getElementById('fTags').value.split(/[,，]/).map(function(t){ return t.trim(); }).filter(Boolean);
+  var direction = exercise ? EX.filter(function(e){ return e.label === exercise; })[0].direction : 'other';
+  var now = new Date();
+  var time = ('0'+now.getHours()).slice(-2) + ':' + ('0'+now.getMinutes()).slice(-2);
+
+  if (editingId){
+    var rr = REFLECTIONS.filter(function(x){ return x.id === editingId; })[0];
+    rr.exercise = exercise; rr.setIndex = setIndex; rr.date = date;
+    rr.content = content; rr.tags = tags; rr.direction = direction;
+    toast('已更新（内存态）');
+  } else {
+    var compact = date.replace(/-/g,'');
+    var uid = Math.random().toString(16).slice(2,10);
+    REFLECTIONS.push({ id:'ref_'+compact+'_'+uid, date:date, direction:direction, exercise:exercise, setIndex:setIndex, content:content, tags:tags, source:'页面', time:time });
+    toast('已新建（内存态，刷新后重置）');
+  }
+  document.getElementById('mask').classList.remove('show');
+  state.selected = { type:'set', sessionId:null, setIndex:null };
+  renderStats(); renderDaybar(); renderLeft(); renderMid(); renderRight();
+};
+
+/* ============================================================
+   初始化
+   ============================================================ */
+document.getElementById('btnGrafana').onclick = function(){
+  window.open('http://127.0.0.1:3000/d/ppl-training-monitor/ppl-training-monitor?orgId=1', '_blank');
+};
+renderStats(); renderDaybar(); renderLeft(); renderMid(); renderRight();
+</script>
+</body>
+</html>
