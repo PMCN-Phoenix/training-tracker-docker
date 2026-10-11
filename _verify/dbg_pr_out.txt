@@ -1,0 +1,105 @@
+﻿总行数: 284
+  weight_kg= None | max_reps= 9 | ex= T杆划船 | sid= s1784336400000
+  weight_kg= None | max_reps= 5 | ex= T杆划船 | sid= s1784336400000
+  weight_kg= None | max_reps= 10 | ex= T杆划船 | sid= s1785200400000
+  weight_kg= None | max_reps= 6 | ex= T杆划船 | sid= s1785200400000
+  weight_kg= None | max_reps= 11 | ex= T杆划船 | sid= s1786064400000
+  weight_kg= None | max_reps= 7 | ex= T杆划船 | sid= s1786064400000
+
+{
+ "exercise": "平板卧推",
+ "direction": "push",
+ "tests": [
+  {
+   "test_no": 1,
+   "date": "2026-07-18",
+   "session_id": "s1784336400000",
+   "points": [
+    {
+     "weight_kg": null,
+     "max_reps": 8
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 5
+    }
+   ]
+  },
+  {
+   "test_no": 2,
+   "date": "2026-07-28",
+   "session_id": "s1785200400000",
+   "points": [
+    {
+     "weight_kg": null,
+     "max_reps": 10
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 6
+    }
+   ]
+  },
+  {
+   "test_no": 3,
+   "date": "2026-08-07",
+   "session_id": "s1786064400000",
+   "points": [
+    {
+     "weight_kg": null,
+     "max_reps": 12
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 7
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 4
+    }
+   ]
+  },
+  {
+   "test_no": 4,
+   "date": "2026-08-08",
+   "session_id": "s1786187923422",
+   "points": [
+    {
+     "weight_kg": null,
+     "max_reps": 20
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 14
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 12
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 8
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 7
+    }
+   ]
+  },
+  {
+   "test_no": 5,
+   "date": "2026-09-04",
+   "session_id": "s1788523200000",
+   "points": [
+    {
+     "weight_kg": null,
+     "max_reps": 13
+    },
+    {
+     "weight_kg": null,
+     "max_reps": 10
+    }
+   ]
+  }
+ ]
+}

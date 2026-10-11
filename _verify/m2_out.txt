@@ -1,0 +1,48 @@
+﻿== 0) 种子数据（消息录入，固定时间窗 10-08~10-09）==
+  [200] PR 平板卧推 60kg×5 55kg×8 50kg×10 -> 已记录 1 个动作(PR) 3 档
+  [200] 测试 平板卧推 62.5kg×3 57.5kg×6 -> 已记录 1 个动作(PR) 2 档
+  [200] 平板卧推 47.5kg×8 第1组 47.5kg×8 第2组 -> 已记录 1 个动作 3 组，1 条感悟（平板卧推·第1组）
+  [200] 晨脉 65 推日 感悟：整体状态一般 -> 已记录 1 条晨脉，1 条感悟
+  [200] 意象训练 50个意念卧推 -> 已记录 意象训练
+== 1) 感悟 CRUD 循环（原子）==
+  PASS POST 创建
+  FAIL GET 单条 
+  PASS PUT 更新
+  PASS PUT 生效
+  PASS DELETE 删除
+  FAIL 删除后 404 
+== 2) 感悟列表筛选（单元）==
+  PASS 按日筛-2条
+  PASS 按动作筛-1条
+  PASS 按组号筛-1条
+  PASS 按方向筛
+== 3) 训练历史（交叉：与 InfluxDB 实查对账）==
+  FAIL exercise接口-仅训练session(不含PR/感悟) got 15
+  PASS session-3组
+  PASS session-组顺序1-2-3
+  FAIL session-重量 
+  PASS session-次数
+  PASS session-date(UTC+8)
+  PASS session-direction
+  PASS 交叉-实查训练组数一致
+== 4) PR 测试（集成）==
+  PASS PR-含平板卧推
+  FAIL PR-2次测试 got 8
+  FAIL PR-编号日期升序 
+  FAIL PR-#1 三档 [{'weight_kg': None, 'max_reps': 8}, {'weight_kg': None, 'max_reps': 5}]
+  FAIL PR-#2 两档 [{'weight_kg': None, 'max_reps': 10}, {'weight_kg': None, 'max_reps': 6}]
+== 5) 按日全貌（端到端）==
+  PASS day-日期
+  PASS day-训练session 1个
+  PASS day-session动作
+  PASS day-日级感悟1条
+  PASS day-日级无动作
+  FAIL day-晨脉65 []
+  PASS day-意象1次
+== 6) 统计（交叉）==
+  FAIL stats-总数≥3 {'total_count': 2, 'today_count': 0, 'consecutive_days': 0, 'exercise_count': 0}
+  FAIL stats-覆盖动作≥1 {'total_count': 2, 'today_count': 0, 'consecutive_days': 0, 'exercise_count': 0}
+== 7) 精确清理（按 session_id / id）==
+  PASS 清理后窗口内无残留
+
+M2 验证: 22 PASS / 11 FAIL
