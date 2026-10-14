@@ -1,0 +1,1034 @@
+[
+ {
+  "from": 0.08,
+  "to": 1.42,
+  "sid": 1,
+  "location": 2,
+  "content": "是不是倾向于堆肉",
+  "music": 0.0
+ },
+ {
+  "from": 1.42,
+  "to": 3.64,
+  "sid": 2,
+  "location": 2,
+  "content": "不是取决于你做的是不是8~12下",
+  "music": 0.0
+ },
+ {
+  "from": 3.64,
+  "to": 5.6,
+  "sid": 3,
+  "location": 2,
+  "content": "而是你这个动作完成的时候",
+  "music": 0.0
+ },
+ {
+  "from": 5.6,
+  "to": 8.62,
+  "sid": 4,
+  "location": 2,
+  "content": "是否倾向于让自己要侧重锻炼的那块肌肉",
+  "music": 0.0
+ },
+ {
+  "from": 8.62,
+  "to": 10.4,
+  "sid": 5,
+  "location": 2,
+  "content": "稳定的对抗阻力反复收缩",
+  "music": 0.0
+ },
+ {
+  "from": 10.4,
+  "to": 14.25,
+  "sid": 6,
+  "location": 2,
+  "content": "并且能够减少整合力量所带来的疲劳",
+  "music": 0.0
+ },
+ {
+  "from": 14.25,
+  "to": 17.35,
+  "sid": 7,
+  "location": 2,
+  "content": "较大的重量会倾向于让我们整合力量",
+  "music": 0.0
+ },
+ {
+  "from": 17.35,
+  "to": 18.47,
+  "sid": 8,
+  "location": 2,
+  "content": "协助我们去整合力量",
+  "music": 0.0
+ },
+ {
+  "from": 18.47,
+  "to": 19.28,
+  "sid": 9,
+  "location": 2,
+  "content": "仅此而已",
+  "music": 0.0
+ },
+ {
+  "from": 19.28,
+  "to": 21.6,
+  "sid": 10,
+  "location": 2,
+  "content": "如果你用相对大一些的重量",
+  "music": 0.0
+ },
+ {
+  "from": 21.6,
+  "to": 24.54,
+  "sid": 11,
+  "location": 2,
+  "content": "也能够较为稳定的让目标肌肉对抗阻力",
+  "music": 0.0
+ },
+ {
+  "from": 24.54,
+  "to": 25.34,
+  "sid": 12,
+  "location": 2,
+  "content": "去反复收缩",
+  "music": 0.0
+ },
+ {
+  "from": 25.34,
+  "to": 28.64,
+  "sid": 13,
+  "location": 2,
+  "content": "你没有必要去追求做8~12下的那种重量",
+  "music": 0.0
+ },
+ {
+  "from": 28.64,
+  "to": 31.74,
+  "sid": 14,
+  "location": 2,
+  "content": "而且次数的前提是重量",
+  "music": 0.0
+ },
+ {
+  "from": 31.74,
+  "to": 34.42,
+  "sid": 15,
+  "location": 2,
+  "content": "重量的前提是动作完成质量",
+  "music": 0.0
+ },
+ {
+  "from": 34.42,
+  "to": 37.24,
+  "sid": 16,
+  "location": 2,
+  "content": "你的动作框架动作目的才是第一位的",
+  "music": 0.0
+ },
+ {
+  "from": 37.24,
+  "to": 39.76,
+  "sid": 17,
+  "location": 2,
+  "content": "有很多朋友会纠结于自己的堆肉",
+  "music": 0.0
+ },
+ {
+  "from": 39.76,
+  "to": 41.39,
+  "sid": 18,
+  "location": 2,
+  "content": "是不是要做8~12下",
+  "music": 0.0
+ },
+ {
+  "from": 41.39,
+  "to": 43.93,
+  "sid": 19,
+  "location": 2,
+  "content": "其实我很少在锻炼过程中去数次数",
+  "music": 0.0
+ },
+ {
+  "from": 43.93,
+  "to": 47.13,
+  "sid": 20,
+  "location": 2,
+  "content": "比如一些动作我可能会采取加重减次数",
+  "music": 0.0
+ },
+ {
+  "from": 47.13,
+  "to": 48.56,
+  "sid": 21,
+  "location": 2,
+  "content": "逐步的进入锻炼状态",
+  "music": 0.0
+ },
+ {
+  "from": 48.56,
+  "to": 50.62,
+  "sid": 22,
+  "location": 2,
+  "content": "这个加重减次数的时候",
+  "music": 0.0
+ },
+ {
+  "from": 50.62,
+  "to": 52.54,
+  "sid": 23,
+  "location": 2,
+  "content": "一组的次数可能非常多",
+  "music": 0.0
+ },
+ {
+  "from": 52.54,
+  "to": 55.02,
+  "sid": 24,
+  "location": 2,
+  "content": "然后可能会用较大的重量",
+  "music": 0.0
+ },
+ {
+  "from": 55.02,
+  "to": 57.08,
+  "sid": 25,
+  "location": 2,
+  "content": "较低的次数去做个几组",
+  "music": 0.0
+ },
+ {
+  "from": 57.08,
+  "to": 60.5,
+  "sid": 26,
+  "location": 2,
+  "content": "然后我可能还会采取轻一点的重量",
+  "music": 0.0
+ },
+ {
+  "from": 60.5,
+  "to": 62.54,
+  "sid": 27,
+  "location": 2,
+  "content": "较多的次数去把它进一步地练透",
+  "music": 0.0
+ },
+ {
+  "from": 62.54,
+  "to": 64.8,
+  "sid": 28,
+  "location": 2,
+  "content": "还有一些动作本身容易稳定",
+  "music": 0.0
+ },
+ {
+  "from": 64.8,
+  "to": 66.55,
+  "sid": 29,
+  "location": 2,
+  "content": "或者这个部位比较特殊",
+  "music": 0.0
+ },
+ {
+  "from": 66.55,
+  "to": 70.59,
+  "sid": 30,
+  "location": 2,
+  "content": "我可能就会直接采取较大的次数去刺激它",
+  "music": 0.0
+ },
+ {
+  "from": 70.59,
+  "to": 71.99,
+  "sid": 31,
+  "location": 2,
+  "content": "一些容易稳定的动作",
+  "music": 0.0
+ },
+ {
+  "from": 71.99,
+  "to": 74.58,
+  "sid": 32,
+  "location": 2,
+  "content": "它本身对神经的消耗是要低一些的",
+  "music": 0.0
+ },
+ {
+  "from": 74.58,
+  "to": 75.46,
+  "sid": 33,
+  "location": 2,
+  "content": "还有一些部位",
+  "music": 0.0
+ },
+ {
+  "from": 75.46,
+  "to": 78.28,
+  "sid": 34,
+  "location": 2,
+  "content": "一些动作则是如果重量大到一定程度",
+  "music": 0.0
+ },
+ {
+  "from": 78.28,
+  "to": 80.32,
+  "sid": 35,
+  "location": 2,
+  "content": "我的动作可能会变形",
+  "music": 0.0
+ },
+ {
+  "from": 80.32,
+  "to": 83.84,
+  "sid": 36,
+  "location": 2,
+  "content": "也就是刚才说的会倾向于为了对抗这个重力",
+  "music": 0.0
+ },
+ {
+  "from": 83.84,
+  "to": 84.94,
+  "sid": 37,
+  "location": 2,
+  "content": "完成这个动作",
+  "music": 0.0
+ },
+ {
+  "from": 84.94,
+  "to": 86.34,
+  "sid": 38,
+  "location": 2,
+  "content": "倾向于整合力量",
+  "music": 0.0
+ },
+ {
+  "from": 86.34,
+  "to": 89.38,
+  "sid": 39,
+  "location": 2,
+  "content": "我目标肌肉对抗的阻力可能就不那么充分了",
+  "music": 0.0
+ },
+ {
+  "from": 89.38,
+  "to": 92.22,
+  "sid": 40,
+  "location": 2,
+  "content": "那这个时候我也会选择不去用这么大的重量",
+  "music": 0.0
+ },
+ {
+  "from": 92.22,
+  "to": 93.44,
+  "sid": 41,
+  "location": 2,
+  "content": "稍微轻一点点",
+  "music": 0.0
+ },
+ {
+  "from": 93.44,
+  "to": 95.3,
+  "sid": 42,
+  "location": 2,
+  "content": "让次数更多一点点也可以",
+  "music": 0.0
+ },
+ {
+  "from": 95.3,
+  "to": 97.23,
+  "sid": 43,
+  "location": 2,
+  "content": "这就是宁轻勿假",
+  "music": 0.0
+ },
+ {
+  "from": 97.23,
+  "to": 99.39,
+  "sid": 44,
+  "location": 2,
+  "content": "在动作质量保障的前提之下",
+  "music": 0.0
+ },
+ {
+  "from": 99.39,
+  "to": 101.0,
+  "sid": 45,
+  "location": 2,
+  "content": "动作目的保障的前提之下",
+  "music": 0.0
+ },
+ {
+  "from": 101.0,
+  "to": 103.12,
+  "sid": 46,
+  "location": 2,
+  "content": "我也是能增加一些重量",
+  "music": 0.0
+ },
+ {
+  "from": 103.12,
+  "to": 104.32,
+  "sid": 47,
+  "location": 2,
+  "content": "我就会增加一些重量",
+  "music": 0.0
+ },
+ {
+  "from": 104.32,
+  "to": 105.26,
+  "sid": 48,
+  "location": 2,
+  "content": "如果状态好的话",
+  "music": 0.0
+ },
+ {
+  "from": 105.26,
+  "to": 106.38,
+  "sid": 49,
+  "location": 2,
+  "content": "去更多的刺激",
+  "music": 0.0
+ },
+ {
+  "from": 106.38,
+  "to": 107.9,
+  "sid": 50,
+  "location": 2,
+  "content": "但状态不是一成不变的",
+  "music": 0.0
+ },
+ {
+  "from": 107.9,
+  "to": 108.86,
+  "sid": 51,
+  "location": 2,
+  "content": "状态也会下滑",
+  "music": 0.0
+ },
+ {
+  "from": 108.86,
+  "to": 109.66,
+  "sid": 52,
+  "location": 2,
+  "content": "下滑了以后",
+  "music": 0.0
+ },
+ {
+  "from": 109.66,
+  "to": 112.1,
+  "sid": 53,
+  "location": 2,
+  "content": "我也会根据状态去减轻一些重量",
+  "music": 0.0
+ },
+ {
+  "from": 112.1,
+  "to": 114.639,
+  "sid": 54,
+  "location": 2,
+  "content": "重量的选择怎么定的",
+  "music": 0.0
+ },
+ {
+  "from": 114.639,
+  "to": 117.099,
+  "sid": 55,
+  "location": 2,
+  "content": "如果你的目的是堆肉的话",
+  "music": 0.0
+ },
+ {
+  "from": 117.099,
+  "to": 119.64,
+  "sid": 56,
+  "location": 2,
+  "content": "你可以这样子做一个简单的判断",
+  "music": 0.0
+ },
+ {
+  "from": 119.64,
+  "to": 121.56,
+  "sid": 57,
+  "location": 2,
+  "content": "在撕裂感出现之前",
+  "music": 0.0
+ },
+ {
+  "from": 121.56,
+  "to": 125.27,
+  "sid": 58,
+  "location": 2,
+  "content": "如果因为酸胀感而无法继续完成这个动作",
+  "music": 0.0
+ },
+ {
+  "from": 125.27,
+  "to": 126.99,
+  "sid": 59,
+  "location": 2,
+  "content": "你可以考虑加一点点重量",
+  "music": 0.0
+ },
+ {
+  "from": 126.99,
+  "to": 128.73,
+  "sid": 60,
+  "location": 2,
+  "content": "说明这个重量有一点点小了",
+  "music": 0.0
+ },
+ {
+  "from": 128.73,
+  "to": 131.21,
+  "sid": 61,
+  "location": 2,
+  "content": "这里的前提都是动作质量",
+  "music": 0.0
+ },
+ {
+  "from": 131.21,
+  "to": 132.05,
+  "sid": 62,
+  "location": 2,
+  "content": "动作框架",
+  "music": 0.0
+ },
+ {
+  "from": 132.05,
+  "to": 135.93,
+  "sid": 63,
+  "location": 2,
+  "content": "你能够让你的要侧重锻炼的肌肉保持住张力",
+  "music": 0.0
+ },
+ {
+  "from": 135.93,
+  "to": 137.45,
+  "sid": 64,
+  "location": 2,
+  "content": "对抗阻力反复收缩",
+  "music": 0.0
+ },
+ {
+  "from": 137.45,
+  "to": 139.21,
+  "sid": 65,
+  "location": 2,
+  "content": "这里做自己能稳定的重量",
+  "music": 0.0
+ },
+ {
+  "from": 139.21,
+  "to": 140.96,
+  "sid": 66,
+  "location": 2,
+  "content": "做自己能做的幅度",
+  "music": 0.0
+ },
+ {
+  "from": 140.96,
+  "to": 142.72,
+  "sid": 67,
+  "location": 2,
+  "content": "在你的撕裂感出现之前",
+  "music": 0.0
+ },
+ {
+  "from": 142.72,
+  "to": 146.0,
+  "sid": 68,
+  "location": 2,
+  "content": "如果已经因为对抗这个重量无法继续完成",
+  "music": 0.0
+ },
+ {
+  "from": 146.0,
+  "to": 147.329,
+  "sid": 69,
+  "location": 2,
+  "content": "感觉到疲劳了",
+  "music": 0.0
+ },
+ {
+  "from": 147.329,
+  "to": 149.969,
+  "sid": 70,
+  "location": 2,
+  "content": "薄弱环节或者募集的肌肉力量对抗不了",
+  "music": 0.0
+ },
+ {
+  "from": 149.969,
+  "to": 151.329,
+  "sid": 71,
+  "location": 2,
+  "content": "那说明这个重量比较大了",
+  "music": 0.0
+ },
+ {
+  "from": 151.329,
+  "to": 152.769,
+  "sid": 72,
+  "location": 2,
+  "content": "你需要减一点点重量",
+  "music": 0.0
+ },
+ {
+  "from": 152.769,
+  "to": 153.649,
+  "sid": 73,
+  "location": 2,
+  "content": "也有朋友会问",
+  "music": 0.0
+ },
+ {
+  "from": 153.649,
+  "to": 154.79,
+  "sid": 74,
+  "location": 2,
+  "content": "什么是撕裂感",
+  "music": 0.0
+ },
+ {
+  "from": 154.79,
+  "to": 155.93,
+  "sid": 75,
+  "location": 2,
+  "content": "动作稳定",
+  "music": 0.0
+ },
+ {
+  "from": 155.93,
+  "to": 157.51,
+  "sid": 76,
+  "location": 2,
+  "content": "让你的目标肌肉对抗阻力",
+  "music": 0.0
+ },
+ {
+  "from": 157.51,
+  "to": 157.99,
+  "sid": 77,
+  "location": 2,
+  "content": "跨越关节",
+  "music": 0.0
+ },
+ {
+  "from": 157.99,
+  "to": 159.79,
+  "sid": 78,
+  "location": 2,
+  "content": "反复收缩达到一定次数",
+  "music": 0.0
+ },
+ {
+  "from": 159.79,
+  "to": 161.98,
+  "sid": 79,
+  "location": 2,
+  "content": "你可以逼自己一把再多做几个",
+  "music": 0.0
+ },
+ {
+  "from": 161.98,
+  "to": 163.88,
+  "sid": 80,
+  "location": 2,
+  "content": "那个酸胀感消退以后",
+  "music": 0.0
+ },
+ {
+  "from": 163.88,
+  "to": 166.13,
+  "sid": 81,
+  "location": 2,
+  "content": "发力所感受到的就是撕裂感",
+  "music": 0.0
+ },
+ {
+  "from": 166.13,
+  "to": 168.01,
+  "sid": 82,
+  "location": 2,
+  "content": "这个作为实际判断",
+  "music": 0.0
+ },
+ {
+  "from": 168.01,
+  "to": 172.55,
+  "sid": 83,
+  "location": 2,
+  "content": "而不是你那个八到十二五乘五三乘三堆肉",
+  "music": 0.0
+ },
+ {
+  "from": 172.55,
+  "to": 173.85,
+  "sid": 84,
+  "location": 2,
+  "content": "是由这个决定的",
+  "music": 0.0
+ },
+ {
+  "from": 173.85,
+  "to": 175.44,
+  "sid": 85,
+  "location": 2,
+  "content": "让我要侧重锻炼的肌肉",
+  "music": 0.0
+ },
+ {
+  "from": 175.44,
+  "to": 176.2,
+  "sid": 86,
+  "location": 2,
+  "content": "对抗阻力",
+  "music": 0.0
+ },
+ {
+  "from": 176.2,
+  "to": 176.8,
+  "sid": 87,
+  "location": 2,
+  "content": "反复收缩",
+  "music": 0.0
+ },
+ {
+  "from": 176.8,
+  "to": 180.3,
+  "sid": 88,
+  "location": 2,
+  "content": "只是大差不差的念透每一下高质量的对抗阻力",
+  "music": 0.0
+ },
+ {
+  "from": 180.3,
+  "to": 181.14,
+  "sid": 89,
+  "location": 2,
+  "content": "反复收缩",
+  "music": 0.0
+ },
+ {
+  "from": 181.14,
+  "to": 183.01,
+  "sid": 90,
+  "location": 2,
+  "content": "这个决定你是不是堆肉",
+  "music": 0.0
+ },
+ {
+  "from": 183.01,
+  "to": 184.87,
+  "sid": 91,
+  "location": 2,
+  "content": "然后那种固定的计划",
+  "music": 0.0
+ },
+ {
+  "from": 184.87,
+  "to": 186.99,
+  "sid": 92,
+  "location": 2,
+  "content": "其实比较合理的应用是什么",
+  "music": 0.0
+ },
+ {
+  "from": 186.99,
+  "to": 188.63,
+  "sid": 93,
+  "location": 2,
+  "content": "是调节神经状态",
+  "music": 0.0
+ },
+ {
+  "from": 188.63,
+  "to": 191.549,
+  "sid": 94,
+  "location": 2,
+  "content": "转化力量的时候比较合理的应用",
+  "music": 0.0
+ },
+ {
+  "from": 191.549,
+  "to": 194.329,
+  "sid": 95,
+  "location": 2,
+  "content": "或者在动作熟悉以后走一段线性计划",
+  "music": 0.0
+ },
+ {
+  "from": 194.329,
+  "to": 196.88,
+  "sid": 96,
+  "location": 2,
+  "content": "摸索自己大致的容量强度",
+  "music": 0.0
+ },
+ {
+  "from": 196.88,
+  "to": 199.04,
+  "sid": 97,
+  "location": 2,
+  "content": "一个阶段适度的逼一下自己",
+  "music": 0.0
+ },
+ {
+  "from": 199.04,
+  "to": 200.6,
+  "sid": 98,
+  "location": 2,
+  "content": "但这个适度逼自己的计划",
+  "music": 0.0
+ },
+ {
+  "from": 200.6,
+  "to": 202.49,
+  "sid": 99,
+  "location": 2,
+  "content": "还是要结合实际状态去调整",
+  "music": 0.0
+ },
+ {
+  "from": 202.49,
+  "to": 204.05,
+  "sid": 100,
+  "location": 2,
+  "content": "我们平时如果是堆肉纹理",
+  "music": 0.0
+ },
+ {
+  "from": 204.05,
+  "to": 204.97,
+  "sid": 101,
+  "location": 2,
+  "content": "结合自己实际状态",
+  "music": 0.0
+ },
+ {
+  "from": 204.97,
+  "to": 206.39,
+  "sid": 102,
+  "location": 2,
+  "content": "适度合理逼自己就行了",
+  "music": 0.0
+ },
+ {
+  "from": 206.39,
+  "to": 208.97,
+  "sid": 103,
+  "location": 2,
+  "content": "也就是说我们的动作区分两个主方向",
+  "music": 0.0
+ },
+ {
+  "from": 208.97,
+  "to": 211.5,
+  "sid": 104,
+  "location": 2,
+  "content": "一个是倾向于让目标肌肉对抗阻力",
+  "music": 0.0
+ },
+ {
+  "from": 211.5,
+  "to": 213.38,
+  "sid": 105,
+  "location": 2,
+  "content": "反复收缩直至大差不差的念头",
+  "music": 0.0
+ },
+ {
+  "from": 213.38,
+  "to": 216.4,
+  "sid": 106,
+  "location": 2,
+  "content": "另外一个是倾向于整合自己全身的力量",
+  "music": 0.0
+ },
+ {
+  "from": 216.4,
+  "to": 218.18,
+  "sid": 107,
+  "location": 2,
+  "content": "比方说都要推推里面",
+  "music": 0.0
+ },
+ {
+  "from": 218.18,
+  "to": 220.67,
+  "sid": 108,
+  "location": 2,
+  "content": "我也可以是找最小阻力臂",
+  "music": 0.0
+ },
+ {
+  "from": 220.67,
+  "to": 223.89,
+  "sid": 109,
+  "location": 2,
+  "content": "找我的全身能够调动起来的最大力量",
+  "music": 0.0
+ },
+ {
+  "from": 223.89,
+  "to": 225.21,
+  "sid": 110,
+  "location": 2,
+  "content": "比方说后侧链的力量",
+  "music": 0.0
+ },
+ {
+  "from": 225.21,
+  "to": 226.21,
+  "sid": 111,
+  "location": 2,
+  "content": "腿踩直的力量",
+  "music": 0.0
+ },
+ {
+  "from": 226.21,
+  "to": 229.6,
+  "sid": 112,
+  "location": 2,
+  "content": "以及找我能发挥最大力量的节奏速度",
+  "music": 0.0
+ },
+ {
+  "from": 229.6,
+  "to": 231.72,
+  "sid": 113,
+  "location": 2,
+  "content": "借助前场反射发起来等等",
+  "music": 0.0
+ },
+ {
+  "from": 231.72,
+  "to": 234.56,
+  "sid": 114,
+  "location": 2,
+  "content": "我也可以是通过其他的节奏",
+  "music": 0.0
+ },
+ {
+  "from": 234.56,
+  "to": 236.81,
+  "sid": 115,
+  "location": 2,
+  "content": "让目标肌肉更多的承受张力",
+  "music": 0.0
+ },
+ {
+  "from": 236.81,
+  "to": 239.21,
+  "sid": 116,
+  "location": 2,
+  "content": "比方说顿时顿顿到胸口",
+  "music": 0.0
+ },
+ {
+  "from": 239.21,
+  "to": 240.91,
+  "sid": 117,
+  "location": 2,
+  "content": "让他对抗阻力更多的收缩",
+  "music": 0.0
+ },
+ {
+  "from": 240.91,
+  "to": 242.07,
+  "sid": 118,
+  "location": 2,
+  "content": "在这个动作里面",
+  "music": 0.0
+ },
+ {
+  "from": 242.07,
+  "to": 245.019,
+  "sid": 119,
+  "location": 2,
+  "content": "我其他部位主要是负责稳定我的胸肌",
+  "music": 0.0
+ },
+ {
+  "from": 245.019,
+  "to": 246.359,
+  "sid": 120,
+  "location": 2,
+  "content": "在对抗阻力内收",
+  "music": 0.0
+ },
+ {
+  "from": 246.359,
+  "to": 248.039,
+  "sid": 121,
+  "location": 2,
+  "content": "这个时候我倾向于胸肌堆肉",
+  "music": 0.0
+ },
+ {
+  "from": 248.039,
+  "to": 250.159,
+  "sid": 122,
+  "location": 2,
+  "content": "看到了我推着的时候对抗这个重力",
+  "music": 0.0
+ },
+ {
+  "from": 250.159,
+  "to": 253.08,
+  "sid": 123,
+  "location": 2,
+  "content": "这时候胸肌有没有对抗阻力",
+  "music": 0.15645370897637173
+ },
+ {
+  "from": 253.08,
+  "to": 255.8,
+  "sid": 124,
+  "location": 2,
+  "content": "反复收缩大臂对抗阻力内收这一段",
+  "music": 0.0
+ },
+ {
+  "from": 255.8,
+  "to": 257.289,
+  "sid": 125,
+  "location": 2,
+  "content": "因为胸肌有一端",
+  "music": 0.0
+ },
+ {
+  "from": 257.289,
+  "to": 258.029,
+  "sid": 126,
+  "location": 2,
+  "content": "锁骨部",
+  "music": 0.0
+ },
+ {
+  "from": 258.029,
+  "to": 258.489,
+  "sid": 127,
+  "location": 2,
+  "content": "胸腹部",
+  "music": 0.0
+ },
+ {
+  "from": 258.489,
+  "to": 258.889,
+  "sid": 128,
+  "location": 2,
+  "content": "肋骨部",
+  "music": 0.0
+ },
+ {
+  "from": 258.889,
+  "to": 262.18,
+  "sid": 129,
+  "location": 2,
+  "content": "另外一端在肱骨上面可以嗯",
+  "music": 0.0
+ }
+]

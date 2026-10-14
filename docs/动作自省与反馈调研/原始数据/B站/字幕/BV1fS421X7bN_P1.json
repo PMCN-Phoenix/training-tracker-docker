@@ -1,0 +1,914 @@
+[
+ {
+  "from": 0.04,
+  "to": 2.4,
+  "sid": 1,
+  "location": 2,
+  "content": "欢迎大家来到动作纠正系列的第一期",
+  "music": 0.0
+ },
+ {
+  "from": 2.4,
+  "to": 4.82,
+  "sid": 2,
+  "location": 2,
+  "content": "动作纠正呢是我最近刚想出来的系列",
+  "music": 0.0
+ },
+ {
+  "from": 4.82,
+  "to": 7.44,
+  "sid": 3,
+  "location": 2,
+  "content": "主要就是把我线上学员不同的动作问题",
+  "music": 0.0
+ },
+ {
+  "from": 7.44,
+  "to": 8.29,
+  "sid": 4,
+  "location": 2,
+  "content": "讲解一遍",
+  "music": 0.0
+ },
+ {
+  "from": 8.29,
+  "to": 10.73,
+  "sid": 5,
+  "location": 2,
+  "content": "因为这也很可能是大家都出现的问题",
+  "music": 0.0
+ },
+ {
+  "from": 10.73,
+  "to": 12.33,
+  "sid": 6,
+  "location": 2,
+  "content": "那么今天我要讲解的就是呢",
+  "music": 0.0
+ },
+ {
+  "from": 12.33,
+  "to": 14.82,
+  "sid": 7,
+  "location": 2,
+  "content": "杠铃卧推应该如何稳定肩胛骨",
+  "music": 0.0
+ },
+ {
+  "from": 14.82,
+  "to": 16.78,
+  "sid": 8,
+  "location": 2,
+  "content": "怎么样推感受才能更好",
+  "music": 0.0
+ },
+ {
+  "from": 16.78,
+  "to": 18.3,
+  "sid": 9,
+  "location": 2,
+  "content": "那现在普遍的一个现象呢",
+  "music": 0.0
+ },
+ {
+  "from": 18.3,
+  "to": 19.94,
+  "sid": 10,
+  "location": 2,
+  "content": "就是卧推推出去的时候",
+  "music": 0.0
+ },
+ {
+  "from": 19.94,
+  "to": 22.82,
+  "sid": 11,
+  "location": 2,
+  "content": "大家更倾向于手臂打直去做全程",
+  "music": 0.0
+ },
+ {
+  "from": 22.82,
+  "to": 24.5,
+  "sid": 12,
+  "location": 2,
+  "content": "然后在打折的过程中呢",
+  "music": 0.0
+ },
+ {
+  "from": 24.5,
+  "to": 25.96,
+  "sid": 13,
+  "location": 2,
+  "content": "肩胛骨就容易送出去了",
+  "music": 0.0
+ },
+ {
+  "from": 25.96,
+  "to": 28.76,
+  "sid": 14,
+  "location": 2,
+  "content": "同时在推之前也没有做好起杆前的准备",
+  "music": 0.0
+ },
+ {
+  "from": 28.76,
+  "to": 30.34,
+  "sid": 15,
+  "location": 2,
+  "content": "没有构建好肌肉的刚性",
+  "music": 0.0
+ },
+ {
+  "from": 30.34,
+  "to": 33.2,
+  "sid": 16,
+  "location": 2,
+  "content": "才会导致一系列的肩膀借力或者疼痛",
+  "music": 0.0
+ },
+ {
+  "from": 33.2,
+  "to": 34.32,
+  "sid": 17,
+  "location": 2,
+  "content": "那么怎么解决呢",
+  "music": 0.0
+ },
+ {
+  "from": 34.32,
+  "to": 36.3,
+  "sid": 18,
+  "location": 2,
+  "content": "我们先从起杆前开始说",
+  "music": 0.0
+ },
+ {
+  "from": 36.3,
+  "to": 38.489,
+  "sid": 19,
+  "location": 2,
+  "content": "首先科普一下肩胛骨的知识",
+  "music": 0.0
+ },
+ {
+  "from": 38.489,
+  "to": 41.049,
+  "sid": 20,
+  "location": 2,
+  "content": "假设我的双手是一对肩胛骨",
+  "music": 0.0
+ },
+ {
+  "from": 41.049,
+  "to": 43.429,
+  "sid": 21,
+  "location": 2,
+  "content": "那它是会进行下回旋和下沉的",
+  "music": 0.0
+ },
+ {
+  "from": 43.429,
+  "to": 46.13,
+  "sid": 22,
+  "location": 2,
+  "content": "下沉呢是这样比较垂直的轨迹",
+  "music": 0.0
+ },
+ {
+  "from": 46.13,
+  "to": 49.74,
+  "sid": 23,
+  "location": 2,
+  "content": "而下回旋呢是这样弧形的弧形的轨迹",
+  "music": 0.0
+ },
+ {
+  "from": 49.74,
+  "to": 50.78,
+  "sid": 24,
+  "location": 2,
+  "content": "那在起杆之前呢",
+  "music": 0.0
+ },
+ {
+  "from": 50.78,
+  "to": 54.36,
+  "sid": 25,
+  "location": 2,
+  "content": "我们就要先做到肩胛骨下回旋加下沉",
+  "music": 0.0
+ },
+ {
+  "from": 54.36,
+  "to": 57.14,
+  "sid": 26,
+  "location": 2,
+  "content": "那就会变成这样",
+  "music": 0.0
+ },
+ {
+  "from": 58.009,
+  "to": 59.609,
+  "sid": 27,
+  "location": 2,
+  "content": "再看一遍",
+  "music": 0.0
+ },
+ {
+  "from": 60.89,
+  "to": 62.13,
+  "sid": 28,
+  "location": 2,
+  "content": "大家看明白了吗",
+  "music": 0.0
+ },
+ {
+  "from": 62.13,
+  "to": 63.77,
+  "sid": 29,
+  "location": 2,
+  "content": "所以躺在凳子上的时候呢",
+  "music": 0.0
+ },
+ {
+  "from": 63.77,
+  "to": 65.07,
+  "sid": 30,
+  "location": 2,
+  "content": "我们可以抬起双手",
+  "music": 0.0
+ },
+ {
+  "from": 65.07,
+  "to": 67.85,
+  "sid": 31,
+  "location": 2,
+  "content": "然后让肩胛骨下回旋加下沉",
+  "music": 0.0
+ },
+ {
+  "from": 67.85,
+  "to": 69.11,
+  "sid": 32,
+  "location": 2,
+  "content": "做好这个了以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 69.11,
+  "to": 70.31,
+  "sid": 33,
+  "location": 2,
+  "content": "再加入一个细节",
+  "music": 0.0
+ },
+ {
+  "from": 70.31,
+  "to": 74.01,
+  "sid": 34,
+  "location": 2,
+  "content": "就是想着我们的上胸去往下巴靠近好",
+  "music": 0.0
+ },
+ {
+  "from": 74.01,
+  "to": 78.36,
+  "sid": 35,
+  "location": 2,
+  "content": "我来演示一遍上胸往下拔靠近",
+  "music": 0.0
+ },
+ {
+  "from": 78.36,
+  "to": 80.44,
+  "sid": 36,
+  "location": 2,
+  "content": "这样你就会自然挺胸了",
+  "music": 0.0
+ },
+ {
+  "from": 80.44,
+  "to": 80.92,
+  "sid": 37,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 80.92,
+  "to": 82.0,
+  "sid": 38,
+  "location": 2,
+  "content": "做好这两点以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 82.0,
+  "to": 84.56,
+  "sid": 39,
+  "location": 2,
+  "content": "你就会发现你的下背部自然起桥了",
+  "music": 0.0
+ },
+ {
+  "from": 84.56,
+  "to": 85.96,
+  "sid": 40,
+  "location": 2,
+  "content": "和凳子就有空隙了",
+  "music": 0.0
+ },
+ {
+  "from": 85.96,
+  "to": 88.54,
+  "sid": 41,
+  "location": 2,
+  "content": "注意这里的肩胛骨下回旋和下沉",
+  "music": 0.0
+ },
+ {
+  "from": 88.54,
+  "to": 90.64,
+  "sid": 42,
+  "location": 2,
+  "content": "和掰杆还是有区别的",
+  "music": 0.0
+ },
+ {
+  "from": 90.64,
+  "to": 94.789,
+  "sid": 43,
+  "location": 2,
+  "content": "掰杆呢是你用双手主动的这么去掰",
+  "music": 0.0
+ },
+ {
+  "from": 95.189,
+  "to": 98.349,
+  "sid": 44,
+  "location": 2,
+  "content": "然后你的肩胛骨它的运动是被动的",
+  "music": 0.0
+ },
+ {
+  "from": 98.349,
+  "to": 99.709,
+  "sid": 45,
+  "location": 2,
+  "content": "而下回旋和下沉呢",
+  "music": 0.0
+ },
+ {
+  "from": 99.709,
+  "to": 103.289,
+  "sid": 46,
+  "location": 2,
+  "content": "是让你的肩胛骨主动的去运动",
+  "music": 0.0
+ },
+ {
+  "from": 103.289,
+  "to": 106.229,
+  "sid": 47,
+  "location": 2,
+  "content": "那你的双手的运动就是被动的",
+  "music": 0.0
+ },
+ {
+  "from": 106.229,
+  "to": 107.709,
+  "sid": 48,
+  "location": 2,
+  "content": "所以这里大家要理清楚",
+  "music": 0.0
+ },
+ {
+  "from": 107.709,
+  "to": 110.289,
+  "sid": 49,
+  "location": 2,
+  "content": "我们的肩胛骨是主动的去运动",
+  "music": 0.0
+ },
+ {
+  "from": 110.289,
+  "to": 112.55,
+  "sid": 50,
+  "location": 2,
+  "content": "带动我们的双手去转动",
+  "music": 0.0
+ },
+ {
+  "from": 112.55,
+  "to": 113.91,
+  "sid": 51,
+  "location": 2,
+  "content": "做好这两个以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 113.91,
+  "to": 115.55,
+  "sid": 52,
+  "location": 2,
+  "content": "脚的放置也很重要",
+  "music": 0.0
+ },
+ {
+  "from": 115.55,
+  "to": 117.19,
+  "sid": 53,
+  "location": 2,
+  "content": "脚需要去用力踩地面",
+  "music": 0.0
+ },
+ {
+  "from": 117.19,
+  "to": 118.86,
+  "sid": 54,
+  "location": 2,
+  "content": "膝盖夹角小于90度",
+  "music": 0.0
+ },
+ {
+  "from": 118.86,
+  "to": 121.24,
+  "sid": 55,
+  "location": 2,
+  "content": "这样才能有更好的蹬地的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 121.24,
+  "to": 123.1,
+  "sid": 56,
+  "location": 2,
+  "content": "如果你实在不知道蹬地的感觉呢",
+  "music": 0.0
+ },
+ {
+  "from": 123.1,
+  "to": 125.34,
+  "sid": 57,
+  "location": 2,
+  "content": "你可以想着借助腿部的力量",
+  "music": 0.0
+ },
+ {
+  "from": 125.34,
+  "to": 127.87,
+  "sid": 58,
+  "location": 2,
+  "content": "把屁股从凳子上抬起来",
+  "music": 0.0
+ },
+ {
+  "from": 127.87,
+  "to": 129.91,
+  "sid": 59,
+  "location": 2,
+  "content": "这样蹬地的感觉就很明确了",
+  "music": 0.0
+ },
+ {
+  "from": 129.91,
+  "to": 131.63,
+  "sid": 60,
+  "location": 2,
+  "content": "好做好以上三点以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 131.63,
+  "to": 133.05,
+  "sid": 61,
+  "location": 2,
+  "content": "我们就可以开始起杆了",
+  "music": 0.0
+ },
+ {
+  "from": 133.05,
+  "to": 136.07,
+  "sid": 62,
+  "location": 2,
+  "content": "我们需要采用的是全握全握",
+  "music": 0.0
+ },
+ {
+  "from": 136.07,
+  "to": 138.05,
+  "sid": 63,
+  "location": 2,
+  "content": "记住了是全握三遍",
+  "music": 0.0
+ },
+ {
+  "from": 138.05,
+  "to": 138.97,
+  "sid": 64,
+  "location": 2,
+  "content": "起开了以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 138.97,
+  "to": 140.36,
+  "sid": 65,
+  "location": 2,
+  "content": "不要直接掉下去了",
+  "music": 0.0
+ },
+ {
+  "from": 140.36,
+  "to": 144.1,
+  "sid": 66,
+  "location": 2,
+  "content": "而是把杠铃杆运用一个类似直臂下压的动作",
+  "music": 0.0
+ },
+ {
+  "from": 144.1,
+  "to": 146.24,
+  "sid": 67,
+  "location": 2,
+  "content": "就是那个练背阔的直臂下压",
+  "music": 0.0
+ },
+ {
+  "from": 146.24,
+  "to": 149.18,
+  "sid": 68,
+  "location": 2,
+  "content": "把杠铃转移到我们的胸口上方",
+  "music": 0.0
+ },
+ {
+  "from": 149.18,
+  "to": 151.16,
+  "sid": 69,
+  "location": 2,
+  "content": "然后才开始下落",
+  "music": 0.0
+ },
+ {
+  "from": 151.16,
+  "to": 153.04,
+  "sid": 70,
+  "location": 2,
+  "content": "同时落点呢每个人都不一样",
+  "music": 0.0
+ },
+ {
+  "from": 153.04,
+  "to": 154.24,
+  "sid": 71,
+  "location": 2,
+  "content": "小臂从侧面看",
+  "music": 0.0
+ },
+ {
+  "from": 154.24,
+  "to": 155.32,
+  "sid": 72,
+  "location": 2,
+  "content": "垂直地面就行",
+  "music": 0.0
+ },
+ {
+  "from": 155.32,
+  "to": 156.04,
+  "sid": 73,
+  "location": 2,
+  "content": "据我观察",
+  "music": 0.0
+ },
+ {
+  "from": 156.04,
+  "to": 158.68,
+  "sid": 74,
+  "location": 2,
+  "content": "大部分人都落在下胸的下沿部分",
+  "music": 0.0
+ },
+ {
+  "from": 158.68,
+  "to": 161.98,
+  "sid": 75,
+  "location": 2,
+  "content": "少部分人呢是落在中胸的胸口落下来",
+  "music": 0.0
+ },
+ {
+  "from": 161.98,
+  "to": 163.38,
+  "sid": 76,
+  "location": 2,
+  "content": "推起第一个的时候",
+  "music": 0.0
+ },
+ {
+  "from": 163.38,
+  "to": 164.92,
+  "sid": 77,
+  "location": 2,
+  "content": "除非你是特别瘦的瘦子",
+  "music": 0.0
+ },
+ {
+  "from": 164.92,
+  "to": 166.2,
+  "sid": 78,
+  "location": 2,
+  "content": "身体比较扁平的",
+  "music": 0.0
+ },
+ {
+  "from": 166.2,
+  "to": 168.0,
+  "sid": 79,
+  "location": 2,
+  "content": "不然我都不太建议去打直手臂",
+  "music": 0.0
+ },
+ {
+  "from": 168.0,
+  "to": 169.88,
+  "sid": 80,
+  "location": 2,
+  "content": "特别是肩胛骨不稳定的人群",
+  "music": 0.0
+ },
+ {
+  "from": 169.88,
+  "to": 171.9,
+  "sid": 81,
+  "location": 2,
+  "content": "因为咱们墨推到了最后顶峰",
+  "music": 0.0
+ },
+ {
+  "from": 171.9,
+  "to": 173.56,
+  "sid": 82,
+  "location": 2,
+  "content": "锁定了那几厘米的时候",
+  "music": 0.0
+ },
+ {
+  "from": 173.56,
+  "to": 175.3,
+  "sid": 83,
+  "location": 2,
+  "content": "肱三头肌发力就多了",
+  "music": 0.0
+ },
+ {
+  "from": 175.3,
+  "to": 177.52,
+  "sid": 84,
+  "location": 2,
+  "content": "这个时候呢胸肌发力已经很少了",
+  "music": 0.0
+ },
+ {
+  "from": 177.52,
+  "to": 178.88,
+  "sid": 85,
+  "location": 2,
+  "content": "所以为了保持张力感",
+  "music": 0.0
+ },
+ {
+  "from": 178.88,
+  "to": 180.74,
+  "sid": 86,
+  "location": 2,
+  "content": "我都不太建议每次推到顶",
+  "music": 0.0
+ },
+ {
+  "from": 180.74,
+  "to": 184.1,
+  "sid": 87,
+  "location": 2,
+  "content": "你们可以看到我练都只推3/4多一点点的",
+  "music": 0.0
+ },
+ {
+  "from": 184.1,
+  "to": 185.6,
+  "sid": 88,
+  "location": 2,
+  "content": "包括许多大佬高手",
+  "music": 0.0
+ },
+ {
+  "from": 185.6,
+  "to": 187.68,
+  "sid": 89,
+  "location": 2,
+  "content": "比如说郑少忠也都是这样的",
+  "music": 0.0
+ },
+ {
+  "from": 187.68,
+  "to": 191.28,
+  "sid": 90,
+  "location": 2,
+  "content": "但最后一个特别重要的点呢就是推上去的念想",
+  "music": 0.0
+ },
+ {
+  "from": 191.28,
+  "to": 194.44,
+  "sid": 91,
+  "location": 2,
+  "content": "我们不要想着刻意做出弧形的轨迹去推",
+  "music": 0.0
+ },
+ {
+  "from": 194.44,
+  "to": 198.07,
+  "sid": 92,
+  "location": 2,
+  "content": "而是想着垂直我们身体的方向去推",
+  "music": 0.0
+ },
+ {
+  "from": 198.07,
+  "to": 201.43,
+  "sid": 93,
+  "location": 2,
+  "content": "也就是垂直身体的正上方去推小臂",
+  "music": 0.0
+ },
+ {
+  "from": 201.43,
+  "to": 202.67,
+  "sid": 94,
+  "location": 2,
+  "content": "直上直下的去推",
+  "music": 0.0
+ },
+ {
+  "from": 202.67,
+  "to": 205.3,
+  "sid": 95,
+  "location": 2,
+  "content": "你的身体自然就会做出弧形的轨迹",
+  "music": 0.0
+ },
+ {
+  "from": 205.3,
+  "to": 207.22,
+  "sid": 96,
+  "location": 2,
+  "content": "而不是你要刻意去做出来的",
+  "music": 0.0
+ },
+ {
+  "from": 207.22,
+  "to": 208.82,
+  "sid": 97,
+  "location": 2,
+  "content": "因为垂直效率最高嘛",
+  "music": 0.0
+ },
+ {
+  "from": 208.82,
+  "to": 211.06,
+  "sid": 98,
+  "location": 2,
+  "content": "立线直接击穿你的胸肌",
+  "music": 0.0
+ },
+ {
+  "from": 211.06,
+  "to": 213.48,
+  "sid": 99,
+  "location": 2,
+  "content": "你们甚至可以看到我推3/4的行程",
+  "music": 0.0
+ },
+ {
+  "from": 213.48,
+  "to": 214.92,
+  "sid": 100,
+  "location": 2,
+  "content": "加垂直推的念想",
+  "music": 0.0
+ },
+ {
+  "from": 214.92,
+  "to": 217.78,
+  "sid": 101,
+  "location": 2,
+  "content": "我从侧面看几乎不会有弧形的轨迹",
+  "music": 0.0
+ },
+ {
+  "from": 217.78,
+  "to": 219.2,
+  "sid": 102,
+  "location": 2,
+  "content": "就是纯直上直下",
+  "music": 0.0
+ },
+ {
+  "from": 219.2,
+  "to": 220.68,
+  "sid": 103,
+  "location": 2,
+  "content": "那我这个效率多高啊",
+  "music": 0.0
+ },
+ {
+  "from": 220.68,
+  "to": 221.72,
+  "sid": 104,
+  "location": 2,
+  "content": "如果你们能做到",
+  "music": 0.0
+ },
+ {
+  "from": 221.72,
+  "to": 223.74,
+  "sid": 105,
+  "location": 2,
+  "content": "那你们的胸肌真的不会小好",
+  "music": 0.0
+ },
+ {
+  "from": 223.74,
+  "to": 225.88,
+  "sid": 106,
+  "location": 2,
+  "content": "今天要讲的内容纠错呢就到这里",
+  "music": 0.0
+ },
+ {
+  "from": 225.88,
+  "to": 227.12,
+  "sid": 107,
+  "location": 2,
+  "content": "感谢大家的观看",
+  "music": 0.0
+ },
+ {
+  "from": 227.12,
+  "to": 228.64,
+  "sid": 108,
+  "location": 2,
+  "content": "希望大家呢能给我点个赞",
+  "music": 0.0
+ },
+ {
+  "from": 228.64,
+  "to": 230.24,
+  "sid": 109,
+  "location": 2,
+  "content": "为这个系列也持续下去",
+  "music": 0.0
+ },
+ {
+  "from": 230.24,
+  "to": 230.8,
+  "sid": 110,
+  "location": 2,
+  "content": "帮帮忙",
+  "music": 0.0
+ },
+ {
+  "from": 230.8,
+  "to": 231.68,
+  "sid": 111,
+  "location": 2,
+  "content": "感谢大家了",
+  "music": 0.0
+ },
+ {
+  "from": 231.68,
+  "to": 232.16,
+  "sid": 112,
+  "location": 2,
+  "content": "以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 232.16,
+  "to": 235.92,
+  "sid": 113,
+  "location": 2,
+  "content": "我还会讲卧推的呼吸握法以及哑铃卧推等等",
+  "music": 0.0
+ },
+ {
+  "from": 235.92,
+  "to": 237.06,
+  "sid": 114,
+  "location": 2,
+  "content": "我们下期再见",
+  "music": 0.0
+ }
+]

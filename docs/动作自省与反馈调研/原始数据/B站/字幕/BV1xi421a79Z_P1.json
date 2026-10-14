@@ -1,0 +1,3610 @@
+[
+ {
+  "from": 0.1,
+  "to": 0.9,
+  "sid": 1,
+  "location": 2,
+  "content": "十多年前",
+  "music": 0.0
+ },
+ {
+  "from": 0.9,
+  "to": 3.22,
+  "sid": 2,
+  "location": 2,
+  "content": "一本名叫异类的超级畅销书",
+  "music": 0.0
+ },
+ {
+  "from": 3.22,
+  "to": 5.56,
+  "sid": 3,
+  "location": 2,
+  "content": "让1万小时定律风靡一时",
+  "music": 0.0
+ },
+ {
+  "from": 5.56,
+  "to": 6.68,
+  "sid": 4,
+  "location": 2,
+  "content": "这个定律声称",
+  "music": 0.0
+ },
+ {
+  "from": 6.68,
+  "to": 9.54,
+  "sid": 5,
+  "location": 2,
+  "content": "在任何领域想要达到出类拔萃的水平",
+  "music": 0.0
+ },
+ {
+  "from": 9.54,
+  "to": 12.22,
+  "sid": 6,
+  "location": 2,
+  "content": "必须要经过至少1万个小时的练习",
+  "music": 0.0
+ },
+ {
+  "from": 12.22,
+  "to": 13.8,
+  "sid": 7,
+  "location": 2,
+  "content": "这听起来很吸引人",
+  "music": 0.0
+ },
+ {
+  "from": 13.8,
+  "to": 16.86,
+  "sid": 8,
+  "location": 2,
+  "content": "但实际上它更像是一碗鸡汤",
+  "music": 0.0
+ },
+ {
+  "from": 16.86,
+  "to": 17.38,
+  "sid": 9,
+  "location": 2,
+  "content": "当然了",
+  "music": 0.0
+ },
+ {
+  "from": 17.38,
+  "to": 19.36,
+  "sid": 10,
+  "location": 2,
+  "content": "我从来都不否定鸡汤的价值",
+  "music": 0.0
+ },
+ {
+  "from": 19.36,
+  "to": 20.2,
+  "sid": 11,
+  "location": 2,
+  "content": "简短好懂",
+  "music": 0.0
+ },
+ {
+  "from": 20.2,
+  "to": 20.98,
+  "sid": 12,
+  "location": 2,
+  "content": "便于传播",
+  "music": 0.0
+ },
+ {
+  "from": 20.98,
+  "to": 22.45,
+  "sid": 13,
+  "location": 2,
+  "content": "还有一定激励作用",
+  "music": 0.0
+ },
+ {
+  "from": 22.45,
+  "to": 26.23,
+  "sid": 14,
+  "location": 2,
+  "content": "但是这一定律在实际操作中就显得比较空洞了",
+  "music": 0.0
+ },
+ {
+  "from": 26.23,
+  "to": 28.27,
+  "sid": 15,
+  "location": 2,
+  "content": "甚至可能会对你产生一些误导",
+  "music": 0.0
+ },
+ {
+  "from": 28.27,
+  "to": 30.31,
+  "sid": 16,
+  "location": 2,
+  "content": "让你认为只要玩命的练习",
+  "music": 0.0
+ },
+ {
+  "from": 30.31,
+  "to": 32.72,
+  "sid": 17,
+  "location": 2,
+  "content": "就能在任何领域成为顶尖高手",
+  "music": 0.0
+ },
+ {
+  "from": 32.72,
+  "to": 33.68,
+  "sid": 18,
+  "location": 2,
+  "content": "然而实际上",
+  "music": 0.0
+ },
+ {
+  "from": 33.68,
+  "to": 34.78,
+  "sid": 19,
+  "location": 2,
+  "content": "在心理学史上",
+  "music": 0.0
+ },
+ {
+  "from": 34.78,
+  "to": 38.71,
+  "sid": 20,
+  "location": 2,
+  "content": "从来就不存在一个确凿的1万小时定律的说法",
+  "music": 0.0
+ },
+ {
+  "from": 38.71,
+  "to": 40.39,
+  "sid": 21,
+  "location": 2,
+  "content": "而且在不同专业领域之间",
+  "music": 0.0
+ },
+ {
+  "from": 40.39,
+  "to": 43.319,
+  "sid": 22,
+  "location": 2,
+  "content": "也不存在一个统一的最低练习时长",
+  "music": 0.0
+ },
+ {
+  "from": 43.319,
+  "to": 44.639,
+  "sid": 23,
+  "location": 2,
+  "content": "举个简单的例子",
+  "music": 0.0
+ },
+ {
+  "from": 44.639,
+  "to": 46.399,
+  "sid": 24,
+  "location": 2,
+  "content": "我们小时候学习骑自行车",
+  "music": 0.0
+ },
+ {
+  "from": 46.399,
+  "to": 49.61,
+  "sid": 25,
+  "location": 2,
+  "content": "往往只需要几天或几周的针对性训练",
+  "music": 0.0
+ },
+ {
+  "from": 49.61,
+  "to": 52.05,
+  "sid": 26,
+  "location": 2,
+  "content": "一旦掌握了平衡和一些基本技巧",
+  "music": 0.0
+ },
+ {
+  "from": 52.05,
+  "to": 53.83,
+  "sid": 27,
+  "location": 2,
+  "content": "我们就能够熟练骑行了",
+  "music": 0.0
+ },
+ {
+  "from": 53.83,
+  "to": 56.61,
+  "sid": 28,
+  "location": 2,
+  "content": "这远远达不到1万小时的练习量",
+  "music": 0.0
+ },
+ {
+  "from": 56.61,
+  "to": 58.49,
+  "sid": 29,
+  "location": 2,
+  "content": "那既然这个定律并不严谨",
+  "music": 0.0
+ },
+ {
+  "from": 58.49,
+  "to": 60.41,
+  "sid": 30,
+  "location": 2,
+  "content": "有没有一种更科学的方法",
+  "music": 0.0
+ },
+ {
+  "from": 60.41,
+  "to": 63.019,
+  "sid": 31,
+  "location": 2,
+  "content": "帮助我们从新手转变为大师呢",
+  "music": 0.0
+ },
+ {
+  "from": 63.019,
+  "to": 64.639,
+  "sid": 32,
+  "location": 2,
+  "content": "答案当然是肯定的",
+  "music": 0.0
+ },
+ {
+  "from": 64.639,
+  "to": 67.0,
+  "sid": 33,
+  "location": 2,
+  "content": "这个方法就是刻意练习",
+  "music": 0.0
+ },
+ {
+  "from": 67.0,
+  "to": 68.18,
+  "sid": 34,
+  "location": 2,
+  "content": "在这期视频中",
+  "music": 0.0
+ },
+ {
+  "from": 68.18,
+  "to": 70.72,
+  "sid": 35,
+  "location": 2,
+  "content": "我将结合一些认知科学原理和大家分享",
+  "music": 0.0
+ },
+ {
+  "from": 70.72,
+  "to": 74.229,
+  "sid": 36,
+  "location": 2,
+  "content": "这一套超越1万小时定律的科学训练方法",
+  "music": 0.0
+ },
+ {
+  "from": 74.229,
+  "to": 75.169,
+  "sid": 37,
+  "location": 2,
+  "content": "通过这一理论",
+  "music": 0.0
+ },
+ {
+  "from": 75.169,
+  "to": 77.649,
+  "sid": 38,
+  "location": 2,
+  "content": "你就可以在任何领域实现快速成长",
+  "music": 0.0
+ },
+ {
+  "from": 77.649,
+  "to": 79.389,
+  "sid": 39,
+  "location": 2,
+  "content": "成就卓越",
+  "music": 0.0
+ },
+ {
+  "from": 80.149,
+  "to": 81.709,
+  "sid": 40,
+  "location": 2,
+  "content": "首先我们先来想一下",
+  "music": 0.0
+ },
+ {
+  "from": 81.709,
+  "to": 83.169,
+  "sid": 41,
+  "location": 2,
+  "content": "对于学习一项新技能",
+  "music": 0.0
+ },
+ {
+  "from": 83.169,
+  "to": 85.169,
+  "sid": 42,
+  "location": 2,
+  "content": "我们大部分人是怎么做的",
+  "music": 0.0
+ },
+ {
+  "from": 85.169,
+  "to": 86.96,
+  "sid": 43,
+  "location": 2,
+  "content": "就以打乒乓球为例",
+  "music": 0.0
+ },
+ {
+  "from": 86.96,
+  "to": 87.96,
+  "sid": 44,
+  "location": 2,
+  "content": "也许在某一天",
+  "music": 0.0
+ },
+ {
+  "from": 87.96,
+  "to": 90.54,
+  "sid": 45,
+  "location": 2,
+  "content": "你从电视上看到奥运健儿的赛场英姿",
+  "music": 0.0
+ },
+ {
+  "from": 90.54,
+  "to": 91.46,
+  "sid": 46,
+  "location": 2,
+  "content": "心生向往",
+  "music": 0.0
+ },
+ {
+  "from": 91.46,
+  "to": 93.55,
+  "sid": 47,
+  "location": 2,
+  "content": "于是也决定开始学习乒乓球",
+  "music": 0.0
+ },
+ {
+  "from": 93.55,
+  "to": 95.29,
+  "sid": 48,
+  "location": 2,
+  "content": "你购买了各种专业装备",
+  "music": 0.0
+ },
+ {
+  "from": 95.29,
+  "to": 97.72,
+  "sid": 49,
+  "location": 2,
+  "content": "甚至聘请了教练来提升自己",
+  "music": 0.0
+ },
+ {
+  "from": 97.72,
+  "to": 98.88,
+  "sid": 50,
+  "location": 2,
+  "content": "在一段时间里",
+  "music": 0.0
+ },
+ {
+  "from": 98.88,
+  "to": 102.6,
+  "sid": 51,
+  "location": 2,
+  "content": "你的球技在朋友还有教练的帮助下突飞猛进",
+  "music": 0.0
+ },
+ {
+  "from": 102.6,
+  "to": 104.6,
+  "sid": 52,
+  "location": 2,
+  "content": "你甚至能够像职业选手那样",
+  "music": 0.0
+ },
+ {
+  "from": 104.6,
+  "to": 106.41,
+  "sid": 53,
+  "location": 2,
+  "content": "打出一些精彩的扣杀",
+  "music": 0.0
+ },
+ {
+  "from": 106.41,
+  "to": 109.27,
+  "sid": 54,
+  "location": 2,
+  "content": "这个时候你可能就会在心里暗自得意",
+  "music": 0.0
+ },
+ {
+  "from": 109.27,
+  "to": 111.05,
+  "sid": 55,
+  "location": 2,
+  "content": "觉得自己实在太强大了",
+  "music": 0.0
+ },
+ {
+  "from": 111.05,
+  "to": 113.2,
+  "sid": 56,
+  "location": 2,
+  "content": "已经可以媲美职业水平了",
+  "music": 0.0
+ },
+ {
+  "from": 113.2,
+  "to": 116.8,
+  "sid": 57,
+  "location": 2,
+  "content": "这个时候你实际上就陷入了我们曾经所讲过的",
+  "music": 0.0
+ },
+ {
+  "from": 116.8,
+  "to": 118.87,
+  "sid": 58,
+  "location": 2,
+  "content": "达克效应的愚昧之巅",
+  "music": 0.0
+ },
+ {
+  "from": 118.87,
+  "to": 119.99,
+  "sid": 59,
+  "location": 2,
+  "content": "在传统意义上",
+  "music": 0.0
+ },
+ {
+  "from": 119.99,
+  "to": 121.67,
+  "sid": 60,
+  "location": 2,
+  "content": "你已经学会了打乒乓球",
+  "music": 0.0
+ },
+ {
+  "from": 121.67,
+  "to": 123.59,
+  "sid": 61,
+  "location": 2,
+  "content": "所有动作都变得自然而然",
+  "music": 0.0
+ },
+ {
+  "from": 123.59,
+  "to": 125.039,
+  "sid": 62,
+  "location": 2,
+  "content": "不需要过多思考",
+  "music": 0.0
+ },
+ {
+  "from": 125.039,
+  "to": 126.799,
+  "sid": 63,
+  "location": 2,
+  "content": "虽然自己还存在很多弱点",
+  "music": 0.0
+ },
+ {
+  "from": 126.799,
+  "to": 129.22,
+  "sid": 64,
+  "location": 2,
+  "content": "但你已经对此感到相当满意了",
+  "music": 0.0
+ },
+ {
+  "from": 129.22,
+  "to": 131.34,
+  "sid": 65,
+  "location": 2,
+  "content": "接下来你可能就会陷入一个误区",
+  "music": 0.0
+ },
+ {
+  "from": 131.34,
+  "to": 133.68,
+  "sid": 66,
+  "location": 2,
+  "content": "认为只要继续每周和朋友打球",
+  "music": 0.0
+ },
+ {
+  "from": 133.68,
+  "to": 135.76,
+  "sid": 67,
+  "location": 2,
+  "content": "自己的水平就会持续提升",
+  "music": 0.0
+ },
+ {
+  "from": 135.76,
+  "to": 137.88,
+  "sid": 68,
+  "location": 2,
+  "content": "虽然进步速度可能没有那么快了",
+  "music": 0.0
+ },
+ {
+  "from": 137.88,
+  "to": 141.03,
+  "sid": 69,
+  "location": 2,
+  "content": "但是你坚信自己最终还是会走向卓云",
+  "music": 0.0
+ },
+ {
+  "from": 141.03,
+  "to": 142.17,
+  "sid": 70,
+  "location": 2,
+  "content": "但是事实是",
+  "music": 0.0
+ },
+ {
+  "from": 142.17,
+  "to": 145.13,
+  "sid": 71,
+  "location": 2,
+  "content": "当一个人的表现达到可接受的水平",
+  "music": 0.0
+ },
+ {
+  "from": 145.13,
+  "to": 147.65,
+  "sid": 72,
+  "location": 2,
+  "content": "并且能够实现动作自动化后",
+  "music": 0.0
+ },
+ {
+  "from": 147.65,
+  "to": 149.19,
+  "sid": 73,
+  "location": 2,
+  "content": "即使再练习几年",
+  "music": 0.0
+ },
+ {
+  "from": 149.19,
+  "to": 151.14,
+  "sid": 74,
+  "location": 2,
+  "content": "也很难有显著的进步",
+  "music": 0.0
+ },
+ {
+  "from": 151.14,
+  "to": 154.68,
+  "sid": 75,
+  "location": 2,
+  "content": "这个时候的练习仅仅变成了简单的机械重复",
+  "music": 0.0
+ },
+ {
+  "from": 154.68,
+  "to": 156.87,
+  "sid": 76,
+  "location": 2,
+  "content": "几乎不会带来任何提升",
+  "music": 0.0
+ },
+ {
+  "from": 156.87,
+  "to": 157.79,
+  "sid": 77,
+  "location": 2,
+  "content": "更糟的是",
+  "music": 0.0
+ },
+ {
+  "from": 157.79,
+  "to": 160.21,
+  "sid": 78,
+  "location": 2,
+  "content": "如果我们没有刻意提高这样的技能",
+  "music": 0.0
+ },
+ {
+  "from": 160.21,
+  "to": 163.14,
+  "sid": 79,
+  "location": 2,
+  "content": "这些自动化的能力甚至会缓慢退化",
+  "music": 0.0
+ },
+ {
+  "from": 163.14,
+  "to": 165.86,
+  "sid": 80,
+  "location": 2,
+  "content": "所以说开了20多年车的老司机",
+  "music": 0.0
+ },
+ {
+  "from": 165.86,
+  "to": 168.8,
+  "sid": 81,
+  "location": 2,
+  "content": "不一定比开了5年车的司机更擅长驾驶",
+  "music": 0.0
+ },
+ {
+  "from": 168.8,
+  "to": 170.26,
+  "sid": 82,
+  "location": 2,
+  "content": "教了20年书的老师",
+  "music": 0.0
+ },
+ {
+  "from": 170.26,
+  "to": 173.67,
+  "sid": 83,
+  "location": 2,
+  "content": "也不一定比只教了5年书的老师能力更强",
+  "music": 0.0
+ },
+ {
+  "from": 173.67,
+  "to": 177.39,
+  "sid": 84,
+  "location": 2,
+  "content": "这种满足感往往会让你停滞不前",
+  "music": 0.0
+ },
+ {
+  "from": 178.29,
+  "to": 179.01,
+  "sid": 85,
+  "location": 2,
+  "content": "几年前",
+  "music": 0.0
+ },
+ {
+  "from": 179.01,
+  "to": 180.21,
+  "sid": 86,
+  "location": 2,
+  "content": "微博上有一项投票",
+  "music": 0.0
+ },
+ {
+  "from": 180.21,
+  "to": 182.95,
+  "sid": 87,
+  "location": 2,
+  "content": "问大家天赋和努力哪个更重要",
+  "music": 0.0
+ },
+ {
+  "from": 182.95,
+  "to": 185.87,
+  "sid": 88,
+  "location": 2,
+  "content": "结果半数以上的人选择了天赋",
+  "music": 0.0
+ },
+ {
+  "from": 185.87,
+  "to": 187.99,
+  "sid": 89,
+  "location": 2,
+  "content": "人们之所以相信天赋的力量",
+  "music": 0.0
+ },
+ {
+  "from": 187.99,
+  "to": 191.69,
+  "sid": 90,
+  "location": 2,
+  "content": "很大程度上是因为天生的天才确实是存在的",
+  "music": 0.0
+ },
+ {
+  "from": 191.69,
+  "to": 192.63,
+  "sid": 91,
+  "location": 2,
+  "content": "但实际上",
+  "music": 0.0
+ },
+ {
+  "from": 192.63,
+  "to": 195.37,
+  "sid": 92,
+  "location": 2,
+  "content": "这个世界上并没有我们想象中那么多",
+  "music": 0.0
+ },
+ {
+  "from": 195.37,
+  "to": 196.62,
+  "sid": 93,
+  "location": 2,
+  "content": "天赋异禀的人",
+  "music": 0.0
+ },
+ {
+  "from": 196.62,
+  "to": 198.5,
+  "sid": 94,
+  "location": 2,
+  "content": "比如音乐神童莫扎特",
+  "music": 0.0
+ },
+ {
+  "from": 198.5,
+  "to": 200.86,
+  "sid": 95,
+  "location": 2,
+  "content": "他在六七岁时就能演奏多种乐器",
+  "music": 0.0
+ },
+ {
+  "from": 200.86,
+  "to": 202.6,
+  "sid": 96,
+  "location": 2,
+  "content": "并在欧洲巡回演出",
+  "music": 0.0
+ },
+ {
+  "from": 202.6,
+  "to": 204.68,
+  "sid": 97,
+  "location": 2,
+  "content": "然而这背后是他的音乐家",
+  "music": 0.0
+ },
+ {
+  "from": 204.68,
+  "to": 208.48,
+  "sid": 98,
+  "location": 2,
+  "content": "父亲从小对他进行严格的高强度的特殊训练",
+  "music": 0.0
+ },
+ {
+  "from": 208.48,
+  "to": 210.44,
+  "sid": 99,
+  "location": 2,
+  "content": "当我们称赞某人为天才时",
+  "music": 0.0
+ },
+ {
+  "from": 210.44,
+  "to": 211.88,
+  "sid": 100,
+  "location": 2,
+  "content": "从某种程度上来说",
+  "music": 0.0
+ },
+ {
+  "from": 211.88,
+  "to": 215.38,
+  "sid": 101,
+  "location": 2,
+  "content": "是否定了他背后付出的无数努力和汗水",
+  "music": 0.0
+ },
+ {
+  "from": 215.38,
+  "to": 217.34,
+  "sid": 102,
+  "location": 2,
+  "content": "就像我们小时候写作文的时候",
+  "music": 0.0
+ },
+ {
+  "from": 217.34,
+  "to": 218.7,
+  "sid": 103,
+  "location": 2,
+  "content": "最常引用那句话",
+  "music": 0.0
+ },
+ {
+  "from": 218.7,
+  "to": 220.52,
+  "sid": 104,
+  "location": 2,
+  "content": "天才是1%的灵感",
+  "music": 0.0
+ },
+ {
+  "from": 220.52,
+  "to": 222.62,
+  "sid": 105,
+  "location": 2,
+  "content": "加上99%的汗水",
+  "music": 0.0
+ },
+ {
+  "from": 222.62,
+  "to": 223.96,
+  "sid": 106,
+  "location": 2,
+  "content": "1993年",
+  "music": 0.0
+ },
+ {
+  "from": 223.96,
+  "to": 226.64,
+  "sid": 107,
+  "location": 2,
+  "content": "心理学家安德烈埃里克森和他的同事们",
+  "music": 0.0
+ },
+ {
+  "from": 226.64,
+  "to": 228.51,
+  "sid": 108,
+  "location": 2,
+  "content": "提出了刻意练习的概念",
+  "music": 0.0
+ },
+ {
+  "from": 228.51,
+  "to": 230.71,
+  "sid": 109,
+  "location": 2,
+  "content": "他们研究了世界顶尖的音乐家",
+  "music": 0.0
+ },
+ {
+  "from": 230.71,
+  "to": 231.37,
+  "sid": 110,
+  "location": 2,
+  "content": "运动员",
+  "music": 0.0
+ },
+ {
+  "from": 231.37,
+  "to": 232.709,
+  "sid": 111,
+  "location": 2,
+  "content": "象棋大师等等",
+  "music": 0.0
+ },
+ {
+  "from": 232.709,
+  "to": 236.329,
+  "sid": 112,
+  "location": 2,
+  "content": "发现这些人的卓越表现并非由天赋决定的",
+  "music": 0.0
+ },
+ {
+  "from": 236.329,
+  "to": 239.86,
+  "sid": 113,
+  "location": 2,
+  "content": "而是通过长期的有目的性的练习实现的",
+  "music": 0.0
+ },
+ {
+  "from": 239.86,
+  "to": 241.36,
+  "sid": 114,
+  "location": 2,
+  "content": "根据埃里克森的研究",
+  "music": 0.0
+ },
+ {
+  "from": 241.36,
+  "to": 244.84,
+  "sid": 115,
+  "location": 2,
+  "content": "我总结了一个数学公式来表达刻意练习的概念",
+  "music": 0.0
+ },
+ {
+  "from": 244.84,
+  "to": 248.32,
+  "sid": 116,
+  "location": 2,
+  "content": "刻意练习等于动机乘以有目的的练习",
+  "music": 0.0
+ },
+ {
+  "from": 248.32,
+  "to": 250.15,
+  "sid": 117,
+  "location": 2,
+  "content": "乘以专注乘以时间",
+  "music": 0.0
+ },
+ {
+  "from": 250.15,
+  "to": 252.31,
+  "sid": 118,
+  "location": 2,
+  "content": "而有目的的练习等于目标",
+  "music": 0.0
+ },
+ {
+  "from": 252.31,
+  "to": 253.93,
+  "sid": 119,
+  "location": 2,
+  "content": "明确性加挑战性",
+  "music": 0.0
+ },
+ {
+  "from": 253.93,
+  "to": 254.97,
+  "sid": 120,
+  "location": 2,
+  "content": "加反馈性",
+  "music": 0.0
+ },
+ {
+  "from": 254.97,
+  "to": 256.519,
+  "sid": 121,
+  "location": 2,
+  "content": "加专家指导",
+  "music": 0.0
+ },
+ {
+  "from": 256.519,
+  "to": 258.319,
+  "sid": 122,
+  "location": 2,
+  "content": "这个公式看起来很普通",
+  "music": 0.0
+ },
+ {
+  "from": 258.319,
+  "to": 260.659,
+  "sid": 123,
+  "location": 2,
+  "content": "但是每一个元素都是至关重要的",
+  "music": 0.0
+ },
+ {
+  "from": 260.659,
+  "to": 263.959,
+  "sid": 124,
+  "location": 2,
+  "content": "现在我就来逐一解释一下这些元素",
+  "music": 0.0
+ },
+ {
+  "from": 265.15,
+  "to": 268.43,
+  "sid": 125,
+  "location": 2,
+  "content": "原则一动机在探讨刻意练习时",
+  "music": 0.054901958631290146
+ },
+ {
+  "from": 268.43,
+  "to": 270.49,
+  "sid": 126,
+  "location": 2,
+  "content": "动机无疑是非常重要的",
+  "music": 0.0
+ },
+ {
+  "from": 270.49,
+  "to": 272.93,
+  "sid": 127,
+  "location": 2,
+  "content": "它不仅是我们开启练习之旅的钥匙",
+  "music": 0.0
+ },
+ {
+  "from": 272.93,
+  "to": 275.57,
+  "sid": 128,
+  "location": 2,
+  "content": "更是我们持续精进的动力源泉",
+  "music": 0.0
+ },
+ {
+  "from": 275.57,
+  "to": 277.61,
+  "sid": 129,
+  "location": 2,
+  "content": "莫扎特之所以能在幼年时期",
+  "music": 0.0
+ },
+ {
+  "from": 277.61,
+  "to": 279.4,
+  "sid": 130,
+  "location": 2,
+  "content": "就接受严格的音乐训练",
+  "music": 0.0
+ },
+ {
+  "from": 279.4,
+  "to": 281.56,
+  "sid": 131,
+  "location": 2,
+  "content": "背后强大的音乐世家背景",
+  "music": 0.0
+ },
+ {
+  "from": 281.56,
+  "to": 283.36,
+  "sid": 132,
+  "location": 2,
+  "content": "还有从小的耳濡目染",
+  "music": 0.0
+ },
+ {
+  "from": 283.36,
+  "to": 286.22,
+  "sid": 133,
+  "location": 2,
+  "content": "毫无疑问为他提供了坚实的动机基础",
+  "music": 0.0
+ },
+ {
+  "from": 286.22,
+  "to": 289.12,
+  "sid": 134,
+  "location": 2,
+  "content": "这种环境虽然不是我们人人都能拥有的",
+  "music": 0.0
+ },
+ {
+  "from": 289.12,
+  "to": 292.02,
+  "sid": 135,
+  "location": 2,
+  "content": "但是每个人都可以在自己的兴趣和热情中",
+  "music": 0.0
+ },
+ {
+  "from": 292.02,
+  "to": 293.46,
+  "sid": 136,
+  "location": 2,
+  "content": "找到独特的动机",
+  "music": 0.0
+ },
+ {
+  "from": 293.46,
+  "to": 295.46,
+  "sid": 137,
+  "location": 2,
+  "content": "如果你自己或者你的孩子",
+  "music": 0.0
+ },
+ {
+  "from": 295.46,
+  "to": 298.34,
+  "sid": 138,
+  "location": 2,
+  "content": "对某项技能从最开始就丝毫不感兴趣",
+  "music": 0.0
+ },
+ {
+  "from": 298.34,
+  "to": 301.09,
+  "sid": 139,
+  "location": 2,
+  "content": "那么强求成为大师是不现实的",
+  "music": 0.0
+ },
+ {
+  "from": 301.09,
+  "to": 304.09,
+  "sid": 140,
+  "location": 2,
+  "content": "真正的卓越源自于内心真正的热爱",
+  "music": 0.0
+ },
+ {
+  "from": 304.09,
+  "to": 307.65,
+  "sid": 141,
+  "location": 2,
+  "content": "这种内驱力是任何外在因素都难以替代的",
+  "music": 0.0
+ },
+ {
+  "from": 307.65,
+  "to": 309.45,
+  "sid": 142,
+  "location": 2,
+  "content": "我们总是在一些特殊时刻",
+  "music": 0.0
+ },
+ {
+  "from": 309.45,
+  "to": 311.05,
+  "sid": 143,
+  "location": 2,
+  "content": "特别是新年临近的时候",
+  "music": 0.0
+ },
+ {
+  "from": 311.05,
+  "to": 313.15,
+  "sid": 144,
+  "location": 2,
+  "content": "兴致勃勃地给自己制定一些目标",
+  "music": 0.0
+ },
+ {
+  "from": 313.15,
+  "to": 315.06,
+  "sid": 145,
+  "location": 2,
+  "content": "像是健身减肥等等",
+  "music": 0.0
+ },
+ {
+  "from": 315.06,
+  "to": 317.34,
+  "sid": 146,
+  "location": 2,
+  "content": "然而这种热情往往并不持久",
+  "music": 0.0
+ },
+ {
+  "from": 317.34,
+  "to": 318.9,
+  "sid": 147,
+  "location": 2,
+  "content": "可能做了不到一个月",
+  "music": 0.0
+ },
+ {
+  "from": 318.9,
+  "to": 320.87,
+  "sid": 148,
+  "location": 2,
+  "content": "这种动力就消磨殆尽了",
+  "music": 0.0
+ },
+ {
+  "from": 320.87,
+  "to": 324.45,
+  "sid": 149,
+  "location": 2,
+  "content": "这种现象在心理学上叫做新年决心效应",
+  "music": 0.0
+ },
+ {
+  "from": 324.45,
+  "to": 328.38,
+  "sid": 150,
+  "location": 2,
+  "content": "那我们又该如何避免新年决心效应保持动力呢",
+  "music": 0.0
+ },
+ {
+  "from": 328.38,
+  "to": 330.54,
+  "sid": 151,
+  "location": 2,
+  "content": "首先我们要忘掉一个概念",
+  "music": 0.0
+ },
+ {
+  "from": 330.54,
+  "to": 331.65,
+  "sid": 152,
+  "location": 2,
+  "content": "意志力",
+  "music": 0.0
+ },
+ {
+  "from": 331.65,
+  "to": 333.99,
+  "sid": 153,
+  "location": 2,
+  "content": "特别是如果你觉得自己就是天生",
+  "music": 0.0
+ },
+ {
+  "from": 333.99,
+  "to": 335.43,
+  "sid": 154,
+  "location": 2,
+  "content": "意志力不够的类型",
+  "music": 0.0
+ },
+ {
+  "from": 335.43,
+  "to": 338.22,
+  "sid": 155,
+  "location": 2,
+  "content": "那你现在就要摒弃这个固有观念",
+  "music": 0.0
+ },
+ {
+  "from": 338.22,
+  "to": 339.08,
+  "sid": 156,
+  "location": 2,
+  "content": "实际上",
+  "music": 0.0
+ },
+ {
+  "from": 339.08,
+  "to": 342.43,
+  "sid": 157,
+  "location": 2,
+  "content": "意志力这个概念在心理学上一直存在着争议",
+  "music": 0.0
+ },
+ {
+  "from": 342.43,
+  "to": 343.93,
+  "sid": 158,
+  "location": 2,
+  "content": "我也更倾向于认为",
+  "music": 0.0
+ },
+ {
+  "from": 343.93,
+  "to": 346.81,
+  "sid": 159,
+  "location": 2,
+  "content": "意志力它并不是一个独立的固定的资源",
+  "music": 0.0
+ },
+ {
+  "from": 346.81,
+  "to": 348.78,
+  "sid": 160,
+  "location": 2,
+  "content": "而是受很多因素的影响",
+  "music": 0.0
+ },
+ {
+  "from": 348.78,
+  "to": 350.88,
+  "sid": 161,
+  "location": 2,
+  "content": "当我们称赞一个人意志力强",
+  "music": 0.0
+ },
+ {
+  "from": 350.88,
+  "to": 352.82,
+  "sid": 162,
+  "location": 2,
+  "content": "其实就和称赞天才一样",
+  "music": 0.0
+ },
+ {
+  "from": 352.82,
+  "to": 355.22,
+  "sid": 163,
+  "location": 2,
+  "content": "是我们在看到了这个人的成就之后",
+  "music": 0.0
+ },
+ {
+  "from": 355.22,
+  "to": 356.539,
+  "sid": 164,
+  "location": 2,
+  "content": "给他贴的标签",
+  "music": 0.0
+ },
+ {
+  "from": 356.539,
+  "to": 358.119,
+  "sid": 165,
+  "location": 2,
+  "content": "也没有科学证据表明",
+  "music": 0.0
+ },
+ {
+  "from": 358.119,
+  "to": 361.239,
+  "sid": 166,
+  "location": 2,
+  "content": "我们体内存在着某种决定意志力的基因",
+  "music": 0.0
+ },
+ {
+  "from": 361.239,
+  "to": 362.479,
+  "sid": 167,
+  "location": 2,
+  "content": "举个例子来说",
+  "music": 0.0
+ },
+ {
+  "from": 362.479,
+  "to": 365.299,
+  "sid": 168,
+  "location": 2,
+  "content": "假如我们让一位围棋大师去练习跳舞",
+  "music": 0.0
+ },
+ {
+  "from": 365.299,
+  "to": 367.639,
+  "sid": 169,
+  "location": 2,
+  "content": "他可能练了一天就练不下去了",
+  "music": 0.0
+ },
+ {
+  "from": 367.639,
+  "to": 369.93,
+  "sid": 170,
+  "location": 2,
+  "content": "但是你却能坚持练十天",
+  "music": 0.0
+ },
+ {
+  "from": 369.93,
+  "to": 371.53,
+  "sid": 171,
+  "location": 2,
+  "content": "那这能说明你的意志力",
+  "music": 0.0
+ },
+ {
+  "from": 371.53,
+  "to": 373.69,
+  "sid": 172,
+  "location": 2,
+  "content": "就比这位围棋大师更强吗",
+  "music": 0.0
+ },
+ {
+  "from": 373.69,
+  "to": 374.99,
+  "sid": 173,
+  "location": 2,
+  "content": "显然是不能的",
+  "music": 0.0
+ },
+ {
+  "from": 374.99,
+  "to": 376.41,
+  "sid": 174,
+  "location": 2,
+  "content": "这种所谓的意志力",
+  "music": 0.0
+ },
+ {
+  "from": 376.41,
+  "to": 379.69,
+  "sid": 175,
+  "location": 2,
+  "content": "更多的是在某种特定的领域或者情景中",
+  "music": 0.0
+ },
+ {
+  "from": 379.69,
+  "to": 381.15,
+  "sid": 176,
+  "location": 2,
+  "content": "更容易逼一下自己",
+  "music": 0.0
+ },
+ {
+  "from": 381.15,
+  "to": 382.29,
+  "sid": 177,
+  "location": 2,
+  "content": "仅此而已",
+  "music": 0.0
+ },
+ {
+  "from": 382.29,
+  "to": 383.73,
+  "sid": 178,
+  "location": 2,
+  "content": "要持续保持动机",
+  "music": 0.0
+ },
+ {
+  "from": 383.73,
+  "to": 385.61,
+  "sid": 179,
+  "location": 2,
+  "content": "方法确实是多种多样的",
+  "music": 0.0
+ },
+ {
+  "from": 385.61,
+  "to": 387.47,
+  "sid": 180,
+  "location": 2,
+  "content": "包括我们后面提到的那些原则",
+  "music": 0.0
+ },
+ {
+  "from": 387.47,
+  "to": 389.84,
+  "sid": 181,
+  "location": 2,
+  "content": "也会在某种程度上强化动机",
+  "music": 0.0
+ },
+ {
+  "from": 389.84,
+  "to": 391.84,
+  "sid": 182,
+  "location": 2,
+  "content": "那这里我想强调两点",
+  "music": 0.0
+ },
+ {
+  "from": 391.84,
+  "to": 392.98,
+  "sid": 183,
+  "location": 2,
+  "content": "我认为最重要的",
+  "music": 0.0
+ },
+ {
+  "from": 392.98,
+  "to": 395.7,
+  "sid": 184,
+  "location": 2,
+  "content": "也是我们在最开始就应该明确思考",
+  "music": 0.0
+ },
+ {
+  "from": 395.7,
+  "to": 399.15,
+  "sid": 185,
+  "location": 2,
+  "content": "发掘内在动机和明确外部动机",
+  "music": 0.0
+ },
+ {
+  "from": 399.15,
+  "to": 400.45,
+  "sid": 186,
+  "location": 2,
+  "content": "关于外部动机",
+  "music": 0.0
+ },
+ {
+  "from": 400.45,
+  "to": 403.69,
+  "sid": 187,
+  "location": 2,
+  "content": "我认为最强烈的驱动力来自于社会认可",
+  "music": 0.0
+ },
+ {
+  "from": 403.69,
+  "to": 406.95,
+  "sid": 188,
+  "location": 2,
+  "content": "当你做的事情会得到他人的不断认可和支持时",
+  "music": 0.0
+ },
+ {
+  "from": 406.95,
+  "to": 408.98,
+  "sid": 189,
+  "location": 2,
+  "content": "你就更有可能会坚持下去",
+  "music": 0.0
+ },
+ {
+  "from": 408.98,
+  "to": 410.9,
+  "sid": 190,
+  "location": 2,
+  "content": "比如在做自媒体初期",
+  "music": 0.0
+ },
+ {
+  "from": 410.9,
+  "to": 414.32,
+  "sid": 191,
+  "location": 2,
+  "content": "大家的点赞评论订阅都是一种肯定",
+  "music": 0.0
+ },
+ {
+  "from": 414.32,
+  "to": 417.43,
+  "sid": 192,
+  "location": 2,
+  "content": "这种正向反馈会极大的增强动力",
+  "music": 0.0
+ },
+ {
+  "from": 417.43,
+  "to": 419.21,
+  "sid": 193,
+  "location": 2,
+  "content": "而发掘内在动机",
+  "music": 0.0
+ },
+ {
+  "from": 419.21,
+  "to": 421.75,
+  "sid": 194,
+  "location": 2,
+  "content": "也就是花时间好好思考一下自己",
+  "music": 0.0
+ },
+ {
+  "from": 421.75,
+  "to": 423.51,
+  "sid": 195,
+  "location": 2,
+  "content": "真正的兴趣和价值观",
+  "music": 0.0
+ },
+ {
+  "from": 423.51,
+  "to": 425.13,
+  "sid": 196,
+  "location": 2,
+  "content": "问问自己这个目标",
+  "music": 0.0
+ },
+ {
+  "from": 425.13,
+  "to": 426.47,
+  "sid": 197,
+  "location": 2,
+  "content": "他为什么对我重要",
+  "music": 0.0
+ },
+ {
+  "from": 426.47,
+  "to": 429.82,
+  "sid": 198,
+  "location": 2,
+  "content": "它能够给我带来怎样的成长或者满足感",
+  "music": 0.0
+ },
+ {
+  "from": 429.82,
+  "to": 432.9,
+  "sid": 199,
+  "location": 2,
+  "content": "有时候我们内心就是会有一种强烈的渴望",
+  "music": 0.0
+ },
+ {
+  "from": 432.9,
+  "to": 434.74,
+  "sid": 200,
+  "location": 2,
+  "content": "驱使我们去追求某个目标",
+  "music": 0.0
+ },
+ {
+  "from": 434.74,
+  "to": 436.28,
+  "sid": 201,
+  "location": 2,
+  "content": "多关注目标实现后",
+  "music": 0.0
+ },
+ {
+  "from": 436.28,
+  "to": 438.7,
+  "sid": 202,
+  "location": 2,
+  "content": "可能会带来的满足感和成就感",
+  "music": 0.0
+ },
+ {
+  "from": 438.7,
+  "to": 442.77,
+  "sid": 203,
+  "location": 2,
+  "content": "这些内在的奖赏会成为你持续前进的强大动力",
+  "music": 0.0
+ },
+ {
+  "from": 442.77,
+  "to": 443.71,
+  "sid": 204,
+  "location": 2,
+  "content": "总的来说",
+  "music": 0.0
+ },
+ {
+  "from": 443.71,
+  "to": 447.89,
+  "sid": 205,
+  "location": 2,
+  "content": "要找到并强化那些能激励你继续前进的动机",
+  "music": 0.0
+ },
+ {
+  "from": 447.89,
+  "to": 451.64,
+  "sid": 206,
+  "location": 2,
+  "content": "同时削弱那些可能让你停下脚步的负面动机",
+  "music": 0.0
+ },
+ {
+  "from": 451.64,
+  "to": 454.2,
+  "sid": 207,
+  "location": 2,
+  "content": "相信自己有能力去达成那个目标",
+  "music": 0.0
+ },
+ {
+  "from": 454.2,
+  "to": 457.26,
+  "sid": 208,
+  "location": 2,
+  "content": "并且用实际成果来进一步增强的动力",
+  "music": 0.0
+ },
+ {
+  "from": 457.26,
+  "to": 460.44,
+  "sid": 209,
+  "location": 2,
+  "content": "这样你就能在追求目标的这条路上走得更远",
+  "music": 0.0
+ },
+ {
+  "from": 460.44,
+  "to": 462.74,
+  "sid": 210,
+  "location": 2,
+  "content": "原则二目标明确性",
+  "music": 0.0
+ },
+ {
+  "from": 462.74,
+  "to": 464.62,
+  "sid": 211,
+  "location": 2,
+  "content": "虽然和志同道合的人同行",
+  "music": 0.0
+ },
+ {
+  "from": 464.62,
+  "to": 466.82,
+  "sid": 212,
+  "location": 2,
+  "content": "可以给你提供一些鼓励和支持",
+  "music": 0.0
+ },
+ {
+  "from": 466.82,
+  "to": 468.2,
+  "sid": 213,
+  "location": 2,
+  "content": "但是真正的进步",
+  "music": 0.0
+ },
+ {
+  "from": 468.2,
+  "to": 470.75,
+  "sid": 214,
+  "location": 2,
+  "content": "归根结底还是取决于个人的练习",
+  "music": 0.0
+ },
+ {
+  "from": 470.75,
+  "to": 474.17,
+  "sid": 215,
+  "location": 2,
+  "content": "刻意练习的核心其实是一场孤独的修行",
+  "music": 0.0
+ },
+ {
+  "from": 474.17,
+  "to": 475.43,
+  "sid": 216,
+  "location": 2,
+  "content": "那在这个过程中",
+  "music": 0.0
+ },
+ {
+  "from": 475.43,
+  "to": 478.62,
+  "sid": 217,
+  "location": 2,
+  "content": "目标明确就成为一条至关重要的原则",
+  "music": 0.0
+ },
+ {
+  "from": 478.62,
+  "to": 480.9,
+  "sid": 218,
+  "location": 2,
+  "content": "关于这一点我就不详细展开讲了",
+  "music": 0.0
+ },
+ {
+  "from": 480.9,
+  "to": 484.32,
+  "sid": 219,
+  "location": 2,
+  "content": "大家可以参考一下我之前所讲的smart目标管理法",
+  "music": 0.0
+ },
+ {
+  "from": 484.32,
+  "to": 487.14,
+  "sid": 220,
+  "location": 2,
+  "content": "将大目标拆解成可以管理的小目标",
+  "music": 0.0
+ },
+ {
+  "from": 487.14,
+  "to": 488.26,
+  "sid": 221,
+  "location": 2,
+  "content": "渐进式的设定",
+  "music": 0.0
+ },
+ {
+  "from": 488.26,
+  "to": 489.78,
+  "sid": 222,
+  "location": 2,
+  "content": "具体的可衡量的",
+  "music": 0.0
+ },
+ {
+  "from": 489.78,
+  "to": 490.6,
+  "sid": 223,
+  "location": 2,
+  "content": "可实现的",
+  "music": 0.0
+ },
+ {
+  "from": 490.6,
+  "to": 492.84,
+  "sid": 224,
+  "location": 2,
+  "content": "相关的有时间限制的目标",
+  "music": 0.0
+ },
+ {
+  "from": 492.84,
+  "to": 495.78,
+  "sid": 225,
+  "location": 2,
+  "content": "这样可以让你更清晰地看到自己的进步轨迹",
+  "music": 0.0
+ },
+ {
+  "from": 495.78,
+  "to": 497.419,
+  "sid": 226,
+  "location": 2,
+  "content": "提高训练的动机",
+  "music": 0.0
+ },
+ {
+  "from": 497.419,
+  "to": 499.379,
+  "sid": 227,
+  "location": 2,
+  "content": "原则三挑战性",
+  "music": 0.0
+ },
+ {
+  "from": 499.379,
+  "to": 503.64,
+  "sid": 228,
+  "location": 2,
+  "content": "在刻意练习中不断跨出舒适区是最核心的原则",
+  "music": 0.0
+ },
+ {
+  "from": 503.64,
+  "to": 505.06,
+  "sid": 229,
+  "location": 2,
+  "content": "如果忽略了这一点",
+  "music": 0.0
+ },
+ {
+  "from": 505.06,
+  "to": 508.15,
+  "sid": 230,
+  "location": 2,
+  "content": "你的努力就很有可能会沦为无效劳动",
+  "music": 0.0
+ },
+ {
+  "from": 508.15,
+  "to": 509.57,
+  "sid": 231,
+  "location": 2,
+  "content": "以身体锻炼为例",
+  "music": 0.0
+ },
+ {
+  "from": 509.57,
+  "to": 510.59,
+  "sid": 232,
+  "location": 2,
+  "content": "在大学时期",
+  "music": 0.0
+ },
+ {
+  "from": 510.59,
+  "to": 512.59,
+  "sid": 233,
+  "location": 2,
+  "content": "我曾经坚持每天去健身房",
+  "music": 0.0
+ },
+ {
+  "from": 512.59,
+  "to": 514.52,
+  "sid": 234,
+  "location": 2,
+  "content": "做一套腹肌撕裂者的训练",
+  "music": 0.0
+ },
+ {
+  "from": 514.52,
+  "to": 515.48,
+  "sid": 235,
+  "location": 2,
+  "content": "刚开始的时候",
+  "music": 0.0
+ },
+ {
+  "from": 515.48,
+  "to": 517.96,
+  "sid": 236,
+  "location": 2,
+  "content": "这对我来说是非常困难且痛苦的",
+  "music": 0.0
+ },
+ {
+  "from": 517.96,
+  "to": 520.36,
+  "sid": 237,
+  "location": 2,
+  "content": "于是我适当的降低了训练强度",
+  "music": 0.0
+ },
+ {
+  "from": 520.36,
+  "to": 522.76,
+  "sid": 238,
+  "location": 2,
+  "content": "让它落入到我的拉伸区",
+  "music": 0.0
+ },
+ {
+  "from": 522.76,
+  "to": 524.34,
+  "sid": 239,
+  "location": 2,
+  "content": "而经过几个月的训练后",
+  "music": 0.0
+ },
+ {
+  "from": 524.34,
+  "to": 526.08,
+  "sid": 240,
+  "location": 2,
+  "content": "我逐渐适应了它的强度",
+  "music": 0.0
+ },
+ {
+  "from": 526.08,
+  "to": 529.26,
+  "sid": 241,
+  "location": 2,
+  "content": "它也从拉伸区落到了我的舒适区",
+  "music": 0.0
+ },
+ {
+  "from": 529.26,
+  "to": 530.36,
+  "sid": 242,
+  "location": 2,
+  "content": "而问题在于",
+  "music": 0.0
+ },
+ {
+  "from": 530.36,
+  "to": 532.8,
+  "sid": 243,
+  "location": 2,
+  "content": "当训练强度不再构成挑战",
+  "music": 0.0
+ },
+ {
+  "from": 532.8,
+  "to": 533.52,
+  "sid": 244,
+  "location": 2,
+  "content": "也就是说",
+  "music": 0.0
+ },
+ {
+  "from": 533.52,
+  "to": 536.33,
+  "sid": 245,
+  "location": 2,
+  "content": "我的身体已经完全适应了这种锻炼水平时",
+  "music": 0.0
+ },
+ {
+  "from": 536.33,
+  "to": 538.77,
+  "sid": 246,
+  "location": 2,
+  "content": "肌肉就不会再有明显的成长",
+  "music": 0.0
+ },
+ {
+  "from": 538.77,
+  "to": 539.91,
+  "sid": 247,
+  "location": 2,
+  "content": "在生理学上",
+  "music": 0.0
+ },
+ {
+  "from": 539.91,
+  "to": 542.11,
+  "sid": 248,
+  "location": 2,
+  "content": "这叫做体内平衡现象",
+  "music": 0.0
+ },
+ {
+  "from": 542.11,
+  "to": 546.35,
+  "sid": 249,
+  "location": 2,
+  "content": "它是指身体在适应某种刺激后达到的稳定状态",
+  "music": 0.0
+ },
+ {
+  "from": 546.35,
+  "to": 547.23,
+  "sid": 250,
+  "location": 2,
+  "content": "换句话说",
+  "music": 0.0
+ },
+ {
+  "from": 547.23,
+  "to": 549.11,
+  "sid": 251,
+  "location": 2,
+  "content": "我的舒适区虽然扩大了",
+  "music": 0.0
+ },
+ {
+  "from": 549.11,
+  "to": 551.319,
+  "sid": 252,
+  "location": 2,
+  "content": "但是我的技能水平却停滞了",
+  "music": 0.0
+ },
+ {
+  "from": 551.319,
+  "to": 553.019,
+  "sid": 253,
+  "location": 2,
+  "content": "因为看不到进一步的成果",
+  "music": 0.0
+ },
+ {
+  "from": 553.019,
+  "to": 554.879,
+  "sid": 254,
+  "location": 2,
+  "content": "我的锻炼动力逐渐减弱",
+  "music": 0.0
+ },
+ {
+  "from": 554.879,
+  "to": 556.75,
+  "sid": 255,
+  "location": 2,
+  "content": "最终放弃了这样训练",
+  "music": 0.0
+ },
+ {
+  "from": 556.75,
+  "to": 559.11,
+  "sid": 256,
+  "location": 2,
+  "content": "这其实也是我们在学习许多技能时",
+  "music": 0.0
+ },
+ {
+  "from": 559.11,
+  "to": 560.49,
+  "sid": 257,
+  "location": 2,
+  "content": "会面临的困境",
+  "music": 0.0
+ },
+ {
+  "from": 560.49,
+  "to": 563.2,
+  "sid": 258,
+  "location": 2,
+  "content": "那同样的道理也适用于大脑的训练",
+  "music": 0.0
+ },
+ {
+  "from": 563.2,
+  "to": 565.88,
+  "sid": 259,
+  "location": 2,
+  "content": "大脑和身体一样都追求稳定性",
+  "music": 0.0
+ },
+ {
+  "from": 565.88,
+  "to": 567.08,
+  "sid": 260,
+  "location": 2,
+  "content": "为了不断成长",
+  "music": 0.0
+ },
+ {
+  "from": 567.08,
+  "to": 570.97,
+  "sid": 261,
+  "location": 2,
+  "content": "我们必须迫使自己不断走出那个动态的舒适区",
+  "music": 0.0
+ },
+ {
+  "from": 570.97,
+  "to": 573.07,
+  "sid": 262,
+  "location": 2,
+  "content": "进入那个既能激发挑战",
+  "music": 0.0
+ },
+ {
+  "from": 573.07,
+  "to": 575.319,
+  "sid": 263,
+  "location": 2,
+  "content": "又不至于过于困难的拉伸区",
+  "music": 0.0
+ },
+ {
+  "from": 575.319,
+  "to": 577.819,
+  "sid": 264,
+  "location": 2,
+  "content": "那至于这个拉伸区的具体位置",
+  "music": 0.0
+ },
+ {
+  "from": 577.819,
+  "to": 579.579,
+  "sid": 265,
+  "location": 2,
+  "content": "并没有一个固定的标准",
+  "music": 0.0
+ },
+ {
+  "from": 579.579,
+  "to": 581.639,
+  "sid": 266,
+  "location": 2,
+  "content": "它需要我们根据自己的技能水平",
+  "music": 0.0
+ },
+ {
+  "from": 581.639,
+  "to": 584.22,
+  "sid": 267,
+  "location": 2,
+  "content": "心理状态来进行灵活的调整",
+  "music": 0.0
+ },
+ {
+  "from": 584.22,
+  "to": 587.8,
+  "sid": 268,
+  "location": 2,
+  "content": "只有找到那个能让你自己迅速成长的黄金点",
+  "music": 0.0
+ },
+ {
+  "from": 587.8,
+  "to": 590.1,
+  "sid": 269,
+  "location": 2,
+  "content": "我们才能走得更快更远",
+  "music": 0.0
+ },
+ {
+  "from": 590.1,
+  "to": 593.16,
+  "sid": 270,
+  "location": 2,
+  "content": "原则四反馈性与专家指导",
+  "music": 0.0
+ },
+ {
+  "from": 593.16,
+  "to": 595.48,
+  "sid": 271,
+  "location": 2,
+  "content": "如果你渴望实现飞速的进步",
+  "music": 0.0
+ },
+ {
+  "from": 595.48,
+  "to": 598.38,
+  "sid": 272,
+  "location": 2,
+  "content": "那你最好找一个有成功经验的好导师",
+  "music": 0.0
+ },
+ {
+  "from": 598.38,
+  "to": 601.16,
+  "sid": 273,
+  "location": 2,
+  "content": "如果这位导师能够对你进行一对一的辅导",
+  "music": 0.0
+ },
+ {
+  "from": 601.16,
+  "to": 603.3,
+  "sid": 274,
+  "location": 2,
+  "content": "那自然是最好的学习途径",
+  "music": 0.0
+ },
+ {
+  "from": 603.3,
+  "to": 603.94,
+  "sid": 275,
+  "location": 2,
+  "content": "当然了",
+  "music": 0.0
+ },
+ {
+  "from": 603.94,
+  "to": 606.06,
+  "sid": 276,
+  "location": 2,
+  "content": "这往往意味着一笔高额的费用",
+  "music": 0.0
+ },
+ {
+  "from": 606.06,
+  "to": 609.2,
+  "sid": 277,
+  "location": 2,
+  "content": "我们最常见的做法就是通过看书或者找视频",
+  "music": 0.0
+ },
+ {
+  "from": 609.2,
+  "to": 610.3,
+  "sid": 278,
+  "location": 2,
+  "content": "自学等等",
+  "music": 0.0
+ },
+ {
+  "from": 610.3,
+  "to": 613.76,
+  "sid": 279,
+  "location": 2,
+  "content": "这些方法在特定领域或者是某种程度上",
+  "music": 0.0
+ },
+ {
+  "from": 613.76,
+  "to": 615.2,
+  "sid": 280,
+  "location": 2,
+  "content": "确实能发挥作用",
+  "music": 0.0
+ },
+ {
+  "from": 615.2,
+  "to": 616.62,
+  "sid": 281,
+  "location": 2,
+  "content": "但是有局限性",
+  "music": 0.0
+ },
+ {
+  "from": 616.62,
+  "to": 619.64,
+  "sid": 282,
+  "location": 2,
+  "content": "因为不管你跟着视频看了多少遍示范",
+  "music": 0.0
+ },
+ {
+  "from": 619.64,
+  "to": 622.04,
+  "sid": 283,
+  "location": 2,
+  "content": "我们总是会有一些get不到的点",
+  "music": 0.0
+ },
+ {
+  "from": 622.04,
+  "to": 624.35,
+  "sid": 284,
+  "location": 2,
+  "content": "或者是对于某些细节理解错误",
+  "music": 0.0
+ },
+ {
+  "from": 624.35,
+  "to": 627.329,
+  "sid": 285,
+  "location": 2,
+  "content": "而这种误解可能就会一直伴随着你",
+  "music": 0.0
+ },
+ {
+  "from": 627.329,
+  "to": 629.269,
+  "sid": 286,
+  "location": 2,
+  "content": "缺少这种精确的反馈",
+  "music": 0.0
+ },
+ {
+  "from": 629.269,
+  "to": 632.469,
+  "sid": 287,
+  "location": 2,
+  "content": "我们就可能建立一个不准确的心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 632.469,
+  "to": 633.629,
+  "sid": 288,
+  "location": 2,
+  "content": "关于这个概念",
+  "music": 0.0
+ },
+ {
+  "from": 633.629,
+  "to": 636.43,
+  "sid": 289,
+  "location": 2,
+  "content": "我会在接下来的小节中深入的解释",
+  "music": 0.0
+ },
+ {
+  "from": 636.43,
+  "to": 639.53,
+  "sid": 290,
+  "location": 2,
+  "content": "所以我也是比较支持知识付费的",
+  "music": 0.0
+ },
+ {
+  "from": 639.53,
+  "to": 643.37,
+  "sid": 291,
+  "location": 2,
+  "content": "相比于在游戏中氪金投资自己的知识和技能",
+  "music": 0.0
+ },
+ {
+  "from": 643.37,
+  "to": 645.31,
+  "sid": 292,
+  "location": 2,
+  "content": "显然有着更长远的价值",
+  "music": 0.0
+ },
+ {
+  "from": 645.31,
+  "to": 648.81,
+  "sid": 293,
+  "location": 2,
+  "content": "尽管市场上确实存在着很多诱导消费的行为",
+  "music": 0.0
+ },
+ {
+  "from": 648.81,
+  "to": 651.39,
+  "sid": 294,
+  "location": 2,
+  "content": "让人们对知识付费产生一些偏见",
+  "music": 0.0
+ },
+ {
+  "from": 651.39,
+  "to": 652.99,
+  "sid": 295,
+  "location": 2,
+  "content": "但是我们必须认识到",
+  "music": 0.0
+ },
+ {
+  "from": 652.99,
+  "to": 655.67,
+  "sid": 296,
+  "location": 2,
+  "content": "并不是所有的知识付费都是割韭菜",
+  "music": 0.0
+ },
+ {
+  "from": 655.67,
+  "to": 658.47,
+  "sid": 297,
+  "location": 2,
+  "content": "也确实有很多宝贵的经验和系统知识",
+  "music": 0.0
+ },
+ {
+  "from": 658.47,
+  "to": 660.05,
+  "sid": 298,
+  "location": 2,
+  "content": "是没有办法通过自学",
+  "music": 0.0
+ },
+ {
+  "from": 660.05,
+  "to": 662.59,
+  "sid": 299,
+  "location": 2,
+  "content": "或者简单的搜索就能获取到的",
+  "music": 0.0
+ },
+ {
+  "from": 662.59,
+  "to": 663.27,
+  "sid": 300,
+  "location": 2,
+  "content": "除此之外",
+  "music": 0.0
+ },
+ {
+  "from": 663.27,
+  "to": 664.19,
+  "sid": 301,
+  "location": 2,
+  "content": "我们还要注意",
+  "music": 0.0
+ },
+ {
+  "from": 664.19,
+  "to": 666.55,
+  "sid": 302,
+  "location": 2,
+  "content": "导师仅仅只是能够引导我们",
+  "music": 0.0
+ },
+ {
+  "from": 666.55,
+  "to": 670.04,
+  "sid": 303,
+  "location": 2,
+  "content": "达到他们自身或者他们学生所能达到的水平",
+  "music": 0.0
+ },
+ {
+  "from": 670.04,
+  "to": 672.8,
+  "sid": 304,
+  "location": 2,
+  "content": "所以当你在一位导师下学有所成时",
+  "music": 0.0
+ },
+ {
+  "from": 672.8,
+  "to": 675.52,
+  "sid": 305,
+  "location": 2,
+  "content": "你完全可以考虑去找一个新的导师",
+  "music": 0.0
+ },
+ {
+  "from": 675.52,
+  "to": 677.32,
+  "sid": 306,
+  "location": 2,
+  "content": "继续推动自己成长",
+  "music": 0.0
+ },
+ {
+  "from": 677.32,
+  "to": 677.98,
+  "sid": 307,
+  "location": 2,
+  "content": "当然了",
+  "music": 0.0
+ },
+ {
+  "from": 677.98,
+  "to": 678.44,
+  "sid": 308,
+  "location": 2,
+  "content": "有的时候",
+  "music": 0.0
+ },
+ {
+  "from": 678.44,
+  "to": 681.3,
+  "sid": 309,
+  "location": 2,
+  "content": "我们可能确实找不到这样一位合适的导师",
+  "music": 0.0
+ },
+ {
+  "from": 681.3,
+  "to": 684.47,
+  "sid": 310,
+  "location": 2,
+  "content": "那这个时候我们就要学会自我反馈",
+  "music": 0.0
+ },
+ {
+  "from": 684.47,
+  "to": 686.35,
+  "sid": 311,
+  "location": 2,
+  "content": "通过反复的实践思考",
+  "music": 0.0
+ },
+ {
+  "from": 686.35,
+  "to": 687.94,
+  "sid": 312,
+  "location": 2,
+  "content": "并找出不足的地方",
+  "music": 0.0
+ },
+ {
+  "from": 687.94,
+  "to": 691.22,
+  "sid": 313,
+  "location": 2,
+  "content": "你可以尝试采用不同的方法策略来提高",
+  "music": 0.0
+ },
+ {
+  "from": 691.22,
+  "to": 694.51,
+  "sid": 314,
+  "location": 2,
+  "content": "直到找到那个最适合自己的进步之道",
+  "music": 0.0
+ },
+ {
+  "from": 694.51,
+  "to": 697.61,
+  "sid": 315,
+  "location": 2,
+  "content": "这种方法类似于企业中的AB测试",
+  "music": 0.0
+ },
+ {
+  "from": 697.61,
+  "to": 701.599,
+  "sid": 316,
+  "location": 2,
+  "content": "通过不断试错纠正和改进来寻找最佳的方案",
+  "music": 0.0
+ },
+ {
+  "from": 701.599,
+  "to": 702.559,
+  "sid": 317,
+  "location": 2,
+  "content": "在这个过程中",
+  "music": 0.0
+ },
+ {
+  "from": 702.559,
+  "to": 704.999,
+  "sid": 318,
+  "location": 2,
+  "content": "我们可以总结出自己一套独特的经验",
+  "music": 0.0
+ },
+ {
+  "from": 704.999,
+  "to": 706.39,
+  "sid": 319,
+  "location": 2,
+  "content": "或者说方法论",
+  "music": 0.0
+ },
+ {
+  "from": 706.39,
+  "to": 708.93,
+  "sid": 320,
+  "location": 2,
+  "content": "你在未来也可能会成为他人的导师",
+  "music": 0.0
+ },
+ {
+  "from": 708.93,
+  "to": 710.93,
+  "sid": 321,
+  "location": 2,
+  "content": "把价值传递给后人",
+  "music": 0.0
+ },
+ {
+  "from": 710.93,
+  "to": 711.95,
+  "sid": 322,
+  "location": 2,
+  "content": "下一个原则",
+  "music": 0.0
+ },
+ {
+  "from": 711.95,
+  "to": 715.379,
+  "sid": 323,
+  "location": 2,
+  "content": "专注关于专注的重要性以及专注的方法",
+  "music": 0.0
+ },
+ {
+  "from": 715.379,
+  "to": 718.37,
+  "sid": 324,
+  "location": 2,
+  "content": "我在前不久的注意力管理中已经说的很详细了",
+  "music": 0.0
+ },
+ {
+  "from": 718.37,
+  "to": 719.59,
+  "sid": 325,
+  "location": 2,
+  "content": "我们一定要记住",
+  "music": 0.0
+ },
+ {
+  "from": 719.59,
+  "to": 722.339,
+  "sid": 326,
+  "location": 2,
+  "content": "专注与全心投入是非常重要的",
+  "music": 0.0
+ },
+ {
+  "from": 722.339,
+  "to": 725.599,
+  "sid": 327,
+  "location": 2,
+  "content": "如果我们总是以一种嘻嘻哈哈的态度来训练",
+  "music": 0.0
+ },
+ {
+  "from": 725.599,
+  "to": 727.379,
+  "sid": 328,
+  "location": 2,
+  "content": "或者只觉得很好玩",
+  "music": 0.0
+ },
+ {
+  "from": 727.379,
+  "to": 729.579,
+  "sid": 329,
+  "location": 2,
+  "content": "那我们大概率是不会进步的",
+  "music": 0.0
+ },
+ {
+  "from": 729.579,
+  "to": 732.459,
+  "sid": 330,
+  "location": 2,
+  "content": "总之不管你想要在哪个领域精进",
+  "music": 0.0
+ },
+ {
+  "from": 732.459,
+  "to": 733.539,
+  "sid": 331,
+  "location": 2,
+  "content": "全力以赴",
+  "music": 0.0
+ },
+ {
+  "from": 733.539,
+  "to": 735.719,
+  "sid": 332,
+  "location": 2,
+  "content": "专心去做最后一个原则",
+  "music": 0.0
+ },
+ {
+  "from": 735.719,
+  "to": 738.19,
+  "sid": 333,
+  "location": 2,
+  "content": "时间要做时间的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 738.19,
+  "to": 741.44,
+  "sid": 334,
+  "location": 2,
+  "content": "这种观念在金融投资领域是经常会提到的",
+  "music": 0.0
+ },
+ {
+  "from": 741.44,
+  "to": 742.84,
+  "sid": 335,
+  "location": 2,
+  "content": "然而这种复利效应",
+  "music": 0.0
+ },
+ {
+  "from": 742.84,
+  "to": 745.01,
+  "sid": 336,
+  "location": 2,
+  "content": "在个人成长领域也是同样重要的",
+  "music": 0.0
+ },
+ {
+  "from": 745.01,
+  "to": 747.71,
+  "sid": 337,
+  "location": 2,
+  "content": "而且我认为投资自己的重要性",
+  "music": 0.0
+ },
+ {
+  "from": 747.71,
+  "to": 749.81,
+  "sid": 338,
+  "location": 2,
+  "content": "并不亚于任何金融投资",
+  "music": 0.0
+ },
+ {
+  "from": 749.81,
+  "to": 751.41,
+  "sid": 339,
+  "location": 2,
+  "content": "小到我们个人的大目标",
+  "music": 0.0
+ },
+ {
+  "from": 751.41,
+  "to": 752.49,
+  "sid": 340,
+  "location": 2,
+  "content": "大到一个企业",
+  "music": 0.0
+ },
+ {
+  "from": 752.49,
+  "to": 755.43,
+  "sid": 341,
+  "location": 2,
+  "content": "一个国家10年到几十年的战略目标",
+  "music": 0.0
+ },
+ {
+  "from": 755.43,
+  "to": 757.97,
+  "sid": 342,
+  "location": 2,
+  "content": "都需要秉持长期主义的理念",
+  "music": 0.0
+ },
+ {
+  "from": 757.97,
+  "to": 760.45,
+  "sid": 343,
+  "location": 2,
+  "content": "通过持续不断的学习和实践",
+  "music": 0.0
+ },
+ {
+  "from": 760.45,
+  "to": 763.61,
+  "sid": 344,
+  "location": 2,
+  "content": "我们就可以在特定领域实现复利式的增长",
+  "music": 0.0
+ },
+ {
+  "from": 763.61,
+  "to": 765.21,
+  "sid": 345,
+  "location": 2,
+  "content": "在我们展望未来的时候",
+  "music": 0.0
+ },
+ {
+  "from": 765.21,
+  "to": 767.73,
+  "sid": 346,
+  "location": 2,
+  "content": "我们往往会产生一些认知偏差",
+  "music": 0.0
+ },
+ {
+  "from": 767.73,
+  "to": 770.55,
+  "sid": 347,
+  "location": 2,
+  "content": "就像比尔盖茨在未来之路中所说的",
+  "music": 0.0
+ },
+ {
+  "from": 770.55,
+  "to": 772.97,
+  "sid": 348,
+  "location": 2,
+  "content": "人们总是高估了未来两年的变化",
+  "music": 0.0
+ },
+ {
+  "from": 772.97,
+  "to": 775.23,
+  "sid": 349,
+  "location": 2,
+  "content": "而低估了未来10年的变化",
+  "music": 0.0
+ },
+ {
+  "from": 775.23,
+  "to": 778.25,
+  "sid": 350,
+  "location": 2,
+  "content": "这是我们大脑天生的短视性决定",
+  "music": 0.0
+ },
+ {
+  "from": 778.25,
+  "to": 780.89,
+  "sid": 351,
+  "location": 2,
+  "content": "所以如果你觉得自己做的事情是对的",
+  "music": 0.0
+ },
+ {
+  "from": 780.89,
+  "to": 781.83,
+  "sid": 352,
+  "location": 2,
+  "content": "是有价值的",
+  "music": 0.0
+ },
+ {
+  "from": 781.83,
+  "to": 785.26,
+  "sid": 353,
+  "location": 2,
+  "content": "那就多给自己一些时间和耐心去刻意练习",
+  "music": 0.0
+ },
+ {
+  "from": 785.26,
+  "to": 787.3,
+  "sid": 354,
+  "location": 2,
+  "content": "我还记得我在阿里工作时的钱",
+  "music": 0.0
+ },
+ {
+  "from": 787.3,
+  "to": 790.7,
+  "sid": 355,
+  "location": 2,
+  "content": "老板的个性签名就是坚持长期主义",
+  "music": 0.0
+ },
+ {
+  "from": 790.7,
+  "to": 792.8,
+  "sid": 356,
+  "location": 2,
+  "content": "就这六个字从来都没有变过",
+  "music": 0.0
+ },
+ {
+  "from": 792.8,
+  "to": 795.5,
+  "sid": 357,
+  "location": 2,
+  "content": "那我也把这六个字送给大家",
+  "music": 0.0
+ },
+ {
+  "from": 796.4,
+  "to": 797.7,
+  "sid": 358,
+  "location": 2,
+  "content": "刻意练习的本质",
+  "music": 0.0
+ },
+ {
+  "from": 797.7,
+  "to": 802.22,
+  "sid": 359,
+  "location": 2,
+  "content": "简单来说就是持续构建并优化我们的心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 802.22,
+  "to": 805.28,
+  "sid": 360,
+  "location": 2,
+  "content": "心理表征是认知心理学中的一个核心概念",
+  "music": 0.0
+ },
+ {
+  "from": 805.28,
+  "to": 808.0,
+  "sid": 361,
+  "location": 2,
+  "content": "它是指大脑中对外界事物",
+  "music": 0.0
+ },
+ {
+  "from": 808.0,
+  "to": 811.18,
+  "sid": 362,
+  "location": 2,
+  "content": "概念事件等的内部表现或模型",
+  "music": 0.0
+ },
+ {
+  "from": 811.18,
+  "to": 815.3,
+  "sid": 363,
+  "location": 2,
+  "content": "它涉及我们如何在思维中储存处理和操作信息",
+  "music": 0.0
+ },
+ {
+  "from": 815.3,
+  "to": 817.6,
+  "sid": 364,
+  "location": 2,
+  "content": "它的形式可以是视觉图像",
+  "music": 0.0
+ },
+ {
+  "from": 817.6,
+  "to": 818.72,
+  "sid": 365,
+  "location": 2,
+  "content": "声音味道",
+  "music": 0.0
+ },
+ {
+  "from": 818.72,
+  "to": 821.92,
+  "sid": 366,
+  "location": 2,
+  "content": "也可以是语言符号或者抽象概念等等",
+  "music": 0.0
+ },
+ {
+  "from": 821.92,
+  "to": 824.6,
+  "sid": 367,
+  "location": 2,
+  "content": "那这个概念本身确实也很抽象",
+  "music": 0.0
+ },
+ {
+  "from": 824.6,
+  "to": 826.14,
+  "sid": 368,
+  "location": 2,
+  "content": "我举一个简单例子",
+  "music": 0.0
+ },
+ {
+  "from": 826.14,
+  "to": 829.26,
+  "sid": 369,
+  "location": 2,
+  "content": "现在闭上眼睛想象一个苹果",
+  "music": 0.0
+ },
+ {
+  "from": 829.26,
+  "to": 832.72,
+  "sid": 370,
+  "location": 2,
+  "content": "这个时候你的脑海中就会浮现出苹果的形状",
+  "music": 0.0
+ },
+ {
+  "from": 832.72,
+  "to": 833.34,
+  "sid": 371,
+  "location": 2,
+  "content": "颜色",
+  "music": 0.0
+ },
+ {
+  "from": 833.34,
+  "to": 834.52,
+  "sid": 372,
+  "location": 2,
+  "content": "感受到味道",
+  "music": 0.0
+ },
+ {
+  "from": 834.52,
+  "to": 837.29,
+  "sid": 373,
+  "location": 2,
+  "content": "甚至回忆起某次吃苹果的经历",
+  "music": 0.0
+ },
+ {
+  "from": 837.29,
+  "to": 840.29,
+  "sid": 374,
+  "location": 2,
+  "content": "这些都是你大脑所构建的心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 840.29,
+  "to": 842.91,
+  "sid": 375,
+  "location": 2,
+  "content": "这些表征源于你过往的经验",
+  "music": 0.0
+ },
+ {
+  "from": 842.91,
+  "to": 845.52,
+  "sid": 376,
+  "location": 2,
+  "content": "比如多次的看到吃过苹果",
+  "music": 0.0
+ },
+ {
+  "from": 845.52,
+  "to": 848.48,
+  "sid": 377,
+  "location": 2,
+  "content": "但如果你从来都没有接触过苹果这一概念",
+  "music": 0.0
+ },
+ {
+  "from": 848.48,
+  "to": 850.24,
+  "sid": 378,
+  "location": 2,
+  "content": "仅仅是听我的语言描述",
+  "music": 0.0
+ },
+ {
+  "from": 850.24,
+  "to": 853.68,
+  "sid": 379,
+  "location": 2,
+  "content": "长在树上的红色的拳头大小的水果",
+  "music": 0.0
+ },
+ {
+  "from": 853.68,
+  "to": 856.62,
+  "sid": 380,
+  "location": 2,
+  "content": "那你就会借助其他已知水果的表征",
+  "music": 0.0
+ },
+ {
+  "from": 856.62,
+  "to": 859.0,
+  "sid": 381,
+  "location": 2,
+  "content": "来为苹果建立一个模糊的表征",
+  "music": 0.0
+ },
+ {
+  "from": 859.0,
+  "to": 861.069,
+  "sid": 382,
+  "location": 2,
+  "content": "再举一个复杂点的例子",
+  "music": 0.0
+ },
+ {
+  "from": 861.069,
+  "to": 862.809,
+  "sid": 383,
+  "location": 2,
+  "content": "大家能够观看这条视频",
+  "music": 0.0
+ },
+ {
+  "from": 862.809,
+  "to": 866.449,
+  "sid": 384,
+  "location": 2,
+  "content": "也是因为你已经具备了对视觉动画语言字幕",
+  "music": 0.0
+ },
+ {
+  "from": 866.449,
+  "to": 869.22,
+  "sid": 385,
+  "location": 2,
+  "content": "还有一些基本概念的理解等心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 869.22,
+  "to": 870.82,
+  "sid": 386,
+  "location": 2,
+  "content": "在我说这些话的同时",
+  "music": 0.0
+ },
+ {
+  "from": 870.82,
+  "to": 874.26,
+  "sid": 387,
+  "location": 2,
+  "content": "你的大脑也正在为心理表征这个概念建立",
+  "music": 0.0
+ },
+ {
+  "from": 874.26,
+  "to": 875.28,
+  "sid": 388,
+  "location": 2,
+  "content": "心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 875.28,
+  "to": 877.819,
+  "sid": 389,
+  "location": 2,
+  "content": "或许你现在可能还不是特别理解",
+  "music": 0.0
+ },
+ {
+  "from": 877.819,
+  "to": 879.939,
+  "sid": 390,
+  "location": 2,
+  "content": "但是随着认知水平的不断提高",
+  "music": 0.0
+ },
+ {
+  "from": 879.939,
+  "to": 883.039,
+  "sid": 391,
+  "location": 2,
+  "content": "你对这个概念的表征建立也会越来越完善",
+  "music": 0.0
+ },
+ {
+  "from": 883.039,
+  "to": 884.83,
+  "sid": 392,
+  "location": 2,
+  "content": "理解也会越来越深刻",
+  "music": 0.0
+ },
+ {
+  "from": 886.91,
+  "to": 888.67,
+  "sid": 393,
+  "location": 2,
+  "content": "就是因为他们在特定领域",
+  "music": 0.0
+ },
+ {
+  "from": 888.67,
+  "to": 891.52,
+  "sid": 394,
+  "location": 2,
+  "content": "构建出了高度专业化的心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 891.52,
+  "to": 893.94,
+  "sid": 395,
+  "location": 2,
+  "content": "我们之所以要站在巨人的肩膀上",
+  "music": 0.0
+ },
+ {
+  "from": 893.94,
+  "to": 896.84,
+  "sid": 396,
+  "location": 2,
+  "content": "就是因为前人通过长时间的经验积累",
+  "music": 0.0
+ },
+ {
+  "from": 896.84,
+  "to": 897.92,
+  "sid": 397,
+  "location": 2,
+  "content": "与技巧总结",
+  "music": 0.0
+ },
+ {
+  "from": 897.92,
+  "to": 899.99,
+  "sid": 398,
+  "location": 2,
+  "content": "形成了高效的训练方法",
+  "music": 0.0
+ },
+ {
+  "from": 899.99,
+  "to": 901.83,
+  "sid": 399,
+  "location": 2,
+  "content": "让我们能够更快地发展出",
+  "music": 0.0
+ },
+ {
+  "from": 901.83,
+  "to": 904.65,
+  "sid": 400,
+  "location": 2,
+  "content": "大量的高质量的心理表征",
+  "music": 0.0
+ },
+ {
+  "from": 904.65,
+  "to": 906.53,
+  "sid": 401,
+  "location": 2,
+  "content": "如果我们把视线投向历史",
+  "music": 0.0
+ },
+ {
+  "from": 906.53,
+  "to": 910.01,
+  "sid": 402,
+  "location": 2,
+  "content": "你就会意识到这种传承的力量到底有多强大了",
+  "music": 0.0
+ },
+ {
+  "from": 910.01,
+  "to": 912.67,
+  "sid": 403,
+  "location": 2,
+  "content": "在1908年的奥运会马拉松比赛中",
+  "music": 0.0
+ },
+ {
+  "from": 912.67,
+  "to": 914.65,
+  "sid": 404,
+  "location": 2,
+  "content": "人类刷新了马拉松世界纪录",
+  "music": 0.0
+ },
+ {
+  "from": 914.65,
+  "to": 918.05,
+  "sid": 405,
+  "location": 2,
+  "content": "成绩为二小时55分18秒",
+  "music": 0.0
+ },
+ {
+  "from": 918.05,
+  "to": 920.09,
+  "sid": 406,
+  "location": 2,
+  "content": "然而仅仅一个世纪后的今天",
+  "music": 0.0
+ },
+ {
+  "from": 920.09,
+  "to": 923.5,
+  "sid": 407,
+  "location": 2,
+  "content": "这个时间可能只够你刚好获得参赛资格",
+  "music": 0.0
+ },
+ {
+  "from": 923.5,
+  "to": 926.24,
+  "sid": 408,
+  "location": 2,
+  "content": "目前的世界纪录是由一位肯尼亚的选手",
+  "music": 0.0
+ },
+ {
+  "from": 926.24,
+  "to": 930.1,
+  "sid": 409,
+  "location": 2,
+  "content": "在23年以两小时零分35秒打破的",
+  "music": 0.0
+ },
+ {
+  "from": 930.1,
+  "to": 931.96,
+  "sid": 410,
+  "location": 2,
+  "content": "再比如1973年",
+  "music": 0.0
+ },
+ {
+  "from": 931.96,
+  "to": 935.16,
+  "sid": 411,
+  "location": 2,
+  "content": "一位加拿大人背诵圆周率小数点后的数字",
+  "music": 0.0
+ },
+ {
+  "from": 935.16,
+  "to": 937.75,
+  "sid": 412,
+  "location": 2,
+  "content": "创下了511位的记录",
+  "music": 0.0
+ },
+ {
+  "from": 937.75,
+  "to": 940.27,
+  "sid": 413,
+  "location": 2,
+  "content": "你可能会觉得这已经很了不起了",
+  "music": 0.0
+ },
+ {
+  "from": 940.27,
+  "to": 942.23,
+  "sid": 414,
+  "location": 2,
+  "content": "但截止到2023年",
+  "music": 0.0
+ },
+ {
+  "from": 942.23,
+  "to": 945.63,
+  "sid": 415,
+  "location": 2,
+  "content": "这一数字已经被刷新到7万30位",
+  "music": 0.0
+ },
+ {
+  "from": 945.63,
+  "to": 947.09,
+  "sid": 416,
+  "location": 2,
+  "content": "翻了100多倍",
+  "music": 0.0
+ },
+ {
+  "from": 947.09,
+  "to": 951.09,
+  "sid": 417,
+  "location": 2,
+  "content": "这种惊人的记忆力提升同样是刻意练习的结果",
+  "music": 0.0
+ },
+ {
+  "from": 951.09,
+  "to": 954.63,
+  "sid": 418,
+  "location": 2,
+  "content": "所以人脑的潜力或许远超你的想象",
+  "music": 0.0
+ },
+ {
+  "from": 954.63,
+  "to": 958.23,
+  "sid": 419,
+  "location": 2,
+  "content": "就像高级程序员能够快速识别和解决bug",
+  "music": 0.0
+ },
+ {
+  "from": 958.23,
+  "to": 960.29,
+  "sid": 420,
+  "location": 2,
+  "content": "高级棋手能够在脑海中",
+  "music": 0.0
+ },
+ {
+  "from": 960.29,
+  "to": 962.91,
+  "sid": 421,
+  "location": 2,
+  "content": "快速推演出大量的可能性一样",
+  "music": 0.0
+ },
+ {
+  "from": 962.91,
+  "to": 964.63,
+  "sid": 422,
+  "location": 2,
+  "content": "当我们在脑海中构建了一个",
+  "music": 0.0
+ },
+ {
+  "from": 964.63,
+  "to": 966.63,
+  "sid": 423,
+  "location": 2,
+  "content": "高度专业化的心理表征之后",
+  "music": 0.0
+ },
+ {
+  "from": 966.63,
+  "to": 968.99,
+  "sid": 424,
+  "location": 2,
+  "content": "我们就会获得难以想象的记忆力",
+  "music": 0.0
+ },
+ {
+  "from": 968.99,
+  "to": 970.65,
+  "sid": 425,
+  "location": 2,
+  "content": "强大的规律识别能力",
+  "music": 0.0
+ },
+ {
+  "from": 970.65,
+  "to": 972.37,
+  "sid": 426,
+  "location": 2,
+  "content": "更强的问题解决能力",
+  "music": 0.0
+ },
+ {
+  "from": 972.37,
+  "to": 974.65,
+  "sid": 427,
+  "location": 2,
+  "content": "甚至能够做到预测未来",
+  "music": 0.0
+ },
+ {
+  "from": 974.65,
+  "to": 978.26,
+  "sid": 428,
+  "location": 2,
+  "content": "就像我非常喜欢的一位讲国际地缘博弈的主播",
+  "music": 0.0
+ },
+ {
+  "from": 978.26,
+  "to": 981.68,
+  "sid": 429,
+  "location": 2,
+  "content": "他经常能够做出一些让人听起来很不可思议的",
+  "music": 0.0
+ },
+ {
+  "from": 981.68,
+  "to": 984.36,
+  "sid": 430,
+  "location": 2,
+  "content": "甚至和很多专家不一样的战略预判",
+  "music": 0.0
+ },
+ {
+  "from": 984.36,
+  "to": 986.32,
+  "sid": 431,
+  "location": 2,
+  "content": "而且准确度还非常高",
+  "music": 0.0
+ },
+ {
+  "from": 986.32,
+  "to": 988.18,
+  "sid": 432,
+  "location": 2,
+  "content": "真的是因为像某些人说的",
+  "music": 0.0
+ },
+ {
+  "from": 988.18,
+  "to": 990.26,
+  "sid": 433,
+  "location": 2,
+  "content": "预言的多了总有对的吗",
+  "music": 0.0
+ },
+ {
+  "from": 990.26,
+  "to": 991.589,
+  "sid": 434,
+  "location": 2,
+  "content": "当然不是了",
+  "music": 0.0
+ },
+ {
+  "from": 991.589,
+  "to": 994.029,
+  "sid": 435,
+  "location": 2,
+  "content": "这是因为他通过大量的知识摄取",
+  "music": 0.0
+ },
+ {
+  "from": 994.029,
+  "to": 995.429,
+  "sid": 436,
+  "location": 2,
+  "content": "在历史政治",
+  "music": 0.0
+ },
+ {
+  "from": 995.429,
+  "to": 995.949,
+  "sid": 437,
+  "location": 2,
+  "content": "地缘",
+  "music": 0.0
+ },
+ {
+  "from": 995.949,
+  "to": 999.34,
+  "sid": 438,
+  "location": 2,
+  "content": "人性等等方面建立了强大的心理标准",
+  "music": 0.0
+ },
+ {
+  "from": 999.34,
+  "to": 1002.18,
+  "sid": 439,
+  "location": 2,
+  "content": "这种表征让他可以做出精准的预测",
+  "music": 0.0
+ },
+ {
+  "from": 1002.18,
+  "to": 1006.75,
+  "sid": 440,
+  "location": 2,
+  "content": "而这种能力也给他带来了强大的竞争力和人气",
+  "music": 0.0
+ },
+ {
+  "from": 1007.31,
+  "to": 1011.17,
+  "sid": 441,
+  "location": 2,
+  "content": "很多人可能会把练习看作是一个单纯的自我",
+  "music": 0.0
+ },
+ {
+  "from": 1011.17,
+  "to": 1012.56,
+  "sid": 442,
+  "location": 2,
+  "content": "潜能挖掘之旅",
+  "music": 0.0
+ },
+ {
+  "from": 1012.56,
+  "to": 1014.48,
+  "sid": 443,
+  "location": 2,
+  "content": "然而在刻意练习的道路上",
+  "music": 0.0
+ },
+ {
+  "from": 1014.48,
+  "to": 1017.06,
+  "sid": 444,
+  "location": 2,
+  "content": "我们的追求是远超这一层次的",
+  "music": 0.0
+ },
+ {
+  "from": 1017.06,
+  "to": 1020.22,
+  "sid": 445,
+  "location": 2,
+  "content": "我们的目标不仅仅是挖掘内在的潜能",
+  "music": 0.0
+ },
+ {
+  "from": 1020.22,
+  "to": 1022.3,
+  "sid": 446,
+  "location": 2,
+  "content": "更是要持续的滋养壮大",
+  "music": 0.0
+ },
+ {
+  "from": 1022.3,
+  "to": 1022.71,
+  "sid": 447,
+  "location": 2,
+  "content": "它",
+  "music": 0.0
+ },
+ {
+  "from": 1022.71,
+  "to": 1026.56,
+  "sid": 448,
+  "location": 2,
+  "content": "把那些曾经遥不可及的能力一一变成现实",
+  "music": 0.0
+ },
+ {
+  "from": 1026.56,
+  "to": 1029.1,
+  "sid": 449,
+  "location": 2,
+  "content": "最后一句话送给怀揣梦想的你",
+  "music": 0.0
+ },
+ {
+  "from": 1029.1,
+  "to": 1033.909,
+  "sid": 450,
+  "location": 2,
+  "content": "保持耐心的谦逊的长时间周期的刻意练习",
+  "music": 0.0
+ },
+ {
+  "from": 1033.909,
+  "to": 1036.48,
+  "sid": 451,
+  "location": 2,
+  "content": "其中一点登峰造极",
+  "music": 0.0
+ }
+]

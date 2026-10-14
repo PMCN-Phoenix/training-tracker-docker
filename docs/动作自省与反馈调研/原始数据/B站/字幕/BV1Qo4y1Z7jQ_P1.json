@@ -1,0 +1,394 @@
+[
+ {
+  "from": 0.56,
+  "to": 1.1,
+  "sid": 1,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.1,
+  "to": 2.54,
+  "sid": 2,
+  "location": 2,
+  "content": "接下来的几期视频",
+  "music": 0.0
+ },
+ {
+  "from": 2.54,
+  "to": 5.859,
+  "sid": 3,
+  "location": 2,
+  "content": "我会讨论一下健身行业中割韭菜的信息",
+  "music": 0.0
+ },
+ {
+  "from": 5.859,
+  "to": 7.779,
+  "sid": 4,
+  "location": 2,
+  "content": "今天先说说拿轻重量",
+  "music": 0.0
+ },
+ {
+  "from": 7.779,
+  "to": 9.579,
+  "sid": 5,
+  "location": 2,
+  "content": "追求发力感和念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 9.579,
+  "to": 11.8,
+  "sid": 6,
+  "location": 2,
+  "content": "这个问题我们都知道",
+  "music": 0.0
+ },
+ {
+  "from": 11.8,
+  "to": 12.52,
+  "sid": 7,
+  "location": 2,
+  "content": "在太空中",
+  "music": 0.0
+ },
+ {
+  "from": 12.52,
+  "to": 14.2,
+  "sid": 8,
+  "location": 2,
+  "content": "宇航员处于失重状态",
+  "music": 0.0
+ },
+ {
+  "from": 14.2,
+  "to": 15.82,
+  "sid": 9,
+  "location": 2,
+  "content": "如果不用弹力带等",
+  "music": 0.0
+ },
+ {
+  "from": 15.82,
+  "to": 19.14,
+  "sid": 10,
+  "location": 2,
+  "content": "能够提供其他显示阻力的设备进行锻炼",
+  "music": 0.0
+ },
+ {
+  "from": 19.14,
+  "to": 21.0,
+  "sid": 11,
+  "location": 2,
+  "content": "他们的肌肉就会萎缩",
+  "music": 0.0
+ },
+ {
+  "from": 21.0,
+  "to": 22.97,
+  "sid": 12,
+  "location": 2,
+  "content": "渐渐还会骨质疏松",
+  "music": 0.0
+ },
+ {
+  "from": 22.97,
+  "to": 23.69,
+  "sid": 13,
+  "location": 2,
+  "content": "同理的",
+  "music": 0.0
+ },
+ {
+  "from": 23.69,
+  "to": 26.06,
+  "sid": 14,
+  "location": 2,
+  "content": "还有卧床不起很长时间的病人",
+  "music": 0.0
+ },
+ {
+  "from": 26.06,
+  "to": 27.47,
+  "sid": 15,
+  "location": 2,
+  "content": "因为下不了床",
+  "music": 0.0
+ },
+ {
+  "from": 27.47,
+  "to": 30.08,
+  "sid": 16,
+  "location": 2,
+  "content": "克服重力锻炼的机会少了",
+  "music": 0.0
+ },
+ {
+  "from": 30.14,
+  "to": 33.44,
+  "sid": 17,
+  "location": 2,
+  "content": "所以维持和增加肌肉体积和骨密度",
+  "music": 0.0
+ },
+ {
+  "from": 33.44,
+  "to": 36.36,
+  "sid": 18,
+  "location": 2,
+  "content": "需要外界提供一定水平的阻力",
+  "music": 0.0
+ },
+ {
+  "from": 38.02,
+  "to": 40.71,
+  "sid": 19,
+  "location": 2,
+  "content": "我们不考虑使用外源激素",
+  "music": 0.0
+ },
+ {
+  "from": 40.71,
+  "to": 42.63,
+  "sid": 20,
+  "location": 2,
+  "content": "提高合成代谢水平的人",
+  "music": 0.0
+ },
+ {
+  "from": 42.63,
+  "to": 45.76,
+  "sid": 21,
+  "location": 2,
+  "content": "只看日常生活中重量级的人",
+  "music": 0.0
+ },
+ {
+  "from": 45.76,
+  "to": 50.41,
+  "sid": 22,
+  "location": 2,
+  "content": "负重越大的运动项目的运动员大概率会越强壮",
+  "music": 0.0
+ },
+ {
+  "from": 50.41,
+  "to": 53.54,
+  "sid": 23,
+  "location": 2,
+  "content": "所以轻重量相比大重量不利于增肌",
+  "music": 0.0
+ },
+ {
+  "from": 53.76,
+  "to": 55.68,
+  "sid": 24,
+  "location": 2,
+  "content": "而发力感和念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 55.68,
+  "to": 59.16,
+  "sid": 25,
+  "location": 2,
+  "content": "这里给大家看个欧洲应用生理学期刊里的一个",
+  "music": 0.0
+ },
+ {
+  "from": 59.16,
+  "to": 60.839,
+  "sid": 26,
+  "location": 2,
+  "content": "关于这方面的研究",
+  "music": 0.0
+ },
+ {
+  "from": 60.94,
+  "to": 63.52,
+  "sid": 27,
+  "location": 2,
+  "content": "具体内容大家感兴趣自行查找",
+  "music": 0.0
+ },
+ {
+  "from": 63.52,
+  "to": 65.14,
+  "sid": 28,
+  "location": 2,
+  "content": "我这里只说结论",
+  "music": 0.0
+ },
+ {
+  "from": 65.78,
+  "to": 68.38,
+  "sid": 29,
+  "location": 2,
+  "content": "18名有一定训练年限的男性",
+  "music": 0.0
+ },
+ {
+  "from": 68.38,
+  "to": 70.789,
+  "sid": 30,
+  "location": 2,
+  "content": "在卧推的肌电测试中显示",
+  "music": 0.0
+ },
+ {
+  "from": 70.789,
+  "to": 74.089,
+  "sid": 31,
+  "location": 2,
+  "content": "当使用重量低于61%RM时",
+  "music": 0.0
+ },
+ {
+  "from": 74.089,
+  "to": 75.529,
+  "sid": 32,
+  "location": 2,
+  "content": "刻意的念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 75.529,
+  "to": 76.489,
+  "sid": 33,
+  "location": 2,
+  "content": "可以提高一点",
+  "music": 0.0
+ },
+ {
+  "from": 76.489,
+  "to": 78.109,
+  "sid": 34,
+  "location": 2,
+  "content": "肱三头肌和胸肌的肌肉",
+  "music": 0.0
+ },
+ {
+  "from": 78.109,
+  "to": 81.27,
+  "sid": 35,
+  "location": 2,
+  "content": "募集在60%到80%",
+  "music": 0.0
+ },
+ {
+  "from": 81.27,
+  "to": 82.53,
+  "sid": 36,
+  "location": 2,
+  "content": "ERM的区间里",
+  "music": 0.0
+ },
+ {
+  "from": 82.53,
+  "to": 84.33,
+  "sid": 37,
+  "location": 2,
+  "content": "可能出现肌肉募集的提高",
+  "music": 0.0
+ },
+ {
+  "from": 84.33,
+  "to": 85.6,
+  "sid": 38,
+  "location": 2,
+  "content": "也可能没有",
+  "music": 0.0
+ },
+ {
+  "from": 85.6,
+  "to": 88.24,
+  "sid": 39,
+  "location": 2,
+  "content": "这个也和日常训练的经验相吻合",
+  "music": 0.0
+ },
+ {
+  "from": 88.24,
+  "to": 89.26,
+  "sid": 40,
+  "location": 2,
+  "content": "使用大重量时",
+  "music": 0.0
+ },
+ {
+  "from": 89.26,
+  "to": 91.5,
+  "sid": 41,
+  "location": 2,
+  "content": "我们几乎感受不到念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 91.5,
+  "to": 95.31,
+  "sid": 42,
+  "location": 2,
+  "content": "而81%RM差不多是8rm的重量",
+  "music": 0.0
+ },
+ {
+  "from": 95.31,
+  "to": 96.69,
+  "sid": 43,
+  "location": 2,
+  "content": "八次左右的重量",
+  "music": 0.0
+ },
+ {
+  "from": 96.69,
+  "to": 100.34,
+  "sid": 44,
+  "location": 2,
+  "content": "或者比八次稍微大一点的重量是有利于增肌的",
+  "music": 0.0
+ },
+ {
+  "from": 100.34,
+  "to": 102.08,
+  "sid": 45,
+  "location": 2,
+  "content": "却难以感受到念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 102.08,
+  "to": 102.92,
+  "sid": 46,
+  "location": 2,
+  "content": "综上所述",
+  "music": 0.0
+ },
+ {
+  "from": 102.92,
+  "to": 105.08,
+  "sid": 47,
+  "location": 2,
+  "content": "轻重量追求发力感和念动一致",
+  "music": 0.0
+ },
+ {
+  "from": 105.08,
+  "to": 106.06,
+  "sid": 48,
+  "location": 2,
+  "content": "效率较低",
+  "music": 0.0
+ },
+ {
+  "from": 106.06,
+  "to": 108.24,
+  "sid": 49,
+  "location": 2,
+  "content": "不能作为主流训练方法",
+  "music": 0.0
+ }
+]

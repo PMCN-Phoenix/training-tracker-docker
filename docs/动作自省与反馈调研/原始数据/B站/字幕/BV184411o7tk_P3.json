@@ -1,0 +1,877 @@
+[
+ {
+  "from": 0.78,
+  "to": 2.22,
+  "sid": 1,
+  "location": 2,
+  "content": "大家好，查德·韦斯利·史密斯在这里"
+ },
+ {
+  "from": 2.22,
+  "to": 6.81,
+  "sid": 2,
+  "location": 2,
+  "content": "我们的台柱系列的全新第三部分在第一部分和第二部分"
+ },
+ {
+  "from": 6.81,
+  "to": 11.27,
+  "sid": 3,
+  "location": 2,
+  "content": "我们讨论了脚的位置、脚的压力和肩胛骨的缩回"
+ },
+ {
+  "from": 11.27,
+  "to": 13.71,
+  "sid": 4,
+  "location": 2,
+  "content": "第三部分这里的上背部位置"
+ },
+ {
+  "from": 13.71,
+  "to": 17.09,
+  "sid": 5,
+  "location": 2,
+  "content": "我们将解决用手抓地力的问题"
+ },
+ {
+  "from": 17.09,
+  "to": 21.29,
+  "sid": 6,
+  "location": 2,
+  "content": "卧推过程中手部的杆位和手腕位"
+ },
+ {
+  "from": 21.29,
+  "to": 25.009,
+  "sid": 7,
+  "location": 2,
+  "content": "我可爱的助手IPF也加入了我的行列"
+ },
+ {
+  "from": 25.009,
+  "to": 27.269,
+  "sid": 8,
+  "location": 2,
+  "content": "三次世界冠军"
+ },
+ {
+  "from": 27.269,
+  "to": 29.949,
+  "sid": 9,
+  "location": 2,
+  "content": "全国冠军和美国板凳纪录保持者"
+ },
+ {
+  "from": 29.949,
+  "to": 32.439,
+  "sid": 10,
+  "location": 2,
+  "content": "总死举和总世界纪录保持者"
+ },
+ {
+  "from": 32.439,
+  "to": 34.319,
+  "sid": 11,
+  "location": 2,
+  "content": "你有这么多荣誉"
+ },
+ {
+  "from": 34.319,
+  "to": 37.14,
+  "sid": 12,
+  "location": 2,
+  "content": "像阿波罗一样真的真的有很多话要说"
+ },
+ {
+  "from": 37.14,
+  "to": 37.58,
+  "sid": 13,
+  "location": 2,
+  "content": "信条"
+ },
+ {
+  "from": 37.58,
+  "to": 38.14,
+  "sid": 14,
+  "location": 2,
+  "content": "几乎"
+ },
+ {
+  "from": 38.14,
+  "to": 38.88,
+  "sid": 15,
+  "location": 2,
+  "content": "是啊，是啊"
+ },
+ {
+  "from": 38.88,
+  "to": 39.56,
+  "sid": 16,
+  "location": 2,
+  "content": "呃"
+ },
+ {
+  "from": 39.56,
+  "to": 40.32,
+  "sid": 17,
+  "location": 2,
+  "content": "玛丽莎小姐"
+ },
+ {
+  "from": 40.32,
+  "to": 41.34,
+  "sid": 18,
+  "location": 2,
+  "content": "你今天上午好吗？"
+ },
+ {
+  "from": 41.34,
+  "to": 42.66,
+  "sid": 19,
+  "location": 2,
+  "content": "我很好"
+ },
+ {
+  "from": 44.24,
+  "to": 44.92,
+  "sid": 20,
+  "location": 2,
+  "content": "所以是的"
+ },
+ {
+  "from": 44.92,
+  "to": 47.54,
+  "sid": 21,
+  "location": 2,
+  "content": "让我们继续，再来一次"
+ },
+ {
+  "from": 47.54,
+  "to": 49.74,
+  "sid": 22,
+  "location": 2,
+  "content": "就像这些线索中的大多数一样"
+ },
+ {
+  "from": 49.74,
+  "to": 50.629,
+  "sid": 23,
+  "location": 2,
+  "content": "我们不"
+ },
+ {
+  "from": 50.629,
+  "to": 54.32,
+  "sid": 24,
+  "location": 2,
+  "content": "我们倾向于在我们的任何教义中都不教条"
+ },
+ {
+  "from": 54.32,
+  "to": 58.46,
+  "sid": 25,
+  "location": 2,
+  "content": "当然，当你去的时候，你会有个体差异"
+ },
+ {
+  "from": 58.46,
+  "to": 61.88,
+  "sid": 26,
+  "location": 2,
+  "content": "但我们试图找到"
+ },
+ {
+  "from": 61.88,
+  "to": 64.239,
+  "sid": 27,
+  "location": 2,
+  "content": "很多伟大的举重运动员所做的"
+ },
+ {
+  "from": 64.239,
+  "to": 66.6,
+  "sid": 28,
+  "location": 2,
+  "content": "让这成为你的起点"
+ },
+ {
+  "from": 66.6,
+  "to": 70.0,
+  "sid": 29,
+  "location": 2,
+  "content": "然后从那里进行小的单独调整"
+ },
+ {
+  "from": 70.0,
+  "to": 74.7,
+  "sid": 30,
+  "location": 2,
+  "content": "所以当我们掌握每个人都会有所不同"
+ },
+ {
+  "from": 74.7,
+  "to": 75.4,
+  "sid": 31,
+  "location": 2,
+  "content": "你知道的"
+ },
+ {
+  "from": 75.4,
+  "to": 77.6,
+  "sid": 32,
+  "location": 2,
+  "content": "以臂长计算相当广泛"
+ },
+ {
+  "from": 77.6,
+  "to": 79.32,
+  "sid": 33,
+  "location": 2,
+  "content": "他们的肩宽"
+ },
+ {
+  "from": 79.32,
+  "to": 82.5,
+  "sid": 34,
+  "location": 2,
+  "content": "然后肩膀的健康肯定会在事情中发挥作用"
+ },
+ {
+  "from": 82.5,
+  "to": 84.98,
+  "sid": 35,
+  "location": 2,
+  "content": "但是玛丽莎躺在这里"
+ },
+ {
+  "from": 86.5,
+  "to": 90.46,
+  "sid": 36,
+  "location": 2,
+  "content": "当我们找到抓地力时，我们想要确保实现的目标"
+ },
+ {
+  "from": 90.46,
+  "to": 93.6,
+  "sid": 37,
+  "location": 2,
+  "content": "当杆在运动员的胸前时"
+ },
+ {
+  "from": 94.74,
+  "to": 97.22,
+  "sid": 38,
+  "location": 2,
+  "content": "酒吧就堆在手腕上"
+ },
+ {
+  "from": 97.22,
+  "to": 99.64,
+  "sid": 39,
+  "location": 2,
+  "content": "手腕正好叠在肘部上方"
+ },
+ {
+  "from": 99.64,
+  "to": 102.54,
+  "sid": 40,
+  "location": 2,
+  "content": "所以不管我们是从脚往上看"
+ },
+ {
+  "from": 102.54,
+  "to": 104.04,
+  "sid": 41,
+  "location": 2,
+  "content": "我们可以看到这种关系"
+ },
+ {
+  "from": 104.04,
+  "to": 106.26,
+  "sid": 42,
+  "location": 2,
+  "content": "我们是否从侧面直视"
+ },
+ {
+  "from": 106.26,
+  "to": 109.87,
+  "sid": 43,
+  "location": 2,
+  "content": "你可以看到前臂的小腿是垂直的"
+ },
+ {
+  "from": 109.87,
+  "to": 112.229,
+  "sid": 44,
+  "location": 2,
+  "content": "或者如果你从上面直视"
+ },
+ {
+  "from": 112.229,
+  "to": 117.349,
+  "sid": 45,
+  "location": 2,
+  "content": "运动员的手腕和手应该遮住他们的肘部"
+ },
+ {
+  "from": 117.349,
+  "to": 117.629,
+  "sid": 46,
+  "location": 2,
+  "content": "嗯"
+ },
+ {
+  "from": 117.629,
+  "to": 120.19,
+  "sid": 47,
+  "location": 2,
+  "content": "我们要确保避免的是"
+ },
+ {
+  "from": 120.19,
+  "to": 120.75,
+  "sid": 48,
+  "location": 2,
+  "content": "你知道的"
+ },
+ {
+  "from": 120.75,
+  "to": 122.51,
+  "sid": 49,
+  "location": 2,
+  "content": "如果我们过度收肘"
+ },
+ {
+  "from": 122.51,
+  "to": 124.41,
+  "sid": 50,
+  "location": 2,
+  "content": "肘部在手里面"
+ },
+ {
+  "from": 124.41,
+  "to": 126.03,
+  "sid": 51,
+  "location": 2,
+  "content": "如果更稀有一点"
+ },
+ {
+  "from": 126.03,
+  "to": 132.25,
+  "sid": 52,
+  "location": 2,
+  "content": "就是太张扬了手和杆在肘部以下"
+ },
+ {
+  "from": 132.25,
+  "to": 136.17,
+  "sid": 53,
+  "location": 2,
+  "content": "有时运动员的抓地力非常大"
+ },
+ {
+  "from": 136.17,
+  "to": 139.55,
+  "sid": 54,
+  "location": 2,
+  "content": "他们可能把胳膊肘远远放在手里"
+ },
+ {
+  "from": 139.55,
+  "to": 140.29,
+  "sid": 55,
+  "location": 2,
+  "content": "当然还有"
+ },
+ {
+  "from": 140.29,
+  "to": 143.67,
+  "sid": 56,
+  "location": 2,
+  "content": "我相信你可以在YouTube和Instagram上说好"
+ },
+ {
+  "from": 143.67,
+  "to": 143.93,
+  "sid": 57,
+  "location": 2,
+  "content": "乍得"
+ },
+ {
+  "from": 143.93,
+  "to": 147.04,
+  "sid": 58,
+  "location": 2,
+  "content": "我看到你知道的那样坐冷板凳"
+ },
+ {
+  "from": 147.04,
+  "to": 147.7,
+  "sid": 59,
+  "location": 2,
+  "content": "是啊，是啊"
+ },
+ {
+  "from": 147.7,
+  "to": 149.66,
+  "sid": 60,
+  "location": 2,
+  "content": "这条规则会有例外"
+ },
+ {
+  "from": 149.66,
+  "to": 153.269,
+  "sid": 61,
+  "location": 2,
+  "content": "我们想为你找到一个好的起点"
+ },
+ {
+  "from": 153.269,
+  "to": 156.66,
+  "sid": 62,
+  "location": 2,
+  "content": "不管你是谁，都有可能在看"
+ },
+ {
+  "from": 156.679,
+  "to": 159.199,
+  "sid": 63,
+  "location": 2,
+  "content": "你可能不是规则的例外"
+ },
+ {
+  "from": 159.199,
+  "to": 160.679,
+  "sid": 64,
+  "location": 2,
+  "content": "你可能会更接近"
+ },
+ {
+  "from": 160.679,
+  "to": 164.16,
+  "sid": 65,
+  "location": 2,
+  "content": "我们在这里谈论的那种一般的基础"
+ },
+ {
+  "from": 164.16,
+  "to": 165.74,
+  "sid": 66,
+  "location": 2,
+  "content": "手腕上有杆"
+ },
+ {
+  "from": 165.74,
+  "to": 167.37,
+  "sid": 67,
+  "location": 2,
+  "content": "腕部过肘部"
+ },
+ {
+  "from": 167.37,
+  "to": 168.91,
+  "sid": 68,
+  "location": 2,
+  "content": "那个叠起来的位置"
+ },
+ {
+  "from": 168.91,
+  "to": 172.97,
+  "sid": 69,
+  "location": 2,
+  "content": "也许在里面或外面做一个小的调整"
+ },
+ {
+  "from": 172.97,
+  "to": 175.68,
+  "sid": 70,
+  "location": 2,
+  "content": "根据你的个人喜好"
+ },
+ {
+  "from": 176.799,
+  "to": 179.499,
+  "sid": 71,
+  "location": 2,
+  "content": "握把宽度将与"
+ },
+ {
+  "from": 179.499,
+  "to": 182.54,
+  "sid": 72,
+  "location": 2,
+  "content": "横杆碰到运动员胸部的地方"
+ },
+ {
+  "from": 182.54,
+  "to": 184.2,
+  "sid": 73,
+  "location": 2,
+  "content": "我们将更深入地讨论这一点"
+ },
+ {
+  "from": 184.2,
+  "to": 187.78,
+  "sid": 74,
+  "location": 2,
+  "content": "在下一期真的把酒吧降下来了"
+ },
+ {
+  "from": 187.78,
+  "to": 191.06,
+  "sid": 75,
+  "location": 2,
+  "content": "触摸并发起运动"
+ },
+ {
+  "from": 192.08,
+  "to": 196.47,
+  "sid": 76,
+  "location": 2,
+  "content": "另一件重要的事情是抓地力"
+ },
+ {
+  "from": 196.47,
+  "to": 198.75,
+  "sid": 77,
+  "location": 2,
+  "content": "这个设置是酒吧进去的地方"
+ },
+ {
+  "from": 198.75,
+  "to": 202.58,
+  "sid": 78,
+  "location": 2,
+  "content": "运动员的手和手腕位置为手腕位置"
+ },
+ {
+  "from": 202.58,
+  "to": 203.66,
+  "sid": 79,
+  "location": 2,
+  "content": "非常常见的错误"
+ },
+ {
+  "from": 203.66,
+  "to": 203.9,
+  "sid": 80,
+  "location": 2,
+  "content": "我明白了"
+ },
+ {
+  "from": 203.9,
+  "to": 207.26,
+  "sid": 81,
+  "location": 2,
+  "content": "因为人们排了这么多队，不让手腕向后弯曲"
+ },
+ {
+  "from": 207.26,
+  "to": 209.44,
+  "sid": 82,
+  "location": 2,
+  "content": "他们基本上已经结束了"
+ },
+ {
+  "from": 209.44,
+  "to": 212.99,
+  "sid": 83,
+  "location": 2,
+  "content": "用一个过于直的手腕位置纠正了它和板凳"
+ },
+ {
+  "from": 212.99,
+  "to": 214.47,
+  "sid": 84,
+  "location": 2,
+  "content": "正如你在这里看到的"
+ },
+ {
+  "from": 214.47,
+  "to": 217.24,
+  "sid": 85,
+  "location": 2,
+  "content": "酒吧几乎挂在玛丽莎的大拇指上"
+ },
+ {
+  "from": 217.24,
+  "to": 220.76,
+  "sid": 86,
+  "location": 2,
+  "content": "我们正在努力创造尽可能多的支持立场"
+ },
+ {
+  "from": 220.76,
+  "to": 223.94,
+  "sid": 87,
+  "location": 2,
+  "content": "这将是玛丽莎的前臂支撑酒吧"
+ },
+ {
+  "from": 223.94,
+  "to": 229.55,
+  "sid": 88,
+  "location": 2,
+  "content": "所以巧克力棒会直接穿过她手掌下面的肉"
+ },
+ {
+  "from": 229.55,
+  "to": 235.71,
+  "sid": 89,
+  "location": 2,
+  "content": "手掌的下三分之一和手腕的轻微后部是可以接受的"
+ },
+ {
+  "from": 235.71,
+  "to": 239.41,
+  "sid": 90,
+  "location": 2,
+  "content": "这将使杆正好位于前臂的顶部"
+ },
+ {
+  "from": 239.41,
+  "to": 240.41,
+  "sid": 91,
+  "location": 2,
+  "content": "我们不想要"
+ },
+ {
+  "from": 240.41,
+  "to": 240.81,
+  "sid": 92,
+  "location": 2,
+  "content": "是啊，是啊"
+ },
+ {
+  "from": 240.81,
+  "to": 243.61,
+  "sid": 93,
+  "location": 2,
+  "content": "我们当然不希望手腕过度向后弯曲"
+ },
+ {
+  "from": 243.61,
+  "to": 246.07,
+  "sid": 94,
+  "location": 2,
+  "content": "它挂在手背的地方"
+ },
+ {
+  "from": 246.07,
+  "to": 248.47,
+  "sid": 95,
+  "location": 2,
+  "content": "杆将在前臂后面对齐"
+ },
+ {
+  "from": 248.47,
+  "to": 251.97,
+  "sid": 96,
+  "location": 2,
+  "content": "但我们也不想太担心手腕伸直"
+ },
+ {
+  "from": 251.97,
+  "to": 255.09,
+  "sid": 97,
+  "location": 2,
+  "content": "我们让酒吧挂在拇指上"
+ },
+ {
+  "from": 255.09,
+  "to": 260.259,
+  "sid": 98,
+  "location": 2,
+  "content": "实际上稍微在前臂夫妇的前面"
+ },
+ {
+  "from": 260.259,
+  "to": 261.699,
+  "sid": 99,
+  "location": 2,
+  "content": "要记住的简单事情"
+ },
+ {
+  "from": 261.699,
+  "to": 264.97,
+  "sid": 100,
+  "location": 2,
+  "content": "但我们想尽可能用力地挤压酒吧"
+ },
+ {
+  "from": 264.97,
+  "to": 267.89,
+  "sid": 101,
+  "location": 2,
+  "content": "稍微翘起的背部位置就可以了"
+ },
+ {
+  "from": 267.89,
+  "to": 270.11,
+  "sid": 102,
+  "location": 2,
+  "content": "让杆直接在手腕上"
+ },
+ {
+  "from": 270.11,
+  "to": 272.63,
+  "sid": 103,
+  "location": 2,
+  "content": "然后找到一个抓地力"
+ },
+ {
+  "from": 272.63,
+  "to": 274.46,
+  "sid": 104,
+  "location": 2,
+  "content": "当酒吧在你的胸前"
+ },
+ {
+  "from": 274.46,
+  "to": 277.56,
+  "sid": 105,
+  "location": 2,
+  "content": "允许酒吧直接堆叠在手腕上"
+ },
+ {
+  "from": 277.56,
+  "to": 280.68,
+  "sid": 106,
+  "location": 2,
+  "content": "手腕直接叠在肘部上方"
+ },
+ {
+  "from": 280.68,
+  "to": 286.99,
+  "sid": 107,
+  "location": 2,
+  "content": "关于手部位置的最后一个注意事项是如果你的肘部有问题"
+ },
+ {
+  "from": 286.99,
+  "to": 289.67,
+  "sid": 108,
+  "location": 2,
+  "content": "可能在升降过程中燃烧得太早了"
+ },
+ {
+  "from": 289.67,
+  "to": 292.66,
+  "sid": 109,
+  "location": 2,
+  "content": "你要专注于挤压酒吧"
+ },
+ {
+  "from": 292.66,
+  "to": 295.12,
+  "sid": 110,
+  "location": 2,
+  "content": "用你的小指用力一点"
+ },
+ {
+  "from": 295.12,
+  "to": 300.34,
+  "sid": 111,
+  "location": 2,
+  "content": "这将有助于在肩部产生更多的内旋转张力"
+ },
+ {
+  "from": 302.4,
+  "to": 306.88,
+  "sid": 112,
+  "location": 2,
+  "content": "这是我们伟大的板凳技术支柱的第三部分"
+ },
+ {
+  "from": 306.88,
+  "to": 309.38,
+  "sid": 113,
+  "location": 2,
+  "content": "寻址握把宽度"
+ },
+ {
+  "from": 309.38,
+  "to": 311.56,
+  "sid": 114,
+  "location": 2,
+  "content": "手位和手腕位"
+ },
+ {
+  "from": 311.56,
+  "to": 315.4,
+  "sid": 115,
+  "location": 2,
+  "content": "确保你检查了第一部分和第二部分关于脚的位置和脚的压力"
+ },
+ {
+  "from": 315.4,
+  "to": 319.1,
+  "sid": 116,
+  "location": 2,
+  "content": "和上背部肩胛骨控制和上背部位置"
+ },
+ {
+  "from": 319.1,
+  "to": 322.0,
+  "sid": 117,
+  "location": 2,
+  "content": "订阅频道，寻找接下来的两个部分"
+ },
+ {
+  "from": 323.52,
+  "to": 325.4,
+  "sid": 118,
+  "location": 2,
+  "content": "获取专家程序设计"
+ },
+ {
+  "from": 325.4,
+  "to": 329.31,
+  "sid": 119,
+  "location": 2,
+  "content": "举重视频分析与指导"
+ },
+ {
+  "from": 329.31,
+  "to": 330.49,
+  "sid": 120,
+  "location": 2,
+  "content": "不管你是初学者"
+ },
+ {
+  "from": 330.49,
+  "to": 332.51,
+  "sid": 121,
+  "location": 2,
+  "content": "中级或高级运动员"
+ },
+ {
+  "from": 332.51,
+  "to": 334.09,
+  "sid": 122,
+  "location": 2,
+  "content": "通过团队巨人"
+ },
+ {
+  "from": 334.09,
+  "to": 335.15,
+  "sid": 123,
+  "location": 2,
+  "content": "在线辅导"
+ },
+ {
+  "from": 335.15,
+  "to": 335.73,
+  "sid": 124,
+  "location": 2,
+  "content": "点击"
+ },
+ {
+  "from": 335.73,
+  "to": 337.68,
+  "sid": 125,
+  "location": 2,
+  "content": "了解更多信息以注册"
+ }
+]

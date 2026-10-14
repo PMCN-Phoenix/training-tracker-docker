@@ -1,0 +1,900 @@
+{
+  "meta": {
+    "bvid": "BV17opJ6LEy4",
+    "title": "【从零开始扣篮21】练弹跳，深蹲细节很重要！",
+    "author": "Trainer_YuXuan",
+    "play": 1028,
+    "duration": "4:46",
+    "pubdate": 1791730262,
+    "desc": "",
+    "_kw": "深蹲 1RM 弹跳",
+    "_score": 22
+  },
+  "info": {
+    "aid": 117422828815167,
+    "cid": 42658564495,
+    "title": "【从零开始扣篮21】练弹跳，深蹲细节很重要！",
+    "owner": "Trainer_YuXuan",
+    "duration": 286,
+    "desc": "",
+    "pages": [
+      {
+        "cid": 42658564495,
+        "part": "【从零开始扣篮21】练弹跳，深蹲细节很重要！",
+        "duration": 286
+      }
+    ]
+  },
+  "subs": [
+    {
+      "part": "P1",
+      "lang": "ai-zh",
+      "segments": [
+        {
+          "from": 0.46,
+          "to": 3.52,
+          "sid": 1,
+          "location": 2,
+          "content": "深蹲是每一个想练弹跳的人绕不开的一个动作",
+          "music": 0.0
+        },
+        {
+          "from": 3.52,
+          "to": 5.6,
+          "sid": 2,
+          "location": 2,
+          "content": "但是很多人的深蹲跟龙哥一样",
+          "music": 0.0
+        },
+        {
+          "from": 5.6,
+          "to": 7.42,
+          "sid": 3,
+          "location": 2,
+          "content": "出现了活动度受限的情况",
+          "music": 0.0
+        },
+        {
+          "from": 7.42,
+          "to": 10.92,
+          "sid": 4,
+          "location": 2,
+          "content": "那本节课主要是帮助龙哥调整深蹲的动作",
+          "music": 0.0
+        },
+        {
+          "from": 10.92,
+          "to": 13.72,
+          "sid": 5,
+          "location": 2,
+          "content": "那可以看到这个是他调整之后的动作模式",
+          "music": 0.0
+        },
+        {
+          "from": 13.72,
+          "to": 14.7,
+          "sid": 6,
+          "location": 2,
+          "content": "那话不多说",
+          "music": 0.0
+        },
+        {
+          "from": 14.7,
+          "to": 16.96,
+          "sid": 7,
+          "location": 2,
+          "content": "开启本期的从零开始扣篮系列吧",
+          "music": 0.0
+        },
+        {
+          "from": 16.96,
+          "to": 18.64,
+          "sid": 8,
+          "location": 2,
+          "content": "那开始本次训练之前",
+          "music": 0.0
+        },
+        {
+          "from": 18.64,
+          "to": 21.98,
+          "sid": 9,
+          "location": 2,
+          "content": "我在龙哥做了非常多的放松以及活动度训练",
+          "music": 0.0
+        },
+        {
+          "from": 21.98,
+          "to": 23.44,
+          "sid": 10,
+          "location": 2,
+          "content": "那关于这些训练的话",
+          "music": 0.0
+        },
+        {
+          "from": 23.44,
+          "to": 26.18,
+          "sid": 11,
+          "location": 2,
+          "content": "我的主页置顶链接里边有",
+          "music": 0.0
+        },
+        {
+          "from": 26.18,
+          "to": 27.46,
+          "sid": 12,
+          "location": 2,
+          "content": "大家可以去看一下",
+          "music": 0.0
+        },
+        {
+          "from": 27.46,
+          "to": 28.84,
+          "sid": 13,
+          "location": 2,
+          "content": "那开头这几个动作",
+          "music": 0.0
+        },
+        {
+          "from": 28.84,
+          "to": 31.0,
+          "sid": 14,
+          "location": 2,
+          "content": "主要是提高一下神经的兴奋度",
+          "music": 0.0
+        },
+        {
+          "from": 31.0,
+          "to": 32.64,
+          "sid": 15,
+          "location": 2,
+          "content": "然后龙哥很久没有跳了",
+          "music": 0.0
+        },
+        {
+          "from": 32.64,
+          "to": 34.6,
+          "sid": 16,
+          "location": 2,
+          "content": "顺便纠正一下动作模式",
+          "music": 0.0
+        },
+        {
+          "from": 34.6,
+          "to": 36.86,
+          "sid": 17,
+          "location": 2,
+          "content": "让他的摆臂更加自然一些",
+          "music": 0.0
+        },
+        {
+          "from": 36.86,
+          "to": 39.02,
+          "sid": 18,
+          "location": 2,
+          "content": "那做完这些我们直入主题啊",
+          "music": 0.0
+        },
+        {
+          "from": 39.02,
+          "to": 41.25,
+          "sid": 19,
+          "location": 2,
+          "content": "主要是解决深蹲的一个动作",
+          "music": 0.0
+        },
+        {
+          "from": 41.25,
+          "to": 43.91,
+          "sid": 20,
+          "location": 2,
+          "content": "那这里龙哥做完之后嗯",
+          "music": 0.0
+        },
+        {
+          "from": 43.91,
+          "to": 45.19,
+          "sid": 21,
+          "location": 2,
+          "content": "做了一组深蹲",
+          "music": 0.0
+        },
+        {
+          "from": 45.19,
+          "to": 47.09,
+          "sid": 22,
+          "location": 2,
+          "content": "然后这里给大家讲解一下",
+          "music": 0.0
+        },
+        {
+          "from": 47.09,
+          "to": 50.46,
+          "sid": 23,
+          "location": 2,
+          "content": "主要是用髋去如何进行一个成立",
+          "music": 0.0
+        },
+        {
+          "from": 50.46,
+          "to": 52.46,
+          "sid": 24,
+          "location": 2,
+          "content": "他之前的深蹲动作模式的话",
+          "music": 0.0
+        },
+        {
+          "from": 52.46,
+          "to": 54.86,
+          "sid": 25,
+          "location": 2,
+          "content": "主要还是靠大腿发力为主",
+          "music": 0.0
+        },
+        {
+          "from": 54.86,
+          "to": 58.26,
+          "sid": 26,
+          "location": 2,
+          "content": "这样的话就会导致他的后侧一直很紧张",
+          "music": 0.0
+        },
+        {
+          "from": 58.26,
+          "to": 60.5,
+          "sid": 27,
+          "location": 2,
+          "content": "而且后侧很无力",
+          "music": 0.0
+        },
+        {
+          "from": 61.27,
+          "to": 64.67,
+          "sid": 28,
+          "location": 2,
+          "content": "那这就使得龙哥的髋关节活动度比较受限",
+          "music": 0.0
+        },
+        {
+          "from": 64.67,
+          "to": 66.77,
+          "sid": 29,
+          "location": 2,
+          "content": "那作为一个小个子来说的话",
+          "music": 0.0
+        },
+        {
+          "from": 66.77,
+          "to": 68.71,
+          "sid": 30,
+          "location": 2,
+          "content": "你如果做不了全幅度的话",
+          "music": 0.0
+        },
+        {
+          "from": 68.71,
+          "to": 71.789,
+          "sid": 31,
+          "location": 2,
+          "content": "是非常影响你的助跑起跳的",
+          "music": 0.0
+        },
+        {
+          "from": 76.449,
+          "to": 78.149,
+          "sid": 32,
+          "location": 2,
+          "content": "那可以看到第一组的话",
+          "music": 0.0
+        },
+        {
+          "from": 78.149,
+          "to": 80.629,
+          "sid": 33,
+          "location": 2,
+          "content": "他还是依靠大腿发力比较多",
+          "music": 0.0
+        },
+        {
+          "from": 80.629,
+          "to": 81.969,
+          "sid": 34,
+          "location": 2,
+          "content": "那这里有两个点",
+          "music": 0.0
+        },
+        {
+          "from": 81.969,
+          "to": 85.04,
+          "sid": 35,
+          "location": 2,
+          "content": "一个点是他的视线是看向前方的",
+          "music": 0.0
+        },
+        {
+          "from": 85.04,
+          "to": 87.78,
+          "sid": 36,
+          "location": 2,
+          "content": "另一个点是他扛杠的时候",
+          "music": 0.0
+        },
+        {
+          "from": 87.78,
+          "to": 91.47,
+          "sid": 37,
+          "location": 2,
+          "content": "我们可以看到他的膝盖是先预弯曲了一下",
+          "music": 0.0
+        },
+        {
+          "from": 91.47,
+          "to": 95.11,
+          "sid": 38,
+          "location": 2,
+          "content": "那这两个点就使得他的臀部会难以找到",
+          "music": 0.0
+        },
+        {
+          "from": 95.11,
+          "to": 96.75,
+          "sid": 39,
+          "location": 2,
+          "content": "发力的感觉",
+          "music": 0.0
+        },
+        {
+          "from": 97.43,
+          "to": 100.69,
+          "sid": 40,
+          "location": 2,
+          "content": "那第二组的话也是稍微对他进行了一个调整",
+          "music": 0.0
+        },
+        {
+          "from": 100.69,
+          "to": 103.39,
+          "sid": 41,
+          "location": 2,
+          "content": "首先是我们扛杠之后要先屈宽",
+          "music": 0.0
+        },
+        {
+          "from": 103.39,
+          "to": 107.67,
+          "sid": 42,
+          "location": 2,
+          "content": "另外一个就是我们的视线要跟随我们的身体",
+          "music": 0.0
+        },
+        {
+          "from": 107.67,
+          "to": 110.53,
+          "sid": 43,
+          "location": 2,
+          "content": "也就是我们在下蹲的过程当中",
+          "music": 0.0
+        },
+        {
+          "from": 110.53,
+          "to": 113.93,
+          "sid": 44,
+          "location": 2,
+          "content": "视线应该是稍微往斜前方看的",
+          "music": 0.0
+        },
+        {
+          "from": 113.93,
+          "to": 115.199,
+          "sid": 45,
+          "location": 2,
+          "content": "而不是正前方",
+          "music": 0.0
+        },
+        {
+          "from": 115.199,
+          "to": 118.019,
+          "sid": 46,
+          "location": 2,
+          "content": "这样的话我们的臀的发力会比较多一点",
+          "music": 0.0
+        },
+        {
+          "from": 118.019,
+          "to": 122.05,
+          "sid": 47,
+          "location": 2,
+          "content": "那可以看到他这一组的话深蹲就是比较顺的",
+          "music": 0.0
+        },
+        {
+          "from": 122.37,
+          "to": 125.86,
+          "sid": 48,
+          "location": 2,
+          "content": "那最后一组直接让文哥脱掉举重鞋来进行深蹲",
+          "music": 0.0
+        },
+        {
+          "from": 125.86,
+          "to": 127.8,
+          "sid": 49,
+          "location": 2,
+          "content": "那可以发现经过调整之后",
+          "music": 0.0
+        },
+        {
+          "from": 127.8,
+          "to": 129.4,
+          "sid": 50,
+          "location": 2,
+          "content": "龙哥就算不穿举重鞋",
+          "music": 0.0
+        },
+        {
+          "from": 129.4,
+          "to": 132.21,
+          "sid": 51,
+          "location": 2,
+          "content": "也能够达到一个较深的动作幅度",
+          "music": 0.0
+        },
+        {
+          "from": 132.21,
+          "to": 133.91,
+          "sid": 52,
+          "location": 2,
+          "content": "同时脱掉举重鞋之后",
+          "music": 0.0
+        },
+        {
+          "from": 133.91,
+          "to": 136.71,
+          "sid": 53,
+          "location": 2,
+          "content": "我们的臀部也能够更好地参与发力",
+          "music": 0.0
+        },
+        {
+          "from": 136.71,
+          "to": 137.95,
+          "sid": 54,
+          "location": 2,
+          "content": "来到下一个动作",
+          "music": 0.0
+        },
+        {
+          "from": 137.95,
+          "to": 138.97,
+          "sid": 55,
+          "location": 2,
+          "content": "罗马尼亚硬拉",
+          "music": 0.0
+        },
+        {
+          "from": 138.97,
+          "to": 141.27,
+          "sid": 56,
+          "location": 2,
+          "content": "对于那些后侧比较紧的朋友",
+          "music": 0.0
+        },
+        {
+          "from": 141.27,
+          "to": 143.92,
+          "sid": 57,
+          "location": 2,
+          "content": "罗马尼亚硬拉可以说是必练的一个动作",
+          "music": 0.0
+        },
+        {
+          "from": 143.92,
+          "to": 146.28,
+          "sid": 58,
+          "location": 2,
+          "content": "它能够帮助我们强化后侧力量",
+          "music": 0.0
+        },
+        {
+          "from": 146.28,
+          "to": 148.899,
+          "sid": 59,
+          "location": 2,
+          "content": "同时改善一下后侧的活动度",
+          "music": 0.0
+        },
+        {
+          "from": 148.899,
+          "to": 150.979,
+          "sid": 60,
+          "location": 2,
+          "content": "那这里看到龙哥第一组的话",
+          "music": 0.0
+        },
+        {
+          "from": 150.979,
+          "to": 154.92,
+          "sid": 61,
+          "location": 2,
+          "content": "他的整个杠铃轨迹是贴着大腿下的",
+          "music": 0.0
+        },
+        {
+          "from": 154.92,
+          "to": 159.74,
+          "sid": 62,
+          "location": 2,
+          "content": "那同时他的重心的话会稍微比较靠脚后跟一点",
+          "music": 0.0
+        },
+        {
+          "from": 159.74,
+          "to": 161.94,
+          "sid": 63,
+          "location": 2,
+          "content": "那第二组的话经过调整",
+          "music": 0.0
+        },
+        {
+          "from": 161.94,
+          "to": 165.32,
+          "sid": 64,
+          "location": 2,
+          "content": "它的杠铃轨迹已经接近一个垂直了",
+          "music": 0.0
+        },
+        {
+          "from": 165.32,
+          "to": 167.639,
+          "sid": 65,
+          "location": 2,
+          "content": "这个时候他的嗯",
+          "music": 0.0
+        },
+        {
+          "from": 167.639,
+          "to": 171.4,
+          "sid": 66,
+          "location": 2,
+          "content": "足底重心的话是在足弓的正中间",
+          "music": 0.0
+        },
+        {
+          "from": 171.4,
+          "to": 175.84,
+          "sid": 67,
+          "location": 2,
+          "content": "那第三组的话又让龙哥的视线跟随身体来进行",
+          "music": 0.0
+        },
+        {
+          "from": 175.84,
+          "to": 176.68,
+          "sid": 68,
+          "location": 2,
+          "content": "这样的话",
+          "music": 0.0
+        },
+        {
+          "from": 176.68,
+          "to": 180.11,
+          "sid": 69,
+          "location": 2,
+          "content": "对于我们整个后背的压力会稍微小一点",
+          "music": 0.0
+        },
+        {
+          "from": 180.11,
+          "to": 183.74,
+          "sid": 70,
+          "location": 2,
+          "content": "我们的腰椎的压力就相对来说没有那么大",
+          "music": 0.0
+        },
+        {
+          "from": 184.06,
+          "to": 185.96,
+          "sid": 71,
+          "location": 2,
+          "content": "那来到第一个俯向动作",
+          "music": 0.0
+        },
+        {
+          "from": 185.96,
+          "to": 187.0,
+          "sid": 72,
+          "location": 2,
+          "content": "滑盘侧弓步",
+          "music": 0.0
+        },
+        {
+          "from": 187.0,
+          "to": 190.46,
+          "sid": 73,
+          "location": 2,
+          "content": "这个动作主要是提高龙哥下肢的稳定性",
+          "music": 0.0
+        },
+        {
+          "from": 190.46,
+          "to": 192.98,
+          "sid": 74,
+          "location": 2,
+          "content": "因为他在进行深蹲的时候",
+          "music": 0.0
+        },
+        {
+          "from": 192.98,
+          "to": 195.72,
+          "sid": 75,
+          "location": 2,
+          "content": "他的膝盖容易出现内扣的一个情况",
+          "music": 0.0
+        },
+        {
+          "from": 195.72,
+          "to": 199.64,
+          "sid": 76,
+          "location": 2,
+          "content": "这个动作能够很好的强化我们大腿股四头肌",
+          "music": 0.0
+        },
+        {
+          "from": 199.64,
+          "to": 200.69,
+          "sid": 77,
+          "location": 2,
+          "content": "内侧头",
+          "music": 0.0
+        },
+        {
+          "from": 200.69,
+          "to": 204.35,
+          "sid": 78,
+          "location": 2,
+          "content": "那对于我们下肢的稳定性是非常有帮助的",
+          "music": 0.0
+        },
+        {
+          "from": 204.67,
+          "to": 208.67,
+          "sid": 79,
+          "location": 2,
+          "content": "那与之搭配的一个动作是迷你带的一个宽扰环",
+          "music": 0.0
+        },
+        {
+          "from": 208.67,
+          "to": 210.97,
+          "sid": 80,
+          "location": 2,
+          "content": "这个动作主要是强化我们臀中肌",
+          "music": 0.0
+        },
+        {
+          "from": 210.97,
+          "to": 214.46,
+          "sid": 81,
+          "location": 2,
+          "content": "同样这块肌肉对于我们下肢的稳定性非常重要",
+          "music": 0.0
+        },
+        {
+          "from": 214.46,
+          "to": 216.0,
+          "sid": 82,
+          "location": 2,
+          "content": "那做这个动作的时候",
+          "music": 0.0
+        },
+        {
+          "from": 216.0,
+          "to": 219.56,
+          "sid": 83,
+          "location": 2,
+          "content": "记得我们要把骨盆给保持到平整的位置",
+          "music": 0.0
+        },
+        {
+          "from": 219.56,
+          "to": 223.76,
+          "sid": 84,
+          "location": 2,
+          "content": "那同时我们下肢的一个腿要尽可能撑开一点",
+          "music": 0.0
+        },
+        {
+          "from": 223.76,
+          "to": 226.829,
+          "sid": 85,
+          "location": 2,
+          "content": "让弹力带保持一个持续的张力",
+          "music": 0.0
+        },
+        {
+          "from": 227.109,
+          "to": 231.6,
+          "sid": 86,
+          "location": 2,
+          "content": "那脚踝部分选择的是一个单腿的站姿提踵",
+          "music": 0.0
+        },
+        {
+          "from": 231.6,
+          "to": 233.0,
+          "sid": 87,
+          "location": 2,
+          "content": "那做这个动作的时候",
+          "music": 0.0
+        },
+        {
+          "from": 233.0,
+          "to": 234.54,
+          "sid": 88,
+          "location": 2,
+          "content": "我们要尽可能下深一点",
+          "music": 0.0
+        },
+        {
+          "from": 234.54,
+          "to": 236.3,
+          "sid": 89,
+          "location": 2,
+          "content": "然后垫到最高的位置",
+          "music": 0.0
+        },
+        {
+          "from": 236.3,
+          "to": 238.19,
+          "sid": 90,
+          "location": 2,
+          "content": "同样是一个全辅助动作",
+          "music": 0.0
+        },
+        {
+          "from": 238.19,
+          "to": 239.59,
+          "sid": 91,
+          "location": 2,
+          "content": "那往下放的时候",
+          "music": 0.0
+        },
+        {
+          "from": 239.59,
+          "to": 242.65,
+          "sid": 92,
+          "location": 2,
+          "content": "我们记得一定要脚后跟尽可能下深一点",
+          "music": 0.0
+        },
+        {
+          "from": 242.65,
+          "to": 245.399,
+          "sid": 93,
+          "location": 2,
+          "content": "这样的话能够帮助我们拉伸小腿",
+          "music": 0.0
+        },
+        {
+          "from": 245.399,
+          "to": 248.239,
+          "sid": 94,
+          "location": 2,
+          "content": "同时能够被动地提高我们脚踝的活动度",
+          "music": 0.0
+        },
+        {
+          "from": 249.399,
+          "to": 251.639,
+          "sid": 95,
+          "location": 2,
+          "content": "那最后一个动作是一个纠正性练习",
+          "music": 0.0
+        },
+        {
+          "from": 251.639,
+          "to": 254.93,
+          "sid": 96,
+          "location": 2,
+          "content": "由于龙哥的下肢力线有一点偏移",
+          "music": 0.0
+        },
+        {
+          "from": 254.93,
+          "to": 257.13,
+          "sid": 97,
+          "location": 2,
+          "content": "所以说让他固定住髋关节",
+          "music": 0.0
+        },
+        {
+          "from": 257.13,
+          "to": 259.58,
+          "sid": 98,
+          "location": 2,
+          "content": "来进行一个小腿的内旋",
+          "music": 0.0
+        },
+        {
+          "from": 259.58,
+          "to": 264.12,
+          "sid": 99,
+          "location": 2,
+          "content": "这样的话能够帮助我们纠正髌骨的一个位置",
+          "music": 0.0
+        },
+        {
+          "from": 264.12,
+          "to": 266.13,
+          "sid": 100,
+          "location": 2,
+          "content": "插一个值",
+          "music": 0.0
+        },
+        {
+          "from": 266.45,
+          "to": 268.79,
+          "sid": 101,
+          "location": 2,
+          "content": "这边也是差一个值多一点",
+          "music": 0.0
+        },
+        {
+          "from": 268.79,
+          "to": 270.909,
+          "sid": 102,
+          "location": 2,
+          "content": "那一开始可能差的更多",
+          "music": 0.0
+        },
+        {
+          "from": 270.909,
+          "to": 273.569,
+          "sid": 103,
+          "location": 2,
+          "content": "那以上就是本期训练的全部计划了",
+          "music": 0.0
+        },
+        {
+          "from": 273.569,
+          "to": 275.269,
+          "sid": 104,
+          "location": 2,
+          "content": "如果觉得对你有所帮助的话",
+          "music": 0.0
+        },
+        {
+          "from": 275.269,
+          "to": 276.83,
+          "sid": 105,
+          "location": 2,
+          "content": "还请点赞支持一波",
+          "music": 0.0
+        },
+        {
+          "from": 276.83,
+          "to": 279.71,
+          "sid": 106,
+          "location": 2,
+          "content": "那后续我也会持续记录龙哥的训练的",
+          "music": 0.0
+        },
+        {
+          "from": 279.71,
+          "to": 280.87,
+          "sid": 107,
+          "location": 2,
+          "content": "我们下期视频再见",
+          "music": 0.0
+        },
+        {
+          "from": 280.87,
+          "to": 281.72,
+          "sid": 108,
+          "location": 2,
+          "content": "拜拜",
+          "music": 0.0
+        }
+      ]
+    }
+  ]
+}
