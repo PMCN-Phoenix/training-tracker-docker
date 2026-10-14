@@ -1,0 +1,4618 @@
+[
+ {
+  "from": 0.0,
+  "to": 1.14,
+  "sid": 1,
+  "location": 2,
+  "content": "在你的人生当中",
+  "music": 0.0
+ },
+ {
+  "from": 1.14,
+  "to": 2.12,
+  "sid": 2,
+  "location": 2,
+  "content": "有没有一些事情",
+  "music": 0.0
+ },
+ {
+  "from": 2.12,
+  "to": 5.08,
+  "sid": 3,
+  "location": 2,
+  "content": "是你非常想要长期的坚持下去的",
+  "music": 0.0
+ },
+ {
+  "from": 5.08,
+  "to": 6.62,
+  "sid": 4,
+  "location": 2,
+  "content": "在定下目标的时候",
+  "music": 0.0
+ },
+ {
+  "from": 6.62,
+  "to": 9.46,
+  "sid": 5,
+  "location": 2,
+  "content": "我们往往能够感受到那种非常强烈的动机",
+  "music": 0.0
+ },
+ {
+  "from": 9.46,
+  "to": 10.1,
+  "sid": 6,
+  "location": 2,
+  "content": "跟渴望",
+  "music": 0.0
+ },
+ {
+  "from": 10.1,
+  "to": 11.18,
+  "sid": 7,
+  "location": 2,
+  "content": "想要实现它",
+  "music": 0.0
+ },
+ {
+  "from": 11.18,
+  "to": 12.68,
+  "sid": 8,
+  "location": 2,
+  "content": "但是你怎么都想不到",
+  "music": 0.0
+ },
+ {
+  "from": 12.68,
+  "to": 15.12,
+  "sid": 9,
+  "location": 2,
+  "content": "结果还是坚持不了多久就放弃了",
+  "music": 0.0
+ },
+ {
+  "from": 15.12,
+  "to": 16.92,
+  "sid": 10,
+  "location": 2,
+  "content": "我也常常有这样的苦恼",
+  "music": 0.0
+ },
+ {
+  "from": 16.92,
+  "to": 18.44,
+  "sid": 11,
+  "location": 2,
+  "content": "但是回望过去两年",
+  "music": 0.0
+ },
+ {
+  "from": 18.44,
+  "to": 21.24,
+  "sid": 12,
+  "location": 2,
+  "content": "我发现有件事情我还坚持了蛮久的",
+  "music": 0.0
+ },
+ {
+  "from": 21.24,
+  "to": 24.88,
+  "sid": 13,
+  "location": 2,
+  "content": "就是跳舞到现在应该有一年多的时间了",
+  "music": 0.0
+ },
+ {
+  "from": 24.88,
+  "to": 26.38,
+  "sid": 14,
+  "location": 2,
+  "content": "我突然意识到",
+  "music": 0.0
+ },
+ {
+  "from": 26.38,
+  "to": 30.6,
+  "sid": 15,
+  "location": 2,
+  "content": "真正的长期主义者从来都不觉得自己在坚持",
+  "music": 0.0
+ },
+ {
+  "from": 30.6,
+  "to": 32.54,
+  "sid": 16,
+  "location": 2,
+  "content": "所以呢今天我们就来聊一聊",
+  "music": 0.0
+ },
+ {
+  "from": 32.54,
+  "to": 34.95,
+  "sid": 17,
+  "location": 2,
+  "content": "如何成为一个长期主义者",
+  "music": 0.0
+ },
+ {
+  "from": 34.95,
+  "to": 37.13,
+  "sid": 18,
+  "location": 2,
+  "content": "长久的坚持做一件事情",
+  "music": 0.0
+ },
+ {
+  "from": 37.13,
+  "to": 38.98,
+  "sid": 19,
+  "location": 2,
+  "content": "要想坚持做一件事",
+  "music": 0.0
+ },
+ {
+  "from": 38.98,
+  "to": 42.44,
+  "sid": 20,
+  "location": 2,
+  "content": "首先就是不要去累积对于努力的感知",
+  "music": 0.0
+ },
+ {
+  "from": 42.44,
+  "to": 45.44,
+  "sid": 21,
+  "location": 2,
+  "content": "努力这个概念只会阻碍你的执行力",
+  "music": 0.0
+ },
+ {
+  "from": 45.44,
+  "to": 48.08,
+  "sid": 22,
+  "location": 2,
+  "content": "因为如果你觉得一件事情是需要努力的",
+  "music": 0.0
+ },
+ {
+  "from": 48.08,
+  "to": 51.38,
+  "sid": 23,
+  "location": 2,
+  "content": "说明他一定没有成为你生活中常态的一部分",
+  "music": 0.0
+ },
+ {
+  "from": 51.38,
+  "to": 53.78,
+  "sid": 24,
+  "location": 2,
+  "content": "甚至是你觉得有一些痛苦的事情",
+  "music": 0.0
+ },
+ {
+  "from": 53.78,
+  "to": 56.82,
+  "sid": 25,
+  "location": 2,
+  "content": "比如说你不会讲我要坚持睡觉",
+  "music": 0.0
+ },
+ {
+  "from": 56.82,
+  "to": 57.76,
+  "sid": 26,
+  "location": 2,
+  "content": "坚持吃饭",
+  "music": 0.0
+ },
+ {
+  "from": 57.76,
+  "to": 60.08,
+  "sid": 27,
+  "location": 2,
+  "content": "但你会讲说我要坚持早睡",
+  "music": 0.0
+ },
+ {
+  "from": 60.08,
+  "to": 61.84,
+  "sid": 28,
+  "location": 2,
+  "content": "坚持干净饮食对吧",
+  "music": 0.0
+ },
+ {
+  "from": 61.84,
+  "to": 63.24,
+  "sid": 29,
+  "location": 2,
+  "content": "在how bad do you want it",
+  "music": 0.0
+ },
+ {
+  "from": 63.24,
+  "to": 64.28,
+  "sid": 30,
+  "location": 2,
+  "content": "你到底有多想要",
+  "music": 0.0
+ },
+ {
+  "from": 64.28,
+  "to": 64.92,
+  "sid": 31,
+  "location": 2,
+  "content": "这本书里",
+  "music": 0.0
+ },
+ {
+  "from": 64.92,
+  "to": 67.0,
+  "sid": 32,
+  "location": 2,
+  "content": "研究了大量顶级运动员",
+  "music": 0.0
+ },
+ {
+  "from": 67.0,
+  "to": 69.6,
+  "sid": 33,
+  "location": 2,
+  "content": "如何在极限状态下突破瓶颈",
+  "music": 0.0
+ },
+ {
+  "from": 69.6,
+  "to": 71.2,
+  "sid": 34,
+  "location": 2,
+  "content": "这本书里面提到了一个概念",
+  "music": 0.0
+ },
+ {
+  "from": 71.2,
+  "to": 73.24,
+  "sid": 35,
+  "location": 2,
+  "content": "叫做perception of effort",
+  "music": 0.0
+ },
+ {
+  "from": 73.24,
+  "to": 75.22,
+  "sid": 36,
+  "location": 2,
+  "content": "也就是对努力的感知程度",
+  "music": 0.0
+ },
+ {
+  "from": 75.22,
+  "to": 76.64,
+  "sid": 37,
+  "location": 2,
+  "content": "这种对于努力的感知",
+  "music": 0.0
+ },
+ {
+  "from": 76.64,
+  "to": 79.08,
+  "sid": 38,
+  "location": 2,
+  "content": "会直接影响这些运动员的表现",
+  "music": 0.0
+ },
+ {
+  "from": 79.08,
+  "to": 80.75,
+  "sid": 39,
+  "location": 2,
+  "content": "书里面提到了一个实验",
+  "music": 0.0
+ },
+ {
+  "from": 80.75,
+  "to": 82.65,
+  "sid": 40,
+  "location": 2,
+  "content": "把受试者分成两组",
+  "music": 0.0
+ },
+ {
+  "from": 82.65,
+  "to": 83.89,
+  "sid": 41,
+  "location": 2,
+  "content": "跟第一组人说",
+  "music": 0.0
+ },
+ {
+  "from": 83.89,
+  "to": 86.09,
+  "sid": 42,
+  "location": 2,
+  "content": "你要在跑步机上跑10km",
+  "music": 0.0
+ },
+ {
+  "from": 86.09,
+  "to": 89.14,
+  "sid": 43,
+  "location": 2,
+  "content": "然后跑完问他们的疲劳程度是怎么样的",
+  "music": 0.0
+ },
+ {
+  "from": 89.14,
+  "to": 90.7,
+  "sid": 44,
+  "location": 2,
+  "content": "跟第二组的人则说",
+  "music": 0.0
+ },
+ {
+  "from": 90.7,
+  "to": 92.78,
+  "sid": 45,
+  "location": 2,
+  "content": "你们要在跑步机上跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 92.78,
+  "to": 94.44,
+  "sid": 46,
+  "location": 2,
+  "content": "等他们跑完了这5km",
+  "music": 0.0
+ },
+ {
+  "from": 94.44,
+  "to": 95.32,
+  "sid": 47,
+  "location": 2,
+  "content": "你又跟他们说",
+  "music": 0.0
+ },
+ {
+  "from": 95.52,
+  "to": 96.16,
+  "sid": 48,
+  "location": 2,
+  "content": "不好意思",
+  "music": 0.0
+ },
+ {
+  "from": 96.16,
+  "to": 97.54,
+  "sid": 49,
+  "location": 2,
+  "content": "你还得再跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 97.54,
+  "to": 99.58,
+  "sid": 50,
+  "location": 2,
+  "content": "等他们把第二个5km跑完之后",
+  "music": 0.0
+ },
+ {
+  "from": 99.58,
+  "to": 100.5,
+  "sid": 51,
+  "location": 2,
+  "content": "再去问他们",
+  "music": 0.0
+ },
+ {
+  "from": 100.5,
+  "to": 102.38,
+  "sid": 52,
+  "location": 2,
+  "content": "你现在的疲劳程度是怎么样的",
+  "music": 0.0
+ },
+ {
+  "from": 102.38,
+  "to": 105.38,
+  "sid": 53,
+  "location": 2,
+  "content": "结果是第二组人普遍反映自己感觉更累",
+  "music": 0.0
+ },
+ {
+  "from": 105.38,
+  "to": 107.72,
+  "sid": 54,
+  "location": 2,
+  "content": "但是这两组人跑的距离是一样的",
+  "music": 0.0
+ },
+ {
+  "from": 107.72,
+  "to": 108.82,
+  "sid": 55,
+  "location": 2,
+  "content": "都是10km",
+  "music": 0.0
+ },
+ {
+  "from": 108.82,
+  "to": 111.3,
+  "sid": 56,
+  "location": 2,
+  "content": "为什么他们对于疲劳程度的感知",
+  "music": 0.0
+ },
+ {
+  "from": 111.3,
+  "to": 112.62,
+  "sid": 57,
+  "location": 2,
+  "content": "会有这么大的区别呢",
+  "music": 0.0
+ },
+ {
+  "from": 112.62,
+  "to": 114.62,
+  "sid": 58,
+  "location": 2,
+  "content": "这就是因为预期的存在",
+  "music": 0.0
+ },
+ {
+  "from": 114.62,
+  "to": 116.56,
+  "sid": 59,
+  "location": 2,
+  "content": "一开始跟你说跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 116.56,
+  "to": 119.0,
+  "sid": 60,
+  "location": 2,
+  "content": "你的大脑就分配了这么多能量",
+  "music": 0.0
+ },
+ {
+  "from": 119.0,
+  "to": 120.5,
+  "sid": 61,
+  "location": 2,
+  "content": "供你跑完这5km",
+  "music": 0.0
+ },
+ {
+  "from": 120.5,
+  "to": 122.04,
+  "sid": 62,
+  "location": 2,
+  "content": "结果等你跑完又跟你说",
+  "music": 0.0
+ },
+ {
+  "from": 122.04,
+  "to": 123.55,
+  "sid": 63,
+  "location": 2,
+  "content": "你还得再跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 123.55,
+  "to": 124.65,
+  "sid": 64,
+  "location": 2,
+  "content": "相当于这个时候",
+  "music": 0.0
+ },
+ {
+  "from": 124.65,
+  "to": 127.93,
+  "sid": 65,
+  "location": 2,
+  "content": "你对于努力的感知程度就已经超过百分百了",
+  "music": 0.0
+ },
+ {
+  "from": 127.93,
+  "to": 128.63,
+  "sid": 66,
+  "location": 2,
+  "content": "也就是说",
+  "music": 0.0
+ },
+ {
+  "from": 128.63,
+  "to": 131.64,
+  "sid": 67,
+  "location": 2,
+  "content": "你原本预自己只要跑完这5km就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 131.64,
+  "to": 132.84,
+  "sid": 68,
+  "location": 2,
+  "content": "而后面多出来的要求",
+  "music": 0.0
+ },
+ {
+  "from": 132.84,
+  "to": 134.66,
+  "sid": 69,
+  "location": 2,
+  "content": "就超出了你对于努力的认知",
+  "music": 0.0
+ },
+ {
+  "from": 134.66,
+  "to": 137.72,
+  "sid": 70,
+  "location": 2,
+  "content": "所以人对于努力其实是没有一个客观的标",
+  "music": 0.0
+ },
+ {
+  "from": 137.72,
+  "to": 140.02,
+  "sid": 71,
+  "location": 2,
+  "content": "你所谓的啊我不行了",
+  "music": 0.0
+ },
+ {
+  "from": 140.02,
+  "to": 141.4,
+  "sid": 72,
+  "location": 2,
+  "content": "不是身体上的不行",
+  "music": 0.0
+ },
+ {
+  "from": 141.4,
+  "to": 142.88,
+  "sid": 73,
+  "location": 2,
+  "content": "也不是大脑上的不行",
+  "music": 0.0
+ },
+ {
+  "from": 142.88,
+  "to": 146.24,
+  "sid": 74,
+  "location": 2,
+  "content": "而是你的大脑对于努力的感知超出了你的预期",
+  "music": 0.0
+ },
+ {
+  "from": 146.24,
+  "to": 148.4,
+  "sid": 75,
+  "location": 2,
+  "content": "让你产生一种我好努力啊",
+  "music": 0.0
+ },
+ {
+  "from": 148.4,
+  "to": 149.94,
+  "sid": 76,
+  "location": 2,
+  "content": "我不行了的那种感觉",
+  "music": 0.0
+ },
+ {
+  "from": 149.94,
+  "to": 153.28,
+  "sid": 77,
+  "location": 2,
+  "content": "实际上你远比自己想象中的要更加强大",
+  "music": 0.0
+ },
+ {
+  "from": 153.28,
+  "to": 155.5,
+  "sid": 78,
+  "location": 2,
+  "content": "你可以试着把自己的精力和能量",
+  "music": 0.0
+ },
+ {
+  "from": 155.5,
+  "to": 157.3,
+  "sid": 79,
+  "location": 2,
+  "content": "看成是一个大池子",
+  "music": 0.0
+ },
+ {
+  "from": 157.3,
+  "to": 159.06,
+  "sid": 80,
+  "location": 2,
+  "content": "这个池子有多大有多深",
+  "music": 0.0
+ },
+ {
+  "from": 159.06,
+  "to": 160.64,
+  "sid": 81,
+  "location": 2,
+  "content": "我们往往是不知道的",
+  "music": 0.0
+ },
+ {
+  "from": 160.64,
+  "to": 163.02,
+  "sid": 82,
+  "location": 2,
+  "content": "你能看到的只是大脑基于预期",
+  "music": 0.0
+ },
+ {
+  "from": 163.02,
+  "to": 166.0,
+  "sid": 83,
+  "location": 2,
+  "content": "它预测你做这件事情需要多少能量",
+  "music": 0.0
+ },
+ {
+  "from": 166.0,
+  "to": 168.86,
+  "sid": 84,
+  "location": 2,
+  "content": "他觉得你需要的精力和能量就是这么多",
+  "music": 0.0
+ },
+ {
+  "from": 168.86,
+  "to": 171.96,
+  "sid": 85,
+  "location": 2,
+  "content": "而我们往往会误认为大脑给你分配这个能量",
+  "music": 0.0
+ },
+ {
+  "from": 171.96,
+  "to": 173.32,
+  "sid": 86,
+  "location": 2,
+  "content": "就是你的全部",
+  "music": 0.0
+ },
+ {
+  "from": 173.32,
+  "to": 174.56,
+  "sid": 87,
+  "location": 2,
+  "content": "就是你的极限",
+  "music": 0.0
+ },
+ {
+  "from": 174.56,
+  "to": 177.94,
+  "sid": 88,
+  "location": 2,
+  "content": "这就让我想到我前两天跳帕梅拉的一个燃脂操",
+  "music": 0.0
+ },
+ {
+  "from": 177.94,
+  "to": 180.2,
+  "sid": 89,
+  "location": 2,
+  "content": "我没有特地去看这个运动的时长",
+  "music": 0.0
+ },
+ {
+  "from": 180.2,
+  "to": 183.35,
+  "sid": 90,
+  "location": 2,
+  "content": "但是因为他大部分的运动都是大概10分钟左右",
+  "music": 0.0
+ },
+ {
+  "from": 183.35,
+  "to": 185.43,
+  "sid": 91,
+  "location": 2,
+  "content": "所以我非常自然而然的觉得",
+  "music": 0.0
+ },
+ {
+  "from": 185.43,
+  "to": 186.89,
+  "sid": 92,
+  "location": 2,
+  "content": "那个运动就是10分钟",
+  "music": 0.0
+ },
+ {
+  "from": 186.89,
+  "to": 190.39,
+  "sid": 93,
+  "location": 2,
+  "content": "但实际上那个运动有20分钟在跳的过程当中",
+  "music": 0.0
+ },
+ {
+  "from": 190.39,
+  "to": 191.57,
+  "sid": 94,
+  "location": 2,
+  "content": "我只是有个困惑",
+  "music": 0.0
+ },
+ {
+  "from": 191.57,
+  "to": 192.3,
+  "sid": 95,
+  "location": 2,
+  "content": "在想说",
+  "music": 0.0
+ },
+ {
+  "from": 192.3,
+  "to": 195.86,
+  "sid": 96,
+  "location": 2,
+  "content": "诶以前10分钟不是大概三四首歌就跳完了吗",
+  "music": 0.0
+ },
+ {
+  "from": 195.86,
+  "to": 198.62,
+  "sid": 97,
+  "location": 2,
+  "content": "怎么这个运动跳了这么多首歌还没结束",
+  "music": 0.0
+ },
+ {
+  "from": 198.62,
+  "to": 200.36,
+  "sid": 98,
+  "location": 2,
+  "content": "当时我只是天真的以为哦",
+  "music": 0.0
+ },
+ {
+  "from": 200.36,
+  "to": 201.64,
+  "sid": 99,
+  "location": 2,
+  "content": "可能只是每一首歌",
+  "music": 0.0
+ },
+ {
+  "from": 201.64,
+  "to": 203.22,
+  "sid": 100,
+  "location": 2,
+  "content": "它持续的时间很短吧",
+  "music": 0.0
+ },
+ {
+  "from": 203.22,
+  "to": 205.84,
+  "sid": 101,
+  "location": 2,
+  "content": "中间就没有觉得说我累到不行了",
+  "music": 0.0
+ },
+ {
+  "from": 205.84,
+  "to": 207.14,
+  "sid": 102,
+  "location": 2,
+  "content": "坚持不下去的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 207.14,
+  "to": 210.52,
+  "sid": 103,
+  "location": 2,
+  "content": "结果做完我才发现这个运动居然有20分钟",
+  "music": 0.0
+ },
+ {
+  "from": 210.52,
+  "to": 212.96,
+  "sid": 104,
+  "location": 2,
+  "content": "但是我却感受不到做了20分钟运动",
+  "music": 0.0
+ },
+ {
+  "from": 212.96,
+  "to": 214.76,
+  "sid": 105,
+  "location": 2,
+  "content": "应该有的那种疲惫感",
+  "music": 0.0
+ },
+ {
+  "from": 214.76,
+  "to": 215.6,
+  "sid": 106,
+  "location": 2,
+  "content": "因为我在跳的时候",
+  "music": 0.0
+ },
+ {
+  "from": 215.6,
+  "to": 218.44,
+  "sid": 107,
+  "location": 2,
+  "content": "我就会在想说10分钟的运动而已",
+  "music": 0.0
+ },
+ {
+  "from": 218.44,
+  "to": 220.06,
+  "sid": 108,
+  "location": 2,
+  "content": "不应该会感觉到很累",
+  "music": 0.0
+ },
+ {
+  "from": 220.06,
+  "to": 222.4,
+  "sid": 109,
+  "location": 2,
+  "content": "我应该能够轻轻松松的坐下来才对",
+  "music": 0.0
+ },
+ {
+  "from": 222.4,
+  "to": 224.82,
+  "sid": 110,
+  "location": 2,
+  "content": "所以你看这就是一种非常神奇的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 224.82,
+  "to": 227.46,
+  "sid": 111,
+  "location": 2,
+  "content": "当我对于我坚持运动了多长时间",
+  "music": 0.0
+ },
+ {
+  "from": 227.46,
+  "to": 229.8,
+  "sid": 112,
+  "location": 2,
+  "content": "这个事情失去了感知的时候",
+  "music": 0.0
+ },
+ {
+  "from": 229.8,
+  "to": 233.82,
+  "sid": 113,
+  "location": 2,
+  "content": "我会发现其实我的身体比我想象中的更加强大",
+  "music": 0.0
+ },
+ {
+  "from": 233.82,
+  "to": 235.22,
+  "sid": 114,
+  "location": 2,
+  "content": "所以真的很多时候",
+  "music": 0.0
+ },
+ {
+  "from": 235.22,
+  "to": 238.34,
+  "sid": 115,
+  "location": 2,
+  "content": "你的身体跟心理都没有你想象中的那么累",
+  "music": 0.0
+ },
+ {
+  "from": 238.34,
+  "to": 240.78,
+  "sid": 116,
+  "location": 2,
+  "content": "只是在你一天做了很多事情",
+  "music": 0.0
+ },
+ {
+  "from": 240.78,
+  "to": 242.71,
+  "sid": 117,
+  "location": 2,
+  "content": "比如说工作学习",
+  "music": 0.0
+ },
+ {
+  "from": 242.71,
+  "to": 243.99,
+  "sid": 118,
+  "location": 2,
+  "content": "做家务等等",
+  "music": 0.0
+ },
+ {
+  "from": 243.99,
+  "to": 246.07,
+  "sid": 119,
+  "location": 2,
+  "content": "让你在心里不断的记账本",
+  "music": 0.0
+ },
+ {
+  "from": 246.07,
+  "to": 249.16,
+  "sid": 120,
+  "location": 2,
+  "content": "你在一点一点的把你所有的努力记录下来",
+  "music": 0.0
+ },
+ {
+  "from": 249.16,
+  "to": 250.62,
+  "sid": 121,
+  "location": 2,
+  "content": "不断的去累积自己",
+  "music": 0.0
+ },
+ {
+  "from": 250.62,
+  "to": 251.72,
+  "sid": 122,
+  "location": 2,
+  "content": "对于努力的感知",
+  "music": 0.0
+ },
+ {
+  "from": 251.72,
+  "to": 253.44,
+  "sid": 123,
+  "location": 2,
+  "content": "你会在心里不断的暗示自己",
+  "music": 0.0
+ },
+ {
+  "from": 253.44,
+  "to": 255.1,
+  "sid": 124,
+  "location": 2,
+  "content": "我今天做了这么多事情",
+  "music": 0.0
+ },
+ {
+  "from": 255.1,
+  "to": 255.88,
+  "sid": 125,
+  "location": 2,
+  "content": "这么高效",
+  "music": 0.0
+ },
+ {
+  "from": 255.88,
+  "to": 257.84,
+  "sid": 126,
+  "location": 2,
+  "content": "我应该要感觉到累了",
+  "music": 0.0
+ },
+ {
+  "from": 257.84,
+  "to": 259.339,
+  "sid": 127,
+  "location": 2,
+  "content": "我应该要去休息了",
+  "music": 0.0
+ },
+ {
+  "from": 259.339,
+  "to": 262.219,
+  "sid": 128,
+  "location": 2,
+  "content": "我应该没有精力再去做更多的事情了",
+  "music": 0.0
+ },
+ {
+  "from": 262.219,
+  "to": 264.779,
+  "sid": 129,
+  "location": 2,
+  "content": "这就会让我们产生一种想的补偿心理",
+  "music": 0.0
+ },
+ {
+  "from": 264.779,
+  "to": 266.919,
+  "sid": 130,
+  "location": 2,
+  "content": "就是说如果人一直一直在做好事",
+  "music": 0.0
+ },
+ {
+  "from": 266.919,
+  "to": 268.1,
+  "sid": 131,
+  "location": 2,
+  "content": "比如说工作",
+  "music": 0.0
+ },
+ {
+  "from": 268.1,
+  "to": 269.54,
+  "sid": 132,
+  "location": 2,
+  "content": "学习运动等等",
+  "music": 0.0
+ },
+ {
+  "from": 269.54,
+  "to": 272.06,
+  "sid": 133,
+  "location": 2,
+  "content": "需要耗费一些精力跟脑力的事情",
+  "music": 0.0
+ },
+ {
+  "from": 272.06,
+  "to": 274.04,
+  "sid": 134,
+  "location": 2,
+  "content": "那心里就会想要做一些坏事",
+  "music": 0.0
+ },
+ {
+  "from": 274.04,
+  "to": 275.48,
+  "sid": 135,
+  "location": 2,
+  "content": "来作为对自己的补偿",
+  "music": 0.0
+ },
+ {
+  "from": 275.48,
+  "to": 277.54,
+  "sid": 136,
+  "location": 2,
+  "content": "但是努力是一个主观体感",
+  "music": 0.0
+ },
+ {
+  "from": 277.54,
+  "to": 279.04,
+  "sid": 137,
+  "location": 2,
+  "content": "我们对于事物的感知",
+  "music": 0.0
+ },
+ {
+  "from": 279.04,
+  "to": 280.58,
+  "sid": 138,
+  "location": 2,
+  "content": "不等于事物的本质",
+  "music": 0.0
+ },
+ {
+  "from": 280.58,
+  "to": 281.5,
+  "sid": 139,
+  "location": 2,
+  "content": "心理极限",
+  "music": 0.0
+ },
+ {
+  "from": 281.5,
+  "to": 282.94,
+  "sid": 140,
+  "location": 2,
+  "content": "也不等于生理极限",
+  "music": 0.0
+ },
+ {
+  "from": 282.94,
+  "to": 285.84,
+  "sid": 141,
+  "location": 2,
+  "content": "如果我们主观觉得自己已经足够努力了",
+  "music": 0.0
+ },
+ {
+  "from": 285.84,
+  "to": 287.04,
+  "sid": 142,
+  "location": 2,
+  "content": "就会忍不住懈怠",
+  "music": 0.0
+ },
+ {
+  "from": 287.04,
+  "to": 289.82,
+  "sid": 143,
+  "location": 2,
+  "content": "对于努力的感觉会影响你的努力程度",
+  "music": 0.0
+ },
+ {
+  "from": 289.82,
+  "to": 291.28,
+  "sid": 144,
+  "location": 2,
+  "content": "而非付出的努力",
+  "music": 0.0
+ },
+ {
+  "from": 291.28,
+  "to": 294.62,
+  "sid": 145,
+  "location": 2,
+  "content": "本身就像内耗会增加事情的难度一样",
+  "music": 0.0
+ },
+ {
+  "from": 294.62,
+  "to": 297.08,
+  "sid": 146,
+  "location": 2,
+  "content": "所以如果想要长久的坚持下去",
+  "music": 0.0
+ },
+ {
+  "from": 297.08,
+  "to": 299.26,
+  "sid": 147,
+  "location": 2,
+  "content": "就要让一件事情变得足够自然",
+  "music": 0.0
+ },
+ {
+  "from": 299.26,
+  "to": 302.18,
+  "sid": 148,
+  "location": 2,
+  "content": "自然到你不会产生我在努力的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 302.18,
+  "to": 303.14,
+  "sid": 149,
+  "location": 2,
+  "content": "就好比刷牙",
+  "music": 0.0
+ },
+ {
+  "from": 303.14,
+  "to": 304.3,
+  "sid": 150,
+  "location": 2,
+  "content": "你会连续记录哦",
+  "music": 0.0
+ },
+ {
+  "from": 304.3,
+  "to": 306.72,
+  "sid": 151,
+  "location": 2,
+  "content": "我今天已经连续刷了第几天吗",
+  "music": 0.0
+ },
+ {
+  "from": 306.72,
+  "to": 308.6,
+  "sid": 152,
+  "location": 2,
+  "content": "只有不在心里给努力加戏",
+  "music": 0.0
+ },
+ {
+  "from": 308.6,
+  "to": 311.64,
+  "sid": 153,
+  "location": 2,
+  "content": "才能持续轻盈的无负担的行动",
+  "music": 0.0
+ },
+ {
+  "from": 311.64,
+  "to": 313.16,
+  "sid": 154,
+  "location": 2,
+  "content": "所以这也很好的解释了",
+  "music": 0.0
+ },
+ {
+  "from": 313.16,
+  "to": 316.28,
+  "sid": 155,
+  "location": 2,
+  "content": "为什么我过去一年能够把跳舞这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 316.28,
+  "to": 317.02,
+  "sid": 156,
+  "location": 2,
+  "content": "坚持下来",
+  "music": 0.0
+ },
+ {
+  "from": 317.02,
+  "to": 319.18,
+  "sid": 157,
+  "location": 2,
+  "content": "因为我根本就没有在坚持的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 319.18,
+  "to": 321.2,
+  "sid": 158,
+  "location": 2,
+  "content": "我是是怎么意识到这个问题的",
+  "music": 0.0
+ },
+ {
+  "from": 321.2,
+  "to": 323.38,
+  "sid": 159,
+  "location": 2,
+  "content": "就是有一天中午跳完舞回来",
+  "music": 0.0
+ },
+ {
+  "from": 323.38,
+  "to": 325.36,
+  "sid": 160,
+  "location": 2,
+  "content": "然后同事非常惊叹的问我",
+  "music": 0.0
+ },
+ {
+  "from": 325.36,
+  "to": 326.08,
+  "sid": 161,
+  "location": 2,
+  "content": "说天哪",
+  "music": 0.0
+ },
+ {
+  "from": 326.08,
+  "to": 328.12,
+  "sid": 162,
+  "location": 2,
+  "content": "你是怎么坚持去做这件事情的",
+  "music": 0.0
+ },
+ {
+  "from": 328.12,
+  "to": 329.82,
+  "sid": 163,
+  "location": 2,
+  "content": "当时这个问题真的把我问倒了",
+  "music": 0.0
+ },
+ {
+  "from": 329.82,
+  "to": 332.18,
+  "sid": 164,
+  "location": 2,
+  "content": "因为在我心里坚持这两个字",
+  "music": 0.0
+ },
+ {
+  "from": 332.18,
+  "to": 334.94,
+  "sid": 165,
+  "location": 2,
+  "content": "好像从来没有跟跳舞这件事情联系起来",
+  "music": 0.0
+ },
+ {
+  "from": 334.94,
+  "to": 337.04,
+  "sid": 166,
+  "location": 2,
+  "content": "跳舞前我是期待的",
+  "music": 0.0
+ },
+ {
+  "from": 337.04,
+  "to": 338.44,
+  "sid": 167,
+  "location": 2,
+  "content": "舞的时候我是享受的",
+  "music": 0.0
+ },
+ {
+  "from": 338.44,
+  "to": 339.92,
+  "sid": 168,
+  "location": 2,
+  "content": "跳完我是开心的",
+  "music": 0.0
+ },
+ {
+  "from": 339.92,
+  "to": 341.32,
+  "sid": 169,
+  "location": 2,
+  "content": "而且我没有午睡的习惯",
+  "music": 0.0
+ },
+ {
+  "from": 341.32,
+  "to": 342.68,
+  "sid": 170,
+  "location": 2,
+  "content": "所以跳舞这项活动",
+  "music": 0.0
+ },
+ {
+  "from": 342.68,
+  "to": 345.52,
+  "sid": 171,
+  "location": 2,
+  "content": "正正好的填补了我午休时间的空白",
+  "music": 0.0
+ },
+ {
+  "from": 345.52,
+  "to": 347.66,
+  "sid": 172,
+  "location": 2,
+  "content": "所以我觉得是一个非常完美的安排",
+  "music": 0.0
+ },
+ {
+  "from": 347.66,
+  "to": 348.98,
+  "sid": 173,
+  "location": 2,
+  "content": "而对于我的同事来说",
+  "music": 0.0
+ },
+ {
+  "from": 348.98,
+  "to": 351.06,
+  "sid": 174,
+  "location": 2,
+  "content": "一方面他们是需要午睡的",
+  "music": 0.0
+ },
+ {
+  "from": 351.06,
+  "to": 353.04,
+  "sid": 175,
+  "location": 2,
+  "content": "这样下午才更有精力去工作",
+  "music": 0.0
+ },
+ {
+  "from": 353.04,
+  "to": 356.54,
+  "sid": 176,
+  "location": 2,
+  "content": "另外一方面他们也对跳舞这件事情不太感兴趣",
+  "music": 0.0
+ },
+ {
+  "from": 356.54,
+  "to": 357.98,
+  "sid": 177,
+  "location": 2,
+  "content": "而且可能也不太擅长",
+  "music": 0.0
+ },
+ {
+  "from": 357.98,
+  "to": 360.48,
+  "sid": 178,
+  "location": 2,
+  "content": "他们会觉得这是一种额外的消耗",
+  "music": 0.0
+ },
+ {
+  "from": 360.48,
+  "to": 363.14,
+  "sid": 179,
+  "location": 2,
+  "content": "所以当你做完一件事情出现的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 363.14,
+  "to": 364.34,
+  "sid": 180,
+  "location": 2,
+  "content": "是我很努力了",
+  "music": 0.0
+ },
+ {
+  "from": 364.34,
+  "to": 365.66,
+  "sid": 181,
+  "location": 2,
+  "content": "而不是我很开心",
+  "music": 0.0
+ },
+ {
+  "from": 365.66,
+  "to": 366.72,
+  "sid": 182,
+  "location": 2,
+  "content": "我很享受的",
+  "music": 0.0
+ },
+ {
+  "from": 366.72,
+  "to": 369.44,
+  "sid": 183,
+  "location": 2,
+  "content": "说明这件事情就是在消耗你的能量的",
+  "music": 0.0
+ },
+ {
+  "from": 369.44,
+  "to": 370.72,
+  "sid": 184,
+  "location": 2,
+  "content": "它可能不是你喜欢的",
+  "music": 0.0
+ },
+ {
+  "from": 370.72,
+  "to": 372.46,
+  "sid": 185,
+  "location": 2,
+  "content": "或者不符合你的价值观的",
+  "music": 0.0
+ },
+ {
+  "from": 372.46,
+  "to": 374.04,
+  "sid": 186,
+  "location": 2,
+  "content": "但是有个问题就是",
+  "music": 0.0
+ },
+ {
+  "from": 374.04,
+  "to": 377.24,
+  "sid": 187,
+  "location": 2,
+  "content": "生活里不可能所有事情都是我们喜欢的",
+  "music": 0.0
+ },
+ {
+  "from": 377.24,
+  "to": 379.16,
+  "sid": 188,
+  "location": 2,
+  "content": "如果你想要坚持做那件事情",
+  "music": 0.0
+ },
+ {
+  "from": 379.16,
+  "to": 380.52,
+  "sid": 189,
+  "location": 2,
+  "content": "是你不喜欢的",
+  "music": 0.0
+ },
+ {
+  "from": 380.52,
+  "to": 382.6,
+  "sid": 190,
+  "location": 2,
+  "content": "是你有些抵触跟抗拒的",
+  "music": 0.0
+ },
+ {
+  "from": 382.6,
+  "to": 386.04,
+  "sid": 191,
+  "location": 2,
+  "content": "你就更可能会拖延甚至强化这种努力的想法",
+  "music": 0.0
+ },
+ {
+  "from": 386.04,
+  "to": 387.86,
+  "sid": 192,
+  "location": 2,
+  "content": "反过来更难坚持下去",
+  "music": 0.0
+ },
+ {
+  "from": 387.86,
+  "to": 389.14,
+  "sid": 193,
+  "location": 2,
+  "content": "所以针对这种情况呢",
+  "music": 0.0
+ },
+ {
+  "from": 389.14,
+  "to": 390.58,
+  "sid": 194,
+  "location": 2,
+  "content": "我也想分享几个方法",
+  "music": 0.0
+ },
+ {
+  "from": 390.58,
+  "to": 394.11,
+  "sid": 195,
+  "location": 2,
+  "content": "如何去坚持一件自己好像没那么喜欢的事情",
+  "music": 0.0
+ },
+ {
+  "from": 394.11,
+  "to": 396.05,
+  "sid": 196,
+  "location": 2,
+  "content": "第一个方法就是心理暗示",
+  "music": 0.0
+ },
+ {
+  "from": 396.05,
+  "to": 397.51,
+  "sid": 197,
+  "location": 2,
+  "content": "重构事件的意义",
+  "music": 0.0
+ },
+ {
+  "from": 397.51,
+  "to": 398.67,
+  "sid": 198,
+  "location": 2,
+  "content": "首先我要说明",
+  "music": 0.0
+ },
+ {
+  "from": 398.67,
+  "to": 401.92,
+  "sid": 199,
+  "location": 2,
+  "content": "喜欢和讨厌本本身就是一种主观的感受",
+  "music": 0.0
+ },
+ {
+  "from": 401.92,
+  "to": 404.72,
+  "sid": 200,
+  "location": 2,
+  "content": "这个世界本身真是一个客观的存在",
+  "music": 0.0
+ },
+ {
+  "from": 404.72,
+  "to": 406.22,
+  "sid": 201,
+  "location": 2,
+  "content": "而我们喜欢一件事情",
+  "music": 0.0
+ },
+ {
+  "from": 406.22,
+  "to": 407.38,
+  "sid": 202,
+  "location": 2,
+  "content": "讨厌一件事情",
+  "music": 0.0
+ },
+ {
+  "from": 407.38,
+  "to": 408.2,
+  "sid": 203,
+  "location": 2,
+  "content": "很大程度上",
+  "music": 0.0
+ },
+ {
+  "from": 408.2,
+  "to": 410.86,
+  "sid": 204,
+  "location": 2,
+  "content": "是源于我们自己的解读和情绪的映射",
+  "music": 0.0
+ },
+ {
+  "from": 410.86,
+  "to": 413.56,
+  "sid": 205,
+  "location": 2,
+  "content": "你可以把这个世界想象成是一幅黑白画",
+  "music": 0.0
+ },
+ {
+  "from": 413.56,
+  "to": 415.14,
+  "sid": 206,
+  "location": 2,
+  "content": "而我们的情绪",
+  "music": 0.0
+ },
+ {
+  "from": 415.14,
+  "to": 417.76,
+  "sid": 207,
+  "location": 2,
+  "content": "我们的感觉就在给这幅画上色",
+  "music": 0.0
+ },
+ {
+  "from": 417.76,
+  "to": 419.0,
+  "sid": 208,
+  "location": 2,
+  "content": "对于你喜欢的事情",
+  "music": 0.0
+ },
+ {
+  "from": 419.0,
+  "to": 420.74,
+  "sid": 209,
+  "location": 2,
+  "content": "你是用的明亮的颜色",
+  "music": 0.0
+ },
+ {
+  "from": 420.74,
+  "to": 422.44,
+  "sid": 210,
+  "location": 2,
+  "content": "红色黄色橙色",
+  "music": 0.0
+ },
+ {
+  "from": 422.44,
+  "to": 423.76,
+  "sid": 211,
+  "location": 2,
+  "content": "而对于你讨厌的事情",
+  "music": 0.0
+ },
+ {
+  "from": 423.76,
+  "to": 426.6,
+  "sid": 212,
+  "location": 2,
+  "content": "可能更偏向于用一些阴郁的暗色调",
+  "music": 0.0
+ },
+ {
+  "from": 426.6,
+  "to": 428.44,
+  "sid": 213,
+  "location": 2,
+  "content": "灰色黑色等等",
+  "music": 0.0
+ },
+ {
+  "from": 428.44,
+  "to": 431.56,
+  "sid": 214,
+  "location": 2,
+  "content": "但是这个颜色呢并不是这个世界本来的颜色",
+  "music": 0.0
+ },
+ {
+  "from": 431.56,
+  "to": 432.72,
+  "sid": 215,
+  "location": 2,
+  "content": "它是你赋予的",
+  "music": 0.0
+ },
+ {
+  "from": 432.72,
+  "to": 435.16,
+  "sid": 216,
+  "location": 2,
+  "content": "有句话叫做这个世上没有真相",
+  "music": 0.0
+ },
+ {
+  "from": 435.16,
+  "to": 436.02,
+  "sid": 217,
+  "location": 2,
+  "content": "只有看法",
+  "music": 0.0
+ },
+ {
+  "from": 436.02,
+  "to": 436.76,
+  "sid": 218,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 436.76,
+  "to": 439.0,
+  "sid": 219,
+  "location": 2,
+  "content": "记得我小的时候不喜欢吃榴莲",
+  "music": 0.0
+ },
+ {
+  "from": 439.0,
+  "to": 441.9,
+  "sid": 220,
+  "location": 2,
+  "content": "闻到榴莲的味道就觉得非常刺鼻跟难闻",
+  "music": 0.0
+ },
+ {
+  "from": 441.9,
+  "to": 444.26,
+  "sid": 221,
+  "location": 2,
+  "content": "就是我甚至都没有去尝闻到这个味道",
+  "music": 0.0
+ },
+ {
+  "from": 444.26,
+  "to": 447.1,
+  "sid": 222,
+  "location": 2,
+  "content": "心里就产生了一种抵触和厌恶的情绪",
+  "music": 0.0
+ },
+ {
+  "from": 447.1,
+  "to": 447.88,
+  "sid": 223,
+  "location": 2,
+  "content": "后来有一次呢",
+  "music": 0.0
+ },
+ {
+  "from": 447.88,
+  "to": 450.26,
+  "sid": 224,
+  "location": 2,
+  "content": "我妈连哄带骗的让我尝了一块",
+  "music": 0.0
+ },
+ {
+  "from": 450.26,
+  "to": 450.86,
+  "sid": 225,
+  "location": 2,
+  "content": "天哪",
+  "music": 0.0
+ },
+ {
+  "from": 450.86,
+  "to": 453.1,
+  "sid": 226,
+  "location": 2,
+  "content": "简直是打开新世界的大门",
+  "music": 0.0
+ },
+ {
+  "from": 453.1,
+  "to": 454.14,
+  "sid": 227,
+  "location": 2,
+  "content": "太好吃了",
+  "music": 0.0
+ },
+ {
+  "from": 454.14,
+  "to": 456.5,
+  "sid": 228,
+  "location": 2,
+  "content": "我几乎是瞬间就爱上了榴莲",
+  "music": 0.0
+ },
+ {
+  "from": 456.5,
+  "to": 460.06,
+  "sid": 229,
+  "location": 2,
+  "content": "曾经我觉得刺鼻臭难闻的气味",
+  "music": 0.0
+ },
+ {
+  "from": 460.06,
+  "to": 463.54,
+  "sid": 230,
+  "location": 2,
+  "content": "一下子变成了香甜的诱人的香味",
+  "music": 0.0
+ },
+ {
+  "from": 463.54,
+  "to": 465.94,
+  "sid": 231,
+  "location": 2,
+  "content": "所以这个感觉真的很神奇",
+  "music": 0.0
+ },
+ {
+  "from": 465.94,
+  "to": 468.94,
+  "sid": 232,
+  "location": 2,
+  "content": "榴莲的气味自始至终都没有变化过",
+  "music": 0.0
+ },
+ {
+  "from": 468.94,
+  "to": 471.26,
+  "sid": 233,
+  "location": 2,
+  "content": "只不过当我是抵触跟讨厌的时候",
+  "music": 0.0
+ },
+ {
+  "from": 471.26,
+  "to": 474.0,
+  "sid": 234,
+  "location": 2,
+  "content": "我闻到的是令人难以接受的臭味",
+  "music": 0.0
+ },
+ {
+  "from": 474.0,
+  "to": 477.04,
+  "sid": 235,
+  "location": 2,
+  "content": "后面我喜欢上的时候闻到的全是香味",
+  "music": 0.0
+ },
+ {
+  "from": 477.04,
+  "to": 478.52,
+  "sid": 236,
+  "location": 2,
+  "content": "所以从这个例子里面",
+  "music": 0.0
+ },
+ {
+  "from": 478.52,
+  "to": 480.44,
+  "sid": 237,
+  "location": 2,
+  "content": "我们就可以看到人的想法",
+  "music": 0.0
+ },
+ {
+  "from": 480.44,
+  "to": 484.42,
+  "sid": 238,
+  "location": 2,
+  "content": "情绪和感知对于一件客观的事物影响有多大",
+  "music": 0.0
+ },
+ {
+  "from": 484.42,
+  "to": 487.9,
+  "sid": 239,
+  "location": 2,
+  "content": "这就是为什么心理暗示能够起到这么大的作用",
+  "music": 0.0
+ },
+ {
+  "from": 487.9,
+  "to": 489.54,
+  "sid": 240,
+  "location": 2,
+  "content": "因为我们每个人都在内心",
+  "music": 0.0
+ },
+ {
+  "from": 489.54,
+  "to": 491.36,
+  "sid": 241,
+  "location": 2,
+  "content": "构建了一个属于自己的世界",
+  "music": 0.0
+ },
+ {
+  "from": 491.36,
+  "to": 494.06,
+  "sid": 242,
+  "location": 2,
+  "content": "心理暗示不能改变一件事情的本质",
+  "music": 0.0
+ },
+ {
+  "from": 494.06,
+  "to": 497.2,
+  "sid": 243,
+  "location": 2,
+  "content": "但是它能够改变这件事情在我们心里的样子",
+  "music": 0.0
+ },
+ {
+  "from": 497.2,
+  "to": 499.68,
+  "sid": 244,
+  "location": 2,
+  "content": "所以当你觉得你想要坚持做那件事情",
+  "music": 0.0
+ },
+ {
+  "from": 499.68,
+  "to": 501.3,
+  "sid": 245,
+  "location": 2,
+  "content": "让你觉得有些痛苦的时候",
+  "music": 0.0
+ },
+ {
+  "from": 501.3,
+  "to": 503.2,
+  "sid": 246,
+  "location": 2,
+  "content": "你不妨转变一下思维",
+  "music": 0.0
+ },
+ {
+  "from": 503.2,
+  "to": 505.5,
+  "sid": 247,
+  "location": 2,
+  "content": "能不能够让它变得有趣一些",
+  "music": 0.0
+ },
+ {
+  "from": 505.5,
+  "to": 506.9,
+  "sid": 248,
+  "location": 2,
+  "content": "更吸引人一些呢",
+  "music": 0.0
+ },
+ {
+  "from": 506.9,
+  "to": 508.32,
+  "sid": 249,
+  "location": 2,
+  "content": "我举个自己的例子",
+  "music": 0.0
+ },
+ {
+  "from": 508.32,
+  "to": 510.02,
+  "sid": 250,
+  "location": 2,
+  "content": "拿运动这件事情来说",
+  "music": 0.0
+ },
+ {
+  "from": 510.02,
+  "to": 511.58,
+  "sid": 251,
+  "location": 2,
+  "content": "之前我给自己定下了一个目标",
+  "music": 0.0
+ },
+ {
+  "from": 511.58,
+  "to": 513.44,
+  "sid": 252,
+  "location": 2,
+  "content": "就是每周至少要运动三次",
+  "music": 0.0
+ },
+ {
+  "from": 513.44,
+  "to": 515.679,
+  "sid": 253,
+  "location": 2,
+  "content": "但是一开始的时候我很难坚持下来",
+  "music": 0.0
+ },
+ {
+  "from": 515.679,
+  "to": 518.259,
+  "sid": 254,
+  "location": 2,
+  "content": "因为我把运动看作是一个额外的负担",
+  "music": 0.0
+ },
+ {
+  "from": 518.259,
+  "to": 519.759,
+  "sid": 255,
+  "location": 2,
+  "content": "我会在心里想说啊",
+  "music": 0.0
+ },
+ {
+  "from": 519.759,
+  "to": 521.199,
+  "sid": 256,
+  "location": 2,
+  "content": "我已经上了一天班了",
+  "music": 0.0
+ },
+ {
+  "from": 521.199,
+  "to": 522.199,
+  "sid": 257,
+  "location": 2,
+  "content": "这么辛苦了",
+  "music": 0.0
+ },
+ {
+  "from": 522.199,
+  "to": 523.319,
+  "sid": 258,
+  "location": 2,
+  "content": "回家还要运动",
+  "music": 0.0
+ },
+ {
+  "from": 523.319,
+  "to": 525.74,
+  "sid": 259,
+  "location": 2,
+  "content": "为什么就不能躺一躺休息一下呢",
+  "music": 0.0
+ },
+ {
+  "from": 525.74,
+  "to": 527.08,
+  "sid": 260,
+  "location": 2,
+  "content": "在这样的看法里面",
+  "music": 0.0
+ },
+ {
+  "from": 527.08,
+  "to": 529.24,
+  "sid": 261,
+  "location": 2,
+  "content": "我给运动这件事情打上的标签",
+  "music": 0.0
+ },
+ {
+  "from": 529.24,
+  "to": 531.72,
+  "sid": 262,
+  "location": 2,
+  "content": "是耗费精力的额外的负担",
+  "music": 0.0
+ },
+ {
+  "from": 531.72,
+  "to": 534.04,
+  "sid": 263,
+  "location": 2,
+  "content": "后来我就尝试着去转变自己的想法",
+  "music": 0.0
+ },
+ {
+  "from": 534.04,
+  "to": 535.3,
+  "sid": 264,
+  "location": 2,
+  "content": "首先一个很重要的就是",
+  "music": 0.0
+ },
+ {
+  "from": 535.3,
+  "to": 537.72,
+  "sid": 265,
+  "location": 2,
+  "content": "我不再把这件事情看作是一个",
+  "music": 0.0
+ },
+ {
+  "from": 537.72,
+  "to": 539.28,
+  "sid": 266,
+  "location": 2,
+  "content": "我不得不做的事情",
+  "music": 0.0
+ },
+ {
+  "from": 539.28,
+  "to": 541.44,
+  "sid": 267,
+  "location": 2,
+  "content": "而是一个我可以选择做的事情",
+  "music": 0.0
+ },
+ {
+  "from": 541.44,
+  "to": 544.9,
+  "sid": 268,
+  "location": 2,
+  "content": "对应的英文就是from i have to to i get you",
+  "music": 0.0
+ },
+ {
+  "from": 544.9,
+  "to": 547.66,
+  "sid": 269,
+  "location": 2,
+  "content": "你要让自己感觉我是可以有选择的",
+  "music": 0.0
+ },
+ {
+  "from": 547.66,
+  "to": 550.68,
+  "sid": 270,
+  "location": 2,
+  "content": "这种感觉会带给你自主性和掌控感",
+  "music": 0.0
+ },
+ {
+  "from": 550.68,
+  "to": 552.34,
+  "sid": 271,
+  "location": 2,
+  "content": "首先就能很有效的降低",
+  "music": 0.0
+ },
+ {
+  "from": 552.34,
+  "to": 554.3,
+  "sid": 272,
+  "location": 2,
+  "content": "你对于这件事情的抵触情绪",
+  "music": 0.0
+ },
+ {
+  "from": 554.3,
+  "to": 556.24,
+  "sid": 273,
+  "location": 2,
+  "content": "就好像大家为什么不喜欢加班",
+  "music": 0.0
+ },
+ {
+  "from": 556.24,
+  "to": 558.4,
+  "sid": 274,
+  "location": 2,
+  "content": "当你觉得一件事情是你不得不做",
+  "music": 0.0
+ },
+ {
+  "from": 558.4,
+  "to": 559.84,
+  "sid": 275,
+  "location": 2,
+  "content": "你没有选择的时候",
+  "music": 0.0
+ },
+ {
+  "from": 559.84,
+  "to": 562.98,
+  "sid": 276,
+  "location": 2,
+  "content": "自然而然你就很难会喜欢做这件事情啊",
+  "music": 0.0
+ },
+ {
+  "from": 562.98,
+  "to": 563.98,
+  "sid": 277,
+  "location": 2,
+  "content": "除此之外呢",
+  "music": 0.0
+ },
+ {
+  "from": 563.98,
+  "to": 566.62,
+  "sid": 278,
+  "location": 2,
+  "content": "我也开始转变我对于运运动这件事情的看法",
+  "music": 0.0
+ },
+ {
+  "from": 566.62,
+  "to": 569.38,
+  "sid": 279,
+  "location": 2,
+  "content": "我不再把它看作是一个耗费精力的事情",
+  "music": 0.0
+ },
+ {
+  "from": 569.38,
+  "to": 571.9,
+  "sid": 280,
+  "location": 2,
+  "content": "而是把它看作另外一种放松的方式",
+  "music": 0.0
+ },
+ {
+  "from": 571.9,
+  "to": 573.58,
+  "sid": 281,
+  "location": 2,
+  "content": "比如说我去跳燃脂舞啊",
+  "music": 0.0
+ },
+ {
+  "from": 573.58,
+  "to": 575.98,
+  "sid": 282,
+  "location": 2,
+  "content": "跟着那些欢快的音乐反而动起来",
+  "music": 0.0
+ },
+ {
+  "from": 575.98,
+  "to": 577.98,
+  "sid": 283,
+  "location": 2,
+  "content": "能够让我洗去一天的疲惫感",
+  "music": 0.0
+ },
+ {
+  "from": 577.98,
+  "to": 580.48,
+  "sid": 284,
+  "location": 2,
+  "content": "而且挑选运动的过程你不觉得很好玩吗",
+  "music": 0.0
+ },
+ {
+  "from": 580.48,
+  "to": 582.3,
+  "sid": 285,
+  "location": 2,
+  "content": "我之前在网上看到过一个比喻",
+  "music": 0.0
+ },
+ {
+  "from": 582.3,
+  "to": 584.58,
+  "sid": 286,
+  "location": 2,
+  "content": "就是你把自己想成是皇帝",
+  "music": 0.0
+ },
+ {
+  "from": 584.58,
+  "to": 587.4,
+  "sid": 287,
+  "location": 2,
+  "content": "皇帝不是每天晚上要翻哪个妃子的牌子吗",
+  "music": 0.0
+ },
+ {
+  "from": 587.4,
+  "to": 590.16,
+  "sid": 288,
+  "location": 2,
+  "content": "你就把挑选运动的过程想做是嗯",
+  "music": 0.0
+ },
+ {
+  "from": 590.16,
+  "to": 592.02,
+  "sid": 289,
+  "location": 2,
+  "content": "今天我该翻哪个牌子呢",
+  "music": 0.0
+ },
+ {
+  "from": 592.02,
+  "to": 594.44,
+  "sid": 290,
+  "location": 2,
+  "content": "我是应该跳帕梅拉还是小马哥",
+  "music": 0.0
+ },
+ {
+  "from": 594.44,
+  "to": 596.92,
+  "sid": 291,
+  "location": 2,
+  "content": "还是跳绳等等这样的运动呢",
+  "music": 0.0
+ },
+ {
+  "from": 596.92,
+  "to": 599.84,
+  "sid": 292,
+  "location": 2,
+  "content": "所以在这样整个转变我对于运动的看法之后",
+  "music": 0.0
+ },
+ {
+  "from": 599.84,
+  "to": 601.36,
+  "sid": 293,
+  "location": 2,
+  "content": "我就打开了新世界",
+  "music": 0.0
+ },
+ {
+  "from": 601.36,
+  "to": 603.48,
+  "sid": 294,
+  "location": 2,
+  "content": "就自那以后我就爱上了运动",
+  "music": 0.0
+ },
+ {
+  "from": 603.48,
+  "to": 606.62,
+  "sid": 295,
+  "location": 2,
+  "content": "我甚至在还没下班的时候就开始期待嗯",
+  "music": 0.0
+ },
+ {
+  "from": 606.62,
+  "to": 609.32,
+  "sid": 296,
+  "location": 2,
+  "content": "待会晚上我要做个什么运动好呢",
+  "music": 0.0
+ },
+ {
+  "from": 609.32,
+  "to": 610.32,
+  "sid": 297,
+  "location": 2,
+  "content": "转变观念之后",
+  "music": 0.0
+ },
+ {
+  "from": 610.32,
+  "to": 612.8,
+  "sid": 298,
+  "location": 2,
+  "content": "我对于运动打上的标签就是好玩的",
+  "music": 0.0
+ },
+ {
+  "from": 612.8,
+  "to": 613.4,
+  "sid": 299,
+  "location": 2,
+  "content": "有趣的",
+  "music": 0.0
+ },
+ {
+  "from": 613.4,
+  "to": 614.1,
+  "sid": 300,
+  "location": 2,
+  "content": "放松的",
+  "music": 0.0
+ },
+ {
+  "from": 614.1,
+  "to": 617.16,
+  "sid": 301,
+  "location": 2,
+  "content": "所以当我们无法改变一件客观的事情的时候",
+  "music": 0.0
+ },
+ {
+  "from": 617.16,
+  "to": 619.22,
+  "sid": 302,
+  "location": 2,
+  "content": "我们不妨尝试着改变自己",
+  "music": 0.0
+ },
+ {
+  "from": 619.22,
+  "to": 622.1,
+  "sid": 303,
+  "location": 2,
+  "content": "对于这件事情的感受也许会容易得多",
+  "music": 0.0
+ },
+ {
+  "from": 622.1,
+  "to": 623.98,
+  "sid": 304,
+  "location": 2,
+  "content": "学会去发掘一些乐趣",
+  "music": 0.0
+ },
+ {
+  "from": 623.98,
+  "to": 625.86,
+  "sid": 305,
+  "location": 2,
+  "content": "有句话不是叫做强者",
+  "music": 0.0
+ },
+ {
+  "from": 625.86,
+  "to": 627.02,
+  "sid": 306,
+  "location": 2,
+  "content": "从不抱怨环境吗",
+  "music": 0.0
+ },
+ {
+  "from": 627.02,
+  "to": 628.9,
+  "sid": 307,
+  "location": 2,
+  "content": "因为我是一个强大的人",
+  "music": 0.0
+ },
+ {
+  "from": 628.9,
+  "to": 631.14,
+  "sid": 308,
+  "location": 2,
+  "content": "所以这件事情虽然我不喜欢",
+  "music": 0.0
+ },
+ {
+  "from": 631.14,
+  "to": 633.38,
+  "sid": 309,
+  "location": 2,
+  "content": "但是我强大到能够把它做完",
+  "music": 0.0
+ },
+ {
+  "from": 633.38,
+  "to": 635.82,
+  "sid": 310,
+  "location": 2,
+  "content": "不要让内心觉得自己是被迫做事",
+  "music": 0.0
+ },
+ {
+  "from": 635.82,
+  "to": 637.68,
+  "sid": 311,
+  "location": 2,
+  "content": "而是有主体性的去做事",
+  "music": 0.0
+ },
+ {
+  "from": 637.68,
+  "to": 639.28,
+  "sid": 312,
+  "location": 2,
+  "content": "这样完成一件事情之后",
+  "music": 0.0
+ },
+ {
+  "from": 639.28,
+  "to": 641.4,
+  "sid": 313,
+  "location": 2,
+  "content": "你获得的感受就是我真厉害",
+  "music": 0.0
+ },
+ {
+  "from": 641.4,
+  "to": 643.0,
+  "sid": 314,
+  "location": 2,
+  "content": "我果然是一个强大的人",
+  "music": 0.0
+ },
+ {
+  "from": 643.0,
+  "to": 645.64,
+  "sid": 315,
+  "location": 2,
+  "content": "这种正反馈也会形成一个正向循环",
+  "music": 0.0
+ },
+ {
+  "from": 645.64,
+  "to": 647.2,
+  "sid": 316,
+  "location": 2,
+  "content": "就好比在工作当中",
+  "music": 0.0
+ },
+ {
+  "from": 647.2,
+  "to": 648.98,
+  "sid": 317,
+  "location": 2,
+  "content": "有时候我也会被分配到一些",
+  "music": 0.0
+ },
+ {
+  "from": 648.98,
+  "to": 650.84,
+  "sid": 318,
+  "location": 2,
+  "content": "我不太喜欢做的任务",
+  "music": 0.0
+ },
+ {
+  "from": 650.84,
+  "to": 653.1,
+  "sid": 319,
+  "location": 2,
+  "content": "我又实在没有办法让自己喜欢上它",
+  "music": 0.0
+ },
+ {
+  "from": 653.1,
+  "to": 655.0,
+  "sid": 320,
+  "location": 2,
+  "content": "嗯我不喜欢做这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 655.0,
+  "to": 656.22,
+  "sid": 321,
+  "location": 2,
+  "content": "我都还把它给做完了",
+  "music": 0.0
+ },
+ {
+  "from": 656.22,
+  "to": 658.36,
+  "sid": 322,
+  "location": 2,
+  "content": "这种想法也会让我感觉特别良好",
+  "music": 0.0
+ },
+ {
+  "from": 658.36,
+  "to": 661.72,
+  "sid": 323,
+  "location": 2,
+  "content": "那要分享的第二个方法就是不要过度专注目标",
+  "music": 0.0
+ },
+ {
+  "from": 661.72,
+  "to": 662.68,
+  "sid": 324,
+  "location": 2,
+  "content": "注重体系",
+  "music": 0.0
+ },
+ {
+  "from": 662.68,
+  "to": 664.16,
+  "sid": 325,
+  "location": 2,
+  "content": "大家都喜欢定目标嘛",
+  "music": 0.0
+ },
+ {
+  "from": 664.16,
+  "to": 666.9,
+  "sid": 326,
+  "location": 2,
+  "content": "因为定目标是一件最快速的",
+  "music": 0.0
+ },
+ {
+  "from": 666.9,
+  "to": 669.02,
+  "sid": 327,
+  "location": 2,
+  "content": "能够让我们获得满足感的一件事情",
+  "music": 0.0
+ },
+ {
+  "from": 669.02,
+  "to": 670.38,
+  "sid": 328,
+  "location": 2,
+  "content": "当你写下目标之后",
+  "music": 0.0
+ },
+ {
+  "from": 670.38,
+  "to": 673.94,
+  "sid": 329,
+  "location": 2,
+  "content": "哪怕此时你其实并没有付出任何实质上的行动",
+  "music": 0.0
+ },
+ {
+  "from": 673.94,
+  "to": 675.58,
+  "sid": 330,
+  "location": 2,
+  "content": "但你就已经觉得自己在努力了",
+  "music": 0.0
+ },
+ {
+  "from": 675.58,
+  "to": 677.22,
+  "sid": 331,
+  "location": 2,
+  "content": "已经在朝着这个目标前进了",
+  "music": 0.0
+ },
+ {
+  "from": 677.22,
+  "to": 678.22,
+  "sid": 332,
+  "location": 2,
+  "content": "你就会对啊",
+  "music": 0.0
+ },
+ {
+  "from": 678.22,
+  "to": 679.06,
+  "sid": 333,
+  "location": 2,
+  "content": "我好有规划",
+  "music": 0.0
+ },
+ {
+  "from": 679.06,
+  "to": 679.9,
+  "sid": 334,
+  "location": 2,
+  "content": "我好有计划",
+  "music": 0.0
+ },
+ {
+  "from": 679.9,
+  "to": 680.7,
+  "sid": 335,
+  "location": 2,
+  "content": "我好自律",
+  "music": 0.0
+ },
+ {
+  "from": 680.7,
+  "to": 681.54,
+  "sid": 336,
+  "location": 2,
+  "content": "我好上进",
+  "music": 0.0
+ },
+ {
+  "from": 681.54,
+  "to": 682.96,
+  "sid": 337,
+  "location": 2,
+  "content": "而生出一种满足感",
+  "music": 0.0
+ },
+ {
+  "from": 682.96,
+  "to": 684.2,
+  "sid": 338,
+  "location": 2,
+  "content": "有目标是件好事",
+  "music": 0.0
+ },
+ {
+  "from": 684.2,
+  "to": 686.16,
+  "sid": 339,
+  "location": 2,
+  "content": "因为至少你知道方向在哪",
+  "music": 0.0
+ },
+ {
+  "from": 686.16,
+  "to": 687.82,
+  "sid": 340,
+  "location": 2,
+  "content": "但是如果过度专注目标",
+  "music": 0.0
+ },
+ {
+  "from": 687.82,
+  "to": 689.38,
+  "sid": 341,
+  "location": 2,
+  "content": "不见得是件好事了",
+  "music": 0.0
+ },
+ {
+  "from": 689.38,
+  "to": 691.26,
+  "sid": 342,
+  "location": 2,
+  "content": "因为当你过分专注目标的时候",
+  "music": 0.0
+ },
+ {
+  "from": 691.26,
+  "to": 692.46,
+  "sid": 343,
+  "location": 2,
+  "content": "你几乎总是在想",
+  "music": 0.0
+ },
+ {
+  "from": 692.46,
+  "to": 693.7,
+  "sid": 344,
+  "location": 2,
+  "content": "我离目标还有多远",
+  "music": 0.0
+ },
+ {
+  "from": 693.7,
+  "to": 694.98,
+  "sid": 345,
+  "location": 2,
+  "content": "我已经走了多远",
+  "music": 0.0
+ },
+ {
+  "from": 694.98,
+  "to": 697.04,
+  "sid": 346,
+  "location": 2,
+  "content": "一旦这个感知出你的期望",
+  "music": 0.0
+ },
+ {
+  "from": 697.04,
+  "to": 699.0,
+  "sid": 347,
+  "location": 2,
+  "content": "或者达到大脑所认为的极限",
+  "music": 0.0
+ },
+ {
+  "from": 699.0,
+  "to": 702.8,
+  "sid": 348,
+  "location": 2,
+  "content": "这件事情就很有可能中途放弃或者整个崩塌了",
+  "music": 0.0
+ },
+ {
+  "from": 702.8,
+  "to": 706.3,
+  "sid": 349,
+  "location": 2,
+  "content": "而且过度专注目标和长期主义是相悖的",
+  "music": 0.0
+ },
+ {
+  "from": 706.3,
+  "to": 709.9,
+  "sid": 350,
+  "location": 2,
+  "content": "几乎必然的导致你无法长久的坚持做这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 709.9,
+  "to": 713.48,
+  "sid": 351,
+  "location": 2,
+  "content": "因为你只是把完成目标前的行为跟状态",
+  "music": 0.0
+ },
+ {
+  "from": 713.48,
+  "to": 715.06,
+  "sid": 352,
+  "location": 2,
+  "content": "看作是暂时性的",
+  "music": 0.0
+ },
+ {
+  "from": 715.06,
+  "to": 716.14,
+  "sid": 353,
+  "location": 2,
+  "content": "举个很简单的例子",
+  "music": 0.0
+ },
+ {
+  "from": 716.14,
+  "to": 717.1,
+  "sid": 354,
+  "location": 2,
+  "content": "就是减肥",
+  "music": 0.0
+ },
+ {
+  "from": 717.1,
+  "to": 717.78,
+  "sid": 355,
+  "location": 2,
+  "content": "你有没有发现",
+  "music": 0.0
+ },
+ {
+  "from": 717.78,
+  "to": 718.64,
+  "sid": 356,
+  "location": 2,
+  "content": "如果有嗯",
+  "music": 0.0
+ },
+ {
+  "from": 718.64,
+  "to": 720.1,
+  "sid": 357,
+  "location": 2,
+  "content": "等我减肥成功之后",
+  "music": 0.0
+ },
+ {
+  "from": 720.1,
+  "to": 722.62,
+  "sid": 358,
+  "location": 2,
+  "content": "我就不用再这么辛苦的控制饮食",
+  "music": 0.0
+ },
+ {
+  "from": 722.62,
+  "to": 723.54,
+  "sid": 359,
+  "location": 2,
+  "content": "维持运动了",
+  "music": 0.0
+ },
+ {
+  "from": 723.54,
+  "to": 724.86,
+  "sid": 360,
+  "location": 2,
+  "content": "我就可以放纵了",
+  "music": 0.0
+ },
+ {
+  "from": 724.86,
+  "to": 725.86,
+  "sid": 361,
+  "location": 2,
+  "content": "如果有这种想法",
+  "music": 0.0
+ },
+ {
+  "from": 725.86,
+  "to": 728.73,
+  "sid": 362,
+  "location": 2,
+  "content": "几乎必然的会导致反弹复胖",
+  "music": 0.0
+ },
+ {
+  "from": 728.73,
+  "to": 731.35,
+  "sid": 363,
+  "location": 2,
+  "content": "因为你只是把减肥前的生活状态",
+  "music": 0.0
+ },
+ {
+  "from": 731.35,
+  "to": 732.57,
+  "sid": 364,
+  "location": 2,
+  "content": "习惯和模式",
+  "music": 0.0
+ },
+ {
+  "from": 732.57,
+  "to": 736.19,
+  "sid": 365,
+  "location": 2,
+  "content": "看作是你达到目标体重这个目标的一个手段",
+  "music": 0.0
+ },
+ {
+  "from": 736.19,
+  "to": 738.78,
+  "sid": 366,
+  "location": 2,
+  "content": "所以那些减肥成工之后还能维持的人",
+  "music": 0.0
+ },
+ {
+  "from": 738.78,
+  "to": 741.88,
+  "sid": 367,
+  "location": 2,
+  "content": "他们几乎是已经完全改变了行为模式",
+  "music": 0.0
+ },
+ {
+  "from": 741.88,
+  "to": 743.16,
+  "sid": 368,
+  "location": 2,
+  "content": "就是在运动啊",
+  "music": 0.0
+ },
+ {
+  "from": 743.16,
+  "to": 744.08,
+  "sid": 369,
+  "location": 2,
+  "content": "饮食这一块",
+  "music": 0.0
+ },
+ {
+  "from": 744.08,
+  "to": 747.04,
+  "sid": 370,
+  "location": 2,
+  "content": "而瘦的人就应该有符合这个身份的行为",
+  "music": 0.0
+ },
+ {
+  "from": 747.04,
+  "to": 748.24,
+  "sid": 371,
+  "location": 2,
+  "content": "所以减肥成功之后",
+  "music": 0.0
+ },
+ {
+  "from": 748.24,
+  "to": 750.46,
+  "sid": 372,
+  "location": 2,
+  "content": "他们也不太会再去放纵自己了",
+  "music": 0.0
+ },
+ {
+  "from": 750.46,
+  "to": 753.34,
+  "sid": 373,
+  "location": 2,
+  "content": "因为这对他们来说已经是生活的常态了",
+  "music": 0.0
+ },
+ {
+  "from": 753.34,
+  "to": 755.5,
+  "sid": 374,
+  "location": 2,
+  "content": "所以在原子习惯这本书里面提到",
+  "music": 0.0
+ },
+ {
+  "from": 755.5,
+  "to": 757.3,
+  "sid": 375,
+  "location": 2,
+  "content": "行为的改变有三个层次",
+  "music": 0.0
+ },
+ {
+  "from": 757.3,
+  "to": 758.78,
+  "sid": 376,
+  "location": 2,
+  "content": "第一层是改变结果",
+  "music": 0.0
+ },
+ {
+  "from": 758.78,
+  "to": 761.06,
+  "sid": 377,
+  "location": 2,
+  "content": "比如达到目标体重赢得冠军",
+  "music": 0.0
+ },
+ {
+  "from": 761.06,
+  "to": 762.7,
+  "sid": 378,
+  "location": 2,
+  "content": "第二层是改变过程",
+  "music": 0.0
+ },
+ {
+  "from": 762.7,
+  "to": 765.2,
+  "sid": 379,
+  "location": 2,
+  "content": "涉及到改变我们的习惯和体系",
+  "music": 0.0
+ },
+ {
+  "from": 765.2,
+  "to": 766.94,
+  "sid": 380,
+  "location": 2,
+  "content": "比如说定期去健身房",
+  "music": 0.0
+ },
+ {
+  "from": 766.94,
+  "to": 768.22,
+  "sid": 381,
+  "location": 2,
+  "content": "每天练口语",
+  "music": 0.0
+ },
+ {
+  "from": 768.22,
+  "to": 769.94,
+  "sid": 382,
+  "location": 2,
+  "content": "第三层则是改变身份",
+  "music": 0.0
+ },
+ {
+  "from": 769.94,
+  "to": 772.52,
+  "sid": 383,
+  "location": 2,
+  "content": "这一层次的改变涉及到我们的信念",
+  "music": 0.0
+ },
+ {
+  "from": 772.52,
+  "to": 773.26,
+  "sid": 384,
+  "location": 2,
+  "content": "价值观",
+  "music": 0.0
+ },
+ {
+  "from": 773.26,
+  "to": 774.4,
+  "sid": 385,
+  "location": 2,
+  "content": "对自我的认知",
+  "music": 0.0
+ },
+ {
+  "from": 774.4,
+  "to": 775.9,
+  "sid": 386,
+  "location": 2,
+  "content": "对他人的判断等等",
+  "music": 0.0
+ },
+ {
+  "from": 775.9,
+  "to": 777.42,
+  "sid": 387,
+  "location": 2,
+  "content": "所以如果想要坚持",
+  "music": 0.0
+ },
+ {
+  "from": 777.42,
+  "to": 780.68,
+  "sid": 388,
+  "location": 2,
+  "content": "你就要努力去达到这个行为改变的第三个层次",
+  "music": 0.0
+ },
+ {
+  "from": 780.68,
+  "to": 782.04,
+  "sid": 389,
+  "location": 2,
+  "content": "也就是改变你的身份",
+  "music": 0.0
+ },
+ {
+  "from": 782.04,
+  "to": 784.76,
+  "sid": 390,
+  "location": 2,
+  "content": "比如说你想长久的坚持阅读这个习惯",
+  "music": 0.0
+ },
+ {
+  "from": 784.76,
+  "to": 786.34,
+  "sid": 391,
+  "location": 2,
+  "content": "如果是一层改变结果",
+  "music": 0.0
+ },
+ {
+  "from": 786.34,
+  "to": 788.14,
+  "sid": 392,
+  "location": 2,
+  "content": "你可能会定下一个目标哦",
+  "music": 0.0
+ },
+ {
+  "from": 788.14,
+  "to": 789.5,
+  "sid": 393,
+  "location": 2,
+  "content": "我一年要看多少本书",
+  "music": 0.0
+ },
+ {
+  "from": 789.5,
+  "to": 790.78,
+  "sid": 394,
+  "location": 2,
+  "content": "第二层改变过程",
+  "music": 0.0
+ },
+ {
+  "from": 790.78,
+  "to": 792.48,
+  "sid": 395,
+  "location": 2,
+  "content": "比如说每天看30分钟",
+  "music": 0.0
+ },
+ {
+  "from": 792.48,
+  "to": 794.2,
+  "sid": 396,
+  "location": 2,
+  "content": "第三层改变身份",
+  "music": 0.0
+ },
+ {
+  "from": 794.2,
+  "to": 795.62,
+  "sid": 397,
+  "location": 2,
+  "content": "就是由内而外的",
+  "music": 0.0
+ },
+ {
+  "from": 795.62,
+  "to": 797.52,
+  "sid": 398,
+  "location": 2,
+  "content": "相信我是一个喜欢看书的人",
+  "music": 0.0
+ },
+ {
+  "from": 797.52,
+  "to": 799.0,
+  "sid": 399,
+  "location": 2,
+  "content": "而喜欢看书的人会怎么样呢",
+  "music": 0.0
+ },
+ {
+  "from": 799.0,
+  "to": 800.72,
+  "sid": 400,
+  "location": 2,
+  "content": "当然是一有时间就看书了呀",
+  "music": 0.0
+ },
+ {
+  "from": 800.72,
+  "to": 803.9,
+  "sid": 401,
+  "location": 2,
+  "content": "那要分享的第三个方法就是养成习惯",
+  "music": 0.0
+ },
+ {
+  "from": 803.9,
+  "to": 806.68,
+  "sid": 402,
+  "location": 2,
+  "content": "将你想要坚持做那件事情变成一个习惯",
+  "music": 0.0
+ },
+ {
+  "from": 806.68,
+  "to": 808.78,
+  "sid": 403,
+  "location": 2,
+  "content": "是一个非常行之有效的方法",
+  "music": 0.0
+ },
+ {
+  "from": 808.78,
+  "to": 811.54,
+  "sid": 404,
+  "location": 2,
+  "content": "因为习惯意味着不需要过度的思考",
+  "music": 0.0
+ },
+ {
+  "from": 811.54,
+  "to": 813.54,
+  "sid": 405,
+  "location": 2,
+  "content": "它是一个非常自动化的过程",
+  "music": 0.0
+ },
+ {
+  "from": 813.54,
+  "to": 814.86,
+  "sid": 406,
+  "location": 2,
+  "content": "一旦养成了习惯",
+  "music": 0.0
+ },
+ {
+  "from": 814.86,
+  "to": 817.74,
+  "sid": 407,
+  "location": 2,
+  "content": "你就不会在心里的那个小本本里记下嗯",
+  "music": 0.0
+ },
+ {
+  "from": 817.74,
+  "to": 818.8,
+  "sid": 408,
+  "location": 2,
+  "content": "我今天干了什么事",
+  "music": 0.0
+ },
+ {
+  "from": 818.8,
+  "to": 819.7,
+  "sid": 409,
+  "location": 2,
+  "content": "我有多么努力",
+  "music": 0.0
+ },
+ {
+  "from": 819.7,
+  "to": 821.86,
+  "sid": 410,
+  "location": 2,
+  "content": "也就不容易产生享乐补偿心理",
+  "music": 0.0
+ },
+ {
+  "from": 821.86,
+  "to": 823.98,
+  "sid": 411,
+  "location": 2,
+  "content": "同样呢借用原子习惯这本书",
+  "music": 0.0
+ },
+ {
+  "from": 823.98,
+  "to": 826.56,
+  "sid": 412,
+  "location": 2,
+  "content": "给大家分享几个养成习惯的方法",
+  "music": 0.0
+ },
+ {
+  "from": 826.56,
+  "to": 829.7,
+  "sid": 413,
+  "location": 2,
+  "content": "这本书里面把习惯的养成分成了四个部分",
+  "music": 0.0
+ },
+ {
+  "from": 829.7,
+  "to": 832.38,
+  "sid": 414,
+  "location": 2,
+  "content": "提示渴求反应和奖励",
+  "music": 0.0
+ },
+ {
+  "from": 832.38,
+  "to": 833.9,
+  "sid": 415,
+  "location": 2,
+  "content": "提示就是一个trigger",
+  "music": 0.0
+ },
+ {
+  "from": 833.9,
+  "to": 835.74,
+  "sid": 416,
+  "location": 2,
+  "content": "可能你看到一个东西就想起哦",
+  "music": 0.0
+ },
+ {
+  "from": 835.74,
+  "to": 837.1,
+  "sid": 417,
+  "location": 2,
+  "content": "我应该要做什么事情",
+  "music": 0.0
+ },
+ {
+  "from": 837.1,
+  "to": 839.06,
+  "sid": 418,
+  "location": 2,
+  "content": "渴求就是会让你渴望做这个行为",
+  "music": 0.0
+ },
+ {
+  "from": 839.06,
+  "to": 840.02,
+  "sid": 419,
+  "location": 2,
+  "content": "带来的一些结果",
+  "music": 0.0
+ },
+ {
+  "from": 840.02,
+  "to": 842.34,
+  "sid": 420,
+  "location": 2,
+  "content": "反应就是实实在在的去做这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 842.34,
+  "to": 843.76,
+  "sid": 421,
+  "location": 2,
+  "content": "而奖励就更不用说了",
+  "music": 0.0
+ },
+ {
+  "from": 843.76,
+  "to": 846.0,
+  "sid": 422,
+  "location": 2,
+  "content": "那首先对于第一个部分提示",
+  "music": 0.0
+ },
+ {
+  "from": 846.0,
+  "to": 847.92,
+  "sid": 423,
+  "location": 2,
+  "content": "就是你要给自己留一些线索",
+  "music": 0.0
+ },
+ {
+  "from": 847.92,
+  "to": 850.6,
+  "sid": 424,
+  "location": 2,
+  "content": "看到这个线索就会让你想起要做某个行为",
+  "music": 0.0
+ },
+ {
+  "from": 850.6,
+  "to": 852.9,
+  "sid": 425,
+  "location": 2,
+  "content": "比如说你想要养成睡前阅读的习惯",
+  "music": 0.0
+ },
+ {
+  "from": 852.9,
+  "to": 855.88,
+  "sid": 426,
+  "location": 2,
+  "content": "而你早上固定的行为模式是起来叠被子",
+  "music": 0.0
+ },
+ {
+  "from": 855.88,
+  "to": 856.76,
+  "sid": 427,
+  "location": 2,
+  "content": "然后去刷牙",
+  "music": 0.0
+ },
+ {
+  "from": 856.76,
+  "to": 858.92,
+  "sid": 428,
+  "location": 2,
+  "content": "那你就可以尝试着在叠完被子之后",
+  "music": 0.0
+ },
+ {
+  "from": 858.92,
+  "to": 861.1,
+  "sid": 429,
+  "location": 2,
+  "content": "随手拿一本书放在枕头旁边",
+  "music": 0.0
+ },
+ {
+  "from": 861.1,
+  "to": 862.3,
+  "sid": 430,
+  "location": 2,
+  "content": "这样在你晚上睡觉之前",
+  "music": 0.0
+ },
+ {
+  "from": 862.3,
+  "to": 864.38,
+  "sid": 431,
+  "location": 2,
+  "content": "你看到枕头旁边有本书就想起哦",
+  "music": 0.0
+ },
+ {
+  "from": 864.38,
+  "to": 866.26,
+  "sid": 432,
+  "location": 2,
+  "content": "我是想要养成阅读的习惯来着",
+  "music": 0.0
+ },
+ {
+  "from": 866.26,
+  "to": 867.72,
+  "sid": 433,
+  "location": 2,
+  "content": "那我要不就看几页吧",
+  "music": 0.0
+ },
+ {
+  "from": 867.72,
+  "to": 869.1,
+  "sid": 434,
+  "location": 2,
+  "content": "所以有时候不是你不想",
+  "music": 0.0
+ },
+ {
+  "from": 869.1,
+  "to": 871.32,
+  "sid": 435,
+  "location": 2,
+  "content": "而是在开始建立习惯的初期",
+  "music": 0.0
+ },
+ {
+  "from": 871.32,
+  "to": 873.54,
+  "sid": 436,
+  "location": 2,
+  "content": "你可能会忘记要去做这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 873.54,
+  "to": 876.38,
+  "sid": 437,
+  "location": 2,
+  "content": "所以你要尽可能的给自己留更多的线索",
+  "music": 0.0
+ },
+ {
+  "from": 876.38,
+  "to": 877.44,
+  "sid": 438,
+  "location": 2,
+  "content": "对应第二个部分",
+  "music": 0.0
+ },
+ {
+  "from": 877.44,
+  "to": 880.54,
+  "sid": 439,
+  "location": 2,
+  "content": "渴求我们就要让一件事情变得更加有吸引力",
+  "music": 0.0
+ },
+ {
+  "from": 880.54,
+  "to": 882.5,
+  "sid": 440,
+  "location": 2,
+  "content": "里面我们提到的叠被子",
+  "music": 0.0
+ },
+ {
+  "from": 882.5,
+  "to": 884.16,
+  "sid": 441,
+  "location": 2,
+  "content": "然后放一本书在旁边",
+  "music": 0.0
+ },
+ {
+  "from": 884.16,
+  "to": 886.1,
+  "sid": 442,
+  "location": 2,
+  "content": "是一个习惯叠加的方法",
+  "music": 0.0
+ },
+ {
+  "from": 886.1,
+  "to": 889.1,
+  "sid": 443,
+  "location": 2,
+  "content": "我们可以尝试着把它跟诱惑绑定在一起",
+  "music": 0.0
+ },
+ {
+  "from": 889.1,
+  "to": 889.78,
+  "sid": 444,
+  "location": 2,
+  "content": "什么意思呢",
+  "music": 0.0
+ },
+ {
+  "from": 889.78,
+  "to": 891.74,
+  "sid": 445,
+  "location": 2,
+  "content": "就是在你想要养成的新习惯",
+  "music": 0.0
+ },
+ {
+  "from": 891.74,
+  "to": 894.6,
+  "sid": 446,
+  "location": 2,
+  "content": "中间加一个对你来说有诱惑的东西",
+  "music": 0.0
+ },
+ {
+  "from": 894.6,
+  "to": 896.3,
+  "sid": 447,
+  "location": 2,
+  "content": "我之前听到一个博主分享",
+  "music": 0.0
+ },
+ {
+  "from": 896.3,
+  "to": 899.54,
+  "sid": 448,
+  "location": 2,
+  "content": "好像是说她想要养成在跑步机上跑步的习惯",
+  "music": 0.0
+ },
+ {
+  "from": 899.54,
+  "to": 901.24,
+  "sid": 449,
+  "location": 2,
+  "content": "一开始她怎么都坚持不下来",
+  "music": 0.0
+ },
+ {
+  "from": 901.24,
+  "to": 901.96,
+  "sid": 450,
+  "location": 2,
+  "content": "后来呢",
+  "music": 0.0
+ },
+ {
+  "from": 901.96,
+  "to": 905.12,
+  "sid": 451,
+  "location": 2,
+  "content": "他就规定自己只能在跑步机上跑步的时候",
+  "music": 0.0
+ },
+ {
+  "from": 905.12,
+  "to": 908.46,
+  "sid": 452,
+  "location": 2,
+  "content": "才能看自己最近在追的一部特别好看的剧",
+  "music": 0.0
+ },
+ {
+  "from": 908.46,
+  "to": 910.14,
+  "sid": 453,
+  "location": 2,
+  "content": "他就是把跑不这个习惯",
+  "music": 0.0
+ },
+ {
+  "from": 910.14,
+  "to": 912.62,
+  "sid": 454,
+  "location": 2,
+  "content": "跟看剧这个诱惑绑定在一起了",
+  "music": 0.0
+ },
+ {
+  "from": 912.62,
+  "to": 914.08,
+  "sid": 455,
+  "location": 2,
+  "content": "第三个部分就是反应",
+  "music": 0.0
+ },
+ {
+  "from": 914.08,
+  "to": 915.78,
+  "sid": 456,
+  "location": 2,
+  "content": "在这里想要跟大家分享一个观点",
+  "music": 0.0
+ },
+ {
+  "from": 915.78,
+  "to": 917.44,
+  "sid": 457,
+  "location": 2,
+  "content": "就是我们可能经常会问说",
+  "music": 0.0
+ },
+ {
+  "from": 917.44,
+  "to": 919.46,
+  "sid": 458,
+  "location": 2,
+  "content": "养成一个习惯需要多长的时间",
+  "music": 0.0
+ },
+ {
+  "from": 919.46,
+  "to": 923.12,
+  "sid": 459,
+  "location": 2,
+  "content": "但其实习惯的养成不在于时间的长短",
+  "music": 0.0
+ },
+ {
+  "from": 923.12,
+  "to": 924.78,
+  "sid": 460,
+  "location": 2,
+  "content": "而在于重复的次数",
+  "music": 0.0
+ },
+ {
+  "from": 924.78,
+  "to": 926.28,
+  "sid": 461,
+  "location": 2,
+  "content": "你做的次数越多",
+  "music": 0.0
+ },
+ {
+  "from": 926.28,
+  "to": 927.16,
+  "sid": 462,
+  "location": 2,
+  "content": "频率越高",
+  "music": 0.0
+ },
+ {
+  "from": 927.16,
+  "to": 929.2,
+  "sid": 463,
+  "location": 2,
+  "content": "就越为你这个行为投上一票",
+  "music": 0.0
+ },
+ {
+  "from": 929.2,
+  "to": 929.96,
+  "sid": 464,
+  "location": 2,
+  "content": "票数越多",
+  "music": 0.0
+ },
+ {
+  "from": 929.96,
+  "to": 932.02,
+  "sid": 465,
+  "location": 2,
+  "content": "你养成习惯的可能性就越大",
+  "music": 0.0
+ },
+ {
+  "from": 932.02,
+  "to": 932.86,
+  "sid": 466,
+  "location": 2,
+  "content": "针对这一点",
+  "music": 0.0
+ },
+ {
+  "from": 932.86,
+  "to": 934.42,
+  "sid": 467,
+  "location": 2,
+  "content": "建议大家都可以去尝试一下",
+  "music": 0.0
+ },
+ {
+  "from": 934.42,
+  "to": 935.88,
+  "sid": 468,
+  "location": 2,
+  "content": "那个2分钟启动法则",
+  "music": 0.0
+ },
+ {
+  "from": 935.88,
+  "to": 939.3,
+  "sid": 469,
+  "location": 2,
+  "content": "就是你不要把一件事情想得过于复杂跟庞大",
+  "music": 0.0
+ },
+ {
+  "from": 939.3,
+  "to": 940.4,
+  "sid": 470,
+  "location": 2,
+  "content": "你就告诉自己",
+  "music": 0.0
+ },
+ {
+  "from": 940.4,
+  "to": 941.9,
+  "sid": 471,
+  "location": 2,
+  "content": "我只要稍微启动一下",
+  "music": 0.0
+ },
+ {
+  "from": 941.9,
+  "to": 942.88,
+  "sid": 472,
+  "location": 2,
+  "content": "我做个2分钟",
+  "music": 0.0
+ },
+ {
+  "from": 942.88,
+  "to": 943.48,
+  "sid": 473,
+  "location": 2,
+  "content": "5分钟",
+  "music": 0.0
+ },
+ {
+  "from": 943.48,
+  "to": 944.78,
+  "sid": 474,
+  "location": 2,
+  "content": "10分钟就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 944.78,
+  "to": 946.74,
+  "sid": 475,
+  "location": 2,
+  "content": "而支持这种毫无负担的想法",
+  "music": 0.0
+ },
+ {
+  "from": 946.74,
+  "to": 949.02,
+  "sid": 476,
+  "location": 2,
+  "content": "才能让你更快的去启动这个行为",
+  "music": 0.0
+ },
+ {
+  "from": 949.02,
+  "to": 951.46,
+  "sid": 477,
+  "location": 2,
+  "content": "让你这个行为重复次数够多的时候",
+  "music": 0.0
+ },
+ {
+  "from": 951.46,
+  "to": 952.7,
+  "sid": 478,
+  "location": 2,
+  "content": "你这个习惯就养成了",
+  "music": 0.0
+ },
+ {
+  "from": 952.7,
+  "to": 954.46,
+  "sid": 479,
+  "location": 2,
+  "content": "最后一个部分就是奖励啦",
+  "music": 0.0
+ },
+ {
+  "from": 954.46,
+  "to": 955.14,
+  "sid": 480,
+  "location": 2,
+  "content": "最近有很多",
+  "music": 0.0
+ },
+ {
+  "from": 955.14,
+  "to": 958.46,
+  "sid": 481,
+  "location": 2,
+  "content": "比如说那些健身学英语的app不是都会有啊",
+  "music": 0.0
+ },
+ {
+  "from": 958.46,
+  "to": 958.98,
+  "sid": 482,
+  "location": 2,
+  "content": "恭喜你",
+  "music": 0.0
+ },
+ {
+  "from": 958.98,
+  "to": 960.86,
+  "sid": 483,
+  "location": 2,
+  "content": "你已经达到了什么阶段性的成就",
+  "music": 0.0
+ },
+ {
+  "from": 960.86,
+  "to": 963.24,
+  "sid": 484,
+  "location": 2,
+  "content": "或者说你已经坚持打卡了多少多少天",
+  "music": 0.0
+ },
+ {
+  "from": 963.24,
+  "to": 966.04,
+  "sid": 485,
+  "location": 2,
+  "content": "这种显性的简单的小小的反馈",
+  "music": 0.0
+ },
+ {
+  "from": 966.04,
+  "to": 967.9,
+  "sid": 486,
+  "location": 2,
+  "content": "会让你感觉自我良好",
+  "music": 0.0
+ },
+ {
+  "from": 967.9,
+  "to": 969.12,
+  "sid": 487,
+  "location": 2,
+  "content": "更容易坚持下去",
+  "music": 0.0
+ },
+ {
+  "from": 969.12,
+  "to": 970.52,
+  "sid": 488,
+  "location": 2,
+  "content": "不过这里要提醒大家的一点",
+  "music": 0.0
+ },
+ {
+  "from": 970.52,
+  "to": 972.64,
+  "sid": 489,
+  "location": 2,
+  "content": "就是我们在奖励自己的时候",
+  "music": 0.0
+ },
+ {
+  "from": 972.64,
+  "to": 974.96,
+  "sid": 490,
+  "location": 2,
+  "content": "不要去做跟目标相悖的事情",
+  "music": 0.0
+ },
+ {
+  "from": 974.96,
+  "to": 975.64,
+  "sid": 491,
+  "location": 2,
+  "content": "什么意思呢",
+  "music": 0.0
+ },
+ {
+  "from": 975.64,
+  "to": 978.34,
+  "sid": 492,
+  "location": 2,
+  "content": "就比如说你想要变得更加的专注",
+  "music": 0.0
+ },
+ {
+  "from": 978.34,
+  "to": 979.78,
+  "sid": 493,
+  "location": 2,
+  "content": "长时间的学习",
+  "music": 0.0
+ },
+ {
+  "from": 979.78,
+  "to": 981.92,
+  "sid": 494,
+  "location": 2,
+  "content": "那么你对自己的奖励就不应该是OK",
+  "music": 0.0
+ },
+ {
+  "from": 981.92,
+  "to": 983.3,
+  "sid": 495,
+  "location": 2,
+  "content": "我学习了两个小时之后",
+  "music": 0.0
+ },
+ {
+  "from": 983.3,
+  "to": 984.84,
+  "sid": 496,
+  "location": 2,
+  "content": "就奖励自己打一盘游戏",
+  "music": 0.0
+ },
+ {
+  "from": 984.84,
+  "to": 986.76,
+  "sid": 497,
+  "location": 2,
+  "content": "或者刷二三十分钟的手机",
+  "music": 0.0
+ },
+ {
+  "from": 986.76,
+  "to": 988.5,
+  "sid": 498,
+  "location": 2,
+  "content": "因为这个行为跟你想要达到的目标",
+  "music": 0.0
+ },
+ {
+  "from": 988.5,
+  "to": 990.56,
+  "sid": 499,
+  "location": 2,
+  "content": "养成的习惯是相悖的",
+  "music": 0.0
+ },
+ {
+  "from": 990.56,
+  "to": 991.92,
+  "sid": 500,
+  "location": 2,
+  "content": "但是如果你的目标是我要运动",
+  "music": 0.0
+ },
+ {
+  "from": 991.92,
+  "to": 992.64,
+  "sid": 501,
+  "location": 2,
+  "content": "我要减肥",
+  "music": 0.0
+ },
+ {
+  "from": 992.64,
+  "to": 993.64,
+  "sid": 502,
+  "location": 2,
+  "content": "那你就可以奖励自己",
+  "music": 0.0
+ },
+ {
+  "from": 993.64,
+  "to": 995.28,
+  "sid": 503,
+  "location": 2,
+  "content": "可能看一部很想看的电影",
+  "music": 0.0
+ },
+ {
+  "from": 995.28,
+  "to": 998.52,
+  "sid": 504,
+  "location": 2,
+  "content": "不要奖励自己在运动之后大餐一顿对吧",
+  "music": 0.0
+ },
+ {
+  "from": 998.52,
+  "to": 1000.88,
+  "sid": 505,
+  "location": 2,
+  "content": "那么以上呢就是想要分享的三个方法",
+  "music": 0.0
+ },
+ {
+  "from": 1000.88,
+  "to": 1001.76,
+  "sid": 506,
+  "location": 2,
+  "content": "但是到这里呢",
+  "music": 0.0
+ },
+ {
+  "from": 1001.76,
+  "to": 1003.4,
+  "sid": 507,
+  "location": 2,
+  "content": "可能有些人还是会有些疑问",
+  "music": 0.0
+ },
+ {
+  "from": 1003.4,
+  "to": 1006.24,
+  "sid": 508,
+  "location": 2,
+  "content": "就是为什么我不能够有努力的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 1006.24,
+  "to": 1008.92,
+  "sid": 509,
+  "location": 2,
+  "content": "难道我付出的努力不值得认可吗",
+  "music": 0.0
+ },
+ {
+  "from": 1008.92,
+  "to": 1011.6,
+  "sid": 510,
+  "location": 2,
+  "content": "以及如果我不允许自己觉得自己很努力",
+  "music": 0.0
+ },
+ {
+  "from": 1011.6,
+  "to": 1015.7,
+  "sid": 511,
+  "location": 2,
+  "content": "万一我因此而忽视掉了我的身体跟心理状态",
+  "music": 0.0
+ },
+ {
+  "from": 1015.7,
+  "to": 1016.94,
+  "sid": 512,
+  "location": 2,
+  "content": "导致burn out了",
+  "music": 0.0
+ },
+ {
+  "from": 1016.94,
+  "to": 1017.62,
+  "sid": 513,
+  "location": 2,
+  "content": "怎么办呢",
+  "music": 0.0
+ },
+ {
+  "from": 1017.62,
+  "to": 1019.38,
+  "sid": 514,
+  "location": 2,
+  "content": "这其实是一个很好的问题",
+  "music": 0.0
+ },
+ {
+  "from": 1019.38,
+  "to": 1022.8,
+  "sid": 515,
+  "location": 2,
+  "content": "背后隐藏的需求是如何不陷入自我欺骗",
+  "music": 0.0
+ },
+ {
+  "from": 1022.8,
+  "to": 1024.48,
+  "sid": 516,
+  "location": 2,
+  "content": "又能够合理关怀自己",
+  "music": 0.0
+ },
+ {
+  "from": 1024.48,
+  "to": 1026.06,
+  "sid": 517,
+  "location": 2,
+  "content": "但是我还是想要强调一下",
+  "music": 0.0
+ },
+ {
+  "from": 1026.06,
+  "to": 1028.9,
+  "sid": 518,
+  "location": 2,
+  "content": "为什么要警惕自己很努力的这种感觉",
+  "music": 0.0
+ },
+ {
+  "from": 1028.9,
+  "to": 1030.82,
+  "sid": 519,
+  "location": 2,
+  "content": "因为努力感会偷换目标",
+  "music": 0.0
+ },
+ {
+  "from": 1030.82,
+  "to": 1033.34,
+  "sid": 520,
+  "location": 2,
+  "content": "当我们反复强调我很努力的时候",
+  "music": 0.0
+ },
+ {
+  "from": 1033.34,
+  "to": 1035.74,
+  "sid": 521,
+  "location": 2,
+  "content": "心里那个天秤就会倾斜行动",
+  "music": 0.0
+ },
+ {
+  "from": 1035.74,
+  "to": 1039.02,
+  "sid": 522,
+  "location": 2,
+  "content": "目标从做成某事变成证明我很努力",
+  "music": 0.0
+ },
+ {
+  "from": 1039.02,
+  "to": 1040.84,
+  "sid": 523,
+  "location": 2,
+  "content": "努力成了需要认可的成就",
+  "music": 0.0
+ },
+ {
+  "from": 1040.84,
+  "to": 1043.44,
+  "sid": 524,
+  "location": 2,
+  "content": "反而稀释了对结果本身的专注",
+  "music": 0.0
+ },
+ {
+  "from": 1043.44,
+  "to": 1046.28,
+  "sid": 525,
+  "location": 2,
+  "content": "就像登山者不断的计算自己的步数",
+  "music": 0.0
+ },
+ {
+  "from": 1046.28,
+  "to": 1049.82,
+  "sid": 526,
+  "location": 2,
+  "content": "却忘了看看脚下这条路是不是通往山顶的",
+  "music": 0.0
+ },
+ {
+  "from": 1049.82,
+  "to": 1050.34,
+  "sid": 527,
+  "location": 2,
+  "content": "第二呢",
+  "music": 0.0
+ },
+ {
+  "from": 1050.34,
+  "to": 1053.72,
+  "sid": 528,
+  "location": 2,
+  "content": "就是它预设了一种费力就应该有回报的执念",
+  "music": 0.0
+ },
+ {
+  "from": 1053.72,
+  "to": 1056.42,
+  "sid": 529,
+  "location": 2,
+  "content": "努力这个词本身就带着一种沉重感",
+  "music": 0.0
+ },
+ {
+  "from": 1056.42,
+  "to": 1059.88,
+  "sid": 530,
+  "location": 2,
+  "content": "暗示着付出必然伴随着痛苦而痛苦",
+  "music": 0.0
+ },
+ {
+  "from": 1059.88,
+  "to": 1060.96,
+  "sid": 531,
+  "location": 2,
+  "content": "理应得到回报",
+  "music": 0.0
+ },
+ {
+  "from": 1060.96,
+  "to": 1062.68,
+  "sid": 532,
+  "location": 2,
+  "content": "但现实往往是残酷的",
+  "music": 0.0
+ },
+ {
+  "from": 1062.68,
+  "to": 1065.32,
+  "sid": 533,
+  "location": 2,
+  "content": "努力是必要条件而非充分条件",
+  "music": 0.0
+ },
+ {
+  "from": 1065.32,
+  "to": 1068.88,
+  "sid": 534,
+  "location": 2,
+  "content": "执着与努力感容易在结果不如预期的时候陷入",
+  "music": 0.0
+ },
+ {
+  "from": 1068.88,
+  "to": 1070.22,
+  "sid": 535,
+  "location": 2,
+  "content": "我都已经这么努力了",
+  "music": 0.0
+ },
+ {
+  "from": 1070.22,
+  "to": 1072.46,
+  "sid": 536,
+  "location": 2,
+  "content": "为什么还失败的怨恨和不满",
+  "music": 0.0
+ },
+ {
+  "from": 1072.46,
+  "to": 1074.3,
+  "sid": 537,
+  "location": 2,
+  "content": "反而阻碍你的复盘跟成长",
+  "music": 0.0
+ },
+ {
+  "from": 1074.3,
+  "to": 1077.48,
+  "sid": 538,
+  "location": 2,
+  "content": "不强调努力感不意味着忽略自己的状态",
+  "music": 0.0
+ },
+ {
+  "from": 1077.48,
+  "to": 1080.08,
+  "sid": 539,
+  "location": 2,
+  "content": "反而而是为了更加清醒地觉察自己",
+  "music": 0.0
+ },
+ {
+  "from": 1080.08,
+  "to": 1082.94,
+  "sid": 540,
+  "location": 2,
+  "content": "衡量自己状态的标准不应该是量化的",
+  "music": 0.0
+ },
+ {
+  "from": 1082.94,
+  "to": 1084.14,
+  "sid": 541,
+  "location": 2,
+  "content": "所谓努力指标",
+  "music": 0.0
+ },
+ {
+  "from": 1084.14,
+  "to": 1086.2,
+  "sid": 542,
+  "location": 2,
+  "content": "比如说我今天学习了几个小时",
+  "music": 0.0
+ },
+ {
+  "from": 1086.2,
+  "to": 1087.38,
+  "sid": 543,
+  "location": 2,
+  "content": "我走了多远的路",
+  "music": 0.0
+ },
+ {
+  "from": 1087.38,
+  "to": 1090.42,
+  "sid": 544,
+  "location": 2,
+  "content": "而是去关注真正客观的身心信号",
+  "music": 0.0
+ },
+ {
+  "from": 1090.42,
+  "to": 1092.0,
+  "sid": 545,
+  "location": 2,
+  "content": "比如说身体是不是疲惫的",
+  "music": 0.0
+ },
+ {
+  "from": 1092.0,
+  "to": 1092.64,
+  "sid": 546,
+  "location": 2,
+  "content": "头痛",
+  "music": 0.0
+ },
+ {
+  "from": 1092.64,
+  "to": 1093.78,
+  "sid": 547,
+  "location": 2,
+  "content": "提不起精神",
+  "music": 0.0
+ },
+ {
+  "from": 1093.78,
+  "to": 1096.03,
+  "sid": 548,
+  "location": 2,
+  "content": "失眠肩颈僵硬等等",
+  "music": 0.0
+ },
+ {
+  "from": 1096.03,
+  "to": 1097.59,
+  "sid": 549,
+  "location": 2,
+  "content": "还有情绪上的枯竭",
+  "music": 0.0
+ },
+ {
+  "from": 1097.59,
+  "to": 1099.99,
+  "sid": 550,
+  "location": 2,
+  "content": "会不会感觉自己对什么事情都提不起兴趣",
+  "music": 0.0
+ },
+ {
+  "from": 1099.99,
+  "to": 1102.3,
+  "sid": 551,
+  "location": 2,
+  "content": "以及效率是不是有个显著的下降",
+  "music": 0.0
+ },
+ {
+  "from": 1102.3,
+  "to": 1104.08,
+  "sid": 552,
+  "location": 2,
+  "content": "比如说反复犯低级错误啊",
+  "music": 0.0
+ },
+ {
+  "from": 1104.08,
+  "to": 1105.44,
+  "sid": 553,
+  "location": 2,
+  "content": "拖延加剧啊等等",
+  "music": 0.0
+ },
+ {
+  "from": 1105.44,
+  "to": 1106.54,
+  "sid": 554,
+  "location": 2,
+  "content": "努力是必要的",
+  "music": 0.0
+ },
+ {
+  "from": 1106.54,
+  "to": 1108.1,
+  "sid": 555,
+  "location": 2,
+  "content": "但不需要做成勋章",
+  "music": 0.0
+ },
+ {
+  "from": 1108.1,
+  "to": 1109.9,
+  "sid": 556,
+  "location": 2,
+  "content": "学会用事实看行动",
+  "music": 0.0
+ },
+ {
+  "from": 1109.9,
+  "to": 1111.88,
+  "sid": 557,
+  "location": 2,
+  "content": "而不用感受评估产出",
+  "music": 0.0
+ },
+ {
+  "from": 1111.88,
+  "to": 1113.84,
+  "sid": 558,
+  "location": 2,
+  "content": "问自己今天推进了什么",
+  "music": 0.0
+ },
+ {
+  "from": 1113.84,
+  "to": 1115.08,
+  "sid": 559,
+  "location": 2,
+  "content": "完成了哪些事项",
+  "music": 0.0
+ },
+ {
+  "from": 1115.08,
+  "to": 1117.2,
+  "sid": 560,
+  "location": 2,
+  "content": "而不是自己今天有多么努力",
+  "music": 0.0
+ },
+ {
+  "from": 1117.2,
+  "to": 1118.54,
+  "sid": 561,
+  "location": 2,
+  "content": "焦点从我多辛苦",
+  "music": 0.0
+ },
+ {
+  "from": 1118.54,
+  "to": 1119.68,
+  "sid": 562,
+  "location": 2,
+  "content": "转成我多有效",
+  "music": 0.0
+ },
+ {
+  "from": 1119.68,
+  "to": 1122.42,
+  "sid": 563,
+  "location": 2,
+  "content": "所以很多时候我们不是败给了做不到",
+  "music": 0.0
+ },
+ {
+  "from": 1122.42,
+  "to": 1124.92,
+  "sid": 564,
+  "location": 2,
+  "content": "而是败给了我已经很努力的自我许可",
+  "music": 0.0
+ },
+ {
+  "from": 1124.92,
+  "to": 1126.34,
+  "sid": 565,
+  "location": 2,
+  "content": "努力不是借口",
+  "music": 0.0
+ },
+ {
+  "from": 1126.34,
+  "to": 1127.68,
+  "sid": 566,
+  "location": 2,
+  "content": "负担身心极限",
+  "music": 0.0
+ },
+ {
+  "from": 1127.68,
+  "to": 1129.7,
+  "sid": 567,
+  "location": 2,
+  "content": "更不是拿来讨价还价的筹码",
+  "music": 0.0
+ },
+ {
+  "from": 1129.7,
+  "to": 1132.62,
+  "sid": 568,
+  "location": 2,
+  "content": "想要的结果也不会因为努力而自动出现",
+  "music": 0.0
+ },
+ {
+  "from": 1132.62,
+  "to": 1136.18,
+  "sid": 569,
+  "location": 2,
+  "content": "真正的努力是保持行动而不被其重量压垮",
+  "music": 0.0
+ },
+ {
+  "from": 1136.18,
+  "to": 1138.7,
+  "sid": 570,
+  "location": 2,
+  "content": "你不需要努力的证明自己多努力",
+  "music": 0.0
+ },
+ {
+  "from": 1138.7,
+  "to": 1141.94,
+  "sid": 571,
+  "location": 2,
+  "content": "你只需要清醒的成为自己行动的见证者",
+  "music": 0.0
+ },
+ {
+  "from": 1141.94,
+  "to": 1144.58,
+  "sid": 572,
+  "location": 2,
+  "content": "最后祝愿大家都能够长久的坚持",
+  "music": 0.0
+ },
+ {
+  "from": 1144.58,
+  "to": 1146.12,
+  "sid": 573,
+  "location": 2,
+  "content": "你想做的那件事情",
+  "music": 0.0
+ },
+ {
+  "from": 1146.12,
+  "to": 1147.97,
+  "sid": 574,
+  "location": 2,
+  "content": "好啦本期视频就到这里",
+  "music": 0.0
+ },
+ {
+  "from": 1147.97,
+  "to": 1148.83,
+  "sid": 575,
+  "location": 2,
+  "content": "感谢观看",
+  "music": 0.0
+ },
+ {
+  "from": 1148.83,
+  "to": 1149.89,
+  "sid": 576,
+  "location": 2,
+  "content": "我们下期再见",
+  "music": 0.0
+ },
+ {
+  "from": 1149.89,
+  "to": 1150.64,
+  "sid": 577,
+  "location": 2,
+  "content": "拜拜",
+  "music": 0.0
+ }
+]

@@ -1,0 +1,2490 @@
+[
+ {
+  "from": 0.24,
+  "to": 0.54,
+  "sid": 1,
+  "location": 2,
+  "content": "Hello",
+  "music": 0.0
+ },
+ {
+  "from": 0.54,
+  "to": 1.32,
+  "sid": 2,
+  "location": 2,
+  "content": "各位小伙伴",
+  "music": 0.0
+ },
+ {
+  "from": 1.32,
+  "to": 2.46,
+  "sid": 3,
+  "location": 2,
+  "content": "这里是思维悬搁",
+  "music": 0.0
+ },
+ {
+  "from": 2.46,
+  "to": 3.32,
+  "sid": 4,
+  "location": 2,
+  "content": "我是阿瑞雅",
+  "music": 0.0
+ },
+ {
+  "from": 3.32,
+  "to": 5.96,
+  "sid": 5,
+  "location": 2,
+  "content": "这期视频是不做过度思考者系列的",
+  "music": 0.0
+ },
+ {
+  "from": 5.96,
+  "to": 6.68,
+  "sid": 6,
+  "location": 2,
+  "content": "第二期",
+  "music": 0.0
+ },
+ {
+  "from": 6.68,
+  "to": 9.26,
+  "sid": 7,
+  "location": 2,
+  "content": "主角是指向未来的一种情绪反应",
+  "music": 0.0
+ },
+ {
+  "from": 9.26,
+  "to": 10.62,
+  "sid": 8,
+  "location": 2,
+  "content": "我们叫它焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 10.62,
+  "to": 12.57,
+  "sid": 9,
+  "location": 2,
+  "content": "跟上期的思维反刍不同",
+  "music": 0.0
+ },
+ {
+  "from": 12.57,
+  "to": 14.85,
+  "sid": 10,
+  "location": 2,
+  "content": "焦虑这个词大家应该并不陌生",
+  "music": 0.0
+ },
+ {
+  "from": 14.85,
+  "to": 17.04,
+  "sid": 11,
+  "location": 2,
+  "content": "经常会听到本期视频中",
+  "music": 0.0
+ },
+ {
+  "from": 17.04,
+  "to": 19.65,
+  "sid": 12,
+  "location": 2,
+  "content": "我会先明晰出焦虑的一个本质特征",
+  "music": 0.0
+ },
+ {
+  "from": 19.65,
+  "to": 20.7,
+  "sid": 13,
+  "location": 2,
+  "content": "在了解他后",
+  "music": 0.0
+ },
+ {
+  "from": 20.7,
+  "to": 23.7,
+  "sid": 14,
+  "location": 2,
+  "content": "大家对自己的焦虑情绪可能会有新的发现",
+  "music": 0.0
+ },
+ {
+  "from": 23.7,
+  "to": 25.17,
+  "sid": 15,
+  "location": 2,
+  "content": "另外跟上期一样",
+  "music": 0.0
+ },
+ {
+  "from": 25.17,
+  "to": 28.89,
+  "sid": 16,
+  "location": 2,
+  "content": "视频后半段还是会将大量篇幅放在改善方法上",
+  "music": 0.0
+ },
+ {
+  "from": 28.89,
+  "to": 31.4,
+  "sid": 17,
+  "location": 2,
+  "content": "希望大家看完以后都能有所收获",
+  "music": 0.0
+ },
+ {
+  "from": 31.4,
+  "to": 33.53,
+  "sid": 18,
+  "location": 2,
+  "content": "并且在实践中取得进步",
+  "music": 0.0
+ },
+ {
+  "from": 33.53,
+  "to": 35.45,
+  "sid": 19,
+  "location": 2,
+  "content": "那我们直接开始吧",
+  "music": 0.0
+ },
+ {
+  "from": 35.45,
+  "to": 39.08,
+  "sid": 20,
+  "location": 2,
+  "content": "很多个体特质都会影响到焦虑水平的高低",
+  "music": 0.0
+ },
+ {
+  "from": 39.08,
+  "to": 40.22,
+  "sid": 21,
+  "location": 2,
+  "content": "性格特质上",
+  "music": 0.0
+ },
+ {
+  "from": 40.22,
+  "to": 41.57,
+  "sid": 22,
+  "location": 2,
+  "content": "比如完美主义倾向",
+  "music": 0.0
+ },
+ {
+  "from": 41.57,
+  "to": 42.8,
+  "sid": 23,
+  "location": 2,
+  "content": "认知偏好上",
+  "music": 0.0
+ },
+ {
+  "from": 42.8,
+  "to": 45.2,
+  "sid": 24,
+  "location": 2,
+  "content": "比如之前提到过的灾难化思维",
+  "music": 0.0
+ },
+ {
+  "from": 45.2,
+  "to": 47.0,
+  "sid": 25,
+  "location": 2,
+  "content": "在这里插播一个预告",
+  "music": 0.0
+ },
+ {
+  "from": 47.0,
+  "to": 49.82,
+  "sid": 26,
+  "location": 2,
+  "content": "这个系列的下期主题就是灾难化思维",
+  "music": 0.0
+ },
+ {
+  "from": 49.82,
+  "to": 52.34,
+  "sid": 27,
+  "location": 2,
+  "content": "之前要求细化这部分内容的小伙伴",
+  "music": 0.0
+ },
+ {
+  "from": 52.34,
+  "to": 54.17,
+  "sid": 28,
+  "location": 2,
+  "content": "让我在弹幕里看到你们呀",
+  "music": 0.0
+ },
+ {
+  "from": 54.17,
+  "to": 55.7,
+  "sid": 29,
+  "location": 2,
+  "content": "说回今天的话题",
+  "music": 0.0
+ },
+ {
+  "from": 55.7,
+  "to": 58.41,
+  "sid": 30,
+  "location": 2,
+  "content": "不知道有多少人听过认知行为疗法",
+  "music": 0.0
+ },
+ {
+  "from": 58.41,
+  "to": 61.59,
+  "sid": 31,
+  "location": 2,
+  "content": "它是治疗许多心理障碍的一线干预方式",
+  "music": 0.0
+ },
+ {
+  "from": 61.59,
+  "to": 62.91,
+  "sid": 32,
+  "location": 2,
+  "content": "比如惊恐障碍",
+  "music": 0.0
+ },
+ {
+  "from": 62.91,
+  "to": 63.96,
+  "sid": 33,
+  "location": 2,
+  "content": "强迫症等等",
+  "music": 0.0
+ },
+ {
+  "from": 63.96,
+  "to": 65.3,
+  "sid": 34,
+  "location": 2,
+  "content": "简称CBT",
+  "music": 0.0
+ },
+ {
+  "from": 65.3,
+  "to": 67.37,
+  "sid": 35,
+  "location": 2,
+  "content": "这期里我先不过多介绍他",
+  "music": 0.0
+ },
+ {
+  "from": 67.37,
+  "to": 68.6,
+  "sid": 36,
+  "location": 2,
+  "content": "心理学家发现",
+  "music": 0.0
+ },
+ {
+  "from": 68.6,
+  "to": 71.92,
+  "sid": 37,
+  "location": 2,
+  "content": "CBT在解释广泛性焦虑障碍时遇到了困难",
+  "music": 0.0
+ },
+ {
+  "from": 71.92,
+  "to": 73.96,
+  "sid": 38,
+  "location": 2,
+  "content": "治疗有效性也较为有限",
+  "music": 0.0
+ },
+ {
+  "from": 73.96,
+  "to": 76.96,
+  "sid": 39,
+  "location": 2,
+  "content": "这里的广泛性焦虑障碍可以简单理解为",
+  "music": 0.0
+ },
+ {
+  "from": 76.96,
+  "to": 79.02,
+  "sid": 40,
+  "location": 2,
+  "content": "一个人对生活中的方方面面",
+  "music": 0.0
+ },
+ {
+  "from": 79.02,
+  "to": 80.94,
+  "sid": 41,
+  "location": 2,
+  "content": "持久而弥散性的焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 80.94,
+  "to": 83.04,
+  "sid": 42,
+  "location": 2,
+  "content": "即便是没有任何客观风险",
+  "music": 0.0
+ },
+ {
+  "from": 83.04,
+  "to": 85.2,
+  "sid": 43,
+  "location": 2,
+  "content": "困难或危险存在的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 85.2,
+  "to": 87.57,
+  "sid": 44,
+  "location": 2,
+  "content": "仍然有长久的担忧与恐惧感",
+  "music": 0.0
+ },
+ {
+  "from": 87.57,
+  "to": 90.28,
+  "sid": 45,
+  "location": 2,
+  "content": "于是为了更好地处理广泛性焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 90.28,
+  "to": 93.16,
+  "sid": 46,
+  "location": 2,
+  "content": "加拿大的两位研究者在上世纪末提出了",
+  "music": 0.0
+ },
+ {
+  "from": 93.16,
+  "to": 94.3,
+  "sid": 47,
+  "location": 2,
+  "content": "不确定性容忍度",
+  "music": 0.0
+ },
+ {
+  "from": 94.3,
+  "to": 95.11,
+  "sid": 48,
+  "location": 2,
+  "content": "这个概念",
+  "music": 0.0
+ },
+ {
+  "from": 95.11,
+  "to": 96.92,
+  "sid": 49,
+  "location": 2,
+  "content": "通常简称为IU",
+  "music": 0.0
+ },
+ {
+  "from": 96.92,
+  "to": 98.42,
+  "sid": 50,
+  "location": 2,
+  "content": "对于普通人来说",
+  "music": 0.0
+ },
+ {
+  "from": 98.42,
+  "to": 101.15,
+  "sid": 51,
+  "location": 2,
+  "content": "不确定性意味着中性可好可坏",
+  "music": 0.0
+ },
+ {
+  "from": 101.15,
+  "to": 103.16,
+  "sid": 52,
+  "location": 2,
+  "content": "但不确定性容忍度低的人",
+  "music": 0.0
+ },
+ {
+  "from": 103.16,
+  "to": 106.5,
+  "sid": 53,
+  "location": 2,
+  "content": "认为不确定性等于坏事将会发生",
+  "music": 0.0
+ },
+ {
+  "from": 106.5,
+  "to": 109.92,
+  "sid": 54,
+  "location": 2,
+  "content": "为了帮助大家更好地理解低不确定性容忍度",
+  "music": 0.0
+ },
+ {
+  "from": 109.92,
+  "to": 111.76,
+  "sid": 55,
+  "location": 2,
+  "content": "个体的习惯化行为方式",
+  "music": 0.0
+ },
+ {
+  "from": 111.76,
+  "to": 115.24,
+  "sid": 56,
+  "location": 2,
+  "content": "我们来看一个典型的消极循环是如何形成的",
+  "music": 0.0
+ },
+ {
+  "from": 115.24,
+  "to": 117.37,
+  "sid": 57,
+  "location": 2,
+  "content": "这个循环里包含了三个方面",
+  "music": 0.0
+ },
+ {
+  "from": 117.37,
+  "to": 118.84,
+  "sid": 58,
+  "location": 2,
+  "content": "信息信念",
+  "music": 0.0
+ },
+ {
+  "from": 118.84,
+  "to": 120.32,
+  "sid": 59,
+  "location": 2,
+  "content": "非适应性行为",
+  "music": 0.0
+ },
+ {
+  "from": 120.32,
+  "to": 122.3,
+  "sid": 60,
+  "location": 2,
+  "content": "低不确定性容忍度的个体",
+  "music": 0.0
+ },
+ {
+  "from": 122.3,
+  "to": 125.84,
+  "sid": 61,
+  "location": 2,
+  "content": "面对所有事情都会去提前识别并检查其中",
+  "music": 0.0
+ },
+ {
+  "from": 125.84,
+  "to": 128.45,
+  "sid": 62,
+  "location": 2,
+  "content": "心意模糊和难以预测的部分",
+  "music": 0.0
+ },
+ {
+  "from": 128.45,
+  "to": 132.56,
+  "sid": 63,
+  "location": 2,
+  "content": "一旦检测出这些部分不确定状态就随之被激活",
+  "music": 0.0
+ },
+ {
+  "from": 132.56,
+  "to": 136.31,
+  "sid": 64,
+  "location": 2,
+  "content": "唤起个体所持有的对不确定性极度负面的信念",
+  "music": 0.0
+ },
+ {
+  "from": 136.31,
+  "to": 137.72,
+  "sid": 65,
+  "location": 2,
+  "content": "继而诱发焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 137.72,
+  "to": 140.5,
+  "sid": 66,
+  "location": 2,
+  "content": "这时候为了降低焦虑带来的不适感",
+  "music": 0.0
+ },
+ {
+  "from": 140.5,
+  "to": 142.84,
+  "sid": 67,
+  "location": 2,
+  "content": "个体会采用常用的安全行为",
+  "music": 0.0
+ },
+ {
+  "from": 142.84,
+  "to": 144.49,
+  "sid": 68,
+  "location": 2,
+  "content": "比如回避这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 144.49,
+  "to": 146.58,
+  "sid": 69,
+  "location": 2,
+  "content": "或者大量收集信息等等",
+  "music": 0.0
+ },
+ {
+  "from": 146.58,
+  "to": 150.12,
+  "sid": 70,
+  "location": 2,
+  "content": "安全行为实质上是一系列非适应性行为",
+  "music": 0.0
+ },
+ {
+  "from": 150.12,
+  "to": 152.67,
+  "sid": 71,
+  "location": 2,
+  "content": "结果呢越去做这些安全行为",
+  "music": 0.0
+ },
+ {
+  "from": 152.67,
+  "to": 155.86,
+  "sid": 72,
+  "location": 2,
+  "content": "个体暴露和容忍不确定性的意愿就越低",
+  "music": 0.0
+ },
+ {
+  "from": 155.86,
+  "to": 159.31,
+  "sid": 73,
+  "location": 2,
+  "content": "纠正有偏信念和行为的机会也会越来越少",
+  "music": 0.0
+ },
+ {
+  "from": 159.31,
+  "to": 162.44,
+  "sid": 74,
+  "location": 2,
+  "content": "最终导致不适应症状的恶性循环",
+  "music": 0.0
+ },
+ {
+  "from": 162.44,
+  "to": 164.96,
+  "sid": 75,
+  "location": 2,
+  "content": "长久地生活在弥散的焦虑中",
+  "music": 0.0
+ },
+ {
+  "from": 164.96,
+  "to": 166.82,
+  "sid": 76,
+  "location": 2,
+  "content": "低不确定性容忍度的人",
+  "music": 0.0
+ },
+ {
+  "from": 166.82,
+  "to": 168.95,
+  "sid": 77,
+  "location": 2,
+  "content": "对事件的模糊耐受性很低",
+  "music": 0.0
+ },
+ {
+  "from": 168.95,
+  "to": 171.68,
+  "sid": 78,
+  "location": 2,
+  "content": "同时有明显的不确定性规避",
+  "music": 0.0
+ },
+ {
+  "from": 171.68,
+  "to": 173.98,
+  "sid": 79,
+  "location": 2,
+  "content": "这两者都有一些典型表现",
+  "music": 0.0
+ },
+ {
+  "from": 173.98,
+  "to": 176.8,
+  "sid": 80,
+  "location": 2,
+  "content": "我们先来说说模糊耐受性低的情况",
+  "music": 0.0
+ },
+ {
+  "from": 176.8,
+  "to": 178.3,
+  "sid": 81,
+  "location": 2,
+  "content": "为了减少模糊性",
+  "music": 0.0
+ },
+ {
+  "from": 178.3,
+  "to": 179.52,
+  "sid": 82,
+  "location": 2,
+  "content": "增加确定性",
+  "music": 0.0
+ },
+ {
+  "from": 179.52,
+  "to": 181.74,
+  "sid": 83,
+  "location": 2,
+  "content": "一个人往往会做出下列行为",
+  "music": 0.0
+ },
+ {
+  "from": 181.74,
+  "to": 185.82,
+  "sid": 84,
+  "location": 2,
+  "content": "一过多的信息搜索表现为遇到一件事情后",
+  "music": 0.0
+ },
+ {
+  "from": 185.82,
+  "to": 189.18,
+  "sid": 85,
+  "location": 2,
+  "content": "会对所有可能遇到的问题疯狂搜寻大量信息",
+  "music": 0.0
+ },
+ {
+  "from": 189.18,
+  "to": 190.52,
+  "sid": 86,
+  "location": 2,
+  "content": "寻找解决方案",
+  "music": 0.0
+ },
+ {
+  "from": 190.52,
+  "to": 192.02,
+  "sid": 87,
+  "location": 2,
+  "content": "比如跟朋友约饭前",
+  "music": 0.0
+ },
+ {
+  "from": 192.02,
+  "to": 194.87,
+  "sid": 88,
+  "location": 2,
+  "content": "按时间顺序翻阅大量的餐厅评价",
+  "music": 0.0
+ },
+ {
+  "from": 194.87,
+  "to": 196.94,
+  "sid": 89,
+  "location": 2,
+  "content": "再点击感兴趣的每道菜品",
+  "music": 0.0
+ },
+ {
+  "from": 196.94,
+  "to": 197.96,
+  "sid": 90,
+  "location": 2,
+  "content": "翻遍评价",
+  "music": 0.0
+ },
+ {
+  "from": 197.96,
+  "to": 199.82,
+  "sid": 91,
+  "location": 2,
+  "content": "旅行前就更痛苦了",
+  "music": 0.0
+ },
+ {
+  "from": 199.82,
+  "to": 202.04,
+  "sid": 92,
+  "location": 2,
+  "content": "因为他们渴望绝对完美的体验",
+  "music": 0.0
+ },
+ {
+  "from": 202.04,
+  "to": 204.32,
+  "sid": 93,
+  "location": 2,
+  "content": "或者百分百有效的行动方案",
+  "music": 0.0
+ },
+ {
+  "from": 204.32,
+  "to": 206.4,
+  "sid": 94,
+  "location": 2,
+  "content": "二反复寻求确认",
+  "music": 0.0
+ },
+ {
+  "from": 206.4,
+  "to": 207.66,
+  "sid": 95,
+  "location": 2,
+  "content": "无论是分析问题",
+  "music": 0.0
+ },
+ {
+  "from": 207.66,
+  "to": 209.329,
+  "sid": 96,
+  "location": 2,
+  "content": "结论还是做决策前",
+  "music": 0.0
+ },
+ {
+  "from": 209.329,
+  "to": 212.059,
+  "sid": 97,
+  "location": 2,
+  "content": "都会不断征求身边重要的人的意见",
+  "music": 0.0
+ },
+ {
+  "from": 212.059,
+  "to": 213.649,
+  "sid": 98,
+  "location": 2,
+  "content": "希望取得他们的支持",
+  "music": 0.0
+ },
+ {
+  "from": 213.649,
+  "to": 216.139,
+  "sid": 99,
+  "location": 2,
+  "content": "来让自己确信结论的万无一失",
+  "music": 0.0
+ },
+ {
+  "from": 216.139,
+  "to": 217.82,
+  "sid": 100,
+  "location": 2,
+  "content": "三反复检查",
+  "music": 0.0
+ },
+ {
+  "from": 217.82,
+  "to": 220.28,
+  "sid": 101,
+  "location": 2,
+  "content": "比如反复检查一项任务的要求",
+  "music": 0.0
+ },
+ {
+  "from": 220.28,
+  "to": 223.01,
+  "sid": 102,
+  "location": 2,
+  "content": "事无巨细地全部都再过一遍",
+  "music": 0.0
+ },
+ {
+  "from": 223.01,
+  "to": 224.6,
+  "sid": 103,
+  "location": 2,
+  "content": "四过渡计划",
+  "music": 0.0
+ },
+ {
+  "from": 224.6,
+  "to": 226.43,
+  "sid": 104,
+  "location": 2,
+  "content": "比如做日程安排的时候",
+  "music": 0.0
+ },
+ {
+  "from": 226.43,
+  "to": 228.06,
+  "sid": 105,
+  "location": 2,
+  "content": "不留一丝时间空隙",
+  "music": 0.0
+ },
+ {
+  "from": 228.06,
+  "to": 229.92,
+  "sid": 106,
+  "location": 2,
+  "content": "或者两三个月以后的事情",
+  "music": 0.0
+ },
+ {
+  "from": 229.92,
+  "to": 232.5,
+  "sid": 107,
+  "location": 2,
+  "content": "现在就要求别人给出确切的信息",
+  "music": 0.0
+ },
+ {
+  "from": 232.5,
+  "to": 234.92,
+  "sid": 108,
+  "location": 2,
+  "content": "让自己心理有所准备和安排",
+  "music": 0.0
+ },
+ {
+  "from": 234.92,
+  "to": 235.97,
+  "sid": 109,
+  "location": 2,
+  "content": "最后一点",
+  "music": 0.0
+ },
+ {
+  "from": 235.97,
+  "to": 238.73,
+  "sid": 110,
+  "location": 2,
+  "content": "对于看重的事情务必要独立完成",
+  "music": 0.0
+ },
+ {
+  "from": 238.73,
+  "to": 240.2,
+  "sid": 111,
+  "location": 2,
+  "content": "拒绝跟他人合作",
+  "music": 0.0
+ },
+ {
+  "from": 240.2,
+  "to": 241.64,
+  "sid": 112,
+  "location": 2,
+  "content": "以确保万无一失",
+  "music": 0.0
+ },
+ {
+  "from": 241.64,
+  "to": 244.19,
+  "sid": 113,
+  "location": 2,
+  "content": "接下来基于不确定性规避",
+  "music": 0.0
+ },
+ {
+  "from": 244.19,
+  "to": 246.56,
+  "sid": 114,
+  "location": 2,
+  "content": "个体又会有下面的典型表现",
+  "music": 0.0
+ },
+ {
+  "from": 246.56,
+  "to": 250.2,
+  "sid": 115,
+  "location": 2,
+  "content": "一回避带有不确定性的或者心意的情境",
+  "music": 0.0
+ },
+ {
+  "from": 250.2,
+  "to": 253.71,
+  "sid": 116,
+  "location": 2,
+  "content": "比如他们可能会拒绝参与自己不熟悉的活动",
+  "music": 0.0
+ },
+ {
+  "from": 253.71,
+  "to": 254.76,
+  "sid": 117,
+  "location": 2,
+  "content": "二拖延",
+  "music": 0.0
+ },
+ {
+  "from": 254.76,
+  "to": 256.2,
+  "sid": 118,
+  "location": 2,
+  "content": "比如面对一个任务",
+  "music": 0.0
+ },
+ {
+  "from": 256.2,
+  "to": 257.52,
+  "sid": 119,
+  "location": 2,
+  "content": "除非他们计划好了",
+  "music": 0.0
+ },
+ {
+  "from": 257.52,
+  "to": 258.88,
+  "sid": 120,
+  "location": 2,
+  "content": "完成每一步的方法",
+  "music": 0.0
+ },
+ {
+  "from": 258.88,
+  "to": 260.89,
+  "sid": 121,
+  "location": 2,
+  "content": "否则就会一直拖延进度",
+  "music": 0.0
+ },
+ {
+  "from": 260.89,
+  "to": 263.8,
+  "sid": 122,
+  "location": 2,
+  "content": "三避免对事情做出明确的承诺",
+  "music": 0.0
+ },
+ {
+  "from": 263.8,
+  "to": 267.6,
+  "sid": 123,
+  "location": 2,
+  "content": "比如对社交活动不做出参加与否的明确答复",
+  "music": 0.0
+ },
+ {
+  "from": 267.6,
+  "to": 268.98,
+  "sid": 124,
+  "location": 2,
+  "content": "或者只答应要去",
+  "music": 0.0
+ },
+ {
+  "from": 268.98,
+  "to": 271.68,
+  "sid": 125,
+  "location": 2,
+  "content": "但不约定具体的时间或者地点",
+  "music": 0.0
+ },
+ {
+  "from": 271.68,
+  "to": 274.52,
+  "sid": 126,
+  "location": 2,
+  "content": "下面就是对于上述问题的改善方法",
+  "music": 0.0
+ },
+ {
+  "from": 274.52,
+  "to": 277.2,
+  "sid": 127,
+  "location": 2,
+  "content": "这部分涉及认知和行为两个层面",
+  "music": 0.0
+ },
+ {
+  "from": 277.2,
+  "to": 280.59,
+  "sid": 128,
+  "location": 2,
+  "content": "他们有些是基于临床干预方法的生活化版本",
+  "music": 0.0
+ },
+ {
+  "from": 280.59,
+  "to": 283.96,
+  "sid": 129,
+  "location": 2,
+  "content": "有些则以实验室研究得出的结论为基础",
+  "music": 0.0
+ },
+ {
+  "from": 283.96,
+  "to": 287.44,
+  "sid": 130,
+  "location": 2,
+  "content": "我自己平时最常用的是行为层面的第一个方法",
+  "music": 0.0
+ },
+ {
+  "from": 287.44,
+  "to": 289.78,
+  "sid": 131,
+  "location": 2,
+  "content": "外加认知层面中的第三个方法",
+  "music": 0.0
+ },
+ {
+  "from": 289.78,
+  "to": 292.39,
+  "sid": 132,
+  "location": 2,
+  "content": "但视频中提到的都是很不错的方法",
+  "music": 0.0
+ },
+ {
+  "from": 292.39,
+  "to": 295.42,
+  "sid": 133,
+  "location": 2,
+  "content": "你们从中选择适合自身情况的就好啦",
+  "music": 0.0
+ },
+ {
+  "from": 295.42,
+  "to": 297.67,
+  "sid": 134,
+  "location": 2,
+  "content": "首先是认知层面的方法",
+  "music": 0.0
+ },
+ {
+  "from": 297.67,
+  "to": 301.46,
+  "sid": 135,
+  "location": 2,
+  "content": "这部分主要是训练我们对于想法的觉察和重塑",
+  "music": 0.0
+ },
+ {
+  "from": 301.46,
+  "to": 303.11,
+  "sid": 136,
+  "location": 2,
+  "content": "摒弃不合理的信念",
+  "music": 0.0
+ },
+ {
+  "from": 303.11,
+  "to": 306.04,
+  "sid": 137,
+  "location": 2,
+  "content": "建立以解决问题为导向的思维方式",
+  "music": 0.0
+ },
+ {
+  "from": 306.04,
+  "to": 307.96,
+  "sid": 138,
+  "location": 2,
+  "content": "第一个方法是具体化",
+  "music": 0.0
+ },
+ {
+  "from": 307.96,
+  "to": 309.64,
+  "sid": 139,
+  "location": 2,
+  "content": "这里你需要主动觉察",
+  "music": 0.0
+ },
+ {
+  "from": 309.64,
+  "to": 312.92,
+  "sid": 140,
+  "location": 2,
+  "content": "脑海里出现的令自己焦虑的自动化思维",
+  "music": 0.0
+ },
+ {
+  "from": 312.92,
+  "to": 315.29,
+  "sid": 141,
+  "location": 2,
+  "content": "并将这些自动化思维写下来",
+  "music": 0.0
+ },
+ {
+  "from": 315.29,
+  "to": 318.08,
+  "sid": 142,
+  "location": 2,
+  "content": "这些自动化思维通常是这样的句式",
+  "music": 0.0
+ },
+ {
+  "from": 318.08,
+  "to": 319.82,
+  "sid": 143,
+  "location": 2,
+  "content": "如果什么什么怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 319.82,
+  "to": 321.98,
+  "sid": 144,
+  "location": 2,
+  "content": "或者万一什么什么怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 321.98,
+  "to": 323.39,
+  "sid": 145,
+  "location": 2,
+  "content": "具体分为三步",
+  "music": 0.0
+ },
+ {
+  "from": 323.39,
+  "to": 325.73,
+  "sid": 146,
+  "location": 2,
+  "content": "第一步是记录他们的具体内容",
+  "music": 0.0
+ },
+ {
+  "from": 325.73,
+  "to": 327.26,
+  "sid": 147,
+  "location": 2,
+  "content": "第二步在下面写上",
+  "music": 0.0
+ },
+ {
+  "from": 327.26,
+  "to": 328.4,
+  "sid": 148,
+  "location": 2,
+  "content": "针对这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 328.4,
+  "to": 330.78,
+  "sid": 149,
+  "location": 2,
+  "content": "自己最担心发生的情况是什么",
+  "music": 0.0
+ },
+ {
+  "from": 330.78,
+  "to": 331.92,
+  "sid": 150,
+  "location": 2,
+  "content": "最后在思考",
+  "music": 0.0
+ },
+ {
+  "from": 331.92,
+  "to": 334.74,
+  "sid": 151,
+  "location": 2,
+  "content": "自己为什么害怕最坏的那种情况发生",
+  "music": 0.0
+ },
+ {
+  "from": 334.74,
+  "to": 336.7,
+  "sid": 152,
+  "location": 2,
+  "content": "也就是说发生了会怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 336.7,
+  "to": 338.62,
+  "sid": 153,
+  "location": 2,
+  "content": "自己害怕的究竟是什么",
+  "music": 0.0
+ },
+ {
+  "from": 338.62,
+  "to": 340.24,
+  "sid": 154,
+  "location": 2,
+  "content": "这个方法可以帮助我们",
+  "music": 0.0
+ },
+ {
+  "from": 340.24,
+  "to": 343.68,
+  "sid": 155,
+  "location": 2,
+  "content": "把自己担忧的内容和原因非常呈现出来",
+  "music": 0.0
+ },
+ {
+  "from": 343.68,
+  "to": 346.02,
+  "sid": 156,
+  "location": 2,
+  "content": "这样做的目的是让我们真正理解",
+  "music": 0.0
+ },
+ {
+  "from": 346.02,
+  "to": 348.12,
+  "sid": 157,
+  "location": 2,
+  "content": "令自己担忧的侵入性思维",
+  "music": 0.0
+ },
+ {
+  "from": 348.12,
+  "to": 350.04,
+  "sid": 158,
+  "location": 2,
+  "content": "而不是在无意识的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 350.04,
+  "to": 352.47,
+  "sid": 159,
+  "location": 2,
+  "content": "被不知所起的情绪所桎梏",
+  "music": 0.0
+ },
+ {
+  "from": 352.47,
+  "to": 355.7,
+  "sid": 160,
+  "location": 2,
+  "content": "而且通常在践行完上面的三步以后",
+  "music": 0.0
+ },
+ {
+  "from": 355.7,
+  "to": 358.64,
+  "sid": 161,
+  "location": 2,
+  "content": "很多人此时就已经能够比较理性地认识到",
+  "music": 0.0
+ },
+ {
+  "from": 358.64,
+  "to": 360.74,
+  "sid": 162,
+  "location": 2,
+  "content": "担忧的不合理和非必要了",
+  "music": 0.0
+ },
+ {
+  "from": 360.74,
+  "to": 363.9,
+  "sid": 163,
+  "location": 2,
+  "content": "因为焦虑的根本原因在于模糊和未知",
+  "music": 0.0
+ },
+ {
+  "from": 363.9,
+  "to": 366.12,
+  "sid": 164,
+  "location": 2,
+  "content": "所以把它清晰化的过程本身",
+  "music": 0.0
+ },
+ {
+  "from": 366.12,
+  "to": 368.44,
+  "sid": 165,
+  "location": 2,
+  "content": "可以在一定程度上化解焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 368.44,
+  "to": 371.08,
+  "sid": 166,
+  "location": 2,
+  "content": "第二个方法是停止无效担忧",
+  "music": 0.0
+ },
+ {
+  "from": 371.08,
+  "to": 374.29,
+  "sid": 167,
+  "location": 2,
+  "content": "这个方法只需要大家记住几个核心原则",
+  "music": 0.0
+ },
+ {
+  "from": 374.29,
+  "to": 377.1,
+  "sid": 168,
+  "location": 2,
+  "content": "一停止担心没有答案的事情",
+  "music": 0.0
+ },
+ {
+  "from": 377.1,
+  "to": 378.86,
+  "sid": 169,
+  "location": 2,
+  "content": "想要识别它们很简单",
+  "music": 0.0
+ },
+ {
+  "from": 378.86,
+  "to": 380.15,
+  "sid": 170,
+  "location": 2,
+  "content": "只需要问问自己",
+  "music": 0.0
+ },
+ {
+  "from": 380.15,
+  "to": 381.86,
+  "sid": 171,
+  "location": 2,
+  "content": "这个问题的答案是什么",
+  "music": 0.0
+ },
+ {
+  "from": 381.86,
+  "to": 384.58,
+  "sid": 172,
+  "location": 2,
+  "content": "或者我怎么能知道这个问题的答案",
+  "music": 0.0
+ },
+ {
+  "from": 384.58,
+  "to": 386.02,
+  "sid": 173,
+  "location": 2,
+  "content": "二停止担忧",
+  "music": 0.0
+ },
+ {
+  "from": 386.02,
+  "to": 389.23,
+  "sid": 174,
+  "location": 2,
+  "content": "无法很快采取行动来推进或解决的事情",
+  "music": 0.0
+ },
+ {
+  "from": 389.23,
+  "to": 391.93,
+  "sid": 175,
+  "location": 2,
+  "content": "比如担心自己考不上理想的大学",
+  "music": 0.0
+ },
+ {
+  "from": 391.93,
+  "to": 393.56,
+  "sid": 176,
+  "location": 2,
+  "content": "辜负了老师和家长",
+  "music": 0.0
+ },
+ {
+  "from": 393.56,
+  "to": 395.27,
+  "sid": 177,
+  "location": 2,
+  "content": "这个担忧就是无效的",
+  "music": 0.0
+ },
+ {
+  "from": 395.27,
+  "to": 397.76,
+  "sid": 178,
+  "location": 2,
+  "content": "抱着这个想法导致的就是干着急",
+  "music": 0.0
+ },
+ {
+  "from": 397.76,
+  "to": 400.7,
+  "sid": 179,
+  "location": 2,
+  "content": "所以不如马上坐下来写完今天的作业",
+  "music": 0.0
+ },
+ {
+  "from": 400.7,
+  "to": 402.74,
+  "sid": 180,
+  "location": 2,
+  "content": "大家要记得有效担忧",
+  "music": 0.0
+ },
+ {
+  "from": 402.74,
+  "to": 405.76,
+  "sid": 181,
+  "location": 2,
+  "content": "几乎都能立刻转化为可以采取的行动",
+  "music": 0.0
+ },
+ {
+  "from": 405.76,
+  "to": 408.64,
+  "sid": 182,
+  "location": 2,
+  "content": "另外就是对于那些发生概率极小",
+  "music": 0.0
+ },
+ {
+  "from": 408.64,
+  "to": 411.64,
+  "sid": 183,
+  "location": 2,
+  "content": "并且有超出自己控制范围的事情的担忧",
+  "music": 0.0
+ },
+ {
+  "from": 411.64,
+  "to": 413.56,
+  "sid": 184,
+  "location": 2,
+  "content": "也是大家需要停下来的",
+  "music": 0.0
+ },
+ {
+  "from": 413.56,
+  "to": 417.35,
+  "sid": 185,
+  "location": 2,
+  "content": "最后一个方法是追求满意解而非最优解",
+  "music": 0.0
+ },
+ {
+  "from": 417.35,
+  "to": 418.34,
+  "sid": 186,
+  "location": 2,
+  "content": "研究发现",
+  "music": 0.0
+ },
+ {
+  "from": 418.34,
+  "to": 419.99,
+  "sid": 187,
+  "location": 2,
+  "content": "人有两种决策风格",
+  "music": 0.0
+ },
+ {
+  "from": 419.99,
+  "to": 421.87,
+  "sid": 188,
+  "location": 2,
+  "content": "一种是满意急停搜",
+  "music": 0.0
+ },
+ {
+  "from": 421.87,
+  "to": 424.3,
+  "sid": 189,
+  "location": 2,
+  "content": "另一种则是穷尽所有选项",
+  "music": 0.0
+ },
+ {
+  "from": 424.3,
+  "to": 426.19,
+  "sid": 190,
+  "location": 2,
+  "content": "并从中选择最优的",
+  "music": 0.0
+ },
+ {
+  "from": 426.19,
+  "to": 427.63,
+  "sid": 191,
+  "location": 2,
+  "content": "追求最优解的人",
+  "music": 0.0
+ },
+ {
+  "from": 427.63,
+  "to": 429.98,
+  "sid": 192,
+  "location": 2,
+  "content": "即使找到了自己觉得还不错的选项",
+  "music": 0.0
+ },
+ {
+  "from": 429.98,
+  "to": 432.26,
+  "sid": 193,
+  "location": 2,
+  "content": "仍然会把它们放进备用箱里",
+  "music": 0.0
+ },
+ {
+  "from": 432.26,
+  "to": 435.88,
+  "sid": 194,
+  "location": 2,
+  "content": "等检索所有可能的选项后再做出最终选择",
+  "music": 0.0
+ },
+ {
+  "from": 435.88,
+  "to": 437.86,
+  "sid": 195,
+  "location": 2,
+  "content": "然而这个过程耗时巨大",
+  "music": 0.0
+ },
+ {
+  "from": 437.86,
+  "to": 439.6,
+  "sid": 196,
+  "location": 2,
+  "content": "精力损耗极其严重",
+  "music": 0.0
+ },
+ {
+  "from": 439.6,
+  "to": 442.15,
+  "sid": 197,
+  "location": 2,
+  "content": "人只会在其中越来越焦虑烦躁",
+  "music": 0.0
+ },
+ {
+  "from": 442.15,
+  "to": 444.16,
+  "sid": 198,
+  "location": 2,
+  "content": "最后极大可能索性放弃",
+  "music": 0.0
+ },
+ {
+  "from": 444.16,
+  "to": 445.42,
+  "sid": 199,
+  "location": 2,
+  "content": "不做任何选择",
+  "music": 0.0
+ },
+ {
+  "from": 445.42,
+  "to": 447.46,
+  "sid": 200,
+  "location": 2,
+  "content": "所以从身边的小事开始",
+  "music": 0.0
+ },
+ {
+  "from": 447.46,
+  "to": 449.08,
+  "sid": 201,
+  "location": 2,
+  "content": "找到一个还不错的选项",
+  "music": 0.0
+ },
+ {
+  "from": 449.08,
+  "to": 451.6,
+  "sid": 202,
+  "location": 2,
+  "content": "就果断选择忘掉其他的选项",
+  "music": 0.0
+ },
+ {
+  "from": 451.6,
+  "to": 454.42,
+  "sid": 203,
+  "location": 2,
+  "content": "大家要充分发挥禀赋效应的威力呀",
+  "music": 0.0
+ },
+ {
+  "from": 454.42,
+  "to": 456.62,
+  "sid": 204,
+  "location": 2,
+  "content": "接下来是行为层面的方法",
+  "music": 0.0
+ },
+ {
+  "from": 456.62,
+  "to": 460.28,
+  "sid": 205,
+  "location": 2,
+  "content": "首先介绍的是一个基于行为实践的日常体察法",
+  "music": 0.0
+ },
+ {
+  "from": 460.28,
+  "to": 461.78,
+  "sid": 206,
+  "location": 2,
+  "content": "这个方法的核心目的",
+  "music": 0.0
+ },
+ {
+  "from": 461.78,
+  "to": 464.54,
+  "sid": 207,
+  "location": 2,
+  "content": "就是通过有意地创造一种不确定状态",
+  "music": 0.0
+ },
+ {
+  "from": 464.54,
+  "to": 466.91,
+  "sid": 208,
+  "location": 2,
+  "content": "从而帮助一个人通过行为实践",
+  "music": 0.0
+ },
+ {
+  "from": 466.91,
+  "to": 469.82,
+  "sid": 209,
+  "location": 2,
+  "content": "矫正跟不确定性相关的无效信念",
+  "music": 0.0
+ },
+ {
+  "from": 469.82,
+  "to": 472.5,
+  "sid": 210,
+  "location": 2,
+  "content": "我用一个具体的例子来说明做法",
+  "music": 0.0
+ },
+ {
+  "from": 472.5,
+  "to": 475.05,
+  "sid": 211,
+  "location": 2,
+  "content": "你如果不提前了解全部的信息",
+  "music": 0.0
+ },
+ {
+  "from": 475.05,
+  "to": 476.94,
+  "sid": 212,
+  "location": 2,
+  "content": "我可能会有不愉快的体验",
+  "music": 0.0
+ },
+ {
+  "from": 476.94,
+  "to": 478.16,
+  "sid": 213,
+  "location": 2,
+  "content": "这个信念为例",
+  "music": 0.0
+ },
+ {
+  "from": 478.16,
+  "to": 480.62,
+  "sid": 214,
+  "location": 2,
+  "content": "在第一天按照自己平时的做法",
+  "music": 0.0
+ },
+ {
+  "from": 480.62,
+  "to": 483.24,
+  "sid": 215,
+  "location": 2,
+  "content": "尽可能地做出前面提到的安全行为",
+  "music": 0.0
+ },
+ {
+  "from": 483.24,
+  "to": 484.83,
+  "sid": 216,
+  "location": 2,
+  "content": "让自己尽情焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 484.83,
+  "to": 486.02,
+  "sid": 217,
+  "location": 2,
+  "content": "一天结束后",
+  "music": 0.0
+ },
+ {
+  "from": 486.02,
+  "to": 489.44,
+  "sid": 218,
+  "location": 2,
+  "content": "写下自己在经历跟这个信念相关的所有事件后",
+  "music": 0.0
+ },
+ {
+  "from": 489.44,
+  "to": 490.46,
+  "sid": 219,
+  "location": 2,
+  "content": "的整体感受",
+  "music": 0.0
+ },
+ {
+  "from": 490.46,
+  "to": 492.32,
+  "sid": 220,
+  "location": 2,
+  "content": "以及今天是否愉悦",
+  "music": 0.0
+ },
+ {
+  "from": 492.32,
+  "to": 495.86,
+  "sid": 221,
+  "location": 2,
+  "content": "但到了第二天需要克制自己大量搜寻信息",
+  "music": 0.0
+ },
+ {
+  "from": 495.86,
+  "to": 497.84,
+  "sid": 222,
+  "location": 2,
+  "content": "以获得确定性的安全行为",
+  "music": 0.0
+ },
+ {
+  "from": 497.84,
+  "to": 500.62,
+  "sid": 223,
+  "location": 2,
+  "content": "比如在选择餐厅或者点外卖的时候",
+  "music": 0.0
+ },
+ {
+  "from": 500.62,
+  "to": 502.24,
+  "sid": 224,
+  "location": 2,
+  "content": "找一家以前没吃过",
+  "music": 0.0
+ },
+ {
+  "from": 502.24,
+  "to": 504.16,
+  "sid": 225,
+  "location": 2,
+  "content": "但大致看起来还不错的店",
+  "music": 0.0
+ },
+ {
+  "from": 504.16,
+  "to": 505.72,
+  "sid": 226,
+  "location": 2,
+  "content": "或者是以前吃过的店",
+  "music": 0.0
+ },
+ {
+  "from": 505.72,
+  "to": 507.49,
+  "sid": 227,
+  "location": 2,
+  "content": "但点了没吃过的菜也行",
+  "music": 0.0
+ },
+ {
+  "from": 507.49,
+  "to": 508.6,
+  "sid": 228,
+  "location": 2,
+  "content": "这里要注意",
+  "music": 0.0
+ },
+ {
+  "from": 508.6,
+  "to": 509.64,
+  "sid": 229,
+  "location": 2,
+  "content": "在这一天中",
+  "music": 0.0
+ },
+ {
+  "from": 509.64,
+  "to": 511.74,
+  "sid": 230,
+  "location": 2,
+  "content": "每一件相关的事件结束后",
+  "music": 0.0
+ },
+ {
+  "from": 511.74,
+  "to": 514.38,
+  "sid": 231,
+  "location": 2,
+  "content": "都立刻写下这件事的结果如何",
+  "music": 0.0
+ },
+ {
+  "from": 514.38,
+  "to": 516.0,
+  "sid": 232,
+  "location": 2,
+  "content": "你从中学到了什么",
+  "music": 0.0
+ },
+ {
+  "from": 516.0,
+  "to": 517.98,
+  "sid": 233,
+  "location": 2,
+  "content": "最后在一天结束后",
+  "music": 0.0
+ },
+ {
+  "from": 517.98,
+  "to": 520.56,
+  "sid": 234,
+  "location": 2,
+  "content": "像前一天一样记录整体的感受",
+  "music": 0.0
+ },
+ {
+  "from": 520.56,
+  "to": 521.94,
+  "sid": 235,
+  "location": 2,
+  "content": "今天是否愉悦",
+  "music": 0.0
+ },
+ {
+  "from": 521.94,
+  "to": 523.74,
+  "sid": 236,
+  "location": 2,
+  "content": "还要额外再加上一条",
+  "music": 0.0
+ },
+ {
+  "from": 523.74,
+  "to": 526.18,
+  "sid": 237,
+  "location": 2,
+  "content": "问问自己对之前的那个信念",
+  "music": 0.0
+ },
+ {
+  "from": 526.18,
+  "to": 528.84,
+  "sid": 238,
+  "location": 2,
+  "content": "现在相信的程度是百分之多少",
+  "music": 0.0
+ },
+ {
+  "from": 528.84,
+  "to": 531.51,
+  "sid": 239,
+  "location": 2,
+  "content": "这个日常体察是可以长期进行的",
+  "music": 0.0
+ },
+ {
+  "from": 531.51,
+  "to": 532.74,
+  "sid": 240,
+  "location": 2,
+  "content": "随着时间推移",
+  "music": 0.0
+ },
+ {
+  "from": 532.74,
+  "to": 535.78,
+  "sid": 241,
+  "location": 2,
+  "content": "这个方法的最终目标是跨越多种情境",
+  "music": 0.0
+ },
+ {
+  "from": 535.78,
+  "to": 537.91,
+  "sid": 242,
+  "location": 2,
+  "content": "比如工作家庭和社交",
+  "music": 0.0
+ },
+ {
+  "from": 537.91,
+  "to": 540.7,
+  "sid": 243,
+  "location": 2,
+  "content": "从小事件转移到大事件观察",
+  "music": 0.0
+ },
+ {
+  "from": 540.7,
+  "to": 541.42,
+  "sid": 244,
+  "location": 2,
+  "content": "并意识到",
+  "music": 0.0
+ },
+ {
+  "from": 541.42,
+  "to": 544.5,
+  "sid": 245,
+  "location": 2,
+  "content": "大多数不确定情境的最后结果并不糟糕",
+  "music": 0.0
+ },
+ {
+  "from": 544.5,
+  "to": 546.87,
+  "sid": 246,
+  "location": 2,
+  "content": "或者是处于可容忍范围内的",
+  "music": 0.0
+ },
+ {
+  "from": 546.87,
+  "to": 549.93,
+  "sid": 247,
+  "location": 2,
+  "content": "或者是可以有效管理那些不想要的结果",
+  "music": 0.0
+ },
+ {
+  "from": 549.93,
+  "to": 551.22,
+  "sid": 248,
+  "location": 2,
+  "content": "它的原理在于",
+  "music": 0.0
+ },
+ {
+  "from": 551.22,
+  "to": 552.74,
+  "sid": 249,
+  "location": 2,
+  "content": "个体会逐渐明白",
+  "music": 0.0
+ },
+ {
+  "from": 552.74,
+  "to": 554.3,
+  "sid": 250,
+  "location": 2,
+  "content": "在面对不确定性时",
+  "music": 0.0
+ },
+ {
+  "from": 554.3,
+  "to": 556.88,
+  "sid": 251,
+  "location": 2,
+  "content": "所产生的结果和预期并不一致",
+  "music": 0.0
+ },
+ {
+  "from": 556.88,
+  "to": 559.25,
+  "sid": 252,
+  "location": 2,
+  "content": "暴露在不确定性以及担忧中",
+  "music": 0.0
+ },
+ {
+  "from": 559.25,
+  "to": 561.06,
+  "sid": 253,
+  "location": 2,
+  "content": "但不再实施安全行为",
+  "music": 0.0
+ },
+ {
+  "from": 561.06,
+  "to": 563.37,
+  "sid": 254,
+  "location": 2,
+  "content": "会节省出大量的时间和精力",
+  "music": 0.0
+ },
+ {
+  "from": 563.37,
+  "to": 565.78,
+  "sid": 255,
+  "location": 2,
+  "content": "让自己的生活质量逐渐向好",
+  "music": 0.0
+ },
+ {
+  "from": 565.78,
+  "to": 567.7,
+  "sid": 256,
+  "location": 2,
+  "content": "而且越来越多的成功经验",
+  "music": 0.0
+ },
+ {
+  "from": 567.7,
+  "to": 569.89,
+  "sid": 257,
+  "location": 2,
+  "content": "会强化一个人欣喜者的信念",
+  "music": 0.0
+ },
+ {
+  "from": 569.89,
+  "to": 571.87,
+  "sid": 258,
+  "location": 2,
+  "content": "那就是焦虑不可怕",
+  "music": 0.0
+ },
+ {
+  "from": 571.87,
+  "to": 573.86,
+  "sid": 259,
+  "location": 2,
+  "content": "焦虑可以有效地处理",
+  "music": 0.0
+ },
+ {
+  "from": 573.86,
+  "to": 575.84,
+  "sid": 260,
+  "location": 2,
+  "content": "第二种焦虑延迟法",
+  "music": 0.0
+ },
+ {
+  "from": 575.84,
+  "to": 578.06,
+  "sid": 261,
+  "location": 2,
+  "content": "它是指将你所有的担忧和焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 578.06,
+  "to": 580.12,
+  "sid": 262,
+  "location": 2,
+  "content": "固定在一天中的某一个时间段",
+  "music": 0.0
+ },
+ {
+  "from": 580.12,
+  "to": 581.62,
+  "sid": 263,
+  "location": 2,
+  "content": "因为焦虑水平高的人",
+  "music": 0.0
+ },
+ {
+  "from": 581.62,
+  "to": 585.12,
+  "sid": 264,
+  "location": 2,
+  "content": "容易陷入如果什么什么怎么办的连锁性担忧里",
+  "music": 0.0
+ },
+ {
+  "from": 585.12,
+  "to": 587.28,
+  "sid": 265,
+  "location": 2,
+  "content": "由此产生持续的焦虑不安",
+  "music": 0.0
+ },
+ {
+  "from": 587.28,
+  "to": 589.18,
+  "sid": 266,
+  "location": 2,
+  "content": "可能数小时才会结束",
+  "music": 0.0
+ },
+ {
+  "from": 589.18,
+  "to": 592.94,
+  "sid": 267,
+  "location": 2,
+  "content": "所以要规定自己只能在特定的时间担忧和焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 592.94,
+  "to": 595.04,
+  "sid": 268,
+  "location": 2,
+  "content": "如果感到自己又要开始担忧",
+  "music": 0.0
+ },
+ {
+  "from": 595.04,
+  "to": 596.12,
+  "sid": 269,
+  "location": 2,
+  "content": "就强迫自己",
+  "music": 0.0
+ },
+ {
+  "from": 596.12,
+  "to": 599.82,
+  "sid": 270,
+  "location": 2,
+  "content": "只能延后到每天晚上7~8点这一小时这么做",
+  "music": 0.0
+ },
+ {
+  "from": 599.82,
+  "to": 602.79,
+  "sid": 271,
+  "location": 2,
+  "content": "这是传统认知行为治疗中的一项技术",
+  "music": 0.0
+ },
+ {
+  "from": 602.79,
+  "to": 604.5,
+  "sid": 272,
+  "location": 2,
+  "content": "当你真的这么做的时候",
+  "music": 0.0
+ },
+ {
+  "from": 604.5,
+  "to": 606.38,
+  "sid": 273,
+  "location": 2,
+  "content": "会发现实际情况是",
+  "music": 0.0
+ },
+ {
+  "from": 606.38,
+  "to": 608.84,
+  "sid": 274,
+  "location": 2,
+  "content": "当预先设定的焦虑时间到来时",
+  "music": 0.0
+ },
+ {
+  "from": 608.84,
+  "to": 610.34,
+  "sid": 275,
+  "location": 2,
+  "content": "你并不一定会焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 610.34,
+  "to": 612.96,
+  "sid": 276,
+  "location": 2,
+  "content": "或者令你焦虑的内容已经发生变化了",
+  "music": 0.0
+ },
+ {
+  "from": 612.96,
+  "to": 615.87,
+  "sid": 277,
+  "location": 2,
+  "content": "这种体察正是这个方法的原理所在",
+  "music": 0.0
+ },
+ {
+  "from": 615.87,
+  "to": 618.52,
+  "sid": 278,
+  "location": 2,
+  "content": "随着对焦虑延迟能力的意识增强",
+  "music": 0.0
+ },
+ {
+  "from": 618.52,
+  "to": 620.44,
+  "sid": 279,
+  "location": 2,
+  "content": "人们认为焦虑是不可控的",
+  "music": 0.0
+ },
+ {
+  "from": 620.44,
+  "to": 622.3,
+  "sid": 280,
+  "location": 2,
+  "content": "错误信念就会被削弱",
+  "music": 0.0
+ },
+ {
+  "from": 622.3,
+  "to": 624.1,
+  "sid": 281,
+  "location": 2,
+  "content": "同时他也能意识到",
+  "music": 0.0
+ },
+ {
+  "from": 624.1,
+  "to": 627.04,
+  "sid": 282,
+  "location": 2,
+  "content": "一天中的不同时段诱发焦虑的想法",
+  "music": 0.0
+ },
+ {
+  "from": 627.04,
+  "to": 629.08,
+  "sid": 283,
+  "location": 2,
+  "content": "也像浮云一样来来去去",
+  "music": 0.0
+ },
+ {
+  "from": 629.08,
+  "to": 630.58,
+  "sid": 284,
+  "location": 2,
+  "content": "不顾着于他的时候",
+  "music": 0.0
+ },
+ {
+  "from": 630.58,
+  "to": 632.23,
+  "sid": 285,
+  "location": 2,
+  "content": "他们自己就会消失",
+  "music": 0.0
+ },
+ {
+  "from": 632.23,
+  "to": 634.26,
+  "sid": 286,
+  "location": 2,
+  "content": "视频最后想对大家说",
+  "music": 0.0
+ },
+ {
+  "from": 634.26,
+  "to": 636.3,
+  "sid": 287,
+  "location": 2,
+  "content": "不确定性容忍度低的个体",
+  "music": 0.0
+ },
+ {
+  "from": 636.3,
+  "to": 638.58,
+  "sid": 288,
+  "location": 2,
+  "content": "会耗费大量精力搜寻信息",
+  "music": 0.0
+ },
+ {
+  "from": 638.58,
+  "to": 640.53,
+  "sid": 289,
+  "location": 2,
+  "content": "反复检查和确认等等",
+  "music": 0.0
+ },
+ {
+  "from": 640.53,
+  "to": 643.92,
+  "sid": 290,
+  "location": 2,
+  "content": "也会因为担心出差错而错过许多人身体验",
+  "music": 0.0
+ },
+ {
+  "from": 643.92,
+  "to": 647.46,
+  "sid": 291,
+  "location": 2,
+  "content": "我不否认这些行为确实有助于防止事情出错",
+  "music": 0.0
+ },
+ {
+  "from": 647.46,
+  "to": 649.56,
+  "sid": 292,
+  "location": 2,
+  "content": "但焦虑和担忧不能预测",
+  "music": 0.0
+ },
+ {
+  "from": 649.56,
+  "to": 651.92,
+  "sid": 293,
+  "location": 2,
+  "content": "也不能防止糟糕事件的发生",
+  "music": 0.0
+ },
+ {
+  "from": 651.92,
+  "to": 653.18,
+  "sid": 294,
+  "location": 2,
+  "content": "反而持续地担忧",
+  "music": 0.0
+ },
+ {
+  "from": 653.18,
+  "to": 655.01,
+  "sid": 295,
+  "location": 2,
+  "content": "严重影响你的行动效率",
+  "music": 0.0
+ },
+ {
+  "from": 655.01,
+  "to": 656.75,
+  "sid": 296,
+  "location": 2,
+  "content": "诱发主观情绪痛苦",
+  "music": 0.0
+ },
+ {
+  "from": 656.75,
+  "to": 658.5,
+  "sid": 297,
+  "location": 2,
+  "content": "并且损害社会功能",
+  "music": 0.0
+ },
+ {
+  "from": 658.5,
+  "to": 660.84,
+  "sid": 298,
+  "location": 2,
+  "content": "没有人能完全控制不确定性",
+  "music": 0.0
+ },
+ {
+  "from": 660.84,
+  "to": 663.96,
+  "sid": 299,
+  "location": 2,
+  "content": "恐惧和担忧的情绪也无法回避或消除",
+  "music": 0.0
+ },
+ {
+  "from": 663.96,
+  "to": 665.55,
+  "sid": 300,
+  "location": 2,
+  "content": "我们只能管理他们",
+  "music": 0.0
+ },
+ {
+  "from": 665.55,
+  "to": 668.82,
+  "sid": 301,
+  "location": 2,
+  "content": "其中的关键就是学会容忍和接纳不确定性",
+  "music": 0.0
+ },
+ {
+  "from": 668.82,
+  "to": 670.05,
+  "sid": 302,
+  "location": 2,
+  "content": "与他和平相处",
+  "music": 0.0
+ },
+ {
+  "from": 670.05,
+  "to": 672.5,
+  "sid": 303,
+  "location": 2,
+  "content": "而不是停留在自己的安全行为里",
+  "music": 0.0
+ },
+ {
+  "from": 672.5,
+  "to": 675.08,
+  "sid": 304,
+  "location": 2,
+  "content": "痛苦而突然的度过宝贵的时光",
+  "music": 0.0
+ },
+ {
+  "from": 675.08,
+  "to": 677.57,
+  "sid": 305,
+  "location": 2,
+  "content": "好啦以上就是本期全部内容",
+  "music": 0.0
+ },
+ {
+  "from": 677.57,
+  "to": 679.04,
+  "sid": 306,
+  "location": 2,
+  "content": "如果觉得对你有帮助",
+  "music": 0.0
+ },
+ {
+  "from": 679.04,
+  "to": 680.36,
+  "sid": 307,
+  "location": 2,
+  "content": "记得一键三连呀",
+  "music": 0.0
+ },
+ {
+  "from": 680.36,
+  "to": 682.37,
+  "sid": 308,
+  "location": 2,
+  "content": "后续会做很多系列内容",
+  "music": 0.0
+ },
+ {
+  "from": 682.37,
+  "to": 683.9,
+  "sid": 309,
+  "location": 2,
+  "content": "大家可以点个关注",
+  "music": 0.0
+ },
+ {
+  "from": 683.9,
+  "to": 685.25,
+  "sid": 310,
+  "location": 2,
+  "content": "这里是思维悬搁",
+  "music": 0.0
+ },
+ {
+  "from": 685.25,
+  "to": 686.92,
+  "sid": 311,
+  "location": 2,
+  "content": "下次见啦",
+  "music": 0.0
+ }
+]

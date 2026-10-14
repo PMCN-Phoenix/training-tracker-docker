@@ -1,0 +1,2010 @@
+[
+ {
+  "from": 0.08,
+  "to": 2.12,
+  "sid": 1,
+  "location": 2,
+  "content": "给我三秒钟问你一个问题",
+  "music": 0.0
+ },
+ {
+  "from": 2.12,
+  "to": 4.18,
+  "sid": 2,
+  "location": 2,
+  "content": "5年前让你最痛的那件事",
+  "music": 0.0
+ },
+ {
+  "from": 4.18,
+  "to": 7.72,
+  "sid": 3,
+  "location": 2,
+  "content": "你现在还在用当时一样的方式处理同类问题吗",
+  "music": 0.0
+ },
+ {
+  "from": 7.72,
+  "to": 8.88,
+  "sid": 4,
+  "location": 2,
+  "content": "不用急着回答",
+  "music": 0.0
+ },
+ {
+  "from": 8.88,
+  "to": 10.98,
+  "sid": 5,
+  "location": 2,
+  "content": "大多数人在心里已经有了答案",
+  "music": 0.0
+ },
+ {
+  "from": 10.98,
+  "to": 13.15,
+  "sid": 6,
+  "location": 2,
+  "content": "只是不想承认同样的坑",
+  "music": 0.0
+ },
+ {
+  "from": 13.15,
+  "to": 14.61,
+  "sid": 7,
+  "location": 2,
+  "content": "踩两次叫不幸",
+  "music": 0.0
+ },
+ {
+  "from": 14.61,
+  "to": 18.66,
+  "sid": 8,
+  "location": 2,
+  "content": "踩三次叫选择踩无数次叫没有复盘过",
+  "music": 0.0
+ },
+ {
+  "from": 18.66,
+  "to": 20.58,
+  "sid": 9,
+  "location": 2,
+  "content": "复盘这两个字你一定听过",
+  "music": 0.0
+ },
+ {
+  "from": 20.58,
+  "to": 21.76,
+  "sid": 10,
+  "location": 2,
+  "content": "甚至可能用过",
+  "music": 0.0
+ },
+ {
+  "from": 21.76,
+  "to": 23.58,
+  "sid": 11,
+  "location": 2,
+  "content": "但我可以非常确定的告诉你",
+  "music": 0.0
+ },
+ {
+  "from": 23.58,
+  "to": 25.83,
+  "sid": 12,
+  "location": 2,
+  "content": "你大概率从来没有做对过一次",
+  "music": 0.0
+ },
+ {
+  "from": 25.83,
+  "to": 30.47,
+  "sid": 13,
+  "location": 2,
+  "content": "因为真正的深度复盘是一个需要你主动对抗自己大脑本能的动作",
+  "music": 0.0
+ },
+ {
+  "from": 30.47,
+  "to": 31.69,
+  "sid": 14,
+  "location": 2,
+  "content": "它会让你不舒服",
+  "music": 0.0
+ },
+ {
+  "from": 31.69,
+  "to": 32.55,
+  "sid": 15,
+  "location": 2,
+  "content": "会让你难受",
+  "music": 0.0
+ },
+ {
+  "from": 32.55,
+  "to": 33.71,
+  "sid": 16,
+  "location": 2,
+  "content": "会让你想逃",
+  "music": 0.0
+ },
+ {
+  "from": 33.71,
+  "to": 34.93,
+  "sid": 17,
+  "location": 2,
+  "content": "而正是因为难",
+  "music": 0.0
+ },
+ {
+  "from": 34.93,
+  "to": 35.95,
+  "sid": 18,
+  "location": 2,
+  "content": "所以做对的人",
+  "music": 0.0
+ },
+ {
+  "from": 35.95,
+  "to": 37.45,
+  "sid": 19,
+  "location": 2,
+  "content": "极少做对了的人",
+  "music": 0.0
+ },
+ {
+  "from": 37.45,
+  "to": 39.63,
+  "sid": 20,
+  "location": 2,
+  "content": "命运走向和其他人截然不同",
+  "music": 0.0
+ },
+ {
+  "from": 39.63,
+  "to": 40.59,
+  "sid": 21,
+  "location": 2,
+  "content": "什么叫做对",
+  "music": 0.0
+ },
+ {
+  "from": 40.59,
+  "to": 41.7,
+  "sid": 22,
+  "location": 2,
+  "content": "难在哪一步",
+  "music": 0.0
+ },
+ {
+  "from": 41.7,
+  "to": 46.06,
+  "sid": 23,
+  "location": 2,
+  "content": "为什么越聪明的人越容易在这件事上自欺欺人",
+  "music": 0.0
+ },
+ {
+  "from": 50.22,
+  "to": 52.72,
+  "sid": 24,
+  "location": 2,
+  "content": "我们从小被教育说经验很宝贵",
+  "music": 0.0
+ },
+ {
+  "from": 52.72,
+  "to": 54.4,
+  "sid": 25,
+  "location": 2,
+  "content": "做的多了自然就会了",
+  "music": 0.0
+ },
+ {
+  "from": 54.4,
+  "to": 56.11,
+  "sid": 26,
+  "location": 2,
+  "content": "吃过亏就能长记性",
+  "music": 0.0
+ },
+ {
+  "from": 56.11,
+  "to": 58.09,
+  "sid": 27,
+  "location": 2,
+  "content": "但你仔细去观察身边的人",
+  "music": 0.0
+ },
+ {
+  "from": 58.09,
+  "to": 59.99,
+  "sid": 28,
+  "location": 2,
+  "content": "会发现一个很残酷的事实",
+  "music": 0.0
+ },
+ {
+  "from": 59.99,
+  "to": 64.39,
+  "sid": 29,
+  "location": 2,
+  "content": "大多数人的所谓经验只是把同一套动作重复了很多遍而已",
+  "music": 0.0
+ },
+ {
+  "from": 64.39,
+  "to": 66.29,
+  "sid": 30,
+  "location": 2,
+  "content": "一个人开了10年出租车",
+  "music": 0.0
+ },
+ {
+  "from": 66.29,
+  "to": 69.31,
+  "sid": 31,
+  "location": 2,
+  "content": "不代表他比开了3年的人更懂驾驶策略",
+  "music": 0.0
+ },
+ {
+  "from": 69.31,
+  "to": 72.52,
+  "sid": 32,
+  "location": 2,
+  "content": "他可能只是用第一年学会的东西又跑了9年",
+  "music": 0.0
+ },
+ {
+  "from": 72.52,
+  "to": 74.2,
+  "sid": 33,
+  "location": 2,
+  "content": "一个人做了8年销售",
+  "music": 0.0
+ },
+ {
+  "from": 74.2,
+  "to": 75.84,
+  "sid": 34,
+  "location": 2,
+  "content": "业绩还在中游晃荡",
+  "music": 0.0
+ },
+ {
+  "from": 75.84,
+  "to": 79.199,
+  "sid": 35,
+  "location": 2,
+  "content": "他的8年经验很可能就是一年经验用了八次",
+  "music": 0.0
+ },
+ {
+  "from": 79.199,
+  "to": 83.079,
+  "sid": 36,
+  "location": 2,
+  "content": "心理学家安德斯艾利克森在研究专家型人才时",
+  "music": 0.0
+ },
+ {
+  "from": 83.079,
+  "to": 84.84,
+  "sid": 37,
+  "location": 2,
+  "content": "提出过一个很关键的发现",
+  "music": 0.0
+ },
+ {
+  "from": 84.84,
+  "to": 86.72,
+  "sid": 38,
+  "location": 2,
+  "content": "单纯的重复不会带来进步",
+  "music": 0.0
+ },
+ {
+  "from": 86.72,
+  "to": 89.259,
+  "sid": 39,
+  "location": 2,
+  "content": "只有刻意练习才能突破能力瓶颈",
+  "music": 0.0
+ },
+ {
+  "from": 89.259,
+  "to": 93.97,
+  "sid": 40,
+  "location": 2,
+  "content": "而刻意练习的核心环节就是每一次动作之后的深度复盘",
+  "music": 0.0
+ },
+ {
+  "from": 93.97,
+  "to": 95.15,
+  "sid": 41,
+  "location": 2,
+  "content": "没有复盘的经历",
+  "music": 0.0
+ },
+ {
+  "from": 95.15,
+  "to": 96.47,
+  "sid": 42,
+  "location": 2,
+  "content": "只是时间的堆积",
+  "music": 0.0
+ },
+ {
+  "from": 96.47,
+  "to": 97.93,
+  "sid": 43,
+  "location": 2,
+  "content": "你在里面泡得再久",
+  "music": 0.0
+ },
+ {
+  "from": 97.93,
+  "to": 100.07,
+  "sid": 44,
+  "location": 2,
+  "content": "认知水位也不会自动上涨",
+  "music": 0.0
+ },
+ {
+  "from": 100.07,
+  "to": 101.97,
+  "sid": 45,
+  "location": 2,
+  "content": "曾国藩年轻时脾气暴躁",
+  "music": 0.0
+ },
+ {
+  "from": 105.259,
+  "to": 107.699,
+  "sid": 46,
+  "location": 2,
+  "content": "但他有一个坚持了几十年的习惯",
+  "music": 0.0
+ },
+ {
+  "from": 107.699,
+  "to": 108.659,
+  "sid": 47,
+  "location": 2,
+  "content": "每天写日记",
+  "music": 0.0
+ },
+ {
+  "from": 108.659,
+  "to": 109.819,
+  "sid": 48,
+  "location": 2,
+  "content": "不是记流水账",
+  "music": 0.0
+ },
+ {
+  "from": 109.819,
+  "to": 111.479,
+  "sid": 49,
+  "location": 2,
+  "content": "而是把当天说错的话",
+  "music": 0.0
+ },
+ {
+  "from": 111.479,
+  "to": 114.19,
+  "sid": 50,
+  "location": 2,
+  "content": "做错的判断暴露出来的性格缺陷",
+  "music": 0.0
+ },
+ {
+  "from": 114.19,
+  "to": 115.39,
+  "sid": 51,
+  "location": 2,
+  "content": "一条一条拎出来",
+  "music": 0.0
+ },
+ {
+  "from": 115.39,
+  "to": 116.31,
+  "sid": 52,
+  "location": 2,
+  "content": "反复审视",
+  "music": 0.0
+ },
+ {
+  "from": 116.31,
+  "to": 119.74,
+  "sid": 53,
+  "location": 2,
+  "content": "他在日记里骂自己的狠劲比任何敌人都毒",
+  "music": 0.0
+ },
+ {
+  "from": 119.74,
+  "to": 122.35,
+  "sid": 54,
+  "location": 2,
+  "content": "正是这种日复一日的自我拆解",
+  "music": 0.0
+ },
+ {
+  "from": 122.35,
+  "to": 124.49,
+  "sid": 55,
+  "location": 2,
+  "content": "让他从一个资质平平的笨人",
+  "music": 0.0
+ },
+ {
+  "from": 124.49,
+  "to": 127.13,
+  "sid": 56,
+  "location": 2,
+  "content": "一步步磨成了晚清最能扛事的人",
+  "music": 0.0
+ },
+ {
+  "from": 127.13,
+  "to": 128.57,
+  "sid": 57,
+  "location": 2,
+  "content": "经验本身不值钱",
+  "music": 0.0
+ },
+ {
+  "from": 128.57,
+  "to": 130.519,
+  "sid": 58,
+  "location": 2,
+  "content": "被审视过的经验才值钱",
+  "music": 0.0
+ },
+ {
+  "from": 130.519,
+  "to": 132.239,
+  "sid": 59,
+  "location": 2,
+  "content": "一个人如果只是经历过",
+  "music": 0.0
+ },
+ {
+  "from": 132.239,
+  "to": 136.039,
+  "sid": 60,
+  "location": 2,
+  "content": "却从来没有停下来拆解过那段经历里自己的判断链条",
+  "music": 0.0
+ },
+ {
+  "from": 136.039,
+  "to": 138.05,
+  "sid": 61,
+  "location": 2,
+  "content": "情绪波动和选择逻辑",
+  "music": 0.0
+ },
+ {
+  "from": 138.05,
+  "to": 140.53,
+  "sid": 62,
+  "location": 2,
+  "content": "那这段经历就像一场没有被消化的饭",
+  "music": 0.0
+ },
+ {
+  "from": 140.53,
+  "to": 141.29,
+  "sid": 63,
+  "location": 2,
+  "content": "吃下去了",
+  "music": 0.0
+ },
+ {
+  "from": 141.29,
+  "to": 142.77,
+  "sid": 64,
+  "location": 2,
+  "content": "但营养一点没吸收",
+  "music": 0.0
+ },
+ {
+  "from": 142.77,
+  "to": 144.83,
+  "sid": 65,
+  "location": 2,
+  "content": "那为什么多数人做不到这一步",
+  "music": 0.0
+ },
+ {
+  "from": 144.83,
+  "to": 148.19,
+  "sid": 66,
+  "location": 2,
+  "content": "问题出在一个很多人意识不到的地方",
+  "music": 0.0
+ },
+ {
+  "from": 149.46,
+  "to": 152.04,
+  "sid": 67,
+  "location": 2,
+  "content": "复盘这件事最大的障碍不是没时间",
+  "music": 0.0
+ },
+ {
+  "from": 152.04,
+  "to": 153.12,
+  "sid": 68,
+  "location": 2,
+  "content": "也不是没方法",
+  "music": 0.0
+ },
+ {
+  "from": 153.12,
+  "to": 156.09,
+  "sid": 69,
+  "location": 2,
+  "content": "而是你的大脑会拼命阻止你看到真相",
+  "music": 0.0
+ },
+ {
+  "from": 156.09,
+  "to": 157.41,
+  "sid": 70,
+  "location": 2,
+  "content": "这话听着夸张",
+  "music": 0.0
+ },
+ {
+  "from": 157.41,
+  "to": 158.91,
+  "sid": 71,
+  "location": 2,
+  "content": "但从脑科学角度看",
+  "music": 0.0
+ },
+ {
+  "from": 158.91,
+  "to": 159.91,
+  "sid": 72,
+  "location": 2,
+  "content": "完全成立",
+  "music": 0.0
+ },
+ {
+  "from": 159.91,
+  "to": 163.23,
+  "sid": 73,
+  "location": 2,
+  "content": "人类大脑有一套极其强大的自我保护机制",
+  "music": 0.0
+ },
+ {
+  "from": 163.23,
+  "to": 165.87,
+  "sid": 74,
+  "location": 2,
+  "content": "心理学上叫认知失调修复机制",
+  "music": 0.0
+ },
+ {
+  "from": 165.87,
+  "to": 168.6,
+  "sid": 75,
+  "location": 2,
+  "content": "简单说就是当你做了一个错误决定",
+  "music": 0.0
+ },
+ {
+  "from": 168.6,
+  "to": 169.04,
+  "sid": 76,
+  "location": 2,
+  "content": "事后",
+  "music": 0.0
+ },
+ {
+  "from": 169.04,
+  "to": 170.76,
+  "sid": 77,
+  "location": 2,
+  "content": "大脑不会老老实实告诉你",
+  "music": 0.0
+ },
+ {
+  "from": 170.76,
+  "to": 171.54,
+  "sid": 78,
+  "location": 2,
+  "content": "你搞砸了",
+  "music": 0.0
+ },
+ {
+  "from": 171.54,
+  "to": 173.38,
+  "sid": 79,
+  "location": 2,
+  "content": "它会自动帮你编一套故事",
+  "music": 0.0
+ },
+ {
+  "from": 173.38,
+  "to": 175.16,
+  "sid": 80,
+  "location": 2,
+  "content": "让你觉得其实也没那么差",
+  "music": 0.0
+ },
+ {
+  "from": 175.16,
+  "to": 176.93,
+  "sid": 81,
+  "location": 2,
+  "content": "或者这不是我的问题",
+  "music": 0.0
+ },
+ {
+  "from": 176.93,
+  "to": 179.51,
+  "sid": 82,
+  "location": 2,
+  "content": "比如你冲动买了一只暴跌的股票",
+  "music": 0.0
+ },
+ {
+  "from": 179.51,
+  "to": 182.65,
+  "sid": 83,
+  "location": 2,
+  "content": "事后你很少会承认我当时判断完全错了",
+  "music": 0.0
+ },
+ {
+  "from": 182.65,
+  "to": 184.27,
+  "sid": 84,
+  "location": 2,
+  "content": "大脑更倾向于告诉你",
+  "music": 0.0
+ },
+ {
+  "from": 184.27,
+  "to": 184.95,
+  "sid": 85,
+  "location": 2,
+  "content": "大盘不好",
+  "music": 0.0
+ },
+ {
+  "from": 184.95,
+  "to": 185.55,
+  "sid": 86,
+  "location": 2,
+  "content": "谁都亏",
+  "music": 0.0
+ },
+ {
+  "from": 185.55,
+  "to": 187.44,
+  "sid": 87,
+  "location": 2,
+  "content": "或者长期来看还是会涨的",
+  "music": 0.0
+ },
+ {
+  "from": 187.44,
+  "to": 189.93,
+  "sid": 88,
+  "location": 2,
+  "content": "再比如一段失败的合作关系",
+  "music": 0.0
+ },
+ {
+  "from": 189.93,
+  "to": 190.85,
+  "sid": 89,
+  "location": 2,
+  "content": "复盘的时候",
+  "music": 0.0
+ },
+ {
+  "from": 190.85,
+  "to": 193.53,
+  "sid": 90,
+  "location": 2,
+  "content": "你的第一反应几乎一定是对方不靠谱",
+  "music": 0.0
+ },
+ {
+  "from": 193.53,
+  "to": 197.149,
+  "sid": 91,
+  "location": 2,
+  "content": "而不是我在选人这件事上出了什么系统性偏差",
+  "music": 0.0
+ },
+ {
+  "from": 197.149,
+  "to": 200.689,
+  "sid": 92,
+  "location": 2,
+  "content": "哈佛商学院教授弗朗西斯卡吉诺做过一组实验",
+  "music": 0.0
+ },
+ {
+  "from": 200.689,
+  "to": 203.429,
+  "sid": 93,
+  "location": 2,
+  "content": "让参与者回顾自己过去的决策失误",
+  "music": 0.0
+ },
+ {
+  "from": 203.429,
+  "to": 208.52,
+  "sid": 94,
+  "location": 2,
+  "content": "结果发现超过70%的人会在回忆时不自觉地美化自己的角色",
+  "music": 0.0
+ },
+ {
+  "from": 208.52,
+  "to": 209.92,
+  "sid": 95,
+  "location": 2,
+  "content": "弱化自己的责任",
+  "music": 0.0
+ },
+ {
+  "from": 209.92,
+  "to": 211.78,
+  "sid": 96,
+  "location": 2,
+  "content": "夸大外部因素的影响",
+  "music": 0.0
+ },
+ {
+  "from": 211.78,
+  "to": 213.9,
+  "sid": 97,
+  "location": 2,
+  "content": "也就是说你觉得自己在复盘",
+  "music": 0.0
+ },
+ {
+  "from": 213.9,
+  "to": 217.269,
+  "sid": 98,
+  "location": 2,
+  "content": "实际上只是在做一场精心包装过的自我安慰",
+  "music": 0.0
+ },
+ {
+  "from": 217.269,
+  "to": 219.369,
+  "sid": 99,
+  "location": 2,
+  "content": "这就是复盘真正难的地方",
+  "music": 0.0
+ },
+ {
+  "from": 219.369,
+  "to": 221.109,
+  "sid": 100,
+  "location": 2,
+  "content": "他要求你主动撕开大脑",
+  "music": 0.0
+ },
+ {
+  "from": 221.109,
+  "to": 222.209,
+  "sid": 101,
+  "location": 2,
+  "content": "编好的保护膜",
+  "music": 0.0
+ },
+ {
+  "from": 222.209,
+  "to": 224.31,
+  "sid": 102,
+  "location": 2,
+  "content": "直视那个让你不舒服的自己",
+  "music": 0.0
+ },
+ {
+  "from": 224.31,
+  "to": 226.93,
+  "sid": 103,
+  "location": 2,
+  "content": "这个过程会产生强烈的心理抗拒",
+  "music": 0.0
+ },
+ {
+  "from": 226.93,
+  "to": 230.14,
+  "sid": 104,
+  "location": 2,
+  "content": "因为承认错误会触发大脑的威胁警报系统",
+  "music": 0.0
+ },
+ {
+  "from": 230.14,
+  "to": 234.41,
+  "sid": 105,
+  "location": 2,
+  "content": "杏仁核会释放跟面对物理危险时几乎一样的应急信号",
+  "music": 0.0
+ },
+ {
+  "from": 234.41,
+  "to": 236.15,
+  "sid": 106,
+  "location": 2,
+  "content": "承认我判断失误了",
+  "music": 0.0
+ },
+ {
+  "from": 236.15,
+  "to": 237.77,
+  "sid": 107,
+  "location": 2,
+  "content": "这件事对大脑来说",
+  "music": 0.0
+ },
+ {
+  "from": 237.77,
+  "to": 241.44,
+  "sid": 108,
+  "location": 2,
+  "content": "和前面有一头老虎触发的紧张感属于同一类反应",
+  "music": 0.0
+ },
+ {
+  "from": 241.44,
+  "to": 244.82,
+  "sid": 109,
+  "location": 2,
+  "content": "所以绝大多数人面对失败时的本能反应是逃避",
+  "music": 0.0
+ },
+ {
+  "from": 244.82,
+  "to": 246.85,
+  "sid": 110,
+  "location": 2,
+  "content": "归因外部迅速翻篇",
+  "music": 0.0
+ },
+ {
+  "from": 246.85,
+  "to": 248.61,
+  "sid": 111,
+  "location": 2,
+  "content": "而能做到深度复盘的人",
+  "music": 0.0
+ },
+ {
+  "from": 248.61,
+  "to": 251.91,
+  "sid": 112,
+  "location": 2,
+  "content": "等于每次都在跟自己的生存本能打一场硬仗",
+  "music": 0.0
+ },
+ {
+  "from": 251.91,
+  "to": 254.47,
+  "sid": 113,
+  "location": 2,
+  "content": "那些真正在复盘中获益巨大的人",
+  "music": 0.0
+ },
+ {
+  "from": 254.47,
+  "to": 258.15,
+  "sid": 114,
+  "location": 2,
+  "content": "到底用了什么方法来绕过这层本能防线",
+  "music": 0.0
+ },
+ {
+  "from": 259.92,
+  "to": 262.6,
+  "sid": 115,
+  "location": 2,
+  "content": "观察那些持续精进的高段位选手",
+  "music": 0.0
+ },
+ {
+  "from": 262.6,
+  "to": 265.78,
+  "sid": 116,
+  "location": 2,
+  "content": "你会发现他们的复盘不是一团模糊的反思",
+  "music": 0.0
+ },
+ {
+  "from": 265.78,
+  "to": 268.429,
+  "sid": 117,
+  "location": 2,
+  "content": "而是一套极其清晰的拆解动作",
+  "music": 0.0
+ },
+ {
+  "from": 268.429,
+  "to": 270.349,
+  "sid": 118,
+  "location": 2,
+  "content": "这套动作可以拆成三层",
+  "music": 0.0
+ },
+ {
+  "from": 270.349,
+  "to": 272.249,
+  "sid": 119,
+  "location": 2,
+  "content": "第一层叫还原现场",
+  "music": 0.0
+ },
+ {
+  "from": 272.249,
+  "to": 273.649,
+  "sid": 120,
+  "location": 2,
+  "content": "多数人复盘的时候",
+  "music": 0.0
+ },
+ {
+  "from": 273.649,
+  "to": 276.11,
+  "sid": 121,
+  "location": 2,
+  "content": "脑子里浮现的是一个粗线条的结果",
+  "music": 0.0
+ },
+ {
+  "from": 276.11,
+  "to": 278.61,
+  "sid": 122,
+  "location": 2,
+  "content": "这事做砸了或者这事还行",
+  "music": 0.0
+ },
+ {
+  "from": 278.61,
+  "to": 283.909,
+  "sid": 123,
+  "location": 2,
+  "content": "但高手的第一步是把整个决策链条像慢放录像一样一帧一帧拉出来",
+  "music": 0.0
+ },
+ {
+  "from": 283.909,
+  "to": 285.789,
+  "sid": 124,
+  "location": 2,
+  "content": "当时掌握了哪些信息",
+  "music": 0.0
+ },
+ {
+  "from": 285.789,
+  "to": 287.409,
+  "sid": 125,
+  "location": 2,
+  "content": "哪些信息被忽略了",
+  "music": 0.0
+ },
+ {
+  "from": 287.409,
+  "to": 289.609,
+  "sid": 126,
+  "location": 2,
+  "content": "在哪个节点做出了关键判断",
+  "music": 0.0
+ },
+ {
+  "from": 289.609,
+  "to": 291.73,
+  "sid": 127,
+  "location": 2,
+  "content": "那个判断背后的依据是什么",
+  "music": 0.0
+ },
+ {
+  "from": 291.73,
+  "to": 294.28,
+  "sid": 128,
+  "location": 2,
+  "content": "情绪在哪个瞬间介入了决策",
+  "music": 0.0
+ },
+ {
+  "from": 294.28,
+  "to": 297.06,
+  "sid": 129,
+  "location": 2,
+  "content": "桥水基金创始人达利欧在原则里提到",
+  "music": 0.0
+ },
+ {
+  "from": 297.06,
+  "to": 301.57,
+  "sid": 130,
+  "location": 2,
+  "content": "他要求团队每次投资决策后都必须做决策日志回溯",
+  "music": 0.0
+ },
+ {
+  "from": 301.57,
+  "to": 303.25,
+  "sid": 131,
+  "location": 2,
+  "content": "不是看结果对不对",
+  "music": 0.0
+ },
+ {
+  "from": 303.25,
+  "to": 305.11,
+  "sid": 132,
+  "location": 2,
+  "content": "而是看在做决定那一刻",
+  "music": 0.0
+ },
+ {
+  "from": 305.11,
+  "to": 306.86,
+  "sid": 133,
+  "location": 2,
+  "content": "推理过程是否合理",
+  "music": 0.0
+ },
+ {
+  "from": 306.86,
+  "to": 308.78,
+  "sid": 134,
+  "location": 2,
+  "content": "因为结果有时候会骗人",
+  "music": 0.0
+ },
+ {
+  "from": 308.78,
+  "to": 311.16,
+  "sid": 135,
+  "location": 2,
+  "content": "一个烂决策可能碰巧赚了钱",
+  "music": 0.0
+ },
+ {
+  "from": 311.16,
+  "to": 313.71,
+  "sid": 136,
+  "location": 2,
+  "content": "一个好决策也可能因为运气输了",
+  "music": 0.0
+ },
+ {
+  "from": 313.71,
+  "to": 314.61,
+  "sid": 137,
+  "location": 2,
+  "content": "只看结果",
+  "music": 0.0
+ },
+ {
+  "from": 314.61,
+  "to": 316.78,
+  "sid": 138,
+  "location": 2,
+  "content": "你永远分不清能力和运气",
+  "music": 0.0
+ },
+ {
+  "from": 316.78,
+  "to": 318.64,
+  "sid": 139,
+  "location": 2,
+  "content": "第二层叫提取模式",
+  "music": 0.0
+ },
+ {
+  "from": 318.64,
+  "to": 319.84,
+  "sid": 140,
+  "location": 2,
+  "content": "还原现场之后",
+  "music": 0.0
+ },
+ {
+  "from": 319.84,
+  "to": 323.65,
+  "sid": 141,
+  "location": 2,
+  "content": "关键动作是从具体事件中抽离出可迁移的规律",
+  "music": 0.0
+ },
+ {
+  "from": 323.65,
+  "to": 327.49,
+  "sid": 142,
+  "location": 2,
+  "content": "比如你发现自己连续三次在跟人谈判时让步过快",
+  "music": 0.0
+ },
+ {
+  "from": 327.49,
+  "to": 328.59,
+  "sid": 143,
+  "location": 2,
+  "content": "还原现场之后",
+  "music": 0.0
+ },
+ {
+  "from": 328.59,
+  "to": 331.99,
+  "sid": 144,
+  "location": 2,
+  "content": "你意识到每次都是在对方表现出不耐烦的那一刻",
+  "music": 0.0
+ },
+ {
+  "from": 331.99,
+  "to": 332.94,
+  "sid": 145,
+  "location": 2,
+  "content": "你就慌了",
+  "music": 0.0
+ },
+ {
+  "from": 332.94,
+  "to": 337.76,
+  "sid": 146,
+  "location": 2,
+  "content": "那这里的模式就是你对对方的负面情绪有过度敏感的反应阈值",
+  "music": 0.0
+ },
+ {
+  "from": 337.76,
+  "to": 341.68,
+  "sid": 147,
+  "location": 2,
+  "content": "这会导致你在任何需要博弈的场景里系统性的吃亏",
+  "music": 0.0
+ },
+ {
+  "from": 341.68,
+  "to": 343.14,
+  "sid": 148,
+  "location": 2,
+  "content": "提取出这个模式",
+  "music": 0.0
+ },
+ {
+  "from": 343.14,
+  "to": 345.26,
+  "sid": 149,
+  "location": 2,
+  "content": "它的价值就不再局限于谈判",
+  "music": 0.0
+ },
+ {
+  "from": 345.26,
+  "to": 347.42,
+  "sid": 150,
+  "location": 2,
+  "content": "而是可以覆盖到跟上司沟通",
+  "music": 0.0
+ },
+ {
+  "from": 347.42,
+  "to": 348.78,
+  "sid": 151,
+  "location": 2,
+  "content": "跟合伙人议价",
+  "music": 0.0
+ },
+ {
+  "from": 348.78,
+  "to": 350.48,
+  "sid": 152,
+  "location": 2,
+  "content": "甚至跟家人处理矛盾",
+  "music": 0.0
+ },
+ {
+  "from": 350.48,
+  "to": 352.48,
+  "sid": 153,
+  "location": 2,
+  "content": "第三层叫修改预案",
+  "music": 0.0
+ },
+ {
+  "from": 352.48,
+  "to": 353.64,
+  "sid": 154,
+  "location": 2,
+  "content": "找到模式之后",
+  "music": 0.0
+ },
+ {
+  "from": 353.64,
+  "to": 356.28,
+  "sid": 155,
+  "location": 2,
+  "content": "必须落到一个可执行的行动调整上",
+  "music": 0.0
+ },
+ {
+  "from": 356.28,
+  "to": 358.98,
+  "sid": 156,
+  "location": 2,
+  "content": "不是空泛的告诉自己下次要沉住气",
+  "music": 0.0
+ },
+ {
+  "from": 358.98,
+  "to": 362.08,
+  "sid": 157,
+  "location": 2,
+  "content": "而是具体到下次对方表现出不耐烦时",
+  "music": 0.0
+ },
+ {
+  "from": 362.08,
+  "to": 363.44,
+  "sid": 158,
+  "location": 2,
+  "content": "我先沉默15秒",
+  "music": 0.0
+ },
+ {
+  "from": 363.44,
+  "to": 364.289,
+  "sid": 159,
+  "location": 2,
+  "content": "喝一口水",
+  "music": 0.0
+ },
+ {
+  "from": 364.289,
+  "to": 366.269,
+  "sid": 160,
+  "location": 2,
+  "content": "然后重新陈述我的诉求",
+  "music": 0.0
+ },
+ {
+  "from": 366.269,
+  "to": 370.409,
+  "sid": 161,
+  "location": 2,
+  "content": "日本经营之圣稻盛和夫每天晚上都会做一件事",
+  "music": 0.0
+ },
+ {
+  "from": 370.409,
+  "to": 373.449,
+  "sid": 162,
+  "location": 2,
+  "content": "把当天做的不到位的决策拎出来写下",
+  "music": 0.0
+ },
+ {
+  "from": 373.449,
+  "to": 374.569,
+  "sid": 163,
+  "location": 2,
+  "content": "如果重来一次",
+  "music": 0.0
+ },
+ {
+  "from": 374.569,
+  "to": 376.46,
+  "sid": 164,
+  "location": 2,
+  "content": "我在哪个节点该怎么做",
+  "music": 0.0
+ },
+ {
+  "from": 376.46,
+  "to": 378.99,
+  "sid": 165,
+  "location": 2,
+  "content": "这个动作他坚持了超过50年",
+  "music": 0.0
+ },
+ {
+  "from": 378.99,
+  "to": 381.71,
+  "sid": 166,
+  "location": 2,
+  "content": "复盘的质量从来不取决于你想了多久",
+  "music": 0.0
+ },
+ {
+  "from": 381.71,
+  "to": 383.85,
+  "sid": 167,
+  "location": 2,
+  "content": "而取决于颗粒度够不够细",
+  "music": 0.0
+ },
+ {
+  "from": 383.85,
+  "to": 387.4,
+  "sid": 168,
+  "location": 2,
+  "content": "模式提取够不够准行动修改够不够具体",
+  "music": 0.0
+ },
+ {
+  "from": 387.4,
+  "to": 390.36,
+  "sid": 169,
+  "location": 2,
+  "content": "但做到这三层还只是个人层面的精进",
+  "music": 0.0
+ },
+ {
+  "from": 390.36,
+  "to": 392.98,
+  "sid": 170,
+  "location": 2,
+  "content": "复盘这件事放到更长的时间维度里",
+  "music": 0.0
+ },
+ {
+  "from": 392.98,
+  "to": 396.72,
+  "sid": 171,
+  "location": 2,
+  "content": "会产生一个远比个人进步更深远的效应",
+  "music": 0.0
+ },
+ {
+  "from": 398.22,
+  "to": 400.96,
+  "sid": 172,
+  "location": 2,
+  "content": "复盘的力量在短期内几乎看不见",
+  "music": 0.0
+ },
+ {
+  "from": 400.96,
+  "to": 402.48,
+  "sid": 173,
+  "location": 2,
+  "content": "做了一次深度复盘",
+  "music": 0.0
+ },
+ {
+  "from": 402.48,
+  "to": 404.36,
+  "sid": 174,
+  "location": 2,
+  "content": "第二天不会突然变聪明",
+  "music": 0.0
+ },
+ {
+  "from": 404.36,
+  "to": 406.25,
+  "sid": 175,
+  "location": 2,
+  "content": "收入不会立刻涨一截",
+  "music": 0.0
+ },
+ {
+  "from": 406.25,
+  "to": 408.71,
+  "sid": 176,
+  "location": 2,
+  "content": "这也是大多数人放弃复盘的原因",
+  "music": 0.0
+ },
+ {
+  "from": 408.71,
+  "to": 409.87,
+  "sid": 177,
+  "location": 2,
+  "content": "反馈周期太长",
+  "music": 0.0
+ },
+ {
+  "from": 409.87,
+  "to": 411.36,
+  "sid": 178,
+  "location": 2,
+  "content": "看不到及时回报",
+  "music": 0.0
+ },
+ {
+  "from": 411.36,
+  "to": 413.38,
+  "sid": 179,
+  "location": 2,
+  "content": "但拉到10年的尺度去看",
+  "music": 0.0
+ },
+ {
+  "from": 413.38,
+  "to": 418.56,
+  "sid": 180,
+  "location": 2,
+  "content": "坚持复盘的人和从不复盘的人之间的差距大到几乎像两个物种",
+  "music": 0.0
+ },
+ {
+  "from": 418.56,
+  "to": 420.56,
+  "sid": 181,
+  "location": 2,
+  "content": "原因出在复利效应上",
+  "music": 0.0
+ },
+ {
+  "from": 420.56,
+  "to": 424.78,
+  "sid": 182,
+  "location": 2,
+  "content": "每一次有效复盘都是在修正你做判断时的内在模型",
+  "music": 0.0
+ },
+ {
+  "from": 424.78,
+  "to": 427.92,
+  "sid": 183,
+  "location": 2,
+  "content": "你可以把人想象成一台不断做选择的机器",
+  "music": 0.0
+ },
+ {
+  "from": 427.92,
+  "to": 430.5,
+  "sid": 184,
+  "location": 2,
+  "content": "每天要做几百个大大小小的判断",
+  "music": 0.0
+ },
+ {
+  "from": 430.5,
+  "to": 434.34,
+  "sid": 185,
+  "location": 2,
+  "content": "复盘做的事情就是在每次判断之后微调你的参数",
+  "music": 0.0
+ },
+ {
+  "from": 434.34,
+  "to": 436.02,
+  "sid": 186,
+  "location": 2,
+  "content": "单次微调的幅度很小",
+  "music": 0.0
+ },
+ {
+  "from": 436.02,
+  "to": 438.11,
+  "sid": 187,
+  "location": 2,
+  "content": "可能只有0%点几的优化",
+  "music": 0.0
+ },
+ {
+  "from": 438.11,
+  "to": 440.13,
+  "sid": 188,
+  "location": 2,
+  "content": "但决策是一天几百次",
+  "music": 0.0
+ },
+ {
+  "from": 440.13,
+  "to": 442.06,
+  "sid": 189,
+  "location": 2,
+  "content": "一年几万次的累积的",
+  "music": 0.0
+ },
+ {
+  "from": 442.06,
+  "to": 444.26,
+  "sid": 190,
+  "location": 2,
+  "content": "查理芒格有句话说的很朴素",
+  "music": 0.0
+ },
+ {
+  "from": 444.26,
+  "to": 447.04,
+  "sid": 191,
+  "location": 2,
+  "content": "每天睡觉前比早上起来时聪明一点点",
+  "music": 0.0
+ },
+ {
+  "from": 447.04,
+  "to": 448.44,
+  "sid": 192,
+  "location": 2,
+  "content": "日子久了就够了",
+  "music": 0.0
+ },
+ {
+  "from": 448.44,
+  "to": 449.6,
+  "sid": 193,
+  "location": 2,
+  "content": "这个聪明一点点",
+  "music": 0.0
+ },
+ {
+  "from": 449.6,
+  "to": 450.86,
+  "sid": 194,
+  "location": 2,
+  "content": "靠的就是复盘",
+  "music": 0.0
+ },
+ {
+  "from": 450.86,
+  "to": 454.909,
+  "sid": 195,
+  "location": 2,
+  "content": "贝索斯在亚马逊内部推行过一种叫事后回顾的文化",
+  "music": 0.0
+ },
+ {
+  "from": 454.909,
+  "to": 456.149,
+  "sid": 196,
+  "location": 2,
+  "content": "每一个项目结束后",
+  "music": 0.0
+ },
+ {
+  "from": 456.149,
+  "to": 457.529,
+  "sid": 197,
+  "location": 2,
+  "content": "不管成功还是失败",
+  "music": 0.0
+ },
+ {
+  "from": 457.529,
+  "to": 460.729,
+  "sid": 198,
+  "location": 2,
+  "content": "团队必须坐下来做一次结构化的深度复盘",
+  "music": 0.0
+ },
+ {
+  "from": 460.729,
+  "to": 462.19,
+  "sid": 199,
+  "location": 2,
+  "content": "他说过一个观点",
+  "music": 0.0
+ },
+ {
+  "from": 462.19,
+  "to": 463.07,
+  "sid": 200,
+  "location": 2,
+  "content": "长期来看",
+  "music": 0.0
+ },
+ {
+  "from": 463.07,
+  "to": 466.11,
+  "sid": 201,
+  "location": 2,
+  "content": "决策质量是一家公司唯一真正的竞争壁垒",
+  "music": 0.0
+ },
+ {
+  "from": 466.11,
+  "to": 470.13,
+  "sid": 202,
+  "location": 2,
+  "content": "而决策质量的提升只能靠对过往决策的系统反思",
+  "music": 0.0
+ },
+ {
+  "from": 470.13,
+  "to": 471.83,
+  "sid": 203,
+  "location": 2,
+  "content": "个人也是一样的道理",
+  "music": 0.0
+ },
+ {
+  "from": 471.83,
+  "to": 472.83,
+  "sid": 204,
+  "location": 2,
+  "content": "到了40岁",
+  "music": 0.0
+ },
+ {
+  "from": 472.83,
+  "to": 473.49,
+  "sid": 205,
+  "location": 2,
+  "content": "50岁",
+  "music": 0.0
+ },
+ {
+  "from": 473.49,
+  "to": 475.44,
+  "sid": 206,
+  "location": 2,
+  "content": "有些人面对复杂局面时",
+  "music": 0.0
+ },
+ {
+  "from": 475.44,
+  "to": 476.94,
+  "sid": 207,
+  "location": 2,
+  "content": "能迅速看透本质",
+  "music": 0.0
+ },
+ {
+  "from": 476.94,
+  "to": 478.46,
+  "sid": 208,
+  "location": 2,
+  "content": "做出高质量判断",
+  "music": 0.0
+ },
+ {
+  "from": 478.46,
+  "to": 480.22,
+  "sid": 209,
+  "location": 2,
+  "content": "不是因为他天生直觉好",
+  "music": 0.0
+ },
+ {
+  "from": 480.22,
+  "to": 481.86,
+  "sid": 210,
+  "location": 2,
+  "content": "而是他花了20年时间",
+  "music": 0.0
+ },
+ {
+  "from": 481.86,
+  "to": 483.25,
+  "sid": 211,
+  "location": 2,
+  "content": "通过一次次复盘",
+  "music": 0.0
+ },
+ {
+  "from": 483.25,
+  "to": 485.97,
+  "sid": 212,
+  "location": 2,
+  "content": "把自己的判断模型打磨得极其精密",
+  "music": 0.0
+ },
+ {
+  "from": 485.97,
+  "to": 487.99,
+  "sid": 213,
+  "location": 2,
+  "content": "而另一些人到了同样的年龄",
+  "music": 0.0
+ },
+ {
+  "from": 487.99,
+  "to": 489.03,
+  "sid": 214,
+  "location": 2,
+  "content": "面对新问题",
+  "music": 0.0
+ },
+ {
+  "from": 489.03,
+  "to": 490.63,
+  "sid": 215,
+  "location": 2,
+  "content": "还是只会凭感觉赌",
+  "music": 0.0
+ },
+ {
+  "from": 490.63,
+  "to": 491.25,
+  "sid": 216,
+  "location": 2,
+  "content": "赌对了",
+  "music": 0.0
+ },
+ {
+  "from": 491.25,
+  "to": 492.19,
+  "sid": 217,
+  "location": 2,
+  "content": "觉得自己英明",
+  "music": 0.0
+ },
+ {
+  "from": 492.19,
+  "to": 492.81,
+  "sid": 218,
+  "location": 2,
+  "content": "赌错了",
+  "music": 0.0
+ },
+ {
+  "from": 492.81,
+  "to": 493.84,
+  "sid": 219,
+  "location": 2,
+  "content": "怪运气不好",
+  "music": 0.0
+ },
+ {
+  "from": 493.84,
+  "to": 497.38,
+  "sid": 220,
+  "location": 2,
+  "content": "20年的差距就是在每一个普通的夜晚拉开的",
+  "music": 0.0
+ },
+ {
+  "from": 497.38,
+  "to": 501.13,
+  "sid": 221,
+  "location": 2,
+  "content": "一个人花20分钟诚实地审视了自己当天的判断",
+  "music": 0.0
+ },
+ {
+  "from": 501.13,
+  "to": 503.99,
+  "sid": 222,
+  "location": 2,
+  "content": "另一个人刷了20分钟短视频就睡了",
+  "music": 0.0
+ },
+ {
+  "from": 503.99,
+  "to": 507.49,
+  "sid": 223,
+  "location": 2,
+  "content": "命运分叉的起点往往就是这么安静",
+  "music": 0.0
+ },
+ {
+  "from": 509.26,
+  "to": 510.48,
+  "sid": 224,
+  "location": 2,
+  "content": "有句老话说",
+  "music": 0.0
+ },
+ {
+  "from": 510.48,
+  "to": 512.66,
+  "sid": 225,
+  "location": 2,
+  "content": "人不能两次踏进同一条河流",
+  "music": 0.0
+ },
+ {
+  "from": 512.66,
+  "to": 516.96,
+  "sid": 226,
+  "location": 2,
+  "content": "但现实是多数人一辈子都在同一条河流里反复溺水",
+  "music": 0.0
+ },
+ {
+  "from": 516.96,
+  "to": 521.38,
+  "sid": 227,
+  "location": 2,
+  "content": "深度复盘给人提供的某种意义上是一种重活一次的能力",
+  "music": 0.0
+ },
+ {
+  "from": 521.38,
+  "to": 522.86,
+  "sid": 228,
+  "location": 2,
+  "content": "你没有办法回到过去",
+  "music": 0.0
+ },
+ {
+  "from": 522.86,
+  "to": 524.3,
+  "sid": 229,
+  "location": 2,
+  "content": "改变已经发生的事",
+  "music": 0.0
+ },
+ {
+  "from": 524.3,
+  "to": 525.64,
+  "sid": 230,
+  "location": 2,
+  "content": "但你可以通过复盘",
+  "music": 0.0
+ },
+ {
+  "from": 525.64,
+  "to": 528.94,
+  "sid": 231,
+  "location": 2,
+  "content": "把过去发生的每一件事都变成未来的燃料",
+  "music": 0.0
+ },
+ {
+  "from": 528.94,
+  "to": 531.3,
+  "sid": 232,
+  "location": 2,
+  "content": "每一次失败经过深度拆解后",
+  "music": 0.0
+ },
+ {
+  "from": 531.3,
+  "to": 533.0,
+  "sid": 233,
+  "location": 2,
+  "content": "就不再是单纯的损失",
+  "music": 0.0
+ },
+ {
+  "from": 533.0,
+  "to": 535.98,
+  "sid": 234,
+  "location": 2,
+  "content": "它变成了你决策系统里一个新的校准点",
+  "music": 0.0
+ },
+ {
+  "from": 535.98,
+  "to": 538.52,
+  "sid": 235,
+  "location": 2,
+  "content": "每一次成功经过诚实的复盘后",
+  "music": 0.0
+ },
+ {
+  "from": 538.52,
+  "to": 540.54,
+  "sid": 236,
+  "location": 2,
+  "content": "你才能分清哪些是真本事",
+  "music": 0.0
+ },
+ {
+  "from": 540.54,
+  "to": 541.72,
+  "sid": 237,
+  "location": 2,
+  "content": "哪些是撞大运",
+  "music": 0.0
+ },
+ {
+  "from": 541.72,
+  "to": 543.44,
+  "sid": 238,
+  "location": 2,
+  "content": "下次才知道该复制什么",
+  "music": 0.0
+ },
+ {
+  "from": 543.44,
+  "to": 544.52,
+  "sid": 239,
+  "location": 2,
+  "content": "该警惕什么",
+  "music": 0.0
+ },
+ {
+  "from": 544.52,
+  "to": 545.98,
+  "sid": 240,
+  "location": 2,
+  "content": "一个人活了40年",
+  "music": 0.0
+ },
+ {
+  "from": 545.98,
+  "to": 547.2,
+  "sid": 241,
+  "location": 2,
+  "content": "如果从来不复盘",
+  "music": 0.0
+ },
+ {
+  "from": 547.2,
+  "to": 549.22,
+  "sid": 242,
+  "location": 2,
+  "content": "他拥有的只是40年的经历",
+  "music": 0.0
+ },
+ {
+  "from": 549.22,
+  "to": 550.48,
+  "sid": 243,
+  "location": 2,
+  "content": "一个人活了40年",
+  "music": 0.0
+ },
+ {
+  "from": 550.48,
+  "to": 552.28,
+  "sid": 244,
+  "location": 2,
+  "content": "如果每天都在做深度复盘",
+  "music": 0.0
+ },
+ {
+  "from": 552.28,
+  "to": 555.18,
+  "sid": 245,
+  "location": 2,
+  "content": "他拥有的是被反复提纯过40年的智慧",
+  "music": 0.0
+ },
+ {
+  "from": 555.18,
+  "to": 556.49,
+  "sid": 246,
+  "location": 2,
+  "content": "前者是原矿石",
+  "music": 0.0
+ },
+ {
+  "from": 556.49,
+  "to": 558.09,
+  "sid": 247,
+  "location": 2,
+  "content": "后者是精炼过的金属",
+  "music": 0.0
+ },
+ {
+  "from": 558.09,
+  "to": 562.39,
+  "sid": 248,
+  "location": 2,
+  "content": "这中间的密度差就是人与人之间最安静也最残酷的分野",
+  "music": 0.0
+ },
+ {
+  "from": 562.39,
+  "to": 563.89,
+  "sid": 249,
+  "location": 2,
+  "content": "今天的分享就到这里",
+  "music": 0.0
+ },
+ {
+  "from": 563.89,
+  "to": 564.63,
+  "sid": 250,
+  "location": 2,
+  "content": "我是店长",
+  "music": 0.0
+ },
+ {
+  "from": 564.63,
+  "to": 566.24,
+  "sid": 251,
+  "location": 2,
+  "content": "我们下期再见",
+  "music": 0.0
+ }
+]

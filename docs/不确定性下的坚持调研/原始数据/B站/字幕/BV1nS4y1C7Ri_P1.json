@@ -1,0 +1,826 @@
+[
+ {
+  "from": 9.94,
+  "to": 11.34,
+  "sid": 1,
+  "location": 2,
+  "content": "哈喽大家好呀",
+  "music": 0.0
+ },
+ {
+  "from": 11.34,
+  "to": 14.7,
+  "sid": 2,
+  "location": 2,
+  "content": "今天我们一起来学习一下自我效能感理论",
+  "music": 0.0
+ },
+ {
+  "from": 14.7,
+  "to": 17.4,
+  "sid": 3,
+  "location": 2,
+  "content": "代表人物班杜拉好",
+  "music": 0.0
+ },
+ {
+  "from": 17.4,
+  "to": 21.09,
+  "sid": 4,
+  "location": 2,
+  "content": "我们首先来了解一下何为自我效能感呢",
+  "music": 0.0
+ },
+ {
+  "from": 21.09,
+  "to": 22.41,
+  "sid": 5,
+  "location": 2,
+  "content": "嗯班杜拉说呀",
+  "music": 0.0
+ },
+ {
+  "from": 22.41,
+  "to": 27.86,
+  "sid": 6,
+  "location": 2,
+  "content": "自我效能感就是指个体对自己能否成功地进行",
+  "music": 0.0
+ },
+ {
+  "from": 27.86,
+  "to": 29.96,
+  "sid": 7,
+  "location": 2,
+  "content": "某一成就的主观判断",
+  "music": 0.0
+ },
+ {
+  "from": 29.96,
+  "to": 30.47,
+  "sid": 8,
+  "location": 2,
+  "content": "好了",
+  "music": 0.0
+ },
+ {
+  "from": 30.47,
+  "to": 32.96,
+  "sid": 9,
+  "location": 2,
+  "content": "我们来看一下是主观还是客观",
+  "music": 0.0
+ },
+ {
+  "from": 32.96,
+  "to": 34.01,
+  "sid": 10,
+  "location": 2,
+  "content": "要记住啊",
+  "music": 0.0
+ },
+ {
+  "from": 34.01,
+  "to": 37.66,
+  "sid": 11,
+  "location": 2,
+  "content": "这是主观的个体对自己",
+  "music": 0.0
+ },
+ {
+  "from": 37.66,
+  "to": 41.53,
+  "sid": 12,
+  "location": 2,
+  "content": "也就是自己认为自己能不能做好这件事情",
+  "music": 0.0
+ },
+ {
+  "from": 41.53,
+  "to": 44.58,
+  "sid": 13,
+  "location": 2,
+  "content": "比如说哎这幅小漫画",
+  "music": 0.0
+ },
+ {
+  "from": 45.4,
+  "to": 48.78,
+  "sid": 14,
+  "location": 2,
+  "content": "这个人这个小孩儿呢现在就在想哎",
+  "music": 0.0
+ },
+ {
+  "from": 48.78,
+  "to": 54.48,
+  "sid": 15,
+  "location": 2,
+  "content": "我要不要来试着回答一下老师提出来的问题呢",
+  "music": 0.0
+ },
+ {
+  "from": 54.48,
+  "to": 57.36,
+  "sid": 16,
+  "location": 2,
+  "content": "然后他自己进行了一个主观的判断",
+  "music": 0.0
+ },
+ {
+  "from": 57.36,
+  "to": 59.49,
+  "sid": 17,
+  "location": 2,
+  "content": "觉得嗯我可以",
+  "music": 0.0
+ },
+ {
+  "from": 59.49,
+  "to": 61.059,
+  "sid": 18,
+  "location": 2,
+  "content": "I i can do it",
+  "music": 0.0
+ },
+ {
+  "from": 61.12,
+  "to": 65.29,
+  "sid": 19,
+  "location": 2,
+  "content": "所以呢他就举手起来回答老师的问题",
+  "music": 0.0
+ },
+ {
+  "from": 65.29,
+  "to": 67.24,
+  "sid": 20,
+  "location": 2,
+  "content": "对于这个小孩来讲",
+  "music": 0.0
+ },
+ {
+  "from": 68.48,
+  "to": 71.5,
+  "sid": 21,
+  "location": 2,
+  "content": "思索到举手这个过程当中",
+  "music": 0.0
+ },
+ {
+  "from": 71.5,
+  "to": 74.78,
+  "sid": 22,
+  "location": 2,
+  "content": "其实具有自我效能感理论的存在好",
+  "music": 0.0
+ },
+ {
+  "from": 74.78,
+  "to": 78.14,
+  "sid": 23,
+  "location": 2,
+  "content": "那么什么因素影响了这个小孩",
+  "music": 0.0
+ },
+ {
+  "from": 78.14,
+  "to": 81.52,
+  "sid": 24,
+  "location": 2,
+  "content": "最后举起手来回答老师的问题呢",
+  "music": 0.0
+ },
+ {
+  "from": 81.58,
+  "to": 83.5,
+  "sid": 25,
+  "location": 2,
+  "content": "有以下几点因素",
+  "music": 0.0
+ },
+ {
+  "from": 83.5,
+  "to": 85.93,
+  "sid": 26,
+  "location": 2,
+  "content": "第一个就是直接经验",
+  "music": 0.0
+ },
+ {
+  "from": 85.93,
+  "to": 90.22,
+  "sid": 27,
+  "location": 2,
+  "content": "也就是说这个小孩之前的一些亲身经历",
+  "music": 0.0
+ },
+ {
+  "from": 90.3,
+  "to": 92.52,
+  "sid": 28,
+  "location": 2,
+  "content": "比如说他在思考的过程当中",
+  "music": 0.0
+ },
+ {
+  "from": 92.52,
+  "to": 94.02,
+  "sid": 29,
+  "location": 2,
+  "content": "哎他想了一下",
+  "music": 0.0
+ },
+ {
+  "from": 94.02,
+  "to": 95.28,
+  "sid": 30,
+  "location": 2,
+  "content": "想了下什么呢",
+  "music": 0.0
+ },
+ {
+  "from": 95.28,
+  "to": 98.39,
+  "sid": 31,
+  "location": 2,
+  "content": "我之前也是起来回答了问题",
+  "music": 0.0
+ },
+ {
+  "from": 98.39,
+  "to": 99.86,
+  "sid": 32,
+  "location": 2,
+  "content": "哎老师表扬我了",
+  "music": 0.0
+ },
+ {
+  "from": 99.86,
+  "to": 101.15,
+  "sid": 33,
+  "location": 2,
+  "content": "而且我还回答对了",
+  "music": 0.0
+ },
+ {
+  "from": 101.15,
+  "to": 102.47,
+  "sid": 34,
+  "location": 2,
+  "content": "嗯不错",
+  "music": 0.0
+ },
+ {
+  "from": 102.47,
+  "to": 103.46,
+  "sid": 35,
+  "location": 2,
+  "content": "想了想之后呢",
+  "music": 0.0
+ },
+ {
+  "from": 103.46,
+  "to": 106.72,
+  "sid": 36,
+  "location": 2,
+  "content": "他就说OK那我这次也来举手吧",
+  "music": 0.0
+ },
+ {
+  "from": 106.72,
+  "to": 109.82,
+  "sid": 37,
+  "location": 2,
+  "content": "这就叫做直接经验替代性经验",
+  "music": 0.0
+ },
+ {
+  "from": 109.82,
+  "to": 112.7,
+  "sid": 38,
+  "location": 2,
+  "content": "就是这个小孩在思考要不要举手呢",
+  "music": 0.0
+ },
+ {
+  "from": 112.7,
+  "to": 114.4,
+  "sid": 39,
+  "location": 2,
+  "content": "然后就想到了嗯",
+  "music": 0.0
+ },
+ {
+  "from": 114.4,
+  "to": 118.63,
+  "sid": 40,
+  "location": 2,
+  "content": "之前有一个小A他举手回答问题了",
+  "music": 0.0
+ },
+ {
+  "from": 119.02,
+  "to": 120.28,
+  "sid": 41,
+  "location": 2,
+  "content": "被老师表扬了",
+  "music": 0.0
+ },
+ {
+  "from": 120.48,
+  "to": 122.28,
+  "sid": 42,
+  "location": 2,
+  "content": "那我也要啊",
+  "music": 0.0
+ },
+ {
+  "from": 122.28,
+  "to": 123.03,
+  "sid": 43,
+  "location": 2,
+  "content": "我也可以",
+  "music": 0.0
+ },
+ {
+  "from": 123.03,
+  "to": 125.24,
+  "sid": 44,
+  "location": 2,
+  "content": "i can do it好",
+  "music": 0.0
+ },
+ {
+  "from": 125.24,
+  "to": 128.06,
+  "sid": 45,
+  "location": 2,
+  "content": "第三个就这个小孩他一直在想哎",
+  "music": 0.0
+ },
+ {
+  "from": 128.06,
+  "to": 129.59,
+  "sid": 46,
+  "location": 2,
+  "content": "我要不要回答问题呢",
+  "music": 0.0
+ },
+ {
+  "from": 129.59,
+  "to": 133.6,
+  "sid": 47,
+  "location": 2,
+  "content": "嗯然后就耳边就传来了老师说的话啊",
+  "music": 0.0
+ },
+ {
+  "from": 133.6,
+  "to": 134.98,
+  "sid": 48,
+  "location": 2,
+  "content": "哎谁要试一下",
+  "music": 0.0
+ },
+ {
+  "from": 134.98,
+  "to": 135.85,
+  "sid": 49,
+  "location": 2,
+  "content": "没有关系啊",
+  "music": 0.0
+ },
+ {
+  "from": 135.85,
+  "to": 137.29,
+  "sid": 50,
+  "location": 2,
+  "content": "回答错了也没有关系",
+  "music": 0.0
+ },
+ {
+  "from": 137.29,
+  "to": 138.55,
+  "sid": 51,
+  "location": 2,
+  "content": "只要能回答上来",
+  "music": 0.0
+ },
+ {
+  "from": 138.55,
+  "to": 139.6,
+  "sid": 52,
+  "location": 2,
+  "content": "你就很棒啊",
+  "music": 0.0
+ },
+ {
+  "from": 139.6,
+  "to": 141.64,
+  "sid": 53,
+  "location": 2,
+  "content": "那么这就是一种言语说服他想",
+  "music": 0.0
+ },
+ {
+  "from": 141.64,
+  "to": 143.85,
+  "sid": 54,
+  "location": 2,
+  "content": "嗯老师就这么说了",
+  "music": 0.0
+ },
+ {
+  "from": 143.85,
+  "to": 145.38,
+  "sid": 55,
+  "location": 2,
+  "content": "那我可以试一下诶",
+  "music": 0.0
+ },
+ {
+  "from": 145.38,
+  "to": 146.6,
+  "sid": 56,
+  "location": 2,
+  "content": "我可以试一下",
+  "music": 0.0
+ },
+ {
+  "from": 146.6,
+  "to": 148.76,
+  "sid": 57,
+  "location": 2,
+  "content": "而第四个情绪的唤起",
+  "music": 0.0
+ },
+ {
+  "from": 148.76,
+  "to": 149.6,
+  "sid": 58,
+  "location": 2,
+  "content": "情绪的唤起",
+  "music": 0.0
+ },
+ {
+  "from": 149.6,
+  "to": 152.42,
+  "sid": 59,
+  "location": 2,
+  "content": "就说我们的情绪和我们的一个生理状态",
+  "music": 0.0
+ },
+ {
+  "from": 152.42,
+  "to": 155.44,
+  "sid": 60,
+  "location": 2,
+  "content": "会影响我们的自己对自己的判断",
+  "music": 0.0
+ },
+ {
+  "from": 155.44,
+  "to": 156.7,
+  "sid": 61,
+  "location": 2,
+  "content": "在课堂当中",
+  "music": 0.0
+ },
+ {
+  "from": 156.7,
+  "to": 162.13,
+  "sid": 62,
+  "location": 2,
+  "content": "其实更多的是跟老师的言语说服有一定的联系",
+  "music": 0.0
+ },
+ {
+  "from": 162.13,
+  "to": 166.35,
+  "sid": 63,
+  "location": 2,
+  "content": "比如说老师他是一个比较积极开朗的",
+  "music": 0.0
+ },
+ {
+  "from": 166.35,
+  "to": 168.93,
+  "sid": 64,
+  "location": 2,
+  "content": "就是课堂氛围比较好",
+  "music": 0.0
+ },
+ {
+  "from": 168.93,
+  "to": 171.12,
+  "sid": 65,
+  "location": 2,
+  "content": "那么学生就愿意去学习",
+  "music": 0.0
+ },
+ {
+  "from": 171.12,
+  "to": 172.62,
+  "sid": 66,
+  "location": 2,
+  "content": "愿意起来回答问题",
+  "music": 0.0
+ },
+ {
+  "from": 172.62,
+  "to": 173.28,
+  "sid": 67,
+  "location": 2,
+  "content": "大家想一想",
+  "music": 0.0
+ },
+ {
+  "from": 173.28,
+  "to": 176.46,
+  "sid": 68,
+  "location": 2,
+  "content": "是不是那他这个情绪就调动起来了呀",
+  "music": 0.0
+ },
+ {
+  "from": 176.54,
+  "to": 178.4,
+  "sid": 69,
+  "location": 2,
+  "content": "就比较开心",
+  "music": 0.0
+ },
+ {
+  "from": 178.4,
+  "to": 179.54,
+  "sid": 70,
+  "location": 2,
+  "content": "愿意去回答问题",
+  "music": 0.0
+ },
+ {
+  "from": 179.54,
+  "to": 183.74,
+  "sid": 71,
+  "location": 2,
+  "content": "相反如果是那种嗯照着PPT念书",
+  "music": 0.0
+ },
+ {
+  "from": 183.74,
+  "to": 185.879,
+  "sid": 72,
+  "location": 2,
+  "content": "然后又很严肃",
+  "music": 0.0
+ },
+ {
+  "from": 185.879,
+  "to": 186.539,
+  "sid": 73,
+  "location": 2,
+  "content": "板着脸的",
+  "music": 0.0
+ },
+ {
+  "from": 186.539,
+  "to": 190.32,
+  "sid": 74,
+  "location": 2,
+  "content": "那么学生的情绪就没有唤起唤唤醒起来",
+  "music": 0.0
+ },
+ {
+  "from": 190.56,
+  "to": 194.24,
+  "sid": 75,
+  "location": 2,
+  "content": "唉这个是从教学的角度上我们来说的啊",
+  "music": 0.0
+ },
+ {
+  "from": 195.38,
+  "to": 197.98,
+  "sid": 76,
+  "location": 2,
+  "content": "其次呢就这个情绪唤起我们",
+  "music": 0.0
+ },
+ {
+  "from": 197.98,
+  "to": 199.95,
+  "sid": 77,
+  "location": 2,
+  "content": "也可以说我们的身体状态",
+  "music": 0.0
+ },
+ {
+  "from": 199.95,
+  "to": 201.48,
+  "sid": 78,
+  "location": 2,
+  "content": "比如说身体健康",
+  "music": 0.0
+ },
+ {
+  "from": 201.48,
+  "to": 202.83,
+  "sid": 79,
+  "location": 2,
+  "content": "吃嘛嘛香的时候",
+  "music": 0.0
+ },
+ {
+  "from": 202.83,
+  "to": 204.6,
+  "sid": 80,
+  "location": 2,
+  "content": "我们就感觉精力充沛",
+  "music": 0.0
+ },
+ {
+  "from": 204.6,
+  "to": 205.59,
+  "sid": 81,
+  "location": 2,
+  "content": "情绪特别好",
+  "music": 0.0
+ },
+ {
+  "from": 205.59,
+  "to": 206.829,
+  "sid": 82,
+  "location": 2,
+  "content": "也愿意去学习",
+  "music": 0.0
+ },
+ {
+  "from": 206.829,
+  "to": 208.389,
+  "sid": 83,
+  "location": 2,
+  "content": "相反如果生病了",
+  "music": 0.0
+ },
+ {
+  "from": 208.389,
+  "to": 210.46,
+  "sid": 84,
+  "location": 2,
+  "content": "就感觉什么都不想干",
+  "music": 0.0
+ },
+ {
+  "from": 210.46,
+  "to": 211.36,
+  "sid": 85,
+  "location": 2,
+  "content": "不想动",
+  "music": 0.0
+ },
+ {
+  "from": 211.36,
+  "to": 213.16,
+  "sid": 86,
+  "location": 2,
+  "content": "那么就也不愿意学习",
+  "music": 0.0
+ },
+ {
+  "from": 213.16,
+  "to": 214.72,
+  "sid": 87,
+  "location": 2,
+  "content": "感觉自己嗯算了算了",
+  "music": 0.0
+ },
+ {
+  "from": 214.72,
+  "to": 216.04,
+  "sid": 88,
+  "location": 2,
+  "content": "就不愿意去做了",
+  "music": 0.0
+ },
+ {
+  "from": 216.04,
+  "to": 218.52,
+  "sid": 89,
+  "location": 2,
+  "content": "那自己的这个主观判断就是低的",
+  "music": 0.0
+ },
+ {
+  "from": 218.98,
+  "to": 221.77,
+  "sid": 90,
+  "location": 2,
+  "content": "OK那这就是本期视频的全部内容啊",
+  "music": 0.0
+ },
+ {
+  "from": 221.77,
+  "to": 223.84,
+  "sid": 91,
+  "location": 2,
+  "content": "那么请大家来复习一分钟",
+  "music": 0.0
+ },
+ {
+  "from": 223.84,
+  "to": 225.55,
+  "sid": 92,
+  "location": 2,
+  "content": "待会儿呢我会把关键词划掉",
+  "music": 0.0
+ },
+ {
+  "from": 225.55,
+  "to": 227.22,
+  "sid": 93,
+  "location": 2,
+  "content": "看大家还能记住吗",
+  "music": 0.0
+ },
+ {
+  "from": 227.999,
+  "to": 230.629,
+  "sid": 94,
+  "location": 2,
+  "content": "好那么我划掉了这几个部分啊",
+  "music": 0.0
+ },
+ {
+  "from": 230.629,
+  "to": 233.899,
+  "sid": 95,
+  "location": 2,
+  "content": "是个体对自己能否成功进行",
+  "music": 0.0
+ },
+ {
+  "from": 233.899,
+  "to": 236.02,
+  "sid": 96,
+  "location": 2,
+  "content": "某一成就的什么判断啊",
+  "music": 0.0
+ },
+ {
+  "from": 236.02,
+  "to": 239.65,
+  "sid": 97,
+  "location": 2,
+  "content": "影响因素有什么经验和什么经验",
+  "music": 0.0
+ },
+ {
+  "from": 239.65,
+  "to": 242.68,
+  "sid": 98,
+  "location": 2,
+  "content": "还有什么说服和什么唤醒呢",
+  "music": 0.0
+ },
+ {
+  "from": 242.68,
+  "to": 245.86,
+  "sid": 99,
+  "location": 2,
+  "content": "记住的同学可以把关键词打在评论区下啊",
+  "music": 0.0
+ },
+ {
+  "from": 245.86,
+  "to": 247.04,
+  "sid": 100,
+  "location": 2,
+  "content": "加强一下记忆",
+  "music": 0.0
+ },
+ {
+  "from": 247.119,
+  "to": 249.279,
+  "sid": 101,
+  "location": 2,
+  "content": "OK那么这期视频就到这里啦",
+  "music": 0.0
+ },
+ {
+  "from": 249.279,
+  "to": 250.599,
+  "sid": 102,
+  "location": 2,
+  "content": "我们下期视频再见吧",
+  "music": 0.0
+ },
+ {
+  "from": 250.599,
+  "to": 251.02,
+  "sid": 103,
+  "location": 2,
+  "content": "拜拜",
+  "music": 0.0
+ }
+]

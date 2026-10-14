@@ -1,0 +1,2338 @@
+[
+ {
+  "from": 0.3,
+  "to": 1.94,
+  "sid": 1,
+  "location": 2,
+  "content": "假如书籍会说话",
+  "music": 0.0
+ },
+ {
+  "from": 1.94,
+  "to": 3.08,
+  "sid": 2,
+  "location": 2,
+  "content": "今日对话",
+  "music": 0.0
+ },
+ {
+  "from": 3.08,
+  "to": 4.42,
+  "sid": 3,
+  "location": 2,
+  "content": "终身成长",
+  "music": 0.0
+ },
+ {
+  "from": 4.42,
+  "to": 5.42,
+  "sid": 4,
+  "location": 2,
+  "content": "终身成长",
+  "music": 0.0
+ },
+ {
+  "from": 5.42,
+  "to": 7.58,
+  "sid": 5,
+  "location": 2,
+  "content": "老师咱们老说天赋决定上限",
+  "music": 0.0
+ },
+ {
+  "from": 7.58,
+  "to": 10.6,
+  "sid": 6,
+  "location": 2,
+  "content": "结果您上来就说天赋论是最大的谎言",
+  "music": 0.0
+ },
+ {
+  "from": 10.6,
+  "to": 11.48,
+  "sid": 7,
+  "location": 2,
+  "content": "我们都被骗了",
+  "music": 0.0
+ },
+ {
+  "from": 11.48,
+  "to": 12.78,
+  "sid": 8,
+  "location": 2,
+  "content": "那我天天觉得自己不行",
+  "music": 0.0
+ },
+ {
+  "from": 12.78,
+  "to": 14.06,
+  "sid": 9,
+  "location": 2,
+  "content": "岂不是白白耽误了自己",
+  "music": 0.0
+ },
+ {
+  "from": 14.06,
+  "to": 15.4,
+  "sid": 10,
+  "location": 2,
+  "content": "这到底是怎么一回事啊",
+  "music": 0.0
+ },
+ {
+  "from": 15.4,
+  "to": 17.8,
+  "sid": 11,
+  "location": 2,
+  "content": "天赋不是决定人生的起点",
+  "music": 0.0
+ },
+ {
+  "from": 17.8,
+  "to": 19.6,
+  "sid": 12,
+  "location": 2,
+  "content": "而是思维方式的终点",
+  "music": 0.0
+ },
+ {
+  "from": 19.6,
+  "to": 20.26,
+  "sid": 13,
+  "location": 2,
+  "content": "啥意思",
+  "music": 0.0
+ },
+ {
+  "from": 20.26,
+  "to": 21.2,
+  "sid": 14,
+  "location": 2,
+  "content": "我有点没理解",
+  "music": 0.0
+ },
+ {
+  "from": 21.2,
+  "to": 23.28,
+  "sid": 15,
+  "location": 2,
+  "content": "大多数人把自己局限在了",
+  "music": 0.0
+ },
+ {
+  "from": 23.28,
+  "to": 25.26,
+  "sid": 16,
+  "location": 2,
+  "content": "我不行的固定型思维里哦",
+  "music": 0.0
+ },
+ {
+  "from": 25.26,
+  "to": 27.41,
+  "sid": 17,
+  "location": 2,
+  "content": "您是说我们平时觉得自己不行",
+  "music": 0.0
+ },
+ {
+  "from": 27.41,
+  "to": 29.73,
+  "sid": 18,
+  "location": 2,
+  "content": "其实是被自己的想法给骗了",
+  "music": 0.0
+ },
+ {
+  "from": 29.73,
+  "to": 31.35,
+  "sid": 19,
+  "location": 2,
+  "content": "没错你不是没天赋",
+  "music": 0.0
+ },
+ {
+  "from": 31.35,
+  "to": 34.12,
+  "sid": 20,
+  "location": 2,
+  "content": "你只是被固定型思维PUA了太久等等",
+  "music": 0.0
+ },
+ {
+  "from": 34.12,
+  "to": 36.0,
+  "sid": 21,
+  "location": 2,
+  "content": "这个固定型思维到底什么意思",
+  "music": 0.0
+ },
+ {
+  "from": 36.0,
+  "to": 38.1,
+  "sid": 22,
+  "location": 2,
+  "content": "跟我们常说的天赋又有什么关系",
+  "music": 0.0
+ },
+ {
+  "from": 38.1,
+  "to": 41.08,
+  "sid": 23,
+  "location": 2,
+  "content": "固定型思维认为能力是固定的",
+  "music": 0.0
+ },
+ {
+  "from": 41.08,
+  "to": 43.5,
+  "sid": 24,
+  "location": 2,
+  "content": "就是认为我们的能力是天生的",
+  "music": 0.0
+ },
+ {
+  "from": 43.5,
+  "to": 44.56,
+  "sid": 25,
+  "location": 2,
+  "content": "改变不了对",
+  "music": 0.0
+ },
+ {
+  "from": 44.56,
+  "to": 48.22,
+  "sid": 26,
+  "location": 2,
+  "content": "而成长型思维相信能力可以通过努力发展",
+  "music": 0.0
+ },
+ {
+  "from": 48.22,
+  "to": 49.72,
+  "sid": 27,
+  "location": 2,
+  "content": "你选择哪种思维",
+  "music": 0.0
+ },
+ {
+  "from": 49.72,
+  "to": 51.98,
+  "sid": 28,
+  "location": 2,
+  "content": "决定了你的人生上限",
+  "music": 0.0
+ },
+ {
+  "from": 51.98,
+  "to": 53.36,
+  "sid": 29,
+  "location": 2,
+  "content": "天哪这么一说",
+  "music": 0.0
+ },
+ {
+  "from": 53.36,
+  "to": 54.52,
+  "sid": 30,
+  "location": 2,
+  "content": "我好像经常在想",
+  "music": 0.0
+ },
+ {
+  "from": 54.52,
+  "to": 55.69,
+  "sid": 31,
+  "location": 2,
+  "content": "我就是这样的人了",
+  "music": 0.0
+ },
+ {
+  "from": 55.69,
+  "to": 56.27,
+  "sid": 32,
+  "location": 2,
+  "content": "改不了",
+  "music": 0.0
+ },
+ {
+  "from": 56.27,
+  "to": 58.11,
+  "sid": 33,
+  "location": 2,
+  "content": "或者我就是没赚钱的天赋",
+  "music": 0.0
+ },
+ {
+  "from": 58.11,
+  "to": 59.57,
+  "sid": 34,
+  "location": 2,
+  "content": "这就是固定型思维",
+  "music": 0.0
+ },
+ {
+  "from": 59.57,
+  "to": 61.5,
+  "sid": 35,
+  "location": 2,
+  "content": "这种思维会造成什么影响呢",
+  "music": 0.0
+ },
+ {
+  "from": 61.5,
+  "to": 63.52,
+  "sid": 36,
+  "location": 2,
+  "content": "它会让你见到困难就退缩",
+  "music": 0.0
+ },
+ {
+  "from": 63.52,
+  "to": 66.66,
+  "sid": 37,
+  "location": 2,
+  "content": "潜意识里已经放弃了成长的可能性",
+  "music": 0.0
+ },
+ {
+  "from": 66.66,
+  "to": 67.98,
+  "sid": 38,
+  "location": 2,
+  "content": "那您的意思是",
+  "music": 0.0
+ },
+ {
+  "from": 67.98,
+  "to": 69.86,
+  "sid": 39,
+  "location": 2,
+  "content": "那些我们眼中的天才",
+  "music": 0.0
+ },
+ {
+  "from": 69.86,
+  "to": 72.06,
+  "sid": 40,
+  "location": 2,
+  "content": "其实不是因为他们天生就厉害",
+  "music": 0.0
+ },
+ {
+  "from": 72.06,
+  "to": 75.76,
+  "sid": 41,
+  "location": 2,
+  "content": "而是因为天才背后都有成长型思维在支撑",
+  "music": 0.0
+ },
+ {
+  "from": 75.76,
+  "to": 77.32,
+  "sid": 42,
+  "location": 2,
+  "content": "所以他们不怕失败",
+  "music": 0.0
+ },
+ {
+  "from": 77.32,
+  "to": 78.84,
+  "sid": 43,
+  "location": 2,
+  "content": "还把挑战当成成长机会",
+  "music": 0.0
+ },
+ {
+  "from": 78.84,
+  "to": 79.66,
+  "sid": 44,
+  "location": 2,
+  "content": "正是如此",
+  "music": 0.0
+ },
+ {
+  "from": 79.66,
+  "to": 80.87,
+  "sid": 45,
+  "location": 2,
+  "content": "我有点懵了",
+  "music": 0.0
+ },
+ {
+  "from": 80.87,
+  "to": 82.89,
+  "sid": 46,
+  "location": 2,
+  "content": "难道我身边那些动不动就说",
+  "music": 0.0
+ },
+ {
+  "from": 82.89,
+  "to": 84.29,
+  "sid": 47,
+  "location": 2,
+  "content": "我不是这块料的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 84.29,
+  "to": 85.99,
+  "sid": 48,
+  "location": 2,
+  "content": "都是被自己的想法给坑了",
+  "music": 0.0
+ },
+ {
+  "from": 85.99,
+  "to": 88.71,
+  "sid": 49,
+  "location": 2,
+  "content": "固定型思维是人生最隐形的天花板",
+  "music": 0.0
+ },
+ {
+  "from": 88.71,
+  "to": 89.32,
+  "sid": 50,
+  "location": 2,
+  "content": "这么厉害",
+  "music": 0.0
+ },
+ {
+  "from": 89.32,
+  "to": 90.88,
+  "sid": 51,
+  "location": 2,
+  "content": "具体会怎么限制我们",
+  "music": 0.0
+ },
+ {
+  "from": 90.88,
+  "to": 92.56,
+  "sid": 52,
+  "location": 2,
+  "content": "他让你主动放弃可能性",
+  "music": 0.0
+ },
+ {
+  "from": 92.56,
+  "to": 95.28,
+  "sid": 53,
+  "location": 2,
+  "content": "甚至在没尝试前就认定自己会失败",
+  "music": 0.0
+ },
+ {
+  "from": 95.28,
+  "to": 96.1,
+  "sid": 54,
+  "location": 2,
+  "content": "太可怕了",
+  "music": 0.0
+ },
+ {
+  "from": 96.1,
+  "to": 99.0,
+  "sid": 55,
+  "location": 2,
+  "content": "那我怎么判断自己是不是这种固定性思维呢",
+  "music": 0.0
+ },
+ {
+  "from": 99.0,
+  "to": 99.94,
+  "sid": 56,
+  "location": 2,
+  "content": "有什么特征吗",
+  "music": 0.0
+ },
+ {
+  "from": 99.94,
+  "to": 100.86,
+  "sid": 57,
+  "location": 2,
+  "content": "三个特征",
+  "music": 0.0
+ },
+ {
+  "from": 100.86,
+  "to": 101.78,
+  "sid": 58,
+  "location": 2,
+  "content": "害怕犯错",
+  "music": 0.0
+ },
+ {
+  "from": 101.78,
+  "to": 102.22,
+  "sid": 59,
+  "location": 2,
+  "content": "逃避",
+  "music": 0.0
+ },
+ {
+  "from": 102.22,
+  "to": 103.83,
+  "sid": 60,
+  "location": 2,
+  "content": "努力嫉妒他人成功",
+  "music": 0.0
+ },
+ {
+  "from": 103.83,
+  "to": 104.81,
+  "sid": 61,
+  "location": 2,
+  "content": "还有别的表现吗",
+  "music": 0.0
+ },
+ {
+  "from": 104.81,
+  "to": 105.65,
+  "sid": 62,
+  "location": 2,
+  "content": "遇到挑战时",
+  "music": 0.0
+ },
+ {
+  "from": 105.65,
+  "to": 107.35,
+  "sid": 63,
+  "location": 2,
+  "content": "潜意识认为我做不到",
+  "music": 0.0
+ },
+ {
+  "from": 107.35,
+  "to": 109.539,
+  "sid": 64,
+  "location": 2,
+  "content": "而非我可以学会糟糕",
+  "music": 0.0
+ },
+ {
+  "from": 109.539,
+  "to": 110.459,
+  "sid": 65,
+  "location": 2,
+  "content": "我好像全中",
+  "music": 0.0
+ },
+ {
+  "from": 110.459,
+  "to": 112.199,
+  "sid": 66,
+  "location": 2,
+  "content": "特别是做事总想一步到位",
+  "music": 0.0
+ },
+ {
+  "from": 112.199,
+  "to": 114.02,
+  "sid": 67,
+  "location": 2,
+  "content": "一旦做错就感觉特没面子",
+  "music": 0.0
+ },
+ {
+  "from": 114.02,
+  "to": 115.56,
+  "sid": 68,
+  "location": 2,
+  "content": "这也是固定型思维的表现吗",
+  "music": 0.0
+ },
+ {
+  "from": 115.56,
+  "to": 117.1,
+  "sid": 69,
+  "location": 2,
+  "content": "典型的固定型思维",
+  "music": 0.0
+ },
+ {
+  "from": 117.1,
+  "to": 119.24,
+  "sid": 70,
+  "location": 2,
+  "content": "为什么这个思维方式会这样影响我们",
+  "music": 0.0
+ },
+ {
+  "from": 119.24,
+  "to": 121.86,
+  "sid": 71,
+  "location": 2,
+  "content": "因为你把失败视为能力不足的证明",
+  "music": 0.0
+ },
+ {
+  "from": 121.86,
+  "to": 124.34,
+  "sid": 72,
+  "location": 2,
+  "content": "而非学习过程中的必然环节",
+  "music": 0.0
+ },
+ {
+  "from": 124.34,
+  "to": 126.539,
+  "sid": 73,
+  "location": 2,
+  "content": "我身边好多人工作中明明做不好",
+  "music": 0.0
+ },
+ {
+  "from": 126.539,
+  "to": 127.939,
+  "sid": 74,
+  "location": 2,
+  "content": "却死撑着不求助",
+  "music": 0.0
+ },
+ {
+  "from": 127.939,
+  "to": 129.439,
+  "sid": 75,
+  "location": 2,
+  "content": "是不是也是这个原因",
+  "music": 0.0
+ },
+ {
+  "from": 129.439,
+  "to": 132.159,
+  "sid": 76,
+  "location": 2,
+  "content": "完美主义常常是固定型思维的表现",
+  "music": 0.0
+ },
+ {
+  "from": 132.159,
+  "to": 133.78,
+  "sid": 77,
+  "location": 2,
+  "content": "所以他们是怎么想的",
+  "music": 0.0
+ },
+ {
+  "from": 133.78,
+  "to": 135.3,
+  "sid": 78,
+  "location": 2,
+  "content": "他们害怕暴露无能",
+  "music": 0.0
+ },
+ {
+  "from": 135.3,
+  "to": 136.36,
+  "sid": 79,
+  "location": 2,
+  "content": "宁愿假装努力",
+  "music": 0.0
+ },
+ {
+  "from": 136.36,
+  "to": 137.94,
+  "sid": 80,
+  "location": 2,
+  "content": "也不真正寻求进步",
+  "music": 0.0
+ },
+ {
+  "from": 137.94,
+  "to": 138.71,
+  "sid": 81,
+  "location": 2,
+  "content": "这么说",
+  "music": 0.0
+ },
+ {
+  "from": 138.71,
+  "to": 140.77,
+  "sid": 82,
+  "location": 2,
+  "content": "固定型思维不仅阻碍我们进步",
+  "music": 0.0
+ },
+ {
+  "from": 140.77,
+  "to": 142.47,
+  "sid": 83,
+  "location": 2,
+  "content": "还会让我们活得特别累",
+  "music": 0.0
+ },
+ {
+  "from": 142.47,
+  "to": 144.43,
+  "sid": 84,
+  "location": 2,
+  "content": "那他是怎么偷走我们潜能的",
+  "music": 0.0
+ },
+ {
+  "from": 144.43,
+  "to": 146.56,
+  "sid": 85,
+  "location": 2,
+  "content": "它让你陷入习得性无助",
+  "music": 0.0
+ },
+ {
+  "from": 146.56,
+  "to": 147.98,
+  "sid": 86,
+  "location": 2,
+  "content": "习得性无助",
+  "music": 0.0
+ },
+ {
+  "from": 147.98,
+  "to": 148.88,
+  "sid": 87,
+  "location": 2,
+  "content": "这是什么",
+  "music": 0.0
+ },
+ {
+  "from": 148.88,
+  "to": 150.16,
+  "sid": 88,
+  "location": 2,
+  "content": "即使有机会改变",
+  "music": 0.0
+ },
+ {
+  "from": 150.16,
+  "to": 151.64,
+  "sid": 89,
+  "location": 2,
+  "content": "你也会主动放弃",
+  "music": 0.0
+ },
+ {
+  "from": 151.64,
+  "to": 153.56,
+  "sid": 90,
+  "location": 2,
+  "content": "因为你相信自己就是这样",
+  "music": 0.0
+ },
+ {
+  "from": 153.56,
+  "to": 155.92,
+  "sid": 91,
+  "location": 2,
+  "content": "天哪有研究数据支持这个观点吗",
+  "music": 0.0
+ },
+ {
+  "from": 155.92,
+  "to": 157.92,
+  "sid": 92,
+  "location": 2,
+  "content": "我们做过一项长期调查",
+  "music": 0.0
+ },
+ {
+  "from": 157.92,
+  "to": 159.1,
+  "sid": 93,
+  "location": 2,
+  "content": "数据很直白",
+  "music": 0.0
+ },
+ {
+  "from": 159.1,
+  "to": 159.86,
+  "sid": 94,
+  "location": 2,
+  "content": "具体说说看",
+  "music": 0.0
+ },
+ {
+  "from": 159.86,
+  "to": 162.24,
+  "sid": 95,
+  "location": 2,
+  "content": "如果一个25岁的人不改变思维方式",
+  "music": 0.0
+ },
+ {
+  "from": 162.24,
+  "to": 164.269,
+  "sid": 96,
+  "location": 2,
+  "content": "那么随着年龄增长",
+  "music": 0.0
+ },
+ {
+  "from": 164.269,
+  "to": 166.569,
+  "sid": 97,
+  "location": 2,
+  "content": "他成功的可能性会慢慢下降",
+  "music": 0.0
+ },
+ {
+  "from": 166.569,
+  "to": 170.389,
+  "sid": 98,
+  "location": 2,
+  "content": "大约每延迟5年成功概率下降37%",
+  "music": 0.0
+ },
+ {
+  "from": 170.389,
+  "to": 170.989,
+  "sid": 99,
+  "location": 2,
+  "content": "这么说",
+  "music": 0.0
+ },
+ {
+  "from": 170.989,
+  "to": 172.749,
+  "sid": 100,
+  "location": 2,
+  "content": "思维方式改变的越早越好",
+  "music": 0.0
+ },
+ {
+  "from": 172.749,
+  "to": 173.28,
+  "sid": 101,
+  "location": 2,
+  "content": "没错",
+  "music": 0.0
+ },
+ {
+  "from": 173.28,
+  "to": 175.9,
+  "sid": 102,
+  "location": 2,
+  "content": "越早开始相信自己能通过努力变得更好",
+  "music": 0.0
+ },
+ {
+  "from": 175.9,
+  "to": 178.06,
+  "sid": 103,
+  "location": 2,
+  "content": "你就能越早释放自己的潜力",
+  "music": 0.0
+ },
+ {
+  "from": 178.06,
+  "to": 178.96,
+  "sid": 104,
+  "location": 2,
+  "content": "我想起来了",
+  "music": 0.0
+ },
+ {
+  "from": 178.96,
+  "to": 181.4,
+  "sid": 105,
+  "location": 2,
+  "content": "有些名人也是从失败走向成功的吧",
+  "music": 0.0
+ },
+ {
+  "from": 181.4,
+  "to": 183.96,
+  "sid": 106,
+  "location": 2,
+  "content": "比如乔丹不是也被高中球队拒绝过吗",
+  "music": 0.0
+ },
+ {
+  "from": 183.96,
+  "to": 184.36,
+  "sid": 107,
+  "location": 2,
+  "content": "是的",
+  "music": 0.0
+ },
+ {
+  "from": 184.36,
+  "to": 185.72,
+  "sid": 108,
+  "location": 2,
+  "content": "他被高中球队拒绝后",
+  "music": 0.0
+ },
+ {
+  "from": 185.72,
+  "to": 187.67,
+  "sid": 109,
+  "location": 2,
+  "content": "每天凌晨四点起床加练",
+  "music": 0.0
+ },
+ {
+  "from": 187.67,
+  "to": 189.05,
+  "sid": 110,
+  "location": 2,
+  "content": "他对这些失败怎么看",
+  "music": 0.0
+ },
+ {
+  "from": 189.05,
+  "to": 192.18,
+  "sid": 111,
+  "location": 2,
+  "content": "他说我人生中失败了一次又一次",
+  "music": 0.0
+ },
+ {
+  "from": 192.18,
+  "to": 193.8,
+  "sid": 112,
+  "location": 2,
+  "content": "这就是我成功的原因",
+  "music": 0.0
+ },
+ {
+  "from": 193.8,
+  "to": 195.42,
+  "sid": 113,
+  "location": 2,
+  "content": "那中国也有这样的例子吗",
+  "music": 0.0
+ },
+ {
+  "from": 195.42,
+  "to": 197.04,
+  "sid": 114,
+  "location": 2,
+  "content": "像是王一博之类的",
+  "music": 0.0
+ },
+ {
+  "from": 197.04,
+  "to": 198.58,
+  "sid": 115,
+  "location": 2,
+  "content": "中国的例子也很多",
+  "music": 0.0
+ },
+ {
+  "from": 198.58,
+  "to": 200.48,
+  "sid": 116,
+  "location": 2,
+  "content": "比如舞者王一博",
+  "music": 0.0
+ },
+ {
+  "from": 200.48,
+  "to": 203.66,
+  "sid": 117,
+  "location": 2,
+  "content": "他从最初被评为舞蹈僵硬到舞蹈风暴",
+  "music": 0.0
+ },
+ {
+  "from": 203.66,
+  "to": 204.94,
+  "sid": 118,
+  "location": 2,
+  "content": "惊艳了所有人",
+  "music": 0.0
+ },
+ {
+  "from": 204.94,
+  "to": 205.92,
+  "sid": 119,
+  "location": 2,
+  "content": "他是怎么做到的",
+  "music": 0.0
+ },
+ {
+  "from": 205.92,
+  "to": 208.94,
+  "sid": 120,
+  "location": 2,
+  "content": "正是因为他相信努力能改变一切",
+  "music": 0.0
+ },
+ {
+  "from": 208.94,
+  "to": 209.5,
+  "sid": 121,
+  "location": 2,
+  "content": "对了",
+  "music": 0.0
+ },
+ {
+  "from": 209.5,
+  "to": 210.22,
+  "sid": 122,
+  "location": 2,
+  "content": "还有许嵩",
+  "music": 0.0
+ },
+ {
+  "from": 210.22,
+  "to": 212.08,
+  "sid": 123,
+  "location": 2,
+  "content": "他从小众歌手到后来大火",
+  "music": 0.0
+ },
+ {
+  "from": 212.08,
+  "to": 212.98,
+  "sid": 124,
+  "location": 2,
+  "content": "这也算是例子吧",
+  "music": 0.0
+ },
+ {
+  "from": 212.98,
+  "to": 214.84,
+  "sid": 125,
+  "location": 2,
+  "content": "你提到的许嵩也是很好的例子",
+  "music": 0.0
+ },
+ {
+  "from": 214.84,
+  "to": 217.92,
+  "sid": 126,
+  "location": 2,
+  "content": "从网易云小众歌手到年销千万的逆袭",
+  "music": 0.0
+ },
+ {
+  "from": 217.92,
+  "to": 218.7,
+  "sid": 127,
+  "location": 2,
+  "content": "这说明什么",
+  "music": 0.0
+ },
+ {
+  "from": 218.7,
+  "to": 221.74,
+  "sid": 128,
+  "location": 2,
+  "content": "说明成功的背后往往不是所谓的天赋",
+  "music": 0.0
+ },
+ {
+  "from": 221.74,
+  "to": 223.82,
+  "sid": 129,
+  "location": 2,
+  "content": "而是他不断尝试新风格",
+  "music": 0.0
+ },
+ {
+  "from": 223.82,
+  "to": 225.72,
+  "sid": 130,
+  "location": 2,
+  "content": "接受挑战的成长思维",
+  "music": 0.0
+ },
+ {
+  "from": 225.72,
+  "to": 228.18,
+  "sid": 131,
+  "location": 2,
+  "content": "每次失败都成为他创作的养分",
+  "music": 0.0
+ },
+ {
+  "from": 228.18,
+  "to": 231.64,
+  "sid": 132,
+  "location": 2,
+  "content": "还有爱迪生不是失败了1000次才发明出了灯泡",
+  "music": 0.0
+ },
+ {
+  "from": 231.64,
+  "to": 232.92,
+  "sid": 133,
+  "location": 2,
+  "content": "他怎么看待这些失败的",
+  "music": 0.0
+ },
+ {
+  "from": 232.92,
+  "to": 234.28,
+  "sid": 134,
+  "location": 2,
+  "content": "爱迪生有句名言",
+  "music": 0.0
+ },
+ {
+  "from": 234.28,
+  "to": 235.18,
+  "sid": 135,
+  "location": 2,
+  "content": "我没有失败",
+  "music": 0.0
+ },
+ {
+  "from": 235.18,
+  "to": 237.66,
+  "sid": 136,
+  "location": 2,
+  "content": "我只是找到了1000种行不通的方法",
+  "music": 0.0
+ },
+ {
+  "from": 237.66,
+  "to": 239.54,
+  "sid": 137,
+  "location": 2,
+  "content": "这种态度就是成长型思维吗",
+  "music": 0.0
+ },
+ {
+  "from": 239.54,
+  "to": 241.48,
+  "sid": 138,
+  "location": 2,
+  "content": "这就是典型的成长型思维者",
+  "music": 0.0
+ },
+ {
+  "from": 241.48,
+  "to": 243.29,
+  "sid": 139,
+  "location": 2,
+  "content": "面对挫折的态度等等",
+  "music": 0.0
+ },
+ {
+  "from": 243.29,
+  "to": 245.07,
+  "sid": 140,
+  "location": 2,
+  "content": "我听说您的研究还发现",
+  "music": 0.0
+ },
+ {
+  "from": 245.07,
+  "to": 247.85,
+  "sid": 141,
+  "location": 2,
+  "content": "固定型思维和成长型思维的人大脑都不一样",
+  "music": 0.0
+ },
+ {
+  "from": 247.85,
+  "to": 248.53,
+  "sid": 142,
+  "location": 2,
+  "content": "真的假的",
+  "music": 0.0
+ },
+ {
+  "from": 248.53,
+  "to": 249.84,
+  "sid": 143,
+  "location": 2,
+  "content": "大脑扫描显示",
+  "music": 0.0
+ },
+ {
+  "from": 249.84,
+  "to": 253.3,
+  "sid": 144,
+  "location": 2,
+  "content": "两种思维者面对挑战时激活的脑区完全不同",
+  "music": 0.0
+ },
+ {
+  "from": 253.3,
+  "to": 254.8,
+  "sid": 145,
+  "location": 2,
+  "content": "不会吧这么明显",
+  "music": 0.0
+ },
+ {
+  "from": 254.8,
+  "to": 256.279,
+  "sid": 146,
+  "location": 2,
+  "content": "这不仅是心态问题",
+  "music": 0.0
+ },
+ {
+  "from": 256.279,
+  "to": 258.999,
+  "sid": 147,
+  "location": 2,
+  "content": "而是实实在在影响大脑运作的模式",
+  "music": 0.0
+ },
+ {
+  "from": 258.999,
+  "to": 259.979,
+  "sid": 148,
+  "location": 2,
+  "content": "这太震撼了",
+  "music": 0.0
+ },
+ {
+  "from": 259.979,
+  "to": 261.099,
+  "sid": 149,
+  "location": 2,
+  "content": "那么问题来了",
+  "music": 0.0
+ },
+ {
+  "from": 261.099,
+  "to": 263.84,
+  "sid": 150,
+  "location": 2,
+  "content": "我们这些已经被固定下思维PUA了很久的人",
+  "music": 0.0
+ },
+ {
+  "from": 263.84,
+  "to": 264.54,
+  "sid": 151,
+  "location": 2,
+  "content": "还能改变吗",
+  "music": 0.0
+ },
+ {
+  "from": 264.54,
+  "to": 266.4,
+  "sid": 152,
+  "location": 2,
+  "content": "思维模式绝对可以改变",
+  "music": 0.0
+ },
+ {
+  "from": 266.4,
+  "to": 267.22,
+  "sid": 153,
+  "location": 2,
+  "content": "这太好了",
+  "music": 0.0
+ },
+ {
+  "from": 267.22,
+  "to": 268.04,
+  "sid": 154,
+  "location": 2,
+  "content": "有什么证据吗",
+  "music": 0.0
+ },
+ {
+  "from": 268.04,
+  "to": 270.12,
+  "sid": 155,
+  "location": 2,
+  "content": "这是我研究中最振奋人心的发现",
+  "music": 0.0
+ },
+ {
+  "from": 270.12,
+  "to": 271.95,
+  "sid": 156,
+  "location": 2,
+  "content": "大脑具有终身可塑性",
+  "music": 0.0
+ },
+ {
+  "from": 271.95,
+  "to": 273.37,
+  "sid": 157,
+  "location": 2,
+  "content": "那具体怎么改",
+  "music": 0.0
+ },
+ {
+  "from": 273.37,
+  "to": 276.43,
+  "sid": 158,
+  "location": 2,
+  "content": "有没有简单方法让我们也能拥有成长型思维",
+  "music": 0.0
+ },
+ {
+  "from": 276.43,
+  "to": 278.039,
+  "sid": 159,
+  "location": 2,
+  "content": "改变从一句话开始",
+  "music": 0.0
+ },
+ {
+  "from": 278.039,
+  "to": 279.459,
+  "sid": 160,
+  "location": 2,
+  "content": "什么话我还不够好",
+  "music": 0.0
+ },
+ {
+  "from": 279.459,
+  "to": 281.119,
+  "sid": 161,
+  "location": 2,
+  "content": "变成我还不够好呢",
+  "music": 0.0
+ },
+ {
+  "from": 281.119,
+  "to": 284.22,
+  "sid": 162,
+  "location": 2,
+  "content": "这个男子就是成长型思维的精髓",
+  "music": 0.0
+ },
+ {
+  "from": 284.22,
+  "to": 285.04,
+  "sid": 163,
+  "location": 2,
+  "content": "就这么简单",
+  "music": 0.0
+ },
+ {
+  "from": 285.04,
+  "to": 286.68,
+  "sid": 164,
+  "location": 2,
+  "content": "加个N字就能改变思维方式",
+  "music": 0.0
+ },
+ {
+  "from": 286.68,
+  "to": 287.62,
+  "sid": 165,
+  "location": 2,
+  "content": "这也太神奇了吧",
+  "music": 0.0
+ },
+ {
+  "from": 287.62,
+  "to": 289.84,
+  "sid": 166,
+  "location": 2,
+  "content": "语言塑造思维具体怎么影响的",
+  "music": 0.0
+ },
+ {
+  "from": 289.84,
+  "to": 291.22,
+  "sid": 167,
+  "location": 2,
+  "content": "我不会是终点",
+  "music": 0.0
+ },
+ {
+  "from": 291.22,
+  "to": 292.64,
+  "sid": 168,
+  "location": 2,
+  "content": "我还不会是起点",
+  "music": 0.0
+ },
+ {
+  "from": 292.64,
+  "to": 294.36,
+  "sid": 169,
+  "location": 2,
+  "content": "这个微小的语言转变",
+  "music": 0.0
+ },
+ {
+  "from": 294.36,
+  "to": 296.87,
+  "sid": 170,
+  "location": 2,
+  "content": "蕴含着对自我成长的巨大信心",
+  "music": 0.0
+ },
+ {
+  "from": 296.87,
+  "to": 298.23,
+  "sid": 171,
+  "location": 2,
+  "content": "您在书里提到过",
+  "music": 0.0
+ },
+ {
+  "from": 298.23,
+  "to": 299.06,
+  "sid": 172,
+  "location": 2,
+  "content": "实验说",
+  "music": 0.0
+ },
+ {
+  "from": 299.06,
+  "to": 301.14,
+  "sid": 173,
+  "location": 2,
+  "content": "不同的表扬方式对孩子影响很大",
+  "music": 0.0
+ },
+ {
+  "from": 301.14,
+  "to": 302.04,
+  "sid": 174,
+  "location": 2,
+  "content": "能具体说说吗",
+  "music": 0.0
+ },
+ {
+  "from": 302.04,
+  "to": 303.96,
+  "sid": 175,
+  "location": 2,
+  "content": "表扬你真聪明的孩子",
+  "music": 0.0
+ },
+ {
+  "from": 303.96,
+  "to": 305.16,
+  "sid": 176,
+  "location": 2,
+  "content": "选择简单任务",
+  "music": 0.0
+ },
+ {
+  "from": 305.16,
+  "to": 306.12,
+  "sid": 177,
+  "location": 2,
+  "content": "避免失败",
+  "music": 0.0
+ },
+ {
+  "from": 306.12,
+  "to": 307.34,
+  "sid": 178,
+  "location": 2,
+  "content": "那表扬努力的呢",
+  "music": 0.0
+ },
+ {
+  "from": 307.34,
+  "to": 310.56,
+  "sid": 179,
+  "location": 2,
+  "content": "表扬你真努力的孩子选择挑战自我的难题",
+  "music": 0.0
+ },
+ {
+  "from": 310.56,
+  "to": 312.06,
+  "sid": 180,
+  "location": 2,
+  "content": "语言决定思维",
+  "music": 0.0
+ },
+ {
+  "from": 312.06,
+  "to": 314.12,
+  "sid": 181,
+  "location": 2,
+  "content": "所以关键是不要夸人家聪明",
+  "music": 0.0
+ },
+ {
+  "from": 314.12,
+  "to": 315.22,
+  "sid": 182,
+  "location": 2,
+  "content": "而是要夸人家努力",
+  "music": 0.0
+ },
+ {
+  "from": 315.22,
+  "to": 316.36,
+  "sid": 183,
+  "location": 2,
+  "content": "这不就是鼓励教育吗",
+  "music": 0.0
+ },
+ {
+  "from": 316.36,
+  "to": 317.72,
+  "sid": 184,
+  "location": 2,
+  "content": "有什么特别的区别",
+  "music": 0.0
+ },
+ {
+  "from": 317.72,
+  "to": 320.11,
+  "sid": 185,
+  "location": 2,
+  "content": "在于聚焦点能说的更具体点吗",
+  "music": 0.0
+ },
+ {
+  "from": 320.11,
+  "to": 322.39,
+  "sid": 186,
+  "location": 2,
+  "content": "夸聪明强化了能力是固定的观念",
+  "music": 0.0
+ },
+ {
+  "from": 322.39,
+  "to": 324.93,
+  "sid": 187,
+  "location": 2,
+  "content": "夸努力强化了努力能改变结果的信念",
+  "music": 0.0
+ },
+ {
+  "from": 324.93,
+  "to": 325.81,
+  "sid": 188,
+  "location": 2,
+  "content": "影响深远",
+  "music": 0.0
+ },
+ {
+  "from": 325.81,
+  "to": 326.61,
+  "sid": 189,
+  "location": 2,
+  "content": "我有个疑问",
+  "music": 0.0
+ },
+ {
+  "from": 326.61,
+  "to": 328.96,
+  "sid": 190,
+  "location": 2,
+  "content": "这成长型思维听起来挺深奥的",
+  "music": 0.0
+ },
+ {
+  "from": 328.96,
+  "to": 330.82,
+  "sid": 191,
+  "location": 2,
+  "content": "在日常生活中具体怎么用啊",
+  "music": 0.0
+ },
+ {
+  "from": 330.82,
+  "to": 333.04,
+  "sid": 192,
+  "location": 2,
+  "content": "成长型思维的三步实践法哦",
+  "music": 0.0
+ },
+ {
+  "from": 333.04,
+  "to": 333.94,
+  "sid": 193,
+  "location": 2,
+  "content": "有方法论啊",
+  "music": 0.0
+ },
+ {
+  "from": 333.94,
+  "to": 334.52,
+  "sid": 194,
+  "location": 2,
+  "content": "说来听听",
+  "music": 0.0
+ },
+ {
+  "from": 334.52,
+  "to": 335.9,
+  "sid": 195,
+  "location": 2,
+  "content": "识别固定型思维",
+  "music": 0.0
+ },
+ {
+  "from": 335.9,
+  "to": 337.669,
+  "sid": 196,
+  "location": 2,
+  "content": "时刻接受它的存在",
+  "music": 0.0
+ },
+ {
+  "from": 337.669,
+  "to": 340.769,
+  "sid": 197,
+  "location": 2,
+  "content": "选择成长型反应能解释的再简单点吗",
+  "music": 0.0
+ },
+ {
+  "from": 340.769,
+  "to": 342.589,
+  "sid": 198,
+  "location": 2,
+  "content": "简单说就是把我做不到",
+  "music": 0.0
+ },
+ {
+  "from": 342.589,
+  "to": 344.149,
+  "sid": 199,
+  "location": 2,
+  "content": "变成我现在做不到",
+  "music": 0.0
+ },
+ {
+  "from": 344.149,
+  "to": 345.989,
+  "sid": 200,
+  "location": 2,
+  "content": "但我可以学这么说",
+  "music": 0.0
+ },
+ {
+  "from": 345.989,
+  "to": 348.26,
+  "sid": 201,
+  "location": 2,
+  "content": "比如我工作中犯错被批评",
+  "music": 0.0
+ },
+ {
+  "from": 348.26,
+  "to": 349.82,
+  "sid": 202,
+  "location": 2,
+  "content": "与其想我就是不行",
+  "music": 0.0
+ },
+ {
+  "from": 349.82,
+  "to": 351.68,
+  "sid": 203,
+  "location": 2,
+  "content": "不如想这是我学习的机会",
+  "music": 0.0
+ },
+ {
+  "from": 351.68,
+  "to": 353.26,
+  "sid": 204,
+  "location": 2,
+  "content": "理解的非常到位",
+  "music": 0.0
+ },
+ {
+  "from": 353.26,
+  "to": 354.22,
+  "sid": 205,
+  "location": 2,
+  "content": "还有其他例子吗",
+  "music": 0.0
+ },
+ {
+  "from": 354.22,
+  "to": 355.2,
+  "sid": 206,
+  "location": 2,
+  "content": "工作失误时",
+  "music": 0.0
+ },
+ {
+  "from": 355.2,
+  "to": 356.76,
+  "sid": 207,
+  "location": 2,
+  "content": "不要问我为什么这么差",
+  "music": 0.0
+ },
+ {
+  "from": 356.76,
+  "to": 358.84,
+  "sid": 208,
+  "location": 2,
+  "content": "而是问我如何从中学习",
+  "music": 0.0
+ },
+ {
+  "from": 358.84,
+  "to": 361.28,
+  "sid": 209,
+  "location": 2,
+  "content": "这就是成长型思维的实践",
+  "music": 0.0
+ },
+ {
+  "from": 361.28,
+  "to": 363.18,
+  "sid": 210,
+  "location": 2,
+  "content": "学习上遇到难题也是这样吧",
+  "music": 0.0
+ },
+ {
+  "from": 363.18,
+  "to": 364.16,
+  "sid": 211,
+  "location": 2,
+  "content": "不要想我学不会",
+  "music": 0.0
+ },
+ {
+  "from": 364.16,
+  "to": 365.92,
+  "sid": 212,
+  "location": 2,
+  "content": "而是想我需要找到新方法",
+  "music": 0.0
+ },
+ {
+  "from": 365.92,
+  "to": 369.1,
+  "sid": 213,
+  "location": 2,
+  "content": "学习困境时的成长型反应是这很难",
+  "music": 0.0
+ },
+ {
+  "from": 369.1,
+  "to": 371.16,
+  "sid": 214,
+  "location": 2,
+  "content": "所以值得我去攻克",
+  "music": 0.0
+ },
+ {
+  "from": 371.16,
+  "to": 372.54,
+  "sid": 215,
+  "location": 2,
+  "content": "这观点太新颖了",
+  "music": 0.0
+ },
+ {
+  "from": 372.54,
+  "to": 374.28,
+  "sid": 216,
+  "location": 2,
+  "content": "困难不是能力的限制",
+  "music": 0.0
+ },
+ {
+  "from": 374.28,
+  "to": 376.18,
+  "sid": 217,
+  "location": 2,
+  "content": "而是能力扩展的机会",
+  "music": 0.0
+ },
+ {
+  "from": 376.18,
+  "to": 377.87,
+  "sid": 218,
+  "location": 2,
+  "content": "那人际关系上呢",
+  "music": 0.0
+ },
+ {
+  "from": 377.87,
+  "to": 380.23,
+  "sid": 219,
+  "location": 2,
+  "content": "比如被朋友拒绝或者发生冲突",
+  "music": 0.0
+ },
+ {
+  "from": 380.23,
+  "to": 381.03,
+  "sid": 220,
+  "location": 2,
+  "content": "人际挫折时",
+  "music": 0.0
+ },
+ {
+  "from": 381.03,
+  "to": 384.17,
+  "sid": 221,
+  "location": 2,
+  "content": "固定型思维会想他不喜欢我",
+  "music": 0.0
+ },
+ {
+  "from": 384.17,
+  "to": 385.79,
+  "sid": 222,
+  "location": 2,
+  "content": "因为我不值得喜欢",
+  "music": 0.0
+ },
+ {
+  "from": 385.79,
+  "to": 387.51,
+  "sid": 223,
+  "location": 2,
+  "content": "成长型思维会怎么想",
+  "music": 0.0
+ },
+ {
+  "from": 387.51,
+  "to": 390.75,
+  "sid": 224,
+  "location": 2,
+  "content": "成长型思维会想这次互动可以教会我什么",
+  "music": 0.0
+ },
+ {
+  "from": 390.75,
+  "to": 392.52,
+  "sid": 225,
+  "location": 2,
+  "content": "有没有什么小工具或者方法",
+  "music": 0.0
+ },
+ {
+  "from": 392.52,
+  "to": 394.46,
+  "sid": 226,
+  "location": 2,
+  "content": "能帮我们每天坚持这种思维转变啊",
+  "music": 0.0
+ },
+ {
+  "from": 394.46,
+  "to": 395.8,
+  "sid": 227,
+  "location": 2,
+  "content": "感觉光知道还不够",
+  "music": 0.0
+ },
+ {
+  "from": 395.8,
+  "to": 397.76,
+  "sid": 228,
+  "location": 2,
+  "content": "成长型思维日记很有效",
+  "music": 0.0
+ },
+ {
+  "from": 397.76,
+  "to": 398.56,
+  "sid": 229,
+  "location": 2,
+  "content": "具体怎么操作",
+  "music": 0.0
+ },
+ {
+  "from": 398.56,
+  "to": 401.26,
+  "sid": 230,
+  "location": 2,
+  "content": "每天记录下你什么时候对自己说我不行",
+  "music": 0.0
+ },
+ {
+  "from": 401.26,
+  "to": 402.26,
+  "sid": 231,
+  "location": 2,
+  "content": "或我做不到",
+  "music": 0.0
+ },
+ {
+  "from": 402.26,
+  "to": 403.8,
+  "sid": 232,
+  "location": 2,
+  "content": "然后练习把它改成",
+  "music": 0.0
+ },
+ {
+  "from": 403.8,
+  "to": 405.1,
+  "sid": 233,
+  "location": 2,
+  "content": "我现在还做不到",
+  "music": 0.0
+ },
+ {
+  "from": 405.1,
+  "to": 406.76,
+  "sid": 234,
+  "location": 2,
+  "content": "但我可以学习和进步",
+  "music": 0.0
+ },
+ {
+  "from": 406.76,
+  "to": 408.22,
+  "sid": 235,
+  "location": 2,
+  "content": "坚持21天",
+  "music": 0.0
+ },
+ {
+  "from": 408.22,
+  "to": 410.26,
+  "sid": 236,
+  "location": 2,
+  "content": "这种新思维就会成为习惯",
+  "music": 0.0
+ },
+ {
+  "from": 410.26,
+  "to": 411.14,
+  "sid": 237,
+  "location": 2,
+  "content": "说到这儿",
+  "music": 0.0
+ },
+ {
+  "from": 411.14,
+  "to": 413.62,
+  "sid": 238,
+  "location": 2,
+  "content": "我想起来一个关于努力和天赋的老问题",
+  "music": 0.0
+ },
+ {
+  "from": 413.62,
+  "to": 416.26,
+  "sid": 239,
+  "location": 2,
+  "content": "很多人说再努力也比不上有天赋的人",
+  "music": 0.0
+ },
+ {
+  "from": 416.26,
+  "to": 416.86,
+  "sid": 240,
+  "location": 2,
+  "content": "您怎么看",
+  "music": 0.0
+ },
+ {
+  "from": 416.86,
+  "to": 418.58,
+  "sid": 241,
+  "location": 2,
+  "content": "努力不是天赋不足的补偿",
+  "music": 0.0
+ },
+ {
+  "from": 418.58,
+  "to": 421.44,
+  "sid": 242,
+  "location": 2,
+  "content": "而是让天赋开花的唯一途径",
+  "music": 0.0
+ },
+ {
+  "from": 421.44,
+  "to": 422.76,
+  "sid": 243,
+  "location": 2,
+  "content": "这观点太颠覆了",
+  "music": 0.0
+ },
+ {
+  "from": 422.76,
+  "to": 424.46,
+  "sid": 244,
+  "location": 2,
+  "content": "没有哪个天才是不努力的",
+  "music": 0.0
+ },
+ {
+  "from": 424.46,
+  "to": 426.64,
+  "sid": 245,
+  "location": 2,
+  "content": "区别只在于他们享受努力的过程",
+  "music": 0.0
+ },
+ {
+  "from": 426.64,
+  "to": 428.12,
+  "sid": 246,
+  "location": 2,
+  "content": "这句话真是触动到我了",
+  "music": 0.0
+ },
+ {
+  "from": 428.12,
+  "to": 429.32,
+  "sid": 247,
+  "location": 2,
+  "content": "总结一下是不是",
+  "music": 0.0
+ },
+ {
+  "from": 429.32,
+  "to": 430.68,
+  "sid": 248,
+  "location": 2,
+  "content": "只要我转变思维模式",
+  "music": 0.0
+ },
+ {
+  "from": 430.68,
+  "to": 432.98,
+  "sid": 249,
+  "location": 2,
+  "content": "其实我的潜力远比我想象的大得多",
+  "music": 0.0
+ },
+ {
+  "from": 432.98,
+  "to": 436.7,
+  "sid": 250,
+  "location": 2,
+  "content": "你的潜能正在被你给自己贴的标签慢慢杀死",
+  "music": 0.0
+ },
+ {
+  "from": 436.7,
+  "to": 438.14,
+  "sid": 251,
+  "location": 2,
+  "content": "听起来真可怕",
+  "music": 0.0
+ },
+ {
+  "from": 438.14,
+  "to": 439.28,
+  "sid": 252,
+  "location": 2,
+  "content": "摘掉这些标签",
+  "music": 0.0
+ },
+ {
+  "from": 439.28,
+  "to": 441.06,
+  "sid": 253,
+  "location": 2,
+  "content": "你会惊讶于自己的无限",
+  "music": 0.0
+ },
+ {
+  "from": 441.06,
+  "to": 441.6,
+  "sid": 254,
+  "location": 2,
+  "content": "可能",
+  "music": 0.0
+ },
+ {
+  "from": 441.6,
+  "to": 444.68,
+  "sid": 255,
+  "location": 2,
+  "content": "如果让你用一句话总结终身成长的核心观点",
+  "music": 0.0
+ },
+ {
+  "from": 444.68,
+  "to": 445.34,
+  "sid": 256,
+  "location": 2,
+  "content": "您会怎么说",
+  "music": 0.0
+ },
+ {
+  "from": 445.34,
+  "to": 449.58,
+  "sid": 257,
+  "location": 2,
+  "content": "成功者和失败者的区别不在于天生能力有多强",
+  "music": 0.0
+ },
+ {
+  "from": 449.58,
+  "to": 452.48,
+  "sid": 258,
+  "location": 2,
+  "content": "而在于是否坚信我现在做不到",
+  "music": 0.0
+ },
+ {
+  "from": 452.48,
+  "to": 453.68,
+  "sid": 259,
+  "location": 2,
+  "content": "但我正在学习",
+  "music": 0.0
+ },
+ {
+  "from": 453.68,
+  "to": 456.02,
+  "sid": 260,
+  "location": 2,
+  "content": "并且一定能做到太精辟了",
+  "music": 0.0
+ },
+ {
+  "from": 456.02,
+  "to": 457.62,
+  "sid": 261,
+  "location": 2,
+  "content": "那从今天开始",
+  "music": 0.0
+ },
+ {
+  "from": 457.62,
+  "to": 460.28,
+  "sid": 262,
+  "location": 2,
+  "content": "我们都应该怎么做才能真正培养成长型思维呢",
+  "music": 0.0
+ },
+ {
+  "from": 460.28,
+  "to": 462.64,
+  "sid": 263,
+  "location": 2,
+  "content": "从今天起不再问我有没有天赋",
+  "music": 0.0
+ },
+ {
+  "from": 462.64,
+  "to": 464.64,
+  "sid": 264,
+  "location": 2,
+  "content": "而是问我准备怎样成长",
+  "music": 0.0
+ },
+ {
+  "from": 464.64,
+  "to": 465.56,
+  "sid": 265,
+  "location": 2,
+  "content": "一旦失败了呢",
+  "music": 0.0
+ },
+ {
+  "from": 465.56,
+  "to": 467.16,
+  "sid": 266,
+  "location": 2,
+  "content": "每次失败后对自己说",
+  "music": 0.0
+ },
+ {
+  "from": 467.16,
+  "to": 468.44,
+  "sid": 267,
+  "location": 2,
+  "content": "我现在还做不到",
+  "music": 0.0
+ },
+ {
+  "from": 468.44,
+  "to": 469.68,
+  "sid": 268,
+  "location": 2,
+  "content": "但我正在学习",
+  "music": 0.0
+ },
+ {
+  "from": 469.68,
+  "to": 471.12,
+  "sid": 269,
+  "location": 2,
+  "content": "一步步接近目标",
+  "music": 0.0
+ },
+ {
+  "from": 471.12,
+  "to": 472.5,
+  "sid": 270,
+  "location": 2,
+  "content": "感谢终身成长老师",
+  "music": 0.0
+ },
+ {
+  "from": 472.5,
+  "to": 473.48,
+  "sid": 271,
+  "location": 2,
+  "content": "今天这番对话",
+  "music": 0.0
+ },
+ {
+  "from": 473.48,
+  "to": 475.56,
+  "sid": 272,
+  "location": 2,
+  "content": "真是彻底颠覆了我对天赋的认知",
+  "music": 0.0
+ },
+ {
+  "from": 475.56,
+  "to": 478.78,
+  "sid": 273,
+  "location": 2,
+  "content": "原来思维方式才是决定人生上限的关键",
+  "music": 0.0
+ },
+ {
+  "from": 478.78,
+  "to": 480.92,
+  "sid": 274,
+  "location": 2,
+  "content": "别再让天赋论定义你的上限",
+  "music": 0.0
+ },
+ {
+  "from": 480.92,
+  "to": 482.48,
+  "sid": 275,
+  "location": 2,
+  "content": "这真是打开了我的思维方式",
+  "music": 0.0
+ },
+ {
+  "from": 482.48,
+  "to": 484.32,
+  "sid": 276,
+  "location": 2,
+  "content": "感觉就像重获新生一样",
+  "music": 0.0
+ },
+ {
+  "from": 484.32,
+  "to": 486.84,
+  "sid": 277,
+  "location": 2,
+  "content": "真正的天赋是相信自己可以成长",
+  "music": 0.0
+ },
+ {
+  "from": 486.84,
+  "to": 490.8,
+  "sid": 278,
+  "location": 2,
+  "content": "小小的思维转变可能就是你人生逆袭的起点",
+  "music": 0.0
+ },
+ {
+  "from": 490.8,
+  "to": 493.64,
+  "sid": 279,
+  "location": 2,
+  "content": "最后请您给正在困惑的人一句建议吧",
+  "music": 0.0
+ },
+ {
+  "from": 493.64,
+  "to": 494.42,
+  "sid": 280,
+  "location": 2,
+  "content": "把我不行",
+  "music": 0.0
+ },
+ {
+  "from": 494.42,
+  "to": 495.74,
+  "sid": 281,
+  "location": 2,
+  "content": "改成我还不行",
+  "music": 0.0
+ },
+ {
+  "from": 495.74,
+  "to": 497.1,
+  "sid": 282,
+  "location": 2,
+  "content": "但我正在学",
+  "music": 0.0
+ },
+ {
+  "from": 497.1,
+  "to": 498.92,
+  "sid": 283,
+  "location": 2,
+  "content": "这真是简单又有力量",
+  "music": 0.0
+ },
+ {
+  "from": 498.92,
+  "to": 500.92,
+  "sid": 284,
+  "location": 2,
+  "content": "这个微小的语言习惯改变",
+  "music": 0.0
+ },
+ {
+  "from": 500.92,
+  "to": 502.96,
+  "sid": 285,
+  "location": 2,
+  "content": "将开启无限潜能的大门",
+  "music": 0.0
+ },
+ {
+  "from": 502.96,
+  "to": 505.34,
+  "sid": 286,
+  "location": 2,
+  "content": "从今天开始选择成长",
+  "music": 0.0
+ },
+ {
+  "from": 505.34,
+  "to": 507.84,
+  "sid": 287,
+  "location": 2,
+  "content": "你会发现你比想象中强大得多",
+  "music": 0.0
+ },
+ {
+  "from": 507.84,
+  "to": 509.96,
+  "sid": 288,
+  "location": 2,
+  "content": "我已经迫不及待想尝试这种思维方式了",
+  "music": 0.0
+ },
+ {
+  "from": 509.96,
+  "to": 510.68,
+  "sid": 289,
+  "location": 2,
+  "content": "各位朋友",
+  "music": 0.0
+ },
+ {
+  "from": 510.68,
+  "to": 513.4,
+  "sid": 290,
+  "location": 2,
+  "content": "你们觉得是天赋重要还是思维方式重要",
+  "music": 0.0
+ },
+ {
+  "from": 513.4,
+  "to": 515.06,
+  "sid": 291,
+  "location": 2,
+  "content": "评论区留言讨论一下吧",
+  "music": 0.0
+ },
+ {
+  "from": 515.06,
+  "to": 517.0,
+  "sid": 292,
+  "location": 2,
+  "content": "你还可以艾特好友来选边站队哦",
+  "music": 0.0
+ }
+]

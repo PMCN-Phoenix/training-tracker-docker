@@ -1,0 +1,1434 @@
+[
+ {
+  "from": 0.82,
+  "to": 2.74,
+  "sid": 1,
+  "location": 2,
+  "content": "我7月底进入全面备考状态",
+  "music": 0.0
+ },
+ {
+  "from": 2.74,
+  "to": 4.78,
+  "sid": 2,
+  "location": 2,
+  "content": "平均每天至少学习14个小时",
+  "music": 0.0
+ },
+ {
+  "from": 4.78,
+  "to": 6.31,
+  "sid": 3,
+  "location": 2,
+  "content": "英语完成两遍真题",
+  "music": 0.0
+ },
+ {
+  "from": 6.31,
+  "to": 7.78,
+  "sid": 4,
+  "location": 2,
+  "content": "数学做完三本习题集",
+  "music": 0.0
+ },
+ {
+  "from": 7.78,
+  "to": 8.86,
+  "sid": 5,
+  "location": 2,
+  "content": "加两遍真题",
+  "music": 0.0
+ },
+ {
+  "from": 8.86,
+  "to": 10.48,
+  "sid": 6,
+  "location": 2,
+  "content": "专业课至少背了七遍",
+  "music": 0.0
+ },
+ {
+  "from": 10.48,
+  "to": 11.74,
+  "sid": 7,
+  "location": 2,
+  "content": "肖四肖八至少三遍",
+  "music": 0.0
+ },
+ {
+  "from": 11.74,
+  "to": 13.15,
+  "sid": 8,
+  "location": 2,
+  "content": "依然没考上研究生",
+  "music": 0.0
+ },
+ {
+  "from": 13.15,
+  "to": 14.05,
+  "sid": 9,
+  "location": 2,
+  "content": "哈喽大家好",
+  "music": 0.0
+ },
+ {
+  "from": 14.05,
+  "to": 16.15,
+  "sid": 10,
+  "location": 2,
+  "content": "这个视频是分享一个认真备考",
+  "music": 0.0
+ },
+ {
+  "from": 16.15,
+  "to": 16.63,
+  "sid": 11,
+  "location": 2,
+  "content": "不摆烂",
+  "music": 0.0
+ },
+ {
+  "from": 16.63,
+  "to": 17.23,
+  "sid": 12,
+  "location": 2,
+  "content": "不放弃",
+  "music": 0.0
+ },
+ {
+  "from": 17.23,
+  "to": 18.31,
+  "sid": 13,
+  "location": 2,
+  "content": "坚持到最后一秒",
+  "music": 0.0
+ },
+ {
+  "from": 18.31,
+  "to": 19.87,
+  "sid": 14,
+  "location": 2,
+  "content": "依然二战失败的学姐",
+  "music": 0.0
+ },
+ {
+  "from": 19.87,
+  "to": 21.759,
+  "sid": 15,
+  "location": 2,
+  "content": "关于考研的一些建议",
+  "music": 0.0
+ },
+ {
+  "from": 21.759,
+  "to": 24.579,
+  "sid": 16,
+  "location": 2,
+  "content": "当然如果你觉得听一个失败者的意见",
+  "music": 0.0
+ },
+ {
+  "from": 24.579,
+  "to": 25.539,
+  "sid": 17,
+  "location": 2,
+  "content": "没有任何意义的话",
+  "music": 0.0
+ },
+ {
+  "from": 25.539,
+  "to": 26.619,
+  "sid": 18,
+  "location": 2,
+  "content": "那你退出就好",
+  "music": 0.0
+ },
+ {
+  "from": 26.619,
+  "to": 29.319,
+  "sid": 19,
+  "location": 2,
+  "content": "如果你觉得能够从另一个角度获得启发",
+  "music": 0.0
+ },
+ {
+  "from": 29.319,
+  "to": 30.96,
+  "sid": 20,
+  "location": 2,
+  "content": "那你不妨留下来听一听",
+  "music": 0.0
+ },
+ {
+  "from": 30.96,
+  "to": 33.0,
+  "sid": 21,
+  "location": 2,
+  "content": "首先介绍一下我的基本情况",
+  "music": 0.0
+ },
+ {
+  "from": 33.0,
+  "to": 33.9,
+  "sid": 22,
+  "location": 2,
+  "content": "我经历二战",
+  "music": 0.0
+ },
+ {
+  "from": 33.9,
+  "to": 35.76,
+  "sid": 23,
+  "location": 2,
+  "content": "家人非常支持我追求梦想",
+  "music": 0.0
+ },
+ {
+  "from": 35.76,
+  "to": 39.0,
+  "sid": 24,
+  "location": 2,
+  "content": "没有给过我任何金钱或者是心理方面的压力",
+  "music": 0.0
+ },
+ {
+  "from": 39.0,
+  "to": 40.86,
+  "sid": 25,
+  "location": 2,
+  "content": "其次因为父亲是老师的原因",
+  "music": 0.0
+ },
+ {
+  "from": 40.86,
+  "to": 42.98,
+  "sid": 26,
+  "location": 2,
+  "content": "他们学校有一间闲置的办公室",
+  "music": 0.0
+ },
+ {
+  "from": 42.98,
+  "to": 45.38,
+  "sid": 27,
+  "location": 2,
+  "content": "所以我从8月份学生开学之后",
+  "music": 0.0
+ },
+ {
+  "from": 45.38,
+  "to": 46.46,
+  "sid": 28,
+  "location": 2,
+  "content": "就一直跟着父亲",
+  "music": 0.0
+ },
+ {
+  "from": 46.46,
+  "to": 47.66,
+  "sid": 29,
+  "location": 2,
+  "content": "早上六点到校",
+  "music": 0.0
+ },
+ {
+  "from": 47.66,
+  "to": 49.07,
+  "sid": 30,
+  "location": 2,
+  "content": "晚上七点回家",
+  "music": 0.0
+ },
+ {
+  "from": 49.07,
+  "to": 50.8,
+  "sid": 31,
+  "location": 2,
+  "content": "在一所中学里面备考",
+  "music": 0.0
+ },
+ {
+  "from": 50.8,
+  "to": 51.46,
+  "sid": 32,
+  "location": 2,
+  "content": "按理来说",
+  "music": 0.0
+ },
+ {
+  "from": 51.46,
+  "to": 54.34,
+  "sid": 33,
+  "location": 2,
+  "content": "我其实拥有一个无可挑剔的备考环境",
+  "music": 0.0
+ },
+ {
+  "from": 54.34,
+  "to": 56.44,
+  "sid": 34,
+  "location": 2,
+  "content": "但为什么还是考研失败了呢",
+  "music": 0.0
+ },
+ {
+  "from": 56.44,
+  "to": 57.82,
+  "sid": 35,
+  "location": 2,
+  "content": "复盘整个备考过程",
+  "music": 0.0
+ },
+ {
+  "from": 57.82,
+  "to": 59.92,
+  "sid": 36,
+  "location": 2,
+  "content": "我总结出了几点注意事项",
+  "music": 0.0
+ },
+ {
+  "from": 59.92,
+  "to": 61.3,
+  "sid": 37,
+  "location": 2,
+  "content": "他们不分重要程度",
+  "music": 0.0
+ },
+ {
+  "from": 61.3,
+  "to": 63.52,
+  "sid": 38,
+  "location": 2,
+  "content": "我认为会影响你的整个备考过程",
+  "music": 0.0
+ },
+ {
+  "from": 63.52,
+  "to": 64.8,
+  "sid": 39,
+  "location": 2,
+  "content": "甚至是结果",
+  "music": 0.0
+ },
+ {
+  "from": 66.28,
+  "to": 69.54,
+  "sid": 40,
+  "location": 2,
+  "content": "第一点一定一定要清楚你考研的目的",
+  "music": 0.0
+ },
+ {
+  "from": 69.54,
+  "to": 72.18,
+  "sid": 41,
+  "location": 2,
+  "content": "不管你是想通过考研提升学历",
+  "music": 0.0
+ },
+ {
+  "from": 72.18,
+  "to": 73.06,
+  "sid": 42,
+  "location": 2,
+  "content": "逃避工作",
+  "music": 0.0
+ },
+ {
+  "from": 73.06,
+  "to": 74.26,
+  "sid": 43,
+  "location": 2,
+  "content": "认识更优秀的人",
+  "music": 0.0
+ },
+ {
+  "from": 74.26,
+  "to": 75.34,
+  "sid": 44,
+  "location": 2,
+  "content": "获取更多的资源",
+  "music": 0.0
+ },
+ {
+  "from": 75.34,
+  "to": 76.54,
+  "sid": 45,
+  "location": 2,
+  "content": "去更发达的城市",
+  "music": 0.0
+ },
+ {
+  "from": 76.54,
+  "to": 78.4,
+  "sid": 46,
+  "location": 2,
+  "content": "或者是你有名校情节",
+  "music": 0.0
+ },
+ {
+  "from": 78.4,
+  "to": 79.39,
+  "sid": 47,
+  "location": 2,
+  "content": "总之不管是什么",
+  "music": 0.0
+ },
+ {
+  "from": 79.39,
+  "to": 81.43,
+  "sid": 48,
+  "location": 2,
+  "content": "你必须清楚你考研的目的",
+  "music": 0.0
+ },
+ {
+  "from": 81.43,
+  "to": 83.53,
+  "sid": 49,
+  "location": 2,
+  "content": "因为它是你的直接内驱力",
+  "music": 0.0
+ },
+ {
+  "from": 83.53,
+  "to": 85.45,
+  "sid": 50,
+  "location": 2,
+  "content": "他会是你在今后每一天",
+  "music": 0.0
+ },
+ {
+  "from": 85.45,
+  "to": 86.35,
+  "sid": 51,
+  "location": 2,
+  "content": "无论刮风下雨",
+  "music": 0.0
+ },
+ {
+  "from": 86.35,
+  "to": 87.4,
+  "sid": 52,
+  "location": 2,
+  "content": "坚持去图书馆",
+  "music": 0.0
+ },
+ {
+  "from": 87.4,
+  "to": 89.29,
+  "sid": 53,
+  "location": 2,
+  "content": "在每一次情绪崩溃之后",
+  "music": 0.0
+ },
+ {
+  "from": 89.29,
+  "to": 89.83,
+  "sid": 54,
+  "location": 2,
+  "content": "擦干眼泪",
+  "music": 0.0
+ },
+ {
+  "from": 89.83,
+  "to": 90.86,
+  "sid": 55,
+  "location": 2,
+  "content": "继续学习",
+  "music": 0.0
+ },
+ {
+  "from": 90.86,
+  "to": 92.78,
+  "sid": 56,
+  "location": 2,
+  "content": "拒绝一切娱乐诱惑",
+  "music": 0.0
+ },
+ {
+  "from": 92.78,
+  "to": 94.52,
+  "sid": 57,
+  "location": 2,
+  "content": "在每一个想放弃的夜晚",
+  "music": 0.0
+ },
+ {
+  "from": 94.52,
+  "to": 96.3,
+  "sid": 58,
+  "location": 2,
+  "content": "鼓励你坚持下去的动力",
+  "music": 0.0
+ },
+ {
+  "from": 96.3,
+  "to": 99.42,
+  "sid": 59,
+  "location": 2,
+  "content": "如果你只是因为你的同学是有朋友在考研",
+  "music": 0.0
+ },
+ {
+  "from": 99.42,
+  "to": 100.44,
+  "sid": 60,
+  "location": 2,
+  "content": "而随波逐流",
+  "music": 0.0
+ },
+ {
+  "from": 100.44,
+  "to": 101.58,
+  "sid": 61,
+  "location": 2,
+  "content": "选择考研的话",
+  "music": 0.0
+ },
+ {
+  "from": 101.58,
+  "to": 104.58,
+  "sid": 62,
+  "location": 2,
+  "content": "那么你会在今后很长一段孤独的麻目的",
+  "music": 0.0
+ },
+ {
+  "from": 104.58,
+  "to": 105.54,
+  "sid": 63,
+  "location": 2,
+  "content": "痛苦的日子里",
+  "music": 0.0
+ },
+ {
+  "from": 105.54,
+  "to": 106.56,
+  "sid": 64,
+  "location": 2,
+  "content": "一遍一遍问自己",
+  "music": 0.0
+ },
+ {
+  "from": 106.56,
+  "to": 107.52,
+  "sid": 65,
+  "location": 2,
+  "content": "我需要考研吗",
+  "music": 0.0
+ },
+ {
+  "from": 107.52,
+  "to": 109.2,
+  "sid": 66,
+  "location": 2,
+  "content": "我真的想要这个学历吗",
+  "music": 0.0
+ },
+ {
+  "from": 109.2,
+  "to": 111.48,
+  "sid": 67,
+  "location": 2,
+  "content": "当你得到的答案不是那么坚定的时候",
+  "music": 0.0
+ },
+ {
+  "from": 111.48,
+  "to": 112.86,
+  "sid": 68,
+  "location": 2,
+  "content": "你很容易放弃的",
+  "music": 0.0
+ },
+ {
+  "from": 112.86,
+  "to": 114.09,
+  "sid": 69,
+  "location": 2,
+  "content": "拿我自己举例来说",
+  "music": 0.0
+ },
+ {
+  "from": 114.09,
+  "to": 116.88,
+  "sid": 70,
+  "location": 2,
+  "content": "我当时考研的一个动力是我非常想去南京生活",
+  "music": 0.0
+ },
+ {
+  "from": 116.88,
+  "to": 118.11,
+  "sid": 71,
+  "location": 2,
+  "content": "于是我每一次学累了之后",
+  "music": 0.0
+ },
+ {
+  "from": 118.11,
+  "to": 120.28,
+  "sid": 72,
+  "location": 2,
+  "content": "我就会去B站搜南京的城市纪录片",
+  "music": 0.0
+ },
+ {
+  "from": 120.28,
+  "to": 121.36,
+  "sid": 73,
+  "location": 2,
+  "content": "看完我就会对自己说",
+  "music": 0.0
+ },
+ {
+  "from": 121.36,
+  "to": 122.08,
+  "sid": 74,
+  "location": 2,
+  "content": "我想要这个东西",
+  "music": 0.0
+ },
+ {
+  "from": 122.08,
+  "to": 123.22,
+  "sid": 75,
+  "location": 2,
+  "content": "我想去这个城市",
+  "music": 0.0
+ },
+ {
+  "from": 123.22,
+  "to": 124.06,
+  "sid": 76,
+  "location": 2,
+  "content": "那我就必须努力",
+  "music": 0.0
+ },
+ {
+  "from": 124.06,
+  "to": 125.24,
+  "sid": 77,
+  "location": 2,
+  "content": "我就必须坚持",
+  "music": 0.0
+ },
+ {
+  "from": 126.9,
+  "to": 129.14,
+  "sid": 78,
+  "location": 2,
+  "content": "第二点放长线钓大鱼",
+  "music": 0.0
+ },
+ {
+  "from": 129.14,
+  "to": 131.24,
+  "sid": 79,
+  "location": 2,
+  "content": "你可能会听到一些前辈和你说",
+  "music": 0.0
+ },
+ {
+  "from": 131.24,
+  "to": 132.74,
+  "sid": 80,
+  "location": 2,
+  "content": "现在准备考研还太早了",
+  "music": 0.0
+ },
+ {
+  "from": 132.74,
+  "to": 134.44,
+  "sid": 81,
+  "location": 2,
+  "content": "不要把考研的战线拉太长",
+  "music": 0.0
+ },
+ {
+  "from": 134.44,
+  "to": 136.24,
+  "sid": 82,
+  "location": 2,
+  "content": "但我觉得你在看到这个视频的时候",
+  "music": 0.0
+ },
+ {
+  "from": 136.24,
+  "to": 137.96,
+  "sid": 83,
+  "location": 2,
+  "content": "就应该敲响警钟了",
+  "music": 0.0
+ },
+ {
+  "from": 137.96,
+  "to": 140.12,
+  "sid": 84,
+  "location": 2,
+  "content": "同样是学习960个小时",
+  "music": 0.0
+ },
+ {
+  "from": 140.12,
+  "to": 141.62,
+  "sid": 85,
+  "location": 2,
+  "content": "每天学习16个小时",
+  "music": 0.0
+ },
+ {
+  "from": 141.62,
+  "to": 144.08,
+  "sid": 86,
+  "location": 2,
+  "content": "学习两个月和每天学习八小时",
+  "music": 0.0
+ },
+ {
+  "from": 144.08,
+  "to": 145.16,
+  "sid": 87,
+  "location": 2,
+  "content": "学习四个月",
+  "music": 0.0
+ },
+ {
+  "from": 145.16,
+  "to": 147.26,
+  "sid": 88,
+  "location": 2,
+  "content": "两者学习时长是一样的",
+  "music": 0.0
+ },
+ {
+  "from": 147.26,
+  "to": 149.58,
+  "sid": 89,
+  "location": 2,
+  "content": "但是备考效率却会有很大的差别",
+  "music": 0.0
+ },
+ {
+  "from": 149.58,
+  "to": 152.22,
+  "sid": 90,
+  "location": 2,
+  "content": "且不说你能不能保证16个小时高效率",
+  "music": 0.0
+ },
+ {
+  "from": 152.22,
+  "to": 154.44,
+  "sid": 91,
+  "location": 2,
+  "content": "你的心态情绪和压力",
+  "music": 0.0
+ },
+ {
+  "from": 154.44,
+  "to": 156.69,
+  "sid": 92,
+  "location": 2,
+  "content": "前者都会比后者糟糕一些",
+  "music": 0.0
+ },
+ {
+  "from": 156.69,
+  "to": 158.4,
+  "sid": 93,
+  "location": 2,
+  "content": "考研的人数不断的增多",
+  "music": 0.0
+ },
+ {
+  "from": 158.4,
+  "to": 159.72,
+  "sid": 94,
+  "location": 2,
+  "content": "竞争变得更激烈",
+  "music": 0.0
+ },
+ {
+  "from": 159.72,
+  "to": 162.9,
+  "sid": 95,
+  "location": 2,
+  "content": "我认为越早开始才是更保险的做法",
+  "music": 0.0
+ },
+ {
+  "from": 164.459,
+  "to": 166.339,
+  "sid": 96,
+  "location": 2,
+  "content": "第三点心态嗯",
+  "music": 0.0
+ },
+ {
+  "from": 166.339,
+  "to": 168.799,
+  "sid": 97,
+  "location": 2,
+  "content": "心态是不管你在备考的过程还是上考场",
+  "music": 0.0
+ },
+ {
+  "from": 168.799,
+  "to": 170.64,
+  "sid": 98,
+  "location": 2,
+  "content": "都是非常重要的一个因素",
+  "music": 0.0
+ },
+ {
+  "from": 170.64,
+  "to": 171.72,
+  "sid": 99,
+  "location": 2,
+  "content": "平时备考过程",
+  "music": 0.0
+ },
+ {
+  "from": 171.72,
+  "to": 173.88,
+  "sid": 100,
+  "location": 2,
+  "content": "如果你一直处于一个情绪内耗的状态",
+  "music": 0.0
+ },
+ {
+  "from": 173.88,
+  "to": 176.629,
+  "sid": 101,
+  "location": 2,
+  "content": "他会对你的备考效率有很大的影响",
+  "music": 0.0
+ },
+ {
+  "from": 176.629,
+  "to": 178.429,
+  "sid": 102,
+  "location": 2,
+  "content": "上考场的时候就更不用说了",
+  "music": 0.0
+ },
+ {
+  "from": 178.429,
+  "to": 179.269,
+  "sid": 103,
+  "location": 2,
+  "content": "然后我自己举例",
+  "music": 0.0
+ },
+ {
+  "from": 179.269,
+  "to": 181.1,
+  "sid": 104,
+  "location": 2,
+  "content": "今年我考英语一的时候嗯",
+  "music": 0.0
+ },
+ {
+  "from": 181.1,
+  "to": 182.21,
+  "sid": 105,
+  "location": 2,
+  "content": "因为我是先写作文",
+  "music": 0.0
+ },
+ {
+  "from": 182.21,
+  "to": 183.32,
+  "sid": 106,
+  "location": 2,
+  "content": "大小作文我都准备过",
+  "music": 0.0
+ },
+ {
+  "from": 183.32,
+  "to": 183.8,
+  "sid": 107,
+  "location": 2,
+  "content": "这是大作文",
+  "music": 0.0
+ },
+ {
+  "from": 183.8,
+  "to": 184.88,
+  "sid": 108,
+  "location": 2,
+  "content": "考前我押到了题",
+  "music": 0.0
+ },
+ {
+  "from": 184.88,
+  "to": 186.62,
+  "sid": 109,
+  "location": 2,
+  "content": "当时不知道为什么我会如此紧张",
+  "music": 0.0
+ },
+ {
+  "from": 186.62,
+  "to": 188.24,
+  "sid": 110,
+  "location": 2,
+  "content": "我在写作文的时候手一直抖",
+  "music": 0.0
+ },
+ {
+  "from": 188.24,
+  "to": 189.86,
+  "sid": 111,
+  "location": 2,
+  "content": "我其实是练过了作文字体的",
+  "music": 0.0
+ },
+ {
+  "from": 189.86,
+  "to": 190.76,
+  "sid": 112,
+  "location": 2,
+  "content": "但是因为我手一直抖",
+  "music": 0.0
+ },
+ {
+  "from": 190.76,
+  "to": 191.18,
+  "sid": 113,
+  "location": 2,
+  "content": "一直抖",
+  "music": 0.0
+ },
+ {
+  "from": 191.18,
+  "to": 192.14,
+  "sid": 114,
+  "location": 2,
+  "content": "写的歪歪扭扭的",
+  "music": 0.0
+ },
+ {
+  "from": 192.14,
+  "to": 194.55,
+  "sid": 115,
+  "location": 2,
+  "content": "而且很多基础单词拼写我都开始犹豫",
+  "music": 0.0
+ },
+ {
+  "from": 194.55,
+  "to": 196.41,
+  "sid": 116,
+  "location": 2,
+  "content": "导致写作文花费了很多的时间",
+  "music": 0.0
+ },
+ {
+  "from": 196.41,
+  "to": 197.67,
+  "sid": 117,
+  "location": 2,
+  "content": "然后就前面的阅读时间不够",
+  "music": 0.0
+ },
+ {
+  "from": 197.67,
+  "to": 200.07,
+  "sid": 118,
+  "location": 2,
+  "content": "其实我今年失败90%的原因就是英语",
+  "music": 0.0
+ },
+ {
+  "from": 200.07,
+  "to": 201.63,
+  "sid": 119,
+  "location": 2,
+  "content": "所以心态影响发挥",
+  "music": 0.0
+ },
+ {
+  "from": 201.63,
+  "to": 202.89,
+  "sid": 120,
+  "location": 2,
+  "content": "发挥影响结果嘛",
+  "music": 0.0
+ },
+ {
+  "from": 202.89,
+  "to": 205.35,
+  "sid": 121,
+  "location": 2,
+  "content": "大家可以去搜一些心态按摩的视频",
+  "music": 0.0
+ },
+ {
+  "from": 205.35,
+  "to": 205.98,
+  "sid": 122,
+  "location": 2,
+  "content": "看一看",
+  "music": 0.0
+ },
+ {
+  "from": 205.98,
+  "to": 208.92,
+  "sid": 123,
+  "location": 2,
+  "content": "在备考的过程当中调剂好自己的情绪",
+  "music": 0.0
+ },
+ {
+  "from": 210.52,
+  "to": 211.32,
+  "sid": 124,
+  "location": 2,
+  "content": "第四点",
+  "music": 0.0
+ },
+ {
+  "from": 211.32,
+  "to": 214.02,
+  "sid": 125,
+  "location": 2,
+  "content": "不要用身体的勤劳去掩盖思维的懒惰",
+  "music": 0.0
+ },
+ {
+  "from": 214.02,
+  "to": 216.99,
+  "sid": 126,
+  "location": 2,
+  "content": "我不再去重复的赘述我整个备考的日程了",
+  "music": 0.0
+ },
+ {
+  "from": 216.99,
+  "to": 218.4,
+  "sid": 127,
+  "location": 2,
+  "content": "但是包括我父母在内",
+  "music": 0.0
+ },
+ {
+  "from": 218.4,
+  "to": 220.36,
+  "sid": 128,
+  "location": 2,
+  "content": "所有见证了我备考过程的人",
+  "music": 0.0
+ },
+ {
+  "from": 220.36,
+  "to": 221.98,
+  "sid": 129,
+  "location": 2,
+  "content": "都觉得我能够考上",
+  "music": 0.0
+ },
+ {
+  "from": 221.98,
+  "to": 223.0,
+  "sid": 130,
+  "location": 2,
+  "content": "结果出来之后",
+  "music": 0.0
+ },
+ {
+  "from": 223.0,
+  "to": 224.26,
+  "sid": 131,
+  "location": 2,
+  "content": "我就开始反思自己",
+  "music": 0.0
+ },
+ {
+  "from": 224.26,
+  "to": 226.3,
+  "sid": 132,
+  "location": 2,
+  "content": "我每天坐在那从早到晚的学习",
+  "music": 0.0
+ },
+ {
+  "from": 226.3,
+  "to": 227.46,
+  "sid": 133,
+  "location": 2,
+  "content": "真的学进去了吗",
+  "music": 0.0
+ },
+ {
+  "from": 227.46,
+  "to": 229.56,
+  "sid": 134,
+  "location": 2,
+  "content": "我背的专业课是不是左耳进右耳出",
+  "music": 0.0
+ },
+ {
+  "from": 229.56,
+  "to": 231.63,
+  "sid": 135,
+  "location": 2,
+  "content": "根本没有去掌握它的内在逻辑",
+  "music": 0.0
+ },
+ {
+  "from": 231.63,
+  "to": 233.76,
+  "sid": 136,
+  "location": 2,
+  "content": "我做的数学是不是只会做一道题",
+  "music": 0.0
+ },
+ {
+  "from": 233.76,
+  "to": 236.12,
+  "sid": 137,
+  "location": 2,
+  "content": "而不是去把握它整个体系的要领",
+  "music": 0.0
+ },
+ {
+  "from": 236.12,
+  "to": 239.63,
+  "sid": 138,
+  "location": 2,
+  "content": "我是不是只是通过看起来很努力来感动自己",
+  "music": 0.0
+ },
+ {
+  "from": 239.63,
+  "to": 241.88,
+  "sid": 139,
+  "location": 2,
+  "content": "所以大家前车之鉴在这里",
+  "music": 0.0
+ },
+ {
+  "from": 241.88,
+  "to": 243.02,
+  "sid": 140,
+  "location": 2,
+  "content": "如果你开始学习",
+  "music": 0.0
+ },
+ {
+  "from": 243.02,
+  "to": 245.54,
+  "sid": 141,
+  "location": 2,
+  "content": "你坐在椅子上一分钟就要有一分钟的收获",
+  "music": 0.0
+ },
+ {
+  "from": 245.54,
+  "to": 248.44,
+  "sid": 142,
+  "location": 2,
+  "content": "不要用身体的勤劳去掩盖思维的懒惰",
+  "music": 0.0
+ },
+ {
+  "from": 249.94,
+  "to": 250.74,
+  "sid": 143,
+  "location": 2,
+  "content": "第五点",
+  "music": 0.0
+ },
+ {
+  "from": 250.74,
+  "to": 252.3,
+  "sid": 144,
+  "location": 2,
+  "content": "不要追求完美的计划",
+  "music": 0.0
+ },
+ {
+  "from": 252.3,
+  "to": 254.16,
+  "sid": 145,
+  "location": 2,
+  "content": "支持内化才是最重要的",
+  "music": 0.0
+ },
+ {
+  "from": 254.16,
+  "to": 256.62,
+  "sid": 146,
+  "location": 2,
+  "content": "我相信很多同学在刚开始备考的时候",
+  "music": 0.0
+ },
+ {
+  "from": 256.62,
+  "to": 259.87,
+  "sid": 147,
+  "location": 2,
+  "content": "都会制定自己的记约周日计划",
+  "music": 0.0
+ },
+ {
+  "from": 259.87,
+  "to": 261.19,
+  "sid": 148,
+  "location": 2,
+  "content": "这当然没有任何问题",
+  "music": 0.0
+ },
+ {
+  "from": 261.19,
+  "to": 263.74,
+  "sid": 149,
+  "location": 2,
+  "content": "并且是一个很好的量化学习任务的方法",
+  "music": 0.0
+ },
+ {
+  "from": 263.74,
+  "to": 267.09,
+  "sid": 150,
+  "location": 2,
+  "content": "你可以将你的学习阶段分为基础强化冲刺",
+  "music": 0.0
+ },
+ {
+  "from": 267.09,
+  "to": 268.59,
+  "sid": 151,
+  "location": 2,
+  "content": "目的是让你清楚地知道",
+  "music": 0.0
+ },
+ {
+  "from": 268.59,
+  "to": 271.06,
+  "sid": 152,
+  "location": 2,
+  "content": "你在每一个阶段需要达到什么样的水平",
+  "music": 0.0
+ },
+ {
+  "from": 271.06,
+  "to": 274.12,
+  "sid": 153,
+  "location": 2,
+  "content": "但如果你只是追求表面上的完成计划",
+  "music": 0.0
+ },
+ {
+  "from": 274.12,
+  "to": 276.68,
+  "sid": 154,
+  "location": 2,
+  "content": "比如你在基础阶段并没有把握基础",
+  "music": 0.0
+ },
+ {
+  "from": 276.68,
+  "to": 278.9,
+  "sid": 155,
+  "location": 2,
+  "content": "而因为周围同学看似超越",
+  "music": 0.0
+ },
+ {
+  "from": 278.9,
+  "to": 280.82,
+  "sid": 156,
+  "location": 2,
+  "content": "你匆忙的开启了强化阶段",
+  "music": 0.0
+ },
+ {
+  "from": 280.82,
+  "to": 282.2,
+  "sid": 157,
+  "location": 2,
+  "content": "你会被自己骗分数",
+  "music": 0.0
+ },
+ {
+  "from": 282.2,
+  "to": 283.04,
+  "sid": 158,
+  "location": 2,
+  "content": "不会被你骗",
+  "music": 0.0
+ },
+ {
+  "from": 283.04,
+  "to": 284.94,
+  "sid": 159,
+  "location": 2,
+  "content": "专业课被欺骗能上岸吗",
+  "music": 0.0
+ },
+ {
+  "from": 284.94,
+  "to": 286.92,
+  "sid": 160,
+  "location": 2,
+  "content": "英语真题做三遍能上70分吗",
+  "music": 0.0
+ },
+ {
+  "from": 286.92,
+  "to": 288.51,
+  "sid": 161,
+  "location": 2,
+  "content": "数学做完三本习题稳了吗",
+  "music": 0.0
+ },
+ {
+  "from": 288.51,
+  "to": 290.76,
+  "sid": 162,
+  "location": 2,
+  "content": "我告诉你答案不能不能不稳",
+  "music": 0.0
+ },
+ {
+  "from": 290.76,
+  "to": 291.66,
+  "sid": 163,
+  "location": 2,
+  "content": "你能不能上岸",
+  "music": 0.0
+ },
+ {
+  "from": 291.66,
+  "to": 293.02,
+  "sid": 164,
+  "location": 2,
+  "content": "和你做了多少习题册",
+  "music": 0.0
+ },
+ {
+  "from": 293.02,
+  "to": 294.02,
+  "sid": 165,
+  "location": 2,
+  "content": "熬了多少夜",
+  "music": 0.0
+ },
+ {
+  "from": 294.02,
+  "to": 296.36,
+  "sid": 166,
+  "location": 2,
+  "content": "完成了几轮复习没有任何关系",
+  "music": 0.0
+ },
+ {
+  "from": 296.36,
+  "to": 299.3,
+  "sid": 167,
+  "location": 2,
+  "content": "关键是那些知识有没有真正的住进你的脑子里",
+  "music": 0.0
+ },
+ {
+  "from": 299.3,
+  "to": 302.4,
+  "sid": 168,
+  "location": 2,
+  "content": "你能不能在考场的高压状态下把它写在试卷上",
+  "music": 0.0
+ },
+ {
+  "from": 302.4,
+  "to": 305.6,
+  "sid": 169,
+  "location": 2,
+  "content": "能不能将你平时学到的知识展现在考官面前",
+  "music": 0.0
+ },
+ {
+  "from": 305.6,
+  "to": 308.06,
+  "sid": 170,
+  "location": 2,
+  "content": "所以大家不要去追求一个完美的计划",
+  "music": 0.0
+ },
+ {
+  "from": 308.06,
+  "to": 309.89,
+  "sid": 171,
+  "location": 2,
+  "content": "知识内化才是最重要的",
+  "music": 0.0
+ },
+ {
+  "from": 309.89,
+  "to": 310.4,
+  "sid": 172,
+  "location": 2,
+  "content": "好啦",
+  "music": 0.0
+ },
+ {
+  "from": 310.4,
+  "to": 311.36,
+  "sid": 173,
+  "location": 2,
+  "content": "以上就是几点",
+  "music": 0.0
+ },
+ {
+  "from": 311.36,
+  "to": 314.66,
+  "sid": 174,
+  "location": 2,
+  "content": "从我过往失败的经验当中总结出来的几点建议",
+  "music": 0.0
+ },
+ {
+  "from": 314.66,
+  "to": 315.98,
+  "sid": 175,
+  "location": 2,
+  "content": "希望对大家有帮助",
+  "music": 0.0
+ },
+ {
+  "from": 315.98,
+  "to": 318.3,
+  "sid": 176,
+  "location": 2,
+  "content": "也祝愿大家在今后一年不到的时间里",
+  "music": 0.0
+ },
+ {
+  "from": 318.3,
+  "to": 319.92,
+  "sid": 177,
+  "location": 2,
+  "content": "能够收获自己想要的东西",
+  "music": 0.0
+ },
+ {
+  "from": 319.92,
+  "to": 321.06,
+  "sid": 178,
+  "location": 2,
+  "content": "我们下期再见吧",
+  "music": 0.0
+ },
+ {
+  "from": 321.06,
+  "to": 323.72,
+  "sid": 179,
+  "location": 2,
+  "content": "拜拜",
+  "music": 0.0
+ }
+]

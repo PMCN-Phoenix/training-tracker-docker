@@ -1,0 +1,954 @@
+[
+ {
+  "from": 0.04,
+  "to": 2.11,
+  "sid": 1,
+  "location": 2,
+  "content": "熊大我照你说的做了",
+  "music": 0.0
+ },
+ {
+  "from": 2.11,
+  "to": 4.05,
+  "sid": 2,
+  "location": 2,
+  "content": "那天晚上听完双曲贴现",
+  "music": 0.0
+ },
+ {
+  "from": 4.05,
+  "to": 5.59,
+  "sid": 3,
+  "location": 2,
+  "content": "我确实背了一个单词",
+  "music": 0.0
+ },
+ {
+  "from": 5.59,
+  "to": 8.33,
+  "sid": 4,
+  "location": 2,
+  "content": "但我当时觉得这也太看不起我了吧",
+  "music": 0.0
+ },
+ {
+  "from": 8.33,
+  "to": 10.14,
+  "sid": 5,
+  "location": 2,
+  "content": "背一个单词有什么用",
+  "music": 0.0
+ },
+ {
+  "from": 10.14,
+  "to": 12.6,
+  "sid": 6,
+  "location": 2,
+  "content": "于是第二天我给自己定了个新计划",
+  "music": 0.0
+ },
+ {
+  "from": 12.6,
+  "to": 13.78,
+  "sid": 7,
+  "location": 2,
+  "content": "每天背50个",
+  "music": 0.0
+ },
+ {
+  "from": 13.78,
+  "to": 15.26,
+  "sid": 8,
+  "location": 2,
+  "content": "顺便还要跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 15.26,
+  "to": 16.78,
+  "sid": 9,
+  "location": 2,
+  "content": "结果你也猜到了",
+  "music": 0.0
+ },
+ {
+  "from": 16.78,
+  "to": 17.86,
+  "sid": 10,
+  "location": 2,
+  "content": "我坚持了两天",
+  "music": 0.0
+ },
+ {
+  "from": 17.86,
+  "to": 19.3,
+  "sid": 11,
+  "location": 2,
+  "content": "第三天就彻底崩了",
+  "music": 0.0
+ },
+ {
+  "from": 19.3,
+  "to": 20.44,
+  "sid": 12,
+  "location": 2,
+  "content": "我是不是没救了",
+  "music": 0.0
+ },
+ {
+  "from": 20.44,
+  "to": 22.96,
+  "sid": 13,
+  "location": 2,
+  "content": "我是不是天生就没有意志力这种东西",
+  "music": 0.0
+ },
+ {
+  "from": 22.96,
+  "to": 23.64,
+  "sid": 14,
+  "location": 2,
+  "content": "你没救的",
+  "music": 0.0
+ },
+ {
+  "from": 23.64,
+  "to": 24.36,
+  "sid": 15,
+  "location": 2,
+  "content": "不是意志力",
+  "music": 0.0
+ },
+ {
+  "from": 24.36,
+  "to": 25.7,
+  "sid": 16,
+  "location": 2,
+  "content": "是你那傲慢的雄心",
+  "music": 0.0
+ },
+ {
+  "from": 25.7,
+  "to": 27.84,
+  "sid": 17,
+  "location": 2,
+  "content": "你犯了一个所有失败者都会犯的错",
+  "music": 0.2857142711370262
+ },
+ {
+  "from": 27.84,
+  "to": 29.94,
+  "sid": 18,
+  "location": 2,
+  "content": "你试图用爆发力去挑战持久战",
+  "music": 0.0
+ },
+ {
+  "from": 29.94,
+  "to": 31.32,
+  "sid": 19,
+  "location": 2,
+  "content": "当我们制定大目标时",
+  "music": 0.0
+ },
+ {
+  "from": 31.32,
+  "to": 32.44,
+  "sid": 20,
+  "location": 2,
+  "content": "我们会感到兴奋",
+  "music": 0.0
+ },
+ {
+  "from": 32.44,
+  "to": 34.16,
+  "sid": 21,
+  "location": 2,
+  "content": "但这是一种多巴胺骗局",
+  "music": 0.0
+ },
+ {
+  "from": 34.16,
+  "to": 36.06,
+  "sid": 22,
+  "location": 2,
+  "content": "你的大脑在想象成功时很爽",
+  "music": 0.0
+ },
+ {
+  "from": 36.06,
+  "to": 37.5,
+  "sid": 23,
+  "location": 2,
+  "content": "但在执行时却很怂",
+  "music": 0.27419352627471794
+ },
+ {
+  "from": 37.5,
+  "to": 39.96,
+  "sid": 24,
+  "location": 2,
+  "content": "因为你的大脑里有一个部位叫杏仁核",
+  "music": 0.0
+ },
+ {
+  "from": 39.96,
+  "to": 41.6,
+  "sid": 25,
+  "location": 2,
+  "content": "他是负责恐惧和防御的",
+  "music": 0.0
+ },
+ {
+  "from": 41.6,
+  "to": 43.66,
+  "sid": 26,
+  "location": 2,
+  "content": "当你告诉他我要跑5km时",
+  "music": 0.0
+ },
+ {
+  "from": 43.66,
+  "to": 45.34,
+  "sid": 27,
+  "location": 2,
+  "content": "杏仁核会瞬间拉响警报",
+  "music": 0.0
+ },
+ {
+  "from": 45.34,
+  "to": 46.82,
+  "sid": 28,
+  "location": 2,
+  "content": "太累了太危险了",
+  "music": 0.0
+ },
+ {
+  "from": 46.82,
+  "to": 48.2,
+  "sid": 29,
+  "location": 2,
+  "content": "这是巨大的能量消耗",
+  "music": 0.0
+ },
+ {
+  "from": 48.2,
+  "to": 49.98,
+  "sid": 30,
+  "location": 2,
+  "content": "于是它会切断你的动力",
+  "music": 0.0
+ },
+ {
+  "from": 49.98,
+  "to": 51.32,
+  "sid": 31,
+  "location": 2,
+  "content": "强迫你回到安全区",
+  "music": 0.0
+ },
+ {
+  "from": 51.32,
+  "to": 52.5,
+  "sid": 32,
+  "location": 2,
+  "content": "你的目标越宏大",
+  "music": 0.0
+ },
+ {
+  "from": 52.5,
+  "to": 54.02,
+  "sid": 33,
+  "location": 2,
+  "content": "你的大脑反抗越剧烈",
+  "music": 0.0
+ },
+ {
+  "from": 54.02,
+  "to": 56.66,
+  "sid": 34,
+  "location": 2,
+  "content": "可是那我该怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 56.66,
+  "to": 58.46,
+  "sid": 35,
+  "location": 2,
+  "content": "难道因为怕大脑反抗",
+  "music": 0.0
+ },
+ {
+  "from": 58.46,
+  "to": 60.42,
+  "sid": 36,
+  "location": 2,
+  "content": "我就一辈子当个废物吗",
+  "music": 0.0
+ },
+ {
+  "from": 60.42,
+  "to": 62.18,
+  "sid": 37,
+  "location": 2,
+  "content": "你要学会欺骗你的杏仁核",
+  "music": 0.0
+ },
+ {
+  "from": 62.18,
+  "to": 64.26,
+  "sid": 38,
+  "location": 2,
+  "content": "在物理学里有一个概念叫活化",
+  "music": 0.0
+ },
+ {
+  "from": 64.26,
+  "to": 66.18,
+  "sid": 39,
+  "location": 2,
+  "content": "能想要推动一个静止的重物",
+  "music": 0.0
+ },
+ {
+  "from": 66.18,
+  "to": 67.86,
+  "sid": 40,
+  "location": 2,
+  "content": "最难的是开始的那一瞬间",
+  "music": 0.0
+ },
+ {
+  "from": 67.86,
+  "to": 68.78,
+  "sid": 41,
+  "location": 2,
+  "content": "一旦动起来",
+  "music": 0.0
+ },
+ {
+  "from": 68.78,
+  "to": 70.28,
+  "sid": 42,
+  "location": 2,
+  "content": "所需的力气就会小得多",
+  "music": 0.0
+ },
+ {
+  "from": 70.28,
+  "to": 71.62,
+  "sid": 43,
+  "location": 2,
+  "content": "做事的逻辑也是一样",
+  "music": 0.0
+ },
+ {
+  "from": 71.62,
+  "to": 73.38,
+  "sid": 44,
+  "location": 2,
+  "content": "你为什么背不下50个单词",
+  "music": 0.0
+ },
+ {
+  "from": 73.38,
+  "to": 76.12,
+  "sid": 45,
+  "location": 2,
+  "content": "因为开始背50个这个动作的启动门槛太高了",
+  "music": 0.0
+ },
+ {
+  "from": 76.12,
+  "to": 77.46,
+  "sid": 46,
+  "location": 2,
+  "content": "你需要把门槛砍掉",
+  "music": 0.0
+ },
+ {
+  "from": 77.46,
+  "to": 78.3,
+  "sid": 47,
+  "location": 2,
+  "content": "砍到多少",
+  "music": 0.0
+ },
+ {
+  "from": 78.3,
+  "to": 79.58,
+  "sid": 48,
+  "location": 2,
+  "content": "砍到不可思议的小",
+  "music": 0.0
+ },
+ {
+  "from": 79.58,
+  "to": 81.34,
+  "sid": 49,
+  "location": 2,
+  "content": "不要背50个就背一个",
+  "music": 0.0
+ },
+ {
+  "from": 81.34,
+  "to": 82.38,
+  "sid": 50,
+  "location": 2,
+  "content": "不要跑5km",
+  "music": 0.0
+ },
+ {
+  "from": 82.38,
+  "to": 83.67,
+  "sid": 51,
+  "location": 2,
+  "content": "就做一个俯卧撑",
+  "music": 0.0
+ },
+ {
+  "from": 83.67,
+  "to": 85.37,
+  "sid": 52,
+  "location": 2,
+  "content": "熊大你又来啦",
+  "music": 0.0
+ },
+ {
+  "from": 85.37,
+  "to": 87.05,
+  "sid": 53,
+  "location": 2,
+  "content": "你是想说积少成多嘛",
+  "music": 0.0
+ },
+ {
+  "from": 87.05,
+  "to": 88.07,
+  "sid": 54,
+  "location": 2,
+  "content": "但我真的不信",
+  "music": 0.0
+ },
+ {
+  "from": 88.07,
+  "to": 90.41,
+  "sid": 55,
+  "location": 2,
+  "content": "每天做一个俯卧撑能练出肌肉",
+  "music": 0.0
+ },
+ {
+  "from": 90.41,
+  "to": 92.51,
+  "sid": 56,
+  "location": 2,
+  "content": "你看你又在算计结果",
+  "music": 0.0
+ },
+ {
+  "from": 92.51,
+  "to": 95.54,
+  "sid": 57,
+  "location": 2,
+  "content": "微习惯的核心目的根本不是为了让你练出肌肉",
+  "music": 0.0
+ },
+ {
+  "from": 95.54,
+  "to": 97.12,
+  "sid": 58,
+  "location": 2,
+  "content": "也不是为了让你背完字典",
+  "music": 0.0
+ },
+ {
+  "from": 97.12,
+  "to": 98.62,
+  "sid": 59,
+  "location": 2,
+  "content": "它的核心目的只有一个",
+  "music": 0.0
+ },
+ {
+  "from": 98.62,
+  "to": 99.82,
+  "sid": 60,
+  "location": 2,
+  "content": "让你的大脑不害怕",
+  "music": 0.0
+ },
+ {
+  "from": 99.82,
+  "to": 101.86,
+  "sid": 61,
+  "location": 2,
+  "content": "开始当你只做一个俯卧撑时",
+  "music": 0.0
+ },
+ {
+  "from": 101.86,
+  "to": 104.3,
+  "sid": 62,
+  "location": 2,
+  "content": "杏仁核会觉得切这算什么挑战",
+  "music": 0.0
+ },
+ {
+  "from": 104.3,
+  "to": 105.44,
+  "sid": 63,
+  "location": 2,
+  "content": "于是他不会报警",
+  "music": 0.0
+ },
+ {
+  "from": 105.44,
+  "to": 106.26,
+  "sid": 64,
+  "location": 2,
+  "content": "他会放行",
+  "music": 0.0
+ },
+ {
+  "from": 106.26,
+  "to": 107.56,
+  "sid": 65,
+  "location": 2,
+  "content": "但奇妙的事情在于",
+  "music": 0.0
+ },
+ {
+  "from": 107.56,
+  "to": 109.24,
+  "sid": 66,
+  "location": 2,
+  "content": "一旦你趴在地上做了这一个",
+  "music": 0.0
+ },
+ {
+  "from": 109.24,
+  "to": 110.76,
+  "sid": 67,
+  "location": 2,
+  "content": "你的物理状态就改变了",
+  "music": 0.10526315096952658
+ },
+ {
+  "from": 110.76,
+  "to": 112.3,
+  "sid": 68,
+  "location": 2,
+  "content": "你已经克服了静摩擦力",
+  "music": 0.0
+ },
+ {
+  "from": 112.3,
+  "to": 113.78,
+  "sid": 69,
+  "location": 2,
+  "content": "你会发现做第二个",
+  "music": 0.0
+ },
+ {
+  "from": 113.78,
+  "to": 116.04,
+  "sid": 70,
+  "location": 2,
+  "content": "第三个竟然比做第一个要容易得多",
+  "music": 0.0
+ },
+ {
+  "from": 116.04,
+  "to": 117.3,
+  "sid": 71,
+  "location": 2,
+  "content": "你不是在锻炼身体",
+  "music": 0.0
+ },
+ {
+  "from": 117.3,
+  "to": 118.919,
+  "sid": 72,
+  "location": 2,
+  "content": "你是在锻炼开始的能力",
+  "music": 0.0
+ },
+ {
+  "from": 118.919,
+  "to": 120.56,
+  "sid": 73,
+  "location": 2,
+  "content": "原来是这样吗",
+  "music": 0.0
+ },
+ {
+  "from": 120.56,
+  "to": 123.26,
+  "sid": 74,
+  "location": 2,
+  "content": "所以我一直在跟我的大脑躲猫猫",
+  "music": 0.0
+ },
+ {
+  "from": 123.26,
+  "to": 124.76,
+  "sid": 75,
+  "location": 2,
+  "content": "但我还是很焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 124.76,
+  "to": 125.92,
+  "sid": 76,
+  "location": 2,
+  "content": "这样太慢了",
+  "music": 0.0
+ },
+ {
+  "from": 125.92,
+  "to": 127.92,
+  "sid": 77,
+  "location": 2,
+  "content": "我什么时候才能变成大牛",
+  "music": 0.0
+ },
+ {
+  "from": 127.92,
+  "to": 128.94,
+  "sid": 78,
+  "location": 2,
+  "content": "记住一句话",
+  "music": 0.0
+ },
+ {
+  "from": 128.94,
+  "to": 129.74,
+  "sid": 79,
+  "location": 2,
+  "content": "慢就是快",
+  "music": 0.0
+ },
+ {
+  "from": 129.74,
+  "to": 131.4,
+  "sid": 80,
+  "location": 2,
+  "content": "你以前那种打鸡血的方式",
+  "music": 0.0
+ },
+ {
+  "from": 131.4,
+  "to": 132.44,
+  "sid": 81,
+  "location": 2,
+  "content": "虽然看起来快",
+  "music": 0.0
+ },
+ {
+  "from": 132.44,
+  "to": 133.86,
+  "sid": 82,
+  "location": 2,
+  "content": "但是那是脉冲式努力",
+  "music": 0.0
+ },
+ {
+  "from": 133.86,
+  "to": 135.36,
+  "sid": 83,
+  "location": 2,
+  "content": "微习惯是复利式成长",
+  "music": 0.0
+ },
+ {
+  "from": 135.36,
+  "to": 136.28,
+  "sid": 84,
+  "location": 2,
+  "content": "更重要的是",
+  "music": 0.0
+ },
+ {
+  "from": 136.28,
+  "to": 137.74,
+  "sid": 85,
+  "location": 2,
+  "content": "他改变的不是你的行为",
+  "music": 0.0
+ },
+ {
+  "from": 137.74,
+  "to": 138.72,
+  "sid": 86,
+  "location": 2,
+  "content": "而是你的身份",
+  "music": 0.0
+ },
+ {
+  "from": 138.72,
+  "to": 140.34,
+  "sid": 87,
+  "location": 2,
+  "content": "当你每天都在背一个单词",
+  "music": 0.0
+ },
+ {
+  "from": 140.34,
+  "to": 141.5,
+  "sid": 88,
+  "location": 2,
+  "content": "坚持了100天",
+  "music": 0.0
+ },
+ {
+  "from": 141.5,
+  "to": 143.36,
+  "sid": 89,
+  "location": 2,
+  "content": "这100天里你从未缺席",
+  "music": 0.0
+ },
+ {
+  "from": 143.36,
+  "to": 145.36,
+  "sid": 90,
+  "location": 2,
+  "content": "你的潜意识会慢慢相信一件事",
+  "music": 0.0
+ },
+ {
+  "from": 145.36,
+  "to": 147.709,
+  "sid": 91,
+  "location": 2,
+  "content": "哇原来我是一个能坚持学习的人",
+  "music": 0.0
+ },
+ {
+  "from": 147.709,
+  "to": 149.109,
+  "sid": 92,
+  "location": 2,
+  "content": "这种身份认同的转变",
+  "music": 0.0
+ },
+ {
+  "from": 149.109,
+  "to": 151.849,
+  "sid": 93,
+  "location": 2,
+  "content": "比你突击背了1000个单词要珍贵1万倍",
+  "music": 0.0
+ },
+ {
+  "from": 151.849,
+  "to": 153.2,
+  "sid": 94,
+  "location": 2,
+  "content": "因为行为可以伪装",
+  "music": 0.0
+ },
+ {
+  "from": 153.2,
+  "to": 154.48,
+  "sid": 95,
+  "location": 2,
+  "content": "但身份无法伪装",
+  "music": 0.0
+ },
+ {
+  "from": 154.48,
+  "to": 156.28,
+  "sid": 96,
+  "location": 2,
+  "content": "如果你相信自己是个读书人",
+  "music": 0.0
+ },
+ {
+  "from": 156.28,
+  "to": 157.72,
+  "sid": 97,
+  "location": 2,
+  "content": "你终究会读完那本书",
+  "music": 0.0
+ },
+ {
+  "from": 157.72,
+  "to": 160.24,
+  "sid": 98,
+  "location": 2,
+  "content": "如果你只觉得自己是个需要完成任务的差生",
+  "music": 0.0
+ },
+ {
+  "from": 160.24,
+  "to": 161.63,
+  "sid": 99,
+  "location": 2,
+  "content": "你终究会逃课",
+  "music": 0.0
+ },
+ {
+  "from": 161.63,
+  "to": 162.35,
+  "sid": 100,
+  "location": 2,
+  "content": "谢谢你",
+  "music": 0.0
+ },
+ {
+  "from": 162.35,
+  "to": 162.81,
+  "sid": 101,
+  "location": 2,
+  "content": "熊大",
+  "music": 0.0
+ },
+ {
+  "from": 162.81,
+  "to": 164.07,
+  "sid": 102,
+  "location": 2,
+  "content": "我好像明白了",
+  "music": 0.0
+ },
+ {
+  "from": 164.07,
+  "to": 165.45,
+  "sid": 103,
+  "location": 2,
+  "content": "我以前太贪婪了",
+  "music": 0.0
+ },
+ {
+  "from": 165.45,
+  "to": 167.27,
+  "sid": 104,
+  "location": 2,
+  "content": "那个时候我只想要那个结果",
+  "music": 0.0
+ },
+ {
+  "from": 167.27,
+  "to": 168.94,
+  "sid": 105,
+  "location": 2,
+  "content": "却不想支付过程的门票",
+  "music": 0.0
+ },
+ {
+  "from": 168.94,
+  "to": 171.12,
+  "sid": 106,
+  "location": 2,
+  "content": "现在我不该想着去当英雄",
+  "music": 0.0
+ },
+ {
+  "from": 171.12,
+  "to": 173.93,
+  "sid": 107,
+  "location": 2,
+  "content": "我该先学会做一个不停下的普通人",
+  "music": 0.0
+ },
+ {
+  "from": 173.93,
+  "to": 177.11,
+  "sid": 108,
+  "location": 2,
+  "content": "是的真正的自律不是像苦行僧一样去自虐",
+  "music": 0.0
+ },
+ {
+  "from": 177.11,
+  "to": 178.53,
+  "sid": 109,
+  "location": 2,
+  "content": "而是像呼吸一样自然",
+  "music": 0.0
+ },
+ {
+  "from": 178.53,
+  "to": 180.23,
+  "sid": 110,
+  "location": 2,
+  "content": "甚至让你感觉不到你在努力",
+  "music": 0.0
+ },
+ {
+  "from": 180.23,
+  "to": 182.47,
+  "sid": 111,
+  "location": 2,
+  "content": "从今天开始忘掉那个宏大的目标",
+  "music": 0.0
+ },
+ {
+  "from": 182.47,
+  "to": 183.36,
+  "sid": 112,
+  "location": 2,
+  "content": "把它撕碎",
+  "music": 0.0
+ },
+ {
+  "from": 183.36,
+  "to": 185.16,
+  "sid": 113,
+  "location": 2,
+  "content": "碎成一个个小到可笑的尘埃",
+  "music": 0.0
+ },
+ {
+  "from": 185.16,
+  "to": 185.92,
+  "sid": 114,
+  "location": 2,
+  "content": "背一个词",
+  "music": 0.0
+ },
+ {
+  "from": 185.92,
+  "to": 186.82,
+  "sid": 115,
+  "location": 2,
+  "content": "写一行代码",
+  "music": 0.0
+ },
+ {
+  "from": 186.82,
+  "to": 187.6,
+  "sid": 116,
+  "location": 2,
+  "content": "看一页书",
+  "music": 0.0
+ },
+ {
+  "from": 187.6,
+  "to": 189.24,
+  "sid": 117,
+  "location": 2,
+  "content": "不要试图去把明天锁死",
+  "music": 0.0
+ },
+ {
+  "from": 189.24,
+  "to": 190.96,
+  "sid": 118,
+  "location": 2,
+  "content": "就用这微不足道的一个动作",
+  "music": 0.0
+ },
+ {
+  "from": 190.96,
+  "to": 192.82,
+  "sid": 119,
+  "location": 2,
+  "content": "去撬动你那个生锈的人生",
+  "music": 0.0
+ }
+]

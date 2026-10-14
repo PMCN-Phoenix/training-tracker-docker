@@ -1,0 +1,834 @@
+[
+ {
+  "from": 0.1,
+  "to": 1.98,
+  "sid": 1,
+  "location": 2,
+  "content": "一切焦虑的本质是",
+  "music": 0.0
+ },
+ {
+  "from": 1.98,
+  "to": 4.28,
+  "sid": 2,
+  "location": 2,
+  "content": "想跳过本该一步步走完的过程",
+  "music": 0.0
+ },
+ {
+  "from": 4.28,
+  "to": 6.07,
+  "sid": 3,
+  "location": 2,
+  "content": "直接获得结果",
+  "music": 0.0
+ },
+ {
+  "from": 6.07,
+  "to": 8.43,
+  "sid": 4,
+  "location": 2,
+  "content": "当你紧盯着最终的奖赏时",
+  "music": 0.0
+ },
+ {
+  "from": 8.43,
+  "to": 12.25,
+  "sid": 5,
+  "location": 2,
+  "content": "每一个没得到结果的当下都会是一种煎熬",
+  "music": 0.0
+ },
+ {
+  "from": 12.25,
+  "to": 14.67,
+  "sid": 6,
+  "location": 2,
+  "content": "于是头脑中会想尽一切办法",
+  "music": 0.0
+ },
+ {
+  "from": 14.67,
+  "to": 18.97,
+  "sid": 7,
+  "location": 2,
+  "content": "用最迅捷的方式一蹴而就的获得自己想要的",
+  "music": 0.0
+ },
+ {
+  "from": 18.97,
+  "to": 22.01,
+  "sid": 8,
+  "location": 2,
+  "content": "那就没有什么比在头脑中胡思乱想",
+  "music": 0.0
+ },
+ {
+  "from": 22.01,
+  "to": 23.939,
+  "sid": 9,
+  "location": 2,
+  "content": "更快速的道路了",
+  "music": 0.0
+ },
+ {
+  "from": 23.939,
+  "to": 26.919,
+  "sid": 10,
+  "location": 2,
+  "content": "无论你是担心自己今晚是否可以睡着",
+  "music": 0.0
+ },
+ {
+  "from": 26.919,
+  "to": 28.899,
+  "sid": 11,
+  "location": 2,
+  "content": "忧虑自己的身体健康状况",
+  "music": 0.0
+ },
+ {
+  "from": 28.899,
+  "to": 31.38,
+  "sid": 12,
+  "location": 2,
+  "content": "还是恐惧他人的目光与评价",
+  "music": 0.0
+ },
+ {
+  "from": 31.38,
+  "to": 33.68,
+  "sid": 13,
+  "location": 2,
+  "content": "为未来和过去懊悔焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 33.68,
+  "to": 36.56,
+  "sid": 14,
+  "location": 2,
+  "content": "实质上都是想省略路途中的艰辛",
+  "music": 0.0
+ },
+ {
+  "from": 36.56,
+  "to": 39.18,
+  "sid": 15,
+  "location": 2,
+  "content": "一步登天的取得自己想要的",
+  "music": 0.0
+ },
+ {
+  "from": 39.18,
+  "to": 40.06,
+  "sid": 16,
+  "location": 2,
+  "content": "在心理学上",
+  "music": 0.0
+ },
+ {
+  "from": 40.06,
+  "to": 40.84,
+  "sid": 17,
+  "location": 2,
+  "content": "我们常说",
+  "music": 0.0
+ },
+ {
+  "from": 40.84,
+  "to": 43.0,
+  "sid": 18,
+  "location": 2,
+  "content": "人之所以会焦虑强迫",
+  "music": 0.0
+ },
+ {
+  "from": 43.0,
+  "to": 45.13,
+  "sid": 19,
+  "location": 2,
+  "content": "是因为生活的太用力了",
+  "music": 0.0
+ },
+ {
+  "from": 45.13,
+  "to": 46.11,
+  "sid": 20,
+  "location": 2,
+  "content": "欲望太高",
+  "music": 0.0
+ },
+ {
+  "from": 46.11,
+  "to": 47.81,
+  "sid": 21,
+  "location": 2,
+  "content": "对自己要求太严苛",
+  "music": 0.0
+ },
+ {
+  "from": 47.81,
+  "to": 50.07,
+  "sid": 22,
+  "location": 2,
+  "content": "但这句话其实只对了一半",
+  "music": 0.0
+ },
+ {
+  "from": 50.07,
+  "to": 52.84,
+  "sid": 23,
+  "location": 2,
+  "content": "太用力并不一定会导致痛苦",
+  "music": 0.0
+ },
+ {
+  "from": 52.84,
+  "to": 55.16,
+  "sid": 24,
+  "location": 2,
+  "content": "太用力的人之所以会走不远",
+  "music": 0.0
+ },
+ {
+  "from": 55.16,
+  "to": 57.52,
+  "sid": 25,
+  "location": 2,
+  "content": "是因为把全部的力气都用在了",
+  "music": 0.0
+ },
+ {
+  "from": 57.52,
+  "to": 59.97,
+  "sid": 26,
+  "location": 2,
+  "content": "走那条毫不费力的道路上",
+  "music": 0.0
+ },
+ {
+  "from": 59.97,
+  "to": 62.27,
+  "sid": 27,
+  "location": 2,
+  "content": "所以单纯劝说自己",
+  "music": 0.0
+ },
+ {
+  "from": 62.27,
+  "to": 64.01,
+  "sid": 28,
+  "location": 2,
+  "content": "别用力放松下来",
+  "music": 0.0
+ },
+ {
+  "from": 64.01,
+  "to": 65.21,
+  "sid": 29,
+  "location": 2,
+  "content": "迫使自己接纳",
+  "music": 0.0
+ },
+ {
+  "from": 65.21,
+  "to": 69.11,
+  "sid": 30,
+  "location": 2,
+  "content": "最糟糕的打算是无法从根本上解决焦虑抑郁的",
+  "music": 0.0
+ },
+ {
+  "from": 69.11,
+  "to": 70.53,
+  "sid": 31,
+  "location": 2,
+  "content": "因为劝自己接纳",
+  "music": 0.0
+ },
+ {
+  "from": 70.53,
+  "to": 73.59,
+  "sid": 32,
+  "location": 2,
+  "content": "还是想不费吹灰之力去满足欲望的表现",
+  "music": 0.0
+ },
+ {
+  "from": 73.59,
+  "to": 75.05,
+  "sid": 33,
+  "location": 2,
+  "content": "实则是伪接纳",
+  "music": 0.0
+ },
+ {
+  "from": 75.05,
+  "to": 76.97,
+  "sid": 34,
+  "location": 2,
+  "content": "就像很多失眠的朋友问我说",
+  "music": 0.0
+ },
+ {
+  "from": 76.97,
+  "to": 79.51,
+  "sid": 35,
+  "location": 2,
+  "content": "难道我必须要舍弃对于睡眠的追求",
+  "music": 0.0
+ },
+ {
+  "from": 79.51,
+  "to": 81.18,
+  "sid": 36,
+  "location": 2,
+  "content": "才能够获得睡眠吗",
+  "music": 0.0
+ },
+ {
+  "from": 81.18,
+  "to": 82.94,
+  "sid": 37,
+  "location": 2,
+  "content": "疑病的朋友也会困惑到",
+  "music": 0.0
+ },
+ {
+  "from": 82.94,
+  "to": 84.22,
+  "sid": 38,
+  "location": 2,
+  "content": "唯有接纳了死亡",
+  "music": 0.0
+ },
+ {
+  "from": 84.22,
+  "to": 87.07,
+  "sid": 39,
+  "location": 2,
+  "content": "才能真的不再担忧自己的身体健康吗",
+  "music": 0.0
+ },
+ {
+  "from": 87.07,
+  "to": 87.79,
+  "sid": 40,
+  "location": 2,
+  "content": "同理",
+  "music": 0.0
+ },
+ {
+  "from": 87.79,
+  "to": 88.71,
+  "sid": 41,
+  "location": 2,
+  "content": "社恐的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 88.71,
+  "to": 91.81,
+  "sid": 42,
+  "location": 2,
+  "content": "必须接受所有人都可能讨厌自己的最坏情况",
+  "music": 0.0
+ },
+ {
+  "from": 91.81,
+  "to": 93.67,
+  "sid": 43,
+  "location": 2,
+  "content": "才能彻底放下恐惧吗",
+  "music": 0.0
+ },
+ {
+  "from": 93.67,
+  "to": 95.199,
+  "sid": 44,
+  "location": 2,
+  "content": "其实并非如此",
+  "music": 0.0
+ },
+ {
+  "from": 95.199,
+  "to": 96.559,
+  "sid": 45,
+  "location": 2,
+  "content": "想获得好的睡眠",
+  "music": 0.0
+ },
+ {
+  "from": 96.559,
+  "to": 97.659,
+  "sid": 46,
+  "location": 2,
+  "content": "健康的身体",
+  "music": 0.0
+ },
+ {
+  "from": 97.659,
+  "to": 100.419,
+  "sid": 47,
+  "location": 2,
+  "content": "良好的人际关系都是人之常情",
+  "music": 0.0
+ },
+ {
+  "from": 100.419,
+  "to": 102.65,
+  "sid": 48,
+  "location": 2,
+  "content": "这也不是我们痛苦的根源",
+  "music": 0.0
+ },
+ {
+  "from": 102.65,
+  "to": 104.29,
+  "sid": 49,
+  "location": 2,
+  "content": "问题的关键在于",
+  "music": 0.0
+ },
+ {
+  "from": 104.29,
+  "to": 105.61,
+  "sid": 50,
+  "location": 2,
+  "content": "为了你想要的",
+  "music": 0.0
+ },
+ {
+  "from": 105.61,
+  "to": 109.44,
+  "sid": 51,
+  "location": 2,
+  "content": "你是否愿意去走那条漫长却正确的道路",
+  "music": 0.0
+ },
+ {
+  "from": 109.44,
+  "to": 110.52,
+  "sid": 52,
+  "location": 2,
+  "content": "换句话说",
+  "music": 0.0
+ },
+ {
+  "from": 110.52,
+  "to": 111.64,
+  "sid": 53,
+  "location": 2,
+  "content": "当你夜不能寐",
+  "music": 0.0
+ },
+ {
+  "from": 111.64,
+  "to": 113.22,
+  "sid": 54,
+  "location": 2,
+  "content": "心浮气躁的时候",
+  "music": 0.0
+ },
+ {
+  "from": 113.22,
+  "to": 115.64,
+  "sid": 55,
+  "location": 2,
+  "content": "你是想让自己下一秒立刻入睡",
+  "music": 0.0
+ },
+ {
+  "from": 115.64,
+  "to": 117.6,
+  "sid": 56,
+  "location": 2,
+  "content": "还是愿意停止无谓的挣扎",
+  "music": 0.0
+ },
+ {
+  "from": 117.6,
+  "to": 119.38,
+  "sid": 57,
+  "location": 2,
+  "content": "忍耐短暂的不安全感",
+  "music": 0.0
+ },
+ {
+  "from": 119.38,
+  "to": 120.84,
+  "sid": 58,
+  "location": 2,
+  "content": "去争取长远的",
+  "music": 0.0
+ },
+ {
+  "from": 120.84,
+  "to": 122.08,
+  "sid": 59,
+  "location": 2,
+  "content": "不再惧怕失眠",
+  "music": 0.0
+ },
+ {
+  "from": 122.08,
+  "to": 123.86,
+  "sid": 60,
+  "location": 2,
+  "content": "彻底摆脱失眠呢",
+  "music": 0.0
+ },
+ {
+  "from": 123.86,
+  "to": 126.12,
+  "sid": 61,
+  "location": 2,
+  "content": "想获得他人的尊重与友善",
+  "music": 0.0
+ },
+ {
+  "from": 126.12,
+  "to": 127.8,
+  "sid": 62,
+  "location": 2,
+  "content": "或者良好的身体健康",
+  "music": 0.0
+ },
+ {
+  "from": 127.8,
+  "to": 130.54,
+  "sid": 63,
+  "location": 2,
+  "content": "那你再为实现目标切实的做出努力",
+  "music": 0.0
+ },
+ {
+  "from": 130.54,
+  "to": 133.01,
+  "sid": 64,
+  "location": 2,
+  "content": "承受与欲望相对应的痛苦了吗",
+  "music": 0.0
+ },
+ {
+  "from": 133.01,
+  "to": 135.55,
+  "sid": 65,
+  "location": 2,
+  "content": "如果你扎扎实实地走完整个过程",
+  "music": 0.0
+ },
+ {
+  "from": 135.55,
+  "to": 138.19,
+  "sid": 66,
+  "location": 2,
+  "content": "不仅内心的纠结痛苦会消失",
+  "music": 0.0
+ },
+ {
+  "from": 138.19,
+  "to": 140.5,
+  "sid": 67,
+  "location": 2,
+  "content": "客观上也会如愿以偿",
+  "music": 0.0
+ },
+ {
+  "from": 140.5,
+  "to": 143.12,
+  "sid": 68,
+  "location": 2,
+  "content": "因此想要本身没错",
+  "music": 0.0
+ },
+ {
+  "from": 143.12,
+  "to": 144.28,
+  "sid": 69,
+  "location": 2,
+  "content": "错在既想要",
+  "music": 0.0
+ },
+ {
+  "from": 144.28,
+  "to": 147.17,
+  "sid": 70,
+  "location": 2,
+  "content": "却又不想付出很多焦虑与强迫的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 147.17,
+  "to": 148.47,
+  "sid": 71,
+  "location": 2,
+  "content": "总在不断的追问",
+  "music": 0.0
+ },
+ {
+  "from": 148.47,
+  "to": 150.31,
+  "sid": 72,
+  "location": 2,
+  "content": "如何才能获得自己想要的",
+  "music": 0.0
+ },
+ {
+  "from": 150.31,
+  "to": 152.25,
+  "sid": 73,
+  "location": 2,
+  "content": "如何才能打消内心的困惑",
+  "music": 0.0
+ },
+ {
+  "from": 152.25,
+  "to": 153.14,
+  "sid": 74,
+  "location": 2,
+  "content": "找到答案",
+  "music": 0.0
+ },
+ {
+  "from": 153.14,
+  "to": 155.56,
+  "sid": 75,
+  "location": 2,
+  "content": "或者如何才能彻底走出焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 155.56,
+  "to": 156.85,
+  "sid": 76,
+  "location": 2,
+  "content": "抑郁与强迫",
+  "music": 0.0
+ },
+ {
+  "from": 156.85,
+  "to": 160.07,
+  "sid": 77,
+  "location": 2,
+  "content": "但与其总把注意力聚焦在终点上",
+  "music": 0.0
+ },
+ {
+  "from": 160.07,
+  "to": 161.49,
+  "sid": 78,
+  "location": 2,
+  "content": "不如反问自己",
+  "music": 0.0
+ },
+ {
+  "from": 161.49,
+  "to": 164.71,
+  "sid": 79,
+  "location": 2,
+  "content": "我愿意为了实现最终的目标付出什么",
+  "music": 0.0
+ },
+ {
+  "from": 164.71,
+  "to": 167.39,
+  "sid": 80,
+  "location": 2,
+  "content": "我踏踏实实地走完整个过程了吗",
+  "music": 0.0
+ },
+ {
+  "from": 167.39,
+  "to": 169.47,
+  "sid": 81,
+  "location": 2,
+  "content": "耐着性子一步步地走完",
+  "music": 0.0
+ },
+ {
+  "from": 169.47,
+  "to": 171.829,
+  "sid": 82,
+  "location": 2,
+  "content": "本应经历不该回避的路途",
+  "music": 0.0
+ },
+ {
+  "from": 171.829,
+  "to": 173.749,
+  "sid": 83,
+  "location": 2,
+  "content": "在这个专注于努力本身",
+  "music": 0.0
+ },
+ {
+  "from": 173.749,
+  "to": 176.549,
+  "sid": 84,
+  "location": 2,
+  "content": "不过分渴求与期待奖励的过程中",
+  "music": 0.0
+ },
+ {
+  "from": 176.549,
+  "to": 180.75,
+  "sid": 85,
+  "location": 2,
+  "content": "一方面我们的动机水平会回到最佳的中等状态",
+  "music": 0.0
+ },
+ {
+  "from": 180.75,
+  "to": 181.99,
+  "sid": 86,
+  "location": 2,
+  "content": "在适度的欲望",
+  "music": 0.0
+ },
+ {
+  "from": 181.99,
+  "to": 184.29,
+  "sid": 87,
+  "location": 2,
+  "content": "恐惧的驱动下稳步前行",
+  "music": 0.0
+ },
+ {
+  "from": 184.29,
+  "to": 187.31,
+  "sid": 88,
+  "location": 2,
+  "content": "头脑中不切实际的妄想和灾难化的思维",
+  "music": 0.0
+ },
+ {
+  "from": 187.31,
+  "to": 188.7,
+  "sid": 89,
+  "location": 2,
+  "content": "会逐渐消失",
+  "music": 0.0
+ },
+ {
+  "from": 188.7,
+  "to": 189.72,
+  "sid": 90,
+  "location": 2,
+  "content": "另一方面",
+  "music": 0.0
+ },
+ {
+  "from": 189.72,
+  "to": 192.98,
+  "sid": 91,
+  "location": 2,
+  "content": "行动的阻力也会因为我们的忍耐而慢慢降低",
+  "music": 0.0
+ },
+ {
+  "from": 192.98,
+  "to": 196.18,
+  "sid": 92,
+  "location": 2,
+  "content": "努力和奋斗就不再是枯燥乏味的",
+  "music": 0.0
+ },
+ {
+  "from": 196.18,
+  "to": 197.72,
+  "sid": 93,
+  "location": 2,
+  "content": "在心流的状态中",
+  "music": 0.0
+ },
+ {
+  "from": 197.72,
+  "to": 200.78,
+  "sid": 94,
+  "location": 2,
+  "content": "我们反而会醉心于当下正在做的事情",
+  "music": 0.0
+ },
+ {
+  "from": 200.78,
+  "to": 202.5,
+  "sid": 95,
+  "location": 2,
+  "content": "即便暂时没有奖赏",
+  "music": 0.0
+ },
+ {
+  "from": 202.5,
+  "to": 204.99,
+  "sid": 96,
+  "location": 2,
+  "content": "我们也可以发掘出源源不断的乐趣",
+  "music": 0.0
+ },
+ {
+  "from": 204.99,
+  "to": 207.59,
+  "sid": 97,
+  "location": 2,
+  "content": "而最终无论是良好的人际关系",
+  "music": 0.0
+ },
+ {
+  "from": 207.59,
+  "to": 209.99,
+  "sid": 98,
+  "location": 2,
+  "content": "优质的睡眠还是健康的身体",
+  "music": 0.0
+ },
+ {
+  "from": 209.99,
+  "to": 211.45,
+  "sid": 99,
+  "location": 2,
+  "content": "焦虑抑郁的恢复",
+  "music": 0.0
+ },
+ {
+  "from": 211.45,
+  "to": 213.41,
+  "sid": 100,
+  "location": 2,
+  "content": "都只不过是在尽力而为后",
+  "music": 0.0
+ },
+ {
+  "from": 213.41,
+  "to": 215.39,
+  "sid": 101,
+  "location": 2,
+  "content": "水到渠成的额外奖励",
+  "music": 0.0
+ },
+ {
+  "from": 215.39,
+  "to": 216.63,
+  "sid": 102,
+  "location": 2,
+  "content": "我们没那么想要",
+  "music": 0.0
+ },
+ {
+  "from": 216.63,
+  "to": 218.22,
+  "sid": 103,
+  "location": 2,
+  "content": "也没那么害怕失去",
+  "music": 0.0
+ },
+ {
+  "from": 218.22,
+  "to": 221.02,
+  "sid": 104,
+  "location": 2,
+  "content": "但最终却如愿获得了一切",
+  "music": 0.0
+ }
+]

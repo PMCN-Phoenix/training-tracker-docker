@@ -1,0 +1,3066 @@
+[
+ {
+  "from": 0.22,
+  "to": 1.18,
+  "sid": 1,
+  "location": 2,
+  "content": "各位同学大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.18,
+  "to": 2.38,
+  "sid": 2,
+  "location": 2,
+  "content": "我是李永乐老师",
+  "music": 0.0
+ },
+ {
+  "from": 2.38,
+  "to": 4.39,
+  "sid": 3,
+  "location": 2,
+  "content": "2018年高考就要来了",
+  "music": 0.0
+ },
+ {
+  "from": 4.39,
+  "to": 7.11,
+  "sid": 4,
+  "location": 2,
+  "content": "今天呢我们继续为考生加油点赞",
+  "music": 0.0
+ },
+ {
+  "from": 7.11,
+  "to": 7.71,
+  "sid": 5,
+  "location": 2,
+  "content": "呃",
+  "music": 0.0
+ },
+ {
+  "from": 7.71,
+  "to": 8.61,
+  "sid": 6,
+  "location": 2,
+  "content": "有同学问我啊",
+  "music": 0.0
+ },
+ {
+  "from": 8.61,
+  "to": 10.71,
+  "sid": 7,
+  "location": 2,
+  "content": "说万一他在考场上遇到了一道题",
+  "music": 0.0
+ },
+ {
+  "from": 10.71,
+  "to": 12.76,
+  "sid": 8,
+  "location": 2,
+  "content": "他做了半天发现呢还是不会做",
+  "music": 0.0
+ },
+ {
+  "from": 12.76,
+  "to": 14.8,
+  "sid": 9,
+  "location": 2,
+  "content": "这个时候他是应该继续做下去呢",
+  "music": 0.0
+ },
+ {
+  "from": 14.8,
+  "to": 16.33,
+  "sid": 10,
+  "location": 2,
+  "content": "还是应该果断放弃呢",
+  "music": 0.0
+ },
+ {
+  "from": 16.33,
+  "to": 18.2,
+  "sid": 11,
+  "location": 2,
+  "content": "今天我们来讨论一下这个问题",
+  "music": 0.0
+ },
+ {
+  "from": 18.2,
+  "to": 21.74,
+  "sid": 12,
+  "location": 2,
+  "content": "这个问题呢和经济学上一个概念叫做沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 21.74,
+  "to": 25.92,
+  "sid": 13,
+  "location": 2,
+  "content": "非常像沉没成本啊",
+  "music": 0.0
+ },
+ {
+  "from": 26.099,
+  "to": 27.749,
+  "sid": 14,
+  "location": 2,
+  "content": "什么叫沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 27.749,
+  "to": 34.62,
+  "sid": 15,
+  "location": 2,
+  "content": "沉没成本就是指已经付出而且不可回收的成本",
+  "music": 0.0
+ },
+ {
+  "from": 35.62,
+  "to": 38.43,
+  "sid": 16,
+  "location": 2,
+  "content": "这个呢就叫沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 38.43,
+  "to": 39.5,
+  "sid": 17,
+  "location": 2,
+  "content": "举个例子啊",
+  "music": 0.0
+ },
+ {
+  "from": 39.5,
+  "to": 40.76,
+  "sid": 18,
+  "location": 2,
+  "content": "你买了一张电影票",
+  "music": 0.0
+ },
+ {
+  "from": 40.76,
+  "to": 41.6,
+  "sid": 19,
+  "location": 2,
+  "content": "花了100块钱",
+  "music": 0.0
+ },
+ {
+  "from": 41.6,
+  "to": 43.4,
+  "sid": 20,
+  "location": 2,
+  "content": "那么如果这个电影票不能退",
+  "music": 0.0
+ },
+ {
+  "from": 43.4,
+  "to": 45.489,
+  "sid": 21,
+  "location": 2,
+  "content": "这100块钱就是你的沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 45.489,
+  "to": 47.049,
+  "sid": 22,
+  "location": 2,
+  "content": "如果这个票可以退",
+  "music": 0.0
+ },
+ {
+  "from": 47.049,
+  "to": 48.579,
+  "sid": 23,
+  "location": 2,
+  "content": "但是只能退80%",
+  "music": 0.0
+ },
+ {
+  "from": 48.579,
+  "to": 51.07,
+  "sid": 24,
+  "location": 2,
+  "content": "那那20块钱就是你的沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 51.07,
+  "to": 53.83,
+  "sid": 25,
+  "location": 2,
+  "content": "那么现在呢我们假设有这样一个场景",
+  "music": 0.0
+ },
+ {
+  "from": 53.83,
+  "to": 56.29,
+  "sid": 26,
+  "location": 2,
+  "content": "就是你买了一张票啊",
+  "music": 0.0
+ },
+ {
+  "from": 56.29,
+  "to": 57.14,
+  "sid": 27,
+  "location": 2,
+  "content": "100元",
+  "music": 0.0
+ },
+ {
+  "from": 57.22,
+  "to": 58.93,
+  "sid": 28,
+  "location": 2,
+  "content": "结果呢你去看了",
+  "music": 0.0
+ },
+ {
+  "from": 58.93,
+  "to": 61.06,
+  "sid": 29,
+  "location": 2,
+  "content": "看了之后发现这个电影它不好看",
+  "music": 0.0
+ },
+ {
+  "from": 61.06,
+  "to": 62.67,
+  "sid": 30,
+  "location": 2,
+  "content": "不合口味啊",
+  "music": 0.0
+ },
+ {
+  "from": 62.67,
+  "to": 63.42,
+  "sid": 31,
+  "location": 2,
+  "content": "不合口味",
+  "music": 0.0
+ },
+ {
+  "from": 63.42,
+  "to": 65.31,
+  "sid": 32,
+  "location": 2,
+  "content": "那么你会如何进行选择呢",
+  "music": 0.0
+ },
+ {
+  "from": 65.31,
+  "to": 66.45,
+  "sid": 33,
+  "location": 2,
+  "content": "你有两种决策",
+  "music": 0.0
+ },
+ {
+  "from": 66.45,
+  "to": 69.33,
+  "sid": 34,
+  "location": 2,
+  "content": "第一种决策就是你继续看对吧",
+  "music": 0.0
+ },
+ {
+  "from": 69.33,
+  "to": 70.42,
+  "sid": 35,
+  "location": 2,
+  "content": "坚持看完",
+  "music": 0.0
+ },
+ {
+  "from": 70.48,
+  "to": 71.8,
+  "sid": 36,
+  "location": 2,
+  "content": "坚持看完",
+  "music": 0.0
+ },
+ {
+  "from": 71.8,
+  "to": 73.66,
+  "sid": 37,
+  "location": 2,
+  "content": "第二种决策就是你不看了",
+  "music": 0.0
+ },
+ {
+  "from": 73.66,
+  "to": 75.08,
+  "sid": 38,
+  "location": 2,
+  "content": "你走人啊",
+  "music": 0.0
+ },
+ {
+  "from": 75.08,
+  "to": 76.04,
+  "sid": 39,
+  "location": 2,
+  "content": "大家可以思考一下",
+  "music": 0.0
+ },
+ {
+  "from": 76.04,
+  "to": 76.46,
+  "sid": 40,
+  "location": 2,
+  "content": "如果是你",
+  "music": 0.0
+ },
+ {
+  "from": 76.46,
+  "to": 77.72,
+  "sid": 41,
+  "location": 2,
+  "content": "你会怎么进行选择",
+  "music": 0.0
+ },
+ {
+  "from": 77.72,
+  "to": 79.64,
+  "sid": 42,
+  "location": 2,
+  "content": "可能有的人吧会坚持看完",
+  "music": 0.0
+ },
+ {
+  "from": 79.64,
+  "to": 80.28,
+  "sid": 43,
+  "location": 2,
+  "content": "为什么呢",
+  "music": 0.0
+ },
+ {
+  "from": 80.28,
+  "to": 81.3,
+  "sid": 44,
+  "location": 2,
+  "content": "就算不好看",
+  "music": 0.0
+ },
+ {
+  "from": 81.3,
+  "to": 83.28,
+  "sid": 45,
+  "location": 2,
+  "content": "她也觉得我这个票是花100块钱买的",
+  "music": 0.0
+ },
+ {
+  "from": 83.28,
+  "to": 84.42,
+  "sid": 46,
+  "location": 2,
+  "content": "我不看我就浪费了",
+  "music": 0.0
+ },
+ {
+  "from": 84.42,
+  "to": 85.56,
+  "sid": 47,
+  "location": 2,
+  "content": "所以我得把它看完呢",
+  "music": 0.0
+ },
+ {
+  "from": 85.56,
+  "to": 85.98,
+  "sid": 48,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 85.98,
+  "to": 87.51,
+  "sid": 49,
+  "location": 2,
+  "content": "看完之后把自己恶心够呛",
+  "music": 0.0
+ },
+ {
+  "from": 87.51,
+  "to": 88.98,
+  "sid": 50,
+  "location": 2,
+  "content": "一边走一边骂是吧",
+  "music": 0.0
+ },
+ {
+  "from": 88.98,
+  "to": 90.36,
+  "sid": 51,
+  "location": 2,
+  "content": "另外一些人他不好看",
+  "music": 0.0
+ },
+ {
+  "from": 90.36,
+  "to": 90.84,
+  "sid": 52,
+  "location": 2,
+  "content": "他就走了",
+  "music": 0.0
+ },
+ {
+  "from": 90.84,
+  "to": 91.74,
+  "sid": 53,
+  "location": 2,
+  "content": "他说我没有必要",
+  "music": 0.0
+ },
+ {
+  "from": 91.74,
+  "to": 92.88,
+  "sid": 54,
+  "location": 2,
+  "content": "为了这100块钱呢",
+  "music": 0.0
+ },
+ {
+  "from": 92.88,
+  "to": 94.08,
+  "sid": 55,
+  "location": 2,
+  "content": "我在浪费两个小时",
+  "music": 0.0
+ },
+ {
+  "from": 94.08,
+  "to": 95.28,
+  "sid": 56,
+  "location": 2,
+  "content": "这两个小时还在恶心我",
+  "music": 0.0
+ },
+ {
+  "from": 95.28,
+  "to": 96.16,
+  "sid": 57,
+  "location": 2,
+  "content": "所以我应该走",
+  "music": 0.0
+ },
+ {
+  "from": 96.16,
+  "to": 97.6,
+  "sid": 58,
+  "location": 2,
+  "content": "那么从经济学上讲",
+  "music": 0.0
+ },
+ {
+  "from": 97.6,
+  "to": 99.25,
+  "sid": 59,
+  "location": 2,
+  "content": "哪一种人更理性呢",
+  "music": 0.0
+ },
+ {
+  "from": 99.25,
+  "to": 100.67,
+  "sid": 60,
+  "location": 2,
+  "content": "第二种人更理性",
+  "music": 0.0
+ },
+ {
+  "from": 100.67,
+  "to": 102.68,
+  "sid": 61,
+  "location": 2,
+  "content": "经济学上是这样说的",
+  "music": 0.0
+ },
+ {
+  "from": 102.68,
+  "to": 105.5,
+  "sid": 62,
+  "location": 2,
+  "content": "就是啊在做决策的时候",
+  "music": 0.0
+ },
+ {
+  "from": 105.78,
+  "to": 114.0,
+  "sid": 63,
+  "location": 2,
+  "content": "在做决策的时候不应考虑不应考虑沉没成本啊",
+  "music": 0.0
+ },
+ {
+  "from": 114.0,
+  "to": 115.83,
+  "sid": 64,
+  "location": 2,
+  "content": "不应考虑沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 115.83,
+  "to": 119.43,
+  "sid": 65,
+  "location": 2,
+  "content": "就是说你这100块钱呢你已经花出去了",
+  "music": 0.0
+ },
+ {
+  "from": 119.43,
+  "to": 122.49,
+  "sid": 66,
+  "location": 2,
+  "content": "你看与不看他都怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 122.49,
+  "to": 124.5,
+  "sid": 67,
+  "location": 2,
+  "content": "他都是拿不回来了",
+  "music": 0.0
+ },
+ {
+  "from": 124.5,
+  "to": 127.95,
+  "sid": 68,
+  "location": 2,
+  "content": "那么此时你做决策时应该想这个钱呢",
+  "music": 0.0
+ },
+ {
+  "from": 127.95,
+  "to": 129.03,
+  "sid": 69,
+  "location": 2,
+  "content": "咱们就拿不回来了",
+  "music": 0.0
+ },
+ {
+  "from": 129.03,
+  "to": 129.75,
+  "sid": 70,
+  "location": 2,
+  "content": "我们不管了",
+  "music": 0.0
+ },
+ {
+  "from": 129.75,
+  "to": 132.66,
+  "sid": 71,
+  "location": 2,
+  "content": "我们就假设这票不是我花钱买的",
+  "music": 0.0
+ },
+ {
+  "from": 132.66,
+  "to": 134.64,
+  "sid": 72,
+  "location": 2,
+  "content": "这票是白来的啊",
+  "music": 0.0
+ },
+ {
+  "from": 134.64,
+  "to": 136.45,
+  "sid": 73,
+  "location": 2,
+  "content": "这个票是免费的",
+  "music": 0.0
+ },
+ {
+  "from": 136.45,
+  "to": 137.47,
+  "sid": 74,
+  "location": 2,
+  "content": "我们想一想",
+  "music": 0.0
+ },
+ {
+  "from": 137.47,
+  "to": 139.36,
+  "sid": 75,
+  "location": 2,
+  "content": "这票白给你电影院搞活动",
+  "music": 0.0
+ },
+ {
+  "from": 139.36,
+  "to": 140.98,
+  "sid": 76,
+  "location": 2,
+  "content": "免费看电影对吧",
+  "music": 0.0
+ },
+ {
+  "from": 140.98,
+  "to": 142.99,
+  "sid": 77,
+  "location": 2,
+  "content": "试看进去之后一看不好看",
+  "music": 0.0
+ },
+ {
+  "from": 142.99,
+  "to": 143.56,
+  "sid": 78,
+  "location": 2,
+  "content": "那我问你",
+  "music": 0.0
+ },
+ {
+  "from": 143.56,
+  "to": 144.34,
+  "sid": 79,
+  "location": 2,
+  "content": "你会怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 144.34,
+  "to": 146.32,
+  "sid": 80,
+  "location": 2,
+  "content": "你是会看完的还是会走人呢",
+  "music": 0.0
+ },
+ {
+  "from": 146.32,
+  "to": 148.48,
+  "sid": 81,
+  "location": 2,
+  "content": "这个是我想99%的人都会说",
+  "music": 0.0
+ },
+ {
+  "from": 148.48,
+  "to": 149.08,
+  "sid": 82,
+  "location": 2,
+  "content": "那不好看",
+  "music": 0.0
+ },
+ {
+  "from": 149.08,
+  "to": 149.68,
+  "sid": 83,
+  "location": 2,
+  "content": "我还看什么",
+  "music": 0.0
+ },
+ {
+  "from": 149.68,
+  "to": 150.1,
+  "sid": 84,
+  "location": 2,
+  "content": "我走了",
+  "music": 0.0
+ },
+ {
+  "from": 150.1,
+  "to": 150.62,
+  "sid": 85,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 150.62,
+  "to": 152.1,
+  "sid": 86,
+  "location": 2,
+  "content": "因为是免费的",
+  "music": 0.0
+ },
+ {
+  "from": 152.1,
+  "to": 153.9,
+  "sid": 87,
+  "location": 2,
+  "content": "所以大家呢就可以想啊",
+  "music": 0.0
+ },
+ {
+  "from": 153.9,
+  "to": 154.92,
+  "sid": 88,
+  "location": 2,
+  "content": "好看我就看完",
+  "music": 0.0
+ },
+ {
+  "from": 154.92,
+  "to": 156.09,
+  "sid": 89,
+  "location": 2,
+  "content": "不好看我就走人",
+  "music": 0.0
+ },
+ {
+  "from": 156.09,
+  "to": 157.32,
+  "sid": 90,
+  "location": 2,
+  "content": "现在是收费的",
+  "music": 0.0
+ },
+ {
+  "from": 157.32,
+  "to": 159.3,
+  "sid": 91,
+  "location": 2,
+  "content": "但是这个钱你已经拿不回来了",
+  "music": 0.0
+ },
+ {
+  "from": 159.3,
+  "to": 161.1,
+  "sid": 92,
+  "location": 2,
+  "content": "那和免费又有什么区别呢",
+  "music": 0.0
+ },
+ {
+  "from": 161.1,
+  "to": 163.56,
+  "sid": 93,
+  "location": 2,
+  "content": "这个成本我们就称之为沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 163.56,
+  "to": 165.0,
+  "sid": 94,
+  "location": 2,
+  "content": "我们在进行决策的时候",
+  "music": 0.0
+ },
+ {
+  "from": 165.0,
+  "to": 167.13,
+  "sid": 95,
+  "location": 2,
+  "content": "是不应该考虑这个沉没成本的",
+  "music": 0.0
+ },
+ {
+  "from": 167.13,
+  "to": 170.8,
+  "sid": 96,
+  "location": 2,
+  "content": "那么我们回过头来看一下考试啊",
+  "music": 0.0
+ },
+ {
+  "from": 170.8,
+  "to": 173.92,
+  "sid": 97,
+  "location": 2,
+  "content": "假如说有一个同学呢在考场上",
+  "music": 0.0
+ },
+ {
+  "from": 173.92,
+  "to": 175.03,
+  "sid": 98,
+  "location": 2,
+  "content": "他开始做题了",
+  "music": 0.0
+ },
+ {
+  "from": 175.03,
+  "to": 177.19,
+  "sid": 99,
+  "location": 2,
+  "content": "做到一道题之后很难是吧",
+  "music": 0.0
+ },
+ {
+  "from": 177.19,
+  "to": 178.73,
+  "sid": 100,
+  "location": 2,
+  "content": "他要做题啊",
+  "music": 0.0
+ },
+ {
+  "from": 178.73,
+  "to": 179.54,
+  "sid": 101,
+  "location": 2,
+  "content": "做了题啊",
+  "music": 0.0
+ },
+ {
+  "from": 179.54,
+  "to": 181.52,
+  "sid": 102,
+  "location": 2,
+  "content": "发现呢做了十分钟啊",
+  "music": 0.0
+ },
+ {
+  "from": 181.52,
+  "to": 182.48,
+  "sid": 103,
+  "location": 2,
+  "content": "做了十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 182.48,
+  "to": 185.12,
+  "sid": 104,
+  "location": 2,
+  "content": "结果呢这个题啊毫无头绪",
+  "music": 0.0
+ },
+ {
+  "from": 185.12,
+  "to": 187.59,
+  "sid": 105,
+  "location": 2,
+  "content": "发现原来他是一个难题啊",
+  "music": 0.0
+ },
+ {
+  "from": 187.59,
+  "to": 189.84,
+  "sid": 106,
+  "location": 2,
+  "content": "这个题很难做了十分钟都没有做出来",
+  "music": 0.0
+ },
+ {
+  "from": 189.84,
+  "to": 191.19,
+  "sid": 107,
+  "location": 2,
+  "content": "那此时我们该怎么办呢",
+  "music": 0.0
+ },
+ {
+  "from": 191.19,
+  "to": 191.97,
+  "sid": 108,
+  "location": 2,
+  "content": "两种决策",
+  "music": 0.0
+ },
+ {
+  "from": 191.97,
+  "to": 195.24,
+  "sid": 109,
+  "location": 2,
+  "content": "第一种决策是我们在做十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 195.459,
+  "to": 196.899,
+  "sid": 110,
+  "location": 2,
+  "content": "再做十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 196.899,
+  "to": 199.299,
+  "sid": 111,
+  "location": 2,
+  "content": "因为我们已经知道这道题是个难题了",
+  "music": 0.0
+ },
+ {
+  "from": 199.299,
+  "to": 201.399,
+  "sid": 112,
+  "location": 2,
+  "content": "再做十分钟依然会出现两种",
+  "music": 0.0
+ },
+ {
+  "from": 201.399,
+  "to": 205.52,
+  "sid": 113,
+  "location": 2,
+  "content": "可能有90%的可能你还是做不出来",
+  "music": 0.0
+ },
+ {
+  "from": 205.52,
+  "to": 207.0,
+  "sid": 114,
+  "location": 2,
+  "content": "于是你就得零分",
+  "music": 0.0
+ },
+ {
+  "from": 207.339,
+  "to": 210.759,
+  "sid": 115,
+  "location": 2,
+  "content": "有10%的可能你再做十分钟做出来了",
+  "music": 0.0
+ },
+ {
+  "from": 210.759,
+  "to": 211.779,
+  "sid": 116,
+  "location": 2,
+  "content": "你得了十分",
+  "music": 0.0
+ },
+ {
+  "from": 211.779,
+  "to": 213.549,
+  "sid": 117,
+  "location": 2,
+  "content": "这是一种可能对吧",
+  "music": 0.0
+ },
+ {
+  "from": 213.549,
+  "to": 214.839,
+  "sid": 118,
+  "location": 2,
+  "content": "你还有一种决策",
+  "music": 0.0
+ },
+ {
+  "from": 214.839,
+  "to": 216.9,
+  "sid": 119,
+  "location": 2,
+  "content": "这种决策就是做下一题",
+  "music": 0.0
+ },
+ {
+  "from": 217.06,
+  "to": 218.5,
+  "sid": 120,
+  "location": 2,
+  "content": "因为我们知道啊",
+  "music": 0.0
+ },
+ {
+  "from": 218.5,
+  "to": 220.48,
+  "sid": 121,
+  "location": 2,
+  "content": "下一题很有可能是个简单题",
+  "music": 0.0
+ },
+ {
+  "from": 220.48,
+  "to": 220.84,
+  "sid": 122,
+  "location": 2,
+  "content": "为啥呢",
+  "music": 0.0
+ },
+ {
+  "from": 220.84,
+  "to": 222.88,
+  "sid": 123,
+  "location": 2,
+  "content": "你比如说选择最后一道题是个难题",
+  "music": 0.0
+ },
+ {
+  "from": 222.88,
+  "to": 224.26,
+  "sid": 124,
+  "location": 2,
+  "content": "但是下一道题就是填空",
+  "music": 0.0
+ },
+ {
+  "from": 224.26,
+  "to": 225.28,
+  "sid": 125,
+  "location": 2,
+  "content": "第一题就简单了",
+  "music": 0.0
+ },
+ {
+  "from": 225.28,
+  "to": 225.76,
+  "sid": 126,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 225.76,
+  "to": 228.1,
+  "sid": 127,
+  "location": 2,
+  "content": "做下一题有可能是这样的",
+  "music": 0.0
+ },
+ {
+  "from": 228.1,
+  "to": 231.31,
+  "sid": 128,
+  "location": 2,
+  "content": "你有90%的可能你可以得十分",
+  "music": 0.0
+ },
+ {
+  "from": 231.31,
+  "to": 232.26,
+  "sid": 129,
+  "location": 2,
+  "content": "因为它简单",
+  "music": 0.0
+ },
+ {
+  "from": 232.26,
+  "to": 235.29,
+  "sid": 130,
+  "location": 2,
+  "content": "你有10%的可能你会得零分",
+  "music": 0.0
+ },
+ {
+  "from": 235.29,
+  "to": 236.52,
+  "sid": 131,
+  "location": 2,
+  "content": "得不出来啊",
+  "music": 0.0
+ },
+ {
+  "from": 236.52,
+  "to": 237.0,
+  "sid": 132,
+  "location": 2,
+  "content": "好了",
+  "music": 0.0
+ },
+ {
+  "from": 237.0,
+  "to": 238.73,
+  "sid": 133,
+  "location": 2,
+  "content": "那么你说你会如何选择呢",
+  "music": 0.0
+ },
+ {
+  "from": 238.73,
+  "to": 239.81,
+  "sid": 134,
+  "location": 2,
+  "content": "在这种情况下",
+  "music": 0.0
+ },
+ {
+  "from": 239.81,
+  "to": 242.63,
+  "sid": 135,
+  "location": 2,
+  "content": "有的同学啊就想到了我已经做了十分钟了对吧",
+  "music": 0.0
+ },
+ {
+  "from": 242.63,
+  "to": 244.01,
+  "sid": 136,
+  "location": 2,
+  "content": "我要不坚持把它做完的话",
+  "music": 0.0
+ },
+ {
+  "from": 244.01,
+  "to": 245.5,
+  "sid": 137,
+  "location": 2,
+  "content": "那我就亏了十分钟浪费了",
+  "music": 0.0
+ },
+ {
+  "from": 245.5,
+  "to": 247.12,
+  "sid": 138,
+  "location": 2,
+  "content": "所以我还需要再做十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 247.12,
+  "to": 249.45,
+  "sid": 139,
+  "location": 2,
+  "content": "也有的同学可能想我做下一题吧",
+  "music": 0.0
+ },
+ {
+  "from": 249.45,
+  "to": 251.13,
+  "sid": 140,
+  "location": 2,
+  "content": "哪一种才是理性的",
+  "music": 0.0
+ },
+ {
+  "from": 251.13,
+  "to": 251.91,
+  "sid": 141,
+  "location": 2,
+  "content": "第二种",
+  "music": 0.0
+ },
+ {
+  "from": 251.91,
+  "to": 253.11,
+  "sid": 142,
+  "location": 2,
+  "content": "从经济学上讲",
+  "music": 0.0
+ },
+ {
+  "from": 253.11,
+  "to": 255.33,
+  "sid": 143,
+  "location": 2,
+  "content": "我们不应该去考虑我们之前那十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 255.33,
+  "to": 257.07,
+  "sid": 144,
+  "location": 2,
+  "content": "因为它已经沉默了对吧",
+  "music": 0.0
+ },
+ {
+  "from": 257.07,
+  "to": 258.33,
+  "sid": 145,
+  "location": 2,
+  "content": "所以我们应该这么想",
+  "music": 0.0
+ },
+ {
+  "from": 258.33,
+  "to": 262.189,
+  "sid": 146,
+  "location": 2,
+  "content": "就是现在啊我没有做任何的题",
+  "music": 0.0
+ },
+ {
+  "from": 262.189,
+  "to": 265.009,
+  "sid": 147,
+  "location": 2,
+  "content": "没有花任何的时间就监考老师来告诉我",
+  "music": 0.0
+ },
+ {
+  "from": 265.009,
+  "to": 265.729,
+  "sid": 148,
+  "location": 2,
+  "content": "告诉你啊",
+  "music": 0.0
+ },
+ {
+  "from": 265.729,
+  "to": 267.559,
+  "sid": 149,
+  "location": 2,
+  "content": "这道题它是个难题",
+  "music": 0.0
+ },
+ {
+  "from": 267.559,
+  "to": 270.38,
+  "sid": 150,
+  "location": 2,
+  "content": "我已知这个题是个难题",
+  "music": 0.0
+ },
+ {
+  "from": 270.46,
+  "to": 272.8,
+  "sid": 151,
+  "location": 2,
+  "content": "然后我没有花任何时间",
+  "music": 0.0
+ },
+ {
+  "from": 272.8,
+  "to": 274.3,
+  "sid": 152,
+  "location": 2,
+  "content": "我就获得了这个信息啊",
+  "music": 0.0
+ },
+ {
+  "from": 274.3,
+  "to": 276.25,
+  "sid": 153,
+  "location": 2,
+  "content": "如果我做十分钟这个题的话",
+  "music": 0.0
+ },
+ {
+  "from": 276.25,
+  "to": 277.84,
+  "sid": 154,
+  "location": 2,
+  "content": "有90%的可能得零分",
+  "music": 0.0
+ },
+ {
+  "from": 277.84,
+  "to": 279.409,
+  "sid": 155,
+  "location": 2,
+  "content": "有10%的可能得十分",
+  "music": 0.0
+ },
+ {
+  "from": 279.409,
+  "to": 280.969,
+  "sid": 156,
+  "location": 2,
+  "content": "我也可以先做下一个题",
+  "music": 0.0
+ },
+ {
+  "from": 280.969,
+  "to": 282.799,
+  "sid": 157,
+  "location": 2,
+  "content": "最后有时间我再回来看他对吧",
+  "music": 0.0
+ },
+ {
+  "from": 282.799,
+  "to": 283.849,
+  "sid": 158,
+  "location": 2,
+  "content": "先做下一题的话",
+  "music": 0.0
+ },
+ {
+  "from": 283.849,
+  "to": 285.169,
+  "sid": 159,
+  "location": 2,
+  "content": "有90%可能得十分",
+  "music": 0.0
+ },
+ {
+  "from": 285.169,
+  "to": 286.429,
+  "sid": 160,
+  "location": 2,
+  "content": "10%的可能得零分",
+  "music": 0.0
+ },
+ {
+  "from": 286.429,
+  "to": 287.37,
+  "sid": 161,
+  "location": 2,
+  "content": "你说我会怎么看",
+  "music": 0.0
+ },
+ {
+  "from": 287.37,
+  "to": 289.17,
+  "sid": 162,
+  "location": 2,
+  "content": "我肯定会先做下一题",
+  "music": 0.0
+ },
+ {
+  "from": 289.17,
+  "to": 289.77,
+  "sid": 163,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 289.77,
+  "to": 291.93,
+  "sid": 164,
+  "location": 2,
+  "content": "如果人家告诉你这个题是难题",
+  "music": 0.0
+ },
+ {
+  "from": 291.93,
+  "to": 293.13,
+  "sid": 165,
+  "location": 2,
+  "content": "你就会把它跳过去",
+  "music": 0.0
+ },
+ {
+  "from": 293.13,
+  "to": 294.39,
+  "sid": 166,
+  "location": 2,
+  "content": "如果没有人告诉你",
+  "music": 0.0
+ },
+ {
+  "from": 294.39,
+  "to": 295.53,
+  "sid": 167,
+  "location": 2,
+  "content": "自己花了十分钟",
+  "music": 0.0
+ },
+ {
+  "from": 295.53,
+  "to": 297.26,
+  "sid": 168,
+  "location": 2,
+  "content": "你还是要把它跳过去",
+  "music": 0.0
+ },
+ {
+  "from": 297.26,
+  "to": 299.48,
+  "sid": 169,
+  "location": 2,
+  "content": "因为呢这十分钟已经花出去了",
+  "music": 0.0
+ },
+ {
+  "from": 299.48,
+  "to": 300.56,
+  "sid": 170,
+  "location": 2,
+  "content": "是你的沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 300.56,
+  "to": 302.26,
+  "sid": 171,
+  "location": 2,
+  "content": "你已经收不回来了啊",
+  "music": 0.0
+ },
+ {
+  "from": 302.26,
+  "to": 303.82,
+  "sid": 172,
+  "location": 2,
+  "content": "其实呢在考试中啊",
+  "music": 0.0
+ },
+ {
+  "from": 303.82,
+  "to": 305.08,
+  "sid": 173,
+  "location": 2,
+  "content": "没有运用这个道理啊",
+  "music": 0.0
+ },
+ {
+  "from": 305.08,
+  "to": 306.46,
+  "sid": 174,
+  "location": 2,
+  "content": "犯了错误的同学非常多",
+  "music": 0.0
+ },
+ {
+  "from": 306.46,
+  "to": 308.27,
+  "sid": 175,
+  "location": 2,
+  "content": "尤其是一些好同学啊",
+  "music": 0.0
+ },
+ {
+  "from": 308.27,
+  "to": 309.83,
+  "sid": 176,
+  "location": 2,
+  "content": "这个学习比较差的同学呢",
+  "music": 0.0
+ },
+ {
+  "from": 309.83,
+  "to": 310.67,
+  "sid": 177,
+  "location": 2,
+  "content": "反正我做不出来题",
+  "music": 0.0
+ },
+ {
+  "from": 310.67,
+  "to": 311.21,
+  "sid": 178,
+  "location": 2,
+  "content": "我就跳嘛",
+  "music": 0.0
+ },
+ {
+  "from": 311.21,
+  "to": 311.84,
+  "sid": 179,
+  "location": 2,
+  "content": "这很正常",
+  "music": 0.0
+ },
+ {
+  "from": 311.84,
+  "to": 315.03,
+  "sid": 180,
+  "location": 2,
+  "content": "但是好同学总觉得我不应该有做不出来的题",
+  "music": 0.0
+ },
+ {
+  "from": 315.03,
+  "to": 315.63,
+  "sid": 181,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 315.63,
+  "to": 316.89,
+  "sid": 182,
+  "location": 2,
+  "content": "比如以前我有个学生啊",
+  "music": 0.0
+ },
+ {
+  "from": 316.89,
+  "to": 317.91,
+  "sid": 183,
+  "location": 2,
+  "content": "这个物理学的特别好",
+  "music": 0.0
+ },
+ {
+  "from": 317.91,
+  "to": 320.01,
+  "sid": 184,
+  "location": 2,
+  "content": "参加竞赛的时候有一道难题",
+  "music": 0.0
+ },
+ {
+  "from": 320.01,
+  "to": 321.39,
+  "sid": 185,
+  "location": 2,
+  "content": "那第二题就非常难",
+  "music": 0.0
+ },
+ {
+  "from": 321.39,
+  "to": 322.5,
+  "sid": 186,
+  "location": 2,
+  "content": "计算量非常大",
+  "music": 0.0
+ },
+ {
+  "from": 322.5,
+  "to": 324.36,
+  "sid": 187,
+  "location": 2,
+  "content": "大部分同学90%以上的同学",
+  "music": 0.0
+ },
+ {
+  "from": 324.36,
+  "to": 325.32,
+  "sid": 188,
+  "location": 2,
+  "content": "这道题根本就不会错",
+  "music": 0.0
+ },
+ {
+  "from": 325.32,
+  "to": 326.24,
+  "sid": 189,
+  "location": 2,
+  "content": "一步都做不出来",
+  "music": 0.0
+ },
+ {
+  "from": 326.24,
+  "to": 327.68,
+  "sid": 190,
+  "location": 2,
+  "content": "他就想我学的这么好",
+  "music": 0.0
+ },
+ {
+  "from": 327.68,
+  "to": 329.21,
+  "sid": 191,
+  "location": 2,
+  "content": "我就应该能把它做出来",
+  "music": 0.0
+ },
+ {
+  "from": 329.21,
+  "to": 331.4,
+  "sid": 192,
+  "location": 2,
+  "content": "结果花了大量的时间来做这个题",
+  "music": 0.0
+ },
+ {
+  "from": 331.4,
+  "to": 334.58,
+  "sid": 193,
+  "location": 2,
+  "content": "最后结果呢人家那最后一道题非常简单",
+  "music": 0.0
+ },
+ {
+  "from": 334.58,
+  "to": 336.14,
+  "sid": 194,
+  "location": 2,
+  "content": "90%的人都做出来了",
+  "music": 0.0
+ },
+ {
+  "from": 336.14,
+  "to": 337.38,
+  "sid": 195,
+  "location": 2,
+  "content": "他没有时间去做",
+  "music": 0.0
+ },
+ {
+  "from": 337.38,
+  "to": 339.24,
+  "sid": 196,
+  "location": 2,
+  "content": "结果就因为这个原因啊",
+  "music": 0.0
+ },
+ {
+  "from": 339.24,
+  "to": 339.96,
+  "sid": 197,
+  "location": 2,
+  "content": "他没有考好",
+  "music": 0.0
+ },
+ {
+  "from": 339.96,
+  "to": 341.539,
+  "sid": 198,
+  "location": 2,
+  "content": "没有获得自己理想的成绩",
+  "music": 0.0
+ },
+ {
+  "from": 341.539,
+  "to": 344.599,
+  "sid": 199,
+  "location": 2,
+  "content": "这种错误我们千万不能在考场上犯啊",
+  "music": 0.0
+ },
+ {
+  "from": 344.599,
+  "to": 345.789,
+  "sid": 200,
+  "location": 2,
+  "content": "千万不能在考场上犯",
+  "music": 0.0
+ },
+ {
+  "from": 345.789,
+  "to": 348.429,
+  "sid": 201,
+  "location": 2,
+  "content": "其实类似的事在生活中非常多",
+  "music": 0.0
+ },
+ {
+  "from": 348.429,
+  "to": 349.389,
+  "sid": 202,
+  "location": 2,
+  "content": "不仅仅是考试",
+  "music": 0.0
+ },
+ {
+  "from": 349.389,
+  "to": 352.539,
+  "sid": 203,
+  "location": 2,
+  "content": "比如我们再来说一个让人琢磨不透的东西",
+  "music": 0.0
+ },
+ {
+  "from": 352.539,
+  "to": 353.48,
+  "sid": 204,
+  "location": 2,
+  "content": "爱情",
+  "music": 0.0
+ },
+ {
+  "from": 355.699,
+  "to": 358.359,
+  "sid": 205,
+  "location": 2,
+  "content": "说爱情这东西啊让人琢磨不透",
+  "music": 0.0
+ },
+ {
+  "from": 358.359,
+  "to": 360.099,
+  "sid": 206,
+  "location": 2,
+  "content": "但是呢我们可以在决策的时候",
+  "music": 0.0
+ },
+ {
+  "from": 360.099,
+  "to": 362.63,
+  "sid": 207,
+  "location": 2,
+  "content": "也利用这个经济学的原理来进行分析",
+  "music": 0.0
+ },
+ {
+  "from": 362.63,
+  "to": 364.43,
+  "sid": 208,
+  "location": 2,
+  "content": "比如说有一个男人啊",
+  "music": 0.0
+ },
+ {
+  "from": 364.43,
+  "to": 367.88,
+  "sid": 209,
+  "location": 2,
+  "content": "这个男人呢他追求一个女人啊",
+  "music": 0.0
+ },
+ {
+  "from": 367.88,
+  "to": 368.81,
+  "sid": 210,
+  "location": 2,
+  "content": "追求一个女人",
+  "music": 0.0
+ },
+ {
+  "from": 368.81,
+  "to": 369.8,
+  "sid": 211,
+  "location": 2,
+  "content": "她花了很多钱",
+  "music": 0.0
+ },
+ {
+  "from": 369.8,
+  "to": 370.75,
+  "sid": 212,
+  "location": 2,
+  "content": "她花了100万",
+  "music": 0.0
+ },
+ {
+  "from": 370.75,
+  "to": 373.87,
+  "sid": 213,
+  "location": 2,
+  "content": "然后又花了3年的时间去追求这个女人",
+  "music": 0.0
+ },
+ {
+  "from": 373.87,
+  "to": 376.06,
+  "sid": 214,
+  "location": 2,
+  "content": "结果发现这个女人总跟她吵架",
+  "music": 0.0
+ },
+ {
+  "from": 376.06,
+  "to": 377.61,
+  "sid": 215,
+  "location": 2,
+  "content": "两个人也不能好好在一起",
+  "music": 0.0
+ },
+ {
+  "from": 377.61,
+  "to": 379.41,
+  "sid": 216,
+  "location": 2,
+  "content": "于是他就想我该怎么办呢",
+  "music": 0.0
+ },
+ {
+  "from": 379.41,
+  "to": 380.4,
+  "sid": 217,
+  "location": 2,
+  "content": "两种选择",
+  "music": 0.0
+ },
+ {
+  "from": 380.4,
+  "to": 383.78,
+  "sid": 218,
+  "location": 2,
+  "content": "第一种选择他可以再追3年",
+  "music": 0.0
+ },
+ {
+  "from": 383.78,
+  "to": 385.73,
+  "sid": 219,
+  "location": 2,
+  "content": "再花100万啊",
+  "music": 0.0
+ },
+ {
+  "from": 385.73,
+  "to": 387.46,
+  "sid": 220,
+  "location": 2,
+  "content": "再花3年的时间",
+  "music": 0.0
+ },
+ {
+  "from": 387.5,
+  "to": 389.9,
+  "sid": 221,
+  "location": 2,
+  "content": "那么你继续追这个女人的话",
+  "music": 0.0
+ },
+ {
+  "from": 389.9,
+  "to": 392.0,
+  "sid": 222,
+  "location": 2,
+  "content": "有可能有90%的可能",
+  "music": 0.0
+ },
+ {
+  "from": 392.0,
+  "to": 393.02,
+  "sid": 223,
+  "location": 2,
+  "content": "因为你已经知道这事",
+  "music": 0.0
+ },
+ {
+  "from": 393.02,
+  "to": 393.92,
+  "sid": 224,
+  "location": 2,
+  "content": "你俩不合适",
+  "music": 0.0
+ },
+ {
+  "from": 393.92,
+  "to": 396.16,
+  "sid": 225,
+  "location": 2,
+  "content": "所以还是要分手的",
+  "music": 0.0
+ },
+ {
+  "from": 396.219,
+  "to": 399.039,
+  "sid": 226,
+  "location": 2,
+  "content": "那么还有10%的可能啊",
+  "music": 0.0
+ },
+ {
+  "from": 399.039,
+  "to": 401.139,
+  "sid": 227,
+  "location": 2,
+  "content": "你们可能会结婚啊",
+  "music": 0.0
+ },
+ {
+  "from": 401.139,
+  "to": 403.179,
+  "sid": 228,
+  "location": 2,
+  "content": "可能会获得一个很好的结果",
+  "music": 0.0
+ },
+ {
+  "from": 403.179,
+  "to": 404.019,
+  "sid": 229,
+  "location": 2,
+  "content": "对吧好",
+  "music": 0.0
+ },
+ {
+  "from": 404.019,
+  "to": 406.539,
+  "sid": 230,
+  "location": 2,
+  "content": "当然还有另外一种可能就果断走人",
+  "music": 0.0
+ },
+ {
+  "from": 406.539,
+  "to": 407.62,
+  "sid": 231,
+  "location": 2,
+  "content": "直接分手",
+  "music": 0.0
+ },
+ {
+  "from": 407.659,
+  "to": 408.559,
+  "sid": 232,
+  "location": 2,
+  "content": "直接分手",
+  "music": 0.0
+ },
+ {
+  "from": 408.559,
+  "to": 409.969,
+  "sid": 233,
+  "location": 2,
+  "content": "你不需要再花100万了",
+  "music": 0.0
+ },
+ {
+  "from": 409.969,
+  "to": 411.559,
+  "sid": 234,
+  "location": 2,
+  "content": "此时大家想过吗",
+  "music": 0.0
+ },
+ {
+  "from": 411.559,
+  "to": 412.91,
+  "sid": 235,
+  "location": 2,
+  "content": "哪一种才是理性的",
+  "music": 0.0
+ },
+ {
+  "from": 412.91,
+  "to": 415.31,
+  "sid": 236,
+  "location": 2,
+  "content": "我们大部分人可能都会啊",
+  "music": 0.0
+ },
+ {
+  "from": 415.31,
+  "to": 416.75,
+  "sid": 237,
+  "location": 2,
+  "content": "总是不舍得放弃",
+  "music": 0.0
+ },
+ {
+  "from": 416.75,
+  "to": 417.29,
+  "sid": 238,
+  "location": 2,
+  "content": "因为什么呢",
+  "music": 0.0
+ },
+ {
+  "from": 417.29,
+  "to": 419.15,
+  "sid": 239,
+  "location": 2,
+  "content": "因为我们觉得我们已经花了这么多钱",
+  "music": 0.0
+ },
+ {
+  "from": 419.15,
+  "to": 419.87,
+  "sid": 240,
+  "location": 2,
+  "content": "这么多时间了",
+  "music": 0.0
+ },
+ {
+  "from": 419.87,
+  "to": 420.53,
+  "sid": 241,
+  "location": 2,
+  "content": "我要是放弃了",
+  "music": 0.0
+ },
+ {
+  "from": 420.53,
+  "to": 421.9,
+  "sid": 242,
+  "location": 2,
+  "content": "我不就浪费了吗",
+  "music": 0.0
+ },
+ {
+  "from": 421.9,
+  "to": 423.34,
+  "sid": 243,
+  "location": 2,
+  "content": "但是作为一个理性的人",
+  "music": 0.0
+ },
+ {
+  "from": 423.34,
+  "to": 424.78,
+  "sid": 244,
+  "location": 2,
+  "content": "我们不应该考虑这件事儿",
+  "music": 0.0
+ },
+ {
+  "from": 424.78,
+  "to": 427.72,
+  "sid": 245,
+  "location": 2,
+  "content": "你应该说你这个钱和时间都已经沉没了",
+  "music": 0.0
+ },
+ {
+  "from": 427.72,
+  "to": 428.88,
+  "sid": 246,
+  "location": 2,
+  "content": "你当它不存在",
+  "music": 0.0
+ },
+ {
+  "from": 428.88,
+  "to": 431.34,
+  "sid": 247,
+  "location": 2,
+  "content": "你就是本来你一上来你就知道啊",
+  "music": 0.0
+ },
+ {
+  "from": 431.34,
+  "to": 433.2,
+  "sid": 248,
+  "location": 2,
+  "content": "这个已知不合适",
+  "music": 0.0
+ },
+ {
+  "from": 433.2,
+  "to": 435.78,
+  "sid": 249,
+  "location": 2,
+  "content": "你就已知这个女人呢她不合适啊",
+  "music": 0.0
+ },
+ {
+  "from": 435.78,
+  "to": 436.77,
+  "sid": 250,
+  "location": 2,
+  "content": "不适合你",
+  "music": 0.0
+ },
+ {
+  "from": 436.77,
+  "to": 439.35,
+  "sid": 251,
+  "location": 2,
+  "content": "那么此时你有两种决策",
+  "music": 0.0
+ },
+ {
+  "from": 439.35,
+  "to": 441.33,
+  "sid": 252,
+  "location": 2,
+  "content": "要不然用1003000年的时间去追她",
+  "music": 0.0
+ },
+ {
+  "from": 441.33,
+  "to": 443.3,
+  "sid": 253,
+  "location": 2,
+  "content": "有90%的可能分手啊",
+  "music": 0.0
+ },
+ {
+  "from": 443.3,
+  "to": 444.74,
+  "sid": 254,
+  "location": 2,
+  "content": "还有不让你给我果断",
+  "music": 0.0
+ },
+ {
+  "from": 444.74,
+  "to": 445.49,
+  "sid": 255,
+  "location": 2,
+  "content": "你换别人",
+  "music": 0.0
+ },
+ {
+  "from": 445.49,
+  "to": 446.57,
+  "sid": 256,
+  "location": 2,
+  "content": "那你想会怎么做",
+  "music": 0.0
+ },
+ {
+  "from": 446.57,
+  "to": 447.77,
+  "sid": 257,
+  "location": 2,
+  "content": "那那只要是个正常人",
+  "music": 0.0
+ },
+ {
+  "from": 447.77,
+  "to": 448.91,
+  "sid": 258,
+  "location": 2,
+  "content": "都不会选择上面这一条",
+  "music": 0.0
+ },
+ {
+  "from": 448.91,
+  "to": 449.33,
+  "sid": 259,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 449.33,
+  "to": 452.12,
+  "sid": 260,
+  "location": 2,
+  "content": "我们呢必须学会认清沉没成本",
+  "music": 0.0
+ },
+ {
+  "from": 452.12,
+  "to": 454.46,
+  "sid": 261,
+  "location": 2,
+  "content": "你花出去的时间和钱已经沉没了",
+  "music": 0.0
+ },
+ {
+  "from": 454.46,
+  "to": 455.43,
+  "sid": 262,
+  "location": 2,
+  "content": "不要去考虑它",
+  "music": 0.0
+ },
+ {
+  "from": 455.43,
+  "to": 456.93,
+  "sid": 263,
+  "location": 2,
+  "content": "当这件事是白来的",
+  "music": 0.0
+ },
+ {
+  "from": 456.93,
+  "to": 459.07,
+  "sid": 264,
+  "location": 2,
+  "content": "我问你还是否要继续啊",
+  "music": 0.0
+ },
+ {
+  "from": 459.07,
+  "to": 460.75,
+  "sid": 265,
+  "location": 2,
+  "content": "用这种办法来进行判断",
+  "music": 0.0
+ },
+ {
+  "from": 460.75,
+  "to": 463.35,
+  "sid": 266,
+  "location": 2,
+  "content": "不要用沉没成本来干扰你的决策",
+  "music": 0.0
+ },
+ {
+  "from": 463.35,
+  "to": 464.73,
+  "sid": 267,
+  "location": 2,
+  "content": "除了爱情以外啊",
+  "music": 0.0
+ },
+ {
+  "from": 464.73,
+  "to": 468.15,
+  "sid": 268,
+  "location": 2,
+  "content": "伤我们最深的还有一个叫做股票啊",
+  "music": 0.0
+ },
+ {
+  "from": 468.15,
+  "to": 472.49,
+  "sid": 269,
+  "location": 2,
+  "content": "股票股票按说呢有涨有跌",
+  "music": 0.0
+ },
+ {
+  "from": 472.49,
+  "to": 473.21,
+  "sid": 270,
+  "location": 2,
+  "content": "有亏有赚",
+  "music": 0.0
+ },
+ {
+  "from": 473.21,
+  "to": 474.35,
+  "sid": 271,
+  "location": 2,
+  "content": "不应该亏的特别多",
+  "music": 0.0
+ },
+ {
+  "from": 474.35,
+  "to": 477.02,
+  "sid": 272,
+  "location": 2,
+  "content": "那为什么有些人会亏到倾家荡产的程度呢",
+  "music": 0.0
+ },
+ {
+  "from": 477.02,
+  "to": 478.88,
+  "sid": 273,
+  "location": 2,
+  "content": "因为他每当套住了一只股票之后",
+  "music": 0.0
+ },
+ {
+  "from": 478.88,
+  "to": 480.26,
+  "sid": 274,
+  "location": 2,
+  "content": "就拼命地追加投资",
+  "music": 0.0
+ },
+ {
+  "from": 480.26,
+  "to": 481.9,
+  "sid": 275,
+  "location": 2,
+  "content": "他希望这支股票还能回本",
+  "music": 0.0
+ },
+ {
+  "from": 481.9,
+  "to": 483.25,
+  "sid": 276,
+  "location": 2,
+  "content": "这是不是理性的呢",
+  "music": 0.0
+ },
+ {
+  "from": 483.25,
+  "to": 483.98,
+  "sid": 277,
+  "location": 2,
+  "content": "我们看啊",
+  "music": 0.0
+ },
+ {
+  "from": 483.98,
+  "to": 485.54,
+  "sid": 278,
+  "location": 2,
+  "content": "假如我们有一个人",
+  "music": 0.0
+ },
+ {
+  "from": 485.54,
+  "to": 486.92,
+  "sid": 279,
+  "location": 2,
+  "content": "比如说a吧啊",
+  "music": 0.0
+ },
+ {
+  "from": 486.92,
+  "to": 489.14,
+  "sid": 280,
+  "location": 2,
+  "content": "他买入了一只股票啊",
+  "music": 0.0
+ },
+ {
+  "from": 489.14,
+  "to": 491.0,
+  "sid": 281,
+  "location": 2,
+  "content": "买入了a人啊",
+  "music": 0.0
+ },
+ {
+  "from": 491.0,
+  "to": 492.44,
+  "sid": 282,
+  "location": 2,
+  "content": "买入了这个股票啊",
+  "music": 0.0
+ },
+ {
+  "from": 492.44,
+  "to": 493.54,
+  "sid": 283,
+  "location": 2,
+  "content": "买入了100万",
+  "music": 0.0
+ },
+ {
+  "from": 493.64,
+  "to": 495.12,
+  "sid": 284,
+  "location": 2,
+  "content": "买入了辟谷",
+  "music": 0.0
+ },
+ {
+  "from": 496.259,
+  "to": 497.359,
+  "sid": 285,
+  "location": 2,
+  "content": "买入了之后呢",
+  "music": 0.0
+ },
+ {
+  "from": 497.359,
+  "to": 498.679,
+  "sid": 286,
+  "location": 2,
+  "content": "这个b公司经营不善",
+  "music": 0.0
+ },
+ {
+  "from": 498.679,
+  "to": 500.749,
+  "sid": 287,
+  "location": 2,
+  "content": "所以呢它这个股票价格持续下跌",
+  "music": 0.0
+ },
+ {
+  "from": 500.749,
+  "to": 501.559,
+  "sid": 288,
+  "location": 2,
+  "content": "持续下跌",
+  "music": 0.0
+ },
+ {
+  "from": 501.559,
+  "to": 502.639,
+  "sid": 289,
+  "location": 2,
+  "content": "下跌发生了亏损",
+  "music": 0.0
+ },
+ {
+  "from": 502.639,
+  "to": 504.36,
+  "sid": 290,
+  "location": 2,
+  "content": "于是呢他就面临两种决策",
+  "music": 0.0
+ },
+ {
+  "from": 504.36,
+  "to": 506.16,
+  "sid": 291,
+  "location": 2,
+  "content": "第一种决策就是什么",
+  "music": 0.0
+ },
+ {
+  "from": 506.16,
+  "to": 509.16,
+  "sid": 292,
+  "location": 2,
+  "content": "就是追加投资或者是持仓不动啊",
+  "music": 0.0
+ },
+ {
+  "from": 509.16,
+  "to": 510.739,
+  "sid": 293,
+  "location": 2,
+  "content": "追加追加了之后",
+  "music": 0.0
+ },
+ {
+  "from": 510.739,
+  "to": 511.579,
+  "sid": 294,
+  "location": 2,
+  "content": "他还是知道",
+  "music": 0.0
+ },
+ {
+  "from": 511.579,
+  "to": 513.319,
+  "sid": 295,
+  "location": 2,
+  "content": "因为这个公司经营不善",
+  "music": 0.0
+ },
+ {
+  "from": 513.319,
+  "to": 514.039,
+  "sid": 296,
+  "location": 2,
+  "content": "所以怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 514.039,
+  "to": 517.52,
+  "sid": 297,
+  "location": 2,
+  "content": "所以他有90%的可能会继续亏损",
+  "music": 0.0
+ },
+ {
+  "from": 517.52,
+  "to": 518.92,
+  "sid": 298,
+  "location": 2,
+  "content": "而且亏损的越来越多",
+  "music": 0.0
+ },
+ {
+  "from": 518.92,
+  "to": 521.62,
+  "sid": 299,
+  "location": 2,
+  "content": "也有10%的可能会盈利啊",
+  "music": 0.0
+ },
+ {
+  "from": 521.62,
+  "to": 523.52,
+  "sid": 300,
+  "location": 2,
+  "content": "会回本甚至盈利",
+  "music": 0.0
+ },
+ {
+  "from": 523.64,
+  "to": 525.6,
+  "sid": 301,
+  "location": 2,
+  "content": "这是他的第一个决策",
+  "music": 0.0
+ },
+ {
+  "from": 525.6,
+  "to": 528.06,
+  "sid": 302,
+  "location": 2,
+  "content": "第二个果断离场走人啊",
+  "music": 0.0
+ },
+ {
+  "from": 528.06,
+  "to": 529.32,
+  "sid": 303,
+  "location": 2,
+  "content": "割肉离场走人",
+  "music": 0.0
+ },
+ {
+  "from": 529.32,
+  "to": 530.1,
+  "sid": 304,
+  "location": 2,
+  "content": "离场走人呢",
+  "music": 0.0
+ },
+ {
+  "from": 530.1,
+  "to": 531.72,
+  "sid": 305,
+  "location": 2,
+  "content": "你这100万可能就没有了对吧",
+  "music": 0.0
+ },
+ {
+  "from": 531.72,
+  "to": 532.5,
+  "sid": 306,
+  "location": 2,
+  "content": "也可能亏50万",
+  "music": 0.0
+ },
+ {
+  "from": 532.5,
+  "to": 533.46,
+  "sid": 307,
+  "location": 2,
+  "content": "也可能亏100万啊",
+  "music": 0.0
+ },
+ {
+  "from": 533.46,
+  "to": 534.12,
+  "sid": 308,
+  "location": 2,
+  "content": "就没有了",
+  "music": 0.0
+ },
+ {
+  "from": 534.12,
+  "to": 536.189,
+  "sid": 309,
+  "location": 2,
+  "content": "好很多人会选择第一种",
+  "music": 0.0
+ },
+ {
+  "from": 536.189,
+  "to": 537.989,
+  "sid": 310,
+  "location": 2,
+  "content": "因为他觉得呀我不能亏钱",
+  "music": 0.0
+ },
+ {
+  "from": 537.989,
+  "to": 538.829,
+  "sid": 311,
+  "location": 2,
+  "content": "我至少要卖",
+  "music": 0.0
+ },
+ {
+  "from": 538.829,
+  "to": 539.789,
+  "sid": 312,
+  "location": 2,
+  "content": "我也得卖到本钱",
+  "music": 0.0
+ },
+ {
+  "from": 539.789,
+  "to": 540.48,
+  "sid": 313,
+  "location": 2,
+  "content": "我不能亏",
+  "music": 0.0
+ },
+ {
+  "from": 540.48,
+  "to": 541.44,
+  "sid": 314,
+  "location": 2,
+  "content": "就一家投资",
+  "music": 0.0
+ },
+ {
+  "from": 541.44,
+  "to": 542.58,
+  "sid": 315,
+  "location": 2,
+  "content": "结果越亏越多",
+  "music": 0.0
+ },
+ {
+  "from": 542.58,
+  "to": 543.3,
+  "sid": 316,
+  "location": 2,
+  "content": "越亏越多",
+  "music": 0.0
+ },
+ {
+  "from": 543.3,
+  "to": 544.26,
+  "sid": 317,
+  "location": 2,
+  "content": "最后倾家荡产",
+  "music": 0.0
+ },
+ {
+  "from": 544.26,
+  "to": 545.41,
+  "sid": 318,
+  "location": 2,
+  "content": "我们该怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 545.41,
+  "to": 546.49,
+  "sid": 319,
+  "location": 2,
+  "content": "遇到这种问题",
+  "music": 0.0
+ },
+ {
+  "from": 546.49,
+  "to": 547.36,
+  "sid": 320,
+  "location": 2,
+  "content": "我们应该这么想",
+  "music": 0.0
+ },
+ {
+  "from": 547.36,
+  "to": 548.89,
+  "sid": 321,
+  "location": 2,
+  "content": "你没有花钱",
+  "music": 0.0
+ },
+ {
+  "from": 548.89,
+  "to": 550.81,
+  "sid": 322,
+  "location": 2,
+  "content": "你直接就持有啊",
+  "music": 0.0
+ },
+ {
+  "from": 550.81,
+  "to": 552.46,
+  "sid": 323,
+  "location": 2,
+  "content": "你是免费的",
+  "music": 0.0
+ },
+ {
+  "from": 552.46,
+  "to": 556.11,
+  "sid": 324,
+  "location": 2,
+  "content": "你是免费持有1000000b股",
+  "music": 0.0
+ },
+ {
+  "from": 556.11,
+  "to": 557.76,
+  "sid": 325,
+  "location": 2,
+  "content": "你是免费持有的",
+  "music": 0.0
+ },
+ {
+  "from": 557.76,
+  "to": 560.34,
+  "sid": 326,
+  "location": 2,
+  "content": "现在你知道这支股票经营不善啊",
+  "music": 0.0
+ },
+ {
+  "from": 560.34,
+  "to": 562.53,
+  "sid": 327,
+  "location": 2,
+  "content": "跟他同类型的股票价格又低",
+  "music": 0.0
+ },
+ {
+  "from": 562.53,
+  "to": 564.3,
+  "sid": 328,
+  "location": 2,
+  "content": "而且呢这个公司还好",
+  "music": 0.0
+ },
+ {
+  "from": 564.3,
+  "to": 564.78,
+  "sid": 329,
+  "location": 2,
+  "content": "我问你",
+  "music": 0.0
+ },
+ {
+  "from": 564.78,
+  "to": 565.7,
+  "sid": 330,
+  "location": 2,
+  "content": "你要不要换",
+  "music": 0.0
+ },
+ {
+  "from": 565.7,
+  "to": 568.64,
+  "sid": 331,
+  "location": 2,
+  "content": "或者说你觉得我应该有一些钱来生活了",
+  "music": 0.0
+ },
+ {
+  "from": 568.64,
+  "to": 571.22,
+  "sid": 332,
+  "location": 2,
+  "content": "那你要不要从这个免费的股票里拿出来",
+  "music": 0.0
+ },
+ {
+  "from": 571.22,
+  "to": 572.48,
+  "sid": 333,
+  "location": 2,
+  "content": "然后供你去生活呢",
+  "music": 0.0
+ },
+ {
+  "from": 572.48,
+  "to": 574.04,
+  "sid": 334,
+  "location": 2,
+  "content": "我想大部分人都会的",
+  "music": 0.0
+ },
+ {
+  "from": 574.04,
+  "to": 576.32,
+  "sid": 335,
+  "location": 2,
+  "content": "就因为这个钱是我们买进去的",
+  "music": 0.0
+ },
+ {
+  "from": 576.32,
+  "to": 577.85,
+  "sid": 336,
+  "location": 2,
+  "content": "所以我们才舍不得割肉",
+  "music": 0.0
+ },
+ {
+  "from": 577.85,
+  "to": 579.23,
+  "sid": 337,
+  "location": 2,
+  "content": "但是从经济学上讲",
+  "music": 0.0
+ },
+ {
+  "from": 579.23,
+  "to": 580.52,
+  "sid": 338,
+  "location": 2,
+  "content": "这是不理性的",
+  "music": 0.0
+ },
+ {
+  "from": 580.52,
+  "to": 581.72,
+  "sid": 339,
+  "location": 2,
+  "content": "我们发现呢",
+  "music": 0.0
+ },
+ {
+  "from": 581.72,
+  "to": 582.8,
+  "sid": 340,
+  "location": 2,
+  "content": "无论是考试",
+  "music": 0.0
+ },
+ {
+  "from": 582.8,
+  "to": 583.94,
+  "sid": 341,
+  "location": 2,
+  "content": "爱情还是股票",
+  "music": 0.0
+ },
+ {
+  "from": 583.94,
+  "to": 585.44,
+  "sid": 342,
+  "location": 2,
+  "content": "其实都有这样的一个问题",
+  "music": 0.0
+ },
+ {
+  "from": 585.44,
+  "to": 588.14,
+  "sid": 343,
+  "location": 2,
+  "content": "给大家的建议就是不会做的题就要跳过",
+  "music": 0.0
+ },
+ {
+  "from": 588.14,
+  "to": 589.56,
+  "sid": 344,
+  "location": 2,
+  "content": "不能爱的人就要分手",
+  "music": 0.0
+ },
+ {
+  "from": 589.56,
+  "to": 591.48,
+  "sid": 345,
+  "location": 2,
+  "content": "不能赚钱的股票就要割肉",
+  "music": 0.0
+ },
+ {
+  "from": 591.48,
+  "to": 593.52,
+  "sid": 346,
+  "location": 2,
+  "content": "只有这样才能做一个理性的人",
+  "music": 0.0
+ },
+ {
+  "from": 593.52,
+  "to": 595.74,
+  "sid": 347,
+  "location": 2,
+  "content": "其实在生活中还有很多类似的例子",
+  "music": 0.0
+ },
+ {
+  "from": 595.74,
+  "to": 596.97,
+  "sid": 348,
+  "location": 2,
+  "content": "比如说电信诈骗",
+  "music": 0.0
+ },
+ {
+  "from": 596.97,
+  "to": 599.46,
+  "sid": 349,
+  "location": 2,
+  "content": "他最开始的时候可能只让你投资一部分",
+  "music": 0.0
+ },
+ {
+  "from": 599.46,
+  "to": 600.56,
+  "sid": 350,
+  "location": 2,
+  "content": "投资了1万块",
+  "music": 0.0
+ },
+ {
+  "from": 600.56,
+  "to": 602.84,
+  "sid": 351,
+  "location": 2,
+  "content": "然后呢你你你发觉被骗了",
+  "music": 0.0
+ },
+ {
+  "from": 602.84,
+  "to": 603.44,
+  "sid": 352,
+  "location": 2,
+  "content": "然后你跟他说",
+  "music": 0.0
+ },
+ {
+  "from": 603.44,
+  "to": 604.34,
+  "sid": 353,
+  "location": 2,
+  "content": "我要拿回这1万块",
+  "music": 0.0
+ },
+ {
+  "from": 604.34,
+  "to": 605.06,
+  "sid": 354,
+  "location": 2,
+  "content": "人家说可以呀",
+  "music": 0.0
+ },
+ {
+  "from": 605.06,
+  "to": 605.66,
+  "sid": 355,
+  "location": 2,
+  "content": "你再投1万",
+  "music": 0.0
+ },
+ {
+  "from": 605.66,
+  "to": 606.74,
+  "sid": 356,
+  "location": 2,
+  "content": "我2万多还给你",
+  "music": 0.0
+ },
+ {
+  "from": 606.74,
+  "to": 607.92,
+  "sid": 357,
+  "location": 2,
+  "content": "你就又投了1万",
+  "music": 0.0
+ },
+ {
+  "from": 607.92,
+  "to": 610.02,
+  "sid": 358,
+  "location": 2,
+  "content": "他人说了说你需要再投1万",
+  "music": 0.0
+ },
+ {
+  "from": 610.02,
+  "to": 611.28,
+  "sid": 359,
+  "location": 2,
+  "content": "我才能把3万还给你",
+  "music": 0.0
+ },
+ {
+  "from": 611.28,
+  "to": 612.54,
+  "sid": 360,
+  "location": 2,
+  "content": "这样一来你就越来越多",
+  "music": 0.0
+ },
+ {
+  "from": 612.54,
+  "to": 613.6,
+  "sid": 361,
+  "location": 2,
+  "content": "越来越多啊",
+  "music": 0.0
+ },
+ {
+  "from": 613.6,
+  "to": 614.35,
+  "sid": 362,
+  "location": 2,
+  "content": "你要明白",
+  "music": 0.0
+ },
+ {
+  "from": 614.35,
+  "to": 615.34,
+  "sid": 363,
+  "location": 2,
+  "content": "在这种情况下",
+  "music": 0.0
+ },
+ {
+  "from": 615.34,
+  "to": 616.96,
+  "sid": 364,
+  "location": 2,
+  "content": "你之前被骗的钱已经沉没了",
+  "music": 0.0
+ },
+ {
+  "from": 616.96,
+  "to": 618.88,
+  "sid": 365,
+  "location": 2,
+  "content": "你不要指望骗子大发良心啊",
+  "music": 0.0
+ },
+ {
+  "from": 618.88,
+  "to": 619.24,
+  "sid": 366,
+  "location": 2,
+  "content": "给你",
+  "music": 0.0
+ },
+ {
+  "from": 619.24,
+  "to": 622.299,
+  "sid": 367,
+  "location": 2,
+  "content": "他是利用沉没成本这种心理的套路来套路你",
+  "music": 0.0
+ },
+ {
+  "from": 622.299,
+  "to": 623.529,
+  "sid": 368,
+  "location": 2,
+  "content": "你会越亏越多的",
+  "music": 0.0
+ },
+ {
+  "from": 623.529,
+  "to": 624.819,
+  "sid": 369,
+  "location": 2,
+  "content": "还有传销也是这样",
+  "music": 0.0
+ },
+ {
+  "from": 624.819,
+  "to": 626.48,
+  "sid": 370,
+  "location": 2,
+  "content": "你进入了一个传销组织之后",
+  "music": 0.0
+ },
+ {
+  "from": 626.48,
+  "to": 627.14,
+  "sid": 371,
+  "location": 2,
+  "content": "他跟你说",
+  "music": 0.0
+ },
+ {
+  "from": 627.14,
+  "to": 628.28,
+  "sid": 372,
+  "location": 2,
+  "content": "你已经花了这么多钱了",
+  "music": 0.0
+ },
+ {
+  "from": 628.28,
+  "to": 630.08,
+  "sid": 373,
+  "location": 2,
+  "content": "你必须要再拉多少个人头进来",
+  "music": 0.0
+ },
+ {
+  "from": 630.08,
+  "to": 631.22,
+  "sid": 374,
+  "location": 2,
+  "content": "才能把这些钱还给你",
+  "music": 0.0
+ },
+ {
+  "from": 631.22,
+  "to": 632.3,
+  "sid": 375,
+  "location": 2,
+  "content": "所以你就越陷越深",
+  "music": 0.0
+ },
+ {
+  "from": 632.3,
+  "to": 633.079,
+  "sid": 376,
+  "location": 2,
+  "content": "越陷越深",
+  "music": 0.0
+ },
+ {
+  "from": 633.079,
+  "to": 635.34,
+  "sid": 377,
+  "location": 2,
+  "content": "这些呢都是沉没成本的问题",
+  "music": 0.0
+ },
+ {
+  "from": 635.34,
+  "to": 637.44,
+  "sid": 378,
+  "location": 2,
+  "content": "我们要知道金钱是成本",
+  "music": 0.0
+ },
+ {
+  "from": 637.44,
+  "to": 639.27,
+  "sid": 379,
+  "location": 2,
+  "content": "但是更重要的成本是时间",
+  "music": 0.0
+ },
+ {
+  "from": 639.27,
+  "to": 642.15,
+  "sid": 380,
+  "location": 2,
+  "content": "我们每一个人的每一分钟都是非常宝贵的",
+  "music": 0.0
+ },
+ {
+  "from": 642.15,
+  "to": 645.12,
+  "sid": 381,
+  "location": 2,
+  "content": "而不要把时间浪费在这些毫无意义的事情上",
+  "music": 0.0
+ },
+ {
+  "from": 645.12,
+  "to": 646.56,
+  "sid": 382,
+  "location": 2,
+  "content": "大家如果喜欢我的视频呢",
+  "music": 0.0
+ },
+ {
+  "from": 646.56,
+  "to": 648.68,
+  "sid": 383,
+  "location": 2,
+  "content": "可以在西瓜视频里关注我利用的老师",
+  "music": 0.0
+ }
+]
