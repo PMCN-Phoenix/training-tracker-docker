@@ -1,0 +1,153 @@
+[00:00:00.080] We're absolutely surrounded by metrics,
+[00:00:04.080] define what success looks like. And they
+[00:00:07.839] happens if the very numbers we put so
+[00:00:11.360] down the wrong path? Today, we're going
+[00:00:13.120] to dig into when metrics lie and how the
+[00:00:15.430] to dig into when metrics lie and how the
+[00:00:19.029] describe reality, it actively changes
+[00:00:21.269] it. You know, it all starts with this
+[00:00:26.160] Engineers trust numbers. We're taught
+[00:00:28.800] that numbers are the language of logic,
+[00:00:31.029] that numbers are the language of logic,
+[00:00:35.440] complicated, they feel solid, reliable,
+[00:00:38.709] complicated, they feel solid, reliable,
+[00:00:41.520] is broken? What happens when the numbers
+[00:00:43.590] is broken? What happens when the numbers
+[00:00:47.920] that everything is fine, but the reality
+[00:00:49.990] that everything is fine, but the reality
+[00:00:52.239] something else entirely? Well, that's
+[00:00:54.640] the big conflict we're getting into. So,
+[00:00:57.350] the big conflict we're getting into. So,
+[00:01:02.320] all starts with their incredible power.
+[00:01:04.549] all starts with their incredible power.
+[00:01:06.320] they feel so objective. Think about it.
+[00:01:09.190] they feel so objective. Think about it.
+[00:01:13.429] from all that messy human bias, right?
+[00:01:15.360] this crystal clear picture of the world.
+[00:01:19.680] simple fact. And because of all that, we
+[00:01:21.910] simple fact. And because of all that, we
+[00:01:26.310] are facts. But here's the crucial twist,
+[00:01:28.640] facts. Not even close. They're proxies.
+[00:01:31.910] facts. Not even close. They're proxies.
+[00:01:33.680] that's way, way more complex. They're
+[00:01:36.400] simplifications boiling down this really
+[00:01:41.749] nuanced world into a single digit. And
+[00:01:43.910] maybe most importantly, they are just
+[00:01:46.320] shape of a number. And this brings us to
+[00:01:48.950] shape of a number. And this brings us to
+[00:01:51.749] our first really critical takeaway. The
+[00:01:56.880] click, you are at that exact same moment
+[00:02:00.069] click, you are at that exact same moment
+[00:02:04.709] user frustration or the quality of that
+[00:02:06.870] click, they just don't matter as much.
+[00:02:09.350] Every metric you choose hides a ton of
+[00:02:13.840] This is the point where our reliance on
+[00:02:15.589] This is the point where our reliance on
+[00:02:19.990] starts to work against us. And it's all
+[00:02:22.070] governed by a very very powerful
+[00:02:26.720] concept to understand. It basically says
+[00:02:29.270] concept to understand. It basically says
+[00:02:31.350] that as soon as you start using a metric
+[00:02:33.840] promotions or just defining what success
+[00:02:36.390] promotions or just defining what success
+[00:02:39.430] is, the second it becomes a target, it
+[00:02:43.280] that's so important. People and systems
+[00:02:45.750] that's so important. People and systems
+[00:02:50.319] metric was supposed to represent. If you
+[00:02:52.710] metric was supposed to represent. If you
+[00:02:54.309] tell a sales team they get a bonus based
+[00:02:57.599] really short, low-quality calls, but not
+[00:03:00.000] really short, low-quality calls, but not
+[00:03:04.070] starts chasing the number, not the
+[00:03:06.080] happen? Well, metrics start lying to us
+[00:03:10.319] often slow. They lag behind reality,
+[00:03:14.560] it's already started. They also average
+[00:03:16.879] away the really extreme pain that's felt
+[00:03:19.030] away the really extreme pain that's felt
+[00:03:21.040] hide what we call tail risk. Those rare
+[00:03:25.589] but totally catastrophic events. They
+[00:03:27.360] look good but hurt quality in the long
+[00:03:30.879] completely detached from what a real
+[00:03:34.319] here is a really dangerous paradox for
+[00:03:36.309] here is a really dangerous paradox for
+[00:03:40.239] it. our processes, our incentives, the
+[00:03:42.480] more devastating the damage is when that
+[00:03:46.390] metric finally starts to drift away from
+[00:03:49.030] reality. That blind faith is the biggest
+[00:03:51.120] us to the central battle for pretty much
+[00:03:55.750] any team out there. The huge growing gap
+[00:03:57.509] between what the dashboard says and what
+[00:04:01.120] actually feeling. Just take a look at
+[00:04:05.200] dashboard view. Everything is green. The
+[00:04:07.350] dashboard view. Everything is green. The
+[00:04:11.760] look at the user's reality on the right.
+[00:04:13.910] look at the user's reality on the right.
+[00:04:15.760] messages, and just this slow breakdown
+[00:04:20.400] just flatout lying. So why why does this
+[00:04:23.590] just flatout lying. So why why does this
+[00:04:25.919] real sharp user pain doesn't show up in
+[00:04:28.560] your averages. It lives out in the tales
+[00:04:30.790] your averages. It lives out in the tales
+[00:04:35.919] time might look great, but if even 1% of
+[00:04:38.390] time might look great, but if even 1% of
+[00:04:40.230] your users are stuck waiting 10 seconds
+[00:04:43.919] hiding from you. These kinds of problems
+[00:04:46.150] hiding from you. These kinds of problems
+[00:04:50.320] ones like total app downloads. They look
+[00:04:52.790] ones like total app downloads. They look
+[00:04:55.919] actually using the thing. Then there's
+[00:04:58.390] actually using the thing. Then there's
+[00:05:02.080] mean. You have local optimization, which
+[00:05:04.870] mean. You have local optimization, which
+[00:05:08.800] And of course, there's just straight up
+[00:05:10.469] And of course, there's just straight up
+[00:05:14.320] hitting the goal. And this leads us to
+[00:05:16.320] another fundamental truth we just can't
+[00:05:18.710] another fundamental truth we just can't
+[00:05:21.120] watching what's happening. No, they are
+[00:05:26.160] incentives in disguise. What you choose
+[00:05:28.790] incentives in disguise. What you choose
+[00:05:30.639] reward. And that choice directly shapes
+[00:05:33.270] reward. And that choice directly shapes
+[00:05:37.590] spent a lot of time on the problem. So
+[00:05:41.600] and stop measuring things. The answer is
+[00:05:43.830] and stop measuring things. The answer is
+[00:05:45.199] humility to really understand the limits
+[00:05:49.759] practical things you can do to build
+[00:05:53.680] that balance each other out. Like if you
+[00:05:55.350] that balance each other out. Like if you
+[00:05:58.880] Second, please, please stop looking only
+[00:06:01.510] Second, please, please stop looking only
+[00:06:05.600] P99s. Third, make sure your metrics are
+[00:06:08.710] P99s. Third, make sure your metrics are
+[00:06:11.029] tied to actual user outcomes, not just
+[00:06:13.430] some internal number. Fourth, and this
+[00:06:15.600] question the assumptions behind your
+[00:06:19.120] signals, as clues that tell you where to
+[00:06:21.029] signals, as clues that tell you where to
+[00:06:25.440] philosophy down to a single idea. When a
+[00:06:28.150] philosophy down to a single idea. When a
+[00:06:30.000] bad, that shouldn't be the end of the
+[00:06:34.560] should be the thing that makes you ask
+[00:06:36.160] why. A metric should never ever be used
+[00:06:39.749] why. A metric should never ever be used
+[00:06:42.240] someone drops a number on the table like
+[00:06:47.600] let me give you maybe the most practical
+[00:06:49.430] let me give you maybe the most practical
+[00:06:51.600] have a flood of user complaints telling
+[00:06:56.639] everything is fine, who are you going to
+[00:06:58.550] everything is fine, who are you going to
+[00:07:01.589] believe? The answer has to be reality.
+[00:07:03.270] You have to trust the human experience
+[00:07:06.160] this is the final warning. The moment an
+[00:07:10.639] its own data, the moment it just accepts
+[00:07:12.710] its own data, the moment it just accepts
+[00:07:16.400] when it gets disconnected from the very
+[00:07:18.150] when it gets disconnected from the very
+[00:07:22.790] that is the most dangerous place to be.
+[00:07:25.440] incredibly powerful tools. They help us
+[00:07:27.350] incredibly powerful tools. They help us
+[00:07:32.309] essential. But they are not reality. So
+[00:07:33.919] guide you. Measure everything you can.
+[00:07:36.000] But never ever worship the numbers. That
+[00:07:40.319] systems and more importantly your users.
