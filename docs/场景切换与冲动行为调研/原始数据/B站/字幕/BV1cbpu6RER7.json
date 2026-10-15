@@ -1,0 +1,2378 @@
+[
+  {
+    "from": 0.72,
+    "to": 2.26,
+    "sid": 1,
+    "location": 2,
+    "content": "深度人生",
+    "music": 0.0
+  },
+  {
+    "from": 2.26,
+    "to": 4.32,
+    "sid": 2,
+    "location": 2,
+    "content": "探索人生真谛",
+    "music": 0.0
+  },
+  {
+    "from": 4.32,
+    "to": 6.96,
+    "sid": 3,
+    "location": 2,
+    "content": "提升生命维度",
+    "music": 0.0
+  },
+  {
+    "from": 10.06,
+    "to": 11.84,
+    "sid": 4,
+    "location": 2,
+    "content": "每天读两页书",
+    "music": 0.0
+  },
+  {
+    "from": 11.84,
+    "to": 14.9,
+    "sid": 5,
+    "location": 2,
+    "content": "看起来改变不了什么",
+    "music": 0.0
+  },
+  {
+    "from": 15.27,
+    "to": 16.97,
+    "sid": 6,
+    "location": 2,
+    "content": "每天走10分钟",
+    "music": 0.0
+  },
+  {
+    "from": 16.97,
+    "to": 20.479,
+    "sid": 7,
+    "location": 2,
+    "content": "也很难立刻看出区别",
+    "music": 0.0
+  },
+  {
+    "from": 20.999,
+    "to": 22.599,
+    "sid": 8,
+    "location": 2,
+    "content": "可换一个方向",
+    "music": 0.0
+  },
+  {
+    "from": 22.599,
+    "to": 26.51,
+    "sid": 9,
+    "location": 2,
+    "content": "想每天多刷一会儿手机",
+    "music": 0.0
+  },
+  {
+    "from": 26.51,
+    "to": 29.67,
+    "sid": 10,
+    "location": 2,
+    "content": "每次把事情再拖一会儿",
+    "music": 0.0
+  },
+  {
+    "from": 29.95,
+    "to": 34.27,
+    "sid": 11,
+    "location": 2,
+    "content": "同样不会马上带来明显后果",
+    "music": 0.0
+  },
+  {
+    "from": 34.75,
+    "to": 36.77,
+    "sid": 12,
+    "location": 2,
+    "content": "小事容易被忽略",
+    "music": 0.0
+  },
+  {
+    "from": 36.77,
+    "to": 39.75,
+    "sid": 13,
+    "location": 2,
+    "content": "恰恰因为他们的影响",
+    "music": 0.0
+  },
+  {
+    "from": 40.23,
+    "to": 43.99,
+    "sid": 14,
+    "location": 2,
+    "content": "常常不在发生的那一刻出现",
+    "music": 0.0
+  },
+  {
+    "from": 44.44,
+    "to": 47.56,
+    "sid": 15,
+    "location": 2,
+    "content": "詹姆斯克里尔的原子习惯",
+    "music": 0.0
+  },
+  {
+    "from": 47.56,
+    "to": 50.76,
+    "sid": 16,
+    "location": 2,
+    "content": "就从这种时间差出发",
+    "music": 0.0
+  },
+  {
+    "from": 51.19,
+    "to": 54.55,
+    "sid": 17,
+    "location": 2,
+    "content": "他关心一个具体的问题",
+    "music": 0.0
+  },
+  {
+    "from": 54.96,
+    "to": 57.72,
+    "sid": 18,
+    "location": 2,
+    "content": "为什么我们明明想改变",
+    "music": 0.0
+  },
+  {
+    "from": 57.72,
+    "to": 61.72,
+    "sid": 19,
+    "location": 2,
+    "content": "却总会回到熟悉的生活方式",
+    "music": 0.0
+  },
+  {
+    "from": 62.13,
+    "to": 68.45,
+    "sid": 20,
+    "location": 2,
+    "content": "又怎样让一个很小的行动变成能够持续的日常",
+    "music": 0.0
+  },
+  {
+    "from": 69.16,
+    "to": 75.4,
+    "sid": 21,
+    "location": 2,
+    "content": "书名里的原子有微小基础组成单位的意思",
+    "music": 0.0
+  },
+  {
+    "from": 75.82,
+    "to": 78.12,
+    "sid": 22,
+    "location": 2,
+    "content": "一次行动可以很小",
+    "music": 0.0
+  },
+  {
+    "from": 78.12,
+    "to": 81.78,
+    "sid": 23,
+    "location": 2,
+    "content": "但他嵌入怎样的生活系统",
+    "music": 0.0
+  },
+  {
+    "from": 82.31,
+    "to": 85.99,
+    "sid": 24,
+    "location": 2,
+    "content": "会决定它能不能不断发生",
+    "music": 0.0
+  },
+  {
+    "from": 86.359,
+    "to": 89.719,
+    "sid": 25,
+    "location": 2,
+    "content": "这本书最广为人知的说法是",
+    "music": 0.0
+  },
+  {
+    "from": 89.719,
+    "to": 92.39,
+    "sid": 26,
+    "location": 2,
+    "content": "每天进步1%",
+    "music": 0.0
+  },
+  {
+    "from": 92.91,
+    "to": 96.33,
+    "sid": 27,
+    "location": 2,
+    "content": "如果一个数每天增长1%",
+    "music": 0.0
+  },
+  {
+    "from": 96.33,
+    "to": 102.79,
+    "sid": 28,
+    "location": 2,
+    "content": "一年以后大约会变成原来的37.8倍",
+    "music": 0.0
+  },
+  {
+    "from": 103.18,
+    "to": 106.06,
+    "sid": 29,
+    "location": 2,
+    "content": "这个计算没有问题",
+    "music": 0.0
+  },
+  {
+    "from": 106.47,
+    "to": 108.57,
+    "sid": 30,
+    "location": 2,
+    "content": "但人的能力和生活",
+    "music": 0.0
+  },
+  {
+    "from": 108.57,
+    "to": 112.87,
+    "sid": 31,
+    "location": 2,
+    "content": "并不是一个每天固定增长的数",
+    "music": 0.0
+  },
+  {
+    "from": 113.35,
+    "to": 120.23,
+    "sid": 32,
+    "location": 2,
+    "content": "阅读运动工作表现也没有统一的1%刻度",
+    "music": 0.0
+  },
+  {
+    "from": 120.569,
+    "to": 125.11,
+    "sid": 33,
+    "location": 2,
+    "content": "因此这个算式更适合看作比喻",
+    "music": 0.0
+  },
+  {
+    "from": 125.63,
+    "to": 128.81,
+    "sid": 34,
+    "location": 2,
+    "content": "他提醒我们关注长期积累",
+    "music": 0.0
+  },
+  {
+    "from": 128.81,
+    "to": 131.3,
+    "sid": 35,
+    "location": 2,
+    "content": "不能据此承诺",
+    "music": 0.0
+  },
+  {
+    "from": 131.78,
+    "to": 135.98,
+    "sid": 36,
+    "location": 2,
+    "content": "一个人一年以后会优秀几十倍",
+    "music": 0.0
+  },
+  {
+    "from": 136.37,
+    "to": 138.59,
+    "sid": 37,
+    "location": 2,
+    "content": "真正值得追问的是",
+    "music": 0.0
+  },
+  {
+    "from": 138.59,
+    "to": 142.04,
+    "sid": 38,
+    "location": 2,
+    "content": "小行动为什么能够积累",
+    "music": 0.0
+  },
+  {
+    "from": 142.52,
+    "to": 146.44,
+    "sid": 39,
+    "location": 2,
+    "content": "哪些东西又不会自动积累",
+    "music": 0.0
+  },
+  {
+    "from": 146.87,
+    "to": 151.11,
+    "sid": 40,
+    "location": 2,
+    "content": "可以想象两个人准备学习外语",
+    "music": 0.0
+  },
+  {
+    "from": 151.5,
+    "to": 155.75,
+    "sid": 41,
+    "location": 2,
+    "content": "这是一个用来说明问题的假设",
+    "music": 0.0
+  },
+  {
+    "from": 156.03,
+    "to": 158.57,
+    "sid": 42,
+    "location": 2,
+    "content": "一个人周末热情高涨",
+    "music": 0.0
+  },
+  {
+    "from": 158.57,
+    "to": 161.75,
+    "sid": 43,
+    "location": 2,
+    "content": "一口气学了三个小时",
+    "music": 0.0
+  },
+  {
+    "from": 162.31,
+    "to": 165.31,
+    "sid": 44,
+    "location": 2,
+    "content": "随后两周没有再碰",
+    "music": 0.0
+  },
+  {
+    "from": 165.72,
+    "to": 168.26,
+    "sid": 45,
+    "location": 2,
+    "content": "另一个人每天练10分钟",
+    "music": 0.0
+  },
+  {
+    "from": 168.26,
+    "to": 171.88,
+    "sid": 46,
+    "location": 2,
+    "content": "隔几天回顾以前的内容",
+    "music": 0.0
+  },
+  {
+    "from": 172.379,
+    "to": 175.719,
+    "sid": 47,
+    "location": 2,
+    "content": "后者的优势不止来自总时间",
+    "music": 0.0
+  },
+  {
+    "from": 175.719,
+    "to": 179.81,
+    "sid": 48,
+    "location": 2,
+    "content": "可能更多还在于学习",
+    "music": 0.0
+  },
+  {
+    "from": 179.81,
+    "to": 181.41,
+    "sid": 49,
+    "location": 2,
+    "content": "反复进入生活",
+    "music": 0.0
+  },
+  {
+    "from": 181.41,
+    "to": 186.23,
+    "sid": 50,
+    "location": 2,
+    "content": "就内容有机会被重新提取练习",
+    "music": 0.0
+  },
+  {
+    "from": 186.23,
+    "to": 188.77,
+    "sid": 51,
+    "location": 2,
+    "content": "也有机会根据错误调整",
+    "music": 0.0
+  },
+  {
+    "from": 190.21,
+    "to": 192.89,
+    "sid": 52,
+    "location": 2,
+    "content": "但如果他每天机械的重复",
+    "music": 0.0
+  },
+  {
+    "from": 192.89,
+    "to": 198.69,
+    "sid": 53,
+    "location": 2,
+    "content": "错误重复本身也不会保证进步",
+    "music": 0.0
+  },
+  {
+    "from": 199.199,
+    "to": 201.459,
+    "sid": 54,
+    "location": 2,
+    "content": "小改变要产生价值",
+    "music": 0.0
+  },
+  {
+    "from": 201.459,
+    "to": 205.759,
+    "sid": 55,
+    "location": 2,
+    "content": "需要方向反馈和持续发生",
+    "music": 0.0
+  },
+  {
+    "from": 206.14,
+    "to": 212.57,
+    "sid": 56,
+    "location": 2,
+    "content": "这里就进入了书中另一组区分目标和系统",
+    "music": 0.0
+  },
+  {
+    "from": 214.21,
+    "to": 217.61,
+    "sid": 57,
+    "location": 2,
+    "content": "目标描述想获得的结果",
+    "music": 0.0
+  },
+  {
+    "from": 218.1,
+    "to": 222.1,
+    "sid": 58,
+    "location": 2,
+    "content": "系统描述平时怎样做事",
+    "music": 0.0
+  },
+  {
+    "from": 222.48,
+    "to": 224.92,
+    "sid": 59,
+    "location": 2,
+    "content": "想读完一本书是目标",
+    "music": 0.0
+  },
+  {
+    "from": 226.48,
+    "to": 228.28,
+    "sid": 60,
+    "location": 2,
+    "content": "阅读什么时候发生",
+    "music": 0.0
+  },
+  {
+    "from": 228.28,
+    "to": 230.56,
+    "sid": 61,
+    "location": 2,
+    "content": "书放在哪里",
+    "music": 0.0
+  },
+  {
+    "from": 231.0,
+    "to": 234.04,
+    "sid": 62,
+    "location": 2,
+    "content": "遇到忙碌的一天怎样安排",
+    "music": 0.0
+  },
+  {
+    "from": 234.04,
+    "to": 237.3,
+    "sid": 63,
+    "location": 2,
+    "content": "属于系统目标",
+    "music": 0.0
+  },
+  {
+    "from": 237.3,
+    "to": 240.52,
+    "sid": 64,
+    "location": 2,
+    "content": "可以让人知道往哪里走",
+    "music": 0.0
+  },
+  {
+    "from": 240.92,
+    "to": 246.459,
+    "sid": 65,
+    "location": 2,
+    "content": "却不能单独解释为什么行动明天还会发生",
+    "music": 0.0
+  },
+  {
+    "from": 246.859,
+    "to": 249.719,
+    "sid": 66,
+    "location": 2,
+    "content": "两个人都想完成同一件事",
+    "music": 0.0
+  },
+  {
+    "from": 249.719,
+    "to": 253.699,
+    "sid": 67,
+    "location": 2,
+    "content": "最后的结果仍然可能不同",
+    "music": 0.0
+  },
+  {
+    "from": 254.06,
+    "to": 257.94,
+    "sid": 68,
+    "location": 2,
+    "content": "区别往往藏在日常过程里",
+    "music": 0.0
+  },
+  {
+    "from": 258.34,
+    "to": 260.86,
+    "sid": 69,
+    "location": 2,
+    "content": "而且达到目标以后",
+    "music": 0.0
+  },
+  {
+    "from": 260.86,
+    "to": 265.37,
+    "sid": 70,
+    "location": 2,
+    "content": "原来的生活方式可能重新出现",
+    "music": 0.0
+  },
+  {
+    "from": 265.69,
+    "to": 271.33,
+    "sid": 71,
+    "location": 2,
+    "content": "如果整理房间只靠一次大扫除物品",
+    "music": 0.0
+  },
+  {
+    "from": 271.33,
+    "to": 274.77,
+    "sid": 72,
+    "location": 2,
+    "content": "使用以后仍旧随手乱放整洁",
+    "music": 0.0
+  },
+  {
+    "from": 274.77,
+    "to": 276.89,
+    "sid": 73,
+    "location": 2,
+    "content": "就很难保持",
+    "music": 0.0
+  },
+  {
+    "from": 277.37,
+    "to": 280.25,
+    "sid": 74,
+    "location": 2,
+    "content": "克里尔把注意力转向系统",
+    "music": 0.0
+  },
+  {
+    "from": 280.25,
+    "to": 284.77,
+    "sid": 75,
+    "location": 2,
+    "content": "正是为了讨论这种重复结果",
+    "music": 0.0
+  },
+  {
+    "from": 284.77,
+    "to": 287.07,
+    "sid": 76,
+    "location": 2,
+    "content": "是某个时点的状态",
+    "music": 0.0
+  },
+  {
+    "from": 287.07,
+    "to": 291.45,
+    "sid": 77,
+    "location": 2,
+    "content": "过程决定这个状态怎样被维持",
+    "music": 0.0
+  },
+  {
+    "from": 291.82,
+    "to": 297.86,
+    "sid": 78,
+    "location": 2,
+    "content": "不过系统也需要目标来校准一个流程",
+    "music": 0.0
+  },
+  {
+    "from": 297.86,
+    "to": 299.52,
+    "sid": 79,
+    "location": 2,
+    "content": "执行的很稳定",
+    "music": 0.0
+  },
+  {
+    "from": 299.52,
+    "to": 303.78,
+    "sid": 80,
+    "location": 2,
+    "content": "不代表他正在解决正确的问题",
+    "music": 0.0
+  },
+  {
+    "from": 304.14,
+    "to": 309.5,
+    "sid": 81,
+    "location": 2,
+    "content": "所以更完整的理解是用目标检查方向",
+    "music": 0.0
+  },
+  {
+    "from": 309.89,
+    "to": 313.57,
+    "sid": 82,
+    "location": 2,
+    "content": "用系统解释日常行动",
+    "music": 0.0
+  },
+  {
+    "from": 313.96,
+    "to": 318.44,
+    "sid": 83,
+    "location": 2,
+    "content": "那么习惯怎样进入这个系统",
+    "music": 0.0
+  },
+  {
+    "from": 318.94,
+    "to": 324.34,
+    "sid": 84,
+    "location": 2,
+    "content": "科利尔用四个环节整理一次行为发生的过程",
+    "music": 0.0
+  },
+  {
+    "from": 324.68,
+    "to": 328.92,
+    "sid": 85,
+    "location": 2,
+    "content": "提示渴望反应奖励",
+    "music": 0.0
+  },
+  {
+    "from": 329.28,
+    "to": 333.32,
+    "sid": 86,
+    "location": 2,
+    "content": "这是一套便于理解和设计行为的框架",
+    "music": 0.0
+  },
+  {
+    "from": 334.88,
+    "to": 338.4,
+    "sid": 87,
+    "location": 2,
+    "content": "拿一个常见场景做说明",
+    "music": 0.0
+  },
+  {
+    "from": 338.87,
+    "to": 340.63,
+    "sid": 88,
+    "location": 2,
+    "content": "手机亮起通知",
+    "music": 0.0
+  },
+  {
+    "from": 340.63,
+    "to": 342.59,
+    "sid": 89,
+    "location": 2,
+    "content": "这是提示",
+    "music": 0.0
+  },
+  {
+    "from": 343.01,
+    "to": 345.35,
+    "sid": 90,
+    "location": 2,
+    "content": "想知道有没有新消息",
+    "music": 0.0
+  },
+  {
+    "from": 345.35,
+    "to": 349.76,
+    "sid": 91,
+    "location": 2,
+    "content": "这是渴望拿起手机查看",
+    "music": 0.0
+  },
+  {
+    "from": 349.76,
+    "to": 351.78,
+    "sid": 92,
+    "location": 2,
+    "content": "这是反应",
+    "music": 0.0
+  },
+  {
+    "from": 352.13,
+    "to": 356.13,
+    "sid": 93,
+    "location": 2,
+    "content": "得到新信息或者暂时解除好奇",
+    "music": 0.0
+  },
+  {
+    "from": 356.13,
+    "to": 358.08,
+    "sid": 94,
+    "location": 2,
+    "content": "这是奖励",
+    "music": 0.0
+  },
+  {
+    "from": 358.56,
+    "to": 361.42,
+    "sid": 95,
+    "location": 2,
+    "content": "如果这种结果反复出现",
+    "music": 0.0
+  },
+  {
+    "from": 361.42,
+    "to": 364.79,
+    "sid": 96,
+    "location": 2,
+    "content": "提示和行为之间的联系",
+    "music": 0.0
+  },
+  {
+    "from": 365.27,
+    "to": 369.28,
+    "sid": 97,
+    "location": 2,
+    "content": "就可能越来越熟悉以后",
+    "music": 0.0
+  },
+  {
+    "from": 369.28,
+    "to": 370.42,
+    "sid": 98,
+    "location": 2,
+    "content": "手机一亮",
+    "music": 0.0
+  },
+  {
+    "from": 370.42,
+    "to": 373.1,
+    "sid": 99,
+    "location": 2,
+    "content": "手已经伸过去了",
+    "music": 0.0
+  },
+  {
+    "from": 373.54,
+    "to": 378.22,
+    "sid": 100,
+    "location": 2,
+    "content": "这里的渴望未必是很强烈的欲望",
+    "music": 0.0
+  },
+  {
+    "from": 378.77,
+    "to": 384.7,
+    "sid": 101,
+    "location": 2,
+    "content": "也可能只是想摆脱无聊或者消除一点不确定感",
+    "music": 0.0
+  },
+  {
+    "from": 385.22,
+    "to": 387.26,
+    "sid": 102,
+    "location": 2,
+    "content": "奖励也未必是外在",
+    "music": 0.0
+  },
+  {
+    "from": 387.26,
+    "to": 391.65,
+    "sid": 103,
+    "location": 2,
+    "content": "奖品轻松新鲜安心",
+    "music": 0.0
+  },
+  {
+    "from": 391.65,
+    "to": 395.77,
+    "sid": 104,
+    "location": 2,
+    "content": "都可能让行为更容易重复",
+    "music": 0.0
+  },
+  {
+    "from": 396.2,
+    "to": 399.08,
+    "sid": 105,
+    "location": 2,
+    "content": "这个框架的价值在于",
+    "music": 0.0
+  },
+  {
+    "from": 399.08,
+    "to": 402.33,
+    "sid": 106,
+    "location": 2,
+    "content": "把笼统的自律问题拆开",
+    "music": 0.0
+  },
+  {
+    "from": 402.81,
+    "to": 405.01,
+    "sid": 107,
+    "location": 2,
+    "content": "一个行动没有发生",
+    "music": 0.0
+  },
+  {
+    "from": 405.01,
+    "to": 408.48,
+    "sid": 108,
+    "location": 2,
+    "content": "可能是根本没有看到提示",
+    "music": 0.0
+  },
+  {
+    "from": 408.92,
+    "to": 411.52,
+    "sid": 109,
+    "location": 2,
+    "content": "也可能是他缺少吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 411.52,
+    "to": 414.53,
+    "sid": 110,
+    "location": 2,
+    "content": "或者完成它太费时",
+    "music": 0.0
+  },
+  {
+    "from": 415.01,
+    "to": 420.77,
+    "sid": 111,
+    "location": 2,
+    "content": "还有一种可能是做完以后很久都没有反馈",
+    "music": 0.0
+  },
+  {
+    "from": 421.25,
+    "to": 426.87,
+    "sid": 112,
+    "location": 2,
+    "content": "这几种障碍需要不同的解释一句",
+    "music": 0.0
+  },
+  {
+    "from": 426.87,
+    "to": 428.19,
+    "sid": 113,
+    "location": 2,
+    "content": "再努力一点",
+    "music": 0.0
+  },
+  {
+    "from": 428.19,
+    "to": 434.0,
+    "sid": 114,
+    "location": 2,
+    "content": "很难同时解决他们书中的四条行为",
+    "music": 0.0
+  },
+  {
+    "from": 434.0,
+    "to": 438.0,
+    "sid": 115,
+    "location": 2,
+    "content": "改变法则就对应这四个环节",
+    "music": 0.0
+  },
+  {
+    "from": 438.48,
+    "to": 440.2,
+    "sid": 116,
+    "location": 2,
+    "content": "让提示明显",
+    "music": 0.0
+  },
+  {
+    "from": 440.2,
+    "to": 442.18,
+    "sid": 117,
+    "location": 2,
+    "content": "让行为有吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 442.18,
+    "to": 447.86,
+    "sid": 118,
+    "location": 2,
+    "content": "让行动容易让结果令人满足",
+    "music": 0.0
+  },
+  {
+    "from": 448.32,
+    "to": 450.18,
+    "sid": 119,
+    "location": 2,
+    "content": "他们被称为法则",
+    "music": 0.0
+  },
+  {
+    "from": 450.18,
+    "to": 457.4,
+    "sid": 120,
+    "location": 2,
+    "content": "但读者更适合把他们理解为实践设计的原则",
+    "music": 0.0
+  },
+  {
+    "from": 457.91,
+    "to": 464.07,
+    "sid": 121,
+    "location": 2,
+    "content": "复杂行为不一定都能完整地装进同一个循环",
+    "music": 0.0
+  },
+  {
+    "from": 464.439,
+    "to": 468.519,
+    "sid": 122,
+    "location": 2,
+    "content": "为了看清这些原则怎样关联",
+    "music": 0.0
+  },
+  {
+    "from": 468.93,
+    "to": 472.93,
+    "sid": 123,
+    "location": 2,
+    "content": "我们继续用阅读这个假设场景",
+    "music": 0.0
+  },
+  {
+    "from": 473.28,
+    "to": 475.84,
+    "sid": 124,
+    "location": 2,
+    "content": "一个人决定晚上读书",
+    "music": 0.0
+  },
+  {
+    "from": 475.84,
+    "to": 478.789,
+    "sid": 125,
+    "location": 2,
+    "content": "却把书放进柜子里",
+    "music": 0.0
+  },
+  {
+    "from": 479.229,
+    "to": 482.73,
+    "sid": 126,
+    "location": 2,
+    "content": "回到家桌上只有手机",
+    "music": 0.0
+  },
+  {
+    "from": 483.17,
+    "to": 487.35,
+    "sid": 127,
+    "location": 2,
+    "content": "这时最容易被看见的提示来自手机",
+    "music": 0.0
+  },
+  {
+    "from": 487.35,
+    "to": 489.73,
+    "sid": 128,
+    "location": 2,
+    "content": "而不是阅读",
+    "music": 0.0
+  },
+  {
+    "from": 490.21,
+    "to": 492.75,
+    "sid": 129,
+    "location": 2,
+    "content": "把书放在常坐的位置",
+    "music": 0.0
+  },
+  {
+    "from": 492.75,
+    "to": 496.46,
+    "sid": 130,
+    "location": 2,
+    "content": "改变的是提示出现的机会",
+    "music": 0.0
+  },
+  {
+    "from": 496.94,
+    "to": 500.22,
+    "sid": 131,
+    "location": 2,
+    "content": "他没有直接增加一个人的意志力",
+    "music": 0.0
+  },
+  {
+    "from": 501.74,
+    "to": 505.13,
+    "sid": 132,
+    "location": 2,
+    "content": "却让阅读更容易被想起来",
+    "music": 0.0
+  },
+  {
+    "from": 505.45,
+    "to": 508.81,
+    "sid": 133,
+    "location": 2,
+    "content": "这也解释了环境为什么重要",
+    "music": 0.0
+  },
+  {
+    "from": 510.33,
+    "to": 513.85,
+    "sid": 134,
+    "location": 2,
+    "content": "人不是在真空里做选择",
+    "music": 0.0
+  },
+  {
+    "from": 514.349,
+    "to": 517.969,
+    "sid": 135,
+    "location": 2,
+    "content": "眼前有什么什么伸手就能拿到",
+    "music": 0.0
+  },
+  {
+    "from": 517.969,
+    "to": 521.349,
+    "sid": 136,
+    "location": 2,
+    "content": "都会参与行动的行程",
+    "music": 0.0
+  },
+  {
+    "from": 521.77,
+    "to": 525.69,
+    "sid": 137,
+    "location": 2,
+    "content": "但看见书还不等于想读",
+    "music": 0.0
+  },
+  {
+    "from": 526.04,
+    "to": 528.62,
+    "sid": 138,
+    "location": 2,
+    "content": "如果每次读书都意味着",
+    "music": 0.0
+  },
+  {
+    "from": 528.62,
+    "to": 532.48,
+    "sid": 139,
+    "location": 2,
+    "content": "立刻完成一项沉重的考核",
+    "music": 0.0
+  },
+  {
+    "from": 532.93,
+    "to": 536.8,
+    "sid": 140,
+    "location": 2,
+    "content": "这件事的吸引力可能很低",
+    "music": 0.0
+  },
+  {
+    "from": 537.24,
+    "to": 541.56,
+    "sid": 141,
+    "location": 2,
+    "content": "如果内容与一个正在关心的问题有关",
+    "music": 0.0
+  },
+  {
+    "from": 542.21,
+    "to": 545.05,
+    "sid": 142,
+    "location": 2,
+    "content": "阅读就多了一个自然的理由",
+    "music": 0.0
+  },
+  {
+    "from": 546.65,
+    "to": 549.25,
+    "sid": 143,
+    "location": 2,
+    "content": "这是第二个环节",
+    "music": 0.0
+  },
+  {
+    "from": 549.57,
+    "to": 553.41,
+    "sid": 144,
+    "location": 2,
+    "content": "提示负责让行动进入注意吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 553.41,
+    "to": 558.87,
+    "sid": 145,
+    "location": 2,
+    "content": "影响人愿不愿意靠近同伴和群体规范",
+    "music": 0.0
+  },
+  {
+    "from": 558.87,
+    "to": 563.29,
+    "sid": 146,
+    "location": 2,
+    "content": "也会影响哪些行动显得有价值",
+    "music": 0.0
+  },
+  {
+    "from": 563.7,
+    "to": 565.7,
+    "sid": 147,
+    "location": 2,
+    "content": "只是感到有吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 565.7,
+    "to": 569.22,
+    "sid": 148,
+    "location": 2,
+    "content": "仍不代表一定能够执行",
+    "music": 0.0
+  },
+  {
+    "from": 569.639,
+    "to": 574.699,
+    "sid": 149,
+    "location": 2,
+    "content": "接下来还有行动成本书在手边",
+    "music": 0.0
+  },
+  {
+    "from": 574.699,
+    "to": 578.889,
+    "sid": 150,
+    "location": 2,
+    "content": "但规定每天必须读完50页",
+    "music": 0.0
+  },
+  {
+    "from": 579.36,
+    "to": 584.56,
+    "sid": 151,
+    "location": 2,
+    "content": "忙碌以后就很难开始一次中断",
+    "music": 0.0
+  },
+  {
+    "from": 584.56,
+    "to": 588.4,
+    "sid": 152,
+    "location": 2,
+    "content": "可能又让下一次更难发生",
+    "music": 0.0
+  },
+  {
+    "from": 588.86,
+    "to": 591.28,
+    "sid": 153,
+    "location": 2,
+    "content": "克里尔提出2分钟规则",
+    "music": 0.0
+  },
+  {
+    "from": 591.28,
+    "to": 596.66,
+    "sid": 154,
+    "location": 2,
+    "content": "把新习惯的起点缩小到2分钟以内",
+    "music": 0.0
+  },
+  {
+    "from": 596.66,
+    "to": 599.67,
+    "sid": 155,
+    "location": 2,
+    "content": "能够完成阅读",
+    "music": 0.0
+  },
+  {
+    "from": 599.67,
+    "to": 601.93,
+    "sid": 156,
+    "location": 2,
+    "content": "可以从一夜开始运动",
+    "music": 0.0
+  },
+  {
+    "from": 601.93,
+    "to": 605.069,
+    "sid": 157,
+    "location": 2,
+    "content": "可以从穿好运动鞋开始",
+    "music": 0.0
+  },
+  {
+    "from": 605.549,
+    "to": 608.749,
+    "sid": 158,
+    "location": 2,
+    "content": "这里最容易产生误解",
+    "music": 0.0
+  },
+  {
+    "from": 609.259,
+    "to": 613.659,
+    "sid": 159,
+    "location": 2,
+    "content": "穿好鞋不会自动带来体能提升",
+    "music": 0.0
+  },
+  {
+    "from": 614.08,
+    "to": 616.32,
+    "sid": 160,
+    "location": 2,
+    "content": "读一页也不能替代",
+    "music": 0.0
+  },
+  {
+    "from": 616.32,
+    "to": 619.81,
+    "sid": 161,
+    "location": 2,
+    "content": "深入理解这个规则",
+    "music": 0.0
+  },
+  {
+    "from": 619.81,
+    "to": 624.27,
+    "sid": 162,
+    "location": 2,
+    "content": "处理的是启动门槛最小",
+    "music": 0.0
+  },
+  {
+    "from": 624.27,
+    "to": 626.93,
+    "sid": 163,
+    "location": 2,
+    "content": "行动像一个入口",
+    "music": 0.0
+  },
+  {
+    "from": 627.4,
+    "to": 630.36,
+    "sid": 164,
+    "location": 2,
+    "content": "他让人先熟悉开始的过程",
+    "music": 0.0
+  },
+  {
+    "from": 630.36,
+    "to": 634.13,
+    "sid": 165,
+    "location": 2,
+    "content": "随后再把行为逐渐展开",
+    "music": 0.0
+  },
+  {
+    "from": 634.49,
+    "to": 636.83,
+    "sid": 166,
+    "location": 2,
+    "content": "如果永远停在入口",
+    "music": 0.0
+  },
+  {
+    "from": 636.83,
+    "to": 641.31,
+    "sid": 167,
+    "location": 2,
+    "content": "想要的能力仍然不会凭空出现",
+    "music": 0.0
+  },
+  {
+    "from": 641.67,
+    "to": 644.41,
+    "sid": 168,
+    "location": 2,
+    "content": "降低门槛与提高质量",
+    "music": 0.0
+  },
+  {
+    "from": 644.41,
+    "to": 647.81,
+    "sid": 169,
+    "location": 2,
+    "content": "因此是相互衔接的任务",
+    "music": 0.0
+  },
+  {
+    "from": 648.29,
+    "to": 650.77,
+    "sid": 170,
+    "location": 2,
+    "content": "先让行动有机会发生",
+    "music": 0.0
+  },
+  {
+    "from": 650.77,
+    "to": 654.81,
+    "sid": 171,
+    "location": 2,
+    "content": "再根据目的调整练习的内容",
+    "music": 0.0
+  },
+  {
+    "from": 655.19,
+    "to": 657.01,
+    "sid": 172,
+    "location": 2,
+    "content": "阅读已经发生了",
+    "music": 0.0
+  },
+  {
+    "from": 657.01,
+    "to": 659.44,
+    "sid": 173,
+    "location": 2,
+    "content": "还剩下一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 659.84,
+    "to": 663.71,
+    "sid": 174,
+    "location": 2,
+    "content": "他为什么值得明天再来一次",
+    "music": 0.0
+  },
+  {
+    "from": 664.07,
+    "to": 666.85,
+    "sid": 175,
+    "location": 2,
+    "content": "许多有长期价值的行为",
+    "music": 0.0
+  },
+  {
+    "from": 666.85,
+    "to": 669.35,
+    "sid": 176,
+    "location": 2,
+    "content": "回报来的很慢",
+    "music": 0.0
+  },
+  {
+    "from": 669.75,
+    "to": 671.01,
+    "sid": 177,
+    "location": 2,
+    "content": "今天练习",
+    "music": 0.0
+  },
+  {
+    "from": 671.01,
+    "to": 674.52,
+    "sid": 178,
+    "location": 2,
+    "content": "明天未必就表现的更好",
+    "music": 0.0
+  },
+  {
+    "from": 674.76,
+    "to": 677.2,
+    "sid": 179,
+    "location": 2,
+    "content": "而一些让人分心的行为",
+    "music": 0.0
+  },
+  {
+    "from": 677.2,
+    "to": 681.01,
+    "sid": 180,
+    "location": 2,
+    "content": "立刻就能提供刺激或轻松",
+    "music": 0.0
+  },
+  {
+    "from": 681.53,
+    "to": 684.75,
+    "sid": 181,
+    "location": 2,
+    "content": "书中让结果令人满足的原则",
+    "music": 0.0
+  },
+  {
+    "from": 684.75,
+    "to": 689.56,
+    "sid": 182,
+    "location": 2,
+    "content": "针对的就是这段等待完成以后",
+    "music": 0.0
+  },
+  {
+    "from": 689.56,
+    "to": 691.54,
+    "sid": 183,
+    "location": 2,
+    "content": "留下一个简单记录",
+    "music": 0.0
+  },
+  {
+    "from": 693.06,
+    "to": 697.39,
+    "sid": 184,
+    "location": 2,
+    "content": "或者看到自己解决了一个小问题",
+    "music": 0.0
+  },
+  {
+    "from": 697.71,
+    "to": 701.95,
+    "sid": 185,
+    "location": 2,
+    "content": "都可能让行动得到较劲的反馈",
+    "music": 0.0
+  },
+  {
+    "from": 702.399,
+    "to": 704.699,
+    "sid": 186,
+    "location": 2,
+    "content": "但记录是行为的信号",
+    "music": 0.0
+  },
+  {
+    "from": 704.699,
+    "to": 707.77,
+    "sid": 187,
+    "location": 2,
+    "content": "不是行为价值本身",
+    "music": 0.0
+  },
+  {
+    "from": 708.01,
+    "to": 710.11,
+    "sid": 188,
+    "location": 2,
+    "content": "为了维持连续打卡",
+    "music": 0.0
+  },
+  {
+    "from": 710.11,
+    "to": 713.29,
+    "sid": 189,
+    "location": 2,
+    "content": "随意翻几页就算完成",
+    "music": 0.0
+  },
+  {
+    "from": 713.559,
+    "to": 715.599,
+    "sid": 190,
+    "location": 2,
+    "content": "可能保住了数字",
+    "music": 0.0
+  },
+  {
+    "from": 715.599,
+    "to": 718.399,
+    "sid": 191,
+    "location": 2,
+    "content": "却没有增加理解",
+    "music": 0.0
+  },
+  {
+    "from": 718.93,
+    "to": 722.829,
+    "sid": 192,
+    "location": 2,
+    "content": "所以反馈也有质量差别",
+    "music": 0.0
+  },
+  {
+    "from": 723.149,
+    "to": 725.949,
+    "sid": 193,
+    "location": 2,
+    "content": "他应当帮助人辨认进展",
+    "music": 0.0
+  },
+  {
+    "from": 725.949,
+    "to": 730.189,
+    "sid": 194,
+    "location": 2,
+    "content": "而不是让人只追求好看的记录",
+    "music": 0.0
+  },
+  {
+    "from": 730.54,
+    "to": 734.65,
+    "sid": 195,
+    "location": 2,
+    "content": "这四个环节也可以反过来看",
+    "music": 0.0
+  },
+  {
+    "from": 735.01,
+    "to": 737.37,
+    "sid": 196,
+    "location": 2,
+    "content": "减少干扰性的提示",
+    "music": 0.0
+  },
+  {
+    "from": 737.37,
+    "to": 740.64,
+    "sid": 197,
+    "location": 2,
+    "content": "改变一种行为的吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 741.16,
+    "to": 743.22,
+    "sid": 198,
+    "location": 2,
+    "content": "增加直行的阻力",
+    "music": 0.0
+  },
+  {
+    "from": 743.22,
+    "to": 746.48,
+    "sid": 199,
+    "location": 2,
+    "content": "改变做完以后的后果",
+    "music": 0.0
+  },
+  {
+    "from": 746.8,
+    "to": 751.8,
+    "sid": 200,
+    "location": 2,
+    "content": "都可能让不想重复的行为更少发生",
+    "music": 0.0
+  },
+  {
+    "from": 752.17,
+    "to": 755.05,
+    "sid": 201,
+    "location": 2,
+    "content": "例如手机不放在桌上",
+    "music": 0.0
+  },
+  {
+    "from": 755.05,
+    "to": 757.53,
+    "sid": 202,
+    "location": 2,
+    "content": "关闭某些通知",
+    "music": 0.0
+  },
+  {
+    "from": 757.97,
+    "to": 761.94,
+    "sid": 203,
+    "location": 2,
+    "content": "退出一个总会打开的应用",
+    "music": 0.0
+  },
+  {
+    "from": 762.22,
+    "to": 765.1,
+    "sid": 204,
+    "location": 2,
+    "content": "这些变化处理的环节不同",
+    "music": 0.0
+  },
+  {
+    "from": 765.1,
+    "to": 768.82,
+    "sid": 205,
+    "location": 2,
+    "content": "也就不必全靠临时忍耐",
+    "music": 0.0
+  },
+  {
+    "from": 769.17,
+    "to": 772.83,
+    "sid": 206,
+    "location": 2,
+    "content": "当然环境能改变行为的机会",
+    "music": 0.0
+  },
+  {
+    "from": 772.83,
+    "to": 776.44,
+    "sid": 207,
+    "location": 2,
+    "content": "不能保证消除所有冲动",
+    "music": 0.0
+  },
+  {
+    "from": 776.72,
+    "to": 782.98,
+    "sid": 208,
+    "location": 2,
+    "content": "原来的提示重新出现时就行为仍有可能回来",
+    "music": 0.0
+  },
+  {
+    "from": 783.38,
+    "to": 785.04,
+    "sid": 209,
+    "location": 2,
+    "content": "设计环境之后",
+    "music": 0.0
+  },
+  {
+    "from": 785.04,
+    "to": 788.58,
+    "sid": 210,
+    "location": 2,
+    "content": "还需要观察真实效果",
+    "music": 0.0
+  },
+  {
+    "from": 788.98,
+    "to": 790.06,
+    "sid": 211,
+    "location": 2,
+    "content": "到这里",
+    "music": 0.0
+  },
+  {
+    "from": 790.06,
+    "to": 795.2,
+    "sid": 212,
+    "location": 2,
+    "content": "小行动已经有了能够持续发生的条件",
+    "music": 0.0
+  },
+  {
+    "from": 795.68,
+    "to": 797.9,
+    "sid": 213,
+    "location": 2,
+    "content": "书中还有一层解释",
+    "music": 0.0
+  },
+  {
+    "from": 797.9,
+    "to": 802.64,
+    "sid": 214,
+    "location": 2,
+    "content": "讨论这些行动怎样影响自我认识",
+    "music": 0.0
+  },
+  {
+    "from": 803.08,
+    "to": 807.2,
+    "sid": 215,
+    "location": 2,
+    "content": "科利尔区分结果过程和身份",
+    "music": 0.0
+  },
+  {
+    "from": 807.6,
+    "to": 809.86,
+    "sid": 216,
+    "location": 2,
+    "content": "结果是获得什么",
+    "music": 0.0
+  },
+  {
+    "from": 809.86,
+    "to": 812.92,
+    "sid": 217,
+    "location": 2,
+    "content": "过程是平时做什么",
+    "music": 0.0
+  },
+  {
+    "from": 813.4,
+    "to": 816.88,
+    "sid": 218,
+    "location": 2,
+    "content": "身份是怎样理解自己",
+    "music": 0.0
+  },
+  {
+    "from": 817.37,
+    "to": 820.05,
+    "sid": 219,
+    "location": 2,
+    "content": "完成一本书属于结果",
+    "music": 0.0
+  },
+  {
+    "from": 821.65,
+    "to": 824.89,
+    "sid": 220,
+    "location": 2,
+    "content": "每天阅读属于过程",
+    "music": 0.0
+  },
+  {
+    "from": 825.23,
+    "to": 828.37,
+    "sid": 221,
+    "location": 2,
+    "content": "把自己看成经常阅读的人",
+    "music": 0.0
+  },
+  {
+    "from": 828.37,
+    "to": 830.99,
+    "sid": 222,
+    "location": 2,
+    "content": "属于身份认同",
+    "music": 0.0
+  },
+  {
+    "from": 831.449,
+    "to": 836.849,
+    "sid": 223,
+    "location": 2,
+    "content": "他的观点是行动和身份可以相互强化",
+    "music": 0.0
+  },
+  {
+    "from": 837.2,
+    "to": 839.5,
+    "sid": 224,
+    "location": 2,
+    "content": "觉得自己是一个读者",
+    "music": 0.0
+  },
+  {
+    "from": 839.5,
+    "to": 842.59,
+    "sid": 225,
+    "location": 2,
+    "content": "可能更愿意继续读",
+    "music": 0.0
+  },
+  {
+    "from": 843.15,
+    "to": 845.19,
+    "sid": 226,
+    "location": 2,
+    "content": "反复阅读的经历",
+    "music": 0.0
+  },
+  {
+    "from": 845.19,
+    "to": 849.01,
+    "sid": 227,
+    "location": 2,
+    "content": "又为这个自我认识提供证据",
+    "music": 0.0
+  },
+  {
+    "from": 849.49,
+    "to": 855.09,
+    "sid": 228,
+    "location": 2,
+    "content": "这和单纯对自己说我很自律有一点不同",
+    "music": 0.0
+  },
+  {
+    "from": 855.65,
+    "to": 860.85,
+    "sid": 229,
+    "location": 2,
+    "content": "他把自我认识放回已经发生的行动里",
+    "music": 0.0
+  },
+  {
+    "from": 861.25,
+    "to": 864.77,
+    "sid": 230,
+    "location": 2,
+    "content": "但身份也可能变得僵硬",
+    "music": 0.0
+  },
+  {
+    "from": 865.17,
+    "to": 866.91,
+    "sid": 231,
+    "location": 2,
+    "content": "一次中断以后",
+    "music": 0.0
+  },
+  {
+    "from": 866.91,
+    "to": 871.39,
+    "sid": 232,
+    "location": 2,
+    "content": "有人就认定自己根本不是那种人",
+    "music": 0.0
+  },
+  {
+    "from": 871.75,
+    "to": 874.83,
+    "sid": 233,
+    "location": 2,
+    "content": "这样一个行为上的波动",
+    "music": 0.0
+  },
+  {
+    "from": 874.83,
+    "to": 878.75,
+    "sid": 234,
+    "location": 2,
+    "content": "反而变成了对整个人的判决",
+    "music": 0.0
+  },
+  {
+    "from": 879.13,
+    "to": 885.599,
+    "sid": 235,
+    "location": 2,
+    "content": "因此身份更适合作为能够被经验修正的认识",
+    "music": 0.0
+  },
+  {
+    "from": 886.079,
+    "to": 887.979,
+    "sid": 236,
+    "location": 2,
+    "content": "他可以支持行动",
+    "music": 0.0
+  },
+  {
+    "from": 887.979,
+    "to": 891.47,
+    "sid": 237,
+    "location": 2,
+    "content": "也需要给变化留下空间",
+    "music": 0.0
+  },
+  {
+    "from": 891.83,
+    "to": 895.33,
+    "sid": 238,
+    "location": 2,
+    "content": "一次成功不会定义全部的自己",
+    "music": 0.0
+  },
+  {
+    "from": 895.33,
+    "to": 898.23,
+    "sid": 239,
+    "location": 2,
+    "content": "一次失败同样不会",
+    "music": 0.0
+  },
+  {
+    "from": 898.7,
+    "to": 902.26,
+    "sid": 240,
+    "location": 2,
+    "content": "这就连接到另一个实际问题",
+    "music": 0.0
+  },
+  {
+    "from": 902.96,
+    "to": 906.12,
+    "sid": 241,
+    "location": 2,
+    "content": "习惯中断以后怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 906.66,
+    "to": 910.76,
+    "sid": 242,
+    "location": 2,
+    "content": "克里尔用避免连续错过来提醒人",
+    "music": 0.0
+  },
+  {
+    "from": 910.76,
+    "to": 913.34,
+    "sid": 243,
+    "location": 2,
+    "content": "及时回到行动",
+    "music": 0.0
+  },
+  {
+    "from": 913.71,
+    "to": 919.64,
+    "sid": 244,
+    "location": 2,
+    "content": "重点是让一次中断不要轻易演变成长期放弃",
+    "music": 0.0
+  },
+  {
+    "from": 920.08,
+    "to": 922.04,
+    "sid": 245,
+    "location": 2,
+    "content": "这个提醒有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 922.04,
+    "to": 925.56,
+    "sid": 246,
+    "location": 2,
+    "content": "却不应当变成新的惩罚",
+    "music": 0.0
+  },
+  {
+    "from": 926.09,
+    "to": 928.33,
+    "sid": 247,
+    "location": 2,
+    "content": "生病照顾家人",
+    "music": 0.0
+  },
+  {
+    "from": 928.33,
+    "to": 933.05,
+    "sid": 248,
+    "location": 2,
+    "content": "工作变化都可能要求调整频率",
+    "music": 0.0
+  },
+  {
+    "from": 933.529,
+    "to": 934.849,
+    "sid": 249,
+    "location": 2,
+    "content": "恢复行动",
+    "music": 0.0
+  },
+  {
+    "from": 934.849,
+    "to": 938.13,
+    "sid": 250,
+    "location": 2,
+    "content": "有时需要降低负担",
+    "music": 0.0
+  },
+  {
+    "from": 938.45,
+    "to": 941.97,
+    "sid": 251,
+    "location": 2,
+    "content": "有时需要重新设计时间和环境",
+    "music": 0.0
+  },
+  {
+    "from": 943.45,
+    "to": 947.09,
+    "sid": 252,
+    "location": 2,
+    "content": "如果只把中段解释成懒惰",
+    "music": 0.0
+  },
+  {
+    "from": 947.65,
+    "to": 951.69,
+    "sid": 253,
+    "location": 2,
+    "content": "反而看不到系统哪里出了问题",
+    "music": 0.0
+  },
+  {
+    "from": 952.07,
+    "to": 958.21,
+    "sid": 254,
+    "location": 2,
+    "content": "一个能够持续的系统也应当有容纳变化的能力",
+    "music": 0.0
+  },
+  {
+    "from": 958.69,
+    "to": 962.21,
+    "sid": 255,
+    "location": 2,
+    "content": "还有一个容易忽略的区别",
+    "music": 0.0
+  },
+  {
+    "from": 962.61,
+    "to": 968.57,
+    "sid": 256,
+    "location": 2,
+    "content": "形成习惯和不断进步并不是完全相同的事",
+    "music": 0.0
+  },
+  {
+    "from": 969.12,
+    "to": 972.92,
+    "sid": 257,
+    "location": 2,
+    "content": "熟练以后行动会更省力",
+    "music": 0.0
+  },
+  {
+    "from": 973.359,
+    "to": 976.94,
+    "sid": 258,
+    "location": 2,
+    "content": "这对维持日常很有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 977.22,
+    "to": 982.82,
+    "sid": 259,
+    "location": 2,
+    "content": "但太熟悉的任务也可能让人不再注意错误",
+    "music": 0.0
+  },
+  {
+    "from": 983.22,
+    "to": 986.86,
+    "sid": 260,
+    "location": 2,
+    "content": "稳定重复可以维持现状",
+    "music": 0.0
+  },
+  {
+    "from": 987.27,
+    "to": 988.45,
+    "sid": 261,
+    "location": 2,
+    "content": "提高能力",
+    "music": 0.0
+  },
+  {
+    "from": 988.45,
+    "to": 992.07,
+    "sid": 262,
+    "location": 2,
+    "content": "还需要新的反馈和挑战",
+    "music": 0.0
+  },
+  {
+    "from": 992.52,
+    "to": 995.34,
+    "sid": 263,
+    "location": 2,
+    "content": "科里尔讨论恰当难度时",
+    "music": 0.0
+  },
+  {
+    "from": 995.34,
+    "to": 999.52,
+    "sid": 264,
+    "location": 2,
+    "content": "强调任务既不能轻易完成",
+    "music": 0.0
+  },
+  {
+    "from": 999.8,
+    "to": 1003.9,
+    "sid": 265,
+    "location": 2,
+    "content": "也不能难到让人无从下手",
+    "music": 0.0
+  },
+  {
+    "from": 1004.14,
+    "to": 1008.62,
+    "sid": 266,
+    "location": 2,
+    "content": "这个想法补充了小行动的原则",
+    "music": 0.0
+  },
+  {
+    "from": 1009.04,
+    "to": 1010.3,
+    "sid": 267,
+    "location": 2,
+    "content": "容易开始",
+    "music": 0.0
+  },
+  {
+    "from": 1010.3,
+    "to": 1014.76,
+    "sid": 268,
+    "location": 2,
+    "content": "不意味着永远只做最容易的事",
+    "music": 0.0
+  },
+  {
+    "from": 1015.28,
+    "to": 1018.88,
+    "sid": 269,
+    "location": 2,
+    "content": "最后也需要看清这本书的边界",
+    "music": 0.0
+  },
+  {
+    "from": 1020.36,
+    "to": 1024.32,
+    "sid": 270,
+    "location": 2,
+    "content": "它提供的是习惯设计框架",
+    "music": 0.0
+  },
+  {
+    "from": 1024.86,
+    "to": 1030.34,
+    "sid": 271,
+    "location": 2,
+    "content": "书中的故事和例子能帮助理解一种做法",
+    "music": 0.0
+  },
+  {
+    "from": 1030.86,
+    "to": 1035.46,
+    "sid": 272,
+    "location": 2,
+    "content": "却不能单独证明它适用于所有人",
+    "music": 0.0
+  },
+  {
+    "from": 1035.91,
+    "to": 1042.79,
+    "sid": 273,
+    "location": 2,
+    "content": "收入健康工作条件也会影响一个人能做什么",
+    "music": 0.0
+  },
+  {
+    "from": 1043.189,
+    "to": 1047.839,
+    "sid": 274,
+    "location": 2,
+    "content": "同样的习惯放在不同的条件里",
+    "music": 0.0
+  },
+  {
+    "from": 1048.239,
+    "to": 1051.919,
+    "sid": 275,
+    "location": 2,
+    "content": "可能产生很不一样的结果",
+    "music": 0.0
+  },
+  {
+    "from": 1052.36,
+    "to": 1055.82,
+    "sid": 276,
+    "location": 2,
+    "content": "把人生所有差异都归于习惯",
+    "music": 0.0
+  },
+  {
+    "from": 1055.82,
+    "to": 1059.24,
+    "sid": 277,
+    "location": 2,
+    "content": "会遗漏许多重要因素",
+    "music": 0.0
+  },
+  {
+    "from": 1059.59,
+    "to": 1065.35,
+    "sid": 278,
+    "location": 2,
+    "content": "那么微小改变为什么最终可能改变人生",
+    "music": 0.0
+  },
+  {
+    "from": 1065.87,
+    "to": 1067.93,
+    "sid": 279,
+    "location": 2,
+    "content": "原子习惯的解释",
+    "music": 0.0
+  },
+  {
+    "from": 1067.93,
+    "to": 1072.59,
+    "sid": 280,
+    "location": 2,
+    "content": "可以沿着一条线理解小行动",
+    "music": 0.0
+  },
+  {
+    "from": 1072.59,
+    "to": 1074.965,
+    "sid": 281,
+    "location": 2,
+    "content": "降低开始的难度",
+    "music": 0.0
+  },
+  {
+    "from": 1075.67,
+    "to": 1077.67,
+    "sid": 282,
+    "location": 2,
+    "content": "提示吸引力",
+    "music": 0.0
+  },
+  {
+    "from": 1077.67,
+    "to": 1083.61,
+    "sid": 283,
+    "location": 2,
+    "content": "成本和反馈影响他是否能够重复重复",
+    "music": 0.0
+  },
+  {
+    "from": 1083.61,
+    "to": 1085.55,
+    "sid": 284,
+    "location": 2,
+    "content": "让行动进入日常",
+    "music": 0.0
+  },
+  {
+    "from": 1085.55,
+    "to": 1089.93,
+    "sid": 285,
+    "location": 2,
+    "content": "也为新的自我认识提供经验",
+    "music": 0.0
+  },
+  {
+    "from": 1090.31,
+    "to": 1093.17,
+    "sid": 286,
+    "location": 2,
+    "content": "而方向校准和持续调整",
+    "music": 0.0
+  },
+  {
+    "from": 1093.17,
+    "to": 1096.72,
+    "sid": 287,
+    "location": 2,
+    "content": "决定积累有没有实际价值",
+    "music": 0.0
+  },
+  {
+    "from": 1097.2,
+    "to": 1101.08,
+    "sid": 288,
+    "location": 2,
+    "content": "微小本身不是成功的保证",
+    "music": 0.0
+  },
+  {
+    "from": 1101.51,
+    "to": 1107.22,
+    "sid": 289,
+    "location": 2,
+    "content": "它的意义在于让改变拥有一个可重复的入口",
+    "music": 0.0
+  },
+  {
+    "from": 1107.7,
+    "to": 1111.82,
+    "sid": 290,
+    "location": 2,
+    "content": "这本书把抽象的改变愿望",
+    "music": 0.0
+  },
+  {
+    "from": 1112.31,
+    "to": 1116.47,
+    "sid": 291,
+    "location": 2,
+    "content": "转化成了可以观察的行为条件",
+    "music": 0.0
+  },
+  {
+    "from": 1116.87,
+    "to": 1119.77,
+    "sid": 292,
+    "location": 2,
+    "content": "理解这些条件之间的关系",
+    "music": 0.0
+  },
+  {
+    "from": 1119.77,
+    "to": 1127.08,
+    "sid": 293,
+    "location": 2,
+    "content": "才是他比依据坚持下去多提供的那部分解释",
+    "music": 0.0
+  },
+  {
+    "from": 1127.32,
+    "to": 1129.68,
+    "sid": 294,
+    "location": 2,
+    "content": "如果这一集对你有启发",
+    "music": 0.0
+  },
+  {
+    "from": 1129.68,
+    "to": 1134.56,
+    "sid": 295,
+    "location": 2,
+    "content": "欢迎点赞订阅并分享给需要的朋友",
+    "music": 0.0
+  },
+  {
+    "from": 1134.56,
+    "to": 1136.46,
+    "sid": 296,
+    "location": 2,
+    "content": "这里是深度人生",
+    "music": 0.0
+  },
+  {
+    "from": 1136.46,
+    "to": 1138.6,
+    "sid": 297,
+    "location": 2,
+    "content": "我们下期再见",
+    "music": 0.0
+  }
+]

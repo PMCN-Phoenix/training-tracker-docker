@@ -1,0 +1,3274 @@
+[
+  {
+    "from": 0.04,
+    "to": 2.0,
+    "sid": 1,
+    "location": 2,
+    "content": "你昨天并没有工作八小时",
+    "music": 0.0
+  },
+  {
+    "from": 2.0,
+    "to": 4.4,
+    "sid": 2,
+    "location": 2,
+    "content": "你只是待在工作旁八小时",
+    "music": 0.0
+  },
+  {
+    "from": 4.4,
+    "to": 5.96,
+    "sid": 3,
+    "location": 2,
+    "content": "这是两码事",
+    "music": 0.0
+  },
+  {
+    "from": 5.96,
+    "to": 8.55,
+    "sid": 4,
+    "location": 2,
+    "content": "你的结果已经说明了区别",
+    "music": 0.0
+  },
+  {
+    "from": 8.55,
+    "to": 10.95,
+    "sid": 5,
+    "location": 2,
+    "content": "以下是你这一天的真实版本",
+    "music": 0.0
+  },
+  {
+    "from": 10.95,
+    "to": 12.47,
+    "sid": 6,
+    "location": 2,
+    "content": "九点你坐下来",
+    "music": 0.0
+  },
+  {
+    "from": 12.47,
+    "to": 13.51,
+    "sid": 7,
+    "location": 2,
+    "content": "计划清晰",
+    "music": 0.0
+  },
+  {
+    "from": 13.51,
+    "to": 15.19,
+    "sid": 8,
+    "location": 2,
+    "content": "然后来了一条消息",
+    "music": 0.0
+  },
+  {
+    "from": 15.19,
+    "to": 16.01,
+    "sid": 9,
+    "location": 2,
+    "content": "你回了",
+    "music": 0.0
+  },
+  {
+    "from": 16.01,
+    "to": 17.83,
+    "sid": 10,
+    "location": 2,
+    "content": "因为回复只需30秒",
+    "music": 0.0
+  },
+  {
+    "from": 17.83,
+    "to": 19.77,
+    "sid": 11,
+    "location": 2,
+    "content": "接着你开了个标签页",
+    "music": 0.0
+  },
+  {
+    "from": 19.77,
+    "to": 21.25,
+    "sid": 12,
+    "location": 2,
+    "content": "查个小东西",
+    "music": 0.0
+  },
+  {
+    "from": 21.25,
+    "to": 24.0,
+    "sid": 13,
+    "location": 2,
+    "content": "然后有人问了个简单问题",
+    "music": 0.0
+  },
+  {
+    "from": 24.0,
+    "to": 25.36,
+    "sid": 14,
+    "location": 2,
+    "content": "到11点",
+    "music": 0.0
+  },
+  {
+    "from": 25.36,
+    "to": 28.26,
+    "sid": 15,
+    "location": 2,
+    "content": "你碰了六件事没做完一件",
+    "music": 0.0
+  },
+  {
+    "from": 28.26,
+    "to": 29.42,
+    "sid": 16,
+    "location": 2,
+    "content": "奇怪的是",
+    "music": 0.0
+  },
+  {
+    "from": 29.42,
+    "to": 30.96,
+    "sid": 17,
+    "location": 2,
+    "content": "你从没偷懒",
+    "music": 0.0
+  },
+  {
+    "from": 30.96,
+    "to": 32.96,
+    "sid": 18,
+    "location": 2,
+    "content": "你一直在忙",
+    "music": 0.0
+  },
+  {
+    "from": 33.15,
+    "to": 35.39,
+    "sid": 19,
+    "location": 2,
+    "content": "但晚上六点合上电脑时",
+    "music": 0.0
+  },
+  {
+    "from": 35.39,
+    "to": 38.47,
+    "sid": 20,
+    "location": 2,
+    "content": "你指不出哪项真正完成了",
+    "music": 0.0
+  },
+  {
+    "from": 39.17,
+    "to": 41.37,
+    "sid": 21,
+    "location": 2,
+    "content": "于是你像每晚那样告诉自己",
+    "music": 0.0
+  },
+  {
+    "from": 42.65,
+    "to": 44.18,
+    "sid": 22,
+    "location": 2,
+    "content": "明天我会更自律",
+    "music": 0.0
+  },
+  {
+    "from": 44.18,
+    "to": 46.56,
+    "sid": 23,
+    "location": 2,
+    "content": "明天我会更好地管理时间",
+    "music": 0.0
+  },
+  {
+    "from": 46.56,
+    "to": 49.3,
+    "sid": 24,
+    "location": 2,
+    "content": "明天我终于能专注了这个承诺",
+    "music": 0.0
+  },
+  {
+    "from": 49.3,
+    "to": 50.22,
+    "sid": 25,
+    "location": 2,
+    "content": "从未奏效",
+    "music": 0.0
+  },
+  {
+    "from": 50.22,
+    "to": 51.68,
+    "sid": 26,
+    "location": 2,
+    "content": "也永远不会",
+    "music": 0.0
+  },
+  {
+    "from": 51.68,
+    "to": 54.12,
+    "sid": 27,
+    "location": 2,
+    "content": "因为你在解决错误的问题",
+    "music": 0.0
+  },
+  {
+    "from": 54.12,
+    "to": 56.8,
+    "sid": 28,
+    "location": 2,
+    "content": "几乎每个寻找高效方法的人",
+    "music": 0.0
+  },
+  {
+    "from": 56.8,
+    "to": 59.5,
+    "sid": 29,
+    "location": 2,
+    "content": "都在寻求更多努力动力",
+    "music": 0.0
+  },
+  {
+    "from": 59.5,
+    "to": 61.16,
+    "sid": 30,
+    "location": 2,
+    "content": "时间或自律",
+    "music": 0.0
+  },
+  {
+    "from": 61.16,
+    "to": 63.1,
+    "sid": 31,
+    "location": 2,
+    "content": "但你这一天产出寥寥",
+    "music": 0.0
+  },
+  {
+    "from": 63.1,
+    "to": 65.56,
+    "sid": 32,
+    "location": 2,
+    "content": "与你多努力几乎无关",
+    "music": 0.0
+  },
+  {
+    "from": 66.09,
+    "to": 68.15,
+    "sid": 33,
+    "location": 2,
+    "content": "大多数人没有努力问题",
+    "music": 0.0
+  },
+  {
+    "from": 68.15,
+    "to": 69.71,
+    "sid": 34,
+    "location": 2,
+    "content": "他们有结构问题",
+    "music": 0.0
+  },
+  {
+    "from": 69.71,
+    "to": 71.03,
+    "sid": 35,
+    "location": 2,
+    "content": "你已经在工作了",
+    "music": 0.0
+  },
+  {
+    "from": 71.03,
+    "to": 73.45,
+    "sid": 36,
+    "location": 2,
+    "content": "只是工作没能扛过你一天的形状",
+    "music": 0.0
+  },
+  {
+    "from": 73.45,
+    "to": 75.17,
+    "sid": 37,
+    "location": 2,
+    "content": "欢迎回到SYTUNES",
+    "music": 0.0
+  },
+  {
+    "from": 75.17,
+    "to": 78.45,
+    "sid": 38,
+    "location": 2,
+    "content": "今天我们要拆解高效工作的心理学",
+    "music": 0.0
+  },
+  {
+    "from": 78.45,
+    "to": 79.87,
+    "sid": 39,
+    "location": 2,
+    "content": "普通工作日里",
+    "music": 0.0
+  },
+  {
+    "from": 79.87,
+    "to": 82.55,
+    "sid": 40,
+    "location": 2,
+    "content": "你的大脑里到底发生了什么",
+    "music": 0.0
+  },
+  {
+    "from": 82.55,
+    "to": 84.89,
+    "sid": 41,
+    "location": 2,
+    "content": "为什么你的时间不断消失",
+    "music": 0.0
+  },
+  {
+    "from": 84.89,
+    "to": 85.99,
+    "sid": 42,
+    "location": 2,
+    "content": "却毫无成果",
+    "music": 0.0
+  },
+  {
+    "from": 85.99,
+    "to": 87.73,
+    "sid": 43,
+    "location": 2,
+    "content": "以及如何构建一天",
+    "music": 0.0
+  },
+  {
+    "from": 87.73,
+    "to": 90.03,
+    "sid": 44,
+    "location": 2,
+    "content": "让你毫不费力地达成目标",
+    "music": 0.0
+  },
+  {
+    "from": 90.03,
+    "to": 93.69,
+    "sid": 45,
+    "location": 2,
+    "content": "我们先从几乎没人知道却决定一切的事开始",
+    "music": 0.0
+  },
+  {
+    "from": 93.69,
+    "to": 94.85,
+    "sid": 46,
+    "location": 2,
+    "content": "2009年",
+    "music": 0.0
+  },
+  {
+    "from": 94.85,
+    "to": 98.85,
+    "sid": 47,
+    "location": 2,
+    "content": "研究者索菲莱罗在组织行为与人类决策过程上",
+    "music": 0.0
+  },
+  {
+    "from": 98.85,
+    "to": 100.69,
+    "sid": 48,
+    "location": 2,
+    "content": "发表了一项研究",
+    "music": 0.0
+  },
+  {
+    "from": 101.93,
+    "to": 104.25,
+    "sid": 49,
+    "location": 2,
+    "content": "他研究的东西极其简单",
+    "music": 0.0
+  },
+  {
+    "from": 104.25,
+    "to": 105.73,
+    "sid": 50,
+    "location": 2,
+    "content": "当你停止一项任务",
+    "music": 0.0
+  },
+  {
+    "from": 105.73,
+    "to": 106.91,
+    "sid": 51,
+    "location": 2,
+    "content": "开始另一项时",
+    "music": 0.0
+  },
+  {
+    "from": 106.91,
+    "to": 108.45,
+    "sid": 52,
+    "location": 2,
+    "content": "心里发生了什么",
+    "music": 0.0
+  },
+  {
+    "from": 108.45,
+    "to": 110.25,
+    "sid": 53,
+    "location": 2,
+    "content": "大家都以为答案是无",
+    "music": 0.0
+  },
+  {
+    "from": 110.25,
+    "to": 114.95,
+    "sid": 54,
+    "location": 2,
+    "content": "放下任务A拿起任务B全部注意力随之转移",
+    "music": 0.0
+  },
+  {
+    "from": 114.95,
+    "to": 116.57,
+    "sid": 55,
+    "location": 2,
+    "content": "感觉上是这样的",
+    "music": 0.0
+  },
+  {
+    "from": 116.57,
+    "to": 118.24,
+    "sid": 56,
+    "location": 2,
+    "content": "实际上不是",
+    "music": 0.0
+  },
+  {
+    "from": 118.24,
+    "to": 122.18,
+    "sid": 57,
+    "location": 2,
+    "content": "白罗发现切换时部分注意力会残留",
+    "music": 0.0
+  },
+  {
+    "from": 122.18,
+    "to": 125.09,
+    "sid": 58,
+    "location": 2,
+    "content": "它粘在你刚离开的事上",
+    "music": 0.0
+  },
+  {
+    "from": 125.29,
+    "to": 127.41,
+    "sid": 59,
+    "location": 2,
+    "content": "他称之为注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 127.41,
+    "to": 129.21,
+    "sid": 60,
+    "location": 2,
+    "content": "这种影响不是消退的",
+    "music": 0.0
+  },
+  {
+    "from": 129.21,
+    "to": 132.84,
+    "sid": 61,
+    "location": 2,
+    "content": "一分钟热身延迟残留物留在那里",
+    "music": 0.0
+  },
+  {
+    "from": 132.84,
+    "to": 134.92,
+    "sid": 62,
+    "location": 2,
+    "content": "在你处理新任务时",
+    "music": 0.0
+  },
+  {
+    "from": 134.92,
+    "to": 137.64,
+    "sid": 63,
+    "location": 2,
+    "content": "悄悄占用新任务需要的心理空间",
+    "music": 0.0
+  },
+  {
+    "from": 137.64,
+    "to": 140.11,
+    "sid": 64,
+    "location": 2,
+    "content": "看看后果很残酷",
+    "music": 0.0
+  },
+  {
+    "from": 140.47,
+    "to": 142.51,
+    "sid": 65,
+    "location": 2,
+    "content": "从报告切换到消息时",
+    "music": 0.0
+  },
+  {
+    "from": 142.51,
+    "to": 145.27,
+    "sid": 66,
+    "location": 2,
+    "content": "你不是带着完整的大脑过去的",
+    "music": 0.0
+  },
+  {
+    "from": 145.27,
+    "to": 148.04,
+    "sid": 67,
+    "location": 2,
+    "content": "你是带着残缺的大脑过去的",
+    "music": 0.0
+  },
+  {
+    "from": 148.04,
+    "to": 149.28,
+    "sid": 68,
+    "location": 2,
+    "content": "切回报告时",
+    "music": 0.0
+  },
+  {
+    "from": 149.28,
+    "to": 150.82,
+    "sid": 69,
+    "location": 2,
+    "content": "你也没完全回来",
+    "music": 0.0
+  },
+  {
+    "from": 150.82,
+    "to": 153.39,
+    "sid": 70,
+    "location": 2,
+    "content": "你的一部分还在咀嚼那条消息",
+    "music": 0.0
+  },
+  {
+    "from": 153.39,
+    "to": 155.89,
+    "sid": 71,
+    "location": 2,
+    "content": "你正用所需机能的一小部分",
+    "music": 0.0
+  },
+  {
+    "from": 155.89,
+    "to": 157.83,
+    "sid": 72,
+    "location": 2,
+    "content": "做当天最重要的工作",
+    "music": 0.0
+  },
+  {
+    "from": 157.83,
+    "to": 160.0,
+    "sid": 73,
+    "location": 2,
+    "content": "却感觉不到正在发生",
+    "music": 0.0
+  },
+  {
+    "from": 160.28,
+    "to": 161.44,
+    "sid": 74,
+    "location": 2,
+    "content": "没有警报",
+    "music": 0.0
+  },
+  {
+    "from": 161.44,
+    "to": 162.66,
+    "sid": 75,
+    "location": 2,
+    "content": "没有信号",
+    "music": 0.0
+  },
+  {
+    "from": 162.66,
+    "to": 164.829,
+    "sid": 76,
+    "location": 2,
+    "content": "它只是悄悄让你变差",
+    "music": 0.0
+  },
+  {
+    "from": 164.829,
+    "to": 167.969,
+    "sid": 77,
+    "location": 2,
+    "content": "来罗还发现了让残留最严重的因素",
+    "music": 0.0
+  },
+  {
+    "from": 167.969,
+    "to": 170.089,
+    "sid": 78,
+    "location": 2,
+    "content": "这个细节改变了一切",
+    "music": 0.0
+  },
+  {
+    "from": 170.089,
+    "to": 171.469,
+    "sid": 79,
+    "location": 2,
+    "content": "不是切换本身",
+    "music": 0.0
+  },
+  {
+    "from": 171.469,
+    "to": 173.84,
+    "sid": 80,
+    "location": 2,
+    "content": "而是从未完成的事上切换开",
+    "music": 0.0
+  },
+  {
+    "from": 173.84,
+    "to": 177.14,
+    "sid": 81,
+    "location": 2,
+    "content": "当你把任务留在开放未解决的状态",
+    "music": 0.0
+  },
+  {
+    "from": 177.14,
+    "to": 178.88,
+    "sid": 82,
+    "location": 2,
+    "content": "你的大脑拒绝放手",
+    "music": 0.0
+  },
+  {
+    "from": 178.88,
+    "to": 180.45,
+    "sid": 83,
+    "location": 2,
+    "content": "他在后台挂着他",
+    "music": 0.0
+  },
+  {
+    "from": 180.45,
+    "to": 182.67,
+    "sid": 84,
+    "location": 2,
+    "content": "但当任务到达明确的停止点",
+    "music": 0.0
+  },
+  {
+    "from": 182.67,
+    "to": 184.81,
+    "sid": 85,
+    "location": 2,
+    "content": "当大脑认定这部分已关闭",
+    "music": 0.0
+  },
+  {
+    "from": 184.81,
+    "to": 187.37,
+    "sid": 86,
+    "location": 2,
+    "content": "你能向前转移更多注意力",
+    "music": 0.0
+  },
+  {
+    "from": 188.35,
+    "to": 191.43,
+    "sid": 87,
+    "location": 2,
+    "content": "现在把这个发现对照你实际的工作方式",
+    "music": 0.0
+  },
+  {
+    "from": 191.43,
+    "to": 192.75,
+    "sid": 88,
+    "location": 2,
+    "content": "2005年",
+    "music": 0.0
+  },
+  {
+    "from": 192.75,
+    "to": 196.23,
+    "sid": 89,
+    "location": 2,
+    "content": "加州大学尔湾分校的格洛利亚马克和同事",
+    "music": 0.0
+  },
+  {
+    "from": 196.23,
+    "to": 198.15,
+    "sid": 90,
+    "location": 2,
+    "content": "做了一件研究者很少做的事",
+    "music": 0.0
+  },
+  {
+    "from": 198.15,
+    "to": 199.97,
+    "sid": 91,
+    "location": 2,
+    "content": "他们没有调查办公室职员",
+    "music": 0.0
+  },
+  {
+    "from": 199.97,
+    "to": 201.51,
+    "sid": 92,
+    "location": 2,
+    "content": "而是跟随24人",
+    "music": 0.0
+  },
+  {
+    "from": 201.51,
+    "to": 204.43,
+    "sid": 93,
+    "location": 2,
+    "content": "逐分钟记录他们实际做了什么",
+    "music": 0.0
+  },
+  {
+    "from": 204.75,
+    "to": 207.69,
+    "sid": 94,
+    "location": 2,
+    "content": "他们得出的数字应该更出名",
+    "music": 0.0
+  },
+  {
+    "from": 207.69,
+    "to": 208.99,
+    "sid": 95,
+    "location": 2,
+    "content": "平均而言",
+    "music": 0.0
+  },
+  {
+    "from": 208.99,
+    "to": 210.23,
+    "sid": 96,
+    "location": 2,
+    "content": "人们在切换前",
+    "music": 0.0
+  },
+  {
+    "from": 210.23,
+    "to": 213.25,
+    "sid": 97,
+    "location": 2,
+    "content": "在一个项目上只花11分4秒",
+    "music": 0.0
+  },
+  {
+    "from": 213.25,
+    "to": 217.03,
+    "sid": 98,
+    "location": 2,
+    "content": "57%的工作时段在结束前被打断",
+    "music": 0.0
+  },
+  {
+    "from": 217.31,
+    "to": 220.19,
+    "sid": 99,
+    "location": 2,
+    "content": "一日一分钟切换",
+    "music": 0.0
+  },
+  {
+    "from": 220.19,
+    "to": 223.31,
+    "sid": 100,
+    "location": 2,
+    "content": "再11分钟再切换",
+    "music": 0.0
+  },
+  {
+    "from": 223.85,
+    "to": 226.25,
+    "sid": 101,
+    "location": 2,
+    "content": "大多数在放弃时都未完成",
+    "music": 0.0
+  },
+  {
+    "from": 226.25,
+    "to": 227.65,
+    "sid": 102,
+    "location": 2,
+    "content": "这不是工作日",
+    "music": 0.0
+  },
+  {
+    "from": 227.65,
+    "to": 229.07,
+    "sid": 103,
+    "location": 2,
+    "content": "这是一系列碎片",
+    "music": 0.0
+  },
+  {
+    "from": 229.07,
+    "to": 231.97,
+    "sid": 104,
+    "location": 2,
+    "content": "每个都带着前一个的残留",
+    "music": 0.0
+  },
+  {
+    "from": 232.45,
+    "to": 234.87,
+    "sid": 105,
+    "location": 2,
+    "content": "而你管这叫工作伦理",
+    "music": 0.0
+  },
+  {
+    "from": 234.87,
+    "to": 236.33,
+    "sid": 106,
+    "location": 2,
+    "content": "一旦看清这点",
+    "music": 0.0
+  },
+  {
+    "from": 236.33,
+    "to": 239.54,
+    "sid": 107,
+    "location": 2,
+    "content": "下面列出的失败原因就很好读了",
+    "music": 0.0
+  },
+  {
+    "from": 239.54,
+    "to": 240.82,
+    "sid": 108,
+    "location": 2,
+    "content": "有四点",
+    "music": 0.0
+  },
+  {
+    "from": 240.82,
+    "to": 243.22,
+    "sid": 109,
+    "location": 2,
+    "content": "我猜你现在全都在犯",
+    "music": 0.0
+  },
+  {
+    "from": 243.7,
+    "to": 247.12,
+    "sid": 110,
+    "location": 2,
+    "content": "第一你从未真正获得完整的一小时",
+    "music": 0.0
+  },
+  {
+    "from": 247.12,
+    "to": 249.46,
+    "sid": 111,
+    "location": 2,
+    "content": "看你的日历时间是干净的",
+    "music": 0.0
+  },
+  {
+    "from": 249.46,
+    "to": 253.72,
+    "sid": 112,
+    "location": 2,
+    "content": "快9~12到3日历在骗你",
+    "music": 0.0
+  },
+  {
+    "from": 253.72,
+    "to": 256.7,
+    "sid": 113,
+    "location": 2,
+    "content": "因为这些块不是到达你桌面的东西",
+    "music": 0.0
+  },
+  {
+    "from": 256.7,
+    "to": 259.34,
+    "sid": 114,
+    "location": 2,
+    "content": "假设你有一小时写难东西",
+    "music": 0.0
+  },
+  {
+    "from": 259.34,
+    "to": 261.7,
+    "sid": 115,
+    "location": 2,
+    "content": "10分钟时通知来了",
+    "music": 0.0
+  },
+  {
+    "from": 261.7,
+    "to": 264.28,
+    "sid": 116,
+    "location": 2,
+    "content": "你看了阅读只需四秒",
+    "music": 0.0
+  },
+  {
+    "from": 264.28,
+    "to": 266.64,
+    "sid": 117,
+    "location": 2,
+    "content": "你甚至没回纸面上",
+    "music": 0.0
+  },
+  {
+    "from": 266.64,
+    "to": 267.92,
+    "sid": 118,
+    "location": 2,
+    "content": "你丢了四秒",
+    "music": 0.0
+  },
+  {
+    "from": 267.92,
+    "to": 270.98,
+    "sid": 119,
+    "location": 2,
+    "content": "实际上你留下半句未完成的话",
+    "music": 0.0
+  },
+  {
+    "from": 270.98,
+    "to": 272.82,
+    "sid": 120,
+    "location": 2,
+    "content": "部分注意力剥离并去了",
+    "music": 0.0
+  },
+  {
+    "from": 272.82,
+    "to": 277.14,
+    "sid": 121,
+    "location": 2,
+    "content": "通知回来时他没全回来",
+    "music": 0.0
+  },
+  {
+    "from": 277.14,
+    "to": 278.64,
+    "sid": 122,
+    "location": 2,
+    "content": "莱罗的研究说",
+    "music": 0.0
+  },
+  {
+    "from": 278.64,
+    "to": 281.09,
+    "sid": 123,
+    "location": 2,
+    "content": "你现在写东西时用的比之前少",
+    "music": 0.0
+  },
+  {
+    "from": 281.09,
+    "to": 283.87,
+    "sid": 124,
+    "location": 2,
+    "content": "20分钟后再次发生又一次",
+    "music": 0.0
+  },
+  {
+    "from": 283.87,
+    "to": 285.65,
+    "sid": 125,
+    "location": 2,
+    "content": "所以日历上的一小时",
+    "music": 0.0
+  },
+  {
+    "from": 285.65,
+    "to": 287.73,
+    "sid": 126,
+    "location": 2,
+    "content": "是真的到达你大脑的一小时",
+    "music": 0.0
+  },
+  {
+    "from": 287.73,
+    "to": 289.299,
+    "sid": 127,
+    "location": 2,
+    "content": "不是你只得到三个",
+    "music": 0.0
+  },
+  {
+    "from": 289.299,
+    "to": 292.44,
+    "sid": 128,
+    "location": 2,
+    "content": "可用碎片每个都被前一个略微降级",
+    "music": 0.0
+  },
+  {
+    "from": 292.44,
+    "to": 296.7,
+    "sid": 129,
+    "location": 2,
+    "content": "最后你看着产出悄悄断定自己不够聪明",
+    "music": 0.0
+  },
+  {
+    "from": 296.7,
+    "to": 299.25,
+    "sid": 130,
+    "location": 2,
+    "content": "不够自律或不够好",
+    "music": 0.0
+  },
+  {
+    "from": 299.57,
+    "to": 303.47,
+    "sid": 131,
+    "location": 2,
+    "content": "代价是你永远学不到自己实际能力长什么样",
+    "music": 0.0
+  },
+  {
+    "from": 303.47,
+    "to": 306.52,
+    "sid": 132,
+    "location": 2,
+    "content": "你可能从未见过自己全力工作",
+    "music": 0.0
+  },
+  {
+    "from": 306.8,
+    "to": 308.24,
+    "sid": 133,
+    "location": 2,
+    "content": "你只见过降级版",
+    "music": 0.0
+  },
+  {
+    "from": 308.24,
+    "to": 310.0,
+    "sid": 134,
+    "location": 2,
+    "content": "并以为那就是你",
+    "music": 0.0
+  },
+  {
+    "from": 310.0,
+    "to": 314.28,
+    "sid": 135,
+    "location": 2,
+    "content": "第二你用想象力而非历史做计划",
+    "music": 0.0
+  },
+  {
+    "from": 314.54,
+    "to": 316.84,
+    "sid": 136,
+    "location": 2,
+    "content": "每晚你写明天的清单",
+    "music": 0.0
+  },
+  {
+    "from": 316.84,
+    "to": 319.54,
+    "sid": 137,
+    "location": 2,
+    "content": "六项看起来很合理",
+    "music": 0.0
+  },
+  {
+    "from": 319.54,
+    "to": 322.18,
+    "sid": 138,
+    "location": 2,
+    "content": "多年来每晚都看似合理",
+    "music": 0.0
+  },
+  {
+    "from": 322.18,
+    "to": 324.0,
+    "sid": 139,
+    "location": 2,
+    "content": "却几乎从未成真",
+    "music": 0.0
+  },
+  {
+    "from": 324.0,
+    "to": 326.2,
+    "sid": 140,
+    "location": 2,
+    "content": "原因有据可查",
+    "music": 0.0
+  },
+  {
+    "from": 326.6,
+    "to": 327.86,
+    "sid": 141,
+    "location": 2,
+    "content": "1994年",
+    "music": 0.0
+  },
+  {
+    "from": 327.86,
+    "to": 329.24,
+    "sid": 142,
+    "location": 2,
+    "content": "罗杰布厄勒",
+    "music": 0.0
+  },
+  {
+    "from": 329.24,
+    "to": 331.46,
+    "sid": 143,
+    "location": 2,
+    "content": "戴尔格里芬和迈克尔罗斯",
+    "music": 0.0
+  },
+  {
+    "from": 331.46,
+    "to": 334.28,
+    "sid": 144,
+    "location": 2,
+    "content": "让学生预测论文完成时间",
+    "music": 0.0
+  },
+  {
+    "from": 335.2,
+    "to": 337.64,
+    "sid": 145,
+    "location": 2,
+    "content": "平均预测约34天",
+    "music": 0.0
+  },
+  {
+    "from": 337.64,
+    "to": 340.32,
+    "sid": 146,
+    "location": 2,
+    "content": "平均限时约55天",
+    "music": 0.0
+  },
+  {
+    "from": 340.32,
+    "to": 342.08,
+    "sid": 147,
+    "location": 2,
+    "content": "这不意外",
+    "music": 0.0
+  },
+  {
+    "from": 342.62,
+    "to": 343.92,
+    "sid": 148,
+    "location": 2,
+    "content": "这里才意外",
+    "music": 0.0
+  },
+  {
+    "from": 343.92,
+    "to": 345.22,
+    "sid": 149,
+    "location": 2,
+    "content": "研究者还问",
+    "music": 0.0
+  },
+  {
+    "from": 345.22,
+    "to": 347.94,
+    "sid": 150,
+    "location": 2,
+    "content": "如果一切出错要多久",
+    "music": 0.0
+  },
+  {
+    "from": 348.88,
+    "to": 352.28,
+    "sid": 151,
+    "location": 2,
+    "content": "最坏情况猜测平均约49天",
+    "music": 0.0
+  },
+  {
+    "from": 352.28,
+    "to": 354.92,
+    "sid": 152,
+    "location": 2,
+    "content": "现实仍比最坏情况更糟",
+    "music": 0.0
+  },
+  {
+    "from": 354.92,
+    "to": 358.24,
+    "sid": 153,
+    "location": 2,
+    "content": "不到1/3的人在预测日期前完成",
+    "music": 0.0
+  },
+  {
+    "from": 358.24,
+    "to": 359.78,
+    "sid": 154,
+    "location": 2,
+    "content": "这叫规划谬误",
+    "music": 0.0
+  },
+  {
+    "from": 359.78,
+    "to": 362.32,
+    "sid": 155,
+    "location": 2,
+    "content": "他顽固的该让你担心",
+    "music": 0.0
+  },
+  {
+    "from": 363.13,
+    "to": 367.75,
+    "sid": 156,
+    "location": 2,
+    "content": "后续实验中提醒人们自己迟到的记录后再预测",
+    "music": 0.0
+  },
+  {
+    "from": 367.75,
+    "to": 370.29,
+    "sid": 157,
+    "location": 2,
+    "content": "新预测依然乐观",
+    "music": 0.0
+  },
+  {
+    "from": 372.22,
+    "to": 375.1,
+    "sid": 158,
+    "location": 2,
+    "content": "知道偏见并不能消除偏见",
+    "music": 0.0
+  },
+  {
+    "from": 375.1,
+    "to": 376.56,
+    "sid": 159,
+    "location": 2,
+    "content": "做计划时",
+    "music": 0.0
+  },
+  {
+    "from": 376.56,
+    "to": 379.85,
+    "sid": 160,
+    "location": 2,
+    "content": "你的大脑播放任务顺利的小电影",
+    "music": 0.0
+  },
+  {
+    "from": 380.05,
+    "to": 380.93,
+    "sid": 161,
+    "location": 2,
+    "content": "他不播放",
+    "music": 0.0
+  },
+  {
+    "from": 380.93,
+    "to": 381.75,
+    "sid": 162,
+    "location": 2,
+    "content": "文件丢失",
+    "music": 0.0
+  },
+  {
+    "from": 381.75,
+    "to": 382.87,
+    "sid": 163,
+    "location": 2,
+    "content": "有人打电话",
+    "music": 0.0
+  },
+  {
+    "from": 382.87,
+    "to": 385.3,
+    "sid": 164,
+    "location": 2,
+    "content": "初次尝试失败的那版",
+    "music": 0.0
+  },
+  {
+    "from": 385.3,
+    "to": 386.14,
+    "sid": 165,
+    "location": 2,
+    "content": "为什么",
+    "music": 0.0
+  },
+  {
+    "from": 386.14,
+    "to": 387.58,
+    "sid": 166,
+    "location": 2,
+    "content": "这会毁掉你的一天",
+    "music": 0.0
+  },
+  {
+    "from": 387.58,
+    "to": 389.82,
+    "sid": 167,
+    "location": 2,
+    "content": "而不仅仅是让你尴尬",
+    "music": 0.0
+  },
+  {
+    "from": 389.82,
+    "to": 391.48,
+    "sid": 168,
+    "location": 2,
+    "content": "基于幻想做计划",
+    "music": 0.0
+  },
+  {
+    "from": 391.48,
+    "to": 393.42,
+    "sid": 169,
+    "location": 2,
+    "content": "早上十点你就落后了",
+    "music": 0.0
+  },
+  {
+    "from": 393.42,
+    "to": 396.1,
+    "sid": 170,
+    "location": 2,
+    "content": "落后的人无法平静工作",
+    "music": 0.0
+  },
+  {
+    "from": 396.1,
+    "to": 398.26,
+    "sid": 171,
+    "location": 2,
+    "content": "他们开始匆忙跳过",
+    "music": 0.0
+  },
+  {
+    "from": 398.26,
+    "to": 399.6,
+    "sid": 172,
+    "location": 2,
+    "content": "在事物间跳跃",
+    "music": 0.0
+  },
+  {
+    "from": 399.6,
+    "to": 402.55,
+    "sid": 173,
+    "location": 2,
+    "content": "试图处处推进你的碎片化",
+    "music": 0.0
+  },
+  {
+    "from": 402.55,
+    "to": 403.87,
+    "sid": 174,
+    "location": 2,
+    "content": "不是性格缺陷",
+    "music": 0.0
+  },
+  {
+    "from": 403.87,
+    "to": 405.71,
+    "sid": 175,
+    "location": 2,
+    "content": "这是基于最佳日计划",
+    "music": 0.0
+  },
+  {
+    "from": 405.71,
+    "to": 408.44,
+    "sid": 176,
+    "location": 2,
+    "content": "遇上普通日时你会做的事",
+    "music": 0.0
+  },
+  {
+    "from": 408.68,
+    "to": 411.14,
+    "sid": 177,
+    "location": 2,
+    "content": "第三你工作于可见之事",
+    "music": 0.0
+  },
+  {
+    "from": 411.14,
+    "to": 412.32,
+    "sid": 178,
+    "location": 2,
+    "content": "这让人不适",
+    "music": 0.0
+  },
+  {
+    "from": 412.32,
+    "to": 414.05,
+    "sid": 179,
+    "location": 2,
+    "content": "请跟我听下去",
+    "music": 0.0
+  },
+  {
+    "from": 414.05,
+    "to": 415.37,
+    "sid": 180,
+    "location": 2,
+    "content": "2017年",
+    "music": 0.0
+  },
+  {
+    "from": 415.37,
+    "to": 419.67,
+    "sid": 181,
+    "location": 2,
+    "content": "西尔维亚贝莱扎尼罗帕哈里亚和阿纳特卡南",
+    "music": 0.0
+  },
+  {
+    "from": 419.67,
+    "to": 423.99,
+    "sid": 182,
+    "location": 2,
+    "content": "在消费者研究期刊发表工作研究",
+    "music": 0.0
+  },
+  {
+    "from": 423.99,
+    "to": 425.43,
+    "sid": 183,
+    "location": 2,
+    "content": "过去相反为真的现象",
+    "music": 0.0
+  },
+  {
+    "from": 426.75,
+    "to": 430.71,
+    "sid": 184,
+    "location": 2,
+    "content": "人类历史大部分时间地位意味着可见的闲暇",
+    "music": 0.0
+  },
+  {
+    "from": 430.71,
+    "to": 433.07,
+    "sid": 185,
+    "location": 2,
+    "content": "没事做是证明你成功的证据",
+    "music": 0.0
+  },
+  {
+    "from": 433.07,
+    "to": 434.27,
+    "sid": 186,
+    "location": 2,
+    "content": "他们的研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 434.27,
+    "to": 435.29,
+    "sid": 187,
+    "location": 2,
+    "content": "这已翻转",
+    "music": 0.0
+  },
+  {
+    "from": 435.29,
+    "to": 437.68,
+    "sid": 188,
+    "location": 2,
+    "content": "现在看到某人没空闲",
+    "music": 0.0
+  },
+  {
+    "from": 437.68,
+    "to": 439.32,
+    "sid": 189,
+    "location": 2,
+    "content": "日程满常工作",
+    "music": 0.0
+  },
+  {
+    "from": 439.32,
+    "to": 442.13,
+    "sid": 190,
+    "location": 2,
+    "content": "人们将其读作地位",
+    "music": 0.0
+  },
+  {
+    "from": 442.97,
+    "to": 445.11,
+    "sid": 191,
+    "location": 2,
+    "content": "他们判断此人更有能力",
+    "music": 0.0
+  },
+  {
+    "from": 445.11,
+    "to": 446.09,
+    "sid": 192,
+    "location": 2,
+    "content": "更有野心",
+    "music": 0.0
+  },
+  {
+    "from": 446.09,
+    "to": 447.19,
+    "sid": 193,
+    "location": 2,
+    "content": "更抢手",
+    "music": 0.0
+  },
+  {
+    "from": 447.19,
+    "to": 448.25,
+    "sid": 194,
+    "location": 2,
+    "content": "我要谨慎",
+    "music": 0.0
+  },
+  {
+    "from": 448.25,
+    "to": 451.15,
+    "sid": 195,
+    "location": 2,
+    "content": "因为这研究关乎忙碌如何被感知",
+    "music": 0.0
+  },
+  {
+    "from": 451.15,
+    "to": 454.039,
+    "sid": 196,
+    "location": 2,
+    "content": "而非忙碌者是否真产出更多",
+    "music": 0.0
+  },
+  {
+    "from": 454.039,
+    "to": 456.579,
+    "sid": 197,
+    "location": 2,
+    "content": "但这正是他对你重要的原因",
+    "music": 0.0
+  },
+  {
+    "from": 456.579,
+    "to": 458.72,
+    "sid": 198,
+    "location": 2,
+    "content": "你的环境不奖励产出",
+    "music": 0.0
+  },
+  {
+    "from": 458.72,
+    "to": 460.68,
+    "sid": 199,
+    "location": 2,
+    "content": "他奖励努力的表象",
+    "music": 0.0
+  },
+  {
+    "from": 460.68,
+    "to": 463.79,
+    "sid": 200,
+    "location": 2,
+    "content": "因为表象是实时唯一可见的",
+    "music": 0.0
+  },
+  {
+    "from": 464.15,
+    "to": 466.69,
+    "sid": 201,
+    "location": 2,
+    "content": "所以诚实看看你今天做了什么",
+    "music": 0.0
+  },
+  {
+    "from": 466.69,
+    "to": 467.51,
+    "sid": 202,
+    "location": 2,
+    "content": "你回复快",
+    "music": 0.0
+  },
+  {
+    "from": 468.51,
+    "to": 470.55,
+    "sid": 203,
+    "location": 2,
+    "content": "开会时开着摄像头",
+    "music": 0.0
+  },
+  {
+    "from": 470.55,
+    "to": 472.33,
+    "sid": 204,
+    "location": 2,
+    "content": "你清空了收件箱",
+    "music": 0.0
+  },
+  {
+    "from": 472.33,
+    "to": 474.71,
+    "sid": 205,
+    "location": 2,
+    "content": "你处理了四点钟可见的小事",
+    "music": 0.0
+  },
+  {
+    "from": 474.71,
+    "to": 477.7,
+    "sid": 206,
+    "location": 2,
+    "content": "而非重要但不可见的大事",
+    "music": 0.0
+  },
+  {
+    "from": 477.7,
+    "to": 481.26,
+    "sid": 207,
+    "location": 2,
+    "content": "每个选择都让你在别人眼里显得高效",
+    "music": 0.0
+  },
+  {
+    "from": 481.26,
+    "to": 483.06,
+    "sid": 208,
+    "location": 2,
+    "content": "实际却降低效率",
+    "music": 0.0
+  },
+  {
+    "from": 483.06,
+    "to": 485.23,
+    "sid": 209,
+    "location": 2,
+    "content": "刺痛的部分是你忙",
+    "music": 0.0
+  },
+  {
+    "from": 485.23,
+    "to": 488.15,
+    "sid": 210,
+    "location": 2,
+    "content": "不是因为工作要求你忙部分",
+    "music": 0.0
+  },
+  {
+    "from": 488.15,
+    "to": 490.49,
+    "sid": 211,
+    "location": 2,
+    "content": "因为可见的忙碌是安全的",
+    "music": 0.0
+  },
+  {
+    "from": 490.49,
+    "to": 494.07,
+    "sid": 212,
+    "location": 2,
+    "content": "而做深层安静不炫的工作不安全",
+    "music": 0.0
+  },
+  {
+    "from": 494.07,
+    "to": 495.65,
+    "sid": 213,
+    "location": 2,
+    "content": "因为没人看见",
+    "music": 0.0
+  },
+  {
+    "from": 495.65,
+    "to": 498.79,
+    "sid": 214,
+    "location": 2,
+    "content": "且几小时内你拿不出东西展示",
+    "music": 0.0
+  },
+  {
+    "from": 499.27,
+    "to": 501.63,
+    "sid": 215,
+    "location": 2,
+    "content": "你宁愿看起来像努力工作者",
+    "music": 0.0
+  },
+  {
+    "from": 501.63,
+    "to": 503.65,
+    "sid": 216,
+    "location": 2,
+    "content": "也不愿在产出真实东西时",
+    "music": 0.0
+  },
+  {
+    "from": 503.65,
+    "to": 505.5,
+    "sid": 217,
+    "location": 2,
+    "content": "冒着看起来空闲的风险",
+    "music": 0.0
+  },
+  {
+    "from": 505.5,
+    "to": 508.12,
+    "sid": 218,
+    "location": 2,
+    "content": "代价是你可能做的最有价值的工作",
+    "music": 0.0
+  },
+  {
+    "from": 508.12,
+    "to": 510.09,
+    "sid": 219,
+    "location": 2,
+    "content": "在过程中看起来最不起眼",
+    "music": 0.0
+  },
+  {
+    "from": 510.09,
+    "to": 511.99,
+    "sid": 220,
+    "location": 2,
+    "content": "所以他永远没被完成",
+    "music": 0.0
+  },
+  {
+    "from": 511.99,
+    "to": 514.13,
+    "sid": 221,
+    "location": 2,
+    "content": "第四你的任务太模糊",
+    "music": 0.0
+  },
+  {
+    "from": 514.13,
+    "to": 516.36,
+    "sid": 222,
+    "location": 2,
+    "content": "无法开始打开清单",
+    "music": 0.0
+  },
+  {
+    "from": 516.36,
+    "to": 517.68,
+    "sid": 223,
+    "location": 2,
+    "content": "读他实际写的",
+    "music": 0.0
+  },
+  {
+    "from": 517.68,
+    "to": 518.98,
+    "sid": 224,
+    "location": 2,
+    "content": "做演示文稿",
+    "music": 0.0
+  },
+  {
+    "from": 518.98,
+    "to": 520.32,
+    "sid": 225,
+    "location": 2,
+    "content": "搞定客户的事",
+    "music": 0.0
+  },
+  {
+    "from": 520.32,
+    "to": 521.69,
+    "sid": 226,
+    "location": 2,
+    "content": "回邮件",
+    "music": 0.0
+  },
+  {
+    "from": 521.69,
+    "to": 523.45,
+    "sid": 227,
+    "location": 2,
+    "content": "这些都不是任务",
+    "music": 0.0
+  },
+  {
+    "from": 523.45,
+    "to": 524.71,
+    "sid": 228,
+    "location": 2,
+    "content": "他们是话题",
+    "music": 0.0
+  },
+  {
+    "from": 524.71,
+    "to": 527.15,
+    "sid": 229,
+    "location": 2,
+    "content": "每次坐下话题都向你收费",
+    "music": 0.0
+  },
+  {
+    "from": 527.15,
+    "to": 528.59,
+    "sid": 230,
+    "location": 2,
+    "content": "因为做任何事情",
+    "music": 0.0
+  },
+  {
+    "from": 528.59,
+    "to": 530.53,
+    "sid": 231,
+    "location": 2,
+    "content": "你得决定第一步",
+    "music": 0.0
+  },
+  {
+    "from": 531.89,
+    "to": 533.17,
+    "sid": 232,
+    "location": 2,
+    "content": "哪张幻灯片",
+    "music": 0.0
+  },
+  {
+    "from": 533.17,
+    "to": 535.53,
+    "sid": 233,
+    "location": 2,
+    "content": "哪个客户先回哪封邮件",
+    "music": 0.0
+  },
+  {
+    "from": 535.53,
+    "to": 536.97,
+    "sid": 234,
+    "location": 2,
+    "content": "这个决定很小",
+    "music": 0.0
+  },
+  {
+    "from": 536.97,
+    "to": 538.31,
+    "sid": 235,
+    "location": 2,
+    "content": "但也足够",
+    "music": 0.0
+  },
+  {
+    "from": 538.31,
+    "to": 542.15,
+    "sid": 236,
+    "location": 2,
+    "content": "因为它发生在你最可能离开的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 543.21,
+    "to": 545.57,
+    "sid": 237,
+    "location": 2,
+    "content": "而大脑在模糊与明确之间",
+    "music": 0.0
+  },
+  {
+    "from": 547.05,
+    "to": 550.7,
+    "sid": 238,
+    "location": 2,
+    "content": "每次都会选明确的明确的东西",
+    "music": 0.0
+  },
+  {
+    "from": 550.7,
+    "to": 552.78,
+    "sid": 239,
+    "location": 2,
+    "content": "总是通知他",
+    "music": 0.0
+  },
+  {
+    "from": 552.78,
+    "to": 555.04,
+    "sid": 240,
+    "location": 2,
+    "content": "总知道想要你做什么",
+    "music": 0.0
+  },
+  {
+    "from": 555.32,
+    "to": 558.829,
+    "sid": 241,
+    "location": 2,
+    "content": "所以你不是因为不在乎而放弃重要工作",
+    "music": 0.0
+  },
+  {
+    "from": 558.829,
+    "to": 561.029,
+    "sid": 242,
+    "location": 2,
+    "content": "你放弃是因为接触时刻",
+    "music": 0.0
+  },
+  {
+    "from": 561.029,
+    "to": 563.349,
+    "sid": 243,
+    "location": 2,
+    "content": "他是房间里最模糊的模糊",
+    "music": 0.0
+  },
+  {
+    "from": 563.349,
+    "to": 565.29,
+    "sid": 244,
+    "location": 2,
+    "content": "每次都输给清晰",
+    "music": 0.0
+  },
+  {
+    "from": 565.29,
+    "to": 568.01,
+    "sid": 245,
+    "location": 2,
+    "content": "代价是你生命中最重要的项目",
+    "music": 0.0
+  },
+  {
+    "from": 568.01,
+    "to": 569.69,
+    "sid": 246,
+    "location": 2,
+    "content": "通常定义最不轻",
+    "music": 0.0
+  },
+  {
+    "from": 569.69,
+    "to": 573.01,
+    "sid": 247,
+    "location": 2,
+    "content": "意味着它们让你流血最多",
+    "music": 0.0
+  },
+  {
+    "from": 573.78,
+    "to": 575.62,
+    "sid": 248,
+    "location": 2,
+    "content": "现在把四点合起来",
+    "music": 0.0
+  },
+  {
+    "from": 575.62,
+    "to": 577.72,
+    "sid": 249,
+    "location": 2,
+    "content": "你得到一个真奇怪的结果",
+    "music": 0.0
+  },
+  {
+    "from": 577.72,
+    "to": 578.99,
+    "sid": 250,
+    "location": 2,
+    "content": "你越有空",
+    "music": 0.0
+  },
+  {
+    "from": 578.99,
+    "to": 581.25,
+    "sid": 251,
+    "location": 2,
+    "content": "人们越信任你的工作伦理",
+    "music": 0.0
+  },
+  {
+    "from": 581.25,
+    "to": 583.17,
+    "sid": 252,
+    "location": 2,
+    "content": "你实际完成的工作越少",
+    "music": 0.0
+  },
+  {
+    "from": 583.17,
+    "to": 584.49,
+    "sid": 253,
+    "location": 2,
+    "content": "你回复越快",
+    "music": 0.0
+  },
+  {
+    "from": 584.49,
+    "to": 586.19,
+    "sid": 254,
+    "location": 2,
+    "content": "一天越碎片化",
+    "music": 0.0
+  },
+  {
+    "from": 586.19,
+    "to": 588.464,
+    "sid": 255,
+    "location": 2,
+    "content": "真实产出越低",
+    "music": 0.0
+  },
+  {
+    "from": 589.81,
+    "to": 592.23,
+    "sid": 256,
+    "location": 2,
+    "content": "在几乎没产出价值的日子",
+    "music": 0.0
+  },
+  {
+    "from": 592.23,
+    "to": 596.17,
+    "sid": 257,
+    "location": 2,
+    "content": "你最可见最响应最疲惫",
+    "music": 0.0
+  },
+  {
+    "from": 597.059,
+    "to": 599.239,
+    "sid": 258,
+    "location": 2,
+    "content": "在罕见真正产出的日子",
+    "music": 0.0
+  },
+  {
+    "from": 599.239,
+    "to": 600.359,
+    "sid": 259,
+    "location": 2,
+    "content": "你可能沉默",
+    "music": 0.0
+  },
+  {
+    "from": 600.359,
+    "to": 601.799,
+    "sid": 260,
+    "location": 2,
+    "content": "漏回几条消息",
+    "music": 0.0
+  },
+  {
+    "from": 601.799,
+    "to": 603.93,
+    "sid": 261,
+    "location": 2,
+    "content": "并感到些许内疚",
+    "music": 0.0
+  },
+  {
+    "from": 604.21,
+    "to": 605.81,
+    "sid": 262,
+    "location": 2,
+    "content": "你构建了一种生活",
+    "music": 0.0
+  },
+  {
+    "from": 605.81,
+    "to": 606.79,
+    "sid": 263,
+    "location": 2,
+    "content": "看起来高效",
+    "music": 0.0
+  },
+  {
+    "from": 606.79,
+    "to": 608.65,
+    "sid": 264,
+    "location": 2,
+    "content": "与真正高效方向相反",
+    "music": 0.0
+  },
+  {
+    "from": 608.65,
+    "to": 611.66,
+    "sid": 265,
+    "location": 2,
+    "content": "而你一直选人们能看见的那个",
+    "music": 0.0
+  },
+  {
+    "from": 611.82,
+    "to": 613.3,
+    "sid": 266,
+    "location": 2,
+    "content": "那怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 613.3,
+    "to": 615.0,
+    "sid": 267,
+    "location": 2,
+    "content": "不是你想的那样",
+    "music": 0.0
+  },
+  {
+    "from": 615.0,
+    "to": 618.12,
+    "sid": 268,
+    "location": 2,
+    "content": "你收到的所有此类建议归结为意志力",
+    "music": 0.0
+  },
+  {
+    "from": 618.12,
+    "to": 619.0,
+    "sid": 269,
+    "location": 2,
+    "content": "更专注",
+    "music": 0.0
+  },
+  {
+    "from": 619.0,
+    "to": 619.78,
+    "sid": 270,
+    "location": 2,
+    "content": "抗手机",
+    "music": 0.0
+  },
+  {
+    "from": 619.78,
+    "to": 622.5,
+    "sid": 271,
+    "location": 2,
+    "content": "更渴望他们反复失败",
+    "music": 0.0
+  },
+  {
+    "from": 623.79,
+    "to": 625.03,
+    "sid": 272,
+    "location": 2,
+    "content": "不是因为你弱",
+    "music": 0.0
+  },
+  {
+    "from": 625.03,
+    "to": 628.2,
+    "sid": 273,
+    "location": 2,
+    "content": "而是因为没算在你性格账上",
+    "music": 0.0
+  },
+  {
+    "from": 628.52,
+    "to": 630.9,
+    "sid": 274,
+    "location": 2,
+    "content": "它算在你一天的形状上",
+    "music": 0.0
+  },
+  {
+    "from": 630.9,
+    "to": 633.88,
+    "sid": 275,
+    "location": 2,
+    "content": "注意力残留不是自律失败",
+    "music": 0.0
+  },
+  {
+    "from": 633.88,
+    "to": 635.24,
+    "sid": 276,
+    "location": 2,
+    "content": "规划谬误",
+    "music": 0.0
+  },
+  {
+    "from": 635.24,
+    "to": 636.82,
+    "sid": 277,
+    "location": 2,
+    "content": "也不是那些研究者",
+    "music": 0.0
+  },
+  {
+    "from": 636.82,
+    "to": 640.569,
+    "sid": 278,
+    "location": 2,
+    "content": "在比你我更自律的人身上发现了同样效果",
+    "music": 0.0
+  },
+  {
+    "from": 640.569,
+    "to": 643.469,
+    "sid": 279,
+    "location": 2,
+    "content": "目标不是成为能穿透任何干扰",
+    "music": 0.0
+  },
+  {
+    "from": 643.469,
+    "to": 644.409,
+    "sid": 280,
+    "location": 2,
+    "content": "专注的人",
+    "music": 0.0
+  },
+  {
+    "from": 644.409,
+    "to": 646.41,
+    "sid": 281,
+    "location": 2,
+    "content": "乃人不存在",
+    "music": 0.0
+  },
+  {
+    "from": 646.89,
+    "to": 648.62,
+    "sid": 282,
+    "location": 2,
+    "content": "目标是构建一天",
+    "music": 0.0
+  },
+  {
+    "from": 648.62,
+    "to": 652.14,
+    "sid": 283,
+    "location": 2,
+    "content": "让你的专注一开始就不被不断夺走",
+    "music": 0.0
+  },
+  {
+    "from": 652.14,
+    "to": 652.98,
+    "sid": 284,
+    "location": 2,
+    "content": "三个原则",
+    "music": 0.0
+  },
+  {
+    "from": 652.98,
+    "to": 656.479,
+    "sid": 285,
+    "location": 2,
+    "content": "做大部分工作原则一事前决定",
+    "music": 0.0
+  },
+  {
+    "from": 656.479,
+    "to": 657.499,
+    "sid": 286,
+    "location": 2,
+    "content": "而非事中",
+    "music": 0.0
+  },
+  {
+    "from": 657.499,
+    "to": 658.879,
+    "sid": 287,
+    "location": 2,
+    "content": "有一项技术证据",
+    "music": 0.0
+  },
+  {
+    "from": 658.879,
+    "to": 663.23,
+    "sid": 288,
+    "location": 2,
+    "content": "比该领域几乎任何事都多且尴尬的简单",
+    "music": 0.0
+  },
+  {
+    "from": 663.51,
+    "to": 665.09,
+    "sid": 289,
+    "location": 2,
+    "content": "它叫执行意图",
+    "music": 0.0
+  },
+  {
+    "from": 665.09,
+    "to": 668.47,
+    "sid": 290,
+    "location": 2,
+    "content": "由心理学家彼得戈尔维策提出",
+    "music": 0.0
+  },
+  {
+    "from": 668.47,
+    "to": 670.01,
+    "sid": 291,
+    "location": 2,
+    "content": "不是持有目标",
+    "music": 0.0
+  },
+  {
+    "from": 670.01,
+    "to": 672.15,
+    "sid": 292,
+    "location": 2,
+    "content": "而是写一句特定格式的话",
+    "music": 0.0
+  },
+  {
+    "from": 672.15,
+    "to": 673.67,
+    "sid": 293,
+    "location": 2,
+    "content": "如果这种情况发生",
+    "music": 0.0
+  },
+  {
+    "from": 673.67,
+    "to": 674.93,
+    "sid": 294,
+    "location": 2,
+    "content": "我就做这个动作",
+    "music": 0.0
+  },
+  {
+    "from": 674.93,
+    "to": 677.21,
+    "sid": 295,
+    "location": 2,
+    "content": "而不是明天我会做报告",
+    "music": 0.0
+  },
+  {
+    "from": 677.21,
+    "to": 679.35,
+    "sid": 296,
+    "location": 2,
+    "content": "而是九点坐下喝咖啡时",
+    "music": 0.0
+  },
+  {
+    "from": 679.35,
+    "to": 680.45,
+    "sid": 297,
+    "location": 2,
+    "content": "我会打开报告",
+    "music": 0.0
+  },
+  {
+    "from": 680.45,
+    "to": 681.89,
+    "sid": 298,
+    "location": 2,
+    "content": "写第二集",
+    "music": 0.0
+  },
+  {
+    "from": 683.08,
+    "to": 684.52,
+    "sid": 299,
+    "location": 2,
+    "content": "2006年",
+    "music": 0.0
+  },
+  {
+    "from": 684.52,
+    "to": 688.02,
+    "sid": 300,
+    "location": 2,
+    "content": "戈尔维策和帕斯卡尔舍林汇总了94项",
+    "music": 0.0
+  },
+  {
+    "from": 688.02,
+    "to": 688.94,
+    "sid": 301,
+    "location": 2,
+    "content": "此类测试",
+    "music": 0.0
+  },
+  {
+    "from": 688.94,
+    "to": 691.32,
+    "sid": 302,
+    "location": 2,
+    "content": "涉及8000多人",
+    "music": 0.0
+  },
+  {
+    "from": 691.92,
+    "to": 694.68,
+    "sid": 303,
+    "location": 2,
+    "content": "对实际达成目标的平均效果中等偏大",
+    "music": 0.0
+  },
+  {
+    "from": 696.0,
+    "to": 698.21,
+    "sid": 304,
+    "location": 2,
+    "content": "这里让数字严肃的是",
+    "music": 0.0
+  },
+  {
+    "from": 698.49,
+    "to": 701.39,
+    "sid": 305,
+    "location": 2,
+    "content": "他们不是比较计划者与不在乎者",
+    "music": 0.0
+  },
+  {
+    "from": 701.39,
+    "to": 703.81,
+    "sid": 306,
+    "location": 2,
+    "content": "他们比较的是有相同目标",
+    "music": 0.0
+  },
+  {
+    "from": 703.81,
+    "to": 707.76,
+    "sid": 307,
+    "location": 2,
+    "content": "但未指定何时何地的计划者机制",
+    "music": 0.0
+  },
+  {
+    "from": 707.76,
+    "to": 710.04,
+    "sid": 308,
+    "location": 2,
+    "content": "是你从行动时刻移除了决定",
+    "music": 0.0
+  },
+  {
+    "from": 711.04,
+    "to": 713.22,
+    "sid": 309,
+    "location": 2,
+    "content": "九点到来时没什么可决定",
+    "music": 0.0
+  },
+  {
+    "from": 713.22,
+    "to": 715.68,
+    "sid": 310,
+    "location": 2,
+    "content": "没什么需与自己谈判",
+    "music": 0.0
+  },
+  {
+    "from": 716.18,
+    "to": 717.72,
+    "sid": 311,
+    "location": 2,
+    "content": "决定昨天已发生",
+    "music": 0.0
+  },
+  {
+    "from": 717.72,
+    "to": 719.3,
+    "sid": 312,
+    "location": 2,
+    "content": "那时成本低",
+    "music": 0.0
+  },
+  {
+    "from": 719.3,
+    "to": 722.079,
+    "sid": 313,
+    "location": 2,
+    "content": "原则二永不留开放",
+    "music": 0.0
+  },
+  {
+    "from": 722.079,
+    "to": 725.059,
+    "sid": 314,
+    "location": 2,
+    "content": "这直接来自莱罗关于闭合的发现",
+    "music": 0.0
+  },
+  {
+    "from": 725.059,
+    "to": 728.71,
+    "sid": 315,
+    "location": 2,
+    "content": "他可能是整个视频中回报最高的改变",
+    "music": 0.0
+  },
+  {
+    "from": 728.71,
+    "to": 730.21,
+    "sid": 316,
+    "location": 2,
+    "content": "必须停时",
+    "music": 0.0
+  },
+  {
+    "from": 730.21,
+    "to": 733.14,
+    "sid": 317,
+    "location": 2,
+    "content": "别停在半丝花",
+    "music": 0.0
+  },
+  {
+    "from": 733.14,
+    "to": 735.46,
+    "sid": 318,
+    "location": 2,
+    "content": "最后90秒给任务一个结尾",
+    "music": 0.0
+  },
+  {
+    "from": 735.46,
+    "to": 736.3,
+    "sid": 319,
+    "location": 2,
+    "content": "写一行",
+    "music": 0.0
+  },
+  {
+    "from": 736.3,
+    "to": 737.1,
+    "sid": 320,
+    "location": 2,
+    "content": "你在哪",
+    "music": 0.0
+  },
+  {
+    "from": 737.1,
+    "to": 738.18,
+    "sid": 321,
+    "location": 2,
+    "content": "下一步是什么",
+    "music": 0.0
+  },
+  {
+    "from": 738.18,
+    "to": 739.68,
+    "sid": 322,
+    "location": 2,
+    "content": "那句句子要去哪",
+    "music": 0.0
+  },
+  {
+    "from": 739.68,
+    "to": 741.76,
+    "sid": 323,
+    "location": 2,
+    "content": "你要查哪个数字",
+    "music": 0.0
+  },
+  {
+    "from": 742.69,
+    "to": 745.31,
+    "sid": 324,
+    "location": 2,
+    "content": "然后离开两件事发生",
+    "music": 0.0
+  },
+  {
+    "from": 745.31,
+    "to": 747.97,
+    "sid": 325,
+    "location": 2,
+    "content": "你的大脑收到这部分已闭合的信号",
+    "music": 0.0
+  },
+  {
+    "from": 747.97,
+    "to": 749.89,
+    "sid": 326,
+    "location": 2,
+    "content": "所以更少注意力被锁住",
+    "music": 0.0
+  },
+  {
+    "from": 749.89,
+    "to": 752.19,
+    "sid": 327,
+    "location": 2,
+    "content": "意味着下一个任务真正得到",
+    "music": 0.0
+  },
+  {
+    "from": 752.19,
+    "to": 753.829,
+    "sid": 328,
+    "location": 2,
+    "content": "你回来时",
+    "music": 0.0
+  },
+  {
+    "from": 753.829,
+    "to": 756.22,
+    "sid": 329,
+    "location": 2,
+    "content": "你通过书面指令重新进入",
+    "music": 0.0
+  },
+  {
+    "from": 756.22,
+    "to": 757.48,
+    "sid": 330,
+    "location": 2,
+    "content": "而非站在门口",
+    "music": 0.0
+  },
+  {
+    "from": 757.48,
+    "to": 759.94,
+    "sid": 331,
+    "location": 2,
+    "content": "试图从记忆重建整个上下文",
+    "music": 0.0
+  },
+  {
+    "from": 759.94,
+    "to": 763.06,
+    "sid": 332,
+    "location": 2,
+    "content": "同样规则适用于无法拒绝的中断",
+    "music": 0.0
+  },
+  {
+    "from": 763.06,
+    "to": 766.46,
+    "sid": 333,
+    "location": 2,
+    "content": "如果某人现在需要你花五秒写重入行",
+    "music": 0.0
+  },
+  {
+    "from": 766.46,
+    "to": 768.4,
+    "sid": 334,
+    "location": 2,
+    "content": "再转身五秒",
+    "music": 0.0
+  },
+  {
+    "from": 768.4,
+    "to": 772.34,
+    "sid": 335,
+    "location": 2,
+    "content": "这是一分钟回来与15分钟回来的区别",
+    "music": 0.0
+  },
+  {
+    "from": 772.34,
+    "to": 776.16,
+    "sid": 336,
+    "location": 2,
+    "content": "原则三从记录而非希望做计划",
+    "music": 0.0
+  },
+  {
+    "from": 776.16,
+    "to": 778.82,
+    "sid": 337,
+    "location": 2,
+    "content": "既然知道规划谬误不能修复它",
+    "music": 0.0
+  },
+  {
+    "from": 778.82,
+    "to": 781.51,
+    "sid": 338,
+    "location": 2,
+    "content": "别试图用头脑战胜它",
+    "music": 0.0
+  },
+  {
+    "from": 781.79,
+    "to": 783.63,
+    "sid": 339,
+    "location": 2,
+    "content": "用证据承诺",
+    "music": 0.0
+  },
+  {
+    "from": 783.63,
+    "to": 786.79,
+    "sid": 340,
+    "location": 2,
+    "content": "时常前找上次做类似事的时间",
+    "music": 0.0
+  },
+  {
+    "from": 786.79,
+    "to": 791.65,
+    "sid": 341,
+    "location": 2,
+    "content": "用那个数字不是感觉的数字是发生的数字",
+    "music": 0.0
+  },
+  {
+    "from": 792.05,
+    "to": 792.99,
+    "sid": 342,
+    "location": 2,
+    "content": "没记录",
+    "music": 0.0
+  },
+  {
+    "from": 792.99,
+    "to": 795.33,
+    "sid": 343,
+    "location": 2,
+    "content": "这周开始建诚实记录",
+    "music": 0.0
+  },
+  {
+    "from": 795.33,
+    "to": 797.37,
+    "sid": 344,
+    "location": 2,
+    "content": "即使诚实不好看",
+    "music": 0.0
+  },
+  {
+    "from": 797.64,
+    "to": 799.24,
+    "sid": 345,
+    "location": 2,
+    "content": "然后削减清单",
+    "music": 0.0
+  },
+  {
+    "from": 799.24,
+    "to": 801.86,
+    "sid": 346,
+    "location": 2,
+    "content": "如果一天限时容纳两件真工作",
+    "music": 0.0
+  },
+  {
+    "from": 801.86,
+    "to": 806.12,
+    "sid": 347,
+    "location": 2,
+    "content": "就列两件六项清单不是野心",
+    "music": 0.0
+  },
+  {
+    "from": 806.12,
+    "to": 808.78,
+    "sid": 348,
+    "location": 2,
+    "content": "它是保证你整天在事物间匆忙",
+    "music": 0.0
+  },
+  {
+    "from": 808.78,
+    "to": 811.55,
+    "sid": 349,
+    "location": 2,
+    "content": "且无一好好完成的保证",
+    "music": 0.0
+  },
+  {
+    "from": 811.55,
+    "to": 815.75,
+    "sid": 350,
+    "location": 2,
+    "content": "而匆忙正是最初产生11分钟碎片的原因",
+    "music": 0.0
+  },
+  {
+    "from": 815.75,
+    "to": 817.65,
+    "sid": 351,
+    "location": 2,
+    "content": "当这三个一起运行时",
+    "music": 0.0
+  },
+  {
+    "from": 817.65,
+    "to": 818.85,
+    "sid": 352,
+    "location": 2,
+    "content": "发生难以描述",
+    "music": 0.0
+  },
+  {
+    "from": 818.85,
+    "to": 820.98,
+    "sid": 353,
+    "location": 2,
+    "content": "直到发生在你身上的改变",
+    "music": 0.0
+  },
+  {
+    "from": 820.98,
+    "to": 822.54,
+    "sid": 354,
+    "location": 2,
+    "content": "你的产出不再匹配",
+    "music": 0.0
+  },
+  {
+    "from": 822.54,
+    "to": 823.7,
+    "sid": 355,
+    "location": 2,
+    "content": "可见努力",
+    "music": 0.0
+  },
+  {
+    "from": 823.7,
+    "to": 828.48,
+    "sid": 356,
+    "location": 2,
+    "content": "你会在安静早晨完成比过去疯狂一周更多的事",
+    "music": 0.0
+  },
+  {
+    "from": 828.72,
+    "to": 831.94,
+    "sid": 357,
+    "location": 2,
+    "content": "最奇怪的是发生时感觉多么平静",
+    "music": 0.0
+  },
+  {
+    "from": 831.94,
+    "to": 833.76,
+    "sid": 358,
+    "location": 2,
+    "content": "没有英雄是冲刺",
+    "music": 0.0
+  },
+  {
+    "from": 833.76,
+    "to": 835.5,
+    "sid": 359,
+    "location": 2,
+    "content": "你没在对抗什么",
+    "music": 0.0
+  },
+  {
+    "from": 835.5,
+    "to": 837.38,
+    "sid": 360,
+    "location": 2,
+    "content": "你只是做更少的事",
+    "music": 0.0
+  },
+  {
+    "from": 837.38,
+    "to": 838.38,
+    "sid": 361,
+    "location": 2,
+    "content": "一次一件",
+    "music": 0.0
+  },
+  {
+    "from": 838.38,
+    "to": 839.22,
+    "sid": 362,
+    "location": 2,
+    "content": "直到结束",
+    "music": 0.0
+  },
+  {
+    "from": 839.22,
+    "to": 840.569,
+    "sid": 363,
+    "location": 2,
+    "content": "你也会变安静",
+    "music": 0.0
+  },
+  {
+    "from": 840.569,
+    "to": 843.72,
+    "sid": 364,
+    "location": 2,
+    "content": "有些人会注意到你会回复更慢",
+    "music": 0.0
+  },
+  {
+    "from": 843.72,
+    "to": 846.5,
+    "sid": 365,
+    "location": 2,
+    "content": "你看起来比旁边椅子九秒内",
+    "music": 0.0
+  },
+  {
+    "from": 846.5,
+    "to": 848.95,
+    "sid": 366,
+    "location": 2,
+    "content": "回复一切的人没那么忙",
+    "music": 0.0
+  },
+  {
+    "from": 849.19,
+    "to": 850.83,
+    "sid": 367,
+    "location": 2,
+    "content": "有一阵这会让你不适",
+    "music": 0.0
+  },
+  {
+    "from": 850.83,
+    "to": 851.91,
+    "sid": 368,
+    "location": 2,
+    "content": "因为你被训练",
+    "music": 0.0
+  },
+  {
+    "from": 851.91,
+    "to": 855.39,
+    "sid": 369,
+    "location": 2,
+    "content": "相信可见的strain是严肃人的证明",
+    "music": 0.0
+  },
+  {
+    "from": 855.92,
+    "to": 857.66,
+    "sid": 370,
+    "location": 2,
+    "content": "他不是",
+    "music": 0.0
+  },
+  {
+    "from": 857.66,
+    "to": 859.52,
+    "sid": 371,
+    "location": 2,
+    "content": "他从来不是工作",
+    "music": 0.0
+  },
+  {
+    "from": 859.52,
+    "to": 863.97,
+    "sid": 372,
+    "location": 2,
+    "content": "才是证明这种混淆比你的收件箱古老得多",
+    "music": 0.0
+  },
+  {
+    "from": 863.97,
+    "to": 866.07,
+    "sid": 373,
+    "location": 2,
+    "content": "1857年的一封信中",
+    "music": 0.0
+  },
+  {
+    "from": 866.07,
+    "to": 869.9,
+    "sid": 374,
+    "location": 2,
+    "content": "亨利大卫梭罗说得比任何人更尖锐",
+    "music": 0.0
+  },
+  {
+    "from": 869.9,
+    "to": 871.0,
+    "sid": 375,
+    "location": 2,
+    "content": "他写道",
+    "music": 0.0
+  },
+  {
+    "from": 871.0,
+    "to": 872.48,
+    "sid": 376,
+    "location": 2,
+    "content": "勤勉是不够的",
+    "music": 0.0
+  },
+  {
+    "from": 872.48,
+    "to": 873.66,
+    "sid": 377,
+    "location": 2,
+    "content": "蚂蚁也勤勉",
+    "music": 0.0
+  },
+  {
+    "from": 873.66,
+    "to": 875.08,
+    "sid": 378,
+    "location": 2,
+    "content": "你在勤勉什么",
+    "music": 0.0
+  },
+  {
+    "from": 875.08,
+    "to": 877.21,
+    "sid": 379,
+    "location": 2,
+    "content": "你勤勉多年了",
+    "music": 0.0
+  },
+  {
+    "from": 877.21,
+    "to": 878.49,
+    "sid": 380,
+    "location": 2,
+    "content": "没人能指控你",
+    "music": 0.0
+  },
+  {
+    "from": 878.49,
+    "to": 882.03,
+    "sid": 381,
+    "location": 2,
+    "content": "不尝试你把日子以11分钟碎片交给",
+    "music": 0.0
+  },
+  {
+    "from": 882.03,
+    "to": 884.41,
+    "sid": 382,
+    "location": 2,
+    "content": "感觉紧急却傍晚消失的事",
+    "music": 0.0
+  },
+  {
+    "from": 884.41,
+    "to": 887.85,
+    "sid": 383,
+    "location": 2,
+    "content": "你累得足以相信必须做成了什么",
+    "music": 0.0
+  },
+  {
+    "from": 888.25,
+    "to": 890.77,
+    "sid": 384,
+    "location": 2,
+    "content": "问题从来不是你够不够努力",
+    "music": 0.0
+  },
+  {
+    "from": 890.77,
+    "to": 892.85,
+    "sid": 385,
+    "location": 2,
+    "content": "问题是这一切为了什么",
+    "music": 0.0
+  },
+  {
+    "from": 892.85,
+    "to": 894.57,
+    "sid": 386,
+    "location": 2,
+    "content": "以及你一天的形状",
+    "music": 0.0
+  },
+  {
+    "from": 894.57,
+    "to": 897.42,
+    "sid": 387,
+    "location": 2,
+    "content": "是否曾给你的最佳工作机会到达彼岸",
+    "music": 0.0
+  },
+  {
+    "from": 897.42,
+    "to": 899.76,
+    "sid": 388,
+    "location": 2,
+    "content": "他可以不是通过更多努力",
+    "music": 0.0
+  },
+  {
+    "from": 899.76,
+    "to": 901.68,
+    "sid": 389,
+    "location": 2,
+    "content": "而是通过更少更长",
+    "music": 0.0
+  },
+  {
+    "from": 901.68,
+    "to": 902.66,
+    "sid": 390,
+    "location": 2,
+    "content": "更干净的",
+    "music": 0.0
+  },
+  {
+    "from": 902.66,
+    "to": 904.12,
+    "sid": 391,
+    "location": 2,
+    "content": "同样已在花费的努力",
+    "music": 0.0
+  },
+  {
+    "from": 904.12,
+    "to": 905.78,
+    "sid": 392,
+    "location": 2,
+    "content": "所以在四点钟",
+    "music": 0.0
+  },
+  {
+    "from": 905.78,
+    "to": 908.339,
+    "sid": 393,
+    "location": 2,
+    "content": "哪个现在代价最大",
+    "music": 0.0
+  },
+  {
+    "from": 908.739,
+    "to": 911.239,
+    "sid": 394,
+    "location": 2,
+    "content": "碎片小时幻想计划",
+    "music": 0.0
+  },
+  {
+    "from": 911.239,
+    "to": 913.059,
+    "sid": 395,
+    "location": 2,
+    "content": "可见工作还是模糊",
+    "music": 0.0
+  },
+  {
+    "from": 913.059,
+    "to": 915.8,
+    "sid": 396,
+    "location": 2,
+    "content": "任务在评论告诉我",
+    "music": 0.0
+  },
+  {
+    "from": 915.8,
+    "to": 918.35,
+    "sid": 397,
+    "location": 2,
+    "content": "我好奇人们最先认出哪个",
+    "music": 0.0
+  },
+  {
+    "from": 918.35,
+    "to": 920.39,
+    "sid": 398,
+    "location": 2,
+    "content": "如果你在其中看见自己",
+    "music": 0.0
+  },
+  {
+    "from": 920.39,
+    "to": 921.41,
+    "sid": 399,
+    "location": 2,
+    "content": "你不孤单",
+    "music": 0.0
+  },
+  {
+    "from": 921.41,
+    "to": 924.99,
+    "sid": 400,
+    "location": 2,
+    "content": "你认识的几乎每个人都在以同样方式失去一天",
+    "music": 0.0
+  },
+  {
+    "from": 924.99,
+    "to": 926.85,
+    "sid": 401,
+    "location": 2,
+    "content": "并责怪自己的性格",
+    "music": 0.0
+  },
+  {
+    "from": 926.85,
+    "to": 928.089,
+    "sid": 402,
+    "location": 2,
+    "content": "如果这有用",
+    "music": 0.0
+  },
+  {
+    "from": 928.089,
+    "to": 932.029,
+    "sid": 403,
+    "location": 2,
+    "content": "点赞并分享给那个常工作却总觉没做成事的人",
+    "music": 0.0
+  },
+  {
+    "from": 932.029,
+    "to": 933.709,
+    "sid": 404,
+    "location": 2,
+    "content": "他们可能以为是自己的错",
+    "music": 0.0
+  },
+  {
+    "from": 933.709,
+    "to": 936.86,
+    "sid": 405,
+    "location": 2,
+    "content": "不是今天可能是他们发现这一点的一天",
+    "music": 0.0
+  },
+  {
+    "from": 936.86,
+    "to": 938.96,
+    "sid": 406,
+    "location": 2,
+    "content": "感谢与赛克2go同在",
+    "music": 0.0
+  },
+  {
+    "from": 938.96,
+    "to": 939.9,
+    "sid": 407,
+    "location": 2,
+    "content": "记得订阅",
+    "music": 0.0
+  },
+  {
+    "from": 939.9,
+    "to": 942.8,
+    "sid": 408,
+    "location": 2,
+    "content": "让我们继续一起探索心灵的隐秘角落",
+    "music": 0.0
+  },
+  {
+    "from": 942.8,
+    "to": 944.48,
+    "sid": 409,
+    "location": 2,
+    "content": "再见下次见",
+    "music": 0.0
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "from": 0.12,
+    "to": 1.84,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有过这种经历",
+    "music": 0.0
+  },
+  {
+    "from": 1.84,
+    "to": 3.64,
+    "sid": 2,
+    "location": 2,
+    "content": "周末躺了整整两天",
+    "music": 0.0
+  },
+  {
+    "from": 3.64,
+    "to": 5.54,
+    "sid": 3,
+    "location": 2,
+    "content": "手机刷了一遍又一遍",
+    "music": 0.0
+  },
+  {
+    "from": 5.54,
+    "to": 7.06,
+    "sid": 4,
+    "location": 2,
+    "content": "什么正事都没干",
+    "music": 0.0
+  },
+  {
+    "from": 7.06,
+    "to": 9.79,
+    "sid": 5,
+    "location": 2,
+    "content": "周一早上醒来比周五下班还累",
+    "music": 0.0
+  },
+  {
+    "from": 9.79,
+    "to": 11.65,
+    "sid": 6,
+    "location": 2,
+    "content": "你以为是睡眠质量不好",
+    "music": 0.0
+  },
+  {
+    "from": 11.65,
+    "to": 13.47,
+    "sid": 7,
+    "location": 2,
+    "content": "你以为是身体出了问题",
+    "music": 0.0
+  },
+  {
+    "from": 13.47,
+    "to": 16.31,
+    "sid": 8,
+    "location": 2,
+    "content": "但真实的原因和睡眠没有任何关系",
+    "music": 0.0
+  },
+  {
+    "from": 16.31,
+    "to": 19.13,
+    "sid": 9,
+    "location": 2,
+    "content": "你的大脑从来就没有停下过",
+    "music": 0.0
+  },
+  {
+    "from": 19.13,
+    "to": 22.13,
+    "sid": 10,
+    "location": 2,
+    "content": "大多数人理解疲惫只看一个维度",
+    "music": 0.0
+  },
+  {
+    "from": 22.13,
+    "to": 23.92,
+    "sid": 11,
+    "location": 2,
+    "content": "就是做了多少事情",
+    "music": 0.0
+  },
+  {
+    "from": 23.92,
+    "to": 28.36,
+    "sid": 12,
+    "location": 2,
+    "content": "于是休息的逻辑变成了少做事等于少消耗",
+    "music": 0.0
+  },
+  {
+    "from": 28.36,
+    "to": 30.46,
+    "sid": 13,
+    "location": 2,
+    "content": "少消耗等于能恢复",
+    "music": 0.0
+  },
+  {
+    "from": 30.46,
+    "to": 32.96,
+    "sid": 14,
+    "location": 2,
+    "content": "但这个逻辑有一个致命的盲区",
+    "music": 0.0
+  },
+  {
+    "from": 32.96,
+    "to": 34.72,
+    "sid": 15,
+    "location": 2,
+    "content": "他忽略了一类消耗",
+    "music": 0.0
+  },
+  {
+    "from": 34.72,
+    "to": 36.38,
+    "sid": 16,
+    "location": 2,
+    "content": "你什么都没做的时候",
+    "music": 0.0
+  },
+  {
+    "from": 36.38,
+    "to": 37.68,
+    "sid": 17,
+    "location": 2,
+    "content": "大脑在做什么",
+    "music": 0.0
+  },
+  {
+    "from": 37.68,
+    "to": 39.22,
+    "sid": 18,
+    "location": 2,
+    "content": "你躺在沙发上",
+    "music": 0.0
+  },
+  {
+    "from": 39.22,
+    "to": 40.44,
+    "sid": 19,
+    "location": 2,
+    "content": "脑子在复盘",
+    "music": 0.0
+  },
+  {
+    "from": 40.44,
+    "to": 42.62,
+    "sid": 20,
+    "location": 2,
+    "content": "上周某个让你不舒服的对话",
+    "music": 0.0
+  },
+  {
+    "from": 42.62,
+    "to": 44.1,
+    "sid": 21,
+    "location": 2,
+    "content": "你刷着短视频",
+    "music": 0.0
+  },
+  {
+    "from": 44.1,
+    "to": 46.86,
+    "sid": 22,
+    "location": 2,
+    "content": "大脑在高频处理每一个新画面",
+    "music": 0.0
+  },
+  {
+    "from": 46.86,
+    "to": 48.3,
+    "sid": 23,
+    "location": 2,
+    "content": "你盯着天花板",
+    "music": 0.0
+  },
+  {
+    "from": 48.3,
+    "to": 50.96,
+    "sid": 24,
+    "location": 2,
+    "content": "脑子在预演明天可能出现的问题",
+    "music": 0.0
+  },
+  {
+    "from": 50.96,
+    "to": 53.5,
+    "sid": 25,
+    "location": 2,
+    "content": "这些动作没有一个消耗体力",
+    "music": 0.0
+  },
+  {
+    "from": 53.5,
+    "to": 55.43,
+    "sid": 26,
+    "location": 2,
+    "content": "但他们都在消耗能量",
+    "music": 0.0
+  },
+  {
+    "from": 55.43,
+    "to": 58.55,
+    "sid": 27,
+    "location": 2,
+    "content": "这里有一个大多数人从没意识到的事实",
+    "music": 0.0
+  },
+  {
+    "from": 58.55,
+    "to": 62.13,
+    "sid": 28,
+    "location": 2,
+    "content": "大脑的静息状态本身就消耗着全身能量",
+    "music": 0.0
+  },
+  {
+    "from": 62.13,
+    "to": 64.05,
+    "sid": 29,
+    "location": 2,
+    "content": "预算里的极大的一块",
+    "music": 0.0
+  },
+  {
+    "from": 64.05,
+    "to": 65.77,
+    "sid": 30,
+    "location": 2,
+    "content": "执行一个具体任务",
+    "music": 0.0
+  },
+  {
+    "from": 65.77,
+    "to": 69.81,
+    "sid": 31,
+    "location": 2,
+    "content": "增加的能耗只是这个巨大基数上的1.0头",
+    "music": 0.0
+  },
+  {
+    "from": 69.81,
+    "to": 73.11,
+    "sid": 32,
+    "location": 2,
+    "content": "你以为专心工作才是大脑最费力的状态",
+    "music": 0.0
+  },
+  {
+    "from": 73.11,
+    "to": 74.85,
+    "sid": 33,
+    "location": 2,
+    "content": "但更真实的情况是",
+    "music": 0.0
+  },
+  {
+    "from": 74.85,
+    "to": 76.17,
+    "sid": 34,
+    "location": 2,
+    "content": "他闲下来的时候",
+    "music": 0.0
+  },
+  {
+    "from": 76.17,
+    "to": 78.039,
+    "sid": 35,
+    "location": 2,
+    "content": "本来就在高强度运转",
+    "music": 0.0
+  },
+  {
+    "from": 78.039,
+    "to": 80.879,
+    "sid": 36,
+    "location": 2,
+    "content": "认知神经科学里有一个精确的概念",
+    "music": 0.0
+  },
+  {
+    "from": 80.879,
+    "to": 82.5,
+    "sid": 37,
+    "location": 2,
+    "content": "默认模式网络",
+    "music": 0.0
+  },
+  {
+    "from": 82.5,
+    "to": 85.18,
+    "sid": 38,
+    "location": 2,
+    "content": "你没有在执行任何具体任务的时候",
+    "music": 0.0
+  },
+  {
+    "from": 85.18,
+    "to": 87.31,
+    "sid": 39,
+    "location": 2,
+    "content": "大脑不会进入待机状态",
+    "music": 0.0
+  },
+  {
+    "from": 87.31,
+    "to": 88.45,
+    "sid": 40,
+    "location": 2,
+    "content": "恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 88.45,
+    "to": 91.76,
+    "sid": 41,
+    "location": 2,
+    "content": "它会自动激活一套高度活跃的回路",
+    "music": 0.0
+  },
+  {
+    "from": 91.76,
+    "to": 92.88,
+    "sid": 42,
+    "location": 2,
+    "content": "反刍过去",
+    "music": 0.0
+  },
+  {
+    "from": 92.88,
+    "to": 93.92,
+    "sid": 43,
+    "location": 2,
+    "content": "预言未来",
+    "music": 0.0
+  },
+  {
+    "from": 93.92,
+    "to": 95.96,
+    "sid": 44,
+    "location": 2,
+    "content": "自我评价持续产生",
+    "music": 0.0
+  },
+  {
+    "from": 95.96,
+    "to": 97.77,
+    "sid": 45,
+    "location": 2,
+    "content": "你控制不了的内部趋势",
+    "music": 0.0
+  },
+  {
+    "from": 97.77,
+    "to": 99.53,
+    "sid": 46,
+    "location": 2,
+    "content": "同时休息时",
+    "music": 0.0
+  },
+  {
+    "from": 99.53,
+    "to": 101.23,
+    "sid": 47,
+    "location": 2,
+    "content": "你不断切换注意力",
+    "music": 0.0
+  },
+  {
+    "from": 101.23,
+    "to": 103.15,
+    "sid": 48,
+    "location": 2,
+    "content": "从刷短视频到发呆",
+    "music": 0.0
+  },
+  {
+    "from": 103.15,
+    "to": 104.79,
+    "sid": 49,
+    "location": 2,
+    "content": "从发呆到焦虑",
+    "music": 0.0
+  },
+  {
+    "from": 104.79,
+    "to": 107.65,
+    "sid": 50,
+    "location": 2,
+    "content": "这在认知科学里有一个精确的名字",
+    "music": 0.0
+  },
+  {
+    "from": 107.65,
+    "to": 109.56,
+    "sid": 51,
+    "location": 2,
+    "content": "上下文切换损耗",
+    "music": 0.0
+  },
+  {
+    "from": 109.56,
+    "to": 113.34,
+    "sid": 52,
+    "location": 2,
+    "content": "每一次切换大脑都要卸载当前的处理内容",
+    "music": 0.0
+  },
+  {
+    "from": 113.34,
+    "to": 115.28,
+    "sid": 53,
+    "location": 2,
+    "content": "重新加载新的模式",
+    "music": 0.0
+  },
+  {
+    "from": 115.28,
+    "to": 117.3,
+    "sid": 54,
+    "location": 2,
+    "content": "单次只消耗几秒",
+    "music": 0.0
+  },
+  {
+    "from": 117.3,
+    "to": 119.37,
+    "sid": 55,
+    "location": 2,
+    "content": "但一天切换几百次",
+    "music": 0.0
+  },
+  {
+    "from": 119.37,
+    "to": 121.07,
+    "sid": 56,
+    "location": 2,
+    "content": "累积下来的疲惫",
+    "music": 0.0
+  },
+  {
+    "from": 121.07,
+    "to": 124.05,
+    "sid": 57,
+    "location": 2,
+    "content": "足以让你觉得比工作一整天还累",
+    "music": 0.0
+  },
+  {
+    "from": 124.05,
+    "to": 125.97,
+    "sid": 58,
+    "location": 2,
+    "content": "所以那种什么都没做",
+    "music": 0.0
+  },
+  {
+    "from": 125.97,
+    "to": 128.13,
+    "sid": 59,
+    "location": 2,
+    "content": "但很累的感觉不是矫情",
+    "music": 0.0
+  },
+  {
+    "from": 128.13,
+    "to": 130.49,
+    "sid": 60,
+    "location": 2,
+    "content": "是你的大脑用他自己的方式",
+    "music": 0.0
+  },
+  {
+    "from": 130.49,
+    "to": 134.57,
+    "sid": 61,
+    "location": 2,
+    "content": "在你以为休息的每一分钟里一直在全速运转",
+    "music": 0.0
+  },
+  {
+    "from": 134.57,
+    "to": 136.91,
+    "sid": 62,
+    "location": 2,
+    "content": "你从来没有给他真正的休息",
+    "music": 0.0
+  },
+  {
+    "from": 136.91,
+    "to": 139.44,
+    "sid": 63,
+    "location": 2,
+    "content": "他也从来没有给你真正的恢复",
+    "music": 0.0
+  },
+  {
+    "from": 139.44,
+    "to": 141.04,
+    "sid": 64,
+    "location": 2,
+    "content": "这不是意志力的问题",
+    "music": 0.0
+  },
+  {
+    "from": 141.04,
+    "to": 143.94,
+    "sid": 65,
+    "location": 2,
+    "content": "是你从来没有学过如何真正关机",
+    "music": 0.0
+  },
+  {
+    "from": 143.94,
+    "to": 146.78,
+    "sid": 66,
+    "location": 2,
+    "content": "但为什么大脑会在你什么都不做的时候",
+    "music": 0.0
+  },
+  {
+    "from": 146.78,
+    "to": 149.19,
+    "sid": 67,
+    "location": 2,
+    "content": "反而进入最活跃的运行模式",
+    "music": 0.0
+  },
+  {
+    "from": 149.19,
+    "to": 151.45,
+    "sid": 68,
+    "location": 2,
+    "content": "这背后有一个系统层面的结构",
+    "music": 0.0
+  },
+  {
+    "from": 151.45,
+    "to": 152.39,
+    "sid": 69,
+    "location": 2,
+    "content": "不是习惯",
+    "music": 0.0
+  },
+  {
+    "from": 152.39,
+    "to": 153.35,
+    "sid": 70,
+    "location": 2,
+    "content": "不是性格",
+    "music": 0.0
+  },
+  {
+    "from": 153.35,
+    "to": 156.5,
+    "sid": 71,
+    "location": 2,
+    "content": "下一条视频我们拆它的底层结构",
+    "music": 0.0
+  }
+]

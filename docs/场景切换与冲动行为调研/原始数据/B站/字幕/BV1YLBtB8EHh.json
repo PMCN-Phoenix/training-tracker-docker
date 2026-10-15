@@ -1,0 +1,938 @@
+[
+  {
+    "from": 0.04,
+    "to": 2.32,
+    "sid": 1,
+    "location": 2,
+    "content": "熊大快把我的手砍了",
+    "music": 0.0
+  },
+  {
+    "from": 2.32,
+    "to": 3.38,
+    "sid": 2,
+    "location": 2,
+    "content": "他中邪了",
+    "music": 0.0
+  },
+  {
+    "from": 3.38,
+    "to": 4.77,
+    "sid": 3,
+    "location": 2,
+    "content": "他不听使唤了",
+    "music": 0.0
+  },
+  {
+    "from": 4.77,
+    "to": 6.83,
+    "sid": 4,
+    "location": 2,
+    "content": "我看他是中了一种叫短视频的毒",
+    "music": 0.0
+  },
+  {
+    "from": 6.83,
+    "to": 7.49,
+    "sid": 5,
+    "location": 2,
+    "content": "叫你吃饭",
+    "music": 0.0
+  },
+  {
+    "from": 7.49,
+    "to": 8.11,
+    "sid": 6,
+    "location": 2,
+    "content": "教了三遍",
+    "music": 0.0
+  },
+  {
+    "from": 8.11,
+    "to": 9.39,
+    "sid": 7,
+    "location": 2,
+    "content": "你动都不动啊",
+    "music": 0.0
+  },
+  {
+    "from": 9.39,
+    "to": 10.23,
+    "sid": 8,
+    "location": 2,
+    "content": "天黑了",
+    "music": 0.0
+  },
+  {
+    "from": 10.23,
+    "to": 12.81,
+    "sid": 9,
+    "location": 2,
+    "content": "我发誓我刚才只是想看一眼闹钟",
+    "music": 0.0
+  },
+  {
+    "from": 12.81,
+    "to": 15.17,
+    "sid": 10,
+    "location": 2,
+    "content": "结果手自己就开始划划一下",
+    "music": 0.0
+  },
+  {
+    "from": 15.17,
+    "to": 16.05,
+    "sid": 11,
+    "location": 2,
+    "content": "嘿好笑",
+    "music": 0.0
+  },
+  {
+    "from": 16.05,
+    "to": 16.93,
+    "sid": 12,
+    "location": 2,
+    "content": "再划一下",
+    "music": 0.0
+  },
+  {
+    "from": 16.93,
+    "to": 18.39,
+    "sid": 13,
+    "location": 2,
+    "content": "嘿这个也好玩",
+    "music": 0.0
+  },
+  {
+    "from": 18.39,
+    "to": 20.43,
+    "sid": 14,
+    "location": 2,
+    "content": "你这一划三个小时就没了",
+    "music": 0.0
+  },
+  {
+    "from": 20.43,
+    "to": 21.77,
+    "sid": 15,
+    "location": 2,
+    "content": "你以为你在刷手机",
+    "music": 0.1964285538903065
+  },
+  {
+    "from": 21.77,
+    "to": 22.95,
+    "sid": 16,
+    "location": 2,
+    "content": "其实是手机在刷",
+    "music": 0.0
+  },
+  {
+    "from": 22.95,
+    "to": 23.75,
+    "sid": 17,
+    "location": 2,
+    "content": "你不对",
+    "music": 0.0
+  },
+  {
+    "from": 23.75,
+    "to": 26.13,
+    "sid": 18,
+    "location": 2,
+    "content": "手机里是不是住着吸魂兽",
+    "music": 0.0
+  },
+  {
+    "from": 26.13,
+    "to": 28.03,
+    "sid": 19,
+    "location": 2,
+    "content": "他把我的时间都吸干了",
+    "music": 0.0
+  },
+  {
+    "from": 28.03,
+    "to": 28.89,
+    "sid": 20,
+    "location": 2,
+    "content": "没什么怪兽",
+    "music": 0.0
+  },
+  {
+    "from": 28.89,
+    "to": 30.91,
+    "sid": 21,
+    "location": 2,
+    "content": "只有一群全世界最聪明的天才",
+    "music": 0.0
+  },
+  {
+    "from": 30.91,
+    "to": 32.33,
+    "sid": 22,
+    "location": 2,
+    "content": "利用你脑子里的多巴胺",
+    "music": 0.03816793601771267
+  },
+  {
+    "from": 32.33,
+    "to": 34.13,
+    "sid": 23,
+    "location": 2,
+    "content": "给你修了一座关不住你的牢房",
+    "music": 0.35672512533771145
+  },
+  {
+    "from": 34.13,
+    "to": 34.91,
+    "sid": 24,
+    "location": 2,
+    "content": "多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 34.91,
+    "to": 37.21,
+    "sid": 25,
+    "location": 2,
+    "content": "那不是让我开心的好东西吗",
+    "music": 0.0
+  },
+  {
+    "from": 37.21,
+    "to": 39.01,
+    "sid": 26,
+    "location": 2,
+    "content": "它是我快乐的源泉啊",
+    "music": 0.0
+  },
+  {
+    "from": 39.01,
+    "to": 40.45,
+    "sid": 27,
+    "location": 2,
+    "content": "这是一个巨大的误区",
+    "music": 0.0
+  },
+  {
+    "from": 40.45,
+    "to": 41.89,
+    "sid": 28,
+    "location": 2,
+    "content": "多巴胺不代表快乐",
+    "music": 0.0
+  },
+  {
+    "from": 41.89,
+    "to": 43.81,
+    "sid": 29,
+    "location": 2,
+    "content": "它只代表渴望渴望",
+    "music": 0.0
+  },
+  {
+    "from": 43.81,
+    "to": 45.89,
+    "sid": 30,
+    "location": 2,
+    "content": "难道不是因为我刷的爽",
+    "music": 0.0
+  },
+  {
+    "from": 45.89,
+    "to": 47.28,
+    "sid": 31,
+    "location": 2,
+    "content": "它才分泌的吗",
+    "music": 0.0
+  },
+  {
+    "from": 47.28,
+    "to": 48.26,
+    "sid": 32,
+    "location": 2,
+    "content": "恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 48.26,
+    "to": 50.34,
+    "sid": 33,
+    "location": 2,
+    "content": "它是在你划一下之前分泌的",
+    "music": 0.0
+  },
+  {
+    "from": 50.34,
+    "to": 51.86,
+    "sid": 34,
+    "location": 2,
+    "content": "它像一根无形的鞭子",
+    "music": 0.49999996621621606
+  },
+  {
+    "from": 51.86,
+    "to": 53.46,
+    "sid": 35,
+    "location": 2,
+    "content": "在你大脑里疯狂抽打",
+    "music": 0.0
+  },
+  {
+    "from": 53.46,
+    "to": 54.56,
+    "sid": 36,
+    "location": 2,
+    "content": "逼着你去寻找",
+    "music": 0.0
+  },
+  {
+    "from": 54.56,
+    "to": 55.24,
+    "sid": 37,
+    "location": 2,
+    "content": "去探索",
+    "music": 0.0
+  },
+  {
+    "from": 55.24,
+    "to": 57.72,
+    "sid": 38,
+    "location": 2,
+    "content": "去期待下一条视频会不会更好笑",
+    "music": 0.0
+  },
+  {
+    "from": 57.72,
+    "to": 60.07,
+    "sid": 39,
+    "location": 2,
+    "content": "你是说我不是在享受",
+    "music": 0.0
+  },
+  {
+    "from": 60.07,
+    "to": 61.27,
+    "sid": 40,
+    "location": 2,
+    "content": "我是在上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 61.27,
+    "to": 64.35,
+    "sid": 41,
+    "location": 2,
+    "content": "没错这在心理学上叫间歇性强化奖励",
+    "music": 0.0
+  },
+  {
+    "from": 64.35,
+    "to": 65.35,
+    "sid": 42,
+    "location": 2,
+    "content": "就像老虎机",
+    "music": 0.0
+  },
+  {
+    "from": 65.35,
+    "to": 66.87,
+    "sid": 43,
+    "location": 2,
+    "content": "如果你每拉一下都中奖",
+    "music": 0.0
+  },
+  {
+    "from": 66.87,
+    "to": 67.98,
+    "sid": 44,
+    "location": 2,
+    "content": "你很快就会腻",
+    "music": 0.0
+  },
+  {
+    "from": 67.98,
+    "to": 69.8,
+    "sid": 45,
+    "location": 2,
+    "content": "但如果你不知道哪一下会中奖",
+    "music": 0.0
+  },
+  {
+    "from": 69.8,
+    "to": 71.92,
+    "sid": 46,
+    "location": 2,
+    "content": "你就会像疯了一样一直拉下去",
+    "music": 0.0
+  },
+  {
+    "from": 71.92,
+    "to": 74.52,
+    "sid": 47,
+    "location": 2,
+    "content": "手机里的算法就是那个最懂你的赌局",
+    "music": 0.0
+  },
+  {
+    "from": 74.52,
+    "to": 75.56,
+    "sid": 48,
+    "location": 2,
+    "content": "太阴险了",
+    "music": 0.0
+  },
+  {
+    "from": 75.56,
+    "to": 77.72,
+    "sid": 49,
+    "location": 2,
+    "content": "那我不滑了行不行晚了",
+    "music": 0.0
+  },
+  {
+    "from": 77.72,
+    "to": 79.78,
+    "sid": 50,
+    "location": 2,
+    "content": "你的多巴胺阈值已经被拉爆了",
+    "music": 0.0
+  },
+  {
+    "from": 79.78,
+    "to": 80.84,
+    "sid": 51,
+    "location": 2,
+    "content": "什么是阈值",
+    "music": 0.0
+  },
+  {
+    "from": 80.84,
+    "to": 81.759,
+    "sid": 52,
+    "location": 2,
+    "content": "能吃吗",
+    "music": 0.0
+  },
+  {
+    "from": 81.759,
+    "to": 83.179,
+    "sid": 53,
+    "location": 2,
+    "content": "是你对快感的门槛",
+    "music": 0.0
+  },
+  {
+    "from": 83.179,
+    "to": 85.459,
+    "sid": 54,
+    "location": 2,
+    "content": "你每天刷几千条4G的短视频",
+    "music": 0.0
+  },
+  {
+    "from": 85.459,
+    "to": 87.33,
+    "sid": 55,
+    "location": 2,
+    "content": "就像一直在吃变态辣的火锅",
+    "music": 0.0
+  },
+  {
+    "from": 87.33,
+    "to": 89.31,
+    "sid": 56,
+    "location": 2,
+    "content": "现在让你回头去啃普通的青草",
+    "music": 0.0
+  },
+  {
+    "from": 89.31,
+    "to": 90.69,
+    "sid": 57,
+    "location": 2,
+    "content": "你会觉得像在嚼蜡",
+    "music": 0.0
+  },
+  {
+    "from": 90.69,
+    "to": 93.45,
+    "sid": 58,
+    "location": 2,
+    "content": "难怪我现在一看书就想睡觉",
+    "music": 0.0
+  },
+  {
+    "from": 93.45,
+    "to": 95.19,
+    "sid": 59,
+    "location": 2,
+    "content": "一写作业就想撞墙",
+    "music": 0.0
+  },
+  {
+    "from": 95.19,
+    "to": 97.63,
+    "sid": 60,
+    "location": 2,
+    "content": "甚至看落日都觉得他下山太慢",
+    "music": 0.0
+  },
+  {
+    "from": 97.63,
+    "to": 98.45,
+    "sid": 61,
+    "location": 2,
+    "content": "想快进",
+    "music": 0.0
+  },
+  {
+    "from": 98.45,
+    "to": 100.59,
+    "sid": 62,
+    "location": 2,
+    "content": "这就是数字多巴胺的后遗症",
+    "music": 0.0
+  },
+  {
+    "from": 100.59,
+    "to": 102.67,
+    "sid": 63,
+    "location": 2,
+    "content": "你的大脑已经习惯了这种低成本",
+    "music": 0.0
+  },
+  {
+    "from": 102.67,
+    "to": 104.24,
+    "sid": 64,
+    "location": 2,
+    "content": "高频率强刺激的反馈",
+    "music": 0.0
+  },
+  {
+    "from": 104.24,
+    "to": 104.96,
+    "sid": 65,
+    "location": 2,
+    "content": "久而久之",
+    "music": 0.0
+  },
+  {
+    "from": 104.96,
+    "to": 106.1,
+    "sid": 66,
+    "location": 2,
+    "content": "你不仅失去了耐心",
+    "music": 0.0
+  },
+  {
+    "from": 106.1,
+    "to": 107.66,
+    "sid": 67,
+    "location": 2,
+    "content": "还失去了深度思考的能力",
+    "music": 0.0
+  },
+  {
+    "from": 107.66,
+    "to": 108.98,
+    "sid": 68,
+    "location": 2,
+    "content": "你会变得越来越空虚",
+    "music": 0.0
+  },
+  {
+    "from": 108.98,
+    "to": 110.5,
+    "sid": 69,
+    "location": 2,
+    "content": "因为你只是在被动的接收",
+    "music": 0.0
+  },
+  {
+    "from": 110.5,
+    "to": 111.96,
+    "sid": 70,
+    "location": 2,
+    "content": "而不是在主动的创造",
+    "music": 0.0
+  },
+  {
+    "from": 111.96,
+    "to": 113.42,
+    "sid": 71,
+    "location": 2,
+    "content": "所以我变笨了",
+    "music": 0.0
+  },
+  {
+    "from": 113.42,
+    "to": 116.56,
+    "sid": 72,
+    "location": 2,
+    "content": "我变成了一个只会划屏幕的笨羊羊吗",
+    "music": 0.0
+  },
+  {
+    "from": 116.56,
+    "to": 117.4,
+    "sid": 73,
+    "location": 2,
+    "content": "甚至更糟",
+    "music": 0.0
+  },
+  {
+    "from": 117.4,
+    "to": 119.22,
+    "sid": 74,
+    "location": 2,
+    "content": "你正在陷入感知剥夺",
+    "music": 0.0
+  },
+  {
+    "from": 119.22,
+    "to": 121.54,
+    "sid": 75,
+    "location": 2,
+    "content": "当你习惯了虚拟世界的色彩和节奏",
+    "music": 0.0
+  },
+  {
+    "from": 121.54,
+    "to": 125.02,
+    "sid": 76,
+    "location": 2,
+    "content": "现实世界对你来说就会变成一片灰色熊大",
+    "music": 0.0
+  },
+  {
+    "from": 125.02,
+    "to": 126.66,
+    "sid": 77,
+    "location": 2,
+    "content": "我觉得我像个木偶",
+    "music": 0.0
+  },
+  {
+    "from": 126.66,
+    "to": 128.6,
+    "sid": 78,
+    "location": 2,
+    "content": "那些代码就是拉着我的线",
+    "music": 0.0
+  },
+  {
+    "from": 128.6,
+    "to": 130.06,
+    "sid": 79,
+    "location": 2,
+    "content": "我还能逃出去吗",
+    "music": 0.0
+  },
+  {
+    "from": 130.06,
+    "to": 131.55,
+    "sid": 80,
+    "location": 2,
+    "content": "能但你要记住",
+    "music": 0.0
+  },
+  {
+    "from": 131.55,
+    "to": 133.61,
+    "sid": 81,
+    "location": 2,
+    "content": "真正的自由不是随心所欲",
+    "music": 0.0
+  },
+  {
+    "from": 133.61,
+    "to": 137.1,
+    "sid": 82,
+    "location": 2,
+    "content": "而是有能力对那些廉价的快感说不可拒绝",
+    "music": 0.0
+  },
+  {
+    "from": 137.1,
+    "to": 138.42,
+    "sid": 83,
+    "location": 2,
+    "content": "真的好痛苦啊",
+    "music": 0.0
+  },
+  {
+    "from": 138.42,
+    "to": 140.14,
+    "sid": 84,
+    "location": 2,
+    "content": "感觉心里空落落的",
+    "music": 0.0
+  },
+  {
+    "from": 140.14,
+    "to": 143.1,
+    "sid": 85,
+    "location": 2,
+    "content": "因为生命本身就需要一些留白和无聊",
+    "music": 0.0
+  },
+  {
+    "from": 143.1,
+    "to": 144.829,
+    "sid": 86,
+    "location": 2,
+    "content": "无聊有什么好的",
+    "music": 0.0
+  },
+  {
+    "from": 144.829,
+    "to": 146.649,
+    "sid": 87,
+    "location": 2,
+    "content": "无聊是大脑的排毒时间",
+    "music": 0.0
+  },
+  {
+    "from": 146.649,
+    "to": 147.849,
+    "sid": 88,
+    "location": 2,
+    "content": "只有当你静下来",
+    "music": 0.0
+  },
+  {
+    "from": 147.849,
+    "to": 149.369,
+    "sid": 89,
+    "location": 2,
+    "content": "不再被多巴胺牵着鼻子走",
+    "music": 0.0
+  },
+  {
+    "from": 149.369,
+    "to": 151.249,
+    "sid": 90,
+    "location": 2,
+    "content": "你的思维才会开始真正的生长",
+    "music": 0.0
+  },
+  {
+    "from": 151.249,
+    "to": 153.24,
+    "sid": 91,
+    "location": 2,
+    "content": "你可以把大脑想象成一片湖水",
+    "music": 0.0
+  },
+  {
+    "from": 153.24,
+    "to": 155.22,
+    "sid": 92,
+    "location": 2,
+    "content": "刷手机是在往湖里扔炸弹",
+    "music": 0.0
+  },
+  {
+    "from": 155.22,
+    "to": 156.14,
+    "sid": 93,
+    "location": 2,
+    "content": "虽然水花大",
+    "music": 0.0
+  },
+  {
+    "from": 156.14,
+    "to": 157.48,
+    "sid": 94,
+    "location": 2,
+    "content": "但湖底是一片狼藉",
+    "music": 0.0
+  },
+  {
+    "from": 157.48,
+    "to": 159.5,
+    "sid": 95,
+    "location": 2,
+    "content": "而深度思考是微风虽然慢",
+    "music": 0.0
+  },
+  {
+    "from": 159.5,
+    "to": 160.72,
+    "sid": 96,
+    "location": 2,
+    "content": "但它能吹起涟漪",
+    "music": 0.0
+  },
+  {
+    "from": 160.72,
+    "to": 162.19,
+    "sid": 97,
+    "location": 2,
+    "content": "吹起涟漪",
+    "music": 0.0
+  },
+  {
+    "from": 162.19,
+    "to": 163.89,
+    "sid": 98,
+    "location": 2,
+    "content": "在这个信息过载的时代",
+    "music": 0.0
+  },
+  {
+    "from": 163.89,
+    "to": 166.269,
+    "sid": 99,
+    "location": 2,
+    "content": "清醒是比金子还贵的稀缺品",
+    "music": 0.0
+  },
+  {
+    "from": 166.269,
+    "to": 169.229,
+    "sid": 100,
+    "location": 2,
+    "content": "别让那块小小的屏幕成了你整个世界的边界",
+    "music": 0.0
+  },
+  {
+    "from": 169.229,
+    "to": 172.269,
+    "sid": 101,
+    "location": 2,
+    "content": "懂了我现在就要去进行大脑排毒",
+    "music": 0.0
+  },
+  {
+    "from": 172.269,
+    "to": 173.169,
+    "sid": 102,
+    "location": 2,
+    "content": "很有志气",
+    "music": 0.0
+  },
+  {
+    "from": 173.169,
+    "to": 174.469,
+    "sid": 103,
+    "location": 2,
+    "content": "那你是准备去冥想",
+    "music": 0.0
+  },
+  {
+    "from": 174.469,
+    "to": 176.08,
+    "sid": 104,
+    "location": 2,
+    "content": "还是去观察大树的年轮",
+    "music": 0.0
+  },
+  {
+    "from": 176.08,
+    "to": 177.06,
+    "sid": 105,
+    "location": 2,
+    "content": "我决定了",
+    "music": 0.0
+  },
+  {
+    "from": 177.06,
+    "to": 179.0,
+    "sid": 106,
+    "location": 2,
+    "content": "为了对抗这种低级刺激",
+    "music": 0.0
+  },
+  {
+    "from": 179.0,
+    "to": 181.54,
+    "sid": 107,
+    "location": 2,
+    "content": "我要去睡一个漫长的无聊的",
+    "music": 0.0
+  },
+  {
+    "from": 181.54,
+    "to": 183.78,
+    "sid": 108,
+    "location": 2,
+    "content": "完全没有手机干扰的午觉",
+    "music": 0.0
+  },
+  {
+    "from": 183.78,
+    "to": 185.44,
+    "sid": 109,
+    "location": 2,
+    "content": "虽然你的终点总是睡觉",
+    "music": 0.0
+  },
+  {
+    "from": 185.44,
+    "to": 186.44,
+    "sid": 110,
+    "location": 2,
+    "content": "但不得不说",
+    "music": 0.0
+  },
+  {
+    "from": 186.44,
+    "to": 189.08,
+    "sid": 111,
+    "location": 2,
+    "content": "这确实是最原始最高级的重启方式",
+    "music": 0.0
+  },
+  {
+    "from": 189.08,
+    "to": 190.43,
+    "sid": 112,
+    "location": 2,
+    "content": "嘿嘿熊大",
+    "music": 0.0
+  },
+  {
+    "from": 190.43,
+    "to": 191.95,
+    "sid": 113,
+    "location": 2,
+    "content": "记得把手机藏好",
+    "music": 0.0
+  },
+  {
+    "from": 191.95,
+    "to": 194.29,
+    "sid": 114,
+    "location": 2,
+    "content": "要是待会儿我做梦梦见手机",
+    "music": 0.0
+  },
+  {
+    "from": 194.29,
+    "to": 196.27,
+    "sid": 115,
+    "location": 2,
+    "content": "你记得一巴掌把我拍醒",
+    "music": 0.0
+  },
+  {
+    "from": 196.27,
+    "to": 196.99,
+    "sid": 116,
+    "location": 2,
+    "content": "没问题",
+    "music": 0.0
+  },
+  {
+    "from": 196.99,
+    "to": 198.62,
+    "sid": 117,
+    "location": 2,
+    "content": "这个忙我一定帮",
+    "music": 0.0
+  }
+]

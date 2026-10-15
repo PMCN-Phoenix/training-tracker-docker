@@ -1,0 +1,586 @@
+[
+  {
+    "from": 0.0,
+    "to": 1.38,
+    "sid": 1,
+    "location": 2,
+    "content": "你有过这种状态吗",
+    "music": 0.0
+  },
+  {
+    "from": 1.38,
+    "to": 2.58,
+    "sid": 2,
+    "location": 2,
+    "content": "坐下来就刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 2.58,
+    "to": 3.54,
+    "sid": 3,
+    "location": 2,
+    "content": "躺着就不想动",
+    "music": 0.0
+  },
+  {
+    "from": 3.54,
+    "to": 5.38,
+    "sid": 4,
+    "location": 2,
+    "content": "要完成的任务一拖再拖",
+    "music": 0.0
+  },
+  {
+    "from": 5.38,
+    "to": 6.94,
+    "sid": 5,
+    "location": 2,
+    "content": "如果你遇到过上述情况",
+    "music": 0.0
+  },
+  {
+    "from": 6.94,
+    "to": 8.92,
+    "sid": 6,
+    "location": 2,
+    "content": "很可能是产生了厌学情绪",
+    "music": 0.0
+  },
+  {
+    "from": 8.92,
+    "to": 10.72,
+    "sid": 7,
+    "location": 2,
+    "content": "那到底如何逼自己去学习",
+    "music": 0.0
+  },
+  {
+    "from": 10.72,
+    "to": 12.45,
+    "sid": 8,
+    "location": 2,
+    "content": "从厌学到爱学呢",
+    "music": 0.0
+  },
+  {
+    "from": 12.45,
+    "to": 14.07,
+    "sid": 9,
+    "location": 2,
+    "content": "我曾经很讨厌看书",
+    "music": 0.0
+  },
+  {
+    "from": 14.07,
+    "to": 16.23,
+    "sid": 10,
+    "location": 2,
+    "content": "现在却疯狂阅读800多小时",
+    "music": 0.0
+  },
+  {
+    "from": 16.23,
+    "to": 19.05,
+    "sid": 11,
+    "location": 2,
+    "content": "从成绩倒数的学渣逆袭考上一本毕业",
+    "music": 0.0
+  },
+  {
+    "from": 19.05,
+    "to": 21.16,
+    "sid": 12,
+    "location": 2,
+    "content": "拿到大厂零基础学设计",
+    "music": 0.0
+  },
+  {
+    "from": 21.16,
+    "to": 22.42,
+    "sid": 13,
+    "location": 2,
+    "content": "成为资深设计师",
+    "music": 0.0
+  },
+  {
+    "from": 22.42,
+    "to": 23.56,
+    "sid": 14,
+    "location": 2,
+    "content": "实现经济独立",
+    "music": 0.0
+  },
+  {
+    "from": 23.56,
+    "to": 26.7,
+    "sid": 15,
+    "location": 2,
+    "content": "这一路满满的学习动力都是用了这个方法",
+    "music": 0.0
+  },
+  {
+    "from": 26.7,
+    "to": 27.9,
+    "sid": 16,
+    "location": 2,
+    "content": "一目标驱动法",
+    "music": 0.0
+  },
+  {
+    "from": 27.9,
+    "to": 30.9,
+    "sid": 17,
+    "location": 2,
+    "content": "厌学是因为我们觉得正在做的事情很无趣",
+    "music": 0.0
+  },
+  {
+    "from": 30.9,
+    "to": 33.36,
+    "sid": 18,
+    "location": 2,
+    "content": "没有目标感或者目标设置不合理",
+    "music": 0.0
+  },
+  {
+    "from": 33.36,
+    "to": 35.58,
+    "sid": 19,
+    "location": 2,
+    "content": "所以第一步要找到内在驱动力",
+    "music": 0.0
+  },
+  {
+    "from": 35.58,
+    "to": 36.24,
+    "sid": 20,
+    "location": 2,
+    "content": "怎么做呢",
+    "music": 0.0
+  },
+  {
+    "from": 36.24,
+    "to": 37.14,
+    "sid": 21,
+    "location": 2,
+    "content": "拿出一张纸",
+    "music": 0.0
+  },
+  {
+    "from": 37.14,
+    "to": 39.66,
+    "sid": 22,
+    "location": 2,
+    "content": "把今年想要实现的目标全部写出来",
+    "music": 0.0
+  },
+  {
+    "from": 39.66,
+    "to": 41.4,
+    "sid": 23,
+    "location": 2,
+    "content": "比如我想要收获5万粉丝",
+    "music": 0.0
+  },
+  {
+    "from": 41.4,
+    "to": 43.44,
+    "sid": 24,
+    "location": 2,
+    "content": "我想拥有一辆自己的汽车",
+    "music": 0.0
+  },
+  {
+    "from": 43.44,
+    "to": 44.88,
+    "sid": 25,
+    "location": 2,
+    "content": "我想考雅思等等",
+    "music": 0.0
+  },
+  {
+    "from": 44.88,
+    "to": 47.26,
+    "sid": 26,
+    "location": 2,
+    "content": "根据目标再来拆解实现的路径",
+    "music": 0.0
+  },
+  {
+    "from": 47.26,
+    "to": 48.52,
+    "sid": 27,
+    "location": 2,
+    "content": "想要做好自媒体",
+    "music": 0.0
+  },
+  {
+    "from": 48.52,
+    "to": 50.26,
+    "sid": 28,
+    "location": 2,
+    "content": "就要多去拆解爆款视频",
+    "music": 0.0
+  },
+  {
+    "from": 50.26,
+    "to": 51.4,
+    "sid": 29,
+    "location": 2,
+    "content": "去学剪辑技巧",
+    "music": 0.0
+  },
+  {
+    "from": 51.4,
+    "to": 52.66,
+    "sid": 30,
+    "location": 2,
+    "content": "保持更新频率",
+    "music": 0.0
+  },
+  {
+    "from": 52.66,
+    "to": 53.7,
+    "sid": 31,
+    "location": 2,
+    "content": "想拥有一辆车",
+    "music": 0.0
+  },
+  {
+    "from": 53.7,
+    "to": 55.32,
+    "sid": 32,
+    "location": 2,
+    "content": "就要先去报名考驾照",
+    "music": 0.0
+  },
+  {
+    "from": 55.32,
+    "to": 57.24,
+    "sid": 33,
+    "location": 2,
+    "content": "把实现目标的路径都写出来",
+    "music": 0.0
+  },
+  {
+    "from": 57.24,
+    "to": 58.62,
+    "sid": 34,
+    "location": 2,
+    "content": "让目标可视化",
+    "music": 0.0
+  },
+  {
+    "from": 58.62,
+    "to": 59.76,
+    "sid": 35,
+    "location": 2,
+    "content": "在未来执行时",
+    "music": 0.0
+  },
+  {
+    "from": 59.76,
+    "to": 62.76,
+    "sid": 36,
+    "location": 2,
+    "content": "就会清晰地知道当下要做这件事情是为了什么",
+    "music": 0.0
+  },
+  {
+    "from": 62.76,
+    "to": 65.04,
+    "sid": 37,
+    "location": 2,
+    "content": "只有朝着心中的目标前进时",
+    "music": 0.0
+  },
+  {
+    "from": 65.04,
+    "to": 66.12,
+    "sid": 38,
+    "location": 2,
+    "content": "才会动力满满",
+    "music": 0.0
+  },
+  {
+    "from": 66.12,
+    "to": 67.26,
+    "sid": 39,
+    "location": 2,
+    "content": "二及时奖励",
+    "music": 0.0
+  },
+  {
+    "from": 67.26,
+    "to": 68.52,
+    "sid": 40,
+    "location": 2,
+    "content": "很多人玩游戏上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 68.52,
+    "to": 71.22,
+    "sid": 41,
+    "location": 2,
+    "content": "是因为闯关成功后会给你及时的奖励",
+    "music": 0.0
+  },
+  {
+    "from": 71.22,
+    "to": 72.4,
+    "sid": 42,
+    "location": 2,
+    "content": "让人产生信兴奋感",
+    "music": 0.0
+  },
+  {
+    "from": 72.4,
+    "to": 74.14,
+    "sid": 43,
+    "location": 2,
+    "content": "想要持续不断地爱上学习",
+    "music": 0.0
+  },
+  {
+    "from": 74.14,
+    "to": 77.82,
+    "sid": 44,
+    "location": 2,
+    "content": "也可以用同样的方法设置好目标的起点和终点",
+    "music": 0.0
+  },
+  {
+    "from": 77.82,
+    "to": 80.22,
+    "sid": 45,
+    "location": 2,
+    "content": "再把每个阶段的闯关目标画出来",
+    "music": 0.0
+  },
+  {
+    "from": 80.22,
+    "to": 81.96,
+    "sid": 46,
+    "location": 2,
+    "content": "让他像打游戏一样有趣",
+    "music": 0.0
+  },
+  {
+    "from": 81.96,
+    "to": 82.98,
+    "sid": 47,
+    "location": 2,
+    "content": "一旦闯关成功",
+    "music": 0.0
+  },
+  {
+    "from": 82.98,
+    "to": 84.48,
+    "sid": 48,
+    "location": 2,
+    "content": "就给自己一个小奖励",
+    "music": 0.0
+  },
+  {
+    "from": 84.48,
+    "to": 85.38,
+    "sid": 49,
+    "location": 2,
+    "content": "买件新衣服",
+    "music": 0.0
+  },
+  {
+    "from": 85.38,
+    "to": 87.68,
+    "sid": 50,
+    "location": 2,
+    "content": "看场电影等等都可以",
+    "music": 0.0
+  },
+  {
+    "from": 87.68,
+    "to": 90.1,
+    "sid": 51,
+    "location": 2,
+    "content": "只要奖励不与目标相违背就行",
+    "music": 0.0
+  },
+  {
+    "from": 90.1,
+    "to": 91.3,
+    "sid": 52,
+    "location": 2,
+    "content": "三高效休息",
+    "music": 0.0
+  },
+  {
+    "from": 91.3,
+    "to": 92.56,
+    "sid": 53,
+    "location": 2,
+    "content": "我身边有一些学霸",
+    "music": 0.0
+  },
+  {
+    "from": 92.56,
+    "to": 94.18,
+    "sid": 54,
+    "location": 2,
+    "content": "一直把自己逼得很紧绷",
+    "music": 0.0
+  },
+  {
+    "from": 94.18,
+    "to": 95.26,
+    "sid": 55,
+    "location": 2,
+    "content": "每天都活的很累",
+    "music": 0.0
+  },
+  {
+    "from": 95.26,
+    "to": 98.42,
+    "sid": 56,
+    "location": 2,
+    "content": "结果坚持不了多久就产生了想要放弃的念头",
+    "music": 0.0
+  },
+  {
+    "from": 98.42,
+    "to": 100.4,
+    "sid": 57,
+    "location": 2,
+    "content": "想要保持长久的学习动力",
+    "music": 0.0
+  },
+  {
+    "from": 100.4,
+    "to": 101.84,
+    "sid": 58,
+    "location": 2,
+    "content": "还要学会高效休息",
+    "music": 0.0
+  },
+  {
+    "from": 101.84,
+    "to": 103.79,
+    "sid": 59,
+    "location": 2,
+    "content": "心有猛虎也要细嗅蔷薇",
+    "music": 0.0
+  },
+  {
+    "from": 103.79,
+    "to": 106.58,
+    "sid": 60,
+    "location": 2,
+    "content": "高效休息可以让大脑开启发散模式",
+    "music": 0.0
+  },
+  {
+    "from": 106.58,
+    "to": 108.05,
+    "sid": 61,
+    "location": 2,
+    "content": "跳出原来的工作区",
+    "music": 0.0
+  },
+  {
+    "from": 108.05,
+    "to": 109.88,
+    "sid": 62,
+    "location": 2,
+    "content": "激发更有创造力的思考",
+    "music": 0.0
+  },
+  {
+    "from": 109.88,
+    "to": 113.7,
+    "sid": 63,
+    "location": 2,
+    "content": "建议每周花一到两天时间放下学习和工作任务",
+    "music": 0.0
+  },
+  {
+    "from": 113.7,
+    "to": 114.78,
+    "sid": 64,
+    "location": 2,
+    "content": "骑行去爬山",
+    "music": 0.0
+  },
+  {
+    "from": 114.78,
+    "to": 116.64,
+    "sid": 65,
+    "location": 2,
+    "content": "去参加社交活动等等",
+    "music": 0.0
+  },
+  {
+    "from": 116.64,
+    "to": 117.96,
+    "sid": 66,
+    "location": 2,
+    "content": "保持大脑灵活",
+    "music": 0.0
+  },
+  {
+    "from": 117.96,
+    "to": 120.32,
+    "sid": 67,
+    "location": 2,
+    "content": "才能拥有高能量的学习姿态",
+    "music": 0.0
+  },
+  {
+    "from": 120.32,
+    "to": 122.18,
+    "sid": 68,
+    "location": 2,
+    "content": "其实掌握了正确的方法",
+    "music": 0.0
+  },
+  {
+    "from": 122.18,
+    "to": 123.86,
+    "sid": 69,
+    "location": 2,
+    "content": "爱上学习并没有那么难",
+    "music": 0.0
+  },
+  {
+    "from": 123.86,
+    "to": 125.48,
+    "sid": 70,
+    "location": 2,
+    "content": "如果本期视频对你有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 125.48,
+    "to": 127.1,
+    "sid": 71,
+    "location": 2,
+    "content": "记得点赞收藏关注呀",
+    "music": 0.0
+  },
+  {
+    "from": 127.1,
+    "to": 127.7,
+    "sid": 72,
+    "location": 2,
+    "content": "我是小程",
+    "music": 0.0
+  },
+  {
+    "from": 127.7,
+    "to": 128.86,
+    "sid": 73,
+    "location": 2,
+    "content": "我们下期再见",
+    "music": 0.0
+  }
+]

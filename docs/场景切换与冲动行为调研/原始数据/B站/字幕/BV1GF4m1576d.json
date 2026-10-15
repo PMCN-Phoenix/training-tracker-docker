@@ -1,0 +1,1458 @@
+[
+  {
+    "from": 0.0,
+    "to": 1.92,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有过以下这种情况",
+    "music": 0.0
+  },
+  {
+    "from": 1.92,
+    "to": 3.0,
+    "sid": 2,
+    "location": 2,
+    "content": "明明正在写作业",
+    "music": 0.0
+  },
+  {
+    "from": 3.0,
+    "to": 4.32,
+    "sid": 3,
+    "location": 2,
+    "content": "突然就开始回忆自己",
+    "music": 0.0
+  },
+  {
+    "from": 4.32,
+    "to": 7.22,
+    "sid": 4,
+    "location": 2,
+    "content": "之前尴尬到脚趾抠地抓马事件里面",
+    "music": 0.0
+  },
+  {
+    "from": 7.22,
+    "to": 8.3,
+    "sid": 5,
+    "location": 2,
+    "content": "正在紧张的考试",
+    "music": 0.0
+  },
+  {
+    "from": 8.3,
+    "to": 10.28,
+    "sid": 6,
+    "location": 2,
+    "content": "脑子里突然就开始单曲循环",
+    "music": 0.0
+  },
+  {
+    "from": 10.28,
+    "to": 12.16,
+    "sid": 7,
+    "location": 2,
+    "content": "吵到连体干都读不下去了",
+    "music": 0.0
+  },
+  {
+    "from": 12.16,
+    "to": 13.78,
+    "sid": 8,
+    "location": 2,
+    "content": "里面正在安静的写作业",
+    "music": 0.0
+  },
+  {
+    "from": 13.78,
+    "to": 16.24,
+    "sid": 9,
+    "location": 2,
+    "content": "突然就开始想到自己上次和别人吵架",
+    "music": 0.0
+  },
+  {
+    "from": 16.24,
+    "to": 17.26,
+    "sid": 10,
+    "location": 2,
+    "content": "对线没发挥好",
+    "music": 0.0
+  },
+  {
+    "from": 17.26,
+    "to": 19.54,
+    "sid": 11,
+    "location": 2,
+    "content": "我当时就应该怎样怎样的怼她",
+    "music": 0.0
+  },
+  {
+    "from": 19.54,
+    "to": 22.08,
+    "sid": 12,
+    "location": 2,
+    "content": "想着想着脑子就不由自主地走神了",
+    "music": 0.0
+  },
+  {
+    "from": 22.08,
+    "to": 22.56,
+    "sid": 13,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 22.56,
+    "to": 23.7,
+    "sid": 14,
+    "location": 2,
+    "content": "你就开始责备自己",
+    "music": 0.0
+  },
+  {
+    "from": 23.7,
+    "to": 24.54,
+    "sid": 15,
+    "location": 2,
+    "content": "浪费了时间",
+    "music": 0.0
+  },
+  {
+    "from": 24.54,
+    "to": 25.2,
+    "sid": 16,
+    "location": 2,
+    "content": "开始焦虑",
+    "music": 0.0
+  },
+  {
+    "from": 25.2,
+    "to": 25.86,
+    "sid": 17,
+    "location": 2,
+    "content": "开始内耗",
+    "music": 0.0
+  },
+  {
+    "from": 25.86,
+    "to": 27.18,
+    "sid": 18,
+    "location": 2,
+    "content": "总觉得只要你走神了",
+    "music": 0.0
+  },
+  {
+    "from": 27.18,
+    "to": 28.46,
+    "sid": 19,
+    "location": 2,
+    "content": "那你这节课就跟不上了",
+    "music": 0.0
+  },
+  {
+    "from": 28.46,
+    "to": 29.78,
+    "sid": 20,
+    "location": 2,
+    "content": "你这次考试就考不好了",
+    "music": 0.0
+  },
+  {
+    "from": 29.78,
+    "to": 31.58,
+    "sid": 21,
+    "location": 2,
+    "content": "你今天的学习效率就变低了",
+    "music": 0.0
+  },
+  {
+    "from": 31.58,
+    "to": 34.16,
+    "sid": 22,
+    "location": 2,
+    "content": "但学姐我今天可以很负责任的告诉你",
+    "music": 0.0
+  },
+  {
+    "from": 34.16,
+    "to": 35.36,
+    "sid": 23,
+    "location": 2,
+    "content": "走神不是坏事",
+    "music": 0.0
+  },
+  {
+    "from": 35.36,
+    "to": 36.86,
+    "sid": 24,
+    "location": 2,
+    "content": "不走神才不正常呢",
+    "music": 0.0
+  },
+  {
+    "from": 36.86,
+    "to": 37.43,
+    "sid": 25,
+    "location": 2,
+    "content": "你是人",
+    "music": 0.0
+  },
+  {
+    "from": 37.43,
+    "to": 38.14,
+    "sid": 26,
+    "location": 2,
+    "content": "不是死人",
+    "music": 0.0
+  },
+  {
+    "from": 38.14,
+    "to": 40.0,
+    "sid": 27,
+    "location": 2,
+    "content": "更不是冰冷的学习机器",
+    "music": 0.0
+  },
+  {
+    "from": 40.0,
+    "to": 41.02,
+    "sid": 28,
+    "location": 2,
+    "content": "走神很正常",
+    "music": 0.0
+  },
+  {
+    "from": 41.02,
+    "to": 42.1,
+    "sid": 29,
+    "location": 2,
+    "content": "和你肚子会饿",
+    "music": 0.0
+  },
+  {
+    "from": 42.1,
+    "to": 43.12,
+    "sid": 30,
+    "location": 2,
+    "content": "晚上会困一样",
+    "music": 0.0
+  },
+  {
+    "from": 43.12,
+    "to": 45.24,
+    "sid": 31,
+    "location": 2,
+    "content": "都是很正常的生理现象",
+    "music": 0.0
+  },
+  {
+    "from": 45.24,
+    "to": 46.5,
+    "sid": 32,
+    "location": 2,
+    "content": "思维本来就是这样",
+    "music": 0.0
+  },
+  {
+    "from": 46.5,
+    "to": 49.14,
+    "sid": 33,
+    "location": 2,
+    "content": "乱七八糟天马行空的胡思乱想",
+    "music": 0.0
+  },
+  {
+    "from": 49.14,
+    "to": 50.7,
+    "sid": 34,
+    "location": 2,
+    "content": "所以一旦发现自己走神了",
+    "music": 0.0
+  },
+  {
+    "from": 50.7,
+    "to": 52.3,
+    "sid": 35,
+    "location": 2,
+    "content": "不要要下意识责备自己",
+    "music": 0.0
+  },
+  {
+    "from": 52.3,
+    "to": 53.86,
+    "sid": 36,
+    "location": 2,
+    "content": "而应该夸奖自己",
+    "music": 0.0
+  },
+  {
+    "from": 53.86,
+    "to": 54.88,
+    "sid": 37,
+    "location": 2,
+    "content": "夸自己真棒",
+    "music": 0.0
+  },
+  {
+    "from": 54.88,
+    "to": 55.38,
+    "sid": 38,
+    "location": 2,
+    "content": "真厉害",
+    "music": 0.0
+  },
+  {
+    "from": 55.38,
+    "to": 58.62,
+    "sid": 39,
+    "location": 2,
+    "content": "竟然这么快就从走神的虚拟世界逃出来了",
+    "music": 0.0
+  },
+  {
+    "from": 58.62,
+    "to": 60.42,
+    "sid": 40,
+    "location": 2,
+    "content": "又可以重新投入到学习上面了",
+    "music": 0.0
+  },
+  {
+    "from": 60.42,
+    "to": 61.08,
+    "sid": 41,
+    "location": 2,
+    "content": "那走神后",
+    "music": 0.0
+  },
+  {
+    "from": 61.08,
+    "to": 63.3,
+    "sid": 42,
+    "location": 2,
+    "content": "有没有什么方法能让你快速集中注意力",
+    "music": 0.0
+  },
+  {
+    "from": 63.3,
+    "to": 65.08,
+    "sid": 43,
+    "location": 2,
+    "content": "重新进入学习状态呢",
+    "music": 0.0
+  },
+  {
+    "from": 65.08,
+    "to": 65.56,
+    "sid": 44,
+    "location": 2,
+    "content": "当然有",
+    "music": 0.0
+  },
+  {
+    "from": 65.56,
+    "to": 68.44,
+    "sid": 45,
+    "location": 2,
+    "content": "顺便给大家分享四个简单好上手的小方法",
+    "music": 0.0
+  },
+  {
+    "from": 68.44,
+    "to": 70.96,
+    "sid": 46,
+    "location": 2,
+    "content": "保证每个人都能毫不费力的轻松用上",
+    "music": 0.0
+  },
+  {
+    "from": 70.96,
+    "to": 72.6,
+    "sid": 47,
+    "location": 2,
+    "content": "帮你快速恢复专注力",
+    "music": 0.0
+  },
+  {
+    "from": 72.6,
+    "to": 76.2,
+    "sid": 48,
+    "location": 2,
+    "content": "成为冷静高校完全不受外界打扰的学习机器",
+    "music": 0.0
+  },
+  {
+    "from": 76.2,
+    "to": 77.56,
+    "sid": 49,
+    "location": 2,
+    "content": "第一纸团记录法",
+    "music": 0.0
+  },
+  {
+    "from": 77.56,
+    "to": 79.42,
+    "sid": 50,
+    "location": 2,
+    "content": "也就是当你发现自己走神以后",
+    "music": 0.0
+  },
+  {
+    "from": 79.42,
+    "to": 81.28,
+    "sid": 51,
+    "location": 2,
+    "content": "立马捕捉住刚才脑子里的想法",
+    "music": 0.0
+  },
+  {
+    "from": 81.28,
+    "to": 82.14,
+    "sid": 52,
+    "location": 2,
+    "content": "然后写下来",
+    "music": 0.0
+  },
+  {
+    "from": 82.14,
+    "to": 84.66,
+    "sid": 53,
+    "location": 2,
+    "content": "如果刚才走神想的是一件比较重要的事情",
+    "music": 0.0
+  },
+  {
+    "from": 84.66,
+    "to": 86.1,
+    "sid": 54,
+    "location": 2,
+    "content": "比如下午要交数学作业了",
+    "music": 0.0
+  },
+  {
+    "from": 86.1,
+    "to": 86.88,
+    "sid": 55,
+    "location": 2,
+    "content": "但是你还没",
+    "music": 0.0
+  },
+  {
+    "from": 86.88,
+    "to": 89.16,
+    "sid": 56,
+    "location": 2,
+    "content": "那你就立刻把这件事情写下来",
+    "music": 0.0
+  },
+  {
+    "from": 89.16,
+    "to": 90.36,
+    "sid": 57,
+    "location": 2,
+    "content": "下课统一解决",
+    "music": 0.0
+  },
+  {
+    "from": 90.36,
+    "to": 93.06,
+    "sid": 58,
+    "location": 2,
+    "content": "但如果刚才走神想的是一些毫无营养的杂事",
+    "music": 0.0
+  },
+  {
+    "from": 93.06,
+    "to": 95.22,
+    "sid": 59,
+    "location": 2,
+    "content": "那就在纸上随便画个自己喜欢的图案",
+    "music": 0.0
+  },
+  {
+    "from": 95.22,
+    "to": 97.14,
+    "sid": 60,
+    "location": 2,
+    "content": "然后揉成团直接扔掉",
+    "music": 0.0
+  },
+  {
+    "from": 97.14,
+    "to": 98.28,
+    "sid": 61,
+    "location": 2,
+    "content": "就像清理垃圾一样",
+    "music": 0.0
+  },
+  {
+    "from": 98.28,
+    "to": 100.92,
+    "sid": 62,
+    "location": 2,
+    "content": "把这些垃圾想法从脑子里彻底清楚",
+    "music": 0.0
+  },
+  {
+    "from": 100.92,
+    "to": 102.32,
+    "sid": 63,
+    "location": 2,
+    "content": "第25分钟起步法",
+    "music": 0.0
+  },
+  {
+    "from": 102.32,
+    "to": 103.82,
+    "sid": 64,
+    "location": 2,
+    "content": "也就是开始做一件事情前",
+    "music": 0.0
+  },
+  {
+    "from": 103.82,
+    "to": 106.14,
+    "sid": 65,
+    "location": 2,
+    "content": "先给自己5分钟的起步时间",
+    "music": 0.0
+  },
+  {
+    "from": 106.14,
+    "to": 107.82,
+    "sid": 66,
+    "location": 2,
+    "content": "就像打游戏有开屏动画",
+    "music": 0.0
+  },
+  {
+    "from": 107.82,
+    "to": 109.62,
+    "sid": 67,
+    "location": 2,
+    "content": "电脑开机有开机动画一样",
+    "music": 0.0
+  },
+  {
+    "from": 109.62,
+    "to": 111.56,
+    "sid": 68,
+    "location": 2,
+    "content": "都需要一小段儿准备时间",
+    "music": 0.0
+  },
+  {
+    "from": 111.56,
+    "to": 112.16,
+    "sid": 69,
+    "location": 2,
+    "content": "一旦过去了",
+    "music": 0.0
+  },
+  {
+    "from": 112.16,
+    "to": 114.98,
+    "sid": 70,
+    "location": 2,
+    "content": "这段时间后面就会像德芙一样丝滑顺畅",
+    "music": 0.0
+  },
+  {
+    "from": 114.98,
+    "to": 118.12,
+    "sid": 71,
+    "location": 2,
+    "content": "你也就会进入到一种学到停不下来的心流状态",
+    "music": 0.0
+  },
+  {
+    "from": 118.12,
+    "to": 121.42,
+    "sid": 72,
+    "location": 2,
+    "content": "你甚至会感觉上厕所和吃饭都在浪费你的时间",
+    "music": 0.0
+  },
+  {
+    "from": 121.42,
+    "to": 122.5,
+    "sid": 73,
+    "location": 2,
+    "content": "打断你的节奏",
+    "music": 0.0
+  },
+  {
+    "from": 122.5,
+    "to": 123.56,
+    "sid": 74,
+    "location": 2,
+    "content": "影响你你的逆袭",
+    "music": 0.0
+  },
+  {
+    "from": 123.56,
+    "to": 126.86,
+    "sid": 75,
+    "location": 2,
+    "content": "但99%的同学其实都死在了起步阶段",
+    "music": 0.0
+  },
+  {
+    "from": 126.86,
+    "to": 127.92,
+    "sid": 76,
+    "location": 2,
+    "content": "因为你排斥学习",
+    "music": 0.0
+  },
+  {
+    "from": 127.92,
+    "to": 128.28,
+    "sid": 77,
+    "location": 2,
+    "content": "几岁",
+    "music": 0.0
+  },
+  {
+    "from": 128.28,
+    "to": 130.74,
+    "sid": 78,
+    "location": 2,
+    "content": "大部分时间你都会直接选择放弃",
+    "music": 0.0
+  },
+  {
+    "from": 130.74,
+    "to": 132.6,
+    "sid": 79,
+    "location": 2,
+    "content": "转而开始玩手机刷视频",
+    "music": 0.0
+  },
+  {
+    "from": 132.6,
+    "to": 134.92,
+    "sid": 80,
+    "location": 2,
+    "content": "但其实只要你给自己5分钟的起步",
+    "music": 0.0
+  },
+  {
+    "from": 134.92,
+    "to": 137.62,
+    "sid": 81,
+    "location": 2,
+    "content": "你就会发现自己也能像班里的那些学习机器",
+    "music": 0.0
+  },
+  {
+    "from": 137.62,
+    "to": 137.82,
+    "sid": 82,
+    "location": 2,
+    "content": "一样",
+    "music": 0.0
+  },
+  {
+    "from": 137.82,
+    "to": 140.28,
+    "sid": 83,
+    "location": 2,
+    "content": "可以随时随地进入心流状态",
+    "music": 0.0
+  },
+  {
+    "from": 140.28,
+    "to": 142.26,
+    "sid": 84,
+    "location": 2,
+    "content": "毕竟你和学霸差的其实不是天赋",
+    "music": 0.0
+  },
+  {
+    "from": 142.26,
+    "to": 142.92,
+    "sid": 85,
+    "location": 2,
+    "content": "不是至上",
+    "music": 0.0
+  },
+  {
+    "from": 142.92,
+    "to": 144.96,
+    "sid": 86,
+    "location": 2,
+    "content": "而仅仅只是5分钟而已",
+    "music": 0.0
+  },
+  {
+    "from": 144.96,
+    "to": 146.22,
+    "sid": 87,
+    "location": 2,
+    "content": "比如对应到学习上",
+    "music": 0.0
+  },
+  {
+    "from": 146.22,
+    "to": 147.78,
+    "sid": 88,
+    "location": 2,
+    "content": "当你不想写数学作业的时候",
+    "music": 0.0
+  },
+  {
+    "from": 147.78,
+    "to": 149.76,
+    "sid": 89,
+    "location": 2,
+    "content": "你就可以先找出一份数学卷子",
+    "music": 0.0
+  },
+  {
+    "from": 149.76,
+    "to": 151.36,
+    "sid": 90,
+    "location": 2,
+    "content": "做一下前三道选择题",
+    "music": 0.0
+  },
+  {
+    "from": 151.36,
+    "to": 154.72,
+    "sid": 91,
+    "location": 2,
+    "content": "通过简单题来引导自己进入学习状态",
+    "music": 0.0
+  },
+  {
+    "from": 154.72,
+    "to": 156.42,
+    "sid": 92,
+    "location": 2,
+    "content": "又比如当你不想背单的时候",
+    "music": 0.0
+  },
+  {
+    "from": 156.42,
+    "to": 157.5,
+    "sid": 93,
+    "location": 2,
+    "content": "就可以先朗读",
+    "music": 0.0
+  },
+  {
+    "from": 157.5,
+    "to": 158.4,
+    "sid": 94,
+    "location": 2,
+    "content": "不求背过",
+    "music": 0.0
+  },
+  {
+    "from": 158.4,
+    "to": 160.26,
+    "sid": 95,
+    "location": 2,
+    "content": "就自己在那里读个5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 160.26,
+    "to": 162.12,
+    "sid": 96,
+    "location": 2,
+    "content": "读着读着你就会慢慢进入状态",
+    "music": 0.0
+  },
+  {
+    "from": 162.12,
+    "to": 163.92,
+    "sid": 97,
+    "location": 2,
+    "content": "单词背起来咔咔的快",
+    "music": 0.0
+  },
+  {
+    "from": 163.92,
+    "to": 165.4,
+    "sid": 98,
+    "location": 2,
+    "content": "第三全身投入",
+    "music": 0.0
+  },
+  {
+    "from": 165.4,
+    "to": 166.24,
+    "sid": 99,
+    "location": 2,
+    "content": "注意是深",
+    "music": 0.0
+  },
+  {
+    "from": 166.24,
+    "to": 167.04,
+    "sid": 100,
+    "location": 2,
+    "content": "而不是神",
+    "music": 0.0
+  },
+  {
+    "from": 167.04,
+    "to": 168.96,
+    "sid": 101,
+    "location": 2,
+    "content": "很多老师很多博主都会跟你说",
+    "music": 0.0
+  },
+  {
+    "from": 168.96,
+    "to": 171.06,
+    "sid": 102,
+    "location": 2,
+    "content": "你学习的时候一定要全神贯注啊",
+    "music": 0.0
+  },
+  {
+    "from": 171.06,
+    "to": 172.44,
+    "sid": 103,
+    "location": 2,
+    "content": "一定要集中注意力啊",
+    "music": 0.0
+  },
+  {
+    "from": 172.44,
+    "to": 173.76,
+    "sid": 104,
+    "location": 2,
+    "content": "道理我当然知道了",
+    "music": 0.0
+  },
+  {
+    "from": 173.76,
+    "to": 175.72,
+    "sid": 105,
+    "location": 2,
+    "content": "但注意力到底是个什么东西呢",
+    "music": 0.0
+  },
+  {
+    "from": 175.72,
+    "to": 177.88,
+    "sid": 106,
+    "location": 2,
+    "content": "我怎么知道自己有没有集中注意力呢",
+    "music": 0.0
+  },
+  {
+    "from": 177.88,
+    "to": 179.14,
+    "sid": 107,
+    "location": 2,
+    "content": "我也想全神贯注啊",
+    "music": 0.0
+  },
+  {
+    "from": 179.14,
+    "to": 181.36,
+    "sid": 108,
+    "location": 2,
+    "content": "但我就是看上去就是投入不进去",
+    "music": 0.0
+  },
+  {
+    "from": 181.36,
+    "to": 182.08,
+    "sid": 109,
+    "location": 2,
+    "content": "怎么办呢",
+    "music": 0.0
+  },
+  {
+    "from": 182.08,
+    "to": 183.4,
+    "sid": 110,
+    "location": 2,
+    "content": "因为他们告诉你的方法",
+    "music": 0.0
+  },
+  {
+    "from": 183.4,
+    "to": 185.26,
+    "sid": 111,
+    "location": 2,
+    "content": "根本没有有任何实操性和落地性",
+    "music": 0.0
+  },
+  {
+    "from": 185.26,
+    "to": 186.52,
+    "sid": 112,
+    "location": 2,
+    "content": "你自然就用不上了",
+    "music": 0.0
+  },
+  {
+    "from": 186.52,
+    "to": 188.38,
+    "sid": 113,
+    "location": 2,
+    "content": "而我现在告诉你的全身投入",
+    "music": 0.0
+  },
+  {
+    "from": 188.38,
+    "to": 190.82,
+    "sid": 114,
+    "location": 2,
+    "content": "这个方法却是听完以后能直接用上",
+    "music": 0.0
+  },
+  {
+    "from": 190.82,
+    "to": 193.28,
+    "sid": 115,
+    "location": 2,
+    "content": "并且效果立竿见影的全身投入",
+    "music": 0.0
+  },
+  {
+    "from": 193.28,
+    "to": 194.64,
+    "sid": 116,
+    "location": 2,
+    "content": "这个方法的关键就在于",
+    "music": 0.0
+  },
+  {
+    "from": 194.64,
+    "to": 196.44,
+    "sid": 117,
+    "location": 2,
+    "content": "也就是不管你去学什么",
+    "music": 0.0
+  },
+  {
+    "from": 196.44,
+    "to": 199.46,
+    "sid": 118,
+    "location": 2,
+    "content": "一定要尽量把自己所有的感官都调动起来",
+    "music": 0.0
+  },
+  {
+    "from": 199.46,
+    "to": 201.92,
+    "sid": 119,
+    "location": 2,
+    "content": "你的身体尽可能参与到学习这件事",
+    "music": 0.0
+  },
+  {
+    "from": 201.92,
+    "to": 203.6,
+    "sid": 120,
+    "location": 2,
+    "content": "那么注意力自然就会集中起来",
+    "music": 0.0
+  },
+  {
+    "from": 203.6,
+    "to": 205.16,
+    "sid": 121,
+    "location": 2,
+    "content": "从而进入心流状态了",
+    "music": 0.0
+  },
+  {
+    "from": 205.16,
+    "to": 207.32,
+    "sid": 122,
+    "location": 2,
+    "content": "比如听课的时候一定要一边听一边写",
+    "music": 0.0
+  },
+  {
+    "from": 207.32,
+    "to": 208.52,
+    "sid": 123,
+    "location": 2,
+    "content": "写什么东西不重要",
+    "music": 0.0
+  },
+  {
+    "from": 208.52,
+    "to": 209.38,
+    "sid": 124,
+    "location": 2,
+    "content": "记笔记也还好",
+    "music": 0.0
+  },
+  {
+    "from": 209.38,
+    "to": 211.54,
+    "sid": 125,
+    "location": 2,
+    "content": "随便记几个老师讲课的关键词也罢",
+    "music": 0.0
+  },
+  {
+    "from": 211.54,
+    "to": 212.98,
+    "sid": 126,
+    "location": 2,
+    "content": "关键在于写的过程",
+    "music": 0.0
+  },
+  {
+    "from": 212.98,
+    "to": 215.8,
+    "sid": 127,
+    "location": 2,
+    "content": "在于你调动自己的手动起来的这个过程",
+    "music": 0.0
+  },
+  {
+    "from": 215.8,
+    "to": 217.96,
+    "sid": 128,
+    "location": 2,
+    "content": "大家明后天开学上课的时候就可以试试",
+    "music": 0.0
+  },
+  {
+    "from": 217.96,
+    "to": 218.56,
+    "sid": 129,
+    "location": 2,
+    "content": "这个方法",
+    "music": 0.0
+  },
+  {
+    "from": 218.56,
+    "to": 221.08,
+    "sid": 130,
+    "location": 2,
+    "content": "绝对能让你感受到不一样的课堂效果",
+    "music": 0.0
+  },
+  {
+    "from": 221.08,
+    "to": 222.98,
+    "sid": 131,
+    "location": 2,
+    "content": "收获十倍的提分效率",
+    "music": 0.0
+  },
+  {
+    "from": 222.98,
+    "to": 224.42,
+    "sid": 132,
+    "location": 2,
+    "content": "第四限时训练法",
+    "music": 0.0
+  },
+  {
+    "from": 224.42,
+    "to": 226.34,
+    "sid": 133,
+    "location": 2,
+    "content": "如果你做作业的时候总想看手机",
+    "music": 0.0
+  },
+  {
+    "from": 226.34,
+    "to": 228.04,
+    "sid": 134,
+    "location": 2,
+    "content": "听课的时候总是不由自主地",
+    "music": 0.0
+  },
+  {
+    "from": 228.04,
+    "to": 229.78,
+    "sid": 135,
+    "location": 2,
+    "content": "那你就是专注力不够用",
+    "music": 0.0
+  },
+  {
+    "from": 229.78,
+    "to": 231.52,
+    "sid": 136,
+    "location": 2,
+    "content": "现实训练这个方法就对了",
+    "music": 0.0
+  },
+  {
+    "from": 231.52,
+    "to": 232.66,
+    "sid": 137,
+    "location": 2,
+    "content": "具体实操呢就是说",
+    "music": 0.0
+  },
+  {
+    "from": 232.66,
+    "to": 234.7,
+    "sid": 138,
+    "location": 2,
+    "content": "当你准备去进行一项学习任务前",
+    "music": 0.0
+  },
+  {
+    "from": 234.7,
+    "to": 235.96,
+    "sid": 139,
+    "location": 2,
+    "content": "先给自己限定好",
+    "music": 0.0
+  },
+  {
+    "from": 235.96,
+    "to": 236.86,
+    "sid": 140,
+    "location": 2,
+    "content": "完成这项任务",
+    "music": 0.0
+  },
+  {
+    "from": 236.86,
+    "to": 240.22,
+    "sid": 141,
+    "location": 2,
+    "content": "你需要花费的时间在心理层面给自己以紧迫感",
+    "music": 0.0
+  },
+  {
+    "from": 240.22,
+    "to": 241.12,
+    "sid": 142,
+    "location": 2,
+    "content": "从而逼迫自己",
+    "music": 0.0
+  },
+  {
+    "from": 241.12,
+    "to": 243.82,
+    "sid": 143,
+    "location": 2,
+    "content": "以高考的状态来迎接接下来的学习任务",
+    "music": 0.0
+  },
+  {
+    "from": 243.82,
+    "to": 244.96,
+    "sid": 144,
+    "location": 2,
+    "content": "高考的状态是什么",
+    "music": 0.0
+  },
+  {
+    "from": 244.96,
+    "to": 246.34,
+    "sid": 145,
+    "location": 2,
+    "content": "一定是注意力高度集中",
+    "music": 0.0
+  },
+  {
+    "from": 246.34,
+    "to": 248.44,
+    "sid": 146,
+    "location": 2,
+    "content": "恨不得争分夺秒地去完成考试",
+    "music": 0.0
+  },
+  {
+    "from": 248.44,
+    "to": 251.02,
+    "sid": 147,
+    "location": 2,
+    "content": "甚至连考试前的发卷时间你都不想错过",
+    "music": 0.0
+  },
+  {
+    "from": 251.02,
+    "to": 251.92,
+    "sid": 148,
+    "location": 2,
+    "content": "虽然不能动笔",
+    "music": 0.0
+  },
+  {
+    "from": 251.92,
+    "to": 254.32,
+    "sid": 149,
+    "location": 2,
+    "content": "但脑子里早就开始想第一题怎么做了",
+    "music": 0.0
+  },
+  {
+    "from": 254.32,
+    "to": 256.18,
+    "sid": 150,
+    "location": 2,
+    "content": "完全就是饿虎扑食的状态",
+    "music": 0.0
+  },
+  {
+    "from": 256.18,
+    "to": 257.74,
+    "sid": 151,
+    "location": 2,
+    "content": "但为什么我们考试的时候",
+    "music": 0.0
+  },
+  {
+    "from": 257.74,
+    "to": 259.3,
+    "sid": 152,
+    "location": 2,
+    "content": "就可以轻松进入这种状态",
+    "music": 0.0
+  },
+  {
+    "from": 259.3,
+    "to": 261.4,
+    "sid": 153,
+    "location": 2,
+    "content": "但平时学习却总是松松散散",
+    "music": 0.0
+  },
+  {
+    "from": 261.4,
+    "to": 262.66,
+    "sid": 154,
+    "location": 2,
+    "content": "集中不了注意力呢",
+    "music": 0.0
+  },
+  {
+    "from": 262.66,
+    "to": 264.62,
+    "sid": 155,
+    "location": 2,
+    "content": "因为你缺触发开关",
+    "music": 0.0
+  },
+  {
+    "from": 264.62,
+    "to": 267.8,
+    "sid": 156,
+    "location": 2,
+    "content": "而现实训练设置DTL就是这个开关",
+    "music": 0.0
+  },
+  {
+    "from": 267.8,
+    "to": 269.24,
+    "sid": 157,
+    "location": 2,
+    "content": "最后呢你能看到这里",
+    "music": 0.0
+  },
+  {
+    "from": 269.24,
+    "to": 270.68,
+    "sid": 158,
+    "location": 2,
+    "content": "说明你真的想提分",
+    "music": 0.0
+  },
+  {
+    "from": 270.68,
+    "to": 272.18,
+    "sid": 159,
+    "location": 2,
+    "content": "也绝对有耐心和毅力",
+    "music": 0.0
+  },
+  {
+    "from": 272.18,
+    "to": 274.4,
+    "sid": 160,
+    "location": 2,
+    "content": "为了奖励这么有耐心和毅力的你",
+    "music": 0.0
+  },
+  {
+    "from": 274.4,
+    "to": 277.0,
+    "sid": 161,
+    "location": 2,
+    "content": "小麦老师再送你一次分析成绩的机会",
+    "music": 0.0
+  },
+  {
+    "from": 277.0,
+    "to": 279.94,
+    "sid": 162,
+    "location": 2,
+    "content": "小曼老师已经帮数万名同学进行了分数分析",
+    "music": 0.0
+  },
+  {
+    "from": 279.94,
+    "to": 281.14,
+    "sid": 163,
+    "location": 2,
+    "content": "帮他们一针见血地",
+    "music": 0.0
+  },
+  {
+    "from": 281.14,
+    "to": 282.98,
+    "sid": 164,
+    "location": 2,
+    "content": "指出了现阶段最大的学习问题",
+    "music": 0.0
+  },
+  {
+    "from": 282.98,
+    "to": 285.2,
+    "sid": 165,
+    "location": 2,
+    "content": "所以如果你搞不懂自己现在的学习问题",
+    "music": 0.0
+  },
+  {
+    "from": 285.2,
+    "to": 287.24,
+    "sid": 166,
+    "location": 2,
+    "content": "不清楚最适合自己的学习路径",
+    "music": 0.0
+  },
+  {
+    "from": 287.24,
+    "to": 290.3,
+    "sid": 167,
+    "location": 2,
+    "content": "都可以通过置顶评论的蓝色链接添加小麦学姐",
+    "music": 0.0
+  },
+  {
+    "from": 290.3,
+    "to": 292.38,
+    "sid": 168,
+    "location": 2,
+    "content": "领取你的一对一诊断分析",
+    "music": 0.0
+  },
+  {
+    "from": 292.38,
+    "to": 294.54,
+    "sid": 169,
+    "location": 2,
+    "content": "但是我只帮助有野心的同学",
+    "music": 0.0
+  },
+  {
+    "from": 294.54,
+    "to": 296.44,
+    "sid": 170,
+    "location": 2,
+    "content": "一键三连的会优先通过哦",
+    "music": 0.0
+  },
+  {
+    "from": 296.44,
+    "to": 297.94,
+    "sid": 171,
+    "location": 2,
+    "content": "学姐会帮你分析成绩",
+    "music": 0.0
+  },
+  {
+    "from": 297.94,
+    "to": 299.44,
+    "sid": 172,
+    "location": 2,
+    "content": "找出你现在提不了分的问题",
+    "music": 0.0
+  },
+  {
+    "from": 299.44,
+    "to": 301.48,
+    "sid": 173,
+    "location": 2,
+    "content": "并且给出短期内可以让你提分",
+    "music": 0.0
+  },
+  {
+    "from": 301.48,
+    "to": 303.12,
+    "sid": 174,
+    "location": 2,
+    "content": "最大化的学习方向",
+    "music": 0.0
+  },
+  {
+    "from": 303.12,
+    "to": 303.3,
+    "sid": 175,
+    "location": 2,
+    "content": "Ok",
+    "music": 0.0
+  },
+  {
+    "from": 303.3,
+    "to": 306.12,
+    "sid": 176,
+    "location": 2,
+    "content": "这期视频就先分享这么多提分经验和学习资料",
+    "music": 0.0
+  },
+  {
+    "from": 306.12,
+    "to": 307.56,
+    "sid": 177,
+    "location": 2,
+    "content": "学姐后续也会继续分享",
+    "music": 0.0
+  },
+  {
+    "from": 307.56,
+    "to": 309.12,
+    "sid": 178,
+    "location": 2,
+    "content": "高考全科阶段如何高效提分",
+    "music": 0.0
+  },
+  {
+    "from": 309.12,
+    "to": 310.02,
+    "sid": 179,
+    "location": 2,
+    "content": "如何调节心态",
+    "music": 0.0
+  },
+  {
+    "from": 310.02,
+    "to": 312.94,
+    "sid": 180,
+    "location": 2,
+    "content": "如何备战高考的全流程备考指南",
+    "music": 0.0
+  },
+  {
+    "from": 312.94,
+    "to": 314.74,
+    "sid": 181,
+    "location": 2,
+    "content": "大家千万别忘了三连加关注哦",
+    "music": 0.0
+  },
+  {
+    "from": 314.74,
+    "to": 315.8,
+    "sid": 182,
+    "location": 2,
+    "content": "我们下期再见",
+    "music": 0.0
+  }
+]

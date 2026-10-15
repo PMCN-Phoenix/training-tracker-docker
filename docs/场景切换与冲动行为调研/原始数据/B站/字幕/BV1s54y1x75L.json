@@ -1,0 +1,1634 @@
+[
+  {
+    "from": 0.12,
+    "to": 1.92,
+    "sid": 1,
+    "location": 2,
+    "content": "欢迎来到蜡小新的学习频道",
+    "music": 0.0
+  },
+  {
+    "from": 1.92,
+    "to": 2.46,
+    "sid": 2,
+    "location": 2,
+    "content": "我是蜡笔",
+    "music": 0.0
+  },
+  {
+    "from": 2.46,
+    "to": 3.6,
+    "sid": 3,
+    "location": 2,
+    "content": "我是小保镖",
+    "music": 0.0
+  },
+  {
+    "from": 3.6,
+    "to": 6.06,
+    "sid": 4,
+    "location": 2,
+    "content": "今天我们要介绍的是自我控制方面的",
+    "music": 0.0
+  },
+  {
+    "from": 6.06,
+    "to": 6.84,
+    "sid": 5,
+    "location": 2,
+    "content": "心理学知识",
+    "music": 0.0
+  },
+  {
+    "from": 6.84,
+    "to": 9.82,
+    "sid": 6,
+    "location": 2,
+    "content": "并给出有效提升自控力的使用手段",
+    "music": 0.0
+  },
+  {
+    "from": 9.82,
+    "to": 17.28,
+    "sid": 7,
+    "location": 2,
+    "content": "让你从此爱上学习啊",
+    "music": 0.0
+  },
+  {
+    "from": 17.28,
+    "to": 19.2,
+    "sid": 8,
+    "location": 2,
+    "content": "当你每次不想学习的时候",
+    "music": 0.0
+  },
+  {
+    "from": 19.2,
+    "to": 21.02,
+    "sid": 9,
+    "location": 2,
+    "content": "你有两种方式来激励自己",
+    "music": 0.0
+  },
+  {
+    "from": 21.02,
+    "to": 22.58,
+    "sid": 10,
+    "location": 2,
+    "content": "一种是正面激励",
+    "music": 0.0
+  },
+  {
+    "from": 22.58,
+    "to": 24.14,
+    "sid": 11,
+    "location": 2,
+    "content": "比如思考远大理想",
+    "music": 0.0
+  },
+  {
+    "from": 24.14,
+    "to": 25.34,
+    "sid": 12,
+    "location": 2,
+    "content": "我要高考逆袭",
+    "music": 0.0
+  },
+  {
+    "from": 25.34,
+    "to": 26.6,
+    "sid": 13,
+    "location": 2,
+    "content": "我要考研上岸",
+    "music": 0.0
+  },
+  {
+    "from": 26.6,
+    "to": 27.58,
+    "sid": 14,
+    "location": 2,
+    "content": "我要上酒吧",
+    "music": 0.0
+  },
+  {
+    "from": 27.58,
+    "to": 29.32,
+    "sid": 15,
+    "location": 2,
+    "content": "另一种是反面恐吓",
+    "music": 0.0
+  },
+  {
+    "from": 29.32,
+    "to": 31.12,
+    "sid": 16,
+    "location": 2,
+    "content": "比如思考环境的恶劣",
+    "music": 0.0
+  },
+  {
+    "from": 31.12,
+    "to": 32.44,
+    "sid": 17,
+    "location": 2,
+    "content": "内卷学历歧视",
+    "music": 0.0
+  },
+  {
+    "from": 32.44,
+    "to": 33.7,
+    "sid": 18,
+    "location": 2,
+    "content": "不努力没活路",
+    "music": 0.0
+  },
+  {
+    "from": 33.7,
+    "to": 34.78,
+    "sid": 19,
+    "location": 2,
+    "content": "你以为这样有用",
+    "music": 0.0
+  },
+  {
+    "from": 34.78,
+    "to": 36.49,
+    "sid": 20,
+    "location": 2,
+    "content": "实际却恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 36.49,
+    "to": 38.62,
+    "sid": 21,
+    "location": 2,
+    "content": "因为目标过大过远",
+    "music": 0.0
+  },
+  {
+    "from": 38.62,
+    "to": 42.36,
+    "sid": 22,
+    "location": 2,
+    "content": "给你造成了一种望尘莫及的无力感",
+    "music": 0.0
+  },
+  {
+    "from": 44.44,
+    "to": 47.1,
+    "sid": 23,
+    "location": 2,
+    "content": "从而进入一个恶性循环",
+    "music": 0.0
+  },
+  {
+    "from": 47.1,
+    "to": 50.21,
+    "sid": 24,
+    "location": 2,
+    "content": "思考远大目标产生无力感",
+    "music": 0.0
+  },
+  {
+    "from": 50.21,
+    "to": 51.68,
+    "sid": 25,
+    "location": 2,
+    "content": "学习动力下降",
+    "music": 0.0
+  },
+  {
+    "from": 51.68,
+    "to": 52.82,
+    "sid": 26,
+    "location": 2,
+    "content": "更加无力",
+    "music": 0.0
+  },
+  {
+    "from": 52.82,
+    "to": 55.3,
+    "sid": 27,
+    "location": 2,
+    "content": "学习动力继续下降",
+    "music": 0.0
+  },
+  {
+    "from": 55.3,
+    "to": 59.68,
+    "sid": 28,
+    "location": 2,
+    "content": "我们发现你把学习和无力感联系在了一起",
+    "music": 0.0
+  },
+  {
+    "from": 59.68,
+    "to": 61.06,
+    "sid": 29,
+    "location": 2,
+    "content": "形成条件反射",
+    "music": 0.0
+  },
+  {
+    "from": 61.06,
+    "to": 62.02,
+    "sid": 30,
+    "location": 2,
+    "content": "一想到学习",
+    "music": 0.0
+  },
+  {
+    "from": 62.02,
+    "to": 63.2,
+    "sid": 31,
+    "location": 2,
+    "content": "你学会恐惧无力",
+    "music": 0.0
+  },
+  {
+    "from": 63.2,
+    "to": 65.09,
+    "sid": 32,
+    "location": 2,
+    "content": "完全不想学习",
+    "music": 0.0
+  },
+  {
+    "from": 65.09,
+    "to": 68.08,
+    "sid": 33,
+    "location": 2,
+    "content": "如何改变这种无力感",
+    "music": 0.0
+  },
+  {
+    "from": 68.3,
+    "to": 70.9,
+    "sid": 34,
+    "location": 2,
+    "content": "各大心理学家海蒂格兰特霍尔沃森",
+    "music": 0.0
+  },
+  {
+    "from": 70.9,
+    "to": 73.12,
+    "sid": 35,
+    "location": 2,
+    "content": "在成功动机与目标中提出",
+    "music": 0.0
+  },
+  {
+    "from": 73.12,
+    "to": 75.16,
+    "sid": 36,
+    "location": 2,
+    "content": "我们有两种不同的思考模式",
+    "music": 0.0
+  },
+  {
+    "from": 75.16,
+    "to": 76.6,
+    "sid": 37,
+    "location": 2,
+    "content": "一种是为什么",
+    "music": 0.0
+  },
+  {
+    "from": 76.6,
+    "to": 79.3,
+    "sid": 38,
+    "location": 2,
+    "content": "另一种是是什么为什么的模式",
+    "music": 0.0
+  },
+  {
+    "from": 79.3,
+    "to": 83.22,
+    "sid": 39,
+    "location": 2,
+    "content": "让你思考为什么要做关注行为的远大意义上",
+    "music": 0.0
+  },
+  {
+    "from": 83.22,
+    "to": 84.6,
+    "sid": 40,
+    "location": 2,
+    "content": "学习是为了考好大学",
+    "music": 0.0
+  },
+  {
+    "from": 84.6,
+    "to": 85.5,
+    "sid": 41,
+    "location": 2,
+    "content": "找好工作",
+    "music": 0.0
+  },
+  {
+    "from": 85.5,
+    "to": 86.37,
+    "sid": 42,
+    "location": 2,
+    "content": "赚更多钱",
+    "music": 0.0
+  },
+  {
+    "from": 86.37,
+    "to": 88.82,
+    "sid": 43,
+    "location": 2,
+    "content": "不被社会毒打是什么的模式",
+    "music": 0.0
+  },
+  {
+    "from": 88.82,
+    "to": 90.62,
+    "sid": 44,
+    "location": 2,
+    "content": "让你思考要做什么",
+    "music": 0.0
+  },
+  {
+    "from": 90.62,
+    "to": 92.72,
+    "sid": 45,
+    "location": 2,
+    "content": "关注行为的具体操作上",
+    "music": 0.0
+  },
+  {
+    "from": 92.72,
+    "to": 93.92,
+    "sid": 46,
+    "location": 2,
+    "content": "学习是背单词",
+    "music": 0.0
+  },
+  {
+    "from": 93.92,
+    "to": 94.58,
+    "sid": 47,
+    "location": 2,
+    "content": "刷真题",
+    "music": 0.0
+  },
+  {
+    "from": 94.58,
+    "to": 96.8,
+    "sid": 48,
+    "location": 2,
+    "content": "是把公式看会高数题写对",
+    "music": 0.0
+  },
+  {
+    "from": 96.8,
+    "to": 100.1,
+    "sid": 49,
+    "location": 2,
+    "content": "为什么能模式就是产生无力感的罪魁祸首",
+    "music": 0.0
+  },
+  {
+    "from": 100.1,
+    "to": 101.54,
+    "sid": 50,
+    "location": 2,
+    "content": "你被强行道德绑架",
+    "music": 0.0
+  },
+  {
+    "from": 101.54,
+    "to": 103.22,
+    "sid": 51,
+    "location": 2,
+    "content": "本来上自习只是一件小事",
+    "music": 0.0
+  },
+  {
+    "from": 103.22,
+    "to": 106.14,
+    "sid": 52,
+    "location": 2,
+    "content": "却被强行扣上一个拯救人生的大脑子",
+    "music": 0.0
+  },
+  {
+    "from": 106.14,
+    "to": 107.64,
+    "sid": 53,
+    "location": 2,
+    "content": "不仅没能促进你学习",
+    "music": 0.0
+  },
+  {
+    "from": 107.64,
+    "to": 109.84,
+    "sid": 54,
+    "location": 2,
+    "content": "却产生更大的恐惧心理",
+    "music": 0.0
+  },
+  {
+    "from": 109.84,
+    "to": 112.69,
+    "sid": 55,
+    "location": 2,
+    "content": "这时候就需要换是什么思维登场",
+    "music": 0.0
+  },
+  {
+    "from": 112.69,
+    "to": 113.77,
+    "sid": 56,
+    "location": 2,
+    "content": "是什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 113.77,
+    "to": 117.06,
+    "sid": 57,
+    "location": 2,
+    "content": "缓解厌学和拖延是什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 117.06,
+    "to": 120.22,
+    "sid": 58,
+    "location": 2,
+    "content": "让你拆解具体操作上复习就是去刷题",
+    "music": 0.0
+  },
+  {
+    "from": 120.22,
+    "to": 120.88,
+    "sid": 59,
+    "location": 2,
+    "content": "去刷题",
+    "music": 0.0
+  },
+  {
+    "from": 120.88,
+    "to": 122.02,
+    "sid": 60,
+    "location": 2,
+    "content": "就是先看会例题",
+    "music": 0.0
+  },
+  {
+    "from": 122.02,
+    "to": 124.96,
+    "sid": 61,
+    "location": 2,
+    "content": "看会例题就是先把最基本的公式搞懂",
+    "music": 0.0
+  },
+  {
+    "from": 124.96,
+    "to": 126.46,
+    "sid": 62,
+    "location": 2,
+    "content": "B站那么多教学视频",
+    "music": 0.0
+  },
+  {
+    "from": 126.46,
+    "to": 128.32,
+    "sid": 63,
+    "location": 2,
+    "content": "搞懂个公式还不带上厕",
+    "music": 0.0
+  },
+  {
+    "from": 128.32,
+    "to": 129.28,
+    "sid": 64,
+    "location": 2,
+    "content": "恶心的容易吗",
+    "music": 0.0
+  },
+  {
+    "from": 129.28,
+    "to": 131.32,
+    "sid": 65,
+    "location": 2,
+    "content": "这就是防治厌学的核心",
+    "music": 0.0
+  },
+  {
+    "from": 131.32,
+    "to": 133.78,
+    "sid": 66,
+    "location": 2,
+    "content": "将大目标拆解为小到不能再小的",
+    "music": 0.0
+  },
+  {
+    "from": 133.78,
+    "to": 135.79,
+    "sid": 67,
+    "location": 2,
+    "content": "极其容易执行的小操作",
+    "music": 0.0
+  },
+  {
+    "from": 135.79,
+    "to": 137.11,
+    "sid": 68,
+    "location": 2,
+    "content": "降低心理压力",
+    "music": 0.0
+  },
+  {
+    "from": 137.11,
+    "to": 138.88,
+    "sid": 69,
+    "location": 2,
+    "content": "缓解恐惧情绪",
+    "music": 0.0
+  },
+  {
+    "from": 138.88,
+    "to": 140.08,
+    "sid": 70,
+    "location": 2,
+    "content": "你就愿意去执行了",
+    "music": 0.0
+  },
+  {
+    "from": 140.08,
+    "to": 142.96,
+    "sid": 71,
+    "location": 2,
+    "content": "与此类似的思路是上来不要先做难题",
+    "music": 0.0
+  },
+  {
+    "from": 142.96,
+    "to": 143.92,
+    "sid": 72,
+    "location": 2,
+    "content": "先凑热柿子",
+    "music": 0.0
+  },
+  {
+    "from": 143.92,
+    "to": 145.9,
+    "sid": 73,
+    "location": 2,
+    "content": "你搞几个简单题练练手",
+    "music": 0.0
+  },
+  {
+    "from": 145.9,
+    "to": 146.98,
+    "sid": 74,
+    "location": 2,
+    "content": "看都切菜",
+    "music": 0.0
+  },
+  {
+    "from": 146.98,
+    "to": 148.06,
+    "sid": 75,
+    "location": 2,
+    "content": "成就感杠杠的",
+    "music": 0.0
+  },
+  {
+    "from": 148.06,
+    "to": 149.26,
+    "sid": 76,
+    "location": 2,
+    "content": "就跟你打王者荣耀一样",
+    "music": 0.0
+  },
+  {
+    "from": 149.26,
+    "to": 150.22,
+    "sid": 77,
+    "location": 2,
+    "content": "连输两局之后",
+    "music": 0.0
+  },
+  {
+    "from": 150.22,
+    "to": 152.2,
+    "sid": 78,
+    "location": 2,
+    "content": "系统立马给你分配一波菜鸟对手",
+    "music": 0.0
+  },
+  {
+    "from": 152.2,
+    "to": 152.98,
+    "sid": 79,
+    "location": 2,
+    "content": "虐菜让你爽",
+    "music": 0.0
+  },
+  {
+    "from": 152.98,
+    "to": 154.46,
+    "sid": 80,
+    "location": 2,
+    "content": "歪歪自然愿意继续玩",
+    "music": 0.0
+  },
+  {
+    "from": 154.46,
+    "to": 156.22,
+    "sid": 81,
+    "location": 2,
+    "content": "所以缓解厌学情绪",
+    "music": 0.0
+  },
+  {
+    "from": 156.22,
+    "to": 157.18,
+    "sid": 82,
+    "location": 2,
+    "content": "千万不要用",
+    "music": 0.0
+  },
+  {
+    "from": 157.18,
+    "to": 158.02,
+    "sid": 83,
+    "location": 2,
+    "content": "为什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 158.02,
+    "to": 159.61,
+    "sid": 84,
+    "location": 2,
+    "content": "不必要用是什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 159.61,
+    "to": 161.96,
+    "sid": 85,
+    "location": 2,
+    "content": "找到一个极其容易的小影子",
+    "music": 0.0
+  },
+  {
+    "from": 161.96,
+    "to": 164.39,
+    "sid": 86,
+    "location": 2,
+    "content": "一旦进入学习状态",
+    "music": 0.0
+  },
+  {
+    "from": 164.39,
+    "to": 166.16,
+    "sid": 87,
+    "location": 2,
+    "content": "后面的事情就轻松多了",
+    "music": 0.0
+  },
+  {
+    "from": 166.16,
+    "to": 167.48,
+    "sid": 88,
+    "location": 2,
+    "content": "思维切换",
+    "music": 0.0
+  },
+  {
+    "from": 167.48,
+    "to": 169.52,
+    "sid": 89,
+    "location": 2,
+    "content": "让时间安排更合理",
+    "music": 0.0
+  },
+  {
+    "from": 169.6,
+    "to": 171.34,
+    "sid": 90,
+    "location": 2,
+    "content": "一个有趣的心理现象",
+    "music": 0.0
+  },
+  {
+    "from": 171.34,
+    "to": 173.62,
+    "sid": 91,
+    "location": 2,
+    "content": "是你喜欢把重要的事情向后退",
+    "music": 0.0
+  },
+  {
+    "from": 173.62,
+    "to": 174.34,
+    "sid": 92,
+    "location": 2,
+    "content": "英语不好",
+    "music": 0.0
+  },
+  {
+    "from": 174.34,
+    "to": 175.66,
+    "sid": 93,
+    "location": 2,
+    "content": "等放假再学胖了",
+    "music": 0.0
+  },
+  {
+    "from": 175.66,
+    "to": 177.1,
+    "sid": 94,
+    "location": 2,
+    "content": "等放假再减去卷子",
+    "music": 0.0
+  },
+  {
+    "from": 177.1,
+    "to": 178.24,
+    "sid": 95,
+    "location": 2,
+    "content": "等放假再补",
+    "music": 0.0
+  },
+  {
+    "from": 178.24,
+    "to": 180.1,
+    "sid": 96,
+    "location": 2,
+    "content": "好像你的放假时间就是个无底洞",
+    "music": 0.0
+  },
+  {
+    "from": 180.1,
+    "to": 181.12,
+    "sid": 97,
+    "location": 2,
+    "content": "啥事都能往里塞",
+    "music": 0.0
+  },
+  {
+    "from": 181.12,
+    "to": 182.5,
+    "sid": 98,
+    "location": 2,
+    "content": "但时间真等放假了",
+    "music": 0.0
+  },
+  {
+    "from": 182.5,
+    "to": 183.46,
+    "sid": 99,
+    "location": 2,
+    "content": "说啥啥没空",
+    "music": 0.0
+  },
+  {
+    "from": 183.46,
+    "to": 184.48,
+    "sid": 100,
+    "location": 2,
+    "content": "干啥啥不行",
+    "music": 0.0
+  },
+  {
+    "from": 184.48,
+    "to": 188.56,
+    "sid": 101,
+    "location": 2,
+    "content": "这就是你一直拖延不办婚礼的原因吗",
+    "music": 0.1511627819091354
+  },
+  {
+    "from": 189.119,
+    "to": 191.659,
+    "sid": 102,
+    "location": 2,
+    "content": "这是人们做时间管理常犯的错误",
+    "music": 0.0
+  },
+  {
+    "from": 191.659,
+    "to": 193.309,
+    "sid": 103,
+    "location": 2,
+    "content": "总觉得现在没时间",
+    "music": 0.0
+  },
+  {
+    "from": 193.309,
+    "to": 194.479,
+    "sid": 104,
+    "location": 2,
+    "content": "未来有时间",
+    "music": 0.0
+  },
+  {
+    "from": 194.479,
+    "to": 197.52,
+    "sid": 105,
+    "location": 2,
+    "content": "这是因为近期你动用的是是什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 197.52,
+    "to": 199.08,
+    "sid": 106,
+    "location": 2,
+    "content": "罗列了具体要做的事",
+    "music": 0.0
+  },
+  {
+    "from": 199.08,
+    "to": 200.4,
+    "sid": 107,
+    "location": 2,
+    "content": "觉得很多很杂",
+    "music": 0.0
+  },
+  {
+    "from": 200.4,
+    "to": 201.66,
+    "sid": 108,
+    "location": 2,
+    "content": "实在没空做别的",
+    "music": 0.0
+  },
+  {
+    "from": 201.66,
+    "to": 203.94,
+    "sid": 109,
+    "location": 2,
+    "content": "而远期你都用的是为什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 203.94,
+    "to": 205.98,
+    "sid": 110,
+    "location": 2,
+    "content": "懒得动脑子想未来的安排",
+    "music": 0.0
+  },
+  {
+    "from": 205.98,
+    "to": 206.82,
+    "sid": 111,
+    "location": 2,
+    "content": "只想着具体",
+    "music": 0.0
+  },
+  {
+    "from": 206.82,
+    "to": 207.78,
+    "sid": 112,
+    "location": 2,
+    "content": "到时候再看吧",
+    "music": 0.0
+  },
+  {
+    "from": 207.78,
+    "to": 209.28,
+    "sid": 113,
+    "location": 2,
+    "content": "到时候再好好筹划",
+    "music": 0.0
+  },
+  {
+    "from": 209.28,
+    "to": 211.98,
+    "sid": 114,
+    "location": 2,
+    "content": "请把公屏打在中枪上",
+    "music": 0.0
+  },
+  {
+    "from": 212.14,
+    "to": 213.31,
+    "sid": 115,
+    "location": 2,
+    "content": "显而易见",
+    "music": 0.0
+  },
+  {
+    "from": 213.31,
+    "to": 215.95,
+    "sid": 116,
+    "location": 2,
+    "content": "规避错误的方法就是反其道而行之",
+    "music": 0.0
+  },
+  {
+    "from": 215.95,
+    "to": 217.24,
+    "sid": 117,
+    "location": 2,
+    "content": "强行又为什么",
+    "music": 0.0
+  },
+  {
+    "from": 217.24,
+    "to": 220.36,
+    "sid": 118,
+    "location": 2,
+    "content": "思考近期安排越重要的事情越早做",
+    "music": 0.0
+  },
+  {
+    "from": 220.36,
+    "to": 222.1,
+    "sid": 119,
+    "location": 2,
+    "content": "没时间也要几时间",
+    "music": 0.0
+  },
+  {
+    "from": 222.1,
+    "to": 223.78,
+    "sid": 120,
+    "location": 2,
+    "content": "否则偏科依旧是偏科",
+    "music": 0.0
+  },
+  {
+    "from": 223.78,
+    "to": 225.14,
+    "sid": 121,
+    "location": 2,
+    "content": "短板依旧是短板",
+    "music": 0.0
+  },
+  {
+    "from": 225.14,
+    "to": 226.28,
+    "sid": 122,
+    "location": 2,
+    "content": "强行是什么",
+    "music": 0.0
+  },
+  {
+    "from": 226.28,
+    "to": 227.78,
+    "sid": 123,
+    "location": 2,
+    "content": "思考远期安排",
+    "music": 0.0
+  },
+  {
+    "from": 227.78,
+    "to": 229.22,
+    "sid": 124,
+    "location": 2,
+    "content": "提前预估好时间",
+    "music": 0.0
+  },
+  {
+    "from": 229.22,
+    "to": 230.96,
+    "sid": 125,
+    "location": 2,
+    "content": "理性安排学习计划",
+    "music": 0.0
+  },
+  {
+    "from": 230.96,
+    "to": 234.929,
+    "sid": 126,
+    "location": 2,
+    "content": "提醒自己明天不会比今天更闲耶",
+    "music": 0.0
+  },
+  {
+    "from": 234.929,
+    "to": 236.459,
+    "sid": 127,
+    "location": 2,
+    "content": "诶要强调的是",
+    "music": 0.0
+  },
+  {
+    "from": 236.459,
+    "to": 236.879,
+    "sid": 128,
+    "location": 2,
+    "content": "听好啦",
+    "music": 0.0
+  },
+  {
+    "from": 236.879,
+    "to": 237.119,
+    "sid": 129,
+    "location": 2,
+    "content": "同学们",
+    "music": 0.0
+  },
+  {
+    "from": 237.119,
+    "to": 238.259,
+    "sid": 130,
+    "location": 2,
+    "content": "当你看视频的时候",
+    "music": 0.0
+  },
+  {
+    "from": 238.259,
+    "to": 241.229,
+    "sid": 131,
+    "location": 2,
+    "content": "务必要动用为什么思维提前进行点赞",
+    "music": 0.0
+  },
+  {
+    "from": 241.229,
+    "to": 243.059,
+    "sid": 132,
+    "location": 2,
+    "content": "投币收藏的具体操作",
+    "music": 0.0
+  },
+  {
+    "from": 243.059,
+    "to": 246.67,
+    "sid": 133,
+    "location": 2,
+    "content": "避免下次一定思维切换",
+    "music": 0.0
+  },
+  {
+    "from": 246.67,
+    "to": 247.66,
+    "sid": 134,
+    "location": 2,
+    "content": "激起斗志",
+    "music": 0.0
+  },
+  {
+    "from": 247.66,
+    "to": 248.85,
+    "sid": 135,
+    "location": 2,
+    "content": "激发动力",
+    "music": 0.0
+  },
+  {
+    "from": 248.85,
+    "to": 250.65,
+    "sid": 136,
+    "location": 2,
+    "content": "假设老师留了个大作业",
+    "music": 0.0
+  },
+  {
+    "from": 250.65,
+    "to": 253.74,
+    "sid": 137,
+    "location": 2,
+    "content": "搭建一个网站P站play have",
+    "music": 0.0
+  },
+  {
+    "from": 253.74,
+    "to": 254.55,
+    "sid": 138,
+    "location": 2,
+    "content": "它很有意义",
+    "music": 0.0
+  },
+  {
+    "from": 254.55,
+    "to": 256.05,
+    "sid": 139,
+    "location": 2,
+    "content": "可以锻炼你的技术能力",
+    "music": 0.0
+  },
+  {
+    "from": 256.05,
+    "to": 257.82,
+    "sid": 140,
+    "location": 2,
+    "content": "假如老师要求下个月才交",
+    "music": 0.0
+  },
+  {
+    "from": 257.82,
+    "to": 259.56,
+    "sid": 141,
+    "location": 2,
+    "content": "你可能会想有这么多时间",
+    "music": 0.0
+  },
+  {
+    "from": 259.56,
+    "to": 260.76,
+    "sid": 142,
+    "location": 2,
+    "content": "我可得好好锻炼一下自己",
+    "music": 0.0
+  },
+  {
+    "from": 260.76,
+    "to": 261.92,
+    "sid": 143,
+    "location": 2,
+    "content": "争取做出好作品",
+    "music": 0.0
+  },
+  {
+    "from": 261.92,
+    "to": 263.9,
+    "sid": 144,
+    "location": 2,
+    "content": "但假如三天后就要交",
+    "music": 0.0
+  },
+  {
+    "from": 263.9,
+    "to": 266.36,
+    "sid": 145,
+    "location": 2,
+    "content": "你通常想的是赶紧硬补完就得了",
+    "music": 0.0
+  },
+  {
+    "from": 266.36,
+    "to": 267.65,
+    "sid": 146,
+    "location": 2,
+    "content": "管不了那么多了",
+    "music": 0.0
+  },
+  {
+    "from": 267.65,
+    "to": 270.24,
+    "sid": 147,
+    "location": 2,
+    "content": "这是因为激活调用的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 270.24,
+    "to": 271.5,
+    "sid": 148,
+    "location": 2,
+    "content": "凑合妥协",
+    "music": 0.0
+  },
+  {
+    "from": 271.5,
+    "to": 272.76,
+    "sid": 149,
+    "location": 2,
+    "content": "糊弄不认真",
+    "music": 0.0
+  },
+  {
+    "from": 272.76,
+    "to": 273.54,
+    "sid": 150,
+    "location": 2,
+    "content": "不求精品",
+    "music": 0.0
+  },
+  {
+    "from": 273.54,
+    "to": 275.04,
+    "sid": 151,
+    "location": 2,
+    "content": "但求完成不急的活儿",
+    "music": 0.0
+  },
+  {
+    "from": 275.04,
+    "to": 275.52,
+    "sid": 152,
+    "location": 2,
+    "content": "调用了",
+    "music": 0.0
+  },
+  {
+    "from": 275.52,
+    "to": 277.62,
+    "sid": 153,
+    "location": 2,
+    "content": "为什么觉得事情有长远意义",
+    "music": 0.0
+  },
+  {
+    "from": 277.62,
+    "to": 279.12,
+    "sid": 154,
+    "location": 2,
+    "content": "你愿意花心思打磨",
+    "music": 0.0
+  },
+  {
+    "from": 279.12,
+    "to": 279.94,
+    "sid": 155,
+    "location": 2,
+    "content": "不愿妥协",
+    "music": 0.0
+  },
+  {
+    "from": 279.94,
+    "to": 281.11,
+    "sid": 156,
+    "location": 2,
+    "content": "想做个好作品",
+    "music": 0.0
+  },
+  {
+    "from": 281.11,
+    "to": 282.13,
+    "sid": 157,
+    "location": 2,
+    "content": "其实你会发现",
+    "music": 0.0
+  },
+  {
+    "from": 282.13,
+    "to": 283.39,
+    "sid": 158,
+    "location": 2,
+    "content": "无论学习还是生活中",
+    "music": 0.0
+  },
+  {
+    "from": 283.39,
+    "to": 284.71,
+    "sid": 159,
+    "location": 2,
+    "content": "大部分都是激活",
+    "music": 0.0
+  },
+  {
+    "from": 284.71,
+    "to": 285.97,
+    "sid": 160,
+    "location": 2,
+    "content": "deadline永远在你眼前",
+    "music": 0.0
+  },
+  {
+    "from": 285.97,
+    "to": 287.17,
+    "sid": 161,
+    "location": 2,
+    "content": "你可能是个有想法的人",
+    "music": 0.0
+  },
+  {
+    "from": 287.17,
+    "to": 288.13,
+    "sid": 162,
+    "location": 2,
+    "content": "但是迫于时间压力",
+    "music": 0.0
+  },
+  {
+    "from": 288.13,
+    "to": 290.88,
+    "sid": 163,
+    "location": 2,
+    "content": "你总是妥协凑合折中",
+    "music": 0.0
+  },
+  {
+    "from": 290.88,
+    "to": 291.9,
+    "sid": 164,
+    "location": 2,
+    "content": "这种短视行为",
+    "music": 0.0
+  },
+  {
+    "from": 291.9,
+    "to": 293.94,
+    "sid": 165,
+    "location": 2,
+    "content": "让你做所有事情的时候都马马虎虎",
+    "music": 0.0
+  },
+  {
+    "from": 293.94,
+    "to": 294.96,
+    "sid": 166,
+    "location": 2,
+    "content": "成绩不上不下",
+    "music": 0.0
+  },
+  {
+    "from": 294.96,
+    "to": 295.92,
+    "sid": 167,
+    "location": 2,
+    "content": "成就不高不低",
+    "music": 0.0
+  },
+  {
+    "from": 295.92,
+    "to": 297.21,
+    "sid": 168,
+    "location": 2,
+    "content": "空有一颗想变好的心",
+    "music": 0.0
+  },
+  {
+    "from": 297.21,
+    "to": 299.37,
+    "sid": 169,
+    "location": 2,
+    "content": "却不愿为之付出实际的努力",
+    "music": 0.0
+  },
+  {
+    "from": 299.37,
+    "to": 302.68,
+    "sid": 170,
+    "location": 2,
+    "content": "这时候就需要进行思维切换应对激活",
+    "music": 0.0
+  },
+  {
+    "from": 302.68,
+    "to": 304.0,
+    "sid": 171,
+    "location": 2,
+    "content": "不要用是什么",
+    "music": 0.0
+  },
+  {
+    "from": 304.0,
+    "to": 305.5,
+    "sid": 172,
+    "location": 2,
+    "content": "而要用为什么思维",
+    "music": 0.0
+  },
+  {
+    "from": 305.5,
+    "to": 307.36,
+    "sid": 173,
+    "location": 2,
+    "content": "为什么思维可以帮你做事",
+    "music": 0.0
+  },
+  {
+    "from": 307.36,
+    "to": 308.08,
+    "sid": 174,
+    "location": 2,
+    "content": "有情怀",
+    "music": 0.0
+  },
+  {
+    "from": 308.08,
+    "to": 309.48,
+    "sid": 175,
+    "location": 2,
+    "content": "拒绝目光短浅",
+    "music": 0.0
+  },
+  {
+    "from": 309.48,
+    "to": 310.8,
+    "sid": 176,
+    "location": 2,
+    "content": "找回工匠精神",
+    "music": 0.0
+  },
+  {
+    "from": 310.8,
+    "to": 312.78,
+    "sid": 177,
+    "location": 2,
+    "content": "在有限的时间内全力以赴",
+    "music": 0.0
+  },
+  {
+    "from": 312.78,
+    "to": 314.55,
+    "sid": 178,
+    "location": 2,
+    "content": "把事情做到最好",
+    "music": 0.0
+  },
+  {
+    "from": 314.55,
+    "to": 316.54,
+    "sid": 179,
+    "location": 2,
+    "content": "两种思维巧妙配合",
+    "music": 0.0
+  },
+  {
+    "from": 316.54,
+    "to": 317.78,
+    "sid": 180,
+    "location": 2,
+    "content": "相辅相成",
+    "music": 0.0
+  },
+  {
+    "from": 318.0,
+    "to": 318.96,
+    "sid": 181,
+    "location": 2,
+    "content": "为什么",
+    "music": 0.0
+  },
+  {
+    "from": 318.96,
+    "to": 320.76,
+    "sid": 182,
+    "location": 2,
+    "content": "用来激发动力是什么",
+    "music": 0.0
+  },
+  {
+    "from": 320.76,
+    "to": 321.93,
+    "sid": 183,
+    "location": 2,
+    "content": "用来开始学习",
+    "music": 0.0
+  },
+  {
+    "from": 321.93,
+    "to": 323.76,
+    "sid": 184,
+    "location": 2,
+    "content": "先用为什么制定大目标",
+    "music": 0.0
+  },
+  {
+    "from": 323.76,
+    "to": 325.84,
+    "sid": 185,
+    "location": 2,
+    "content": "再用是什么采取小行动",
+    "music": 0.0
+  },
+  {
+    "from": 325.84,
+    "to": 327.4,
+    "sid": 186,
+    "location": 2,
+    "content": "一个仰望星空",
+    "music": 0.0
+  },
+  {
+    "from": 327.4,
+    "to": 328.9,
+    "sid": 187,
+    "location": 2,
+    "content": "一个脚踏实地",
+    "music": 0.0
+  },
+  {
+    "from": 328.9,
+    "to": 331.06,
+    "sid": 188,
+    "location": 2,
+    "content": "为什么心灵鸡汤可以激发你的动力",
+    "music": 0.0
+  },
+  {
+    "from": 331.06,
+    "to": 332.83,
+    "sid": 189,
+    "location": 2,
+    "content": "因为当你想要放弃的时候",
+    "music": 0.0
+  },
+  {
+    "from": 332.83,
+    "to": 335.32,
+    "sid": 190,
+    "location": 2,
+    "content": "想想当初为什么坚持走到了这里",
+    "music": 0.0
+  },
+  {
+    "from": 335.32,
+    "to": 336.76,
+    "sid": 191,
+    "location": 2,
+    "content": "如果总有一个人会赢",
+    "music": 0.0
+  },
+  {
+    "from": 336.76,
+    "to": 338.2,
+    "sid": 192,
+    "location": 2,
+    "content": "为什么那个人不是你",
+    "music": 0.0
+  },
+  {
+    "from": 338.2,
+    "to": 341.82,
+    "sid": 193,
+    "location": 2,
+    "content": "为什么古代智慧总能让我们探寻理想是什么",
+    "music": 0.0
+  },
+  {
+    "from": 341.82,
+    "to": 344.58,
+    "sid": 194,
+    "location": 2,
+    "content": "因为千里之行始于足下",
+    "music": 0.0
+  },
+  {
+    "from": 344.58,
+    "to": 348.92,
+    "sid": 195,
+    "location": 2,
+    "content": "因为不积跬步无意之千里",
+    "music": 0.0
+  },
+  {
+    "from": 352.4,
+    "to": 355.16,
+    "sid": 196,
+    "location": 2,
+    "content": "好了又到了鞠躬乞讨环节",
+    "music": 0.0
+  },
+  {
+    "from": 355.16,
+    "to": 355.88,
+    "sid": 197,
+    "location": 2,
+    "content": "小点赞",
+    "music": 0.0
+  },
+  {
+    "from": 355.88,
+    "to": 359.42,
+    "sid": 198,
+    "location": 2,
+    "content": "收到你学会收藏辣条的双人输出",
+    "music": 0.0
+  },
+  {
+    "from": 359.42,
+    "to": 360.56,
+    "sid": 199,
+    "location": 2,
+    "content": "两名重新开张",
+    "music": 0.0
+  },
+  {
+    "from": 360.56,
+    "to": 361.28,
+    "sid": 200,
+    "location": 2,
+    "content": "关注我们",
+    "music": 0.0
+  },
+  {
+    "from": 361.28,
+    "to": 362.72,
+    "sid": 201,
+    "location": 2,
+    "content": "下期干货更精彩",
+    "music": 0.0
+  },
+  {
+    "from": 362.72,
+    "to": 363.89,
+    "sid": 202,
+    "location": 2,
+    "content": "拜拜拜拜",
+    "music": 0.0
+  },
+  {
+    "from": 363.89,
+    "to": 368.949,
+    "sid": 203,
+    "location": 2,
+    "content": "哈哈哈啊啊啊啊",
+    "music": 0.0
+  },
+  {
+    "from": 368.949,
+    "to": 371.0,
+    "sid": 204,
+    "location": 2,
+    "content": "一想到睡觉的",
+    "music": 0.0
+  }
+]

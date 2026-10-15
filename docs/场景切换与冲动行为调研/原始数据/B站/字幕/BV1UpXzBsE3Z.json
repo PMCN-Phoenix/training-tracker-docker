@@ -1,0 +1,458 @@
+[
+  {
+    "from": 0.04,
+    "to": 1.3,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有发现",
+    "music": 0.0
+  },
+  {
+    "from": 1.3,
+    "to": 2.98,
+    "sid": 2,
+    "location": 2,
+    "content": "你明明忙了一整天",
+    "music": 0.0
+  },
+  {
+    "from": 2.98,
+    "to": 4.68,
+    "sid": 3,
+    "location": 2,
+    "content": "感觉超级累",
+    "music": 0.0
+  },
+  {
+    "from": 4.68,
+    "to": 10.1,
+    "sid": 4,
+    "location": 2,
+    "content": "可到了晚上却根本想不起来自己到底忙了些啥工作",
+    "music": 0.0
+  },
+  {
+    "from": 10.1,
+    "to": 11.74,
+    "sid": 5,
+    "location": 2,
+    "content": "学习时刚想专注",
+    "music": 0.0
+  },
+  {
+    "from": 11.74,
+    "to": 14.18,
+    "sid": 6,
+    "location": 2,
+    "content": "就不自觉的伸向了手机",
+    "music": 0.0
+  },
+  {
+    "from": 14.18,
+    "to": 16.52,
+    "sid": 7,
+    "location": 2,
+    "content": "回过神来又无比懊悔",
+    "music": 0.0
+  },
+  {
+    "from": 16.52,
+    "to": 19.52,
+    "sid": 8,
+    "location": 2,
+    "content": "感觉自己简直是废了诶",
+    "music": 0.0
+  },
+  {
+    "from": 19.52,
+    "to": 21.36,
+    "sid": 9,
+    "location": 2,
+    "content": "先别急着骂自己",
+    "music": 0.0
+  },
+  {
+    "from": 21.36,
+    "to": 22.82,
+    "sid": 10,
+    "location": 2,
+    "content": "你可能不是懒",
+    "music": 0.0
+  },
+  {
+    "from": 22.82,
+    "to": 24.36,
+    "sid": 11,
+    "location": 2,
+    "content": "也不是不努力",
+    "music": 0.0
+  },
+  {
+    "from": 24.36,
+    "to": 29.59,
+    "sid": 12,
+    "location": 2,
+    "content": "而是被一种叫注意力残留效应的东西给悄悄掏空了",
+    "music": 0.0
+  },
+  {
+    "from": 29.59,
+    "to": 30.83,
+    "sid": 13,
+    "location": 2,
+    "content": "想象一下",
+    "music": 0.0
+  },
+  {
+    "from": 30.83,
+    "to": 34.62,
+    "sid": 14,
+    "location": 2,
+    "content": "早上你正准备死磕一份超重要的报告",
+    "music": 0.0
+  },
+  {
+    "from": 34.62,
+    "to": 38.18,
+    "sid": 15,
+    "location": 2,
+    "content": "突然右下角叮的一声弹出一封邮件",
+    "music": 0.0
+  },
+  {
+    "from": 38.18,
+    "to": 39.87,
+    "sid": 16,
+    "location": 2,
+    "content": "你顺手就回了",
+    "music": 0.0
+  },
+  {
+    "from": 39.87,
+    "to": 42.63,
+    "sid": 17,
+    "location": 2,
+    "content": "刚关掉同事在群里艾特你",
+    "music": 0.0
+  },
+  {
+    "from": 42.63,
+    "to": 45.03,
+    "sid": 18,
+    "location": 2,
+    "content": "你又切到微信聊了两句",
+    "music": 0.0
+  },
+  {
+    "from": 45.03,
+    "to": 46.41,
+    "sid": 19,
+    "location": 2,
+    "content": "一上午过去",
+    "music": 0.0
+  },
+  {
+    "from": 46.41,
+    "to": 47.93,
+    "sid": 20,
+    "location": 2,
+    "content": "报告还停在开头",
+    "music": 0.0
+  },
+  {
+    "from": 47.93,
+    "to": 50.51,
+    "sid": 21,
+    "location": 2,
+    "content": "你却感觉像打了一场仗",
+    "music": 0.0
+  },
+  {
+    "from": 50.51,
+    "to": 53.11,
+    "sid": 22,
+    "location": 2,
+    "content": "你看这就是注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 53.11,
+    "to": 55.76,
+    "sid": 23,
+    "location": 2,
+    "content": "你的大脑根本不是闪电开关",
+    "music": 0.0
+  },
+  {
+    "from": 55.76,
+    "to": 61.49,
+    "sid": 24,
+    "location": 2,
+    "content": "当你从任务A切换到B总有一部分注意力会残留在A上",
+    "music": 0.0
+  },
+  {
+    "from": 61.49,
+    "to": 64.99,
+    "sid": 25,
+    "location": 2,
+    "content": "它就像后台程序疯狂偷走你的脑力",
+    "music": 0.0
+  },
+  {
+    "from": 64.99,
+    "to": 67.33,
+    "sid": 26,
+    "location": 2,
+    "content": "让你思考越来越卡顿",
+    "music": 0.0
+  },
+  {
+    "from": 67.33,
+    "to": 70.87,
+    "sid": 27,
+    "location": 2,
+    "content": "所以问题的根源不是你意志力不行",
+    "music": 0.0
+  },
+  {
+    "from": 70.87,
+    "to": 73.08,
+    "sid": 28,
+    "location": 2,
+    "content": "而是用错了你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 73.08,
+    "to": 79.1,
+    "sid": 29,
+    "location": 2,
+    "content": "你把最宝贵的专注力当成了可以随意打赏的不值钱的碎银子",
+    "music": 0.0
+  },
+  {
+    "from": 79.1,
+    "to": 81.14,
+    "sid": 30,
+    "location": 2,
+    "content": "想改变试试",
+    "music": 0.0
+  },
+  {
+    "from": 81.14,
+    "to": 81.84,
+    "sid": 31,
+    "location": 2,
+    "content": "第一招",
+    "music": 0.0
+  },
+  {
+    "from": 81.84,
+    "to": 83.08,
+    "sid": 32,
+    "location": 2,
+    "content": "罐头工作法",
+    "music": 0.0
+  },
+  {
+    "from": 83.08,
+    "to": 85.68,
+    "sid": 33,
+    "location": 2,
+    "content": "给自己一个不被打扰的时间",
+    "music": 0.0
+  },
+  {
+    "from": 85.68,
+    "to": 87.9,
+    "sid": 34,
+    "location": 2,
+    "content": "期间关掉所有通知",
+    "music": 0.0
+  },
+  {
+    "from": 87.9,
+    "to": 90.06,
+    "sid": 35,
+    "location": 2,
+    "content": "手机飞行天塌下来",
+    "music": 0.0
+  },
+  {
+    "from": 90.06,
+    "to": 91.66,
+    "sid": 36,
+    "location": 2,
+    "content": "也等结束再说",
+    "music": 0.0
+  },
+  {
+    "from": 91.66,
+    "to": 92.64,
+    "sid": 37,
+    "location": 2,
+    "content": "第二招",
+    "music": 0.0
+  },
+  {
+    "from": 92.64,
+    "to": 93.96,
+    "sid": 38,
+    "location": 2,
+    "content": "清单清空术",
+    "music": 0.0
+  },
+  {
+    "from": 93.96,
+    "to": 97.83,
+    "sid": 39,
+    "location": 2,
+    "content": "开工前把所有脑子里的杂事都写下来",
+    "music": 0.0
+  },
+  {
+    "from": 97.83,
+    "to": 100.15,
+    "sid": 40,
+    "location": 2,
+    "content": "第三招任务批处理",
+    "music": 0.0
+  },
+  {
+    "from": 100.15,
+    "to": 101.87,
+    "sid": 41,
+    "location": 2,
+    "content": "把回邮件回消息",
+    "music": 0.0
+  },
+  {
+    "from": 101.87,
+    "to": 104.71,
+    "sid": 42,
+    "location": 2,
+    "content": "这种琐事集中一个时间搞定",
+    "music": 0.0
+  },
+  {
+    "from": 104.71,
+    "to": 106.99,
+    "sid": 43,
+    "location": 2,
+    "content": "第四招仪式感切换",
+    "music": 0.0
+  },
+  {
+    "from": 106.99,
+    "to": 109.11,
+    "sid": 44,
+    "location": 2,
+    "content": "切换任务前可以站起来",
+    "music": 0.0
+  },
+  {
+    "from": 109.11,
+    "to": 109.85,
+    "sid": 45,
+    "location": 2,
+    "content": "喝杯水",
+    "music": 0.0
+  },
+  {
+    "from": 109.85,
+    "to": 112.98,
+    "sid": 46,
+    "location": 2,
+    "content": "走动一下或者深呼吸五次",
+    "music": 0.0
+  },
+  {
+    "from": 112.98,
+    "to": 114.06,
+    "sid": 47,
+    "location": 2,
+    "content": "清空大脑",
+    "music": 0.0
+  },
+  {
+    "from": 114.06,
+    "to": 117.62,
+    "sid": 48,
+    "location": 2,
+    "content": "告诉自己上一个任务正式结束",
+    "music": 0.0
+  },
+  {
+    "from": 117.62,
+    "to": 121.4,
+    "sid": 49,
+    "location": 2,
+    "content": "所以你看专注的本质不是对抗干扰",
+    "music": 0.0
+  },
+  {
+    "from": 121.4,
+    "to": 124.64,
+    "sid": 50,
+    "location": 2,
+    "content": "而是为你的注意力建一条护城河",
+    "music": 0.0
+  },
+  {
+    "from": 124.64,
+    "to": 131.54,
+    "sid": 51,
+    "location": 2,
+    "content": "那么回想一下你的一天是在主动规划还是被动的被信息撕成碎片",
+    "music": 0.0
+  },
+  {
+    "from": 131.54,
+    "to": 133.96,
+    "sid": 52,
+    "location": 2,
+    "content": "想做自己注意力的主人",
+    "music": 0.0
+  },
+  {
+    "from": 133.96,
+    "to": 135.18,
+    "sid": 53,
+    "location": 2,
+    "content": "点个关注",
+    "music": 0.0
+  },
+  {
+    "from": 135.18,
+    "to": 137.77,
+    "sid": 54,
+    "location": 2,
+    "content": "我们下期接着聊聊聊",
+    "music": 0.0
+  },
+  {
+    "from": 137.77,
+    "to": 139.51,
+    "sid": 55,
+    "location": 2,
+    "content": "为什么有些人能力越差",
+    "music": 0.0
+  },
+  {
+    "from": 139.51,
+    "to": 140.97,
+    "sid": 56,
+    "location": 2,
+    "content": "反而越自信",
+    "music": 0.0
+  },
+  {
+    "from": 140.97,
+    "to": 143.66,
+    "sid": 57,
+    "location": 2,
+    "content": "达克效应我们不见不散",
+    "music": 0.0
+  }
+]

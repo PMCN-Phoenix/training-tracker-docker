@@ -1,0 +1,834 @@
+[
+  {
+    "from": 0.14,
+    "to": 1.58,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有过这样的经历",
+    "music": 0.0
+  },
+  {
+    "from": 1.58,
+    "to": 4.12,
+    "sid": 2,
+    "location": 2,
+    "content": "满心期待的立下一个个宏伟目标",
+    "music": 0.0
+  },
+  {
+    "from": 4.12,
+    "to": 6.14,
+    "sid": 3,
+    "location": 2,
+    "content": "比如要在一个月内瘦十斤",
+    "music": 0.0
+  },
+  {
+    "from": 6.14,
+    "to": 8.02,
+    "sid": 4,
+    "location": 2,
+    "content": "或者每天早起背单词",
+    "music": 0.0
+  },
+  {
+    "from": 8.02,
+    "to": 9.92,
+    "sid": 5,
+    "location": 2,
+    "content": "可没坚持几天就打了退堂鼓",
+    "music": 0.0
+  },
+  {
+    "from": 9.92,
+    "to": 11.37,
+    "sid": 6,
+    "location": 2,
+    "content": "一切又回到原点",
+    "music": 0.0
+  },
+  {
+    "from": 11.37,
+    "to": 13.29,
+    "sid": 7,
+    "location": 2,
+    "content": "看着那些自律又优秀的人",
+    "music": 0.0
+  },
+  {
+    "from": 13.29,
+    "to": 14.53,
+    "sid": 8,
+    "location": 2,
+    "content": "心里满是羡慕",
+    "music": 0.0
+  },
+  {
+    "from": 14.53,
+    "to": 15.39,
+    "sid": 9,
+    "location": 2,
+    "content": "不禁纳闷",
+    "music": 0.0
+  },
+  {
+    "from": 15.39,
+    "to": 17.31,
+    "sid": 10,
+    "location": 2,
+    "content": "为啥他们就能养成好习惯",
+    "music": 0.0
+  },
+  {
+    "from": 17.31,
+    "to": 19.37,
+    "sid": 11,
+    "location": 2,
+    "content": "把生活过得井井有条",
+    "music": 0.0
+  },
+  {
+    "from": 19.37,
+    "to": 21.43,
+    "sid": 12,
+    "location": 2,
+    "content": "而自己却总是半途而废呢",
+    "music": 0.0
+  },
+  {
+    "from": 21.43,
+    "to": 25.0,
+    "sid": 13,
+    "location": 2,
+    "content": "其实啊这种困惑和无奈很多人都有",
+    "music": 0.0
+  },
+  {
+    "from": 25.0,
+    "to": 29.02,
+    "sid": 14,
+    "location": 2,
+    "content": "而这个问题的答案就藏在原子习惯这本书里",
+    "music": 0.0
+  },
+  {
+    "from": 29.02,
+    "to": 31.18,
+    "sid": 15,
+    "location": 2,
+    "content": "这本书主要探讨了微小的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 31.18,
+    "to": 32.94,
+    "sid": 16,
+    "location": 2,
+    "content": "是如何在潜移默化中",
+    "music": 0.0
+  },
+  {
+    "from": 32.94,
+    "to": 35.8,
+    "sid": 17,
+    "location": 2,
+    "content": "对我们的生活产生巨大影响的",
+    "music": 0.0
+  },
+  {
+    "from": 35.8,
+    "to": 37.5,
+    "sid": 18,
+    "location": 2,
+    "content": "书里讲了这么一个故事",
+    "music": 0.0
+  },
+  {
+    "from": 37.5,
+    "to": 39.16,
+    "sid": 19,
+    "location": 2,
+    "content": "有个叫杰克的小伙子",
+    "music": 0.0
+  },
+  {
+    "from": 39.16,
+    "to": 42.099,
+    "sid": 20,
+    "location": 2,
+    "content": "一直梦想着能成为一名出色的作家",
+    "music": 0.0
+  },
+  {
+    "from": 42.099,
+    "to": 44.479,
+    "sid": 21,
+    "location": 2,
+    "content": "刚开始的时候他热情满满",
+    "music": 0.0
+  },
+  {
+    "from": 44.479,
+    "to": 47.16,
+    "sid": 22,
+    "location": 2,
+    "content": "给自己制定了每天写5000字的计划",
+    "music": 0.0
+  },
+  {
+    "from": 47.16,
+    "to": 50.16,
+    "sid": 23,
+    "location": 2,
+    "content": "可没坚持几天就被各种琐事打断",
+    "music": 0.0
+  },
+  {
+    "from": 50.16,
+    "to": 51.88,
+    "sid": 24,
+    "location": 2,
+    "content": "要么是朋友喊他出去玩",
+    "music": 0.0
+  },
+  {
+    "from": 51.88,
+    "to": 53.42,
+    "sid": 25,
+    "location": 2,
+    "content": "要么是自己犯懒",
+    "music": 0.0
+  },
+  {
+    "from": 53.42,
+    "to": 55.56,
+    "sid": 26,
+    "location": 2,
+    "content": "找各种借口逃避写作",
+    "music": 0.0
+  },
+  {
+    "from": 55.56,
+    "to": 58.54,
+    "sid": 27,
+    "location": 2,
+    "content": "结果呢一个月下来没写出多少东西",
+    "music": 0.0
+  },
+  {
+    "from": 58.54,
+    "to": 60.32,
+    "sid": 28,
+    "location": 2,
+    "content": "还把自己搞得挺沮丧",
+    "music": 0.0
+  },
+  {
+    "from": 60.32,
+    "to": 64.88,
+    "sid": 29,
+    "location": 2,
+    "content": "后来啊杰克偶然间读到了原子习惯这本书",
+    "music": 0.0
+  },
+  {
+    "from": 64.88,
+    "to": 66.22,
+    "sid": 30,
+    "location": 2,
+    "content": "深受启发",
+    "music": 0.0
+  },
+  {
+    "from": 66.22,
+    "to": 69.32,
+    "sid": 31,
+    "location": 2,
+    "content": "他意识到自己之前的做法太急于求成了",
+    "music": 0.0
+  },
+  {
+    "from": 69.32,
+    "to": 70.98,
+    "sid": 32,
+    "location": 2,
+    "content": "想一口吃成个胖子",
+    "music": 0.0
+  },
+  {
+    "from": 70.98,
+    "to": 73.02,
+    "sid": 33,
+    "location": 2,
+    "content": "于是他决定做出改变",
+    "music": 0.0
+  },
+  {
+    "from": 73.02,
+    "to": 74.88,
+    "sid": 34,
+    "location": 2,
+    "content": "不再追求每天写那么多字",
+    "music": 0.0
+  },
+  {
+    "from": 74.88,
+    "to": 77.65,
+    "sid": 35,
+    "location": 2,
+    "content": "而是从每天只写500字开始",
+    "music": 0.0
+  },
+  {
+    "from": 77.65,
+    "to": 79.07,
+    "sid": 36,
+    "location": 2,
+    "content": "这500字不多吧",
+    "music": 0.0
+  },
+  {
+    "from": 79.07,
+    "to": 82.56,
+    "sid": 37,
+    "location": 2,
+    "content": "可能也就是花个半小时左右的时间就能完成",
+    "music": 0.0
+  },
+  {
+    "from": 82.56,
+    "to": 83.82,
+    "sid": 38,
+    "location": 2,
+    "content": "刚开始的时候",
+    "music": 0.0
+  },
+  {
+    "from": 83.82,
+    "to": 87.22,
+    "sid": 39,
+    "location": 2,
+    "content": "杰克也觉得这500字好像没什么挑战性",
+    "music": 0.0
+  },
+  {
+    "from": 87.22,
+    "to": 88.5,
+    "sid": 40,
+    "location": 2,
+    "content": "写的也挺随意",
+    "music": 0.0
+  },
+  {
+    "from": 88.5,
+    "to": 89.86,
+    "sid": 41,
+    "location": 2,
+    "content": "但神奇的是",
+    "music": 0.0
+  },
+  {
+    "from": 89.86,
+    "to": 91.76,
+    "sid": 42,
+    "location": 2,
+    "content": "就这么一个小小的改变",
+    "music": 0.0
+  },
+  {
+    "from": 91.76,
+    "to": 94.26,
+    "sid": 43,
+    "location": 2,
+    "content": "让她每天都能轻松的完成写作任务",
+    "music": 0.0
+  },
+  {
+    "from": 94.26,
+    "to": 97.06,
+    "sid": 44,
+    "location": 2,
+    "content": "慢慢的写作不再是一件让他痛苦的事",
+    "music": 0.0
+  },
+  {
+    "from": 97.06,
+    "to": 98.59,
+    "sid": 45,
+    "location": 2,
+    "content": "反而成了一种习惯",
+    "music": 0.0
+  },
+  {
+    "from": 98.59,
+    "to": 99.91,
+    "sid": 46,
+    "location": 2,
+    "content": "随着时间的推移",
+    "music": 0.0
+  },
+  {
+    "from": 99.91,
+    "to": 102.45,
+    "sid": 47,
+    "location": 2,
+    "content": "他发现自己写500字已经不过瘾了",
+    "music": 0.0
+  },
+  {
+    "from": 102.45,
+    "to": 103.91,
+    "sid": 48,
+    "location": 2,
+    "content": "开始主动增加次数",
+    "music": 0.0
+  },
+  {
+    "from": 103.91,
+    "to": 105.58,
+    "sid": 49,
+    "location": 2,
+    "content": "而且文笔也越来越流畅",
+    "music": 0.0
+  },
+  {
+    "from": 105.58,
+    "to": 107.08,
+    "sid": 50,
+    "location": 2,
+    "content": "就像书里说的那样",
+    "music": 0.0
+  },
+  {
+    "from": 107.08,
+    "to": 109.2,
+    "sid": 51,
+    "location": 2,
+    "content": "习惯是自我提高的复利",
+    "music": 0.0
+  },
+  {
+    "from": 109.2,
+    "to": 112.32,
+    "sid": 52,
+    "location": 2,
+    "content": "杰克就是通过这小小的每天500字的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 112.32,
+    "to": 113.38,
+    "sid": 53,
+    "location": 2,
+    "content": "一点点积累",
+    "music": 0.0
+  },
+  {
+    "from": 113.38,
+    "to": 115.48,
+    "sid": 54,
+    "location": 2,
+    "content": "最后真的实现了自己的作家梦",
+    "music": 0.0
+  },
+  {
+    "from": 115.48,
+    "to": 117.05,
+    "sid": 55,
+    "location": 2,
+    "content": "出版了自己的作品",
+    "music": 0.0
+  },
+  {
+    "from": 117.05,
+    "to": 119.759,
+    "sid": 56,
+    "location": 2,
+    "content": "还有一个例子是关于健身的",
+    "music": 0.0
+  },
+  {
+    "from": 119.759,
+    "to": 121.359,
+    "sid": 57,
+    "location": 2,
+    "content": "有个女孩叫艾米",
+    "music": 0.0
+  },
+  {
+    "from": 121.359,
+    "to": 123.259,
+    "sid": 58,
+    "location": 2,
+    "content": "她一直想拥有好身材",
+    "music": 0.0
+  },
+  {
+    "from": 123.259,
+    "to": 126.99,
+    "sid": 59,
+    "location": 2,
+    "content": "可每次去健身房都是三天打鱼两天晒网",
+    "music": 0.0
+  },
+  {
+    "from": 126.99,
+    "to": 128.45,
+    "sid": 60,
+    "location": 2,
+    "content": "看了原子习惯后",
+    "music": 0.0
+  },
+  {
+    "from": 128.45,
+    "to": 129.59,
+    "sid": 61,
+    "location": 2,
+    "content": "他不再规定自己",
+    "music": 0.0
+  },
+  {
+    "from": 129.59,
+    "to": 132.25,
+    "sid": 62,
+    "location": 2,
+    "content": "每次必须在健身房待够一个小时",
+    "music": 0.0
+  },
+  {
+    "from": 132.25,
+    "to": 134.74,
+    "sid": 63,
+    "location": 2,
+    "content": "而是从每天做十个深蹲开始",
+    "music": 0.0
+  },
+  {
+    "from": 134.74,
+    "to": 136.64,
+    "sid": 64,
+    "location": 2,
+    "content": "这十个深蹲太简单了吧",
+    "music": 0.0
+  },
+  {
+    "from": 136.64,
+    "to": 137.78,
+    "sid": 65,
+    "location": 2,
+    "content": "随时都能做",
+    "music": 0.0
+  },
+  {
+    "from": 137.78,
+    "to": 140.35,
+    "sid": 66,
+    "location": 2,
+    "content": "哪怕是在看电视的广告时间",
+    "music": 0.0
+  },
+  {
+    "from": 140.35,
+    "to": 142.21,
+    "sid": 67,
+    "location": 2,
+    "content": "可就是这么一个微小的举动",
+    "music": 0.0
+  },
+  {
+    "from": 142.21,
+    "to": 145.03,
+    "sid": 68,
+    "location": 2,
+    "content": "让艾米慢慢养成了健身的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 145.03,
+    "to": 148.11,
+    "sid": 69,
+    "location": 2,
+    "content": "因为他每天都能轻松完成这十个深蹲",
+    "music": 0.0
+  },
+  {
+    "from": 148.11,
+    "to": 150.19,
+    "sid": 70,
+    "location": 2,
+    "content": "心里就有了一种成就感",
+    "music": 0.0
+  },
+  {
+    "from": 150.19,
+    "to": 153.07,
+    "sid": 71,
+    "location": 2,
+    "content": "这种成就感促使他不断增加运动量",
+    "music": 0.0
+  },
+  {
+    "from": 153.07,
+    "to": 155.35,
+    "sid": 72,
+    "location": 2,
+    "content": "后来不仅深蹲数量增加了",
+    "music": 0.0
+  },
+  {
+    "from": 155.35,
+    "to": 157.5,
+    "sid": 73,
+    "location": 2,
+    "content": "还加入了其他的健身项目",
+    "music": 0.0
+  },
+  {
+    "from": 157.5,
+    "to": 160.6,
+    "sid": 74,
+    "location": 2,
+    "content": "最后爱你成功减掉了多余的赘肉",
+    "music": 0.0
+  },
+  {
+    "from": 160.6,
+    "to": 162.29,
+    "sid": 75,
+    "location": 2,
+    "content": "身材变得越来越好",
+    "music": 0.0
+  },
+  {
+    "from": 162.29,
+    "to": 163.85,
+    "sid": 76,
+    "location": 2,
+    "content": "这些故事都告诉我们",
+    "music": 0.0
+  },
+  {
+    "from": 163.85,
+    "to": 165.77,
+    "sid": 77,
+    "location": 2,
+    "content": "不要小看那些微小的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 165.77,
+    "to": 167.89,
+    "sid": 78,
+    "location": 2,
+    "content": "它们就像是一颗颗小小的种子",
+    "music": 0.0
+  },
+  {
+    "from": 167.89,
+    "to": 169.47,
+    "sid": 79,
+    "location": 2,
+    "content": "只要我们坚持去培育",
+    "music": 0.0
+  },
+  {
+    "from": 169.47,
+    "to": 171.62,
+    "sid": 80,
+    "location": 2,
+    "content": "就有可能长成参天大树",
+    "music": 0.0
+  },
+  {
+    "from": 171.62,
+    "to": 172.7,
+    "sid": 81,
+    "location": 2,
+    "content": "原子习惯",
+    "music": 0.0
+  },
+  {
+    "from": 172.7,
+    "to": 174.58,
+    "sid": 82,
+    "location": 2,
+    "content": "这本书就是在告诉我们",
+    "music": 0.0
+  },
+  {
+    "from": 174.58,
+    "to": 176.11,
+    "sid": 83,
+    "location": 2,
+    "content": "改变不需要轰轰烈烈",
+    "music": 0.0
+  },
+  {
+    "from": 176.11,
+    "to": 178.81,
+    "sid": 84,
+    "location": 2,
+    "content": "从那些微小的容易做到的事情做起",
+    "music": 0.0
+  },
+  {
+    "from": 178.81,
+    "to": 179.97,
+    "sid": 85,
+    "location": 2,
+    "content": "一步一个脚印",
+    "music": 0.0
+  },
+  {
+    "from": 179.97,
+    "to": 183.42,
+    "sid": 86,
+    "location": 2,
+    "content": "慢慢的你就会发现自己已经发生了巨大的改变",
+    "music": 0.0
+  },
+  {
+    "from": 183.42,
+    "to": 184.46,
+    "sid": 87,
+    "location": 2,
+    "content": "原子习惯",
+    "music": 0.0
+  },
+  {
+    "from": 184.46,
+    "to": 187.14,
+    "sid": 88,
+    "location": 2,
+    "content": "这本书可不仅仅是一些空洞的理论",
+    "music": 0.0
+  },
+  {
+    "from": 187.14,
+    "to": 190.62,
+    "sid": 89,
+    "location": 2,
+    "content": "它里面的这些方法和理念就像是一把把钥匙",
+    "music": 0.0
+  },
+  {
+    "from": 190.62,
+    "to": 193.89,
+    "sid": 90,
+    "location": 2,
+    "content": "能帮我们打开通往自律和成功的大门",
+    "music": 0.0
+  },
+  {
+    "from": 193.89,
+    "to": 195.79,
+    "sid": 91,
+    "location": 2,
+    "content": "他如同一位贴心的导师",
+    "music": 0.0
+  },
+  {
+    "from": 198.92,
+    "to": 202.06,
+    "sid": 92,
+    "location": 2,
+    "content": "让我们明白习惯的力量是无穷的",
+    "music": 0.0
+  },
+  {
+    "from": 202.06,
+    "to": 205.3,
+    "sid": 93,
+    "location": 2,
+    "content": "只要我们善于利用那些原子般微小的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 205.3,
+    "to": 207.2,
+    "sid": 94,
+    "location": 2,
+    "content": "就能重塑我们的生活",
+    "music": 0.0
+  },
+  {
+    "from": 207.2,
+    "to": 209.43,
+    "sid": 95,
+    "location": 2,
+    "content": "让我们的人生变得更加精彩",
+    "music": 0.0
+  },
+  {
+    "from": 209.43,
+    "to": 211.19,
+    "sid": 96,
+    "location": 2,
+    "content": "我们每个人都有改变自己",
+    "music": 0.0
+  },
+  {
+    "from": 211.19,
+    "to": 213.27,
+    "sid": 97,
+    "location": 2,
+    "content": "让生活变得更好的潜力",
+    "music": 0.0
+  },
+  {
+    "from": 213.27,
+    "to": 217.78,
+    "sid": 98,
+    "location": 2,
+    "content": "而原子习惯就是那盏照亮我们前行道路的明灯",
+    "music": 0.0
+  },
+  {
+    "from": 217.78,
+    "to": 219.32,
+    "sid": 99,
+    "location": 2,
+    "content": "它促使我们行动起来",
+    "music": 0.0
+  },
+  {
+    "from": 219.32,
+    "to": 221.3,
+    "sid": 100,
+    "location": 2,
+    "content": "去挖掘自身的潜力",
+    "music": 0.0
+  },
+  {
+    "from": 221.3,
+    "to": 223.49,
+    "sid": 101,
+    "location": 2,
+    "content": "去创造属于自己的价值",
+    "music": 0.0
+  },
+  {
+    "from": 223.49,
+    "to": 225.31,
+    "sid": 102,
+    "location": 2,
+    "content": "所以啊别再犹豫了",
+    "music": 0.0
+  },
+  {
+    "from": 225.31,
+    "to": 228.29,
+    "sid": 103,
+    "location": 2,
+    "content": "赶紧从那些微小的习惯开始改变吧",
+    "music": 0.0
+  },
+  {
+    "from": 228.29,
+    "to": 230.84,
+    "sid": 104,
+    "location": 2,
+    "content": "说不定下一个实现梦想的就是你呢",
+    "music": 0.0
+  }
+]

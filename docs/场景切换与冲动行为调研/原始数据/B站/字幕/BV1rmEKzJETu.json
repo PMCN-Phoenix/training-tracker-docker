@@ -1,0 +1,3026 @@
+[
+  {
+    "from": 0.16,
+    "to": 3.12,
+    "sid": 1,
+    "location": 2,
+    "content": "中国用户平均每天在短视频平台花费",
+    "music": 0.0
+  },
+  {
+    "from": 3.12,
+    "to": 4.689,
+    "sid": 2,
+    "location": 2,
+    "content": "超过156分钟",
+    "music": 0.0
+  },
+  {
+    "from": 4.689,
+    "to": 6.749,
+    "sid": 3,
+    "location": 2,
+    "content": "仅仅需要1~3秒的刷新时间",
+    "music": 0.0
+  },
+  {
+    "from": 6.749,
+    "to": 9.049,
+    "sid": 4,
+    "location": 2,
+    "content": "你的大脑就完成了一个完整的多巴胺循环",
+    "music": 0.0
+  },
+  {
+    "from": 9.049,
+    "to": 10.769,
+    "sid": 5,
+    "location": 2,
+    "content": "你只需要轻轻的往上一划",
+    "music": 0.0
+  },
+  {
+    "from": 10.769,
+    "to": 12.26,
+    "sid": 6,
+    "location": 2,
+    "content": "不会有任何自然的终点",
+    "music": 0.0
+  },
+  {
+    "from": 12.26,
+    "to": 13.72,
+    "sid": 7,
+    "location": 2,
+    "content": "也不会有任何的疲惫感",
+    "music": 0.0
+  },
+  {
+    "from": 13.72,
+    "to": 15.3,
+    "sid": 8,
+    "location": 2,
+    "content": "所以你的上瘾不是巧合",
+    "music": 0.0
+  },
+  {
+    "from": 15.3,
+    "to": 17.46,
+    "sid": 9,
+    "location": 2,
+    "content": "而是数据科学的必然结果",
+    "music": 0.0
+  },
+  {
+    "from": 17.46,
+    "to": 18.4,
+    "sid": 10,
+    "location": 2,
+    "content": "大家好",
+    "music": 0.0
+  },
+  {
+    "from": 18.4,
+    "to": 19.98,
+    "sid": 11,
+    "location": 2,
+    "content": "欢迎回到数据科学不科学",
+    "music": 0.0
+  },
+  {
+    "from": 19.98,
+    "to": 20.76,
+    "sid": 12,
+    "location": 2,
+    "content": "我是terry",
+    "music": 0.0
+  },
+  {
+    "from": 20.76,
+    "to": 22.22,
+    "sid": 13,
+    "location": 2,
+    "content": "今天我想跟大家聊一个",
+    "music": 0.0
+  },
+  {
+    "from": 22.22,
+    "to": 25.42,
+    "sid": 14,
+    "location": 2,
+    "content": "几乎影响了我们所有人日常生活的一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 25.42,
+    "to": 26.98,
+    "sid": 15,
+    "location": 2,
+    "content": "你有没有过这种经历",
+    "music": 0.0
+  },
+  {
+    "from": 26.98,
+    "to": 27.58,
+    "sid": 16,
+    "location": 2,
+    "content": "说好了",
+    "music": 0.0
+  },
+  {
+    "from": 27.58,
+    "to": 29.78,
+    "sid": 17,
+    "location": 2,
+    "content": "再刷5分钟小红书或者抖音",
+    "music": 0.0
+  },
+  {
+    "from": 29.78,
+    "to": 32.95,
+    "sid": 18,
+    "location": 2,
+    "content": "结果一抬头两小时不知不觉就过去了",
+    "music": 0.0
+  },
+  {
+    "from": 32.95,
+    "to": 33.75,
+    "sid": 19,
+    "location": 2,
+    "content": "不用担心",
+    "music": 0.0
+  },
+  {
+    "from": 33.75,
+    "to": 34.49,
+    "sid": 20,
+    "location": 2,
+    "content": "不用自责",
+    "music": 0.0
+  },
+  {
+    "from": 34.49,
+    "to": 35.97,
+    "sid": 21,
+    "location": 2,
+    "content": "这不是你意志力的问题",
+    "music": 0.0
+  },
+  {
+    "from": 35.97,
+    "to": 37.85,
+    "sid": 22,
+    "location": 2,
+    "content": "这是平台精心设计的结果",
+    "music": 0.0
+  },
+  {
+    "from": 37.85,
+    "to": 41.21,
+    "sid": 23,
+    "location": 2,
+    "content": "那么今天我们就从数据科学和心理学的角度来",
+    "music": 0.0
+  },
+  {
+    "from": 41.21,
+    "to": 43.97,
+    "sid": 24,
+    "location": 2,
+    "content": "揭秘这些短视频平台为何如此让人上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 43.97,
+    "to": 46.17,
+    "sid": 25,
+    "location": 2,
+    "content": "根据2025年的最新数据",
+    "music": 0.0
+  },
+  {
+    "from": 46.17,
+    "to": 49.53,
+    "sid": 26,
+    "location": 2,
+    "content": "中国用户平均每天在短视频平台花费",
+    "music": 0.0
+  },
+  {
+    "from": 49.53,
+    "to": 51.17,
+    "sid": 27,
+    "location": 2,
+    "content": "超过156分钟",
+    "music": 0.0
+  },
+  {
+    "from": 51.17,
+    "to": 53.74,
+    "sid": 28,
+    "location": 2,
+    "content": "远远超过了其他任何的互联网应用",
+    "music": 0.0
+  },
+  {
+    "from": 53.74,
+    "to": 54.58,
+    "sid": 29,
+    "location": 2,
+    "content": "想想看",
+    "music": 0.0
+  },
+  {
+    "from": 54.58,
+    "to": 57.12,
+    "sid": 30,
+    "location": 2,
+    "content": "这相当于你一周花了18个小时",
+    "music": 0.0
+  },
+  {
+    "from": 57.12,
+    "to": 60.78,
+    "sid": 31,
+    "location": 2,
+    "content": "在这些短视频平台上几乎是两个工作日的时间",
+    "music": 0.0
+  },
+  {
+    "from": 60.78,
+    "to": 63.56,
+    "sid": 32,
+    "location": 2,
+    "content": "这么多人愿意投入这么多时间来刷短视频",
+    "music": 0.0
+  },
+  {
+    "from": 63.56,
+    "to": 65.34,
+    "sid": 33,
+    "location": 2,
+    "content": "到底是为什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 67.44,
+    "to": 68.8,
+    "sid": 34,
+    "location": 2,
+    "content": "在正式聊之前呢",
+    "music": 0.0
+  },
+  {
+    "from": 68.8,
+    "to": 70.32,
+    "sid": 35,
+    "location": 2,
+    "content": "我想带大家回到10年前",
+    "music": 0.0
+  },
+  {
+    "from": 70.32,
+    "to": 72.58,
+    "sid": 36,
+    "location": 2,
+    "content": "在抖音和小红书还没有出现的时代",
+    "music": 0.0
+  },
+  {
+    "from": 72.58,
+    "to": 74.72,
+    "sid": 37,
+    "location": 2,
+    "content": "在那个时候你想获得多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 74.72,
+    "to": 77.58,
+    "sid": 38,
+    "location": 2,
+    "content": "可能就需要沉浸式的看完一本小说",
+    "music": 0.0
+  },
+  {
+    "from": 77.58,
+    "to": 80.81,
+    "sid": 39,
+    "location": 2,
+    "content": "等到它的高潮可能需要几个小时",
+    "music": 0.0
+  },
+  {
+    "from": 80.81,
+    "to": 82.85,
+    "sid": 40,
+    "location": 2,
+    "content": "或者是看完一集美剧",
+    "music": 0.0
+  },
+  {
+    "from": 82.85,
+    "to": 84.73,
+    "sid": 41,
+    "location": 2,
+    "content": "等到他的精彩转折处",
+    "music": 0.0
+  },
+  {
+    "from": 84.73,
+    "to": 86.28,
+    "sid": 42,
+    "location": 2,
+    "content": "可能需要40分钟",
+    "music": 0.0
+  },
+  {
+    "from": 86.28,
+    "to": 88.54,
+    "sid": 43,
+    "location": 2,
+    "content": "或者是跑完一个5km",
+    "music": 0.0
+  },
+  {
+    "from": 88.54,
+    "to": 92.63,
+    "sid": 44,
+    "location": 2,
+    "content": "跑到最后冲刺的时候的快感至少需要30分钟",
+    "music": 0.0
+  },
+  {
+    "from": 92.63,
+    "to": 95.11,
+    "sid": 45,
+    "location": 2,
+    "content": "再或者是打完一局游戏",
+    "music": 0.0
+  },
+  {
+    "from": 95.11,
+    "to": 96.59,
+    "sid": 46,
+    "location": 2,
+    "content": "体验到胜利的瞬间",
+    "music": 0.0
+  },
+  {
+    "from": 96.59,
+    "to": 98.15,
+    "sid": 47,
+    "location": 2,
+    "content": "可能半小时到一个小时",
+    "music": 0.0
+  },
+  {
+    "from": 98.15,
+    "to": 100.43,
+    "sid": 48,
+    "location": 2,
+    "content": "而现在呢我们先来做个实验",
+    "music": 0.0
+  },
+  {
+    "from": 100.43,
+    "to": 101.65,
+    "sid": 49,
+    "location": 2,
+    "content": "拿起你的手机",
+    "music": 0.0
+  },
+  {
+    "from": 101.65,
+    "to": 103.61,
+    "sid": 50,
+    "location": 2,
+    "content": "打开抖音或者小红书",
+    "music": 0.0
+  },
+  {
+    "from": 103.61,
+    "to": 105.71,
+    "sid": 51,
+    "location": 2,
+    "content": "观察你此刻的感受",
+    "music": 0.0
+  },
+  {
+    "from": 105.71,
+    "to": 107.65,
+    "sid": 52,
+    "location": 2,
+    "content": "每次下拉刷新的时候",
+    "music": 0.0
+  },
+  {
+    "from": 107.65,
+    "to": 110.88,
+    "sid": 53,
+    "location": 2,
+    "content": "你是不是有那么一丝丝的期待和兴奋呢",
+    "music": 0.0
+  },
+  {
+    "from": 110.88,
+    "to": 113.34,
+    "sid": 54,
+    "location": 2,
+    "content": "这种不知道下一个视频会是什么",
+    "music": 0.0
+  },
+  {
+    "from": 113.34,
+    "to": 115.34,
+    "sid": 55,
+    "location": 2,
+    "content": "但有可能会很精彩的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 115.34,
+    "to": 117.36,
+    "sid": 56,
+    "location": 2,
+    "content": "其实激活了你大脑的奖励系统",
+    "music": 0.0
+  },
+  {
+    "from": 117.36,
+    "to": 119.54,
+    "sid": 57,
+    "location": 2,
+    "content": "仅仅需要1~3秒的刷新时间",
+    "music": 0.0
+  },
+  {
+    "from": 119.54,
+    "to": 122.44,
+    "sid": 58,
+    "location": 2,
+    "content": "你的大脑就完成了一个完整的多巴胺循环",
+    "music": 0.0
+  },
+  {
+    "from": 122.44,
+    "to": 124.98,
+    "sid": 59,
+    "location": 2,
+    "content": "这可以说是人类娱乐史上的一场革命",
+    "music": 0.0
+  },
+  {
+    "from": 124.98,
+    "to": 126.84,
+    "sid": 60,
+    "location": 2,
+    "content": "从半小时到几分钟以内",
+    "music": 0.0
+  },
+  {
+    "from": 126.84,
+    "to": 129.25,
+    "sid": 61,
+    "location": 2,
+    "content": "获取快乐的门槛被极度的压缩",
+    "music": 0.0
+  },
+  {
+    "from": 129.25,
+    "to": 131.51,
+    "sid": 62,
+    "location": 2,
+    "content": "这和赌博的机制也极度的相似",
+    "music": 0.0
+  },
+  {
+    "from": 131.51,
+    "to": 133.41,
+    "sid": 63,
+    "location": 2,
+    "content": "你不确定下一把会不会赢",
+    "music": 0.0
+  },
+  {
+    "from": 133.41,
+    "to": 136.11,
+    "sid": 64,
+    "location": 2,
+    "content": "但这种不确定性反而想让你继续",
+    "music": 0.0
+  },
+  {
+    "from": 136.11,
+    "to": 138.99,
+    "sid": 65,
+    "location": 2,
+    "content": "神经科学家将这称为变动奖励机制",
+    "music": 0.0
+  },
+  {
+    "from": 138.99,
+    "to": 140.43,
+    "sid": 66,
+    "location": 2,
+    "content": "但关键的区别在于",
+    "music": 0.0
+  },
+  {
+    "from": 140.43,
+    "to": 143.24,
+    "sid": 67,
+    "location": 2,
+    "content": "传统的获得快乐的方式有着天然的阻尼",
+    "music": 0.0
+  },
+  {
+    "from": 143.24,
+    "to": 145.22,
+    "sid": 68,
+    "location": 2,
+    "content": "你需要投入时间和精力",
+    "music": 0.0
+  },
+  {
+    "from": 145.22,
+    "to": 147.829,
+    "sid": 69,
+    "location": 2,
+    "content": "而这种限制其实是一种保护",
+    "music": 0.0
+  },
+  {
+    "from": 147.829,
+    "to": 149.849,
+    "sid": 70,
+    "location": 2,
+    "content": "就像运动后的多巴胺释放",
+    "music": 0.0
+  },
+  {
+    "from": 149.849,
+    "to": 151.269,
+    "sid": 71,
+    "location": 2,
+    "content": "它让你感觉到愉悦",
+    "music": 0.0
+  },
+  {
+    "from": 151.269,
+    "to": 152.269,
+    "sid": 72,
+    "location": 2,
+    "content": "但你也累了",
+    "music": 0.0
+  },
+  {
+    "from": 152.269,
+    "to": 153.489,
+    "sid": 73,
+    "location": 2,
+    "content": "自然就会停下来",
+    "music": 0.0
+  },
+  {
+    "from": 153.489,
+    "to": 156.35,
+    "sid": 74,
+    "location": 2,
+    "content": "而短视频呢它消除了所有的阻尼",
+    "music": 0.0
+  },
+  {
+    "from": 156.35,
+    "to": 158.27,
+    "sid": 75,
+    "location": 2,
+    "content": "每当你看到有趣的内容时",
+    "music": 0.0
+  },
+  {
+    "from": 158.27,
+    "to": 160.07,
+    "sid": 76,
+    "location": 2,
+    "content": "你的大脑就会释放多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 160.07,
+    "to": 161.3,
+    "sid": 77,
+    "location": 2,
+    "content": "产生愉悦感",
+    "music": 0.0
+  },
+  {
+    "from": 161.3,
+    "to": 163.22,
+    "sid": 78,
+    "location": 2,
+    "content": "而短视频的关键就在于",
+    "music": 0.0
+  },
+  {
+    "from": 163.22,
+    "to": 165.579,
+    "sid": 79,
+    "location": 2,
+    "content": "它让这个循环变得非常高效",
+    "music": 0.0
+  },
+  {
+    "from": 165.579,
+    "to": 168.659,
+    "sid": 80,
+    "location": 2,
+    "content": "15秒30秒最多不过一分钟",
+    "music": 0.0
+  },
+  {
+    "from": 168.659,
+    "to": 169.739,
+    "sid": 81,
+    "location": 2,
+    "content": "内容足够短",
+    "music": 0.0
+  },
+  {
+    "from": 169.739,
+    "to": 171.139,
+    "sid": 82,
+    "location": 2,
+    "content": "让你没有理由不再刷",
+    "music": 0.0
+  },
+  {
+    "from": 171.139,
+    "to": 172.15,
+    "sid": 83,
+    "location": 2,
+    "content": "最后一个",
+    "music": 0.0
+  },
+  {
+    "from": 172.15,
+    "to": 173.35,
+    "sid": 84,
+    "location": 2,
+    "content": "更可怕的是",
+    "music": 0.0
+  },
+  {
+    "from": 173.35,
+    "to": 175.79,
+    "sid": 85,
+    "location": 2,
+    "content": "整个过程你只需要轻轻的往上一滑",
+    "music": 0.0
+  },
+  {
+    "from": 175.79,
+    "to": 177.55,
+    "sid": 86,
+    "location": 2,
+    "content": "不会有任何自然的终点",
+    "music": 0.0
+  },
+  {
+    "from": 177.55,
+    "to": 179.17,
+    "sid": 87,
+    "location": 2,
+    "content": "也不会有任何的疲惫感",
+    "music": 0.0
+  },
+  {
+    "from": 179.17,
+    "to": 182.3,
+    "sid": 88,
+    "location": 2,
+    "content": "而且啊这种不断切换的内容形式",
+    "music": 0.0
+  },
+  {
+    "from": 182.3,
+    "to": 183.76,
+    "sid": 89,
+    "location": 2,
+    "content": "也非常适合我们当代人",
+    "music": 0.0
+  },
+  {
+    "from": 183.76,
+    "to": 185.98,
+    "sid": 90,
+    "location": 2,
+    "content": "不断碎片化的时间和注意力",
+    "music": 0.0
+  },
+  {
+    "from": 185.98,
+    "to": 187.06,
+    "sid": 91,
+    "location": 2,
+    "content": "无需深度专注",
+    "music": 0.0
+  },
+  {
+    "from": 187.06,
+    "to": 189.78,
+    "sid": 92,
+    "location": 2,
+    "content": "就可以获得持续的娱乐和信息输入",
+    "music": 0.0
+  },
+  {
+    "from": 189.78,
+    "to": 192.1,
+    "sid": 93,
+    "location": 2,
+    "content": "这就像把以前需要几10分钟",
+    "music": 0.0
+  },
+  {
+    "from": 192.1,
+    "to": 193.76,
+    "sid": 94,
+    "location": 2,
+    "content": "甚至几个小时的满足感",
+    "music": 0.0
+  },
+  {
+    "from": 193.76,
+    "to": 196.12,
+    "sid": 95,
+    "location": 2,
+    "content": "压缩成了一个几秒钟的浓缩咖啡",
+    "music": 0.0
+  },
+  {
+    "from": 196.12,
+    "to": 198.62,
+    "sid": 96,
+    "location": 2,
+    "content": "你的大脑很难对这种诱惑说不",
+    "music": 0.0
+  },
+  {
+    "from": 198.62,
+    "to": 199.3,
+    "sid": 97,
+    "location": 2,
+    "content": "说实话",
+    "music": 0.0
+  },
+  {
+    "from": 199.3,
+    "to": 201.24,
+    "sid": 98,
+    "location": 2,
+    "content": "我自己也经常受到这种困扰",
+    "music": 0.0
+  },
+  {
+    "from": 201.24,
+    "to": 203.28,
+    "sid": 99,
+    "location": 2,
+    "content": "本来这个视频昨天就应该拍了",
+    "music": 0.0
+  },
+  {
+    "from": 203.28,
+    "to": 204.62,
+    "sid": 100,
+    "location": 2,
+    "content": "但是在准备过程中呢",
+    "music": 0.0
+  },
+  {
+    "from": 204.62,
+    "to": 205.3,
+    "sid": 101,
+    "location": 2,
+    "content": "我打开抖音",
+    "music": 0.0
+  },
+  {
+    "from": 205.3,
+    "to": 206.46,
+    "sid": 102,
+    "location": 2,
+    "content": "想收集一下素材",
+    "music": 0.0
+  },
+  {
+    "from": 206.46,
+    "to": 209.18,
+    "sid": 103,
+    "location": 2,
+    "content": "一不小心在一个美食博主的烧烤视频下",
+    "music": 0.0
+  },
+  {
+    "from": 209.18,
+    "to": 209.94,
+    "sid": 104,
+    "location": 2,
+    "content": "停留了太久",
+    "music": 0.0
+  },
+  {
+    "from": 209.94,
+    "to": 212.88,
+    "sid": 105,
+    "location": 2,
+    "content": "结果一路从北京烤鸭刷到了新疆烤全羊",
+    "music": 0.0
+  },
+  {
+    "from": 212.88,
+    "to": 214.96,
+    "sid": 106,
+    "location": 2,
+    "content": "又从烧烤刷到了火锅",
+    "music": 0.0
+  },
+  {
+    "from": 214.96,
+    "to": 216.4,
+    "sid": 107,
+    "location": 2,
+    "content": "刷到最后天都黑了",
+    "music": 0.0
+  },
+  {
+    "from": 216.4,
+    "to": 217.0,
+    "sid": 108,
+    "location": 2,
+    "content": "没有办法",
+    "music": 0.0
+  },
+  {
+    "from": 217.0,
+    "to": 218.0,
+    "sid": 109,
+    "location": 2,
+    "content": "只能够今天再拍",
+    "music": 0.0
+  },
+  {
+    "from": 218.0,
+    "to": 219.56,
+    "sid": 110,
+    "location": 2,
+    "content": "而且看得我都饿的不行了",
+    "music": 0.0
+  },
+  {
+    "from": 219.56,
+    "to": 221.6,
+    "sid": 111,
+    "location": 2,
+    "content": "但但这就是平台希望看到的",
+    "music": 0.0
+  },
+  {
+    "from": 221.6,
+    "to": 223.36,
+    "sid": 112,
+    "location": 2,
+    "content": "一旦你进入了他们的内容黑洞",
+    "music": 0.0
+  },
+  {
+    "from": 223.36,
+    "to": 226.22,
+    "sid": 113,
+    "location": 2,
+    "content": "你就很难自己再爬出来",
+    "music": 0.0
+  },
+  {
+    "from": 227.42,
+    "to": 229.959,
+    "sid": 114,
+    "location": 2,
+    "content": "真正厉害的是这些平台的推荐算法",
+    "music": 0.0
+  },
+  {
+    "from": 229.959,
+    "to": 232.459,
+    "sid": 115,
+    "location": 2,
+    "content": "它不仅仅是简单的记录你的点赞信息",
+    "music": 0.0
+  },
+  {
+    "from": 232.459,
+    "to": 234.799,
+    "sid": 116,
+    "location": 2,
+    "content": "他还追踪你的一系列的微观行为",
+    "music": 0.0
+  },
+  {
+    "from": 234.799,
+    "to": 236.799,
+    "sid": 117,
+    "location": 2,
+    "content": "你在每个视频停留的时间啊",
+    "music": 0.0
+  },
+  {
+    "from": 236.799,
+    "to": 238.45,
+    "sid": 118,
+    "location": 2,
+    "content": "你回看了哪些片段啊",
+    "music": 0.0
+  },
+  {
+    "from": 238.45,
+    "to": 240.85,
+    "sid": 119,
+    "location": 2,
+    "content": "你在哪些内容上放慢了速度",
+    "music": 0.0
+  },
+  {
+    "from": 240.85,
+    "to": 243.15,
+    "sid": 120,
+    "location": 2,
+    "content": "或者是你在什么时候退出了这个视频",
+    "music": 0.0
+  },
+  {
+    "from": 243.15,
+    "to": 245.86,
+    "sid": 121,
+    "location": 2,
+    "content": "以及你如何与人互动点赞呢",
+    "music": 0.0
+  },
+  {
+    "from": 245.86,
+    "to": 249.39,
+    "sid": 122,
+    "location": 2,
+    "content": "评论呢分享呢这些数据都会被平台给收集",
+    "music": 0.0
+  },
+  {
+    "from": 249.39,
+    "to": 250.95,
+    "sid": 123,
+    "location": 2,
+    "content": "从数据科学的角度看",
+    "music": 0.0
+  },
+  {
+    "from": 250.95,
+    "to": 253.51,
+    "sid": 124,
+    "location": 2,
+    "content": "短视频平台有收集数据的天然优势",
+    "music": 0.0
+  },
+  {
+    "from": 253.51,
+    "to": 257.27,
+    "sid": 125,
+    "location": 2,
+    "content": "高频反馈平均每15~60秒就可以收集一次",
+    "music": 0.0
+  },
+  {
+    "from": 257.27,
+    "to": 258.05,
+    "sid": 126,
+    "location": 2,
+    "content": "用户的反馈",
+    "music": 0.0
+  },
+  {
+    "from": 258.05,
+    "to": 260.11,
+    "sid": 127,
+    "location": 2,
+    "content": "比传统媒体可能快了有百倍",
+    "music": 0.0
+  },
+  {
+    "from": 260.11,
+    "to": 261.47,
+    "sid": 128,
+    "location": 2,
+    "content": "清晰的数据点",
+    "music": 0.0
+  },
+  {
+    "from": 261.47,
+    "to": 263.69,
+    "sid": 129,
+    "location": 2,
+    "content": "每个短视频的行为都是独立的单元",
+    "music": 0.0
+  },
+  {
+    "from": 263.69,
+    "to": 265.93,
+    "sid": 130,
+    "location": 2,
+    "content": "便于分析多维度特征",
+    "music": 0.0
+  },
+  {
+    "from": 265.93,
+    "to": 268.29,
+    "sid": 131,
+    "location": 2,
+    "content": "每个视频都可以被分解为画面",
+    "music": 0.0
+  },
+  {
+    "from": 268.29,
+    "to": 269.839,
+    "sid": 132,
+    "location": 2,
+    "content": "声音转场",
+    "music": 0.0
+  },
+  {
+    "from": 269.839,
+    "to": 272.919,
+    "sid": 133,
+    "location": 2,
+    "content": "文字特效等细节一一分析",
+    "music": 0.0
+  },
+  {
+    "from": 272.919,
+    "to": 274.32,
+    "sid": 134,
+    "location": 2,
+    "content": "以及巨大的样本量",
+    "music": 0.0
+  },
+  {
+    "from": 274.32,
+    "to": 277.32,
+    "sid": 135,
+    "location": 2,
+    "content": "每天会有几10亿的互动来产生海量的数据",
+    "music": 0.0
+  },
+  {
+    "from": 277.32,
+    "to": 280.419,
+    "sid": 136,
+    "location": 2,
+    "content": "这让算法能够以惊人的速度来学习你的喜好",
+    "music": 0.0
+  },
+  {
+    "from": 280.419,
+    "to": 282.539,
+    "sid": 137,
+    "location": 2,
+    "content": "创造出专属于你的信息流",
+    "music": 0.0
+  },
+  {
+    "from": 282.539,
+    "to": 283.459,
+    "sid": 138,
+    "location": 2,
+    "content": "抖音的算法",
+    "music": 0.0
+  },
+  {
+    "from": 283.459,
+    "to": 285.779,
+    "sid": 139,
+    "location": 2,
+    "content": "每天要处理超过1000亿次的互动数据",
+    "music": 0.0
+  },
+  {
+    "from": 285.779,
+    "to": 287.279,
+    "sid": 140,
+    "location": 2,
+    "content": "这个量是非常惊人的",
+    "music": 0.0
+  },
+  {
+    "from": 287.279,
+    "to": 290.69,
+    "sid": 141,
+    "location": 2,
+    "content": "而这些数据点加起来构成了你的数字DNA",
+    "music": 0.0
+  },
+  {
+    "from": 290.69,
+    "to": 294.78,
+    "sid": 142,
+    "location": 2,
+    "content": "一个算法眼中的你一个有意思的数据点是有的",
+    "music": 0.0
+  },
+  {
+    "from": 294.78,
+    "to": 296.1,
+    "sid": 143,
+    "location": 2,
+    "content": "有一个研究表明啊",
+    "music": 0.0
+  },
+  {
+    "from": 296.1,
+    "to": 299.42,
+    "sid": 144,
+    "location": 2,
+    "content": "用户自己说的数据与他们自己的行为相匹配的",
+    "music": 0.0
+  },
+  {
+    "from": 299.42,
+    "to": 300.42,
+    "sid": 145,
+    "location": 2,
+    "content": "只有60%",
+    "music": 0.0
+  },
+  {
+    "from": 300.42,
+    "to": 303.14,
+    "sid": 146,
+    "location": 2,
+    "content": "而算法的预测可以达到80%以上",
+    "music": 0.0
+  },
+  {
+    "from": 303.14,
+    "to": 304.18,
+    "sid": 147,
+    "location": 2,
+    "content": "换句话说",
+    "music": 0.0
+  },
+  {
+    "from": 304.18,
+    "to": 306.98,
+    "sid": 148,
+    "location": 2,
+    "content": "算法有可能比你自己更了解你喜欢什么",
+    "music": 0.0
+  },
+  {
+    "from": 306.98,
+    "to": 308.14,
+    "sid": 149,
+    "location": 2,
+    "content": "你有没有注意到",
+    "music": 0.0
+  },
+  {
+    "from": 308.14,
+    "to": 310.24,
+    "sid": 150,
+    "location": 2,
+    "content": "当你看了几个美食视频之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 310.24,
+    "to": 313.169,
+    "sid": 151,
+    "location": 2,
+    "content": "平台就会突然开始不断的给你推送美食视频",
+    "music": 0.0
+  },
+  {
+    "from": 313.169,
+    "to": 315.529,
+    "sid": 152,
+    "location": 2,
+    "content": "但他们又不是完全一样的美食食品",
+    "music": 0.0
+  },
+  {
+    "from": 315.529,
+    "to": 316.789,
+    "sid": 153,
+    "location": 2,
+    "content": "可能一会儿是川菜",
+    "music": 0.0
+  },
+  {
+    "from": 316.789,
+    "to": 317.909,
+    "sid": 154,
+    "location": 2,
+    "content": "一会儿是日料",
+    "music": 0.0
+  },
+  {
+    "from": 317.909,
+    "to": 318.929,
+    "sid": 155,
+    "location": 2,
+    "content": "一会儿是韩料",
+    "music": 0.0
+  },
+  {
+    "from": 318.929,
+    "to": 319.99,
+    "sid": 156,
+    "location": 2,
+    "content": "一会又是火锅",
+    "music": 0.0
+  },
+  {
+    "from": 319.99,
+    "to": 321.15,
+    "sid": 157,
+    "location": 2,
+    "content": "一会儿又是甜品",
+    "music": 0.0
+  },
+  {
+    "from": 321.15,
+    "to": 323.26,
+    "sid": 158,
+    "location": 2,
+    "content": "这就是探索与利用的平衡",
+    "music": 0.0
+  },
+  {
+    "from": 323.26,
+    "to": 323.78,
+    "sid": 159,
+    "location": 2,
+    "content": "平台",
+    "music": 0.0
+  },
+  {
+    "from": 323.78,
+    "to": 326.66,
+    "sid": 160,
+    "location": 2,
+    "content": "一般会给你70%到80%的已知",
+    "music": 0.0
+  },
+  {
+    "from": 326.66,
+    "to": 327.84,
+    "sid": 161,
+    "location": 2,
+    "content": "你会喜欢的内容",
+    "music": 0.0
+  },
+  {
+    "from": 327.84,
+    "to": 330.76,
+    "sid": 162,
+    "location": 2,
+    "content": "同时又混入20%到30%的新内容",
+    "music": 0.0
+  },
+  {
+    "from": 330.76,
+    "to": 332.14,
+    "sid": 163,
+    "location": 2,
+    "content": "来测试你的反应",
+    "music": 0.0
+  },
+  {
+    "from": 332.14,
+    "to": 333.46,
+    "sid": 164,
+    "location": 2,
+    "content": "这种策略可以确保",
+    "music": 0.0
+  },
+  {
+    "from": 333.46,
+    "to": 335.87,
+    "sid": 165,
+    "location": 2,
+    "content": "你不会因为内容的重复而感到无聊",
+    "music": 0.0
+  },
+  {
+    "from": 335.87,
+    "to": 338.53,
+    "sid": 166,
+    "location": 2,
+    "content": "但同时也不断地探索你多巴胺的边界",
+    "music": 0.0
+  },
+  {
+    "from": 338.53,
+    "to": 340.64,
+    "sid": 167,
+    "location": 2,
+    "content": "持续地捕获你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 340.64,
+    "to": 342.14,
+    "sid": 168,
+    "location": 2,
+    "content": "有时候看到一个视频",
+    "music": 0.0
+  },
+  {
+    "from": 342.14,
+    "to": 345.16,
+    "sid": 169,
+    "location": 2,
+    "content": "你会觉得这个视频怎么像是专门为我准备的",
+    "music": 0.0
+  },
+  {
+    "from": 345.16,
+    "to": 346.68,
+    "sid": 170,
+    "location": 2,
+    "content": "我们经常会有这样的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 346.68,
+    "to": 347.46,
+    "sid": 171,
+    "location": 2,
+    "content": "事实上",
+    "music": 0.0
+  },
+  {
+    "from": 347.46,
+    "to": 348.98,
+    "sid": 172,
+    "location": 2,
+    "content": "小红书和抖音的算法",
+    "music": 0.0
+  },
+  {
+    "from": 348.98,
+    "to": 351.58,
+    "sid": 173,
+    "location": 2,
+    "content": "都使用了非常复杂的深度学习模型",
+    "music": 0.0
+  },
+  {
+    "from": 351.58,
+    "to": 353.84,
+    "sid": 174,
+    "location": 2,
+    "content": "可以同时处理成百上千个特征",
+    "music": 0.0
+  },
+  {
+    "from": 353.84,
+    "to": 356.83,
+    "sid": 175,
+    "location": 2,
+    "content": "从你的基本信息到你过去所有的互动行为",
+    "music": 0.0
+  },
+  {
+    "from": 356.83,
+    "to": 357.83,
+    "sid": 176,
+    "location": 2,
+    "content": "更关键的是",
+    "music": 0.0
+  },
+  {
+    "from": 357.83,
+    "to": 359.37,
+    "sid": 177,
+    "location": 2,
+    "content": "他不仅分析你的行为",
+    "music": 0.0
+  },
+  {
+    "from": 359.37,
+    "to": 362.07,
+    "sid": 178,
+    "location": 2,
+    "content": "还会分析跟你爱好相似的那些人的行为",
+    "music": 0.0
+  },
+  {
+    "from": 362.07,
+    "to": 363.659,
+    "sid": 179,
+    "location": 2,
+    "content": "那些和你年龄相仿",
+    "music": 0.0
+  },
+  {
+    "from": 363.659,
+    "to": 364.699,
+    "sid": 180,
+    "location": 2,
+    "content": "城市相近",
+    "music": 0.0
+  },
+  {
+    "from": 364.699,
+    "to": 367.059,
+    "sid": 181,
+    "location": 2,
+    "content": "观看习惯类似的人都在看什么",
+    "music": 0.0
+  },
+  {
+    "from": 367.059,
+    "to": 368.999,
+    "sid": 182,
+    "location": 2,
+    "content": "他们除了和你相似的爱好之外",
+    "music": 0.0
+  },
+  {
+    "from": 368.999,
+    "to": 370.7,
+    "sid": 183,
+    "location": 2,
+    "content": "他们还喜欢什么内容",
+    "music": 0.0
+  },
+  {
+    "from": 370.7,
+    "to": 371.76,
+    "sid": 184,
+    "location": 2,
+    "content": "打个比方",
+    "music": 0.0
+  },
+  {
+    "from": 371.76,
+    "to": 373.72,
+    "sid": 185,
+    "location": 2,
+    "content": "假如你停留的比较长的视频",
+    "music": 0.0
+  },
+  {
+    "from": 373.72,
+    "to": 376.74,
+    "sid": 186,
+    "location": 2,
+    "content": "都有相似的背景音乐或者是色调",
+    "music": 0.0
+  },
+  {
+    "from": 376.74,
+    "to": 378.52,
+    "sid": 187,
+    "location": 2,
+    "content": "那么平台就会注意到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 378.52,
+    "to": 379.98,
+    "sid": 188,
+    "location": 2,
+    "content": "尽管你自己没有察觉",
+    "music": 0.0
+  },
+  {
+    "from": 379.98,
+    "to": 382.16,
+    "sid": 189,
+    "location": 2,
+    "content": "或者他发现和你相似的用户群体",
+    "music": 0.0
+  },
+  {
+    "from": 382.16,
+    "to": 384.15,
+    "sid": 190,
+    "location": 2,
+    "content": "最近都开始看某一类内容",
+    "music": 0.0
+  },
+  {
+    "from": 384.15,
+    "to": 385.97,
+    "sid": 191,
+    "location": 2,
+    "content": "即使你还没有主动搜索过",
+    "music": 0.0
+  },
+  {
+    "from": 385.97,
+    "to": 388.01,
+    "sid": 192,
+    "location": 2,
+    "content": "他也会开始预测性地推送给你",
+    "music": 0.0
+  },
+  {
+    "from": 388.01,
+    "to": 389.01,
+    "sid": 193,
+    "location": 2,
+    "content": "当算法预测",
+    "music": 0.0
+  },
+  {
+    "from": 389.01,
+    "to": 390.79,
+    "sid": 194,
+    "location": 2,
+    "content": "你可能会喜欢某个视频的概率",
+    "music": 0.0
+  },
+  {
+    "from": 390.79,
+    "to": 392.19,
+    "sid": 195,
+    "location": 2,
+    "content": "大过95%时",
+    "music": 0.0
+  },
+  {
+    "from": 392.19,
+    "to": 393.65,
+    "sid": 196,
+    "location": 2,
+    "content": "他就会推送给你",
+    "music": 0.0
+  },
+  {
+    "from": 393.65,
+    "to": 395.49,
+    "sid": 197,
+    "location": 2,
+    "content": "所以你的上瘾不是巧合",
+    "music": 0.0
+  },
+  {
+    "from": 395.49,
+    "to": 398.62,
+    "sid": 198,
+    "location": 2,
+    "content": "而是数据科学的必然结果嗯",
+    "music": 0.0
+  },
+  {
+    "from": 400.34,
+    "to": 402.86,
+    "sid": 199,
+    "location": 2,
+    "content": "传统的媒体都有自然的结束点",
+    "music": 0.0
+  },
+  {
+    "from": 402.86,
+    "to": 404.7,
+    "sid": 200,
+    "location": 2,
+    "content": "一本书有最后一页",
+    "music": 0.0
+  },
+  {
+    "from": 404.7,
+    "to": 406.2,
+    "sid": 201,
+    "location": 2,
+    "content": "电影有片尾曲",
+    "music": 0.0
+  },
+  {
+    "from": 406.2,
+    "to": 408.66,
+    "sid": 202,
+    "location": 2,
+    "content": "甚至连电视节目也有广告时间",
+    "music": 0.0
+  },
+  {
+    "from": 408.66,
+    "to": 410.12,
+    "sid": 203,
+    "location": 2,
+    "content": "但短视频平台呢",
+    "music": 0.0
+  },
+  {
+    "from": 410.12,
+    "to": 412.52,
+    "sid": 204,
+    "location": 2,
+    "content": "他们给你一个永不结束的内容流",
+    "music": 0.0
+  },
+  {
+    "from": 412.52,
+    "to": 414.65,
+    "sid": 205,
+    "location": 2,
+    "content": "想想你上次看的电视剧",
+    "music": 0.0
+  },
+  {
+    "from": 414.65,
+    "to": 416.63,
+    "sid": 206,
+    "location": 2,
+    "content": "即使这个剧再怎么精彩",
+    "music": 0.0
+  },
+  {
+    "from": 416.63,
+    "to": 418.53,
+    "sid": 207,
+    "location": 2,
+    "content": "当片尾曲出现的时候",
+    "music": 0.0
+  },
+  {
+    "from": 418.53,
+    "to": 419.93,
+    "sid": 208,
+    "location": 2,
+    "content": "他还是给了你一个机会",
+    "music": 0.0
+  },
+  {
+    "from": 419.93,
+    "to": 420.55,
+    "sid": 209,
+    "location": 2,
+    "content": "问自己",
+    "music": 0.0
+  },
+  {
+    "from": 420.55,
+    "to": 422.38,
+    "sid": 210,
+    "location": 2,
+    "content": "我还要接着看下一集吗",
+    "music": 0.0
+  },
+  {
+    "from": 422.38,
+    "to": 425.86,
+    "sid": 211,
+    "location": 2,
+    "content": "这个短暂的停顿就给了你重新做决定的机会",
+    "music": 0.0
+  },
+  {
+    "from": 425.86,
+    "to": 427.82,
+    "sid": 212,
+    "location": 2,
+    "content": "但在抖音或者小红书上",
+    "music": 0.0
+  },
+  {
+    "from": 427.82,
+    "to": 429.54,
+    "sid": 213,
+    "location": 2,
+    "content": "当你上一个视频结束了",
+    "music": 0.0
+  },
+  {
+    "from": 429.54,
+    "to": 431.42,
+    "sid": 214,
+    "location": 2,
+    "content": "下一个视频马上就开始播放了",
+    "music": 0.0
+  },
+  {
+    "from": 431.42,
+    "to": 433.46,
+    "sid": 215,
+    "location": 2,
+    "content": "根本就没有给你思考的时间",
+    "music": 0.0
+  },
+  {
+    "from": 433.46,
+    "to": 434.62,
+    "sid": 216,
+    "location": 2,
+    "content": "更狠的是",
+    "music": 0.0
+  },
+  {
+    "from": 434.62,
+    "to": 436.4,
+    "sid": 217,
+    "location": 2,
+    "content": "即使你自己想要停下来",
+    "music": 0.0
+  },
+  {
+    "from": 436.4,
+    "to": 438.7,
+    "sid": 218,
+    "location": 2,
+    "content": "它已经开始自动播放下一个视频",
+    "music": 0.0
+  },
+  {
+    "from": 438.7,
+    "to": 441.5,
+    "sid": 219,
+    "location": 2,
+    "content": "这种设计就完全消除了摩擦感",
+    "music": 0.0
+  },
+  {
+    "from": 441.5,
+    "to": 443.14,
+    "sid": 220,
+    "location": 2,
+    "content": "这种设计其实利用了",
+    "music": 0.0
+  },
+  {
+    "from": 443.14,
+    "to": 445.6,
+    "sid": 221,
+    "location": 2,
+    "content": "人类对于完成循环的心理需求",
+    "music": 0.0
+  },
+  {
+    "from": 445.6,
+    "to": 448.18,
+    "sid": 222,
+    "location": 2,
+    "content": "心理学家称之为蔡格尼克效应",
+    "music": 0.0
+  },
+  {
+    "from": 448.18,
+    "to": 449.22,
+    "sid": 223,
+    "location": 2,
+    "content": "也就是说",
+    "music": 0.0
+  },
+  {
+    "from": 449.22,
+    "to": 452.46,
+    "sid": 224,
+    "location": 2,
+    "content": "那些未完成的任务在我们脑海中所占的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 452.46,
+    "to": 454.85,
+    "sid": 225,
+    "location": 2,
+    "content": "远大于那些已经完成的任务",
+    "music": 0.0
+  },
+  {
+    "from": 454.85,
+    "to": 456.17,
+    "sid": 226,
+    "location": 2,
+    "content": "就像你打开包裹",
+    "music": 0.0
+  },
+  {
+    "from": 456.17,
+    "to": 457.01,
+    "sid": 227,
+    "location": 2,
+    "content": "打开到一半",
+    "music": 0.0
+  },
+  {
+    "from": 457.01,
+    "to": 458.83,
+    "sid": 228,
+    "location": 2,
+    "content": "你会想要把这个包裹拆完",
+    "music": 0.0
+  },
+  {
+    "from": 458.83,
+    "to": 459.91,
+    "sid": 229,
+    "location": 2,
+    "content": "或者是一本小说",
+    "music": 0.0
+  },
+  {
+    "from": 459.91,
+    "to": 460.79,
+    "sid": 230,
+    "location": 2,
+    "content": "读到高潮部分",
+    "music": 0.0
+  },
+  {
+    "from": 460.79,
+    "to": 461.87,
+    "sid": 231,
+    "location": 2,
+    "content": "你就很难放下",
+    "music": 0.0
+  },
+  {
+    "from": 461.87,
+    "to": 464.43,
+    "sid": 232,
+    "location": 2,
+    "content": "而短视频平台就利用你的这种心理",
+    "music": 0.0
+  },
+  {
+    "from": 464.43,
+    "to": 467.36,
+    "sid": 233,
+    "location": 2,
+    "content": "每隔15秒的视频给你一个小小的满足感",
+    "music": 0.0
+  },
+  {
+    "from": 467.36,
+    "to": 470.14,
+    "sid": 234,
+    "location": 2,
+    "content": "但立刻就带你进入下一个未完成的故事",
+    "music": 0.0
+  },
+  {
+    "from": 470.14,
+    "to": 472.06,
+    "sid": 235,
+    "location": 2,
+    "content": "那么当内容无限时",
+    "music": 0.0
+  },
+  {
+    "from": 472.06,
+    "to": 474.549,
+    "sid": 236,
+    "location": 2,
+    "content": "你的大脑就找不到这个自然的停止点",
+    "music": 0.0
+  },
+  {
+    "from": 474.549,
+    "to": 476.629,
+    "sid": 237,
+    "location": 2,
+    "content": "而你就会陷入这个无限的循环",
+    "music": 0.0
+  },
+  {
+    "from": 476.629,
+    "to": 478.71,
+    "sid": 238,
+    "location": 2,
+    "content": "我们来看看这个界面设计",
+    "music": 0.0
+  },
+  {
+    "from": 478.71,
+    "to": 479.83,
+    "sid": 239,
+    "location": 2,
+    "content": "没有分页",
+    "music": 0.0
+  },
+  {
+    "from": 479.83,
+    "to": 481.11,
+    "sid": 240,
+    "location": 2,
+    "content": "没有加载等待",
+    "music": 0.0
+  },
+  {
+    "from": 481.11,
+    "to": 482.95,
+    "sid": 241,
+    "location": 2,
+    "content": "没有任何结束的提示",
+    "music": 0.0
+  },
+  {
+    "from": 482.95,
+    "to": 485.039,
+    "sid": 242,
+    "location": 2,
+    "content": "只有无尽的下一条内容",
+    "music": 0.0
+  },
+  {
+    "from": 485.039,
+    "to": 486.919,
+    "sid": 243,
+    "location": 2,
+    "content": "你在观看这条视频的时候",
+    "music": 0.0
+  },
+  {
+    "from": 486.919,
+    "to": 488.239,
+    "sid": 244,
+    "location": 2,
+    "content": "他们已经提前加载好了",
+    "music": 0.0
+  },
+  {
+    "from": 488.239,
+    "to": 490.32,
+    "sid": 245,
+    "location": 2,
+    "content": "下面五条视频供你选择",
+    "music": 0.0
+  },
+  {
+    "from": 490.32,
+    "to": 491.58,
+    "sid": 246,
+    "location": 2,
+    "content": "这不是偶然",
+    "music": 0.0
+  },
+  {
+    "from": 491.58,
+    "to": 494.04,
+    "sid": 247,
+    "location": 2,
+    "content": "而是基于心理学的精心设计的结果",
+    "music": 0.0
+  },
+  {
+    "from": 494.04,
+    "to": 497.0,
+    "sid": 248,
+    "location": 2,
+    "content": "有时候我们已经明明决定要退出了",
+    "music": 0.0
+  },
+  {
+    "from": 497.0,
+    "to": 499.539,
+    "sid": 249,
+    "location": 2,
+    "content": "但你的手指还止不住的想要往上滑",
+    "music": 0.0
+  },
+  {
+    "from": 499.539,
+    "to": 501.899,
+    "sid": 250,
+    "location": 2,
+    "content": "这就是这种设计的力量",
+    "music": 0.0
+  },
+  {
+    "from": 504.18,
+    "to": 506.76,
+    "sid": 251,
+    "location": 2,
+    "content": "最后还有一个让人不可忽视的因素",
+    "music": 0.0
+  },
+  {
+    "from": 506.76,
+    "to": 508.42,
+    "sid": 252,
+    "location": 2,
+    "content": "社交压力和formal",
+    "music": 0.0
+  },
+  {
+    "from": 508.42,
+    "to": 510.73,
+    "sid": 253,
+    "location": 2,
+    "content": "那用中文来说就是害怕错过",
+    "music": 0.0
+  },
+  {
+    "from": 510.73,
+    "to": 512.43,
+    "sid": 254,
+    "location": 2,
+    "content": "我们来看一个典型场景",
+    "music": 0.0
+  },
+  {
+    "from": 512.43,
+    "to": 513.31,
+    "sid": 255,
+    "location": 2,
+    "content": "某个周末",
+    "music": 0.0
+  },
+  {
+    "from": 513.31,
+    "to": 516.35,
+    "sid": 256,
+    "location": 2,
+    "content": "你的小红书信息流突然被某一个景点刷屏",
+    "music": 0.0
+  },
+  {
+    "from": 516.35,
+    "to": 518.63,
+    "sid": 257,
+    "location": 2,
+    "content": "从早上的来某某景点的游客",
+    "music": 0.0
+  },
+  {
+    "from": 518.63,
+    "to": 520.03,
+    "sid": 258,
+    "location": 2,
+    "content": "你们的嘴真严啊",
+    "music": 0.0
+  },
+  {
+    "from": 520.03,
+    "to": 521.09,
+    "sid": 259,
+    "location": 2,
+    "content": "到中午了",
+    "music": 0.0
+  },
+  {
+    "from": 521.09,
+    "to": 523.92,
+    "sid": 260,
+    "location": 2,
+    "content": "某某景点绝美出片打卡点",
+    "music": 0.0
+  },
+  {
+    "from": 523.92,
+    "to": 526.22,
+    "sid": 261,
+    "location": 2,
+    "content": "再到下午的后悔了",
+    "music": 0.0
+  },
+  {
+    "from": 526.22,
+    "to": 528.06,
+    "sid": 262,
+    "location": 2,
+    "content": "后悔没有早点来这个景点",
+    "music": 0.0
+  },
+  {
+    "from": 528.06,
+    "to": 529.02,
+    "sid": 263,
+    "location": 2,
+    "content": "一整天下来",
+    "music": 0.0
+  },
+  {
+    "from": 529.02,
+    "to": 531.08,
+    "sid": 264,
+    "location": 2,
+    "content": "你会不会觉得你如果没有去这个景点",
+    "music": 0.0
+  },
+  {
+    "from": 531.08,
+    "to": 532.38,
+    "sid": 265,
+    "location": 2,
+    "content": "你就落伍了",
+    "music": 0.0
+  },
+  {
+    "from": 532.38,
+    "to": 534.66,
+    "sid": 266,
+    "location": 2,
+    "content": "小红书尤其擅长利用这一点",
+    "music": 0.0
+  },
+  {
+    "from": 534.66,
+    "to": 536.42,
+    "sid": 267,
+    "location": 2,
+    "content": "它不仅推送热门内容",
+    "music": 0.0
+  },
+  {
+    "from": 536.42,
+    "to": 539.3,
+    "sid": 268,
+    "location": 2,
+    "content": "还会在搜索框的默认关键词里提示你",
+    "music": 0.0
+  },
+  {
+    "from": 539.3,
+    "to": 540.79,
+    "sid": 269,
+    "location": 2,
+    "content": "大家都在搜什么",
+    "music": 0.0
+  },
+  {
+    "from": 540.79,
+    "to": 542.95,
+    "sid": 270,
+    "location": 2,
+    "content": "当你看到你的信息流都在打卡",
+    "music": 0.0
+  },
+  {
+    "from": 542.95,
+    "to": 543.87,
+    "sid": 271,
+    "location": 2,
+    "content": "同一家餐厅",
+    "music": 0.0
+  },
+  {
+    "from": 543.87,
+    "to": 544.87,
+    "sid": 272,
+    "location": 2,
+    "content": "某个穿搭",
+    "music": 0.0
+  },
+  {
+    "from": 544.87,
+    "to": 546.11,
+    "sid": 273,
+    "location": 2,
+    "content": "某个美妆时",
+    "music": 0.0
+  },
+  {
+    "from": 546.11,
+    "to": 549.3,
+    "sid": 274,
+    "location": 2,
+    "content": "你也开始会自然而然地想要对这些产品感兴趣",
+    "music": 0.0
+  },
+  {
+    "from": 549.3,
+    "to": 550.84,
+    "sid": 275,
+    "location": 2,
+    "content": "你会自然而然地产生",
+    "music": 0.0
+  },
+  {
+    "from": 550.84,
+    "to": 552.48,
+    "sid": 276,
+    "location": 2,
+    "content": "我也应该了解这个的想法",
+    "music": 0.0
+  },
+  {
+    "from": 552.48,
+    "to": 555.55,
+    "sid": 277,
+    "location": 2,
+    "content": "这种从众效应也在数据科学中被量化了",
+    "music": 0.0
+  },
+  {
+    "from": 555.55,
+    "to": 556.53,
+    "sid": 278,
+    "location": 2,
+    "content": "研究表明",
+    "music": 0.0
+  },
+  {
+    "from": 556.53,
+    "to": 560.59,
+    "sid": 279,
+    "location": 2,
+    "content": "当一个内容被标记为热门或者是有高互动量时",
+    "music": 0.0
+  },
+  {
+    "from": 560.59,
+    "to": 563.74,
+    "sid": 280,
+    "location": 2,
+    "content": "用户的停留时间平均会增加35%",
+    "music": 0.0
+  },
+  {
+    "from": 563.74,
+    "to": 567.28,
+    "sid": 281,
+    "location": 2,
+    "content": "而当内容显示你的五个朋友也看了这条内容时",
+    "music": 0.0
+  },
+  {
+    "from": 567.28,
+    "to": 569.49,
+    "sid": 282,
+    "location": 2,
+    "content": "他的点击率会增加65%",
+    "music": 0.0
+  },
+  {
+    "from": 569.49,
+    "to": 571.39,
+    "sid": 283,
+    "location": 2,
+    "content": "我们人都是社会性动物",
+    "music": 0.0
+  },
+  {
+    "from": 571.39,
+    "to": 574.25,
+    "sid": 284,
+    "location": 2,
+    "content": "我们天生就想知道大家都在关注什么",
+    "music": 0.0
+  },
+  {
+    "from": 574.25,
+    "to": 575.39,
+    "sid": 285,
+    "location": 2,
+    "content": "更微妙的是",
+    "music": 0.0
+  },
+  {
+    "from": 575.39,
+    "to": 577.9,
+    "sid": 286,
+    "location": 2,
+    "content": "算法利用了我们的社交圈层的压力",
+    "music": 0.0
+  },
+  {
+    "from": 577.9,
+    "to": 579.24,
+    "sid": 287,
+    "location": 2,
+    "content": "如果你是白领呢",
+    "music": 0.0
+  },
+  {
+    "from": 579.24,
+    "to": 581.73,
+    "sid": 288,
+    "location": 2,
+    "content": "他就给你推送其他白领的生活方式",
+    "music": 0.0
+  },
+  {
+    "from": 581.73,
+    "to": 583.17,
+    "sid": 289,
+    "location": 2,
+    "content": "而如果你是大学生呢",
+    "music": 0.0
+  },
+  {
+    "from": 583.17,
+    "to": 585.23,
+    "sid": 290,
+    "location": 2,
+    "content": "他就给你展示同龄人的生活状态",
+    "music": 0.0
+  },
+  {
+    "from": 585.23,
+    "to": 587.11,
+    "sid": 291,
+    "location": 2,
+    "content": "而这种个性化的社交压力",
+    "music": 0.0
+  },
+  {
+    "from": 587.11,
+    "to": 589.73,
+    "sid": 292,
+    "location": 2,
+    "content": "比以往各种形式都更加精准",
+    "music": 0.0
+  },
+  {
+    "from": 589.73,
+    "to": 590.819,
+    "sid": 293,
+    "location": 2,
+    "content": "更加有效",
+    "music": 0.0
+  },
+  {
+    "from": 590.819,
+    "to": 593.099,
+    "sid": 294,
+    "location": 2,
+    "content": "把你牢牢地拿捏",
+    "music": 0.0
+  },
+  {
+    "from": 594.86,
+    "to": 598.22,
+    "sid": 295,
+    "location": 2,
+    "content": "现在让我们把所有刚才提到的因素都放到一起",
+    "music": 0.0
+  },
+  {
+    "from": 598.22,
+    "to": 601.29,
+    "sid": 296,
+    "location": 2,
+    "content": "来看看为什么短视频平台如此让人上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 601.29,
+    "to": 602.25,
+    "sid": 297,
+    "location": 2,
+    "content": "立即满足",
+    "music": 0.0
+  },
+  {
+    "from": 602.25,
+    "to": 603.35,
+    "sid": 298,
+    "location": 2,
+    "content": "加延迟奖励",
+    "music": 0.0
+  },
+  {
+    "from": 603.35,
+    "to": 604.75,
+    "sid": 299,
+    "location": 2,
+    "content": "短视频的内容简短",
+    "music": 0.0
+  },
+  {
+    "from": 604.75,
+    "to": 605.49,
+    "sid": 300,
+    "location": 2,
+    "content": "随时可看",
+    "music": 0.0
+  },
+  {
+    "from": 605.49,
+    "to": 606.51,
+    "sid": 301,
+    "location": 2,
+    "content": "随时获得奖励",
+    "music": 0.0
+  },
+  {
+    "from": 606.51,
+    "to": 608.63,
+    "sid": 302,
+    "location": 2,
+    "content": "但又不确定下一个内容是否精彩",
+    "music": 0.0
+  },
+  {
+    "from": 608.63,
+    "to": 610.15,
+    "sid": 303,
+    "location": 2,
+    "content": "创造一种不确定性",
+    "music": 0.0
+  },
+  {
+    "from": 610.15,
+    "to": 611.87,
+    "sid": 304,
+    "location": 2,
+    "content": "基于算法的个性推荐",
+    "music": 0.0
+  },
+  {
+    "from": 611.87,
+    "to": 614.03,
+    "sid": 305,
+    "location": 2,
+    "content": "导致内容会越来越符合你的口味",
+    "music": 0.0
+  },
+  {
+    "from": 614.03,
+    "to": 615.59,
+    "sid": 306,
+    "location": 2,
+    "content": "而无限滚动的设计呢",
+    "music": 0.0
+  },
+  {
+    "from": 615.59,
+    "to": 617.79,
+    "sid": 307,
+    "location": 2,
+    "content": "就给你一个永不结束的内容流",
+    "music": 0.0
+  },
+  {
+    "from": 617.79,
+    "to": 619.23,
+    "sid": 308,
+    "location": 2,
+    "content": "而社交压力与formal",
+    "music": 0.0
+  },
+  {
+    "from": 619.23,
+    "to": 621.319,
+    "sid": 309,
+    "location": 2,
+    "content": "让你不想错过任何一个热门话题",
+    "music": 0.0
+  },
+  {
+    "from": 621.319,
+    "to": 623.379,
+    "sid": 310,
+    "location": 2,
+    "content": "这种组合几乎是不可抗拒的",
+    "music": 0.0
+  },
+  {
+    "from": 623.379,
+    "to": 625.099,
+    "sid": 311,
+    "location": 2,
+    "content": "即使你知道他是怎么回事",
+    "music": 0.0
+  },
+  {
+    "from": 625.099,
+    "to": 627.399,
+    "sid": 312,
+    "location": 2,
+    "content": "你也很难摆脱它的影响",
+    "music": 0.0
+  },
+  {
+    "from": 629.2,
+    "to": 630.82,
+    "sid": 313,
+    "location": 2,
+    "content": "了解了这些机制之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 630.82,
+    "to": 633.25,
+    "sid": 314,
+    "location": 2,
+    "content": "我们就可以更有意识地去使用这些平台",
+    "music": 0.0
+  },
+  {
+    "from": 633.25,
+    "to": 634.85,
+    "sid": 315,
+    "location": 2,
+    "content": "这不是说要完全的戒掉",
+    "music": 0.0
+  },
+  {
+    "from": 634.85,
+    "to": 637.23,
+    "sid": 316,
+    "location": 2,
+    "content": "毕竟他们有时候也会提供一些有用的信息",
+    "music": 0.0
+  },
+  {
+    "from": 637.23,
+    "to": 638.83,
+    "sid": 317,
+    "location": 2,
+    "content": "而是说要掌握主动权",
+    "music": 0.0
+  },
+  {
+    "from": 638.83,
+    "to": 640.37,
+    "sid": 318,
+    "location": 2,
+    "content": "我自己尝试了这些方法",
+    "music": 0.0
+  },
+  {
+    "from": 640.37,
+    "to": 641.65,
+    "sid": 319,
+    "location": 2,
+    "content": "我觉得效果还不错",
+    "music": 0.0
+  },
+  {
+    "from": 641.65,
+    "to": 642.67,
+    "sid": 320,
+    "location": 2,
+    "content": "关闭通知",
+    "music": 0.0
+  },
+  {
+    "from": 642.67,
+    "to": 643.95,
+    "sid": 321,
+    "location": 2,
+    "content": "减少平台的诱惑",
+    "music": 0.0
+  },
+  {
+    "from": 643.95,
+    "to": 646.07,
+    "sid": 322,
+    "location": 2,
+    "content": "主动选择我何时使用这个平台",
+    "music": 0.0
+  },
+  {
+    "from": 646.07,
+    "to": 647.37,
+    "sid": 323,
+    "location": 2,
+    "content": "有意识地消费",
+    "music": 0.0
+  },
+  {
+    "from": 647.37,
+    "to": 649.43,
+    "sid": 324,
+    "location": 2,
+    "content": "每天在固定的时间段刷视频",
+    "music": 0.0
+  },
+  {
+    "from": 649.43,
+    "to": 651.89,
+    "sid": 325,
+    "location": 2,
+    "content": "而不是随时随地有时间就刷视频",
+    "music": 0.0
+  },
+  {
+    "from": 651.89,
+    "to": 654.569,
+    "sid": 326,
+    "location": 2,
+    "content": "然后每看完一个视频再问自己一句",
+    "music": 0.0
+  },
+  {
+    "from": 654.569,
+    "to": 656.149,
+    "sid": 327,
+    "location": 2,
+    "content": "这个视频对我有帮助吗",
+    "music": 0.0
+  },
+  {
+    "from": 656.149,
+    "to": 657.669,
+    "sid": 328,
+    "location": 2,
+    "content": "而不是看到什么就刷什么",
+    "music": 0.0
+  },
+  {
+    "from": 657.669,
+    "to": 660.269,
+    "sid": 329,
+    "location": 2,
+    "content": "设定一个看到什么内容就停止的规则",
+    "music": 0.0
+  },
+  {
+    "from": 660.269,
+    "to": 661.52,
+    "sid": 330,
+    "location": 2,
+    "content": "拿我自己来说",
+    "music": 0.0
+  },
+  {
+    "from": 661.52,
+    "to": 663.02,
+    "sid": 331,
+    "location": 2,
+    "content": "我有时候看到一个视频",
+    "music": 0.0
+  },
+  {
+    "from": 663.02,
+    "to": 666.28,
+    "sid": 332,
+    "location": 2,
+    "content": "我的第一反应是我刚刚看了个啥",
+    "music": 0.0
+  },
+  {
+    "from": 666.52,
+    "to": 667.78,
+    "sid": 333,
+    "location": 2,
+    "content": "那我刷到这个时候",
+    "music": 0.0
+  },
+  {
+    "from": 667.78,
+    "to": 669.68,
+    "sid": 334,
+    "location": 2,
+    "content": "我就知道这是我的停止点",
+    "music": 0.0
+  },
+  {
+    "from": 669.68,
+    "to": 671.78,
+    "sid": 335,
+    "location": 2,
+    "content": "最后呢是寻找替代活动",
+    "music": 0.0
+  },
+  {
+    "from": 671.78,
+    "to": 674.42,
+    "sid": 336,
+    "location": 2,
+    "content": "找到其他可以触发你多巴胺的积极活动",
+    "music": 0.0
+  },
+  {
+    "from": 674.42,
+    "to": 675.4,
+    "sid": 337,
+    "location": 2,
+    "content": "比如运动啊",
+    "music": 0.0
+  },
+  {
+    "from": 675.4,
+    "to": 676.62,
+    "sid": 338,
+    "location": 2,
+    "content": "学习新技能啊",
+    "music": 0.0
+  },
+  {
+    "from": 676.62,
+    "to": 679.22,
+    "sid": 339,
+    "location": 2,
+    "content": "这些可能会花费更长的时间去积累",
+    "music": 0.0
+  },
+  {
+    "from": 679.22,
+    "to": 682.2,
+    "sid": 340,
+    "location": 2,
+    "content": "但是他们给你带来的快乐也会成倍的增加",
+    "music": 0.0
+  },
+  {
+    "from": 682.2,
+    "to": 683.18,
+    "sid": 341,
+    "location": 2,
+    "content": "对于我来说",
+    "music": 0.0
+  },
+  {
+    "from": 683.18,
+    "to": 685.34,
+    "sid": 342,
+    "location": 2,
+    "content": "最有效的方法就是有意识的消费",
+    "music": 0.0
+  },
+  {
+    "from": 685.34,
+    "to": 686.78,
+    "sid": 343,
+    "location": 2,
+    "content": "这样既能享受内容",
+    "music": 0.0
+  },
+  {
+    "from": 686.78,
+    "to": 688.22,
+    "sid": 344,
+    "location": 2,
+    "content": "又不会过度沉迷",
+    "music": 0.0
+  },
+  {
+    "from": 688.22,
+    "to": 689.85,
+    "sid": 345,
+    "location": 2,
+    "content": "而且我最近还发现",
+    "music": 0.0
+  },
+  {
+    "from": 689.85,
+    "to": 691.25,
+    "sid": 346,
+    "location": 2,
+    "content": "当我开始制作内容",
+    "music": 0.0
+  },
+  {
+    "from": 691.25,
+    "to": 693.15,
+    "sid": 347,
+    "location": 2,
+    "content": "而不是纯粹的消费内容时",
+    "music": 0.0
+  },
+  {
+    "from": 693.15,
+    "to": 695.39,
+    "sid": 348,
+    "location": 2,
+    "content": "我对整个过程有了更多的掌控感",
+    "music": 0.0
+  },
+  {
+    "from": 695.39,
+    "to": 697.86,
+    "sid": 349,
+    "location": 2,
+    "content": "我的整个体验也变得更加积极和主动",
+    "music": 0.0
+  },
+  {
+    "from": 697.86,
+    "to": 700.54,
+    "sid": 350,
+    "location": 2,
+    "content": "比如我会去观察其他博主的特效是怎么做的",
+    "music": 0.0
+  },
+  {
+    "from": 700.54,
+    "to": 702.4,
+    "sid": 351,
+    "location": 2,
+    "content": "这个能不能用到我自己的视频上",
+    "music": 0.0
+  },
+  {
+    "from": 702.4,
+    "to": 705.46,
+    "sid": 352,
+    "location": 2,
+    "content": "整个过程让我更有了掌控感",
+    "music": 0.0
+  },
+  {
+    "from": 706.74,
+    "to": 707.84,
+    "sid": 353,
+    "location": 2,
+    "content": "说了这么多",
+    "music": 0.0
+  },
+  {
+    "from": 707.84,
+    "to": 711.06,
+    "sid": 354,
+    "location": 2,
+    "content": "平台背后的精密的算法和心理学的设计",
+    "music": 0.0
+  },
+  {
+    "from": 711.06,
+    "to": 712.82,
+    "sid": 355,
+    "location": 2,
+    "content": "我们最需要注意到的是",
+    "music": 0.0
+  },
+  {
+    "from": 712.82,
+    "to": 713.62,
+    "sid": 356,
+    "location": 2,
+    "content": "他们的目标",
+    "music": 0.0
+  },
+  {
+    "from": 713.62,
+    "to": 716.7,
+    "sid": 357,
+    "location": 2,
+    "content": "并不是去最大化你的学习效率或者生活体验",
+    "music": 0.0
+  },
+  {
+    "from": 716.7,
+    "to": 719.29,
+    "sid": 358,
+    "location": 2,
+    "content": "而是最大化你在平台上所花的时间",
+    "music": 0.0
+  },
+  {
+    "from": 719.29,
+    "to": 722.17,
+    "sid": 359,
+    "location": 2,
+    "content": "我并不是说所有的短视频平台都是邪恶的",
+    "music": 0.0
+  },
+  {
+    "from": 722.17,
+    "to": 724.21,
+    "sid": 360,
+    "location": 2,
+    "content": "他们只是非常擅长做自己的工作",
+    "music": 0.0
+  },
+  {
+    "from": 724.21,
+    "to": 725.97,
+    "sid": 361,
+    "location": 2,
+    "content": "也就是吸引你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 725.97,
+    "to": 727.03,
+    "sid": 362,
+    "location": 2,
+    "content": "而问题在于",
+    "music": 0.0
+  },
+  {
+    "from": 727.03,
+    "to": 729.25,
+    "sid": 363,
+    "location": 2,
+    "content": "我们的注意力是非常有限的资源",
+    "music": 0.0
+  },
+  {
+    "from": 729.25,
+    "to": 731.65,
+    "sid": 364,
+    "location": 2,
+    "content": "我们需要有意识地选择怎么去分配",
+    "music": 0.0
+  },
+  {
+    "from": 731.65,
+    "to": 733.63,
+    "sid": 365,
+    "location": 2,
+    "content": "而当我们理解了这些运作机制",
+    "music": 0.0
+  },
+  {
+    "from": 733.63,
+    "to": 735.41,
+    "sid": 366,
+    "location": 2,
+    "content": "主动地做出我们的选择时",
+    "music": 0.0
+  },
+  {
+    "from": 735.41,
+    "to": 737.15,
+    "sid": 367,
+    "location": 2,
+    "content": "我们才是这些平台的主人",
+    "music": 0.0
+  },
+  {
+    "from": 737.15,
+    "to": 738.17,
+    "sid": 368,
+    "location": 2,
+    "content": "而不是奴隶",
+    "music": 0.0
+  },
+  {
+    "from": 738.17,
+    "to": 740.31,
+    "sid": 369,
+    "location": 2,
+    "content": "你有什么控制短视频使用的好方法",
+    "music": 0.0
+  },
+  {
+    "from": 740.31,
+    "to": 743.15,
+    "sid": 370,
+    "location": 2,
+    "content": "或者你注意到了哪些让你特别上瘾的小技巧",
+    "music": 0.0
+  },
+  {
+    "from": 743.15,
+    "to": 744.92,
+    "sid": 371,
+    "location": 2,
+    "content": "都欢迎你在评论区分享",
+    "music": 0.0
+  },
+  {
+    "from": 744.92,
+    "to": 747.2,
+    "sid": 372,
+    "location": 2,
+    "content": "如果你喜欢这种揭秘数据科学",
+    "music": 0.0
+  },
+  {
+    "from": 747.2,
+    "to": 748.96,
+    "sid": 373,
+    "location": 2,
+    "content": "在日常生活中的应用的内容",
+    "music": 0.0
+  },
+  {
+    "from": 748.96,
+    "to": 750.2,
+    "sid": 374,
+    "location": 2,
+    "content": "别忘了点赞订阅",
+    "music": 0.0
+  },
+  {
+    "from": 750.2,
+    "to": 752.569,
+    "sid": 375,
+    "location": 2,
+    "content": "也可以告诉我你想了解的其他话题",
+    "music": 0.0
+  },
+  {
+    "from": 752.569,
+    "to": 753.369,
+    "sid": 376,
+    "location": 2,
+    "content": "我是terry",
+    "music": 0.0
+  },
+  {
+    "from": 753.369,
+    "to": 753.969,
+    "sid": 377,
+    "location": 2,
+    "content": "感谢观看",
+    "music": 0.0
+  },
+  {
+    "from": 753.969,
+    "to": 755.0,
+    "sid": 378,
+    "location": 2,
+    "content": "我们下期再见",
+    "music": 0.0
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "from": 0.04,
+    "to": 2.4,
+    "sid": 1,
+    "location": 2,
+    "content": "心理学上有个词叫自我损耗",
+    "music": 0.0
+  },
+  {
+    "from": 2.4,
+    "to": 4.58,
+    "sid": 2,
+    "location": 2,
+    "content": "通俗的说就是拧巴",
+    "music": 0.0
+  },
+  {
+    "from": 4.58,
+    "to": 7.49,
+    "sid": 3,
+    "location": 2,
+    "content": "它是指尽管你什么都没做",
+    "music": 0.0
+  },
+  {
+    "from": 7.49,
+    "to": 10.14,
+    "sid": 4,
+    "location": 2,
+    "content": "但是你的每一次选择纠结",
+    "music": 0.0
+  },
+  {
+    "from": 10.14,
+    "to": 12.02,
+    "sid": 5,
+    "location": 2,
+    "content": "都会损耗你的心理能量",
+    "music": 0.0
+  },
+  {
+    "from": 12.02,
+    "to": 14.62,
+    "sid": 6,
+    "location": 2,
+    "content": "你的执行力和意志力都会下降",
+    "music": 0.0
+  },
+  {
+    "from": 14.62,
+    "to": 16.56,
+    "sid": 7,
+    "location": 2,
+    "content": "最后导致身心俱疲",
+    "music": 0.0
+  },
+  {
+    "from": 16.56,
+    "to": 19.44,
+    "sid": 8,
+    "location": 2,
+    "content": "这类人以自己的标准衡量一切",
+    "music": 0.0
+  },
+  {
+    "from": 19.44,
+    "to": 21.85,
+    "sid": 9,
+    "location": 2,
+    "content": "导致内心冲突不断积压",
+    "music": 0.0
+  },
+  {
+    "from": 21.85,
+    "to": 24.25,
+    "sid": 10,
+    "location": 2,
+    "content": "大量负面情绪和消极想法",
+    "music": 0.0
+  },
+  {
+    "from": 24.25,
+    "to": 26.05,
+    "sid": 11,
+    "location": 2,
+    "content": "这使他们活得特别累",
+    "music": 0.0
+  },
+  {
+    "from": 26.05,
+    "to": 28.87,
+    "sid": 12,
+    "location": 2,
+    "content": "焦虑和抑郁的风险也相应增加",
+    "music": 0.0
+  },
+  {
+    "from": 28.87,
+    "to": 30.59,
+    "sid": 13,
+    "location": 2,
+    "content": "长时间过度拧巴",
+    "music": 0.0
+  },
+  {
+    "from": 30.59,
+    "to": 32.34,
+    "sid": 14,
+    "location": 2,
+    "content": "内耗操心",
+    "music": 0.12280700677131524
+  },
+  {
+    "from": 32.34,
+    "to": 34.98,
+    "sid": 15,
+    "location": 2,
+    "content": "对身心健康造成严重影响",
+    "music": 0.0
+  },
+  {
+    "from": 34.98,
+    "to": 37.08,
+    "sid": 16,
+    "location": 2,
+    "content": "也让周围的人感到困扰",
+    "music": 0.0
+  },
+  {
+    "from": 37.08,
+    "to": 39.72,
+    "sid": 17,
+    "location": 2,
+    "content": "这类人内心缺乏安全感",
+    "music": 0.0
+  },
+  {
+    "from": 39.72,
+    "to": 41.14,
+    "sid": 18,
+    "location": 2,
+    "content": "常常杞人忧天",
+    "music": 0.0
+  },
+  {
+    "from": 41.14,
+    "to": 42.16,
+    "sid": 19,
+    "location": 2,
+    "content": "患得患失",
+    "music": 0.0
+  },
+  {
+    "from": 42.16,
+    "to": 44.47,
+    "sid": 20,
+    "location": 2,
+    "content": "他们努力想要掌控一切",
+    "music": 0.0
+  },
+  {
+    "from": 44.47,
+    "to": 46.23,
+    "sid": 21,
+    "location": 2,
+    "content": "以此找到存在感",
+    "music": 0.0
+  },
+  {
+    "from": 46.23,
+    "to": 48.29,
+    "sid": 22,
+    "location": 2,
+    "content": "非常在意别人的评价",
+    "music": 0.0
+  },
+  {
+    "from": 48.29,
+    "to": 50.67,
+    "sid": 23,
+    "location": 2,
+    "content": "却很少真正为自己而活",
+    "music": 0.0
+  },
+  {
+    "from": 50.67,
+    "to": 52.89,
+    "sid": 24,
+    "location": 2,
+    "content": "他们渴望得到别人的关爱",
+    "music": 0.0
+  },
+  {
+    "from": 52.89,
+    "to": 55.47,
+    "sid": 25,
+    "location": 2,
+    "content": "但往往忽视了身边人的感受",
+    "music": 0.32203388465958044
+  },
+  {
+    "from": 55.47,
+    "to": 57.33,
+    "sid": 26,
+    "location": 2,
+    "content": "遇事怀疑他人并责备",
+    "music": 0.0
+  },
+  {
+    "from": 57.33,
+    "to": 59.93,
+    "sid": 27,
+    "location": 2,
+    "content": "通常是一种简单粗暴的方法",
+    "music": 0.0
+  },
+  {
+    "from": 59.93,
+    "to": 61.99,
+    "sid": 28,
+    "location": 2,
+    "content": "试图证明自己是对的",
+    "music": 0.0
+  },
+  {
+    "from": 61.99,
+    "to": 64.13,
+    "sid": 29,
+    "location": 2,
+    "content": "让某人为某事负责任",
+    "music": 0.12499999289772716
+  },
+  {
+    "from": 64.13,
+    "to": 66.31,
+    "sid": 30,
+    "location": 2,
+    "content": "甚至将自己视作受害者",
+    "music": 0.0
+  },
+  {
+    "from": 66.31,
+    "to": 70.359,
+    "sid": 31,
+    "location": 2,
+    "content": "然而有时候这样做并不能很好地解决问题",
+    "music": 0.0
+  },
+  {
+    "from": 70.359,
+    "to": 72.139,
+    "sid": 32,
+    "location": 2,
+    "content": "当你太敏感的时候",
+    "music": 0.0
+  },
+  {
+    "from": 72.139,
+    "to": 75.3,
+    "sid": 33,
+    "location": 2,
+    "content": "你可能会觉得其他人都在针对你",
+    "music": 0.0
+  },
+  {
+    "from": 75.3,
+    "to": 77.58,
+    "sid": 34,
+    "location": 2,
+    "content": "这可能是因为自尊心不足",
+    "music": 0.1047618997732419
+  },
+  {
+    "from": 77.58,
+    "to": 81.66,
+    "sid": 35,
+    "location": 2,
+    "content": "导致你觉得你必须不断防守和承认自己的倾向",
+    "music": 0.0
+  },
+  {
+    "from": 81.66,
+    "to": 84.73,
+    "sid": 36,
+    "location": 2,
+    "content": "不要沉溺于自我怀疑和自我保护",
+    "music": 0.0
+  },
+  {
+    "from": 84.73,
+    "to": 88.33,
+    "sid": 37,
+    "location": 2,
+    "content": "而是要集中精力与喜欢自己的那些部分",
+    "music": 0.0
+  },
+  {
+    "from": 88.33,
+    "to": 91.06,
+    "sid": 38,
+    "location": 2,
+    "content": "一旦你对自己有了健康的认知",
+    "music": 0.0
+  },
+  {
+    "from": 91.06,
+    "to": 93.97,
+    "sid": 39,
+    "location": 2,
+    "content": "你就能够摆脱对他人评价的依赖",
+    "music": 0.0
+  },
+  {
+    "from": 93.97,
+    "to": 98.13,
+    "sid": 40,
+    "location": 2,
+    "content": "也许你是出于对现实的实际看法而持悲观态度",
+    "music": 0.0
+  },
+  {
+    "from": 98.13,
+    "to": 99.94,
+    "sid": 41,
+    "location": 2,
+    "content": "但有时候放松一下",
+    "music": 0.0
+  },
+  {
+    "from": 99.94,
+    "to": 102.18,
+    "sid": 42,
+    "location": 2,
+    "content": "找寻快乐也是很重要的",
+    "music": 0.0
+  },
+  {
+    "from": 102.18,
+    "to": 104.02,
+    "sid": 43,
+    "location": 2,
+    "content": "特别是在面对问题时",
+    "music": 0.0
+  },
+  {
+    "from": 104.02,
+    "to": 105.66,
+    "sid": 44,
+    "location": 2,
+    "content": "要关注解决方案",
+    "music": 0.0
+  },
+  {
+    "from": 105.66,
+    "to": 107.16,
+    "sid": 45,
+    "location": 2,
+    "content": "而不是问题本身",
+    "music": 0.0
+  },
+  {
+    "from": 107.16,
+    "to": 110.5,
+    "sid": 46,
+    "location": 2,
+    "content": "这样你就不会沉溺于糟糕的事情中",
+    "music": 0.0
+  },
+  {
+    "from": 110.5,
+    "to": 111.91,
+    "sid": 47,
+    "location": 2,
+    "content": "人生在世",
+    "music": 0.12280700677131563
+  },
+  {
+    "from": 111.91,
+    "to": 115.13,
+    "sid": 48,
+    "location": 2,
+    "content": "人生的幸福莫过于无事一身轻",
+    "music": 0.0
+  },
+  {
+    "from": 115.13,
+    "to": 118.49,
+    "sid": 49,
+    "location": 2,
+    "content": "以下这四件事你完全没有必要管",
+    "music": 0.0
+  },
+  {
+    "from": 118.49,
+    "to": 120.3,
+    "sid": 50,
+    "location": 2,
+    "content": "一已发生的事",
+    "music": 0.0
+  },
+  {
+    "from": 120.3,
+    "to": 122.38,
+    "sid": 51,
+    "location": 2,
+    "content": "过去的事情已成定局",
+    "music": 0.0
+  },
+  {
+    "from": 122.38,
+    "to": 125.64,
+    "sid": 52,
+    "location": 2,
+    "content": "过度操心只会增加痛苦和烦恼",
+    "music": 0.0
+  },
+  {
+    "from": 125.64,
+    "to": 128.26,
+    "sid": 53,
+    "location": 2,
+    "content": "珍惜当下才是人生真谛",
+    "music": 0.0
+  },
+  {
+    "from": 128.26,
+    "to": 131.97,
+    "sid": 54,
+    "location": 2,
+    "content": "二未来的事只要做好规划",
+    "music": 0.0
+  },
+  {
+    "from": 131.97,
+    "to": 133.63,
+    "sid": 55,
+    "location": 2,
+    "content": "脚踏实地努力",
+    "music": 0.0
+  },
+  {
+    "from": 133.63,
+    "to": 135.45,
+    "sid": 56,
+    "location": 2,
+    "content": "成功自然会到来",
+    "music": 0.0
+  },
+  {
+    "from": 135.45,
+    "to": 137.57,
+    "sid": 57,
+    "location": 2,
+    "content": "三无法改变的是",
+    "music": 0.0
+  },
+  {
+    "from": 137.57,
+    "to": 140.51,
+    "sid": 58,
+    "location": 2,
+    "content": "有些事情超出了我们的控制范围",
+    "music": 0.0
+  },
+  {
+    "from": 140.51,
+    "to": 142.019,
+    "sid": 59,
+    "location": 2,
+    "content": "如天气的变化",
+    "music": 0.0
+  },
+  {
+    "from": 142.019,
+    "to": 143.819,
+    "sid": 60,
+    "location": 2,
+    "content": "他人的生死离别等",
+    "music": 0.39048197739584856
+  },
+  {
+    "from": 143.819,
+    "to": 144.899,
+    "sid": 61,
+    "location": 2,
+    "content": "与其纠结",
+    "music": 0.0
+  },
+  {
+    "from": 144.899,
+    "to": 147.039,
+    "sid": 62,
+    "location": 2,
+    "content": "不如接受并尽力而为",
+    "music": 0.0
+  },
+  {
+    "from": 147.039,
+    "to": 149.329,
+    "sid": 63,
+    "location": 2,
+    "content": "四他人的是非",
+    "music": 0.0
+  },
+  {
+    "from": 149.329,
+    "to": 151.709,
+    "sid": 64,
+    "location": 2,
+    "content": "不要过多参与他人的纷争",
+    "music": 0.0
+  },
+  {
+    "from": 151.709,
+    "to": 154.089,
+    "sid": 65,
+    "location": 2,
+    "content": "未知全貌不予置评",
+    "music": 0.0
+  },
+  {
+    "from": 154.089,
+    "to": 155.51,
+    "sid": 66,
+    "location": 2,
+    "content": "人生短暂",
+    "music": 0.0
+  },
+  {
+    "from": 155.51,
+    "to": 159.41,
+    "sid": 67,
+    "location": 2,
+    "content": "我们不应把时间浪费在与人斤斤计较上",
+    "music": 0.0
+  },
+  {
+    "from": 159.41,
+    "to": 161.45,
+    "sid": 68,
+    "location": 2,
+    "content": "也不应对自己过于苛求",
+    "music": 0.0
+  },
+  {
+    "from": 161.45,
+    "to": 162.55,
+    "sid": 69,
+    "location": 2,
+    "content": "尽力而为",
+    "music": 0.0
+  },
+  {
+    "from": 162.55,
+    "to": 163.87,
+    "sid": 70,
+    "location": 2,
+    "content": "顺其自然",
+    "music": 0.0
+  },
+  {
+    "from": 163.87,
+    "to": 165.03,
+    "sid": 71,
+    "location": 2,
+    "content": "无愧于心",
+    "music": 0.0
+  },
+  {
+    "from": 165.03,
+    "to": 166.53,
+    "sid": 72,
+    "location": 2,
+    "content": "才是人生的真谛",
+    "music": 0.0
+  },
+  {
+    "from": 166.53,
+    "to": 169.15,
+    "sid": 73,
+    "location": 2,
+    "content": "简单的说就是心理戏太多",
+    "music": 0.0
+  },
+  {
+    "from": 169.15,
+    "to": 170.64,
+    "sid": 74,
+    "location": 2,
+    "content": "自己消耗自己",
+    "music": 0.0
+  }
+]

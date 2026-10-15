@@ -1,0 +1,978 @@
+[
+  {
+    "from": 0.0,
+    "to": 1.14,
+    "sid": 1,
+    "location": 2,
+    "content": "你要哄着自己",
+    "music": 0.0
+  },
+  {
+    "from": 1.14,
+    "to": 2.78,
+    "sid": 2,
+    "location": 2,
+    "content": "骗着自己去学习",
+    "music": 0.0
+  },
+  {
+    "from": 2.78,
+    "to": 4.68,
+    "sid": 3,
+    "location": 2,
+    "content": "前几天我跟一个学生聊天",
+    "music": 0.0
+  },
+  {
+    "from": 4.68,
+    "to": 7.26,
+    "sid": 4,
+    "location": 2,
+    "content": "他问我自己有很严重的拖延症",
+    "music": 0.0
+  },
+  {
+    "from": 7.26,
+    "to": 8.54,
+    "sid": 5,
+    "location": 2,
+    "content": "今天的事不想做",
+    "music": 0.0
+  },
+  {
+    "from": 8.54,
+    "to": 9.22,
+    "sid": 6,
+    "location": 2,
+    "content": "拖到明天",
+    "music": 0.0
+  },
+  {
+    "from": 9.22,
+    "to": 10.22,
+    "sid": 7,
+    "location": 2,
+    "content": "明天的事不想做",
+    "music": 0.0
+  },
+  {
+    "from": 10.22,
+    "to": 11.34,
+    "sid": 8,
+    "location": 2,
+    "content": "拖到后天该怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 11.34,
+    "to": 11.9,
+    "sid": 9,
+    "location": 2,
+    "content": "我就问她",
+    "music": 0.0
+  },
+  {
+    "from": 11.9,
+    "to": 12.78,
+    "sid": 10,
+    "location": 2,
+    "content": "你为什么要这样子呢",
+    "music": 0.0
+  },
+  {
+    "from": 12.78,
+    "to": 15.15,
+    "sid": 11,
+    "location": 2,
+    "content": "她说手里还有很多东西要看呀",
+    "music": 0.0
+  },
+  {
+    "from": 15.15,
+    "to": 17.03,
+    "sid": 12,
+    "location": 2,
+    "content": "所以不停的拿着手机看呀",
+    "music": 0.0
+  },
+  {
+    "from": 17.03,
+    "to": 18.47,
+    "sid": 13,
+    "location": 2,
+    "content": "每天都要玩手机呀",
+    "music": 0.0
+  },
+  {
+    "from": 18.47,
+    "to": 19.65,
+    "sid": 14,
+    "location": 2,
+    "content": "每天要玩各种游戏呀",
+    "music": 0.0
+  },
+  {
+    "from": 19.65,
+    "to": 20.509,
+    "sid": 15,
+    "location": 2,
+    "content": "没空啊",
+    "music": 0.0
+  },
+  {
+    "from": 20.509,
+    "to": 22.469,
+    "sid": 16,
+    "location": 2,
+    "content": "事先还采取过强制性的措施",
+    "music": 0.0
+  },
+  {
+    "from": 22.469,
+    "to": 23.989,
+    "sid": 17,
+    "location": 2,
+    "content": "把自己的手机封存起来",
+    "music": 0.0
+  },
+  {
+    "from": 23.989,
+    "to": 24.749,
+    "sid": 18,
+    "location": 2,
+    "content": "然后跟我说",
+    "music": 0.0
+  },
+  {
+    "from": 24.749,
+    "to": 26.259,
+    "sid": 19,
+    "location": 2,
+    "content": "刘老师效果很好",
+    "music": 0.0
+  },
+  {
+    "from": 26.259,
+    "to": 27.839,
+    "sid": 20,
+    "location": 2,
+    "content": "今天一天都没看手机",
+    "music": 0.0
+  },
+  {
+    "from": 27.839,
+    "to": 29.079,
+    "sid": 21,
+    "location": 2,
+    "content": "我学了很多知识",
+    "music": 0.0
+  },
+  {
+    "from": 29.079,
+    "to": 30.119,
+    "sid": 22,
+    "location": 2,
+    "content": "但是还是不行",
+    "music": 0.0
+  },
+  {
+    "from": 30.119,
+    "to": 31.64,
+    "sid": 23,
+    "location": 2,
+    "content": "第二天又忍不住想看",
+    "music": 0.0
+  },
+  {
+    "from": 31.64,
+    "to": 32.56,
+    "sid": 24,
+    "location": 2,
+    "content": "所以我就跟你说",
+    "music": 0.0
+  },
+  {
+    "from": 32.56,
+    "to": 33.12,
+    "sid": 25,
+    "location": 2,
+    "content": "同学们",
+    "music": 0.0
+  },
+  {
+    "from": 33.12,
+    "to": 34.93,
+    "sid": 26,
+    "location": 2,
+    "content": "如果你连自己都控制不了",
+    "music": 0.0
+  },
+  {
+    "from": 34.93,
+    "to": 36.31,
+    "sid": 27,
+    "location": 2,
+    "content": "就控制不了想做的事情",
+    "music": 0.0
+  },
+  {
+    "from": 36.31,
+    "to": 38.03,
+    "sid": 28,
+    "location": 2,
+    "content": "我相信很多同学都是这个样子的",
+    "music": 0.0
+  },
+  {
+    "from": 38.03,
+    "to": 39.77,
+    "sid": 29,
+    "location": 2,
+    "content": "每天沉迷于各种短视频",
+    "music": 0.0
+  },
+  {
+    "from": 39.77,
+    "to": 42.32,
+    "sid": 30,
+    "location": 2,
+    "content": "可手机的东西跟你有半毛钱的关系吗",
+    "music": 0.0
+  },
+  {
+    "from": 42.32,
+    "to": 44.1,
+    "sid": 31,
+    "location": 2,
+    "content": "刷手机能让你考研究生吗",
+    "music": 0.0
+  },
+  {
+    "from": 44.1,
+    "to": 45.16,
+    "sid": 32,
+    "location": 2,
+    "content": "刷手机能让你找到",
+    "music": 0.0
+  },
+  {
+    "from": 45.16,
+    "to": 46.72,
+    "sid": 33,
+    "location": 2,
+    "content": "2万块钱以上的工资的工作吗",
+    "music": 0.0
+  },
+  {
+    "from": 46.72,
+    "to": 48.0,
+    "sid": 34,
+    "location": 2,
+    "content": "能让你实现你的梦想",
+    "music": 0.0
+  },
+  {
+    "from": 48.0,
+    "to": 49.14,
+    "sid": 35,
+    "location": 2,
+    "content": "周游全世界吗",
+    "music": 0.0
+  },
+  {
+    "from": 49.14,
+    "to": 51.38,
+    "sid": 36,
+    "location": 2,
+    "content": "能让你实现你的个人价值吗",
+    "music": 0.0
+  },
+  {
+    "from": 51.38,
+    "to": 54.55,
+    "sid": 37,
+    "location": 2,
+    "content": "整天抱着手机刷那些没有营养的东西",
+    "music": 0.0
+  },
+  {
+    "from": 54.55,
+    "to": 55.53,
+    "sid": 38,
+    "location": 2,
+    "content": "上次有个同学跟我说",
+    "music": 0.0
+  },
+  {
+    "from": 55.53,
+    "to": 57.93,
+    "sid": 39,
+    "location": 2,
+    "content": "说刘老师关晓彤好像和鹿晗分手了",
+    "music": 0.0
+  },
+  {
+    "from": 57.93,
+    "to": 58.85,
+    "sid": 40,
+    "location": 2,
+    "content": "我特别开心",
+    "music": 0.0
+  },
+  {
+    "from": 58.85,
+    "to": 60.15,
+    "sid": 41,
+    "location": 2,
+    "content": "我说你为什么那么开心",
+    "music": 0.0
+  },
+  {
+    "from": 60.15,
+    "to": 62.129,
+    "sid": 42,
+    "location": 2,
+    "content": "他说因为我很喜欢鹿晗",
+    "music": 0.0
+  },
+  {
+    "from": 62.529,
+    "to": 63.089,
+    "sid": 43,
+    "location": 2,
+    "content": "同学们",
+    "music": 0.0
+  },
+  {
+    "from": 63.089,
+    "to": 65.429,
+    "sid": 44,
+    "location": 2,
+    "content": "你记住鹿晗再谈2000次恋爱",
+    "music": 0.0
+  },
+  {
+    "from": 65.429,
+    "to": 68.11,
+    "sid": 45,
+    "location": 2,
+    "content": "再分2万次数也轮不到你",
+    "music": 0.0
+  },
+  {
+    "from": 68.11,
+    "to": 69.75,
+    "sid": 46,
+    "location": 2,
+    "content": "你开心个猪头啊",
+    "music": 0.0
+  },
+  {
+    "from": 69.75,
+    "to": 71.27,
+    "sid": 47,
+    "location": 2,
+    "content": "做点自己该做的事吧",
+    "music": 0.0
+  },
+  {
+    "from": 71.27,
+    "to": 71.87,
+    "sid": 48,
+    "location": 2,
+    "content": "同学们",
+    "music": 0.0
+  },
+  {
+    "from": 71.87,
+    "to": 73.89,
+    "sid": 49,
+    "location": 2,
+    "content": "时间就这么一天一天溜走了",
+    "music": 0.0
+  },
+  {
+    "from": 73.89,
+    "to": 75.97,
+    "sid": 50,
+    "location": 2,
+    "content": "关心那些无关紧要的事干嘛嘛",
+    "music": 0.0
+  },
+  {
+    "from": 75.97,
+    "to": 78.09,
+    "sid": 51,
+    "location": 2,
+    "content": "你甘心这么荒废自己的青春吗",
+    "music": 0.09278350037198081
+  },
+  {
+    "from": 78.09,
+    "to": 80.35,
+    "sid": 52,
+    "location": 2,
+    "content": "你甘心一辈子做过这样的人吗",
+    "music": 0.0
+  },
+  {
+    "from": 80.35,
+    "to": 82.21,
+    "sid": 53,
+    "location": 2,
+    "content": "你不想住更好的房子吗",
+    "music": 0.0
+  },
+  {
+    "from": 82.21,
+    "to": 85.74,
+    "sid": 54,
+    "location": 2,
+    "content": "你不想走出去见识更美的人生和社会的风景吗",
+    "music": 0.0
+  },
+  {
+    "from": 85.74,
+    "to": 86.24,
+    "sid": 55,
+    "location": 2,
+    "content": "孩子们",
+    "music": 0.0
+  },
+  {
+    "from": 86.24,
+    "to": 87.2,
+    "sid": 56,
+    "location": 2,
+    "content": "如果你想自律",
+    "music": 0.0
+  },
+  {
+    "from": 87.2,
+    "to": 88.26,
+    "sid": 57,
+    "location": 2,
+    "content": "我告诉你怎么解决",
+    "music": 0.0
+  },
+  {
+    "from": 88.26,
+    "to": 90.26,
+    "sid": 58,
+    "location": 2,
+    "content": "首先你要知道自己的目标是什么",
+    "music": 0.0
+  },
+  {
+    "from": 90.26,
+    "to": 91.92,
+    "sid": 59,
+    "location": 2,
+    "content": "比如说你今年是要考研",
+    "music": 0.0
+  },
+  {
+    "from": 91.92,
+    "to": 93.22,
+    "sid": 60,
+    "location": 2,
+    "content": "对咱们的目标就是考研",
+    "music": 0.0
+  },
+  {
+    "from": 93.22,
+    "to": 95.31,
+    "sid": 61,
+    "location": 2,
+    "content": "那你现在的基本目标是先通过初试",
+    "music": 0.0
+  },
+  {
+    "from": 95.31,
+    "to": 96.83,
+    "sid": 62,
+    "location": 2,
+    "content": "戒手机戒拖延",
+    "music": 0.0
+  },
+  {
+    "from": 96.83,
+    "to": 98.25,
+    "sid": 63,
+    "location": 2,
+    "content": "你就定好一个时间",
+    "music": 0.0
+  },
+  {
+    "from": 98.25,
+    "to": 100.16,
+    "sid": 64,
+    "location": 2,
+    "content": "比如说我现在要背一个小时单词",
+    "music": 0.0
+  },
+  {
+    "from": 100.16,
+    "to": 102.48,
+    "sid": 65,
+    "location": 2,
+    "content": "那这一个小时你就忍不住去刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 102.48,
+    "to": 103.8,
+    "sid": 66,
+    "location": 2,
+    "content": "每次想玩手机的时候",
+    "music": 0.0
+  },
+  {
+    "from": 103.8,
+    "to": 106.75,
+    "sid": 67,
+    "location": 2,
+    "content": "你就去想想你考研英语考了20分的样子",
+    "music": 0.0
+  },
+  {
+    "from": 106.75,
+    "to": 107.79,
+    "sid": 68,
+    "location": 2,
+    "content": "人家都考研究生",
+    "music": 0.0
+  },
+  {
+    "from": 107.79,
+    "to": 108.75,
+    "sid": 69,
+    "location": 2,
+    "content": "自己庆祝去了",
+    "music": 0.0
+  },
+  {
+    "from": 108.75,
+    "to": 110.27,
+    "sid": 70,
+    "location": 2,
+    "content": "你一个人默默无闻",
+    "music": 0.0
+  },
+  {
+    "from": 110.27,
+    "to": 111.73,
+    "sid": 71,
+    "location": 2,
+    "content": "考了三站都没考上的样子",
+    "music": 0.0
+  },
+  {
+    "from": 111.73,
+    "to": 114.21,
+    "sid": 72,
+    "location": 2,
+    "content": "要是一个小时全程都没有看手机",
+    "music": 0.0
+  },
+  {
+    "from": 114.21,
+    "to": 116.19,
+    "sid": 73,
+    "location": 2,
+    "content": "你就给自己一点奖励对吧",
+    "music": 0.0
+  },
+  {
+    "from": 116.19,
+    "to": 117.07,
+    "sid": 74,
+    "location": 2,
+    "content": "说小鱼儿你真棒",
+    "music": 0.0
+  },
+  {
+    "from": 117.07,
+    "to": 119.57,
+    "sid": 75,
+    "location": 2,
+    "content": "今天中午带你喝杯你特别爱喝的奶茶呗",
+    "music": 0.0
+  },
+  {
+    "from": 119.57,
+    "to": 121.32,
+    "sid": 76,
+    "location": 2,
+    "content": "对做得好",
+    "music": 0.0
+  },
+  {
+    "from": 121.32,
+    "to": 122.42,
+    "sid": 77,
+    "location": 2,
+    "content": "鼓励一下自己",
+    "music": 0.0
+  },
+  {
+    "from": 122.42,
+    "to": 123.12,
+    "sid": 78,
+    "location": 2,
+    "content": "做的不好",
+    "music": 0.0
+  },
+  {
+    "from": 123.12,
+    "to": 124.53,
+    "sid": 79,
+    "location": 2,
+    "content": "骂一下自己好不好",
+    "music": 0.0
+  },
+  {
+    "from": 124.53,
+    "to": 126.21,
+    "sid": 80,
+    "location": 2,
+    "content": "你会慢慢爱上学习的",
+    "music": 0.0
+  },
+  {
+    "from": 126.21,
+    "to": 126.93,
+    "sid": 81,
+    "location": 2,
+    "content": "如果你不想学",
+    "music": 0.0
+  },
+  {
+    "from": 126.93,
+    "to": 127.45,
+    "sid": 82,
+    "location": 2,
+    "content": "跟自己说",
+    "music": 0.0
+  },
+  {
+    "from": 127.45,
+    "to": 128.77,
+    "sid": 83,
+    "location": 2,
+    "content": "我今天先学10分钟",
+    "music": 0.0
+  },
+  {
+    "from": 128.77,
+    "to": 130.17,
+    "sid": 84,
+    "location": 2,
+    "content": "咱们先背10分钟单词",
+    "music": 0.0
+  },
+  {
+    "from": 130.17,
+    "to": 131.85,
+    "sid": 85,
+    "location": 2,
+    "content": "听刘晓燕讲10分钟好不好",
+    "music": 0.0
+  },
+  {
+    "from": 131.85,
+    "to": 133.54,
+    "sid": 86,
+    "location": 2,
+    "content": "我跟我女儿是这么来干的",
+    "music": 0.0
+  },
+  {
+    "from": 133.54,
+    "to": 135.02,
+    "sid": 87,
+    "location": 2,
+    "content": "她在听我讲中考词汇",
+    "music": 0.0
+  },
+  {
+    "from": 135.02,
+    "to": 135.62,
+    "sid": 88,
+    "location": 2,
+    "content": "我就跟他说",
+    "music": 0.0
+  },
+  {
+    "from": 135.62,
+    "to": 136.26,
+    "sid": 89,
+    "location": 2,
+    "content": "不要听太久",
+    "music": 0.0
+  },
+  {
+    "from": 136.26,
+    "to": 137.52,
+    "sid": 90,
+    "location": 2,
+    "content": "悠悠咱们就听5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 137.52,
+    "to": 138.52,
+    "sid": 91,
+    "location": 2,
+    "content": "她可开心了",
+    "music": 0.0
+  },
+  {
+    "from": 138.52,
+    "to": 140.82,
+    "sid": 92,
+    "location": 2,
+    "content": "听5分钟说妈妈我5分钟听完啦",
+    "music": 0.0
+  },
+  {
+    "from": 140.82,
+    "to": 141.72,
+    "sid": 93,
+    "location": 2,
+    "content": "我说你记住了吗",
+    "music": 0.0
+  },
+  {
+    "from": 141.72,
+    "to": 142.12,
+    "sid": 94,
+    "location": 2,
+    "content": "记住了",
+    "music": 0.0
+  },
+  {
+    "from": 142.12,
+    "to": 142.86,
+    "sid": 95,
+    "location": 2,
+    "content": "你给我提问呗",
+    "music": 0.0
+  },
+  {
+    "from": 142.86,
+    "to": 145.329,
+    "sid": 96,
+    "location": 2,
+    "content": "提问完我说才听了5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 145.329,
+    "to": 146.889,
+    "sid": 97,
+    "location": 2,
+    "content": "要不咱们再听5分钟好不好",
+    "music": 0.0
+  },
+  {
+    "from": 146.889,
+    "to": 147.969,
+    "sid": 98,
+    "location": 2,
+    "content": "悠悠再听5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 147.969,
+    "to": 148.289,
+    "sid": 99,
+    "location": 2,
+    "content": "我告诉你",
+    "music": 0.0
+  },
+  {
+    "from": 148.289,
+    "to": 149.789,
+    "sid": 100,
+    "location": 2,
+    "content": "今天晚上手机让你玩20分钟",
+    "music": 0.0
+  },
+  {
+    "from": 149.789,
+    "to": 150.409,
+    "sid": 101,
+    "location": 2,
+    "content": "好行行行",
+    "music": 0.0
+  },
+  {
+    "from": 150.409,
+    "to": 150.949,
+    "sid": 102,
+    "location": 2,
+    "content": "妈妈妈妈",
+    "music": 0.0
+  },
+  {
+    "from": 150.949,
+    "to": 152.149,
+    "sid": 103,
+    "location": 2,
+    "content": "我我再听5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 152.149,
+    "to": 152.969,
+    "sid": 104,
+    "location": 2,
+    "content": "又听5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 152.969,
+    "to": 153.489,
+    "sid": 105,
+    "location": 2,
+    "content": "记住了吗",
+    "music": 0.0
+  },
+  {
+    "from": 153.489,
+    "to": 154.66,
+    "sid": 106,
+    "location": 2,
+    "content": "记住了妈妈",
+    "music": 0.0
+  },
+  {
+    "from": 154.66,
+    "to": 155.7,
+    "sid": 107,
+    "location": 2,
+    "content": "然后再跟你说",
+    "music": 0.0
+  },
+  {
+    "from": 155.7,
+    "to": 157.7,
+    "sid": 108,
+    "location": 2,
+    "content": "要不看看再能不能再再停5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 157.7,
+    "to": 159.4,
+    "sid": 109,
+    "location": 2,
+    "content": "能不能再坚持听5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 159.4,
+    "to": 161.08,
+    "sid": 110,
+    "location": 2,
+    "content": "对你要哄着自己",
+    "music": 0.0
+  },
+  {
+    "from": 161.08,
+    "to": 162.61,
+    "sid": 111,
+    "location": 2,
+    "content": "骗着自己去学习",
+    "music": 0.0
+  },
+  {
+    "from": 162.61,
+    "to": 165.31,
+    "sid": 112,
+    "location": 2,
+    "content": "但是当你取得了学习的愉悦的时候",
+    "music": 0.0
+  },
+  {
+    "from": 165.31,
+    "to": 166.91,
+    "sid": 113,
+    "location": 2,
+    "content": "得到学习成就感的时候",
+    "music": 0.0
+  },
+  {
+    "from": 166.91,
+    "to": 168.83,
+    "sid": 114,
+    "location": 2,
+    "content": "你慢慢就能约束你自己的同学",
+    "music": 0.0
+  },
+  {
+    "from": 168.83,
+    "to": 171.73,
+    "sid": 115,
+    "location": 2,
+    "content": "所以你要关注眼前要做的事情",
+    "music": 0.0
+  },
+  {
+    "from": 171.73,
+    "to": 173.45,
+    "sid": 116,
+    "location": 2,
+    "content": "1.1点去改变",
+    "music": 0.0
+  },
+  {
+    "from": 173.45,
+    "to": 174.99,
+    "sid": 117,
+    "location": 2,
+    "content": "一下子改变来不了",
+    "music": 0.0
+  },
+  {
+    "from": 174.99,
+    "to": 176.09,
+    "sid": 118,
+    "location": 2,
+    "content": "什么拖延症",
+    "music": 0.0
+  },
+  {
+    "from": 176.09,
+    "to": 177.0,
+    "sid": 119,
+    "location": 2,
+    "content": "荡都是浮云",
+    "music": 0.0
+  },
+  {
+    "from": 177.0,
+    "to": 179.4,
+    "sid": 120,
+    "location": 2,
+    "content": "不能阻止你变得更好的步伐",
+    "music": 0.0
+  },
+  {
+    "from": 179.4,
+    "to": 180.64,
+    "sid": 121,
+    "location": 2,
+    "content": "你心中要有光",
+    "music": 0.0
+  },
+  {
+    "from": 180.64,
+    "to": 184.08,
+    "sid": 122,
+    "location": 2,
+    "content": "孩子那束光就是我要把自己变得更好",
+    "music": 0.0
+  }
+]

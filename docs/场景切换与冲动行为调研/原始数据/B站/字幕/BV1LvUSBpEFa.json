@@ -1,0 +1,2778 @@
+[
+  {
+    "from": 0.0,
+    "to": 1.0,
+    "sid": 1,
+    "location": 2,
+    "content": "凌晨三点",
+    "music": 0.0
+  },
+  {
+    "from": 1.0,
+    "to": 2.64,
+    "sid": 2,
+    "location": 2,
+    "content": "身体累得跟狗一样",
+    "music": 0.0
+  },
+  {
+    "from": 2.64,
+    "to": 3.98,
+    "sid": 3,
+    "location": 2,
+    "content": "可一点儿也睡不着",
+    "music": 0.0
+  },
+  {
+    "from": 3.98,
+    "to": 5.54,
+    "sid": 4,
+    "location": 2,
+    "content": "脑子开始嗨到不行",
+    "music": 0.0
+  },
+  {
+    "from": 5.54,
+    "to": 6.7,
+    "sid": 5,
+    "location": 2,
+    "content": "开始反复的想",
+    "music": 0.0
+  },
+  {
+    "from": 6.7,
+    "to": 8.7,
+    "sid": 6,
+    "location": 2,
+    "content": "白天要是没说那句蠢话就好了",
+    "music": 0.0
+  },
+  {
+    "from": 8.7,
+    "to": 9.96,
+    "sid": 7,
+    "location": 2,
+    "content": "屏幕前的小伙伴们",
+    "music": 0.0
+  },
+  {
+    "from": 9.96,
+    "to": 11.68,
+    "sid": 8,
+    "location": 2,
+    "content": "你也有过这种情况吗",
+    "music": 0.0
+  },
+  {
+    "from": 11.68,
+    "to": 13.26,
+    "sid": 9,
+    "location": 2,
+    "content": "像开启了复读机一样",
+    "music": 0.0
+  },
+  {
+    "from": 13.26,
+    "to": 14.96,
+    "sid": 10,
+    "location": 2,
+    "content": "停不下来的思维死循环",
+    "music": 0.0
+  },
+  {
+    "from": 14.96,
+    "to": 17.64,
+    "sid": 11,
+    "location": 2,
+    "content": "心理学上给它起了个特别有味道的名字",
+    "music": 0.0
+  },
+  {
+    "from": 17.64,
+    "to": 19.36,
+    "sid": 12,
+    "location": 2,
+    "content": "反刍没错",
+    "music": 0.0
+  },
+  {
+    "from": 19.36,
+    "to": 21.77,
+    "sid": 13,
+    "location": 2,
+    "content": "反刍这个词最初是形容牛的",
+    "music": 0.0
+  },
+  {
+    "from": 21.77,
+    "to": 23.21,
+    "sid": 14,
+    "location": 2,
+    "content": "因为牛胃的结构",
+    "music": 0.0
+  },
+  {
+    "from": 23.21,
+    "to": 26.89,
+    "sid": 15,
+    "location": 2,
+    "content": "牛吃完草吞下去没事干的时候再呕出来",
+    "music": 0.0
+  },
+  {
+    "from": 26.89,
+    "to": 27.59,
+    "sid": 16,
+    "location": 2,
+    "content": "嚼一嚼",
+    "music": 0.0
+  },
+  {
+    "from": 27.59,
+    "to": 29.31,
+    "sid": 17,
+    "location": 2,
+    "content": "吞下去再呕出来",
+    "music": 0.0
+  },
+  {
+    "from": 29.31,
+    "to": 31.869,
+    "sid": 18,
+    "location": 2,
+    "content": "你看我们是不是也在做同样的事",
+    "music": 0.0
+  },
+  {
+    "from": 31.869,
+    "to": 33.609,
+    "sid": 19,
+    "location": 2,
+    "content": "只不过牛嚼的是草",
+    "music": 0.0
+  },
+  {
+    "from": 33.609,
+    "to": 37.0,
+    "sid": 20,
+    "location": 2,
+    "content": "我们嚼的是过去的烂摊子和负面情绪",
+    "music": 0.0
+  },
+  {
+    "from": 37.0,
+    "to": 39.28,
+    "sid": 21,
+    "location": 2,
+    "content": "我们还天真的以为自己在反思",
+    "music": 0.0
+  },
+  {
+    "from": 39.28,
+    "to": 40.52,
+    "sid": 22,
+    "location": 2,
+    "content": "在解决问题",
+    "music": 0.0
+  },
+  {
+    "from": 40.52,
+    "to": 43.55,
+    "sid": 23,
+    "location": 2,
+    "content": "错解决问题是车坏了",
+    "music": 0.0
+  },
+  {
+    "from": 43.55,
+    "to": 45.15,
+    "sid": 24,
+    "location": 2,
+    "content": "咱去修车搞定",
+    "music": 0.0
+  },
+  {
+    "from": 45.15,
+    "to": 47.09,
+    "sid": 25,
+    "location": 2,
+    "content": "反刍是车坏了",
+    "music": 0.0
+  },
+  {
+    "from": 47.09,
+    "to": 48.41,
+    "sid": 26,
+    "location": 2,
+    "content": "怎么就我这么倒霉",
+    "music": 0.0
+  },
+  {
+    "from": 48.41,
+    "to": 50.01,
+    "sid": 27,
+    "location": 2,
+    "content": "我这辈子运气都这么差",
+    "music": 0.0
+  },
+  {
+    "from": 50.01,
+    "to": 51.77,
+    "sid": 28,
+    "location": 2,
+    "content": "我是不是注定一事无成",
+    "music": 0.0
+  },
+  {
+    "from": 51.77,
+    "to": 54.81,
+    "sid": 29,
+    "location": 2,
+    "content": "然后无限循环是不是瞬间就破防了",
+    "music": 0.0
+  },
+  {
+    "from": 54.81,
+    "to": 56.95,
+    "sid": 30,
+    "location": 2,
+    "content": "那为什么大脑会这样卡带呢",
+    "music": 0.0
+  },
+  {
+    "from": 56.95,
+    "to": 59.59,
+    "sid": 31,
+    "location": 2,
+    "content": "这得从我们脑子里的一个神秘网络说起",
+    "music": 0.0
+  },
+  {
+    "from": 59.59,
+    "to": 62.65,
+    "sid": 32,
+    "location": 2,
+    "content": "叫默认模式网络简称DMN",
+    "music": 0.0
+  },
+  {
+    "from": 62.65,
+    "to": 65.01,
+    "sid": 33,
+    "location": 2,
+    "content": "DMN就是你大脑的屏保模式",
+    "music": 0.0
+  },
+  {
+    "from": 65.01,
+    "to": 66.83,
+    "sid": 34,
+    "location": 2,
+    "content": "或者可以叫神游模式",
+    "music": 0.0
+  },
+  {
+    "from": 66.83,
+    "to": 68.47,
+    "sid": 35,
+    "location": 2,
+    "content": "是大脑的后台总台",
+    "music": 0.0
+  },
+  {
+    "from": 68.47,
+    "to": 69.67,
+    "sid": 36,
+    "location": 2,
+    "content": "当你什么都不做",
+    "music": 0.0
+  },
+  {
+    "from": 69.67,
+    "to": 71.51,
+    "sid": 37,
+    "location": 2,
+    "content": "不再专注于外部任务的时候",
+    "music": 0.0
+  },
+  {
+    "from": 71.51,
+    "to": 72.68,
+    "sid": 38,
+    "location": 2,
+    "content": "它就会启动",
+    "music": 0.0
+  },
+  {
+    "from": 72.68,
+    "to": 75.84,
+    "sid": 39,
+    "location": 2,
+    "content": "简单来说就是你一闲下来发呆",
+    "music": 0.0
+  },
+  {
+    "from": 75.84,
+    "to": 78.06,
+    "sid": 40,
+    "location": 2,
+    "content": "走神或者什么都不干的时候",
+    "music": 0.0
+  },
+  {
+    "from": 78.06,
+    "to": 79.14,
+    "sid": 41,
+    "location": 2,
+    "content": "他就开始上班了",
+    "music": 0.0
+  },
+  {
+    "from": 79.14,
+    "to": 81.32,
+    "sid": 42,
+    "location": 2,
+    "content": "而他的主要工作就是编故事",
+    "music": 0.0
+  },
+  {
+    "from": 81.32,
+    "to": 83.0,
+    "sid": 43,
+    "location": 2,
+    "content": "关于你自己的故事",
+    "music": 0.0
+  },
+  {
+    "from": 83.0,
+    "to": 84.88,
+    "sid": 44,
+    "location": 2,
+    "content": "他会翻出你的记忆相册",
+    "music": 0.0
+  },
+  {
+    "from": 84.88,
+    "to": 86.56,
+    "sid": 45,
+    "location": 2,
+    "content": "联系你的自我评价部",
+    "music": 0.0
+  },
+  {
+    "from": 86.56,
+    "to": 88.38,
+    "sid": 46,
+    "location": 2,
+    "content": "再动用你的读心术部门",
+    "music": 0.0
+  },
+  {
+    "from": 88.38,
+    "to": 91.38,
+    "sid": 47,
+    "location": 2,
+    "content": "最后给你编制一个关于我的连续剧",
+    "music": 0.0
+  },
+  {
+    "from": 91.38,
+    "to": 94.82,
+    "sid": 48,
+    "location": 2,
+    "content": "为什么大脑要设计出这么一个爱瞎想的网络呢",
+    "music": 0.0
+  },
+  {
+    "from": 94.82,
+    "to": 95.94,
+    "sid": 49,
+    "location": 2,
+    "content": "在远古时代",
+    "music": 0.0
+  },
+  {
+    "from": 95.94,
+    "to": 98.11,
+    "sid": 50,
+    "location": 2,
+    "content": "DMN可是个救命的好东西",
+    "music": 0.0
+  },
+  {
+    "from": 98.11,
+    "to": 102.27,
+    "sid": 51,
+    "location": 2,
+    "content": "想象一下祖先拼了一天晚上坐在篝火边休息",
+    "music": 0.0
+  },
+  {
+    "from": 102.27,
+    "to": 103.31,
+    "sid": 52,
+    "location": 2,
+    "content": "没有野兽",
+    "music": 0.0
+  },
+  {
+    "from": 103.31,
+    "to": 104.91,
+    "sid": 53,
+    "location": 2,
+    "content": "身体终于能放松了",
+    "music": 0.0
+  },
+  {
+    "from": 104.91,
+    "to": 107.29,
+    "sid": 54,
+    "location": 2,
+    "content": "这时候DMN就会启动",
+    "music": 0.0
+  },
+  {
+    "from": 107.29,
+    "to": 109.9,
+    "sid": 55,
+    "location": 2,
+    "content": "一他会回放过去的错误",
+    "music": 0.0
+  },
+  {
+    "from": 109.9,
+    "to": 111.5,
+    "sid": 56,
+    "location": 2,
+    "content": "比如上次被狼追",
+    "music": 0.0
+  },
+  {
+    "from": 111.5,
+    "to": 112.92,
+    "sid": 57,
+    "location": 2,
+    "content": "然后预览未来",
+    "music": 0.0
+  },
+  {
+    "from": 112.92,
+    "to": 116.14,
+    "sid": 58,
+    "location": 2,
+    "content": "下次狼可能从哪个方向来帮你提前避险",
+    "music": 0.0
+  },
+  {
+    "from": 116.14,
+    "to": 119.41,
+    "sid": 59,
+    "location": 2,
+    "content": "二他会偷偷猜隔壁部落那个人",
+    "music": 0.0
+  },
+  {
+    "from": 119.41,
+    "to": 121.05,
+    "sid": 60,
+    "location": 2,
+    "content": "看我的眼神是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 121.05,
+    "to": 123.73,
+    "sid": 61,
+    "location": 2,
+    "content": "是想结盟还是想抢我的食物",
+    "music": 0.0
+  },
+  {
+    "from": 123.73,
+    "to": 126.269,
+    "sid": 62,
+    "location": 2,
+    "content": "三他把所有记忆串起来",
+    "music": 0.0
+  },
+  {
+    "from": 126.269,
+    "to": 128.069,
+    "sid": 63,
+    "location": 2,
+    "content": "编织成一个我的故事",
+    "music": 0.0
+  },
+  {
+    "from": 128.069,
+    "to": 129.069,
+    "sid": 64,
+    "location": 2,
+    "content": "简单来说",
+    "music": 0.0
+  },
+  {
+    "from": 129.069,
+    "to": 131.69,
+    "sid": 65,
+    "location": 2,
+    "content": "DMN是你的古代规划工作室",
+    "music": 0.0
+  },
+  {
+    "from": 131.69,
+    "to": 132.45,
+    "sid": 66,
+    "location": 2,
+    "content": "没有他",
+    "music": 0.0
+  },
+  {
+    "from": 132.45,
+    "to": 134.65,
+    "sid": 67,
+    "location": 2,
+    "content": "你第二天会忘记车停在哪里",
+    "music": 0.0
+  },
+  {
+    "from": 134.65,
+    "to": 136.31,
+    "sid": 68,
+    "location": 2,
+    "content": "也不知道怎么跟人聊天儿",
+    "music": 0.0
+  },
+  {
+    "from": 136.31,
+    "to": 138.67,
+    "sid": 69,
+    "location": 2,
+    "content": "但是一旦他转得太快",
+    "music": 0.0
+  },
+  {
+    "from": 138.67,
+    "to": 139.47,
+    "sid": 70,
+    "location": 2,
+    "content": "停不下来",
+    "music": 0.0
+  },
+  {
+    "from": 139.47,
+    "to": 140.93,
+    "sid": 71,
+    "location": 2,
+    "content": "一个无害的口误",
+    "music": 0.0
+  },
+  {
+    "from": 140.93,
+    "to": 144.29,
+    "sid": 72,
+    "location": 2,
+    "content": "在你脑子里就能变成一场灾难性的职场危机",
+    "music": 0.0
+  },
+  {
+    "from": 144.29,
+    "to": 146.31,
+    "sid": 73,
+    "location": 2,
+    "content": "他不知道什么时候该休息",
+    "music": 0.0
+  },
+  {
+    "from": 146.31,
+    "to": 149.45,
+    "sid": 74,
+    "location": 2,
+    "content": "让我们来正式认识一下DMN的核心成员",
+    "music": 0.0
+  },
+  {
+    "from": 149.45,
+    "to": 151.19,
+    "sid": 75,
+    "location": 2,
+    "content": "内侧前额叶皮层",
+    "music": 0.0
+  },
+  {
+    "from": 151.19,
+    "to": 154.01,
+    "sid": 76,
+    "location": 2,
+    "content": "你的内部编剧专门写你的自言自语",
+    "music": 0.0
+  },
+  {
+    "from": 154.01,
+    "to": 154.99,
+    "sid": 77,
+    "location": 2,
+    "content": "比如我做的很棒",
+    "music": 0.0
+  },
+  {
+    "from": 154.99,
+    "to": 156.13,
+    "sid": 78,
+    "location": 2,
+    "content": "或我太失败了",
+    "music": 0.0
+  },
+  {
+    "from": 156.13,
+    "to": 158.49,
+    "sid": 79,
+    "location": 2,
+    "content": "后扣带皮层和楔前叶",
+    "music": 0.0
+  },
+  {
+    "from": 158.49,
+    "to": 160.11,
+    "sid": 80,
+    "location": 2,
+    "content": "你的电影剪辑师",
+    "music": 0.0
+  },
+  {
+    "from": 160.11,
+    "to": 163.41,
+    "sid": 81,
+    "location": 2,
+    "content": "把过去和未来剪辑成各种记忆卷轴",
+    "music": 0.0
+  },
+  {
+    "from": 163.41,
+    "to": 165.47,
+    "sid": 82,
+    "location": 2,
+    "content": "缴回你的图书馆",
+    "music": 0.0
+  },
+  {
+    "from": 165.47,
+    "to": 168.729,
+    "sid": 83,
+    "location": 2,
+    "content": "管理员负责给你的自传事实贴标签",
+    "music": 0.0
+  },
+  {
+    "from": 168.729,
+    "to": 169.969,
+    "sid": 84,
+    "location": 2,
+    "content": "检索记忆",
+    "music": 0.0
+  },
+  {
+    "from": 169.969,
+    "to": 174.17,
+    "sid": 85,
+    "location": 2,
+    "content": "海马体负责你的空间和人生故事定位",
+    "music": 0.0
+  },
+  {
+    "from": 174.17,
+    "to": 176.35,
+    "sid": 86,
+    "location": 2,
+    "content": "比如这会儿闭上眼睛",
+    "music": 0.0
+  },
+  {
+    "from": 176.35,
+    "to": 178.39,
+    "sid": 87,
+    "location": 2,
+    "content": "想象一下你童年卧室",
+    "music": 0.0
+  },
+  {
+    "from": 178.39,
+    "to": 180.11,
+    "sid": 88,
+    "location": 2,
+    "content": "这就是海马的功能",
+    "music": 0.0
+  },
+  {
+    "from": 180.11,
+    "to": 181.49,
+    "sid": 89,
+    "location": 2,
+    "content": "即使你在闲着",
+    "music": 0.0
+  },
+  {
+    "from": 181.49,
+    "to": 184.15,
+    "sid": 90,
+    "location": 2,
+    "content": "这些节点也持续在传递信号",
+    "music": 0.0
+  },
+  {
+    "from": 184.15,
+    "to": 187.07,
+    "sid": 91,
+    "location": 2,
+    "content": "它们可以消耗掉你大脑高达60%",
+    "music": 0.0
+  },
+  {
+    "from": 187.07,
+    "to": 189.15,
+    "sid": 92,
+    "location": 2,
+    "content": "到80%的静息能量",
+    "music": 0.0
+  },
+  {
+    "from": 189.15,
+    "to": 192.11,
+    "sid": 93,
+    "location": 2,
+    "content": "所以你光是瞎想就能累得够呛",
+    "music": 0.0
+  },
+  {
+    "from": 192.11,
+    "to": 193.23,
+    "sid": 94,
+    "location": 2,
+    "content": "正常情况下",
+    "music": 0.0
+  },
+  {
+    "from": 193.23,
+    "to": 196.21,
+    "sid": 95,
+    "location": 2,
+    "content": "这个后台和你的专注工作组是轮班制的",
+    "music": 0.0
+  },
+  {
+    "from": 196.21,
+    "to": 197.05,
+    "sid": 96,
+    "location": 2,
+    "content": "此消彼长",
+    "music": 0.0
+  },
+  {
+    "from": 197.05,
+    "to": 200.14,
+    "sid": 97,
+    "location": 2,
+    "content": "可以想象成你的大脑不是单线运行",
+    "music": 0.0
+  },
+  {
+    "from": 200.14,
+    "to": 202.62,
+    "sid": 98,
+    "location": 2,
+    "content": "他在同时跑着三个微信群",
+    "music": 0.0
+  },
+  {
+    "from": 202.62,
+    "to": 208.38,
+    "sid": 99,
+    "location": 2,
+    "content": "一默认模式网络DMN内部聊天群负责自言自语",
+    "music": 0.0
+  },
+  {
+    "from": 208.38,
+    "to": 209.18,
+    "sid": 100,
+    "location": 2,
+    "content": "白日梦",
+    "music": 0.0
+  },
+  {
+    "from": 209.18,
+    "to": 214.37,
+    "sid": 101,
+    "location": 2,
+    "content": "二额顶网络FPN通常也被称为中央执行网络",
+    "music": 0.0
+  },
+  {
+    "from": 214.37,
+    "to": 215.43,
+    "sid": 102,
+    "location": 2,
+    "content": "是工作群",
+    "music": 0.0
+  },
+  {
+    "from": 215.43,
+    "to": 216.75,
+    "sid": 103,
+    "location": 2,
+    "content": "负责处理表格",
+    "music": 0.0
+  },
+  {
+    "from": 216.75,
+    "to": 218.97,
+    "sid": 104,
+    "location": 2,
+    "content": "保持专注解题等任务",
+    "music": 0.0
+  },
+  {
+    "from": 218.97,
+    "to": 224.78,
+    "sid": 105,
+    "location": 2,
+    "content": "三显著网络SN紧急新闻是决定什么是最重要",
+    "music": 0.0
+  },
+  {
+    "from": 224.78,
+    "to": 225.73,
+    "sid": 106,
+    "location": 2,
+    "content": "最紧急",
+    "music": 0.0
+  },
+  {
+    "from": 225.73,
+    "to": 228.07,
+    "sid": 107,
+    "location": 2,
+    "content": "SN就是大脑的总开关",
+    "music": 0.0
+  },
+  {
+    "from": 228.07,
+    "to": 231.56,
+    "sid": 108,
+    "location": 2,
+    "content": "他负责在DMN和FPN之间切换",
+    "music": 0.0
+  },
+  {
+    "from": 231.56,
+    "to": 233.36,
+    "sid": 109,
+    "location": 2,
+    "content": "当你在专心工作时",
+    "music": 0.0
+  },
+  {
+    "from": 233.36,
+    "to": 236.519,
+    "sid": 110,
+    "location": 2,
+    "content": "SN激活FPN抑制DMN",
+    "music": 0.0
+  },
+  {
+    "from": 236.519,
+    "to": 239.239,
+    "sid": 111,
+    "location": 2,
+    "content": "但当你情绪低落或极度焦虑时",
+    "music": 0.0
+  },
+  {
+    "from": 239.239,
+    "to": 240.299,
+    "sid": 112,
+    "location": 2,
+    "content": "就坏事了",
+    "music": 0.0
+  },
+  {
+    "from": 240.299,
+    "to": 242.139,
+    "sid": 113,
+    "location": 2,
+    "content": "SN这个开关会失灵",
+    "music": 0.0
+  },
+  {
+    "from": 242.139,
+    "to": 244.64,
+    "sid": 114,
+    "location": 2,
+    "content": "导致DMN持续过度兴奋",
+    "music": 0.0
+  },
+  {
+    "from": 244.64,
+    "to": 247.32,
+    "sid": 115,
+    "location": 2,
+    "content": "内心戏会像洪水一样滔滔不绝",
+    "music": 0.0
+  },
+  {
+    "from": 247.32,
+    "to": 248.51,
+    "sid": 116,
+    "location": 2,
+    "content": "霸占你的意识",
+    "music": 0.0
+  },
+  {
+    "from": 248.51,
+    "to": 249.71,
+    "sid": 117,
+    "location": 2,
+    "content": "彻底霸屏了",
+    "music": 0.0
+  },
+  {
+    "from": 249.71,
+    "to": 249.91,
+    "sid": 118,
+    "location": 2,
+    "content": "他",
+    "music": 0.0
+  },
+  {
+    "from": 249.91,
+    "to": 252.43,
+    "sid": 119,
+    "location": 2,
+    "content": "开始喋喋不休地翻来覆去的播放",
+    "music": 0.0
+  },
+  {
+    "from": 252.43,
+    "to": 254.05,
+    "sid": 120,
+    "location": 2,
+    "content": "那些让你痛苦的剧情",
+    "music": 0.0
+  },
+  {
+    "from": 254.05,
+    "to": 255.6,
+    "sid": 121,
+    "location": 2,
+    "content": "也就是你的反刍",
+    "music": 0.0
+  },
+  {
+    "from": 255.6,
+    "to": 258.799,
+    "sid": 122,
+    "location": 2,
+    "content": "这时你想切换到解决问题的频道",
+    "music": 0.0
+  },
+  {
+    "from": 258.799,
+    "to": 259.459,
+    "sid": 123,
+    "location": 2,
+    "content": "对不起",
+    "music": 0.0
+  },
+  {
+    "from": 259.459,
+    "to": 260.779,
+    "sid": 124,
+    "location": 2,
+    "content": "信号被他掐断了",
+    "music": 0.0
+  },
+  {
+    "from": 260.779,
+    "to": 263.339,
+    "sid": 125,
+    "location": 2,
+    "content": "这就是为什么你明明知道想下去没用",
+    "music": 0.0
+  },
+  {
+    "from": 263.339,
+    "to": 264.99,
+    "sid": 126,
+    "location": 2,
+    "content": "但是根本停不下来",
+    "music": 0.0
+  },
+  {
+    "from": 264.99,
+    "to": 266.63,
+    "sid": 127,
+    "location": 2,
+    "content": "因为你的大脑控制台",
+    "music": 0.0
+  },
+  {
+    "from": 266.63,
+    "to": 269.27,
+    "sid": 128,
+    "location": 2,
+    "content": "已经被这个疯狂的后台给接管了",
+    "music": 0.0
+  },
+  {
+    "from": 269.27,
+    "to": 270.96,
+    "sid": 129,
+    "location": 2,
+    "content": "这里有个很有趣的区分",
+    "music": 0.0
+  },
+  {
+    "from": 270.96,
+    "to": 273.46,
+    "sid": 130,
+    "location": 2,
+    "content": "反刍和强迫思维不太一样",
+    "music": 0.0
+  },
+  {
+    "from": 273.46,
+    "to": 275.94,
+    "sid": 131,
+    "location": 2,
+    "content": "强迫思维像个闯进你家的不速之客",
+    "music": 0.0
+  },
+  {
+    "from": 275.94,
+    "to": 277.84,
+    "sid": 132,
+    "location": 2,
+    "content": "你拼命想把他赶出去",
+    "music": 0.0
+  },
+  {
+    "from": 277.84,
+    "to": 279.76,
+    "sid": 133,
+    "location": 2,
+    "content": "而反刍思维却像一杯",
+    "music": 0.0
+  },
+  {
+    "from": 279.76,
+    "to": 282.1,
+    "sid": 134,
+    "location": 2,
+    "content": "你觉得自己必须喝下去的苦酒",
+    "music": 0.0
+  },
+  {
+    "from": 282.1,
+    "to": 283.24,
+    "sid": 135,
+    "location": 2,
+    "content": "你一边痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 283.24,
+    "to": 286.42,
+    "sid": 136,
+    "location": 2,
+    "content": "一边又觉得我非得把这件事想通不可",
+    "music": 0.0
+  },
+  {
+    "from": 286.42,
+    "to": 289.74,
+    "sid": 137,
+    "location": 2,
+    "content": "这种想通的执念让他变得格外顽固",
+    "music": 0.0
+  },
+  {
+    "from": 289.74,
+    "to": 293.06,
+    "sid": 138,
+    "location": 2,
+    "content": "所以我们要做的不是跟这个后台吵架",
+    "music": 0.0
+  },
+  {
+    "from": 293.06,
+    "to": 296.22,
+    "sid": 139,
+    "location": 2,
+    "content": "而是想办法壮大专注工作组的信号",
+    "music": 0.054794518671428864
+  },
+  {
+    "from": 296.22,
+    "to": 298.99,
+    "sid": 140,
+    "location": 2,
+    "content": "或者直接给后台拉闸断电好了",
+    "music": 0.0
+  },
+  {
+    "from": 298.99,
+    "to": 301.89,
+    "sid": 141,
+    "location": 2,
+    "content": "家人们大脑卡带的原理咱们大致搞懂了",
+    "music": 0.0
+  },
+  {
+    "from": 301.89,
+    "to": 303.61,
+    "sid": 142,
+    "location": 2,
+    "content": "但是理论听着都挺爽",
+    "music": 0.0
+  },
+  {
+    "from": 303.61,
+    "to": 304.74,
+    "sid": 143,
+    "location": 2,
+    "content": "但一到深夜",
+    "music": 0.0
+  },
+  {
+    "from": 304.74,
+    "to": 307.7,
+    "sid": 144,
+    "location": 2,
+    "content": "脑子里那个悲剧循环频道还是自动开播",
+    "music": 0.0
+  },
+  {
+    "from": 307.7,
+    "to": 308.2,
+    "sid": 145,
+    "location": 2,
+    "content": "对不对",
+    "music": 0.0
+  },
+  {
+    "from": 308.2,
+    "to": 308.9,
+    "sid": 146,
+    "location": 2,
+    "content": "别急",
+    "music": 0.0
+  },
+  {
+    "from": 308.9,
+    "to": 312.84,
+    "sid": 147,
+    "location": 2,
+    "content": "下面这几招就是专治这种停不下来的实操手册",
+    "music": 0.0
+  },
+  {
+    "from": 312.84,
+    "to": 313.86,
+    "sid": 148,
+    "location": 2,
+    "content": "第一招",
+    "music": 0.0
+  },
+  {
+    "from": 313.86,
+    "to": 316.89,
+    "sid": 149,
+    "location": 2,
+    "content": "把脑子里的戏精当成路人甲",
+    "music": 0.0
+  },
+  {
+    "from": 316.89,
+    "to": 319.33,
+    "sid": 150,
+    "location": 2,
+    "content": "这第一招精髓就四个字",
+    "music": 0.0
+  },
+  {
+    "from": 319.33,
+    "to": 321.23,
+    "sid": 151,
+    "location": 2,
+    "content": "关你屁事不对",
+    "music": 0.0
+  },
+  {
+    "from": 321.23,
+    "to": 322.9,
+    "sid": 152,
+    "location": 2,
+    "content": "是关我屁事",
+    "music": 0.0
+  },
+  {
+    "from": 322.9,
+    "to": 325.7,
+    "sid": 153,
+    "location": 2,
+    "content": "你得接受一个残酷又解放的真相",
+    "music": 0.0
+  },
+  {
+    "from": 325.7,
+    "to": 329.39,
+    "sid": 154,
+    "location": 2,
+    "content": "你根本控制不了脑子里会冒出来什么鬼东西",
+    "music": 0.0
+  },
+  {
+    "from": 329.39,
+    "to": 331.31,
+    "sid": 155,
+    "location": 2,
+    "content": "想法是随机刷新的",
+    "music": 0.0
+  },
+  {
+    "from": 331.31,
+    "to": 332.49,
+    "sid": 156,
+    "location": 2,
+    "content": "你停止不了",
+    "music": 0.0
+  },
+  {
+    "from": 332.49,
+    "to": 334.23,
+    "sid": 157,
+    "location": 2,
+    "content": "但它不代表你的人格",
+    "music": 0.0
+  },
+  {
+    "from": 334.23,
+    "to": 335.81,
+    "sid": 158,
+    "location": 2,
+    "content": "更不等于是事实",
+    "music": 0.0
+  },
+  {
+    "from": 335.81,
+    "to": 338.51,
+    "sid": 159,
+    "location": 2,
+    "content": "所以当那个我真是个废物",
+    "music": 0.0
+  },
+  {
+    "from": 338.51,
+    "to": 340.49,
+    "sid": 160,
+    "location": 2,
+    "content": "或者他们肯定都在笑话",
+    "music": 0.0
+  },
+  {
+    "from": 340.49,
+    "to": 342.39,
+    "sid": 161,
+    "location": 2,
+    "content": "我的念头又冒出来的时候",
+    "music": 0.0
+  },
+  {
+    "from": 342.39,
+    "to": 344.39,
+    "sid": 162,
+    "location": 2,
+    "content": "别跟脑子里的小人辩论",
+    "music": 0.0
+  },
+  {
+    "from": 344.39,
+    "to": 345.77,
+    "sid": 163,
+    "location": 2,
+    "content": "别给他加戏",
+    "music": 0.0
+  },
+  {
+    "from": 345.77,
+    "to": 348.23,
+    "sid": 164,
+    "location": 2,
+    "content": "你就把它想象成你刷短视频时",
+    "music": 0.0
+  },
+  {
+    "from": 348.23,
+    "to": 349.75,
+    "sid": 165,
+    "location": 2,
+    "content": "划走的一个奇葩广告",
+    "music": 0.0
+  },
+  {
+    "from": 349.75,
+    "to": 352.37,
+    "sid": 166,
+    "location": 2,
+    "content": "或者街上缠着你说话的一个蛇精病",
+    "music": 0.0
+  },
+  {
+    "from": 352.37,
+    "to": 352.97,
+    "sid": 167,
+    "location": 2,
+    "content": "路人",
+    "music": 0.0
+  },
+  {
+    "from": 352.97,
+    "to": 356.429,
+    "sid": 168,
+    "location": 2,
+    "content": "心里默默吐槽一句又一个戏精",
+    "music": 0.0
+  },
+  {
+    "from": 356.429,
+    "to": 358.669,
+    "sid": 169,
+    "location": 2,
+    "content": "然后继续喝你的奶茶",
+    "music": 0.0
+  },
+  {
+    "from": 358.669,
+    "to": 360.009,
+    "sid": 170,
+    "location": 2,
+    "content": "干你手头的事儿",
+    "music": 0.0
+  },
+  {
+    "from": 360.009,
+    "to": 363.539,
+    "sid": 171,
+    "location": 2,
+    "content": "记住不用当你的思维的保安去制止他",
+    "music": 0.0
+  },
+  {
+    "from": 363.539,
+    "to": 365.639,
+    "sid": 172,
+    "location": 2,
+    "content": "你只当自己是个吃瓜群众",
+    "music": 0.0
+  },
+  {
+    "from": 365.639,
+    "to": 369.25,
+    "sid": 173,
+    "location": 2,
+    "content": "一旦你不再把这些想法当成是我的问题",
+    "music": 0.0
+  },
+  {
+    "from": 369.25,
+    "to": 372.07,
+    "sid": 174,
+    "location": 2,
+    "content": "反刍的链条啪一下就断了",
+    "music": 0.0
+  },
+  {
+    "from": 372.07,
+    "to": 375.05,
+    "sid": 175,
+    "location": 2,
+    "content": "虽然这个方法听起来稍微有那么点精分",
+    "music": 0.0
+  },
+  {
+    "from": 375.05,
+    "to": 379.1,
+    "sid": 176,
+    "location": 2,
+    "content": "但是是科学验证有效的认知行为疗法之一",
+    "music": 0.0
+  },
+  {
+    "from": 379.1,
+    "to": 380.08,
+    "sid": 177,
+    "location": 2,
+    "content": "第二招",
+    "music": 0.0
+  },
+  {
+    "from": 380.08,
+    "to": 381.82,
+    "sid": 178,
+    "location": 2,
+    "content": "把宇宙难题拍扁",
+    "music": 0.0
+  },
+  {
+    "from": 381.82,
+    "to": 383.32,
+    "sid": 179,
+    "location": 2,
+    "content": "变成一张清单",
+    "music": 0.0
+  },
+  {
+    "from": 383.32,
+    "to": 386.12,
+    "sid": 180,
+    "location": 2,
+    "content": "当你又开始想我是不是完蛋了",
+    "music": 0.0
+  },
+  {
+    "from": 386.12,
+    "to": 387.76,
+    "sid": 181,
+    "location": 2,
+    "content": "这种没边儿的问题时",
+    "music": 0.0
+  },
+  {
+    "from": 387.76,
+    "to": 388.76,
+    "sid": 182,
+    "location": 2,
+    "content": "立刻打住",
+    "music": 0.0
+  },
+  {
+    "from": 388.76,
+    "to": 392.179,
+    "sid": 183,
+    "location": 2,
+    "content": "然后像侦探探查记录现场一样",
+    "music": 0.0
+  },
+  {
+    "from": 392.179,
+    "to": 395.739,
+    "sid": 184,
+    "location": 2,
+    "content": "把你脑子里那出戏的案发经过都写下来",
+    "music": 0.0
+  },
+  {
+    "from": 395.739,
+    "to": 398.079,
+    "sid": 185,
+    "location": 2,
+    "content": "别写我人际关系好差",
+    "music": 0.0
+  },
+  {
+    "from": 398.079,
+    "to": 401.03,
+    "sid": 186,
+    "location": 2,
+    "content": "要写今天下午两点在茶水间",
+    "music": 0.0
+  },
+  {
+    "from": 401.03,
+    "to": 402.99,
+    "sid": 187,
+    "location": 2,
+    "content": "我想跟同事小张聊两句天",
+    "music": 0.0
+  },
+  {
+    "from": 402.99,
+    "to": 404.43,
+    "sid": 188,
+    "location": 2,
+    "content": "但嘴巴张开了",
+    "music": 0.0
+  },
+  {
+    "from": 404.43,
+    "to": 406.39,
+    "sid": 189,
+    "location": 2,
+    "content": "却说的是今天天气很好啊",
+    "music": 0.0
+  },
+  {
+    "from": 406.39,
+    "to": 407.96,
+    "sid": 190,
+    "location": 2,
+    "content": "这种冷场的尬聊",
+    "music": 0.0
+  },
+  {
+    "from": 407.96,
+    "to": 409.46,
+    "sid": 191,
+    "location": 2,
+    "content": "最后默默接完水",
+    "music": 0.0
+  },
+  {
+    "from": 409.46,
+    "to": 410.4,
+    "sid": 192,
+    "location": 2,
+    "content": "赶紧走了",
+    "music": 0.0
+  },
+  {
+    "from": 410.4,
+    "to": 413.54,
+    "sid": 193,
+    "location": 2,
+    "content": "记住你越是能像一个旁观者那样",
+    "music": 0.0
+  },
+  {
+    "from": 413.54,
+    "to": 415.92,
+    "sid": 194,
+    "location": 2,
+    "content": "客观地记录下时间地点",
+    "music": 0.0
+  },
+  {
+    "from": 415.92,
+    "to": 417.409,
+    "sid": 195,
+    "location": 2,
+    "content": "人物对话",
+    "music": 0.0
+  },
+  {
+    "from": 417.409,
+    "to": 420.689,
+    "sid": 196,
+    "location": 2,
+    "content": "例如问自己最近哪件事让我产生了这个想法",
+    "music": 0.0
+  },
+  {
+    "from": 420.689,
+    "to": 422.629,
+    "sid": 197,
+    "location": 2,
+    "content": "这件事发生在什么时候",
+    "music": 0.0
+  },
+  {
+    "from": 422.629,
+    "to": 423.58,
+    "sid": 198,
+    "location": 2,
+    "content": "什么地点",
+    "music": 0.0
+  },
+  {
+    "from": 423.58,
+    "to": 425.34,
+    "sid": 199,
+    "location": 2,
+    "content": "具体经过是怎样的",
+    "music": 0.0
+  },
+  {
+    "from": 425.34,
+    "to": 428.66,
+    "sid": 200,
+    "location": 2,
+    "content": "你就越能从情绪的暴风眼里挣脱出来",
+    "music": 0.0
+  },
+  {
+    "from": 428.66,
+    "to": 432.45,
+    "sid": 201,
+    "location": 2,
+    "content": "情绪怕具体一具体他就现原形",
+    "music": 0.0
+  },
+  {
+    "from": 432.45,
+    "to": 433.39,
+    "sid": 202,
+    "location": 2,
+    "content": "第三招",
+    "music": 0.0
+  },
+  {
+    "from": 433.39,
+    "to": 434.43,
+    "sid": 203,
+    "location": 2,
+    "content": "寻找例外",
+    "music": 0.0
+  },
+  {
+    "from": 434.43,
+    "to": 436.459,
+    "sid": 204,
+    "location": 2,
+    "content": "时刻容易反刍的人",
+    "music": 0.0
+  },
+  {
+    "from": 436.459,
+    "to": 439.019,
+    "sid": 205,
+    "location": 2,
+    "content": "常常会容易自责或归咎于他人",
+    "music": 0.0
+  },
+  {
+    "from": 439.019,
+    "to": 441.379,
+    "sid": 206,
+    "location": 2,
+    "content": "例如老想都是我的错",
+    "music": 0.0
+  },
+  {
+    "from": 441.379,
+    "to": 442.81,
+    "sid": 207,
+    "location": 2,
+    "content": "我就是不够好",
+    "music": 0.0
+  },
+  {
+    "from": 442.81,
+    "to": 445.57,
+    "sid": 208,
+    "location": 2,
+    "content": "反刍思维会让我们觉得总是如此",
+    "music": 0.0
+  },
+  {
+    "from": 445.57,
+    "to": 449.55,
+    "sid": 209,
+    "location": 2,
+    "content": "但是正确的复盘应该是寻找情境的差异点",
+    "music": 0.0
+  },
+  {
+    "from": 449.55,
+    "to": 452.75,
+    "sid": 210,
+    "location": 2,
+    "content": "将这次失败与你曾经的成功进行对比",
+    "music": 0.0
+  },
+  {
+    "from": 452.75,
+    "to": 456.35,
+    "sid": 211,
+    "location": 2,
+    "content": "而不是将这次失败概括为你整个人是失败的",
+    "music": 0.0
+  },
+  {
+    "from": 456.35,
+    "to": 457.31,
+    "sid": 212,
+    "location": 2,
+    "content": "问自己",
+    "music": 0.0
+  },
+  {
+    "from": 457.31,
+    "to": 460.25,
+    "sid": 213,
+    "location": 2,
+    "content": "我真的永远每次都搞砸吗",
+    "music": 0.0
+  },
+  {
+    "from": 460.25,
+    "to": 463.17,
+    "sid": 214,
+    "location": 2,
+    "content": "有没有哪一次情况稍微好一点点",
+    "music": 0.0
+  },
+  {
+    "from": 463.17,
+    "to": 466.359,
+    "sid": 215,
+    "location": 2,
+    "content": "比如你觉得我当众发言永远紧张",
+    "music": 0.0
+  },
+  {
+    "from": 466.359,
+    "to": 469.139,
+    "sid": 216,
+    "location": 2,
+    "content": "那就去回想上个月那次小组讨论",
+    "music": 0.0
+  },
+  {
+    "from": 469.139,
+    "to": 471.4,
+    "sid": 217,
+    "location": 2,
+    "content": "我是不是也顺利说完了观点",
+    "music": 0.0
+  },
+  {
+    "from": 471.4,
+    "to": 473.12,
+    "sid": 218,
+    "location": 2,
+    "content": "那一次我做了什么准备",
+    "music": 0.0
+  },
+  {
+    "from": 473.12,
+    "to": 474.12,
+    "sid": 219,
+    "location": 2,
+    "content": "发现没",
+    "music": 0.0
+  },
+  {
+    "from": 474.12,
+    "to": 476.44,
+    "sid": 220,
+    "location": 2,
+    "content": "当你从纠结我是不是个废物",
+    "music": 0.0
+  },
+  {
+    "from": 476.44,
+    "to": 479.32,
+    "sid": 221,
+    "location": 2,
+    "content": "转向分析那次成功和这次失败有什么不同",
+    "music": 0.0
+  },
+  {
+    "from": 479.32,
+    "to": 479.81,
+    "sid": 222,
+    "location": 2,
+    "content": "时",
+    "music": 0.0
+  },
+  {
+    "from": 479.81,
+    "to": 481.93,
+    "sid": 223,
+    "location": 2,
+    "content": "你的身份就从挨打的沙包",
+    "music": 0.0
+  },
+  {
+    "from": 481.93,
+    "to": 483.79,
+    "sid": 224,
+    "location": 2,
+    "content": "变成了分析数据的专家",
+    "music": 0.0
+  },
+  {
+    "from": 483.79,
+    "to": 486.37,
+    "sid": 225,
+    "location": 2,
+    "content": "问题瞬间就变得可解了",
+    "music": 0.0
+  },
+  {
+    "from": 486.37,
+    "to": 487.47,
+    "sid": 226,
+    "location": 2,
+    "content": "第四招",
+    "music": 0.0
+  },
+  {
+    "from": 487.47,
+    "to": 490.25,
+    "sid": 227,
+    "location": 2,
+    "content": "把宇宙难题打成新手村任务",
+    "music": 0.0
+  },
+  {
+    "from": 490.25,
+    "to": 491.21,
+    "sid": 228,
+    "location": 2,
+    "content": "反刍思维",
+    "music": 0.0
+  },
+  {
+    "from": 491.21,
+    "to": 493.45,
+    "sid": 229,
+    "location": 2,
+    "content": "最爱的就是给你出一些巨大的",
+    "music": 0.0
+  },
+  {
+    "from": 493.45,
+    "to": 495.35,
+    "sid": 230,
+    "location": 2,
+    "content": "无解的宇宙级难题",
+    "music": 0.0
+  },
+  {
+    "from": 495.35,
+    "to": 498.34,
+    "sid": 231,
+    "location": 2,
+    "content": "比如为什么我的人生这么失败",
+    "music": 0.0
+  },
+  {
+    "from": 498.34,
+    "to": 500.22,
+    "sid": 232,
+    "location": 2,
+    "content": "为什么没有人真正懂我",
+    "music": 0.0
+  },
+  {
+    "from": 500.22,
+    "to": 502.0,
+    "sid": 233,
+    "location": 2,
+    "content": "我是不是根本就不够好",
+    "music": 0.0
+  },
+  {
+    "from": 502.0,
+    "to": 503.92,
+    "sid": 234,
+    "location": 2,
+    "content": "如果当初我选了另一条路",
+    "music": 0.0
+  },
+  {
+    "from": 503.92,
+    "to": 505.7,
+    "sid": 235,
+    "location": 2,
+    "content": "现在是不是一切都好了",
+    "music": 0.0
+  },
+  {
+    "from": 505.7,
+    "to": 507.38,
+    "sid": 236,
+    "location": 2,
+    "content": "为什么别人都那么成功",
+    "music": 0.0
+  },
+  {
+    "from": 507.38,
+    "to": 508.98,
+    "sid": 237,
+    "location": 2,
+    "content": "就我一事无成",
+    "music": 0.0
+  },
+  {
+    "from": 508.98,
+    "to": 511.26,
+    "sid": 238,
+    "location": 2,
+    "content": "他他是不是根本不爱我",
+    "music": 0.0
+  },
+  {
+    "from": 511.26,
+    "to": 514.18,
+    "sid": 239,
+    "location": 2,
+    "content": "这种问题换谁也答不上来啊",
+    "music": 0.0
+  },
+  {
+    "from": 514.18,
+    "to": 518.49,
+    "sid": 240,
+    "location": 2,
+    "content": "所以这里绝杀技就是把它打碎掰开",
+    "music": 0.0
+  },
+  {
+    "from": 518.49,
+    "to": 521.49,
+    "sid": 241,
+    "location": 2,
+    "content": "变成一个个能操作的新手村任务",
+    "music": 0.0
+  },
+  {
+    "from": 521.49,
+    "to": 524.45,
+    "sid": 242,
+    "location": 2,
+    "content": "别再问我为什么总是把事情搞砸",
+    "music": 0.0
+  },
+  {
+    "from": 524.45,
+    "to": 526.59,
+    "sid": 243,
+    "location": 2,
+    "content": "要问昨天那场吵架",
+    "music": 0.0
+  },
+  {
+    "from": 526.59,
+    "to": 529.07,
+    "sid": 244,
+    "location": 2,
+    "content": "我具体说了哪句话让他不高兴了",
+    "music": 0.0
+  },
+  {
+    "from": 529.07,
+    "to": 532.54,
+    "sid": 245,
+    "location": 2,
+    "content": "下次同样情况我换哪个词能更好",
+    "music": 0.0
+  },
+  {
+    "from": 532.54,
+    "to": 536.51,
+    "sid": 246,
+    "location": 2,
+    "content": "第五招启动你的反刍逃生包和急救包",
+    "music": 0.0
+  },
+  {
+    "from": 536.51,
+    "to": 537.69,
+    "sid": 247,
+    "location": 2,
+    "content": "焦虑型的反刍",
+    "music": 0.0
+  },
+  {
+    "from": 537.69,
+    "to": 539.31,
+    "sid": 248,
+    "location": 2,
+    "content": "喜欢在脑海里自己YY",
+    "music": 0.0
+  },
+  {
+    "from": 539.31,
+    "to": 540.29,
+    "sid": 249,
+    "location": 2,
+    "content": "上演灾难片",
+    "music": 0.0
+  },
+  {
+    "from": 540.29,
+    "to": 542.43,
+    "sid": 250,
+    "location": 2,
+    "content": "尤其喜欢预设最坏情况",
+    "music": 0.0
+  },
+  {
+    "from": 542.43,
+    "to": 544.03,
+    "sid": 251,
+    "location": 2,
+    "content": "总感觉万一搞砸了",
+    "music": 0.0
+  },
+  {
+    "from": 544.03,
+    "to": 545.16,
+    "sid": 252,
+    "location": 2,
+    "content": "天就塌了",
+    "music": 0.0
+  },
+  {
+    "from": 545.16,
+    "to": 547.64,
+    "sid": 253,
+    "location": 2,
+    "content": "这种时候不要劝自己别这么想",
+    "music": 0.0
+  },
+  {
+    "from": 547.64,
+    "to": 548.56,
+    "sid": 254,
+    "location": 2,
+    "content": "因为没用",
+    "music": 0.0
+  },
+  {
+    "from": 548.56,
+    "to": 550.0,
+    "sid": 255,
+    "location": 2,
+    "content": "你的大脑不相信",
+    "music": 0.0
+  },
+  {
+    "from": 550.0,
+    "to": 552.72,
+    "sid": 256,
+    "location": 2,
+    "content": "聪明的做法是接受最坏的可能",
+    "music": 0.0
+  },
+  {
+    "from": 552.72,
+    "to": 554.84,
+    "sid": 257,
+    "location": 2,
+    "content": "然后给他准备一个逃生方案",
+    "music": 0.0
+  },
+  {
+    "from": 554.84,
+    "to": 556.96,
+    "sid": 258,
+    "location": 2,
+    "content": "首先写下最坏结果",
+    "music": 0.0
+  },
+  {
+    "from": 556.96,
+    "to": 559.01,
+    "sid": 259,
+    "location": 2,
+    "content": "最坏就是被炒鱿鱼呗",
+    "music": 0.0
+  },
+  {
+    "from": 559.01,
+    "to": 561.45,
+    "sid": 260,
+    "location": 2,
+    "content": "写出来他反而就没那么吓人了",
+    "music": 0.0
+  },
+  {
+    "from": 561.45,
+    "to": 563.54,
+    "sid": 261,
+    "location": 2,
+    "content": "第二步制定应对步骤",
+    "music": 0.0
+  },
+  {
+    "from": 563.54,
+    "to": 564.52,
+    "sid": 262,
+    "location": 2,
+    "content": "真要是那样",
+    "music": 0.0
+  },
+  {
+    "from": 564.52,
+    "to": 566.3,
+    "sid": 263,
+    "location": 2,
+    "content": "我第一件事是更新简历",
+    "music": 0.0
+  },
+  {
+    "from": 566.3,
+    "to": 567.76,
+    "sid": 264,
+    "location": 2,
+    "content": "第二是联系猎头",
+    "music": 0.0
+  },
+  {
+    "from": 567.76,
+    "to": 569.18,
+    "sid": 265,
+    "location": 2,
+    "content": "第三是先去旅个游",
+    "music": 0.0
+  },
+  {
+    "from": 569.18,
+    "to": 571.82,
+    "sid": 266,
+    "location": 2,
+    "content": "放松一下之后立刻动一下",
+    "music": 0.0
+  },
+  {
+    "from": 571.82,
+    "to": 575.16,
+    "sid": 267,
+    "location": 2,
+    "content": "现在就花5分钟把简历里的个人简介改一改",
+    "music": 0.0
+  },
+  {
+    "from": 575.16,
+    "to": 577.64,
+    "sid": 268,
+    "location": 2,
+    "content": "此外反刍这个事儿来之前",
+    "music": 0.0
+  },
+  {
+    "from": 577.64,
+    "to": 580.27,
+    "sid": 269,
+    "location": 2,
+    "content": "可能会有一些可以识别的身体信号的",
+    "music": 0.0
+  },
+  {
+    "from": 580.27,
+    "to": 582.49,
+    "sid": 270,
+    "location": 2,
+    "content": "比如有些人会出现心跳加速",
+    "music": 0.0
+  },
+  {
+    "from": 582.49,
+    "to": 584.95,
+    "sid": 271,
+    "location": 2,
+    "content": "开始抠手指或者肌肉发紧",
+    "music": 0.0
+  },
+  {
+    "from": 584.95,
+    "to": 586.24,
+    "sid": 272,
+    "location": 2,
+    "content": "呼吸变化等等",
+    "music": 0.0
+  },
+  {
+    "from": 586.24,
+    "to": 588.36,
+    "sid": 273,
+    "location": 2,
+    "content": "这个时候别等他占领高地",
+    "music": 0.0
+  },
+  {
+    "from": 588.36,
+    "to": 590.69,
+    "sid": 274,
+    "location": 2,
+    "content": "设置一个反刍专属急救包",
+    "music": 0.0
+  },
+  {
+    "from": 590.69,
+    "to": 592.05,
+    "sid": 275,
+    "location": 2,
+    "content": "公式超简单",
+    "music": 0.0
+  },
+  {
+    "from": 592.05,
+    "to": 593.91,
+    "sid": 276,
+    "location": 2,
+    "content": "如果出现身体信号",
+    "music": 0.0
+  },
+  {
+    "from": 593.91,
+    "to": 595.69,
+    "sid": 277,
+    "location": 2,
+    "content": "那么就立刻干点别的",
+    "music": 0.0
+  },
+  {
+    "from": 595.69,
+    "to": 598.79,
+    "sid": 278,
+    "location": 2,
+    "content": "比如说如果我发现自己开始咬指甲",
+    "music": 0.0
+  },
+  {
+    "from": 598.79,
+    "to": 601.41,
+    "sid": 279,
+    "location": 2,
+    "content": "并且反复想刚才的尴尬瞬间",
+    "music": 0.0
+  },
+  {
+    "from": 601.41,
+    "to": 603.47,
+    "sid": 280,
+    "location": 2,
+    "content": "那么我就立刻站起来",
+    "music": 0.0
+  },
+  {
+    "from": 603.47,
+    "to": 604.31,
+    "sid": 281,
+    "location": 2,
+    "content": "打开窗户",
+    "music": 0.0
+  },
+  {
+    "from": 604.31,
+    "to": 605.59,
+    "sid": 282,
+    "location": 2,
+    "content": "深呼吸五次",
+    "music": 0.0
+  },
+  {
+    "from": 605.59,
+    "to": 607.75,
+    "sid": 283,
+    "location": 2,
+    "content": "然后原地做十个开合跳",
+    "music": 0.0
+  },
+  {
+    "from": 607.75,
+    "to": 609.41,
+    "sid": 284,
+    "location": 2,
+    "content": "如果我觉得胸口发闷",
+    "music": 0.0
+  },
+  {
+    "from": 609.41,
+    "to": 611.28,
+    "sid": 285,
+    "location": 2,
+    "content": "在想工作上的糟心事",
+    "music": 0.0
+  },
+  {
+    "from": 611.28,
+    "to": 614.66,
+    "sid": 286,
+    "location": 2,
+    "content": "那么我立马戴上耳机听一首最嗨的歌",
+    "music": 0.0
+  },
+  {
+    "from": 614.66,
+    "to": 616.1,
+    "sid": 287,
+    "location": 2,
+    "content": "再打一局消消乐",
+    "music": 0.0
+  },
+  {
+    "from": 616.1,
+    "to": 617.2,
+    "sid": 288,
+    "location": 2,
+    "content": "关键在于",
+    "music": 0.0
+  },
+  {
+    "from": 617.2,
+    "to": 619.15,
+    "sid": 289,
+    "location": 2,
+    "content": "只要你一开始行动",
+    "music": 0.0
+  },
+  {
+    "from": 619.15,
+    "to": 620.95,
+    "sid": 290,
+    "location": 2,
+    "content": "本体感受压力输入",
+    "music": 0.0
+  },
+  {
+    "from": 620.95,
+    "to": 623.21,
+    "sid": 291,
+    "location": 2,
+    "content": "能瞬间激活你的身体感官",
+    "music": 0.0
+  },
+  {
+    "from": 623.21,
+    "to": 625.69,
+    "sid": 292,
+    "location": 2,
+    "content": "你的大脑就从灾难编剧模式",
+    "music": 0.0
+  },
+  {
+    "from": 625.69,
+    "to": 628.78,
+    "sid": 293,
+    "location": 2,
+    "content": "被强行切换到了问题解决模式",
+    "music": 0.0
+  },
+  {
+    "from": 628.78,
+    "to": 632.98,
+    "sid": 294,
+    "location": 2,
+    "content": "行动是打破反刍循环最立竿见影的开关",
+    "music": 0.0
+  },
+  {
+    "from": 632.98,
+    "to": 634.44,
+    "sid": 295,
+    "location": 2,
+    "content": "在反刍的当下",
+    "music": 0.0
+  },
+  {
+    "from": 634.44,
+    "to": 635.98,
+    "sid": 296,
+    "location": 2,
+    "content": "立刻用一个具体的",
+    "music": 0.0
+  },
+  {
+    "from": 635.98,
+    "to": 638.72,
+    "sid": 297,
+    "location": 2,
+    "content": "能调动身体的动作和感官的活动",
+    "music": 0.0
+  },
+  {
+    "from": 638.72,
+    "to": 642.43,
+    "sid": 298,
+    "location": 2,
+    "content": "强行把大脑从神游频道踹回现实频道",
+    "music": 0.0
+  },
+  {
+    "from": 642.43,
+    "to": 645.77,
+    "sid": 299,
+    "location": 2,
+    "content": "很多人陷入反刍思维时会感到孤独和失败",
+    "music": 0.0
+  },
+  {
+    "from": 645.77,
+    "to": 647.67,
+    "sid": 300,
+    "location": 2,
+    "content": "总觉得只有自己这样",
+    "music": 0.0
+  },
+  {
+    "from": 647.67,
+    "to": 650.77,
+    "sid": 301,
+    "location": 2,
+    "content": "但是其实这是非常常见的一种状态",
+    "music": 0.0
+  },
+  {
+    "from": 650.77,
+    "to": 652.79,
+    "sid": 302,
+    "location": 2,
+    "content": "大家肯定都亲身经历过",
+    "music": 0.0
+  },
+  {
+    "from": 652.79,
+    "to": 657.079,
+    "sid": 303,
+    "location": 2,
+    "content": "所以别因为一件事没做好就一棍子把自己打死",
+    "music": 0.0
+  },
+  {
+    "from": 657.079,
+    "to": 659.279,
+    "sid": 304,
+    "location": 2,
+    "content": "而是要把那件事单独拎出来",
+    "music": 0.0
+  },
+  {
+    "from": 659.279,
+    "to": 661.62,
+    "sid": 305,
+    "location": 2,
+    "content": "拆开看看怎么能做得更好",
+    "music": 0.0
+  },
+  {
+    "from": 661.62,
+    "to": 663.78,
+    "sid": 306,
+    "location": 2,
+    "content": "当你开始想具体步骤的时候",
+    "music": 0.0
+  },
+  {
+    "from": 663.78,
+    "to": 666.17,
+    "sid": 307,
+    "location": 2,
+    "content": "你就已经成功切换了频道",
+    "music": 0.0
+  },
+  {
+    "from": 666.17,
+    "to": 670.97,
+    "sid": 308,
+    "location": 2,
+    "content": "从被动挨打的反刍变成了主动解决问题的强者",
+    "music": 0.0
+  },
+  {
+    "from": 670.97,
+    "to": 673.65,
+    "sid": 309,
+    "location": 2,
+    "content": "想法只是路过你脑海的云",
+    "music": 0.0
+  },
+  {
+    "from": 673.65,
+    "to": 676.49,
+    "sid": 310,
+    "location": 2,
+    "content": "它飘过来也一定会飘走",
+    "music": 0.0
+  },
+  {
+    "from": 676.49,
+    "to": 677.99,
+    "sid": 311,
+    "location": 2,
+    "content": "你不是那片云",
+    "music": 0.0
+  },
+  {
+    "from": 677.99,
+    "to": 680.23,
+    "sid": 312,
+    "location": 2,
+    "content": "更不是被他定义的天空",
+    "music": 0.0
+  },
+  {
+    "from": 680.23,
+    "to": 682.71,
+    "sid": 313,
+    "location": 2,
+    "content": "你控制不了哪朵云会飘过来",
+    "music": 0.0
+  },
+  {
+    "from": 682.71,
+    "to": 686.35,
+    "sid": 314,
+    "location": 2,
+    "content": "比如突然冒出我真失败的念头",
+    "music": 0.0
+  },
+  {
+    "from": 686.35,
+    "to": 688.59,
+    "sid": 315,
+    "location": 2,
+    "content": "但你可以选择是不理它",
+    "music": 0.0
+  },
+  {
+    "from": 688.59,
+    "to": 689.91,
+    "sid": 316,
+    "location": 2,
+    "content": "看着它飘走",
+    "music": 0.0
+  },
+  {
+    "from": 689.91,
+    "to": 691.51,
+    "sid": 317,
+    "location": 2,
+    "content": "还是死死盯着它",
+    "music": 0.0
+  },
+  {
+    "from": 691.51,
+    "to": 693.94,
+    "sid": 318,
+    "location": 2,
+    "content": "直到它遮住你全部的阳光",
+    "music": 0.0
+  },
+  {
+    "from": 693.94,
+    "to": 696.82,
+    "sid": 319,
+    "location": 2,
+    "content": "下次反刍电台又擅自开播的话",
+    "music": 0.0
+  },
+  {
+    "from": 696.82,
+    "to": 699.25,
+    "sid": 320,
+    "location": 2,
+    "content": "试着对自己说哦",
+    "music": 0.0
+  },
+  {
+    "from": 699.25,
+    "to": 702.0,
+    "sid": 321,
+    "location": 2,
+    "content": "我熟悉的失败者之歌又来了",
+    "music": 0.0
+  },
+  {
+    "from": 702.0,
+    "to": 704.12,
+    "sid": 322,
+    "location": 2,
+    "content": "但我今天不想听这个频道",
+    "music": 0.0
+  },
+  {
+    "from": 704.12,
+    "to": 706.58,
+    "sid": 323,
+    "location": 2,
+    "content": "然后起身去倒杯水",
+    "music": 0.0
+  },
+  {
+    "from": 706.58,
+    "to": 708.88,
+    "sid": 324,
+    "location": 2,
+    "content": "或者整理一下手边的东西",
+    "music": 0.0
+  },
+  {
+    "from": 708.88,
+    "to": 713.16,
+    "sid": 325,
+    "location": 2,
+    "content": "这个小小的动作是你从大脑的后台手中夺回的",
+    "music": 0.0
+  },
+  {
+    "from": 713.16,
+    "to": 714.55,
+    "sid": 326,
+    "location": 2,
+    "content": "换台遥控器",
+    "music": 0.0
+  },
+  {
+    "from": 714.55,
+    "to": 717.07,
+    "sid": 327,
+    "location": 2,
+    "content": "如果你此刻正被某个念头困扰",
+    "music": 0.0
+  },
+  {
+    "from": 717.07,
+    "to": 719.74,
+    "sid": 328,
+    "location": 2,
+    "content": "那就立刻做90秒的感官重置",
+    "music": 0.0
+  },
+  {
+    "from": 719.74,
+    "to": 722.88,
+    "sid": 329,
+    "location": 2,
+    "content": "马上列出你周围的五个声音和五种颜色",
+    "music": 0.0
+  },
+  {
+    "from": 722.88,
+    "to": 724.56,
+    "sid": 330,
+    "location": 2,
+    "content": "用冷水冲一下手",
+    "music": 0.0
+  },
+  {
+    "from": 724.56,
+    "to": 726.349,
+    "sid": 331,
+    "location": 2,
+    "content": "原地做十个开合跳",
+    "music": 0.0
+  },
+  {
+    "from": 728.909,
+    "to": 730.849,
+    "sid": 332,
+    "location": 2,
+    "content": "强制关闭DMN的运行",
+    "music": 0.0
+  },
+  {
+    "from": 730.849,
+    "to": 732.629,
+    "sid": 333,
+    "location": 2,
+    "content": "把他推下舞台",
+    "music": 0.0
+  },
+  {
+    "from": 733.95,
+    "to": 736.57,
+    "sid": 334,
+    "location": 2,
+    "content": "胡思乱想是进化给你的礼物",
+    "music": 0.0
+  },
+  {
+    "from": 736.57,
+    "to": 738.75,
+    "sid": 335,
+    "location": 2,
+    "content": "DMN是你的规划师",
+    "music": 0.0
+  },
+  {
+    "from": 738.75,
+    "to": 740.61,
+    "sid": 336,
+    "location": 2,
+    "content": "但你需要做他的船长",
+    "music": 0.0
+  },
+  {
+    "from": 740.61,
+    "to": 742.55,
+    "sid": 337,
+    "location": 2,
+    "content": "而不是被它牵着鼻子走",
+    "music": 0.0
+  },
+  {
+    "from": 742.55,
+    "to": 743.97,
+    "sid": 338,
+    "location": 2,
+    "content": "用这些微习惯",
+    "music": 0.0
+  },
+  {
+    "from": 743.97,
+    "to": 748.07,
+    "sid": 339,
+    "location": 2,
+    "content": "正念和目标明确的行动来指导你的内在对话",
+    "music": 0.0
+  },
+  {
+    "from": 748.07,
+    "to": 749.13,
+    "sid": 340,
+    "location": 2,
+    "content": "放过自己",
+    "music": 0.0
+  },
+  {
+    "from": 749.13,
+    "to": 750.52,
+    "sid": 341,
+    "location": 2,
+    "content": "今晚睡个好觉",
+    "music": 0.0
+  },
+  {
+    "from": 750.52,
+    "to": 753.44,
+    "sid": 342,
+    "location": 2,
+    "content": "如果这支视频帮你破解了你的内在独白",
+    "music": 0.0
+  },
+  {
+    "from": 753.44,
+    "to": 757.28,
+    "sid": 343,
+    "location": 2,
+    "content": "请点赞关注并分享给所有爱瞎想的朋友",
+    "music": 0.0
+  },
+  {
+    "from": 757.28,
+    "to": 758.02,
+    "sid": 344,
+    "location": 2,
+    "content": "好啦",
+    "music": 0.0
+  },
+  {
+    "from": 758.02,
+    "to": 759.92,
+    "sid": 345,
+    "location": 2,
+    "content": "今天的分享就到这里",
+    "music": 0.0
+  },
+  {
+    "from": 759.92,
+    "to": 762.94,
+    "sid": 346,
+    "location": 2,
+    "content": "愿我们都能成为自己思绪的主人",
+    "music": 0.0
+  },
+  {
+    "from": 762.94,
+    "to": 763.92,
+    "sid": 347,
+    "location": 2,
+    "content": "下次见啦",
+    "music": 0.0
+  }
+]

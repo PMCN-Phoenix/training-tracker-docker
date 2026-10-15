@@ -1,0 +1,2090 @@
+[
+  {
+    "from": 0.3,
+    "to": 1.94,
+    "sid": 1,
+    "location": 2,
+    "content": "假如书籍会说话",
+    "music": 0.0
+  },
+  {
+    "from": 1.94,
+    "to": 5.19,
+    "sid": 2,
+    "location": 2,
+    "content": "今日对话微习惯微习惯",
+    "music": 0.0
+  },
+  {
+    "from": 5.19,
+    "to": 6.29,
+    "sid": 3,
+    "location": 2,
+    "content": "老师有个问题",
+    "music": 0.0
+  },
+  {
+    "from": 6.29,
+    "to": 7.27,
+    "sid": 4,
+    "location": 2,
+    "content": "我憋挺久了",
+    "music": 0.0
+  },
+  {
+    "from": 7.27,
+    "to": 9.13,
+    "sid": 5,
+    "location": 2,
+    "content": "每年我都给自己定一堆计划",
+    "music": 0.0
+  },
+  {
+    "from": 9.13,
+    "to": 11.02,
+    "sid": 6,
+    "location": 2,
+    "content": "健身读书早起",
+    "music": 0.0
+  },
+  {
+    "from": 11.02,
+    "to": 12.64,
+    "sid": 7,
+    "location": 2,
+    "content": "可没一个能撑过一个礼拜的",
+    "music": 0.0
+  },
+  {
+    "from": 12.64,
+    "to": 14.84,
+    "sid": 8,
+    "location": 2,
+    "content": "我就想知道我到底哪儿出问题了",
+    "music": 0.0
+  },
+  {
+    "from": 14.84,
+    "to": 16.2,
+    "sid": 9,
+    "location": 2,
+    "content": "有问题的不是你",
+    "music": 0.0
+  },
+  {
+    "from": 16.2,
+    "to": 18.56,
+    "sid": 10,
+    "location": 2,
+    "content": "而是这场游戏的规则",
+    "music": 0.0
+  },
+  {
+    "from": 18.56,
+    "to": 20.6,
+    "sid": 11,
+    "location": 2,
+    "content": "游戏规则得了吧",
+    "music": 0.0
+  },
+  {
+    "from": 20.6,
+    "to": 21.86,
+    "sid": 12,
+    "location": 2,
+    "content": "别跟我玩这套虚的",
+    "music": 0.0
+  },
+  {
+    "from": 21.86,
+    "to": 23.14,
+    "sid": 13,
+    "location": 2,
+    "content": "我就想问句实在的",
+    "music": 0.0
+  },
+  {
+    "from": 23.14,
+    "to": 24.86,
+    "sid": 14,
+    "location": 2,
+    "content": "为什么我总是3分钟热度",
+    "music": 0.0
+  },
+  {
+    "from": 24.86,
+    "to": 26.04,
+    "sid": 15,
+    "location": 2,
+    "content": "为什么别人能坚持",
+    "music": 0.0
+  },
+  {
+    "from": 26.04,
+    "to": 26.93,
+    "sid": 16,
+    "location": 2,
+    "content": "我就不能",
+    "music": 0.0
+  },
+  {
+    "from": 26.93,
+    "to": 28.95,
+    "sid": 17,
+    "location": 2,
+    "content": "难不成我骨子里就是个懒人",
+    "music": 0.0
+  },
+  {
+    "from": 28.95,
+    "to": 31.13,
+    "sid": 18,
+    "location": 2,
+    "content": "天生意志力就比别人差一截",
+    "music": 0.0
+  },
+  {
+    "from": 31.13,
+    "to": 33.29,
+    "sid": 19,
+    "location": 2,
+    "content": "你把意志力当成了一种美德",
+    "music": 0.0
+  },
+  {
+    "from": 33.29,
+    "to": 34.57,
+    "sid": 20,
+    "location": 2,
+    "content": "这本身就错了",
+    "music": 0.0
+  },
+  {
+    "from": 34.57,
+    "to": 35.98,
+    "sid": 21,
+    "location": 2,
+    "content": "怎么难道不是吗",
+    "music": 0.0
+  },
+  {
+    "from": 35.98,
+    "to": 37.22,
+    "sid": 22,
+    "location": 2,
+    "content": "意志力不是美德",
+    "music": 0.0
+  },
+  {
+    "from": 37.22,
+    "to": 38.68,
+    "sid": 23,
+    "location": 2,
+    "content": "它是一种生理资源",
+    "music": 0.0
+  },
+  {
+    "from": 38.68,
+    "to": 41.24,
+    "sid": 24,
+    "location": 2,
+    "content": "而且是非常有限的那种等等",
+    "music": 0.0
+  },
+  {
+    "from": 41.24,
+    "to": 44.38,
+    "sid": 25,
+    "location": 2,
+    "content": "你的意思是我的意志力就跟着破手机电量似的",
+    "music": 0.0
+  },
+  {
+    "from": 44.38,
+    "to": 46.3,
+    "sid": 26,
+    "location": 2,
+    "content": "出门满格到家报废",
+    "music": 0.0
+  },
+  {
+    "from": 46.3,
+    "to": 47.78,
+    "sid": 27,
+    "location": 2,
+    "content": "你的比喻很形象",
+    "music": 0.0
+  },
+  {
+    "from": 47.78,
+    "to": 49.99,
+    "sid": 28,
+    "location": 2,
+    "content": "但现实比这更残酷",
+    "music": 0.0
+  },
+  {
+    "from": 49.99,
+    "to": 50.93,
+    "sid": 29,
+    "location": 2,
+    "content": "怎么个残酷法",
+    "music": 0.0
+  },
+  {
+    "from": 50.93,
+    "to": 52.71,
+    "sid": 30,
+    "location": 2,
+    "content": "你早上用它抵抗被窝",
+    "music": 0.0
+  },
+  {
+    "from": 52.71,
+    "to": 53.21,
+    "sid": 31,
+    "location": 2,
+    "content": "上班",
+    "music": 0.0
+  },
+  {
+    "from": 53.21,
+    "to": 54.25,
+    "sid": 32,
+    "location": 2,
+    "content": "用它挤地铁",
+    "music": 0.0
+  },
+  {
+    "from": 54.25,
+    "to": 55.89,
+    "sid": 33,
+    "location": 2,
+    "content": "开会用它装样子",
+    "music": 0.0
+  },
+  {
+    "from": 55.89,
+    "to": 57.97,
+    "sid": 34,
+    "location": 2,
+    "content": "你一天都在用这块电池",
+    "music": 0.0
+  },
+  {
+    "from": 57.97,
+    "to": 61.419,
+    "sid": 35,
+    "location": 2,
+    "content": "等于说我光是活着就已经在拼命耗电了",
+    "music": 0.0
+  },
+  {
+    "from": 61.419,
+    "to": 64.219,
+    "sid": 36,
+    "location": 2,
+    "content": "对到了晚上你只剩1%的电",
+    "music": 0.0
+  },
+  {
+    "from": 64.219,
+    "to": 67.539,
+    "sid": 37,
+    "location": 2,
+    "content": "却想去跑一个需要90%电量的马拉松",
+    "music": 0.0
+  },
+  {
+    "from": 67.539,
+    "to": 68.86,
+    "sid": 38,
+    "location": 2,
+    "content": "你觉得可能吗",
+    "music": 0.0
+  },
+  {
+    "from": 68.86,
+    "to": 71.32,
+    "sid": 39,
+    "location": 2,
+    "content": "所以我晚上躺在沙发上刷短视频",
+    "music": 0.0
+  },
+  {
+    "from": 71.32,
+    "to": 72.52,
+    "sid": 40,
+    "location": 2,
+    "content": "不是因为我堕落",
+    "music": 0.0
+  },
+  {
+    "from": 72.52,
+    "to": 73.82,
+    "sid": 41,
+    "location": 2,
+    "content": "纯粹是因为我穷",
+    "music": 0.0
+  },
+  {
+    "from": 73.82,
+    "to": 75.12,
+    "sid": 42,
+    "location": 2,
+    "content": "我的意志力破产了",
+    "music": 0.0
+  },
+  {
+    "from": 75.12,
+    "to": 76.34,
+    "sid": 43,
+    "location": 2,
+    "content": "你可以这么理解",
+    "music": 0.0
+  },
+  {
+    "from": 76.34,
+    "to": 80.1,
+    "sid": 44,
+    "location": 2,
+    "content": "更准确的说是你的大脑启动了节能保护模式",
+    "music": 0.0
+  },
+  {
+    "from": 80.1,
+    "to": 82.78,
+    "sid": 45,
+    "location": 2,
+    "content": "他在拼命阻止你去做那些高耗能的",
+    "music": 0.0
+  },
+  {
+    "from": 82.78,
+    "to": 84.82,
+    "sid": 46,
+    "location": 2,
+    "content": "在他看来很痛苦的事",
+    "music": 0.0
+  },
+  {
+    "from": 84.82,
+    "to": 86.46,
+    "sid": 47,
+    "location": 2,
+    "content": "保护我得了吧",
+    "music": 0.0
+  },
+  {
+    "from": 86.46,
+    "to": 88.1,
+    "sid": 48,
+    "location": 2,
+    "content": "我看就是懒得高级说法",
+    "music": 0.0
+  },
+  {
+    "from": 88.1,
+    "to": 89.64,
+    "sid": 49,
+    "location": 2,
+    "content": "你所谓的宏大目标",
+    "music": 0.0
+  },
+  {
+    "from": 89.64,
+    "to": 92.04,
+    "sid": 50,
+    "location": 2,
+    "content": "比如今天必须读完50页书",
+    "music": 0.0
+  },
+  {
+    "from": 92.04,
+    "to": 94.84,
+    "sid": 51,
+    "location": 2,
+    "content": "在你大脑听来就跟警报声一样刺耳",
+    "music": 0.0
+  },
+  {
+    "from": 94.84,
+    "to": 95.72,
+    "sid": 52,
+    "location": 2,
+    "content": "你越是逼他",
+    "music": 0.0
+  },
+  {
+    "from": 95.72,
+    "to": 96.82,
+    "sid": 53,
+    "location": 2,
+    "content": "他就越是反抗",
+    "music": 0.0
+  },
+  {
+    "from": 96.82,
+    "to": 97.68,
+    "sid": 54,
+    "location": 2,
+    "content": "这不是懒",
+    "music": 0.0
+  },
+  {
+    "from": 97.68,
+    "to": 99.4,
+    "sid": 55,
+    "location": 2,
+    "content": "这是生物的趋利避害",
+    "music": 0.0
+  },
+  {
+    "from": 99.4,
+    "to": 101.539,
+    "sid": 56,
+    "location": 2,
+    "content": "是写在你基因里的代码",
+    "music": 0.0
+  },
+  {
+    "from": 101.539,
+    "to": 104.259,
+    "sid": 57,
+    "location": 2,
+    "content": "所以那些自律博主等于在教我们",
+    "music": 0.0
+  },
+  {
+    "from": 104.259,
+    "to": 105.91,
+    "sid": 58,
+    "location": 2,
+    "content": "普通人去对抗自己的基因",
+    "music": 0.0
+  },
+  {
+    "from": 105.91,
+    "to": 107.83,
+    "sid": 59,
+    "location": 2,
+    "content": "用我们这1%的电量",
+    "music": 0.0
+  },
+  {
+    "from": 107.83,
+    "to": 109.61,
+    "sid": 60,
+    "location": 2,
+    "content": "去跟满格的生物本能死磕",
+    "music": 0.0
+  },
+  {
+    "from": 109.61,
+    "to": 112.09,
+    "sid": 61,
+    "location": 2,
+    "content": "他们甚至把这场注定失败的战斗",
+    "music": 0.0
+  },
+  {
+    "from": 112.09,
+    "to": 113.98,
+    "sid": 62,
+    "location": 2,
+    "content": "包装成一场意志力的考验",
+    "music": 0.0
+  },
+  {
+    "from": 113.98,
+    "to": 114.88,
+    "sid": 63,
+    "location": 2,
+    "content": "你失败了",
+    "music": 0.0
+  },
+  {
+    "from": 114.88,
+    "to": 116.88,
+    "sid": 64,
+    "location": 2,
+    "content": "他们不会告诉你方法错了",
+    "music": 0.0
+  },
+  {
+    "from": 116.88,
+    "to": 118.91,
+    "sid": 65,
+    "location": 2,
+    "content": "只会让你觉得是你的错",
+    "music": 0.0
+  },
+  {
+    "from": 118.91,
+    "to": 119.59,
+    "sid": 66,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 119.59,
+    "to": 122.42,
+    "sid": 67,
+    "location": 2,
+    "content": "然后你就会陷入一个完美的PV闭环",
+    "music": 0.0
+  },
+  {
+    "from": 122.42,
+    "to": 123.46,
+    "sid": 68,
+    "location": 2,
+    "content": "尝试失败",
+    "music": 0.0
+  },
+  {
+    "from": 123.46,
+    "to": 124.28,
+    "sid": 69,
+    "location": 2,
+    "content": "自我否定",
+    "music": 0.0
+  },
+  {
+    "from": 124.28,
+    "to": 125.36,
+    "sid": 70,
+    "location": 2,
+    "content": "为了摆脱痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 125.36,
+    "to": 126.84,
+    "sid": 71,
+    "location": 2,
+    "content": "你只能去买他们的课",
+    "music": 0.0
+  },
+  {
+    "from": 126.84,
+    "to": 129.11,
+    "sid": 72,
+    "location": 2,
+    "content": "寻求下一个谎言的安慰",
+    "music": 0.0
+  },
+  {
+    "from": 129.11,
+    "to": 130.01,
+    "sid": 73,
+    "location": 2,
+    "content": "好家伙",
+    "music": 0.0
+  },
+  {
+    "from": 130.01,
+    "to": 132.17,
+    "sid": 74,
+    "location": 2,
+    "content": "说白了就是先把我搞残废",
+    "music": 0.0
+  },
+  {
+    "from": 132.17,
+    "to": 133.27,
+    "sid": 75,
+    "location": 2,
+    "content": "再把拐卖给我",
+    "music": 0.0
+  },
+  {
+    "from": 133.27,
+    "to": 134.11,
+    "sid": 76,
+    "location": 2,
+    "content": "这不是卖拐",
+    "music": 0.0
+  },
+  {
+    "from": 134.11,
+    "to": 137.04,
+    "sid": 77,
+    "location": 2,
+    "content": "这是对人性弱点的精准收割行",
+    "music": 0.0
+  },
+  {
+    "from": 137.04,
+    "to": 139.2,
+    "sid": 78,
+    "location": 2,
+    "content": "我承认你把这个骗局说透了",
+    "music": 0.0
+  },
+  {
+    "from": 139.2,
+    "to": 140.92,
+    "sid": 79,
+    "location": 2,
+    "content": "那你呢你的解药是什么",
+    "music": 0.0
+  },
+  {
+    "from": 140.92,
+    "to": 143.28,
+    "sid": 80,
+    "location": 2,
+    "content": "别告诉我是那些老掉牙的什么目标",
+    "music": 0.0
+  },
+  {
+    "from": 143.28,
+    "to": 145.84,
+    "sid": 81,
+    "location": 2,
+    "content": "分解我的方法不是让你去战斗",
+    "music": 0.0
+  },
+  {
+    "from": 145.84,
+    "to": 147.22,
+    "sid": 82,
+    "location": 2,
+    "content": "而是让你去骗",
+    "music": 0.0
+  },
+  {
+    "from": 147.22,
+    "to": 150.67,
+    "sid": 83,
+    "location": 2,
+    "content": "用一个小到可笑的任务去骗过你的大脑",
+    "music": 0.0
+  },
+  {
+    "from": 150.67,
+    "to": 152.63,
+    "sid": 84,
+    "location": 2,
+    "content": "小到可笑有多可笑",
+    "music": 0.0
+  },
+  {
+    "from": 152.63,
+    "to": 153.589,
+    "sid": 85,
+    "location": 2,
+    "content": "想健身",
+    "music": 0.0
+  },
+  {
+    "from": 153.589,
+    "to": 155.909,
+    "sid": 86,
+    "location": 2,
+    "content": "今天的目标不是跑3km",
+    "music": 0.0
+  },
+  {
+    "from": 155.909,
+    "to": 157.809,
+    "sid": 87,
+    "location": 2,
+    "content": "是站起来换上运动鞋",
+    "music": 0.0
+  },
+  {
+    "from": 157.809,
+    "to": 160.129,
+    "sid": 88,
+    "location": 2,
+    "content": "然后任务结束哈",
+    "music": 0.0
+  },
+  {
+    "from": 160.129,
+    "to": 162.15,
+    "sid": 89,
+    "location": 2,
+    "content": "就这换上鞋就完事儿了",
+    "music": 0.0
+  },
+  {
+    "from": 162.15,
+    "to": 163.17,
+    "sid": 90,
+    "location": 2,
+    "content": "我这是在健身",
+    "music": 0.0
+  },
+  {
+    "from": 163.17,
+    "to": 165.11,
+    "sid": 91,
+    "location": 2,
+    "content": "还是在进行什么神秘的宗教仪式",
+    "music": 0.0
+  },
+  {
+    "from": 165.11,
+    "to": 165.85,
+    "sid": 92,
+    "location": 2,
+    "content": "想看书",
+    "music": 0.0
+  },
+  {
+    "from": 165.85,
+    "to": 167.57,
+    "sid": 93,
+    "location": 2,
+    "content": "目标也不是读一章",
+    "music": 0.0
+  },
+  {
+    "from": 167.57,
+    "to": 168.39,
+    "sid": 94,
+    "location": 2,
+    "content": "那是什么",
+    "music": 0.0
+  },
+  {
+    "from": 168.39,
+    "to": 169.17,
+    "sid": 95,
+    "location": 2,
+    "content": "读一页",
+    "music": 0.0
+  },
+  {
+    "from": 169.17,
+    "to": 172.87,
+    "sid": 96,
+    "location": 2,
+    "content": "不是伸出手把那本书拿到面前打开",
+    "music": 0.0
+  },
+  {
+    "from": 172.87,
+    "to": 173.61,
+    "sid": 97,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 173.61,
+    "to": 174.77,
+    "sid": 98,
+    "location": 2,
+    "content": "读完第一句话",
+    "music": 0.0
+  },
+  {
+    "from": 174.77,
+    "to": 176.64,
+    "sid": 99,
+    "location": 2,
+    "content": "合上任务完成",
+    "music": 0.0
+  },
+  {
+    "from": 176.64,
+    "to": 178.12,
+    "sid": 100,
+    "location": 2,
+    "content": "打住换双鞋",
+    "music": 0.0
+  },
+  {
+    "from": 178.12,
+    "to": 178.89,
+    "sid": 101,
+    "location": 2,
+    "content": "翻开书",
+    "music": 0.0
+  },
+  {
+    "from": 178.89,
+    "to": 179.71,
+    "sid": 102,
+    "location": 2,
+    "content": "我懂了",
+    "music": 0.0
+  },
+  {
+    "from": 179.71,
+    "to": 180.73,
+    "sid": 103,
+    "location": 2,
+    "content": "你这不叫自律",
+    "music": 0.0
+  },
+  {
+    "from": 180.73,
+    "to": 181.79,
+    "sid": 104,
+    "location": 2,
+    "content": "这叫自我欺骗",
+    "music": 0.0
+  },
+  {
+    "from": 183.47,
+    "to": 185.29,
+    "sid": 105,
+    "location": 2,
+    "content": "自己糊弄自己扯淡",
+    "music": 0.0
+  },
+  {
+    "from": 185.29,
+    "to": 187.24,
+    "sid": 106,
+    "location": 2,
+    "content": "你把这叫做欺骗",
+    "music": 0.0
+  },
+  {
+    "from": 187.24,
+    "to": 188.36,
+    "sid": 107,
+    "location": 2,
+    "content": "恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 188.36,
+    "to": 189.8,
+    "sid": 108,
+    "location": 2,
+    "content": "你不是在糊弄自己",
+    "music": 0.0
+  },
+  {
+    "from": 189.8,
+    "to": 192.0,
+    "sid": 109,
+    "location": 2,
+    "content": "你是在糊弄你的大脑",
+    "music": 0.0
+  },
+  {
+    "from": 192.0,
+    "to": 192.84,
+    "sid": 110,
+    "location": 2,
+    "content": "什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 192.84,
+    "to": 193.86,
+    "sid": 111,
+    "location": 2,
+    "content": "这么跟你讲吧",
+    "music": 0.0
+  },
+  {
+    "from": 193.86,
+    "to": 196.34,
+    "sid": 112,
+    "location": 2,
+    "content": "你的大脑里有个看门的老大爷",
+    "music": 0.0
+  },
+  {
+    "from": 196.34,
+    "to": 198.88,
+    "sid": 113,
+    "location": 2,
+    "content": "对所有大任务都特别警惕",
+    "music": 0.0
+  },
+  {
+    "from": 198.88,
+    "to": 200.52,
+    "sid": 114,
+    "location": 2,
+    "content": "比如说跑5km",
+    "music": 0.0
+  },
+  {
+    "from": 200.52,
+    "to": 203.53,
+    "sid": 115,
+    "location": 2,
+    "content": "对他一看见这个任务就直接拉闸放狗",
+    "music": 0.0
+  },
+  {
+    "from": 203.53,
+    "to": 205.43,
+    "sid": 116,
+    "location": 2,
+    "content": "把你轰出去够寒",
+    "music": 0.0
+  },
+  {
+    "from": 205.43,
+    "to": 207.69,
+    "sid": 117,
+    "location": 2,
+    "content": "那我那个换上跑鞋的任务呢",
+    "music": 0.0
+  },
+  {
+    "from": 207.69,
+    "to": 210.63,
+    "sid": 118,
+    "location": 2,
+    "content": "当他看到你的任务只是换双鞋时",
+    "music": 0.0
+  },
+  {
+    "from": 210.63,
+    "to": 212.19,
+    "sid": 119,
+    "location": 2,
+    "content": "这个任务小到愚蠢",
+    "music": 0.0
+  },
+  {
+    "from": 212.19,
+    "to": 213.85,
+    "sid": 120,
+    "location": 2,
+    "content": "他连眼皮都懒得抬",
+    "music": 0.0
+  },
+  {
+    "from": 213.85,
+    "to": 215.57,
+    "sid": 121,
+    "location": 2,
+    "content": "挥挥手就让你过去了",
+    "music": 0.0
+  },
+  {
+    "from": 215.57,
+    "to": 218.749,
+    "sid": 122,
+    "location": 2,
+    "content": "所以关键是骗过他溜进行动的大门",
+    "music": 0.0
+  },
+  {
+    "from": 218.749,
+    "to": 220.549,
+    "sid": 123,
+    "location": 2,
+    "content": "对硬闯你永远是输家",
+    "music": 0.0
+  },
+  {
+    "from": 220.549,
+    "to": 222.349,
+    "sid": 124,
+    "location": 2,
+    "content": "智取你才有赢的机会",
+    "music": 0.0
+  },
+  {
+    "from": 222.349,
+    "to": 224.31,
+    "sid": 125,
+    "location": 2,
+    "content": "可就算我溜进去了",
+    "music": 0.0
+  },
+  {
+    "from": 224.31,
+    "to": 226.07,
+    "sid": 126,
+    "location": 2,
+    "content": "只换了双鞋又有什么意义",
+    "music": 0.0
+  },
+  {
+    "from": 226.07,
+    "to": 229.34,
+    "sid": 127,
+    "location": 2,
+    "content": "它的意义就在于你开始了你最大的敌人",
+    "music": 0.0
+  },
+  {
+    "from": 229.34,
+    "to": 231.12,
+    "sid": 128,
+    "location": 2,
+    "content": "从来不是坚持不下去",
+    "music": 0.0
+  },
+  {
+    "from": 231.12,
+    "to": 232.96,
+    "sid": 129,
+    "location": 2,
+    "content": "而是根本不想开始",
+    "music": 0.0
+  },
+  {
+    "from": 232.96,
+    "to": 233.6,
+    "sid": 130,
+    "location": 2,
+    "content": "微习惯",
+    "music": 0.0
+  },
+  {
+    "from": 233.6,
+    "to": 236.74,
+    "sid": 131,
+    "location": 2,
+    "content": "就是把开始的门槛降到地平线以下",
+    "music": 0.0
+  },
+  {
+    "from": 236.74,
+    "to": 237.68,
+    "sid": 132,
+    "location": 2,
+    "content": "先骗上车",
+    "music": 0.0
+  },
+  {
+    "from": 237.68,
+    "to": 239.0,
+    "sid": 133,
+    "location": 2,
+    "content": "不管去哪儿是吧",
+    "music": 0.0
+  },
+  {
+    "from": 239.0,
+    "to": 239.94,
+    "sid": 134,
+    "location": 2,
+    "content": "一旦你上了车",
+    "music": 0.0
+  },
+  {
+    "from": 239.94,
+    "to": 241.42,
+    "sid": 135,
+    "location": 2,
+    "content": "哪怕只是踩了一脚油门",
+    "music": 0.0
+  },
+  {
+    "from": 241.42,
+    "to": 242.78,
+    "sid": 136,
+    "location": 2,
+    "content": "惯性就产生了",
+    "music": 0.0
+  },
+  {
+    "from": 242.78,
+    "to": 245.08,
+    "sid": 137,
+    "location": 2,
+    "content": "一旦你完成了那个小到可笑的目标",
+    "music": 0.0
+  },
+  {
+    "from": 245.08,
+    "to": 248.24,
+    "sid": 138,
+    "location": 2,
+    "content": "你的大脑就会得到一个微小但真实的奖励",
+    "music": 0.0
+  },
+  {
+    "from": 248.24,
+    "to": 249.73,
+    "sid": 139,
+    "location": 2,
+    "content": "嘿我做到了",
+    "music": 0.0
+  },
+  {
+    "from": 249.73,
+    "to": 252.17,
+    "sid": 140,
+    "location": 2,
+    "content": "用一点点糖去哄那个看门大爷",
+    "music": 0.0
+  },
+  {
+    "from": 252.17,
+    "to": 254.36,
+    "sid": 141,
+    "location": 2,
+    "content": "对这一点做到了的快感",
+    "music": 0.0
+  },
+  {
+    "from": 254.36,
+    "to": 256.4,
+    "sid": 142,
+    "location": 2,
+    "content": "就是你给那个老头的第一块糖",
+    "music": 0.0
+  },
+  {
+    "from": 256.4,
+    "to": 257.92,
+    "sid": 143,
+    "location": 2,
+    "content": "他尝到了甜头",
+    "music": 0.0
+  },
+  {
+    "from": 257.92,
+    "to": 259.48,
+    "sid": 144,
+    "location": 2,
+    "content": "下次你再换鞋时",
+    "music": 0.0
+  },
+  {
+    "from": 259.48,
+    "to": 260.919,
+    "sid": 145,
+    "location": 2,
+    "content": "他甚至会有点期待",
+    "music": 0.0
+  },
+  {
+    "from": 260.919,
+    "to": 261.679,
+    "sid": 146,
+    "location": 2,
+    "content": "聊到这儿",
+    "music": 0.0
+  },
+  {
+    "from": 261.679,
+    "to": 262.919,
+    "sid": 147,
+    "location": 2,
+    "content": "我突然想起个事",
+    "music": 0.0
+  },
+  {
+    "from": 262.919,
+    "to": 265.719,
+    "sid": 148,
+    "location": 2,
+    "content": "一个让我现在想起来都觉得丢人现眼的事",
+    "music": 0.0
+  },
+  {
+    "from": 265.719,
+    "to": 268.189,
+    "sid": 149,
+    "location": 2,
+    "content": "说几年前我发誓要写作",
+    "music": 0.0
+  },
+  {
+    "from": 268.189,
+    "to": 269.789,
+    "sid": 150,
+    "location": 2,
+    "content": "我跟身边所有朋友都说了",
+    "music": 0.0
+  },
+  {
+    "from": 269.789,
+    "to": 271.729,
+    "sid": 151,
+    "location": 2,
+    "content": "还专门买了个死贵的机械键盘",
+    "music": 0.0
+  },
+  {
+    "from": 271.729,
+    "to": 273.289,
+    "sid": 152,
+    "location": 2,
+    "content": "目标每天1000字",
+    "music": 0.0
+  },
+  {
+    "from": 273.289,
+    "to": 276.53,
+    "sid": 153,
+    "location": 2,
+    "content": "结果呢第一天亢奋写了2000",
+    "music": 0.0
+  },
+  {
+    "from": 276.53,
+    "to": 278.86,
+    "sid": 154,
+    "location": 2,
+    "content": "第二天枯燥勉强完成",
+    "music": 0.0
+  },
+  {
+    "from": 278.86,
+    "to": 281.38,
+    "sid": 155,
+    "location": 2,
+    "content": "第三天我坐在那儿看着那个键盘",
+    "music": 0.0
+  },
+  {
+    "from": 281.38,
+    "to": 282.58,
+    "sid": 156,
+    "location": 2,
+    "content": "一个字都打不出来",
+    "music": 0.0
+  },
+  {
+    "from": 282.58,
+    "to": 284.36,
+    "sid": 157,
+    "location": 2,
+    "content": "你知道那是什么感觉吗",
+    "music": 0.0
+  },
+  {
+    "from": 284.36,
+    "to": 285.33,
+    "sid": 158,
+    "location": 2,
+    "content": "什么感觉",
+    "music": 0.0
+  },
+  {
+    "from": 285.33,
+    "to": 287.19,
+    "sid": 159,
+    "location": 2,
+    "content": "那个键盘他在嘲笑我",
+    "music": 0.0
+  },
+  {
+    "from": 287.19,
+    "to": 288.13,
+    "sid": 160,
+    "location": 2,
+    "content": "他在对我说",
+    "music": 0.0
+  },
+  {
+    "from": 288.13,
+    "to": 289.23,
+    "sid": 161,
+    "location": 2,
+    "content": "你不是要写作吗",
+    "music": 0.0
+  },
+  {
+    "from": 289.23,
+    "to": 290.59,
+    "sid": 162,
+    "location": 2,
+    "content": "来啊你这个废物",
+    "music": 0.0
+  },
+  {
+    "from": 290.59,
+    "to": 292.41,
+    "sid": 163,
+    "location": 2,
+    "content": "从那天起我再也没碰过它",
+    "music": 0.0
+  },
+  {
+    "from": 292.41,
+    "to": 293.68,
+    "sid": 164,
+    "location": 2,
+    "content": "我把它收到盒子里",
+    "music": 0.0
+  },
+  {
+    "from": 293.68,
+    "to": 294.72,
+    "sid": 165,
+    "location": 2,
+    "content": "藏到了床底下",
+    "music": 0.0
+  },
+  {
+    "from": 294.72,
+    "to": 296.2,
+    "sid": 166,
+    "location": 2,
+    "content": "你不是在埋葬键盘",
+    "music": 0.0
+  },
+  {
+    "from": 296.2,
+    "to": 297.94,
+    "sid": 167,
+    "location": 2,
+    "content": "你是在埋葬你的羞耻心",
+    "music": 0.0
+  },
+  {
+    "from": 297.94,
+    "to": 301.16,
+    "sid": 168,
+    "location": 2,
+    "content": "那个每天1000字的目标就是审判你的法官",
+    "music": 0.0
+  },
+  {
+    "from": 301.16,
+    "to": 303.12,
+    "sid": 169,
+    "location": 2,
+    "content": "而那个键盘就是刑具",
+    "music": 0.0
+  },
+  {
+    "from": 303.12,
+    "to": 305.46,
+    "sid": 170,
+    "location": 2,
+    "content": "他直接在你脑子里敲响法锤",
+    "music": 0.0
+  },
+  {
+    "from": 305.46,
+    "to": 306.14,
+    "sid": 171,
+    "location": 2,
+    "content": "宣判你",
+    "music": 0.0
+  },
+  {
+    "from": 306.14,
+    "to": 307.16,
+    "sid": 172,
+    "location": 2,
+    "content": "你就是个废物",
+    "music": 0.0
+  },
+  {
+    "from": 307.16,
+    "to": 310.04,
+    "sid": 173,
+    "location": 2,
+    "content": "你的大脑为了保护你不再承受这种酷刑",
+    "music": 0.0
+  },
+  {
+    "from": 310.04,
+    "to": 312.31,
+    "sid": 174,
+    "location": 2,
+    "content": "他选择了一个最直接的办法",
+    "music": 0.0
+  },
+  {
+    "from": 312.31,
+    "to": 316.21,
+    "sid": 175,
+    "location": 2,
+    "content": "什么办法让你对写作这件事产生生理性的厌恶",
+    "music": 0.0
+  },
+  {
+    "from": 316.21,
+    "to": 318.919,
+    "sid": 176,
+    "location": 2,
+    "content": "他在用恶心来帮你逃离痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 318.919,
+    "to": 320.359,
+    "sid": 177,
+    "location": 2,
+    "content": "那我当时到底该怎么做",
+    "music": 0.0
+  },
+  {
+    "from": 320.359,
+    "to": 321.439,
+    "sid": 178,
+    "location": 2,
+    "content": "每天写一个字",
+    "music": 0.0
+  },
+  {
+    "from": 321.439,
+    "to": 322.899,
+    "sid": 179,
+    "location": 2,
+    "content": "这也太荒谬了不",
+    "music": 0.0
+  },
+  {
+    "from": 322.899,
+    "to": 324.979,
+    "sid": 180,
+    "location": 2,
+    "content": "你可以把目标定为打开电脑",
+    "music": 0.0
+  },
+  {
+    "from": 324.979,
+    "to": 325.879,
+    "sid": 181,
+    "location": 2,
+    "content": "新建一个文档",
+    "music": 0.0
+  },
+  {
+    "from": 325.879,
+    "to": 326.679,
+    "sid": 182,
+    "location": 2,
+    "content": "然后关掉",
+    "music": 0.0
+  },
+  {
+    "from": 326.679,
+    "to": 327.61,
+    "sid": 183,
+    "location": 2,
+    "content": "仅此而已",
+    "music": 0.0
+  },
+  {
+    "from": 327.61,
+    "to": 329.57,
+    "sid": 184,
+    "location": 2,
+    "content": "这听着还是像个笑话",
+    "music": 0.0
+  },
+  {
+    "from": 329.57,
+    "to": 331.23,
+    "sid": 185,
+    "location": 2,
+    "content": "但你不会想吐对吗",
+    "music": 0.0
+  },
+  {
+    "from": 331.23,
+    "to": 332.73,
+    "sid": 186,
+    "location": 2,
+    "content": "你不会恐惧对吗",
+    "music": 0.0
+  },
+  {
+    "from": 332.73,
+    "to": 334.88,
+    "sid": 187,
+    "location": 2,
+    "content": "也许在第五天或者第十天",
+    "music": 0.0
+  },
+  {
+    "from": 334.88,
+    "to": 336.38,
+    "sid": 188,
+    "location": 2,
+    "content": "你会顺手打上标题",
+    "music": 0.0
+  },
+  {
+    "from": 336.38,
+    "to": 338.78,
+    "sid": 189,
+    "location": 2,
+    "content": "再下一次你会顺手写下第一句话",
+    "music": 0.0
+  },
+  {
+    "from": 338.78,
+    "to": 340.32,
+    "sid": 190,
+    "location": 2,
+    "content": "你不是在强迫自己",
+    "music": 0.0
+  },
+  {
+    "from": 340.32,
+    "to": 341.72,
+    "sid": 191,
+    "location": 2,
+    "content": "你是在引诱自己",
+    "music": 0.0
+  },
+  {
+    "from": 341.72,
+    "to": 344.42,
+    "sid": 192,
+    "location": 2,
+    "content": "一步步掉回你热爱的那个陷阱里",
+    "music": 0.0
+  },
+  {
+    "from": 344.42,
+    "to": 347.62,
+    "sid": 193,
+    "location": 2,
+    "content": "我的作者斯蒂芬盖斯当年也跟你一样",
+    "music": 0.0
+  },
+  {
+    "from": 347.62,
+    "to": 348.88,
+    "sid": 194,
+    "location": 2,
+    "content": "他躺在沙发上",
+    "music": 0.0
+  },
+  {
+    "from": 348.88,
+    "to": 350.92,
+    "sid": 195,
+    "location": 2,
+    "content": "脑子里想着要去健身房",
+    "music": 0.0
+  },
+  {
+    "from": 350.92,
+    "to": 352.44,
+    "sid": 196,
+    "location": 2,
+    "content": "身体却像灌了铅",
+    "music": 0.0
+  },
+  {
+    "from": 352.44,
+    "to": 353.44,
+    "sid": 197,
+    "location": 2,
+    "content": "跟我一模一样",
+    "music": 0.0
+  },
+  {
+    "from": 353.44,
+    "to": 354.47,
+    "sid": 198,
+    "location": 2,
+    "content": "他跟自己说",
+    "music": 0.0
+  },
+  {
+    "from": 354.47,
+    "to": 358.07,
+    "sid": 199,
+    "location": 2,
+    "content": "去健身房不可能做一套燃脂训练",
+    "music": 0.0
+  },
+  {
+    "from": 358.07,
+    "to": 359.58,
+    "sid": 200,
+    "location": 2,
+    "content": "那还不如杀了我吧",
+    "music": 0.0
+  },
+  {
+    "from": 359.58,
+    "to": 360.32,
+    "sid": 201,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 360.32,
+    "to": 361.56,
+    "sid": 202,
+    "location": 2,
+    "content": "他彻底放弃了",
+    "music": 0.0
+  },
+  {
+    "from": 361.56,
+    "to": 362.72,
+    "sid": 203,
+    "location": 2,
+    "content": "他对自己说行",
+    "music": 0.0
+  },
+  {
+    "from": 362.72,
+    "to": 363.34,
+    "sid": 204,
+    "location": 2,
+    "content": "我投降",
+    "music": 0.0
+  },
+  {
+    "from": 363.34,
+    "to": 364.18,
+    "sid": 205,
+    "location": 2,
+    "content": "我不去了",
+    "music": 0.0
+  },
+  {
+    "from": 364.18,
+    "to": 366.66,
+    "sid": 206,
+    "location": 2,
+    "content": "这不就是向懒惰彻底投降吗",
+    "music": 0.0
+  },
+  {
+    "from": 366.66,
+    "to": 367.96,
+    "sid": 207,
+    "location": 2,
+    "content": "对他投降了",
+    "music": 0.0
+  },
+  {
+    "from": 367.96,
+    "to": 369.96,
+    "sid": 208,
+    "location": 2,
+    "content": "就在他宣布投降的那一刻",
+    "music": 0.0
+  },
+  {
+    "from": 369.96,
+    "to": 372.44,
+    "sid": 209,
+    "location": 2,
+    "content": "他突然冒出一个念头",
+    "music": 0.0
+  },
+  {
+    "from": 372.44,
+    "to": 373.4,
+    "sid": 210,
+    "location": 2,
+    "content": "什么念头",
+    "music": 0.0
+  },
+  {
+    "from": 373.4,
+    "to": 374.3,
+    "sid": 211,
+    "location": 2,
+    "content": "他对自己说",
+    "music": 0.0
+  },
+  {
+    "from": 374.3,
+    "to": 375.94,
+    "sid": 212,
+    "location": 2,
+    "content": "虽然我不去健身房",
+    "music": 0.0
+  },
+  {
+    "from": 375.94,
+    "to": 378.48,
+    "sid": 213,
+    "location": 2,
+    "content": "但我在客厅做一个俯卧撑走形吧",
+    "music": 0.0
+  },
+  {
+    "from": 378.48,
+    "to": 380.18,
+    "sid": 214,
+    "location": 2,
+    "content": "就一个做完拉倒",
+    "music": 0.0
+  },
+  {
+    "from": 380.18,
+    "to": 382.23,
+    "sid": 215,
+    "location": 2,
+    "content": "这时最后的挣扎不",
+    "music": 0.0
+  },
+  {
+    "from": 382.23,
+    "to": 384.21,
+    "sid": 216,
+    "location": 2,
+    "content": "这是投降后的即兴表演",
+    "music": 0.0
+  },
+  {
+    "from": 384.21,
+    "to": 385.37,
+    "sid": 217,
+    "location": 2,
+    "content": "他做了那一个",
+    "music": 0.0
+  },
+  {
+    "from": 385.37,
+    "to": 388.08,
+    "sid": 218,
+    "location": 2,
+    "content": "然后奇妙的事情发生了",
+    "music": 0.0
+  },
+  {
+    "from": 388.08,
+    "to": 389.54,
+    "sid": 219,
+    "location": 2,
+    "content": "当他趴在地上时",
+    "music": 0.0
+  },
+  {
+    "from": 389.54,
+    "to": 391.32,
+    "sid": 220,
+    "location": 2,
+    "content": "他想反正都趴下了",
+    "music": 0.0
+  },
+  {
+    "from": 391.32,
+    "to": 392.77,
+    "sid": 221,
+    "location": 2,
+    "content": "不如再多做几个",
+    "music": 0.0
+  },
+  {
+    "from": 392.77,
+    "to": 393.47,
+    "sid": 222,
+    "location": 2,
+    "content": "结果呢",
+    "music": 0.0
+  },
+  {
+    "from": 393.47,
+    "to": 395.99,
+    "sid": 223,
+    "location": 2,
+    "content": "结果他那天完成了一套训练",
+    "music": 0.0
+  },
+  {
+    "from": 395.99,
+    "to": 397.97,
+    "sid": 224,
+    "location": 2,
+    "content": "你看他不是战胜了懒惰",
+    "music": 0.0
+  },
+  {
+    "from": 397.97,
+    "to": 400.52,
+    "sid": 225,
+    "location": 2,
+    "content": "他是跟自己的懒惰和解了",
+    "music": 0.0
+  },
+  {
+    "from": 400.52,
+    "to": 402.18,
+    "sid": 226,
+    "location": 2,
+    "content": "他没有打败那个看门老头",
+    "music": 0.0
+  },
+  {
+    "from": 402.18,
+    "to": 404.06,
+    "sid": 227,
+    "location": 2,
+    "content": "他只是塞给老头一块糖",
+    "music": 0.0
+  },
+  {
+    "from": 404.06,
+    "to": 405.85,
+    "sid": 228,
+    "location": 2,
+    "content": "然后从他身边溜了过去",
+    "music": 0.0
+  },
+  {
+    "from": 405.85,
+    "to": 409.43,
+    "sid": 229,
+    "location": 2,
+    "content": "真正的改变从来不是靠意志力的暴力强拆",
+    "music": 0.0
+  },
+  {
+    "from": 409.43,
+    "to": 412.27,
+    "sid": 230,
+    "location": 2,
+    "content": "而是靠微习惯的和平演变",
+    "music": 0.0
+  },
+  {
+    "from": 412.27,
+    "to": 414.3,
+    "sid": 231,
+    "location": 2,
+    "content": "我好像有点明白了",
+    "music": 0.0
+  },
+  {
+    "from": 414.3,
+    "to": 416.5,
+    "sid": 232,
+    "location": 2,
+    "content": "我们一直以来崇拜的那些自律狠人",
+    "music": 0.0
+  },
+  {
+    "from": 416.5,
+    "to": 418.62,
+    "sid": 233,
+    "location": 2,
+    "content": "我们拼命模仿的那些痛苦坚持",
+    "music": 0.0
+  },
+  {
+    "from": 418.62,
+    "to": 420.26,
+    "sid": 234,
+    "location": 2,
+    "content": "可能从一开始就走错了路",
+    "music": 0.0
+  },
+  {
+    "from": 420.26,
+    "to": 423.6,
+    "sid": 235,
+    "location": 2,
+    "content": "你所谓的自律本质上是对痛苦的耐受力",
+    "music": 0.0
+  },
+  {
+    "from": 423.6,
+    "to": 426.22,
+    "sid": 236,
+    "location": 2,
+    "content": "而我所说的是对开始的亲和力",
+    "music": 0.0
+  },
+  {
+    "from": 426.22,
+    "to": 427.22,
+    "sid": 237,
+    "location": 2,
+    "content": "一个反人性",
+    "music": 0.0
+  },
+  {
+    "from": 427.22,
+    "to": 428.44,
+    "sid": 238,
+    "location": 2,
+    "content": "一个顺人性",
+    "music": 0.0
+  },
+  {
+    "from": 428.44,
+    "to": 429.409,
+    "sid": 239,
+    "location": 2,
+    "content": "你选哪个",
+    "music": 0.0
+  },
+  {
+    "from": 429.409,
+    "to": 432.169,
+    "sid": 240,
+    "location": 2,
+    "content": "所以别再信什么吃得苦中苦的鬼话了",
+    "music": 0.0
+  },
+  {
+    "from": 432.169,
+    "to": 434.609,
+    "sid": 241,
+    "location": 2,
+    "content": "也别再因为做不到而痛骂自己是废物了",
+    "music": 0.0
+  },
+  {
+    "from": 434.609,
+    "to": 436.73,
+    "sid": 242,
+    "location": 2,
+    "content": "我们需要的不是更多的意志力",
+    "music": 0.0
+  },
+  {
+    "from": 436.73,
+    "to": 439.33,
+    "sid": 243,
+    "location": 2,
+    "content": "我们需要的是敢于从一个可笑的目标",
+    "music": 0.0
+  },
+  {
+    "from": 439.33,
+    "to": 442.34,
+    "sid": 244,
+    "location": 2,
+    "content": "开始的勇气和一点点欺骗自己的智慧",
+    "music": 0.0
+  },
+  {
+    "from": 442.34,
+    "to": 444.62,
+    "sid": 245,
+    "location": 2,
+    "content": "真正的自由不是你能掌控一切",
+    "music": 0.0
+  },
+  {
+    "from": 444.62,
+    "to": 446.789,
+    "sid": 246,
+    "location": 2,
+    "content": "而是你终于敢于承认",
+    "music": 0.0
+  },
+  {
+    "from": 446.789,
+    "to": 449.009,
+    "sid": 247,
+    "location": 2,
+    "content": "有些事你就是掌控不了",
+    "music": 0.0
+  },
+  {
+    "from": 449.009,
+    "to": 451.539,
+    "sid": 248,
+    "location": 2,
+    "content": "比如你的大脑天生就不喜欢吃苦",
+    "music": 0.0
+  },
+  {
+    "from": 451.539,
+    "to": 455.37,
+    "sid": 249,
+    "location": 2,
+    "content": "然后用它的规则来玩赢你的游戏",
+    "music": 0.0
+  },
+  {
+    "from": 455.37,
+    "to": 456.75,
+    "sid": 250,
+    "location": 2,
+    "content": "行停止内耗",
+    "music": 0.0
+  },
+  {
+    "from": 456.75,
+    "to": 458.69,
+    "sid": 251,
+    "location": 2,
+    "content": "别再当那个跟自己较劲的傻子了",
+    "music": 0.0
+  },
+  {
+    "from": 458.69,
+    "to": 459.9,
+    "sid": 252,
+    "location": 2,
+    "content": "做一个聪明的骗子",
+    "music": 0.0
+  },
+  {
+    "from": 459.9,
+    "to": 462.12,
+    "sid": 253,
+    "location": 2,
+    "content": "记住你的目标不是一步登天",
+    "music": 0.0
+  },
+  {
+    "from": 462.12,
+    "to": 465.32,
+    "sid": 254,
+    "location": 2,
+    "content": "而是让开始变得像呼吸一样简单好了",
+    "music": 0.0
+  },
+  {
+    "from": 465.32,
+    "to": 466.5,
+    "sid": 255,
+    "location": 2,
+    "content": "道理都听明白了",
+    "music": 0.0
+  },
+  {
+    "from": 466.5,
+    "to": 468.19,
+    "sid": 256,
+    "location": 2,
+    "content": "现在轮到你了",
+    "music": 0.0
+  },
+  {
+    "from": 468.19,
+    "to": 469.73,
+    "sid": 257,
+    "location": 2,
+    "content": "你的第一个小到可笑",
+    "music": 0.0
+  },
+  {
+    "from": 469.73,
+    "to": 471.85,
+    "sid": 258,
+    "location": 2,
+    "content": "甚至有点丢人的微习惯是什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 471.85,
+    "to": 473.57,
+    "sid": 259,
+    "location": 2,
+    "content": "评论区一起讨论一下吧",
+    "music": 0.0
+  },
+  {
+    "from": 473.57,
+    "to": 475.49,
+    "sid": 260,
+    "location": 2,
+    "content": "如果你还想听日哥采访哪本书",
+    "music": 0.0
+  },
+  {
+    "from": 475.49,
+    "to": 476.82,
+    "sid": 261,
+    "location": 2,
+    "content": "也可以评论区留言哦",
+    "music": 0.0
+  }
+]

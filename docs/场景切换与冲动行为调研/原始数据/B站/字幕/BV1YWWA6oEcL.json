@@ -1,0 +1,306 @@
+[
+  {
+    "from": 0.98,
+    "to": 2.68,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有这种时候",
+    "music": 0.0
+  },
+  {
+    "from": 2.68,
+    "to": 4.92,
+    "sid": 2,
+    "location": 2,
+    "content": "明明知道工作该开始了",
+    "music": 0.0
+  },
+  {
+    "from": 4.92,
+    "to": 7.7,
+    "sid": 3,
+    "location": 2,
+    "content": "打开电脑却先刷起手机",
+    "music": 0.0
+  },
+  {
+    "from": 7.7,
+    "to": 9.14,
+    "sid": 4,
+    "location": 2,
+    "content": "越拖越焦虑",
+    "music": 0.0
+  },
+  {
+    "from": 9.14,
+    "to": 11.1,
+    "sid": 5,
+    "location": 2,
+    "content": "还忍不住骂自己懒",
+    "music": 0.0
+  },
+  {
+    "from": 11.1,
+    "to": 14.66,
+    "sid": 6,
+    "location": 2,
+    "content": "可你可能没想过自己到底在躲什么",
+    "music": 0.0
+  },
+  {
+    "from": 14.66,
+    "to": 16.58,
+    "sid": 7,
+    "location": 2,
+    "content": "心理学研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 16.58,
+    "to": 19.45,
+    "sid": 8,
+    "location": 2,
+    "content": "拖延常和情绪调节有关",
+    "music": 0.0
+  },
+  {
+    "from": 19.45,
+    "to": 20.61,
+    "sid": 9,
+    "location": 2,
+    "content": "任务太难",
+    "music": 0.0
+  },
+  {
+    "from": 20.61,
+    "to": 21.47,
+    "sid": 10,
+    "location": 2,
+    "content": "太无聊",
+    "music": 0.0
+  },
+  {
+    "from": 21.47,
+    "to": 23.37,
+    "sid": 11,
+    "location": 2,
+    "content": "或者怕做不好",
+    "music": 0.0
+  },
+  {
+    "from": 23.37,
+    "to": 26.65,
+    "sid": 12,
+    "location": 2,
+    "content": "我们就想暂时躲开那份不舒服",
+    "music": 0.0
+  },
+  {
+    "from": 26.65,
+    "to": 28.11,
+    "sid": 13,
+    "location": 2,
+    "content": "刷视频的那一刻",
+    "music": 0.0
+  },
+  {
+    "from": 28.11,
+    "to": 29.91,
+    "sid": 14,
+    "location": 2,
+    "content": "你是不是轻松了点",
+    "music": 0.0
+  },
+  {
+    "from": 29.91,
+    "to": 32.31,
+    "sid": 15,
+    "location": 2,
+    "content": "这就是短期的情绪环节",
+    "music": 0.0
+  },
+  {
+    "from": 32.31,
+    "to": 34.05,
+    "sid": 16,
+    "location": 2,
+    "content": "可任务还在那里",
+    "music": 0.0
+  },
+  {
+    "from": 34.05,
+    "to": 37.0,
+    "sid": 17,
+    "location": 2,
+    "content": "越接近截止日期压力越大",
+    "music": 0.0
+  },
+  {
+    "from": 37.0,
+    "to": 39.22,
+    "sid": 18,
+    "location": 2,
+    "content": "下一次又更想逃",
+    "music": 0.0
+  },
+  {
+    "from": 39.22,
+    "to": 40.74,
+    "sid": 19,
+    "location": 2,
+    "content": "怎么打破循环",
+    "music": 0.0
+  },
+  {
+    "from": 40.74,
+    "to": 43.04,
+    "sid": 20,
+    "location": 2,
+    "content": "第一少一点自责",
+    "music": 0.0
+  },
+  {
+    "from": 43.04,
+    "to": 44.36,
+    "sid": 21,
+    "location": 2,
+    "content": "试着问问自己",
+    "music": 0.0
+  },
+  {
+    "from": 44.36,
+    "to": 46.5,
+    "sid": 22,
+    "location": 2,
+    "content": "这件事让我怕什么",
+    "music": 0.0
+  },
+  {
+    "from": 46.5,
+    "to": 47.56,
+    "sid": 23,
+    "location": 2,
+    "content": "怕出错",
+    "music": 0.0
+  },
+  {
+    "from": 47.56,
+    "to": 49.65,
+    "sid": 24,
+    "location": 2,
+    "content": "还是不知道从哪开始",
+    "music": 0.0
+  },
+  {
+    "from": 49.65,
+    "to": 50.73,
+    "sid": 25,
+    "location": 2,
+    "content": "找到阻力",
+    "music": 0.0
+  },
+  {
+    "from": 50.73,
+    "to": 52.19,
+    "sid": 26,
+    "location": 2,
+    "content": "才知道怎么调整",
+    "music": 0.0
+  },
+  {
+    "from": 52.19,
+    "to": 54.37,
+    "sid": 27,
+    "location": 2,
+    "content": "第二把任务缩小",
+    "music": 0.0
+  },
+  {
+    "from": 54.37,
+    "to": 56.53,
+    "sid": 28,
+    "location": 2,
+    "content": "别写今晚认真学习",
+    "music": 0.0
+  },
+  {
+    "from": 56.53,
+    "to": 58.55,
+    "sid": 29,
+    "location": 2,
+    "content": "改成把书打开",
+    "music": 0.0
+  },
+  {
+    "from": 58.55,
+    "to": 59.44,
+    "sid": 30,
+    "location": 2,
+    "content": "读一页",
+    "music": 0.0
+  },
+  {
+    "from": 59.44,
+    "to": 61.62,
+    "sid": 31,
+    "location": 2,
+    "content": "你也可以只做2分钟",
+    "music": 0.0
+  },
+  {
+    "from": 61.62,
+    "to": 63.26,
+    "sid": 32,
+    "location": 2,
+    "content": "它不是神奇公式",
+    "music": 0.0
+  },
+  {
+    "from": 63.26,
+    "to": 65.28,
+    "sid": 33,
+    "location": 2,
+    "content": "只是降低开始的门槛",
+    "music": 0.0
+  },
+  {
+    "from": 65.28,
+    "to": 68.56,
+    "sid": 34,
+    "location": 2,
+    "content": "第三安排一个容易开始的场景",
+    "music": 0.0
+  },
+  {
+    "from": 68.56,
+    "to": 71.5,
+    "sid": 35,
+    "location": 2,
+    "content": "比如晚饭后把手机放远",
+    "music": 0.0
+  },
+  {
+    "from": 71.5,
+    "to": 73.26,
+    "sid": 36,
+    "location": 2,
+    "content": "坐下来写第一句话",
+    "music": 0.0
+  },
+  {
+    "from": 73.26,
+    "to": 76.85,
+    "sid": 37,
+    "location": 2,
+    "content": "当然疲劳和环境也会影响行动",
+    "music": 0.0
+  },
+  {
+    "from": 76.85,
+    "to": 79.8,
+    "sid": 38,
+    "location": 2,
+    "content": "今晚你想先开始哪件事",
+    "music": 0.0
+  }
+]

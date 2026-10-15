@@ -1,0 +1,1730 @@
+[
+  {
+    "from": 0.28,
+    "to": 1.78,
+    "sid": 1,
+    "location": 2,
+    "content": "假如书籍会说话",
+    "music": 0.0
+  },
+  {
+    "from": 1.78,
+    "to": 4.1,
+    "sid": 2,
+    "location": 2,
+    "content": "今日对话意志力",
+    "music": 0.0
+  },
+  {
+    "from": 4.1,
+    "to": 5.36,
+    "sid": 3,
+    "location": 2,
+    "content": "你有没有发现",
+    "music": 0.0
+  },
+  {
+    "from": 5.36,
+    "to": 8.68,
+    "sid": 4,
+    "location": 2,
+    "content": "你最容易破戒的时间永远是晚上对",
+    "music": 0.0
+  },
+  {
+    "from": 8.68,
+    "to": 10.16,
+    "sid": 5,
+    "location": 2,
+    "content": "晚上特别容易刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 10.16,
+    "to": 11.62,
+    "sid": 6,
+    "location": 2,
+    "content": "吃零食熬夜",
+    "music": 0.0
+  },
+  {
+    "from": 11.62,
+    "to": 13.41,
+    "sid": 7,
+    "location": 2,
+    "content": "那不是你意志力差",
+    "music": 0.0
+  },
+  {
+    "from": 13.41,
+    "to": 16.29,
+    "sid": 8,
+    "location": 2,
+    "content": "那是你的意志力在白天已经被用完了",
+    "music": 0.0
+  },
+  {
+    "from": 16.29,
+    "to": 17.07,
+    "sid": 9,
+    "location": 2,
+    "content": "被用完",
+    "music": 0.0
+  },
+  {
+    "from": 17.07,
+    "to": 19.61,
+    "sid": 10,
+    "location": 2,
+    "content": "我白天也没干什么特别费劲的事啊",
+    "music": 0.0
+  },
+  {
+    "from": 19.61,
+    "to": 21.28,
+    "sid": 11,
+    "location": 2,
+    "content": "你做了多少个决定",
+    "music": 0.0
+  },
+  {
+    "from": 21.28,
+    "to": 22.96,
+    "sid": 12,
+    "location": 2,
+    "content": "回了多少条消息",
+    "music": 0.0
+  },
+  {
+    "from": 22.96,
+    "to": 24.82,
+    "sid": 13,
+    "location": 2,
+    "content": "忍了多少次没发火",
+    "music": 0.0
+  },
+  {
+    "from": 24.82,
+    "to": 27.18,
+    "sid": 14,
+    "location": 2,
+    "content": "这些也算消耗意志力",
+    "music": 0.0
+  },
+  {
+    "from": 27.18,
+    "to": 30.24,
+    "sid": 15,
+    "location": 2,
+    "content": "每一个要不要都在消耗意志力",
+    "music": 0.0
+  },
+  {
+    "from": 30.24,
+    "to": 31.3,
+    "sid": 16,
+    "location": 2,
+    "content": "就像手机电量",
+    "music": 0.0
+  },
+  {
+    "from": 31.3,
+    "to": 32.6,
+    "sid": 17,
+    "location": 2,
+    "content": "你以为他在待机",
+    "music": 0.0
+  },
+  {
+    "from": 32.6,
+    "to": 34.28,
+    "sid": 18,
+    "location": 2,
+    "content": "其实后台一直在跑",
+    "music": 0.0
+  },
+  {
+    "from": 34.28,
+    "to": 36.72,
+    "sid": 19,
+    "location": 2,
+    "content": "那满电状态下我能做什么",
+    "music": 0.0
+  },
+  {
+    "from": 36.72,
+    "to": 37.78,
+    "sid": 20,
+    "location": 2,
+    "content": "先等等",
+    "music": 0.0
+  },
+  {
+    "from": 37.78,
+    "to": 39.6,
+    "sid": 21,
+    "location": 2,
+    "content": "你得先搞明白一件事",
+    "music": 0.0
+  },
+  {
+    "from": 39.6,
+    "to": 41.08,
+    "sid": 22,
+    "location": 2,
+    "content": "意志力到底是什么",
+    "music": 0.0
+  },
+  {
+    "from": 41.08,
+    "to": 43.34,
+    "sid": 23,
+    "location": 2,
+    "content": "不就是忍住不做坏事的能力吗",
+    "music": 0.0
+  },
+  {
+    "from": 43.34,
+    "to": 46.64,
+    "sid": 24,
+    "location": 2,
+    "content": "不只是忍他管着你所有的自我控制",
+    "music": 0.0
+  },
+  {
+    "from": 46.64,
+    "to": 48.96,
+    "sid": 25,
+    "location": 2,
+    "content": "专注情绪决策",
+    "music": 0.0
+  },
+  {
+    "from": 48.96,
+    "to": 51.88,
+    "sid": 26,
+    "location": 2,
+    "content": "坚持全都从同一个池子里取水",
+    "music": 0.0
+  },
+  {
+    "from": 51.88,
+    "to": 55.97,
+    "sid": 27,
+    "location": 2,
+    "content": "同一个池子对你上午忍住没对领导",
+    "music": 0.0
+  },
+  {
+    "from": 55.97,
+    "to": 57.11,
+    "sid": 28,
+    "location": 2,
+    "content": "下午就更难忍住",
+    "music": 0.0
+  },
+  {
+    "from": 57.11,
+    "to": 58.09,
+    "sid": 29,
+    "location": 2,
+    "content": "不吃零食",
+    "music": 0.0
+  },
+  {
+    "from": 58.09,
+    "to": 60.65,
+    "sid": 30,
+    "location": 2,
+    "content": "消耗的是同一种资源等等",
+    "music": 0.0
+  },
+  {
+    "from": 60.65,
+    "to": 62.57,
+    "sid": 31,
+    "location": 2,
+    "content": "这不就是说我越懂事",
+    "music": 0.0
+  },
+  {
+    "from": 62.57,
+    "to": 64.43,
+    "sid": 32,
+    "location": 2,
+    "content": "我越容易在别的地方崩",
+    "music": 0.0
+  },
+  {
+    "from": 64.43,
+    "to": 65.95,
+    "sid": 33,
+    "location": 2,
+    "content": "你说的比我准",
+    "music": 0.0
+  },
+  {
+    "from": 65.95,
+    "to": 67.09,
+    "sid": 34,
+    "location": 2,
+    "content": "自我损耗",
+    "music": 0.0
+  },
+  {
+    "from": 67.09,
+    "to": 68.99,
+    "sid": 35,
+    "location": 2,
+    "content": "这是心理学给他起的名字",
+    "music": 0.0
+  },
+  {
+    "from": 68.99,
+    "to": 70.99,
+    "sid": 36,
+    "location": 2,
+    "content": "那这个池子能补满吗",
+    "music": 0.0
+  },
+  {
+    "from": 70.99,
+    "to": 73.87,
+    "sid": 37,
+    "location": 2,
+    "content": "能睡眠是最重要的",
+    "music": 0.0
+  },
+  {
+    "from": 73.87,
+    "to": 75.83,
+    "sid": 38,
+    "location": 2,
+    "content": "还有一个你可能没想到的",
+    "music": 0.0
+  },
+  {
+    "from": 75.83,
+    "to": 78.69,
+    "sid": 39,
+    "location": 2,
+    "content": "吃东西吃东西你在开玩笑吗",
+    "music": 0.0
+  },
+  {
+    "from": 78.69,
+    "to": 80.789,
+    "sid": 40,
+    "location": 2,
+    "content": "意志力运转需要葡萄糖",
+    "music": 0.0
+  },
+  {
+    "from": 80.789,
+    "to": 82.149,
+    "sid": 41,
+    "location": 2,
+    "content": "血糖低的时候",
+    "music": 0.0
+  },
+  {
+    "from": 82.149,
+    "to": 83.409,
+    "sid": 42,
+    "location": 2,
+    "content": "人更容易冲动",
+    "music": 0.0
+  },
+  {
+    "from": 83.409,
+    "to": 84.61,
+    "sid": 43,
+    "location": 2,
+    "content": "更难坚持",
+    "music": 0.0
+  },
+  {
+    "from": 84.61,
+    "to": 85.93,
+    "sid": 44,
+    "location": 2,
+    "content": "这不是借口",
+    "music": 0.0
+  },
+  {
+    "from": 85.93,
+    "to": 87.03,
+    "sid": 45,
+    "location": 2,
+    "content": "这是生理",
+    "music": 0.0
+  },
+  {
+    "from": 87.03,
+    "to": 88.79,
+    "sid": 46,
+    "location": 2,
+    "content": "所以我饿着肚子减肥",
+    "music": 0.0
+  },
+  {
+    "from": 88.79,
+    "to": 90.13,
+    "sid": 47,
+    "location": 2,
+    "content": "结果更容易暴食",
+    "music": 0.0
+  },
+  {
+    "from": 90.13,
+    "to": 91.83,
+    "sid": 48,
+    "location": 2,
+    "content": "是因为你在饿死",
+    "music": 0.0
+  },
+  {
+    "from": 91.83,
+    "to": 94.039,
+    "sid": 49,
+    "location": 2,
+    "content": "那个本来要帮你控制饮食的系统",
+    "music": 0.0
+  },
+  {
+    "from": 94.039,
+    "to": 97.299,
+    "sid": 50,
+    "location": 2,
+    "content": "节食这件事从生理上就在跟自己作对",
+    "music": 0.0
+  },
+  {
+    "from": 97.299,
+    "to": 98.899,
+    "sid": 51,
+    "location": 2,
+    "content": "这有点颠覆",
+    "music": 0.0
+  },
+  {
+    "from": 98.899,
+    "to": 100.599,
+    "sid": 52,
+    "location": 2,
+    "content": "那我是不是应该多吃点",
+    "music": 0.0
+  },
+  {
+    "from": 100.599,
+    "to": 101.659,
+    "sid": 53,
+    "location": 2,
+    "content": "不是多吃",
+    "music": 0.0
+  },
+  {
+    "from": 101.659,
+    "to": 102.559,
+    "sid": 54,
+    "location": 2,
+    "content": "是稳定的",
+    "music": 0.0
+  },
+  {
+    "from": 102.559,
+    "to": 104.8,
+    "sid": 55,
+    "location": 2,
+    "content": "吃糖果给你的是一阵冲劲",
+    "music": 0.0
+  },
+  {
+    "from": 104.8,
+    "to": 105.62,
+    "sid": 56,
+    "location": 2,
+    "content": "然后崩塌",
+    "music": 0.0
+  },
+  {
+    "from": 105.62,
+    "to": 109.62,
+    "sid": 57,
+    "location": 2,
+    "content": "全谷物水果给你的是持续稳定的燃料好",
+    "music": 0.0
+  },
+  {
+    "from": 109.62,
+    "to": 112.3,
+    "sid": 58,
+    "location": 2,
+    "content": "那我现在知道意志力会耗尽能补充",
+    "music": 0.0
+  },
+  {
+    "from": 112.3,
+    "to": 113.68,
+    "sid": 59,
+    "location": 2,
+    "content": "但我真正想问的是",
+    "music": 0.0
+  },
+  {
+    "from": 113.68,
+    "to": 116.71,
+    "sid": 60,
+    "location": 2,
+    "content": "为什么我每次立的flag都没撑过三天",
+    "music": 0.0
+  },
+  {
+    "from": 116.71,
+    "to": 118.55,
+    "sid": 61,
+    "location": 2,
+    "content": "因为你同时立了太多",
+    "music": 0.0
+  },
+  {
+    "from": 118.55,
+    "to": 120.69,
+    "sid": 62,
+    "location": 2,
+    "content": "就就两三个而已",
+    "music": 0.0
+  },
+  {
+    "from": 120.69,
+    "to": 122.97,
+    "sid": 63,
+    "location": 2,
+    "content": "早起健身戒糖",
+    "music": 0.0
+  },
+  {
+    "from": 122.97,
+    "to": 123.99,
+    "sid": 64,
+    "location": 2,
+    "content": "少刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 123.99,
+    "to": 124.81,
+    "sid": 65,
+    "location": 2,
+    "content": "多读书",
+    "music": 0.0
+  },
+  {
+    "from": 124.81,
+    "to": 126.21,
+    "sid": 66,
+    "location": 2,
+    "content": "这是你说的两三个吗",
+    "music": 0.0
+  },
+  {
+    "from": 126.21,
+    "to": 127.55,
+    "sid": 67,
+    "location": 2,
+    "content": "好像是多了点",
+    "music": 0.0
+  },
+  {
+    "from": 127.55,
+    "to": 131.459,
+    "sid": 68,
+    "location": 2,
+    "content": "每一个新习惯在变成自动之前都要消耗意志力",
+    "music": 0.0
+  },
+  {
+    "from": 131.459,
+    "to": 132.959,
+    "sid": 69,
+    "location": 2,
+    "content": "你同时启动五个",
+    "music": 0.0
+  },
+  {
+    "from": 132.959,
+    "to": 135.299,
+    "sid": 70,
+    "location": 2,
+    "content": "就是同时开了五个高耗电的程序",
+    "music": 0.0
+  },
+  {
+    "from": 135.299,
+    "to": 136.5,
+    "sid": 71,
+    "location": 2,
+    "content": "然后全崩了",
+    "music": 0.0
+  },
+  {
+    "from": 136.5,
+    "to": 138.56,
+    "sid": 72,
+    "location": 2,
+    "content": "然后你还会觉得是自己不够努力",
+    "music": 0.0
+  },
+  {
+    "from": 138.56,
+    "to": 139.72,
+    "sid": 73,
+    "location": 2,
+    "content": "开始自我怀疑",
+    "music": 0.0
+  },
+  {
+    "from": 139.72,
+    "to": 141.48,
+    "sid": 74,
+    "location": 2,
+    "content": "这本身又是一种消耗",
+    "music": 0.0
+  },
+  {
+    "from": 141.48,
+    "to": 143.52,
+    "sid": 75,
+    "location": 2,
+    "content": "这个循环太真实了",
+    "music": 0.0
+  },
+  {
+    "from": 143.52,
+    "to": 144.68,
+    "sid": 76,
+    "location": 2,
+    "content": "那应该怎么做",
+    "music": 0.0
+  },
+  {
+    "from": 144.68,
+    "to": 146.55,
+    "sid": 77,
+    "location": 2,
+    "content": "一次只改一件事",
+    "music": 0.0
+  },
+  {
+    "from": 146.55,
+    "to": 148.81,
+    "sid": 78,
+    "location": 2,
+    "content": "把意志力集中在一个突破口上",
+    "music": 0.0
+  },
+  {
+    "from": 148.81,
+    "to": 151.05,
+    "sid": 79,
+    "location": 2,
+    "content": "等他变成习惯再开下一个",
+    "music": 0.0
+  },
+  {
+    "from": 151.05,
+    "to": 152.55,
+    "sid": 80,
+    "location": 2,
+    "content": "可是这样太慢了吧",
+    "music": 0.0
+  },
+  {
+    "from": 152.55,
+    "to": 154.57,
+    "sid": 81,
+    "location": 2,
+    "content": "慢是因为你在建基础",
+    "music": 0.0
+  },
+  {
+    "from": 154.57,
+    "to": 156.19,
+    "sid": 82,
+    "location": 2,
+    "content": "你现在的方式是快",
+    "music": 0.0
+  },
+  {
+    "from": 156.19,
+    "to": 157.95,
+    "sid": 83,
+    "location": 2,
+    "content": "但你每次都从零开始",
+    "music": 0.0
+  },
+  {
+    "from": 157.95,
+    "to": 159.55,
+    "sid": 84,
+    "location": 2,
+    "content": "哪个更慢行",
+    "music": 0.0
+  },
+  {
+    "from": 159.55,
+    "to": 160.67,
+    "sid": 85,
+    "location": 2,
+    "content": "你说的有道理",
+    "music": 0.0
+  },
+  {
+    "from": 160.67,
+    "to": 161.71,
+    "sid": 86,
+    "location": 2,
+    "content": "但我还有个问题",
+    "music": 0.0
+  },
+  {
+    "from": 161.71,
+    "to": 163.37,
+    "sid": 87,
+    "location": 2,
+    "content": "那些看起来特别自律的人",
+    "music": 0.0
+  },
+  {
+    "from": 163.37,
+    "to": 165.27,
+    "sid": 88,
+    "location": 2,
+    "content": "他们是意志力特别强吗",
+    "music": 0.0
+  },
+  {
+    "from": 165.27,
+    "to": 166.6,
+    "sid": 89,
+    "location": 2,
+    "content": "恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 166.6,
+    "to": 167.66,
+    "sid": 90,
+    "location": 2,
+    "content": "研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 167.66,
+    "to": 171.32,
+    "sid": 91,
+    "location": 2,
+    "content": "自控力强的人反而更少使用意志力啥",
+    "music": 0.0
+  },
+  {
+    "from": 171.32,
+    "to": 172.5,
+    "sid": 92,
+    "location": 2,
+    "content": "这不矛盾吗",
+    "music": 0.0
+  },
+  {
+    "from": 172.5,
+    "to": 174.72,
+    "sid": 93,
+    "location": 2,
+    "content": "他们把那些事变成了习惯",
+    "music": 0.0
+  },
+  {
+    "from": 174.72,
+    "to": 176.46,
+    "sid": 94,
+    "location": 2,
+    "content": "习惯是自动运行的",
+    "music": 0.0
+  },
+  {
+    "from": 176.46,
+    "to": 178.02,
+    "sid": 95,
+    "location": 2,
+    "content": "不需要意志力来驱动",
+    "music": 0.0
+  },
+  {
+    "from": 178.02,
+    "to": 179.8,
+    "sid": 96,
+    "location": 2,
+    "content": "所以他们不是更能忍",
+    "music": 0.0
+  },
+  {
+    "from": 179.8,
+    "to": 181.18,
+    "sid": 97,
+    "location": 2,
+    "content": "是根本不用人",
+    "music": 0.0
+  },
+  {
+    "from": 181.18,
+    "to": 182.08,
+    "sid": 98,
+    "location": 2,
+    "content": "对",
+    "music": 0.0
+  },
+  {
+    "from": 182.08,
+    "to": 185.14,
+    "sid": 99,
+    "location": 2,
+    "content": "真正的自律是让自律变得不费力",
+    "music": 0.0
+  },
+  {
+    "from": 185.14,
+    "to": 186.58,
+    "sid": 100,
+    "location": 2,
+    "content": "你一直在恋人",
+    "music": 0.0
+  },
+  {
+    "from": 186.58,
+    "to": 188.32,
+    "sid": 101,
+    "location": 2,
+    "content": "你应该练的是不需要忍",
+    "music": 0.0
+  },
+  {
+    "from": 188.32,
+    "to": 189.1,
+    "sid": 102,
+    "location": 2,
+    "content": "怎么练",
+    "music": 0.0
+  },
+  {
+    "from": 189.1,
+    "to": 190.68,
+    "sid": 103,
+    "location": 2,
+    "content": "从小事开始",
+    "music": 0.0
+  },
+  {
+    "from": 190.68,
+    "to": 192.04,
+    "sid": 104,
+    "location": 2,
+    "content": "研究里有个发现",
+    "music": 0.0
+  },
+  {
+    "from": 192.04,
+    "to": 194.0,
+    "sid": 105,
+    "location": 2,
+    "content": "让学生坚持改善坐姿",
+    "music": 0.0
+  },
+  {
+    "from": 194.0,
+    "to": 194.74,
+    "sid": 106,
+    "location": 2,
+    "content": "几周之后",
+    "music": 0.0
+  },
+  {
+    "from": 194.74,
+    "to": 197.62,
+    "sid": 107,
+    "location": 2,
+    "content": "他们在完全不相关的自控任务上也变强了",
+    "music": 0.0
+  },
+  {
+    "from": 197.62,
+    "to": 199.8,
+    "sid": 108,
+    "location": 2,
+    "content": "坐姿就这么简单的事",
+    "music": 0.0
+  },
+  {
+    "from": 199.8,
+    "to": 201.2,
+    "sid": 109,
+    "location": 2,
+    "content": "意志力像肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 201.2,
+    "to": 202.64,
+    "sid": 110,
+    "location": 2,
+    "content": "小重量的持续训练",
+    "music": 0.0
+  },
+  {
+    "from": 202.64,
+    "to": 205.05,
+    "sid": 111,
+    "location": 2,
+    "content": "比偶尔一次极限冲刺更有效",
+    "music": 0.0
+  },
+  {
+    "from": 205.05,
+    "to": 208.29,
+    "sid": 112,
+    "location": 2,
+    "content": "你每天微小的自我约束都在悄悄加固",
+    "music": 0.0
+  },
+  {
+    "from": 208.29,
+    "to": 209.709,
+    "sid": 113,
+    "location": 2,
+    "content": "那块肌肉好",
+    "music": 0.0
+  },
+  {
+    "from": 209.709,
+    "to": 211.129,
+    "sid": 114,
+    "location": 2,
+    "content": "但我有个现实问题",
+    "music": 0.0
+  },
+  {
+    "from": 211.129,
+    "to": 212.369,
+    "sid": 115,
+    "location": 2,
+    "content": "我工作压力大",
+    "music": 0.0
+  },
+  {
+    "from": 212.369,
+    "to": 213.829,
+    "sid": 116,
+    "location": 2,
+    "content": "有时候真的是撑不住",
+    "music": 0.0
+  },
+  {
+    "from": 213.829,
+    "to": 214.97,
+    "sid": 117,
+    "location": 2,
+    "content": "这时候怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 214.97,
+    "to": 217.05,
+    "sid": 118,
+    "location": 2,
+    "content": "这时候你要做的不是更努力称",
+    "music": 0.0
+  },
+  {
+    "from": 217.05,
+    "to": 218.41,
+    "sid": 119,
+    "location": 2,
+    "content": "而是识别信号",
+    "music": 0.0
+  },
+  {
+    "from": 218.41,
+    "to": 219.42,
+    "sid": 120,
+    "location": 2,
+    "content": "什么信号",
+    "music": 0.0
+  },
+  {
+    "from": 219.42,
+    "to": 220.8,
+    "sid": 121,
+    "location": 2,
+    "content": "你开始容易发火",
+    "music": 0.0
+  },
+  {
+    "from": 220.8,
+    "to": 222.28,
+    "sid": 122,
+    "location": 2,
+    "content": "做决定越来越随意",
+    "music": 0.0
+  },
+  {
+    "from": 222.28,
+    "to": 223.32,
+    "sid": 123,
+    "location": 2,
+    "content": "什么都想脱",
+    "music": 0.0
+  },
+  {
+    "from": 223.32,
+    "to": 225.28,
+    "sid": 124,
+    "location": 2,
+    "content": "这些都是意志力耗尽的预警",
+    "music": 0.0
+  },
+  {
+    "from": 225.28,
+    "to": 227.76,
+    "sid": 125,
+    "location": 2,
+    "content": "这不就是我每天下午三四点的状态吗",
+    "music": 0.0
+  },
+  {
+    "from": 227.76,
+    "to": 230.21,
+    "sid": 126,
+    "location": 2,
+    "content": "那个时间点不要做重要决定",
+    "music": 0.0
+  },
+  {
+    "from": 230.21,
+    "to": 231.19,
+    "sid": 127,
+    "location": 2,
+    "content": "不要谈判",
+    "music": 0.0
+  },
+  {
+    "from": 231.19,
+    "to": 233.31,
+    "sid": 128,
+    "location": 2,
+    "content": "不要回复那封你纠结很久的邮件",
+    "music": 0.0
+  },
+  {
+    "from": 233.31,
+    "to": 235.27,
+    "sid": 129,
+    "location": 2,
+    "content": "不要跟伴侣聊敏感话题",
+    "music": 0.0
+  },
+  {
+    "from": 235.27,
+    "to": 236.09,
+    "sid": 130,
+    "location": 2,
+    "content": "为什么",
+    "music": 0.0
+  },
+  {
+    "from": 236.09,
+    "to": 237.64,
+    "sid": 131,
+    "location": 2,
+    "content": "因为决策疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 237.64,
+    "to": 239.24,
+    "sid": 132,
+    "location": 2,
+    "content": "意志力耗尽的时候",
+    "music": 0.0
+  },
+  {
+    "from": 239.24,
+    "to": 241.18,
+    "sid": 133,
+    "location": 2,
+    "content": "你的大脑倾向于走捷径",
+    "music": 0.0
+  },
+  {
+    "from": 241.18,
+    "to": 242.5,
+    "sid": 134,
+    "location": 2,
+    "content": "要么冲动行事",
+    "music": 0.0
+  },
+  {
+    "from": 242.5,
+    "to": 244.54,
+    "sid": 135,
+    "location": 2,
+    "content": "要么干脆什么都不决定",
+    "music": 0.0
+  },
+  {
+    "from": 244.54,
+    "to": 246.12,
+    "sid": 136,
+    "location": 2,
+    "content": "两种都很危险",
+    "music": 0.0
+  },
+  {
+    "from": 246.12,
+    "to": 249.0,
+    "sid": 137,
+    "location": 2,
+    "content": "所以那些我在疲惫状态下做的烂决定",
+    "music": 0.0
+  },
+  {
+    "from": 249.0,
+    "to": 250.68,
+    "sid": 138,
+    "location": 2,
+    "content": "不全是你的性格问题",
+    "music": 0.0
+  },
+  {
+    "from": 250.68,
+    "to": 252.49,
+    "sid": 139,
+    "location": 2,
+    "content": "有一部分是实际问题",
+    "music": 0.0
+  },
+  {
+    "from": 252.49,
+    "to": 255.78,
+    "sid": 140,
+    "location": 2,
+    "content": "换个时间你可能会做出完全不同的选择",
+    "music": 0.0
+  },
+  {
+    "from": 255.78,
+    "to": 257.8,
+    "sid": 141,
+    "location": 2,
+    "content": "这个真的让我松了口气",
+    "music": 0.0
+  },
+  {
+    "from": 257.8,
+    "to": 258.82,
+    "sid": 142,
+    "location": 2,
+    "content": "但话说回来",
+    "music": 0.0
+  },
+  {
+    "from": 258.82,
+    "to": 261.02,
+    "sid": 143,
+    "location": 2,
+    "content": "有没有办法让自己在疲惫的时候",
+    "music": 0.0
+  },
+  {
+    "from": 261.02,
+    "to": 262.28,
+    "sid": 144,
+    "location": 2,
+    "content": "也不那么容易犯错",
+    "music": 0.0
+  },
+  {
+    "from": 262.28,
+    "to": 264.91,
+    "sid": 145,
+    "location": 2,
+    "content": "有提前设好规则",
+    "music": 0.0
+  },
+  {
+    "from": 264.91,
+    "to": 266.65,
+    "sid": 146,
+    "location": 2,
+    "content": "什么叫提前设好规则",
+    "music": 0.0
+  },
+  {
+    "from": 266.65,
+    "to": 268.65,
+    "sid": 147,
+    "location": 2,
+    "content": "就是在你状态好的时候",
+    "music": 0.0
+  },
+  {
+    "from": 268.65,
+    "to": 271.02,
+    "sid": 148,
+    "location": 2,
+    "content": "替未来那个疲惫的自己做决定",
+    "music": 0.0
+  },
+  {
+    "from": 271.02,
+    "to": 273.75,
+    "sid": 149,
+    "location": 2,
+    "content": "比如晚上十点后不碰手机",
+    "music": 0.0
+  },
+  {
+    "from": 273.75,
+    "to": 274.73,
+    "sid": 150,
+    "location": 2,
+    "content": "这是规则",
+    "music": 0.0
+  },
+  {
+    "from": 274.73,
+    "to": 276.93,
+    "sid": 151,
+    "location": 2,
+    "content": "不是每晚都要重新决定一次",
+    "music": 0.0
+  },
+  {
+    "from": 276.93,
+    "to": 278.99,
+    "sid": 152,
+    "location": 2,
+    "content": "这样就不用每次都消耗意志力",
+    "music": 0.0
+  },
+  {
+    "from": 278.99,
+    "to": 280.29,
+    "sid": 153,
+    "location": 2,
+    "content": "去要不要看手机了",
+    "music": 0.0
+  },
+  {
+    "from": 280.29,
+    "to": 282.92,
+    "sid": 154,
+    "location": 2,
+    "content": "对规则消灭了纠结",
+    "music": 0.0
+  },
+  {
+    "from": 282.92,
+    "to": 285.14,
+    "sid": 155,
+    "location": 2,
+    "content": "纠结才是真正的耗电大户",
+    "music": 0.0
+  },
+  {
+    "from": 285.14,
+    "to": 287.04,
+    "sid": 156,
+    "location": 2,
+    "content": "还有呢除了设规则",
+    "music": 0.0
+  },
+  {
+    "from": 287.04,
+    "to": 288.38,
+    "sid": 157,
+    "location": 2,
+    "content": "改变环境",
+    "music": 0.0
+  },
+  {
+    "from": 288.38,
+    "to": 290.1,
+    "sid": 158,
+    "location": 2,
+    "content": "把诱惑从视线里移走",
+    "music": 0.0
+  },
+  {
+    "from": 290.1,
+    "to": 292.46,
+    "sid": 159,
+    "location": 2,
+    "content": "比你每次忍住不碰要省力的多",
+    "music": 0.0
+  },
+  {
+    "from": 292.46,
+    "to": 294.78,
+    "sid": 160,
+    "location": 2,
+    "content": "就是把零食藏起来",
+    "music": 0.0
+  },
+  {
+    "from": 294.78,
+    "to": 296.09,
+    "sid": 161,
+    "location": 2,
+    "content": "不只是藏",
+    "music": 0.0
+  },
+  {
+    "from": 296.09,
+    "to": 298.21,
+    "sid": 162,
+    "location": 2,
+    "content": "是重新设计你的生活动线",
+    "music": 0.0
+  },
+  {
+    "from": 298.21,
+    "to": 300.49,
+    "sid": 163,
+    "location": 2,
+    "content": "让好的选择变成最省力的选择",
+    "music": 0.0
+  },
+  {
+    "from": 300.49,
+    "to": 302.41,
+    "sid": 164,
+    "location": 2,
+    "content": "让坏的选择变得麻烦",
+    "music": 0.0
+  },
+  {
+    "from": 302.41,
+    "to": 304.95,
+    "sid": 165,
+    "location": 2,
+    "content": "这有点像替自己设一个陷阱",
+    "music": 0.0
+  },
+  {
+    "from": 304.95,
+    "to": 306.61,
+    "sid": 166,
+    "location": 2,
+    "content": "但是往好的方向先",
+    "music": 0.0
+  },
+  {
+    "from": 306.61,
+    "to": 308.12,
+    "sid": 167,
+    "location": 2,
+    "content": "你可以这么理解",
+    "music": 0.0
+  },
+  {
+    "from": 308.12,
+    "to": 311.46,
+    "sid": 168,
+    "location": 2,
+    "content": "聪明的使用意志力是让他根本不需要出场",
+    "music": 0.0
+  },
+  {
+    "from": 311.46,
+    "to": 312.09,
+    "sid": 169,
+    "location": 2,
+    "content": "好",
+    "music": 0.0
+  },
+  {
+    "from": 312.09,
+    "to": 314.37,
+    "sid": 170,
+    "location": 2,
+    "content": "我现在有点想问一个更扎心的问题",
+    "music": 0.0
+  },
+  {
+    "from": 314.37,
+    "to": 315.79,
+    "sid": 171,
+    "location": 2,
+    "content": "你说意志力像肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 315.79,
+    "to": 316.93,
+    "sid": 172,
+    "location": 2,
+    "content": "那他能练多强",
+    "music": 0.0
+  },
+  {
+    "from": 316.93,
+    "to": 317.89,
+    "sid": 173,
+    "location": 2,
+    "content": "有没有上限",
+    "music": 0.0
+  },
+  {
+    "from": 317.89,
+    "to": 319.11,
+    "sid": 174,
+    "location": 2,
+    "content": "有上限",
+    "music": 0.0
+  },
+  {
+    "from": 319.11,
+    "to": 320.41,
+    "sid": 175,
+    "location": 2,
+    "content": "而且有一件事",
+    "music": 0.0
+  },
+  {
+    "from": 320.41,
+    "to": 323.95,
+    "sid": 176,
+    "location": 2,
+    "content": "连意志力最强的人也很难靠他解决什么事",
+    "music": 0.0
+  },
+  {
+    "from": 323.95,
+    "to": 326.28,
+    "sid": 177,
+    "location": 2,
+    "content": "那些进化层面的本能冲动",
+    "music": 0.0
+  },
+  {
+    "from": 326.28,
+    "to": 327.32,
+    "sid": 178,
+    "location": 2,
+    "content": "研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 327.32,
+    "to": 328.82,
+    "sid": 179,
+    "location": 2,
+    "content": "自控力最强的人",
+    "music": 0.0
+  },
+  {
+    "from": 328.82,
+    "to": 332.06,
+    "sid": 180,
+    "location": 2,
+    "content": "在控制体重上也只比普通人稍微好一点点",
+    "music": 0.0
+  },
+  {
+    "from": 332.06,
+    "to": 333.88,
+    "sid": 181,
+    "location": 2,
+    "content": "所以那些健身博主说",
+    "music": 0.0
+  },
+  {
+    "from": 333.88,
+    "to": 335.54,
+    "sid": 182,
+    "location": 2,
+    "content": "你只要有意志力就能瘦",
+    "music": 0.0
+  },
+  {
+    "from": 335.54,
+    "to": 336.72,
+    "sid": 183,
+    "location": 2,
+    "content": "他们没说错",
+    "music": 0.0
+  },
+  {
+    "from": 336.72,
+    "to": 338.06,
+    "sid": 184,
+    "location": 2,
+    "content": "但他们没说完",
+    "music": 0.0
+  },
+  {
+    "from": 338.06,
+    "to": 339.4,
+    "sid": 185,
+    "location": 2,
+    "content": "意志力是工具",
+    "music": 0.0
+  },
+  {
+    "from": 339.4,
+    "to": 340.669,
+    "sid": 186,
+    "location": 2,
+    "content": "不是万能药",
+    "music": 0.0
+  },
+  {
+    "from": 340.669,
+    "to": 342.569,
+    "sid": 187,
+    "location": 2,
+    "content": "用对地方它很强",
+    "music": 0.0
+  },
+  {
+    "from": 342.569,
+    "to": 343.869,
+    "sid": 188,
+    "location": 2,
+    "content": "用来对抗本能",
+    "music": 0.0
+  },
+  {
+    "from": 343.869,
+    "to": 344.769,
+    "sid": 189,
+    "location": 2,
+    "content": "它很贵",
+    "music": 0.0
+  },
+  {
+    "from": 344.769,
+    "to": 346.829,
+    "sid": 190,
+    "location": 2,
+    "content": "那我们应该把意志力用在哪",
+    "music": 0.0
+  },
+  {
+    "from": 346.829,
+    "to": 348.51,
+    "sid": 191,
+    "location": 2,
+    "content": "用在建立系统上",
+    "music": 0.0
+  },
+  {
+    "from": 348.51,
+    "to": 349.81,
+    "sid": 192,
+    "location": 2,
+    "content": "用来设规则",
+    "music": 0.0
+  },
+  {
+    "from": 349.81,
+    "to": 350.71,
+    "sid": 193,
+    "location": 2,
+    "content": "养习惯",
+    "music": 0.0
+  },
+  {
+    "from": 350.71,
+    "to": 351.7,
+    "sid": 194,
+    "location": 2,
+    "content": "改环境",
+    "music": 0.0
+  },
+  {
+    "from": 351.7,
+    "to": 353.38,
+    "sid": 195,
+    "location": 2,
+    "content": "一旦系统运转起来",
+    "music": 0.0
+  },
+  {
+    "from": 353.38,
+    "to": 355.9,
+    "sid": 196,
+    "location": 2,
+    "content": "你就不再需要每天靠意志力硬撑了",
+    "music": 0.0
+  },
+  {
+    "from": 355.9,
+    "to": 358.14,
+    "sid": 197,
+    "location": 2,
+    "content": "所以意志力最大的用处是",
+    "music": 0.0
+  },
+  {
+    "from": 358.14,
+    "to": 359.83,
+    "sid": 198,
+    "location": 2,
+    "content": "让自己以后不再需要它",
+    "music": 0.0
+  },
+  {
+    "from": 359.83,
+    "to": 362.57,
+    "sid": 199,
+    "location": 2,
+    "content": "这句话比我说的任何一句都准",
+    "music": 0.0
+  },
+  {
+    "from": 362.57,
+    "to": 364.97,
+    "sid": 200,
+    "location": 2,
+    "content": "最后我想问你一个很现实的问题",
+    "music": 0.0
+  },
+  {
+    "from": 364.97,
+    "to": 367.69,
+    "sid": 201,
+    "location": 2,
+    "content": "今晚一个普通人能做什么",
+    "music": 0.0
+  },
+  {
+    "from": 367.69,
+    "to": 368.73,
+    "sid": 202,
+    "location": 2,
+    "content": "做一件事",
+    "music": 0.0
+  },
+  {
+    "from": 368.73,
+    "to": 371.87,
+    "sid": 203,
+    "location": 2,
+    "content": "把明天最重要的一个任务现在就决定好",
+    "music": 0.0
+  },
+  {
+    "from": 371.87,
+    "to": 373.11,
+    "sid": 204,
+    "location": 2,
+    "content": "不是列清单",
+    "music": 0.0
+  },
+  {
+    "from": 373.11,
+    "to": 374.95,
+    "sid": 205,
+    "location": 2,
+    "content": "就一件事写下来",
+    "music": 0.0
+  },
+  {
+    "from": 374.95,
+    "to": 378.28,
+    "sid": 206,
+    "location": 2,
+    "content": "就这就这你现在状态好",
+    "music": 0.0
+  },
+  {
+    "from": 378.28,
+    "to": 381.12,
+    "sid": 207,
+    "location": 2,
+    "content": "替明天那个可能已经耗了半天意志力的自己",
+    "music": 0.0
+  },
+  {
+    "from": 381.12,
+    "to": 382.28,
+    "sid": 208,
+    "location": 2,
+    "content": "提前做一个决定",
+    "music": 0.0
+  },
+  {
+    "from": 382.28,
+    "to": 384.16,
+    "sid": 209,
+    "location": 2,
+    "content": "这就是在正确的使用它",
+    "music": 0.0
+  },
+  {
+    "from": 384.16,
+    "to": 385.1,
+    "sid": 210,
+    "location": 2,
+    "content": "你知道吗",
+    "music": 0.0
+  },
+  {
+    "from": 385.1,
+    "to": 387.6,
+    "sid": 211,
+    "location": 2,
+    "content": "这是我听过的最不鸡汤的自律建议",
+    "music": 0.0
+  },
+  {
+    "from": 387.6,
+    "to": 390.71,
+    "sid": 212,
+    "location": 2,
+    "content": "鸡汤消耗意志力方法节省意志力",
+    "music": 0.0
+  },
+  {
+    "from": 390.71,
+    "to": 392.69,
+    "sid": 213,
+    "location": 2,
+    "content": "你现在应该知道选哪个了",
+    "music": 0.0
+  },
+  {
+    "from": 392.69,
+    "to": 394.11,
+    "sid": 214,
+    "location": 2,
+    "content": "这期就聊到这",
+    "music": 0.0
+  },
+  {
+    "from": 394.11,
+    "to": 395.13,
+    "sid": 215,
+    "location": 2,
+    "content": "认同的点个赞",
+    "music": 0.0
+  },
+  {
+    "from": 395.13,
+    "to": 396.06,
+    "sid": 216,
+    "location": 2,
+    "content": "咱们下期见",
+    "music": 0.0
+  }
+]

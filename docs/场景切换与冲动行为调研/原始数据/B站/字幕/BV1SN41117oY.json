@@ -1,0 +1,4850 @@
+[
+  {
+    "from": 0.18,
+    "to": 0.9,
+    "sid": 1,
+    "location": 2,
+    "content": "哈喽大家好",
+    "music": 0.0
+  },
+  {
+    "from": 0.9,
+    "to": 2.25,
+    "sid": 2,
+    "location": 2,
+    "content": "我是up主歌白",
+    "music": 0.0
+  },
+  {
+    "from": 2.25,
+    "to": 4.35,
+    "sid": 3,
+    "location": 2,
+    "content": "你是不是这样上瘾的",
+    "music": 0.0
+  },
+  {
+    "from": 4.35,
+    "to": 6.57,
+    "sid": 4,
+    "location": 2,
+    "content": "某件事情给你的生活按下了暂停键",
+    "music": 0.0
+  },
+  {
+    "from": 6.57,
+    "to": 9.14,
+    "sid": 5,
+    "location": 2,
+    "content": "比如网课扬了失恋抑郁",
+    "music": 0.0
+  },
+  {
+    "from": 9.14,
+    "to": 10.24,
+    "sid": 6,
+    "location": 2,
+    "content": "你的节奏被打断",
+    "music": 0.0
+  },
+  {
+    "from": 10.24,
+    "to": 11.74,
+    "sid": 7,
+    "location": 2,
+    "content": "你需要追赶一段进度",
+    "music": 0.0
+  },
+  {
+    "from": 11.74,
+    "to": 13.24,
+    "sid": 8,
+    "location": 2,
+    "content": "但害怕自己的力气白费",
+    "music": 0.0
+  },
+  {
+    "from": 13.24,
+    "to": 14.68,
+    "sid": 9,
+    "location": 2,
+    "content": "于是索性开摆",
+    "music": 0.0
+  },
+  {
+    "from": 14.68,
+    "to": 16.0,
+    "sid": 10,
+    "location": 2,
+    "content": "看到这个鸵鸟了吗",
+    "music": 0.0
+  },
+  {
+    "from": 16.0,
+    "to": 17.259,
+    "sid": 11,
+    "location": 2,
+    "content": "他是不是很搞笑",
+    "music": 0.0
+  },
+  {
+    "from": 17.259,
+    "to": 19.779,
+    "sid": 12,
+    "location": 2,
+    "content": "像不像你为了成功的把自己的眼睛蒙起来",
+    "music": 0.0
+  },
+  {
+    "from": 19.779,
+    "to": 21.459,
+    "sid": 13,
+    "location": 2,
+    "content": "你需要一坨上瘾的沙子",
+    "music": 0.0
+  },
+  {
+    "from": 21.459,
+    "to": 22.82,
+    "sid": 14,
+    "location": 2,
+    "content": "它可能是网瘾",
+    "music": 0.0
+  },
+  {
+    "from": 22.82,
+    "to": 23.72,
+    "sid": 15,
+    "location": 2,
+    "content": "视频饮烟瘾",
+    "music": 0.0
+  },
+  {
+    "from": 23.72,
+    "to": 25.04,
+    "sid": 16,
+    "location": 2,
+    "content": "酒瘾性瘾等等",
+    "music": 0.0
+  },
+  {
+    "from": 25.04,
+    "to": 26.78,
+    "sid": 17,
+    "location": 2,
+    "content": "接触它们都会分泌多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 26.78,
+    "to": 27.9,
+    "sid": 18,
+    "location": 2,
+    "content": "你对快乐上瘾了",
+    "music": 0.0
+  },
+  {
+    "from": 27.9,
+    "to": 29.94,
+    "sid": 19,
+    "location": 2,
+    "content": "在快乐满足完了清醒时间",
+    "music": 0.0
+  },
+  {
+    "from": 29.94,
+    "to": 33.0,
+    "sid": 20,
+    "location": 2,
+    "content": "那团现实的焦虑已经积攒成为庞然大物",
+    "music": 0.0
+  },
+  {
+    "from": 33.0,
+    "to": 34.56,
+    "sid": 21,
+    "location": 2,
+    "content": "于是你更不愿意面对他",
+    "music": 0.0
+  },
+  {
+    "from": 34.56,
+    "to": 36.68,
+    "sid": 22,
+    "location": 2,
+    "content": "陷入快乐的痛苦无法自拔",
+    "music": 0.0
+  },
+  {
+    "from": 36.68,
+    "to": 39.17,
+    "sid": 23,
+    "location": 2,
+    "content": "但那坨东西并不会因为你蒙眼而消失",
+    "music": 0.0
+  },
+  {
+    "from": 39.17,
+    "to": 40.28,
+    "sid": 24,
+    "location": 2,
+    "content": "反而更加庞大",
+    "music": 0.0
+  },
+  {
+    "from": 40.28,
+    "to": 41.06,
+    "sid": 25,
+    "location": 2,
+    "content": "你想要跳出来",
+    "music": 0.0
+  },
+  {
+    "from": 41.06,
+    "to": 43.73,
+    "sid": 26,
+    "location": 2,
+    "content": "但多巴胺的渴求让你无法控制自己",
+    "music": 0.0
+  },
+  {
+    "from": 43.73,
+    "to": 45.52,
+    "sid": 27,
+    "location": 2,
+    "content": "银可没有那么容易出来",
+    "music": 0.0
+  },
+  {
+    "from": 45.52,
+    "to": 48.7,
+    "sid": 28,
+    "location": 2,
+    "content": "那么几天的单纯摆烂就变成了真正的上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 48.7,
+    "to": 50.08,
+    "sid": 29,
+    "location": 2,
+    "content": "你自己走不出来了",
+    "music": 0.0
+  },
+  {
+    "from": 50.08,
+    "to": 51.379,
+    "sid": 30,
+    "location": 2,
+    "content": "你需要外界的帮助",
+    "music": 0.0
+  },
+  {
+    "from": 51.379,
+    "to": 54.48,
+    "sid": 31,
+    "location": 2,
+    "content": "其实自律的人和完全不在乎自律的人",
+    "music": 0.0
+  },
+  {
+    "from": 54.48,
+    "to": 55.5,
+    "sid": 32,
+    "location": 2,
+    "content": "是不痛苦的",
+    "music": 0.0
+  },
+  {
+    "from": 55.5,
+    "to": 57.66,
+    "sid": 33,
+    "location": 2,
+    "content": "痛苦的是认知觉得必须努力",
+    "music": 0.0
+  },
+  {
+    "from": 57.66,
+    "to": 59.0,
+    "sid": 34,
+    "location": 2,
+    "content": "情绪不想努力",
+    "music": 0.0
+  },
+  {
+    "from": 59.0,
+    "to": 60.68,
+    "sid": 35,
+    "location": 2,
+    "content": "行为间接努力的人",
+    "music": 0.0
+  },
+  {
+    "from": 60.68,
+    "to": 62.54,
+    "sid": 36,
+    "location": 2,
+    "content": "更痛苦的是都想努力",
+    "music": 0.0
+  },
+  {
+    "from": 62.54,
+    "to": 63.74,
+    "sid": 37,
+    "location": 2,
+    "content": "但受限于外界",
+    "music": 0.0
+  },
+  {
+    "from": 63.74,
+    "to": 66.4,
+    "sid": 38,
+    "location": 2,
+    "content": "无法或者是不知该往哪里努力的人",
+    "music": 0.0
+  },
+  {
+    "from": 66.4,
+    "to": 68.2,
+    "sid": 39,
+    "location": 2,
+    "content": "虚度光阴是最大的感受啊",
+    "music": 0.0
+  },
+  {
+    "from": 68.2,
+    "to": 69.82,
+    "sid": 40,
+    "location": 2,
+    "content": "成瘾这个事儿挺有意思的",
+    "music": 0.0
+  },
+  {
+    "from": 69.82,
+    "to": 70.84,
+    "sid": 41,
+    "location": 2,
+    "content": "你会有抵抗",
+    "music": 0.0
+  },
+  {
+    "from": 70.84,
+    "to": 73.72,
+    "sid": 42,
+    "location": 2,
+    "content": "但最终还是会去做高多巴胺的事情",
+    "music": 0.0
+  },
+  {
+    "from": 73.72,
+    "to": 75.28,
+    "sid": 43,
+    "location": 2,
+    "content": "我读了几本厉害的书啊",
+    "music": 0.0
+  },
+  {
+    "from": 75.28,
+    "to": 76.0,
+    "sid": 44,
+    "location": 2,
+    "content": "应用了一下",
+    "music": 0.0
+  },
+  {
+    "from": 76.0,
+    "to": 77.2,
+    "sid": 45,
+    "location": 2,
+    "content": "发现效果非常好",
+    "music": 0.0
+  },
+  {
+    "from": 77.2,
+    "to": 80.48,
+    "sid": 46,
+    "location": 2,
+    "content": "或许你看完这个视频也能够翻身转过来",
+    "music": 0.0
+  },
+  {
+    "from": 80.48,
+    "to": 82.5,
+    "sid": 47,
+    "location": 2,
+    "content": "利用多巴胺和大脑的其他物质",
+    "music": 0.0
+  },
+  {
+    "from": 82.5,
+    "to": 84.18,
+    "sid": 48,
+    "location": 2,
+    "content": "来更好地控制自己成瘾",
+    "music": 0.0
+  },
+  {
+    "from": 84.18,
+    "to": 85.89,
+    "sid": 49,
+    "location": 2,
+    "content": "这本书的作者是斯坦福大学",
+    "music": 0.0
+  },
+  {
+    "from": 85.89,
+    "to": 88.71,
+    "sid": 50,
+    "location": 2,
+    "content": "成瘾医学教授伦布克博士",
+    "music": 0.0
+  },
+  {
+    "from": 88.71,
+    "to": 90.84,
+    "sid": 51,
+    "location": 2,
+    "content": "这个伦布克博士过去25年",
+    "music": 0.0
+  },
+  {
+    "from": 90.84,
+    "to": 94.26,
+    "sid": 52,
+    "location": 2,
+    "content": "一直在治疗这个赌博性成瘾",
+    "music": 0.0
+  },
+  {
+    "from": 94.26,
+    "to": 95.73,
+    "sid": 53,
+    "location": 2,
+    "content": "电子游戏成瘾",
+    "music": 0.0
+  },
+  {
+    "from": 95.73,
+    "to": 97.68,
+    "sid": 54,
+    "location": 2,
+    "content": "所以你上瘾的他治好过",
+    "music": 0.0
+  },
+  {
+    "from": 97.68,
+    "to": 98.64,
+    "sid": 55,
+    "location": 2,
+    "content": "你没有上瘾呢",
+    "music": 0.0
+  },
+  {
+    "from": 98.64,
+    "to": 99.54,
+    "sid": 56,
+    "location": 2,
+    "content": "它也治好过",
+    "music": 0.0
+  },
+  {
+    "from": 99.54,
+    "to": 101.22,
+    "sid": 57,
+    "location": 2,
+    "content": "包括但不限于性瘾",
+    "music": 0.0
+  },
+  {
+    "from": 101.22,
+    "to": 102.72,
+    "sid": 58,
+    "location": 2,
+    "content": "手艺引银趴饮视频",
+    "music": 0.0
+  },
+  {
+    "from": 102.72,
+    "to": 103.34,
+    "sid": 59,
+    "location": 2,
+    "content": "引烟瘾",
+    "music": 0.0
+  },
+  {
+    "from": 103.34,
+    "to": 104.78,
+    "sid": 60,
+    "location": 2,
+    "content": "以酒瘾食饮毒瘾",
+    "music": 0.0
+  },
+  {
+    "from": 104.78,
+    "to": 106.64,
+    "sid": 61,
+    "location": 2,
+    "content": "网瘾药瘾自己饮冷水饮",
+    "music": 0.0
+  },
+  {
+    "from": 106.64,
+    "to": 108.3,
+    "sid": 62,
+    "location": 2,
+    "content": "含有大量你没有听过的饮",
+    "music": 0.0
+  },
+  {
+    "from": 108.3,
+    "to": 110.46,
+    "sid": 63,
+    "location": 2,
+    "content": "他在国外参加了各种各样的节目",
+    "music": 0.0
+  },
+  {
+    "from": 110.46,
+    "to": 111.42,
+    "sid": 64,
+    "location": 2,
+    "content": "名气非常大",
+    "music": 0.0
+  },
+  {
+    "from": 111.42,
+    "to": 113.22,
+    "sid": 65,
+    "location": 2,
+    "content": "且有大量的成功的案例",
+    "music": 0.0
+  },
+  {
+    "from": 113.22,
+    "to": 115.26,
+    "sid": 66,
+    "location": 2,
+    "content": "说到真刀真枪的借引",
+    "music": 0.0
+  },
+  {
+    "from": 115.26,
+    "to": 117.22,
+    "sid": 67,
+    "location": 2,
+    "content": "他的话语权是绝对够的",
+    "music": 0.0
+  },
+  {
+    "from": 117.22,
+    "to": 119.08,
+    "sid": 68,
+    "location": 2,
+    "content": "比如书里面有这么一个男生啊",
+    "music": 0.0
+  },
+  {
+    "from": 119.08,
+    "to": 120.58,
+    "sid": 69,
+    "location": 2,
+    "content": "他的成瘾路径是这样的",
+    "music": 0.0
+  },
+  {
+    "from": 120.58,
+    "to": 121.96,
+    "sid": 70,
+    "location": 2,
+    "content": "17岁开始酗酒",
+    "music": 0.0
+  },
+  {
+    "from": 121.96,
+    "to": 123.2,
+    "sid": 71,
+    "location": 2,
+    "content": "抽烟吸",
+    "music": 0.0
+  },
+  {
+    "from": 124.43,
+    "to": 127.67,
+    "sid": 72,
+    "location": 2,
+    "content": "19岁用奥施康定和阿普唑伦",
+    "music": 0.0
+  },
+  {
+    "from": 127.67,
+    "to": 129.11,
+    "sid": 73,
+    "location": 2,
+    "content": "20岁用普罗系统",
+    "music": 0.0
+  },
+  {
+    "from": 134.59,
+    "to": 135.94,
+    "sid": 74,
+    "location": 2,
+    "content": "我都不知道这是什么",
+    "music": 0.0
+  },
+  {
+    "from": 137.92,
+    "to": 139.18,
+    "sid": 75,
+    "location": 2,
+    "content": "再之后是",
+    "music": 0.0
+  },
+  {
+    "from": 139.18,
+    "to": 140.56,
+    "sid": 76,
+    "location": 2,
+    "content": "在找到作者之前",
+    "music": 0.0
+  },
+  {
+    "from": 140.56,
+    "to": 143.12,
+    "sid": 77,
+    "location": 2,
+    "content": "他使用了14种不同的药物和",
+    "music": 0.0
+  },
+  {
+    "from": 143.12,
+    "to": 145.28,
+    "sid": 78,
+    "location": 2,
+    "content": "所以大家的瘾症跟人家比起来",
+    "music": 0.0
+  },
+  {
+    "from": 145.28,
+    "to": 146.54,
+    "sid": 79,
+    "location": 2,
+    "content": "咱们是白莲花",
+    "music": 0.0
+  },
+  {
+    "from": 146.54,
+    "to": 147.2,
+    "sid": 80,
+    "location": 2,
+    "content": "傻白甜了",
+    "music": 0.0
+  },
+  {
+    "from": 147.2,
+    "to": 148.04,
+    "sid": 81,
+    "location": 2,
+    "content": "属于是啊",
+    "music": 0.0
+  },
+  {
+    "from": 148.04,
+    "to": 149.76,
+    "sid": 82,
+    "location": 2,
+    "content": "因为国外的版权意识非常重",
+    "music": 0.0
+  },
+  {
+    "from": 149.76,
+    "to": 153.42,
+    "sid": 83,
+    "location": 2,
+    "content": "所以有大量的男性会倾家荡产的购买色情作品",
+    "music": 0.0
+  },
+  {
+    "from": 153.42,
+    "to": 154.92,
+    "sid": 84,
+    "location": 2,
+    "content": "还有咨询者因为性瘾",
+    "music": 0.0
+  },
+  {
+    "from": 154.92,
+    "to": 157.86,
+    "sid": 85,
+    "location": 2,
+    "content": "自己做了一套类似精辟神经病的刺激仪",
+    "music": 0.0
+  },
+  {
+    "from": 157.86,
+    "to": 159.06,
+    "sid": 86,
+    "location": 2,
+    "content": "的自卫机器",
+    "music": 0.0
+  },
+  {
+    "from": 159.06,
+    "to": 160.26,
+    "sid": 87,
+    "location": 2,
+    "content": "带电刺激的那种",
+    "music": 0.0
+  },
+  {
+    "from": 160.26,
+    "to": 162.78,
+    "sid": 88,
+    "location": 2,
+    "content": "而且他自己编程可以搞得跟音乐同步",
+    "music": 0.0
+  },
+  {
+    "from": 162.78,
+    "to": 163.32,
+    "sid": 89,
+    "location": 2,
+    "content": "之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 163.32,
+    "to": 165.66,
+    "sid": 90,
+    "location": 2,
+    "content": "因为这个事被他的妻子发现跟他离婚了",
+    "music": 0.0
+  },
+  {
+    "from": 165.66,
+    "to": 166.64,
+    "sid": 91,
+    "location": 2,
+    "content": "后来他再婚",
+    "music": 0.0
+  },
+  {
+    "from": 166.64,
+    "to": 169.04,
+    "sid": 92,
+    "location": 2,
+    "content": "又被第二任妻子发现了之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 169.04,
+    "to": 170.9,
+    "sid": 93,
+    "location": 2,
+    "content": "他把机器拆成零件扔掉了",
+    "music": 0.0
+  },
+  {
+    "from": 170.9,
+    "to": 173.06,
+    "sid": 94,
+    "location": 2,
+    "content": "但没过几个小时他又捡回来",
+    "music": 0.0
+  },
+  {
+    "from": 173.06,
+    "to": 174.14,
+    "sid": 95,
+    "location": 2,
+    "content": "重新组装好",
+    "music": 0.0
+  },
+  {
+    "from": 174.14,
+    "to": 174.86,
+    "sid": 96,
+    "location": 2,
+    "content": "继续使用",
+    "music": 0.0
+  },
+  {
+    "from": 174.86,
+    "to": 176.48,
+    "sid": 97,
+    "location": 2,
+    "content": "还有的咨询者不管在干嘛",
+    "music": 0.0
+  },
+  {
+    "from": 176.48,
+    "to": 177.86,
+    "sid": 98,
+    "location": 2,
+    "content": "都连着电子设备啊",
+    "music": 0.0
+  },
+  {
+    "from": 177.86,
+    "to": 179.42,
+    "sid": 99,
+    "location": 2,
+    "content": "刷着国外的微博和YOUTU",
+    "music": 0.0
+  },
+  {
+    "from": 179.42,
+    "to": 180.24,
+    "sid": 100,
+    "location": 2,
+    "content": "听着播客",
+    "music": 0.0
+  },
+  {
+    "from": 180.24,
+    "to": 181.08,
+    "sid": 101,
+    "location": 2,
+    "content": "然后还有音乐",
+    "music": 0.0
+  },
+  {
+    "from": 181.08,
+    "to": 183.78,
+    "sid": 102,
+    "location": 2,
+    "content": "然后到了咱们国内很多人会先放一个电视",
+    "music": 0.0
+  },
+  {
+    "from": 183.78,
+    "to": 185.16,
+    "sid": 103,
+    "location": 2,
+    "content": "然后打着手机的游戏",
+    "music": 0.0
+  },
+  {
+    "from": 185.16,
+    "to": 186.72,
+    "sid": 104,
+    "location": 2,
+    "content": "旁边还放着一个switch",
+    "music": 0.0
+  },
+  {
+    "from": 186.72,
+    "to": 187.47,
+    "sid": 105,
+    "location": 2,
+    "content": "在游戏中",
+    "music": 0.0
+  },
+  {
+    "from": 187.47,
+    "to": 189.18,
+    "sid": 106,
+    "location": 2,
+    "content": "最后小爱同学还在那唱",
+    "music": 0.0
+  },
+  {
+    "from": 189.18,
+    "to": 191.34,
+    "sid": 107,
+    "location": 2,
+    "content": "说这么多例子是想要告诉各位啊",
+    "music": 0.0
+  },
+  {
+    "from": 191.34,
+    "to": 192.72,
+    "sid": 108,
+    "location": 2,
+    "content": "你的瘾问题不大的",
+    "music": 0.0
+  },
+  {
+    "from": 192.72,
+    "to": 194.2,
+    "sid": 109,
+    "location": 2,
+    "content": "想要开始利用多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 194.2,
+    "to": 195.58,
+    "sid": 110,
+    "location": 2,
+    "content": "首先我们需要了解它",
+    "music": 0.0
+  },
+  {
+    "from": 195.58,
+    "to": 197.44,
+    "sid": 111,
+    "location": 2,
+    "content": "因为大脑内的物质非常的复杂",
+    "music": 0.0
+  },
+  {
+    "from": 197.44,
+    "to": 199.42,
+    "sid": 112,
+    "location": 2,
+    "content": "所以我下面说的一切都是简略版",
+    "music": 0.0
+  },
+  {
+    "from": 199.42,
+    "to": 200.76,
+    "sid": 113,
+    "location": 2,
+    "content": "为了方便观众理解",
+    "music": 0.0
+  },
+  {
+    "from": 200.76,
+    "to": 203.22,
+    "sid": 114,
+    "location": 2,
+    "content": "我们的大脑是由大量的神经元组成的",
+    "music": 0.0
+  },
+  {
+    "from": 203.22,
+    "to": 204.42,
+    "sid": 115,
+    "location": 2,
+    "content": "它们通过突触",
+    "music": 0.0
+  },
+  {
+    "from": 204.42,
+    "to": 207.18,
+    "sid": 116,
+    "location": 2,
+    "content": "借助电子信号和神经递质传输信息",
+    "music": 0.0
+  },
+  {
+    "from": 207.18,
+    "to": 208.19,
+    "sid": 117,
+    "location": 2,
+    "content": "1957年",
+    "music": 0.0
+  },
+  {
+    "from": 208.19,
+    "to": 210.59,
+    "sid": 118,
+    "location": 2,
+    "content": "瑞典的阿维德卡尔森发现了多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 210.59,
+    "to": 213.53,
+    "sid": 119,
+    "location": 2,
+    "content": "卡尔森后来获得了诺贝尔生理学或医学奖",
+    "music": 0.0
+  },
+  {
+    "from": 213.53,
+    "to": 214.76,
+    "sid": 120,
+    "location": 2,
+    "content": "多巴胺有三种功能",
+    "music": 0.0
+  },
+  {
+    "from": 214.76,
+    "to": 217.54,
+    "sid": 121,
+    "location": 2,
+    "content": "运动控制行为选择和强化学习",
+    "music": 0.0
+  },
+  {
+    "from": 217.54,
+    "to": 219.7,
+    "sid": 122,
+    "location": 2,
+    "content": "接下来我们来说一下多巴胺的原理",
+    "music": 0.0
+  },
+  {
+    "from": 219.7,
+    "to": 221.88,
+    "sid": 123,
+    "location": 2,
+    "content": "如果你大脑中的多巴胺水平较高",
+    "music": 0.0
+  },
+  {
+    "from": 221.88,
+    "to": 224.46,
+    "sid": 124,
+    "location": 2,
+    "content": "那么发起行动所需要的动力就越低",
+    "music": 0.0
+  },
+  {
+    "from": 224.46,
+    "to": 225.95,
+    "sid": 125,
+    "location": 2,
+    "content": "往往多巴胺水平越高",
+    "music": 0.0
+  },
+  {
+    "from": 225.95,
+    "to": 228.41,
+    "sid": 126,
+    "location": 2,
+    "content": "人的冲动性行为就越多",
+    "music": 0.0
+  },
+  {
+    "from": 228.41,
+    "to": 229.7,
+    "sid": 127,
+    "location": 2,
+    "content": "多巴胺水平越低",
+    "music": 0.0
+  },
+  {
+    "from": 229.7,
+    "to": 231.92,
+    "sid": 128,
+    "location": 2,
+    "content": "人就显得越麻木",
+    "music": 0.0
+  },
+  {
+    "from": 231.92,
+    "to": 233.24,
+    "sid": 129,
+    "location": 2,
+    "content": "反应就越慢",
+    "music": 0.0
+  },
+  {
+    "from": 233.24,
+    "to": 235.34,
+    "sid": 130,
+    "location": 2,
+    "content": "所以你抵抗不了一些行为",
+    "music": 0.0
+  },
+  {
+    "from": 235.34,
+    "to": 237.26,
+    "sid": 131,
+    "location": 2,
+    "content": "是多巴胺的分泌太高了",
+    "music": 0.0
+  },
+  {
+    "from": 237.26,
+    "to": 239.42,
+    "sid": 132,
+    "location": 2,
+    "content": "多巴胺会学习行动技能",
+    "music": 0.0
+  },
+  {
+    "from": 239.42,
+    "to": 241.16,
+    "sid": 133,
+    "location": 2,
+    "content": "如果一个行为做了之后",
+    "music": 0.0
+  },
+  {
+    "from": 241.16,
+    "to": 242.38,
+    "sid": 134,
+    "location": 2,
+    "content": "多巴胺的水平升高",
+    "music": 0.0
+  },
+  {
+    "from": 242.38,
+    "to": 245.32,
+    "sid": 135,
+    "location": 2,
+    "content": "那么中脑皮层通路就会做出相应的改变",
+    "music": 0.0
+  },
+  {
+    "from": 245.32,
+    "to": 248.51,
+    "sid": 136,
+    "location": 2,
+    "content": "使得下一次的原则更倾向于这个行为",
+    "music": 0.0
+  },
+  {
+    "from": 248.51,
+    "to": 251.48,
+    "sid": 137,
+    "location": 2,
+    "content": "所以如果你恢复到了一个平静的状态啊",
+    "music": 0.0
+  },
+  {
+    "from": 251.48,
+    "to": 254.939,
+    "sid": 138,
+    "location": 2,
+    "content": "然后再次接触高多巴胺这种行为",
+    "music": 0.0
+  },
+  {
+    "from": 254.939,
+    "to": 257.879,
+    "sid": 139,
+    "location": 2,
+    "content": "你的大脑会再次学习倾向这个选择",
+    "music": 0.0
+  },
+  {
+    "from": 257.879,
+    "to": 261.12,
+    "sid": 140,
+    "location": 2,
+    "content": "所以很多时候真正聪明的人他会不接触啊",
+    "music": 0.0
+  },
+  {
+    "from": 261.12,
+    "to": 261.84,
+    "sid": 141,
+    "location": 2,
+    "content": "比如",
+    "music": 0.0
+  },
+  {
+    "from": 261.84,
+    "to": 263.7,
+    "sid": 142,
+    "location": 2,
+    "content": "还有其他高度成瘾的东西",
+    "music": 0.0
+  },
+  {
+    "from": 263.7,
+    "to": 265.92,
+    "sid": 143,
+    "location": 2,
+    "content": "尤其是你已经恢复平静了",
+    "music": 0.0
+  },
+  {
+    "from": 265.92,
+    "to": 268.6,
+    "sid": 144,
+    "location": 2,
+    "content": "那么就没有就一次的说法了",
+    "music": 0.0
+  },
+  {
+    "from": 268.6,
+    "to": 269.77,
+    "sid": 145,
+    "location": 2,
+    "content": "理论上来说",
+    "music": 0.0
+  },
+  {
+    "from": 269.77,
+    "to": 271.15,
+    "sid": 146,
+    "location": 2,
+    "content": "一次就是一辈子",
+    "music": 0.0
+  },
+  {
+    "from": 271.15,
+    "to": 274.1,
+    "sid": 147,
+    "location": 2,
+    "content": "所以你成功之后需要更严格的控制自己",
+    "music": 0.0
+  },
+  {
+    "from": 274.1,
+    "to": 276.44,
+    "sid": 148,
+    "location": 2,
+    "content": "不要有就一次这个行为",
+    "music": 0.0
+  },
+  {
+    "from": 276.44,
+    "to": 279.78,
+    "sid": 149,
+    "location": 2,
+    "content": "多巴胺的三种功能综合其实就是奖励系统",
+    "music": 0.0
+  },
+  {
+    "from": 279.78,
+    "to": 280.92,
+    "sid": 150,
+    "location": 2,
+    "content": "奖励包括愉悦感",
+    "music": 0.0
+  },
+  {
+    "from": 280.92,
+    "to": 282.72,
+    "sid": 151,
+    "location": 2,
+    "content": "为了满足感产生的行动",
+    "music": 0.0
+  },
+  {
+    "from": 282.72,
+    "to": 285.88,
+    "sid": 152,
+    "location": 2,
+    "content": "以及行动过后大脑的强化倾向学习",
+    "music": 0.0
+  },
+  {
+    "from": 285.88,
+    "to": 287.98,
+    "sid": 153,
+    "location": 2,
+    "content": "所以多巴胺跟快乐是不一样的",
+    "music": 0.0
+  },
+  {
+    "from": 287.98,
+    "to": 289.86,
+    "sid": 154,
+    "location": 2,
+    "content": "渴望和喜欢是两码事",
+    "music": 0.0
+  },
+  {
+    "from": 289.86,
+    "to": 291.48,
+    "sid": 155,
+    "location": 2,
+    "content": "吸毒上瘾的人是喜欢吗",
+    "music": 0.0
+  },
+  {
+    "from": 291.48,
+    "to": 293.16,
+    "sid": 156,
+    "location": 2,
+    "content": "后期是因为缓解痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 293.16,
+    "to": 295.38,
+    "sid": 157,
+    "location": 2,
+    "content": "多巴胺呢也不是完全奖励他",
+    "music": 0.0
+  },
+  {
+    "from": 295.38,
+    "to": 296.64,
+    "sid": 158,
+    "location": 2,
+    "content": "奖励预测误差",
+    "music": 0.0
+  },
+  {
+    "from": 296.64,
+    "to": 299.74,
+    "sid": 159,
+    "location": 2,
+    "content": "比如你认为行为A然后要得到100块钱",
+    "music": 0.0
+  },
+  {
+    "from": 299.74,
+    "to": 301.18,
+    "sid": 160,
+    "location": 2,
+    "content": "后面获得了500块钱",
+    "music": 0.0
+  },
+  {
+    "from": 301.18,
+    "to": 304.6,
+    "sid": 161,
+    "location": 2,
+    "content": "那么这400块钱就会引发多巴胺的强烈释放",
+    "music": 0.0
+  },
+  {
+    "from": 304.6,
+    "to": 306.37,
+    "sid": 162,
+    "location": 2,
+    "content": "所以人为什么觉得不满足",
+    "music": 0.0
+  },
+  {
+    "from": 306.37,
+    "to": 308.64,
+    "sid": 163,
+    "location": 2,
+    "content": "因为正常的满足不能刺激多巴胺了",
+    "music": 0.0
+  },
+  {
+    "from": 308.64,
+    "to": 311.55,
+    "sid": 164,
+    "location": 2,
+    "content": "这也是为什么多巴胺上瘾最后会无法控制",
+    "music": 0.0
+  },
+  {
+    "from": 311.55,
+    "to": 313.29,
+    "sid": 165,
+    "location": 2,
+    "content": "钱上1万不够",
+    "music": 0.0
+  },
+  {
+    "from": 313.29,
+    "to": 314.28,
+    "sid": 166,
+    "location": 2,
+    "content": "10万不够",
+    "music": 0.0
+  },
+  {
+    "from": 314.28,
+    "to": 315.36,
+    "sid": 167,
+    "location": 2,
+    "content": "100万不够",
+    "music": 0.0
+  },
+  {
+    "from": 315.36,
+    "to": 316.4,
+    "sid": 168,
+    "location": 2,
+    "content": "1000万不够",
+    "music": 0.0
+  },
+  {
+    "from": 316.4,
+    "to": 317.48,
+    "sid": 169,
+    "location": 2,
+    "content": "我知道你说一次",
+    "music": 0.0
+  },
+  {
+    "from": 317.48,
+    "to": 319.34,
+    "sid": 170,
+    "location": 2,
+    "content": "我知道你肯定要说你够我也够",
+    "music": 0.0
+  },
+  {
+    "from": 319.34,
+    "to": 321.74,
+    "sid": 171,
+    "location": 2,
+    "content": "其实这也是为什么多巴胺上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 321.74,
+    "to": 323.18,
+    "sid": 172,
+    "location": 2,
+    "content": "最后会无法控制幸福",
+    "music": 0.0
+  },
+  {
+    "from": 323.18,
+    "to": 325.38,
+    "sid": 173,
+    "location": 2,
+    "content": "上一个片子不够刺激",
+    "music": 0.0
+  },
+  {
+    "from": 325.38,
+    "to": 326.85,
+    "sid": 174,
+    "location": 2,
+    "content": "必须越来越强烈",
+    "music": 0.0
+  },
+  {
+    "from": 326.85,
+    "to": 329.0,
+    "sid": 175,
+    "location": 2,
+    "content": "直至辐射到真实生活",
+    "music": 0.0
+  },
+  {
+    "from": 329.0,
+    "to": 332.13,
+    "sid": 176,
+    "location": 2,
+    "content": "赌上一天要赚一年的钱才爽",
+    "music": 0.0
+  },
+  {
+    "from": 332.13,
+    "to": 334.35,
+    "sid": 177,
+    "location": 2,
+    "content": "为什么很多人觉得生活没意思",
+    "music": 0.0
+  },
+  {
+    "from": 334.35,
+    "to": 336.45,
+    "sid": 178,
+    "location": 2,
+    "content": "你享受的刺激太高了",
+    "music": 0.0
+  },
+  {
+    "from": 336.45,
+    "to": 338.71,
+    "sid": 179,
+    "location": 2,
+    "content": "大自然中花花草草的喜悦",
+    "music": 0.0
+  },
+  {
+    "from": 338.71,
+    "to": 339.91,
+    "sid": 180,
+    "location": 2,
+    "content": "你已经感受不到了",
+    "music": 0.0
+  },
+  {
+    "from": 339.91,
+    "to": 341.53,
+    "sid": 181,
+    "location": 2,
+    "content": "多巴胺刷新最高的记录",
+    "music": 0.0
+  },
+  {
+    "from": 341.53,
+    "to": 343.03,
+    "sid": 182,
+    "location": 2,
+    "content": "这条道走到最后啊",
+    "music": 0.0
+  },
+  {
+    "from": 343.03,
+    "to": 344.47,
+    "sid": 183,
+    "location": 2,
+    "content": "伤身伤精神",
+    "music": 0.0
+  },
+  {
+    "from": 344.47,
+    "to": 345.97,
+    "sid": 184,
+    "location": 2,
+    "content": "伤钱伤婚姻",
+    "music": 0.0
+  },
+  {
+    "from": 345.97,
+    "to": 346.81,
+    "sid": 185,
+    "location": 2,
+    "content": "伤人生",
+    "music": 0.0
+  },
+  {
+    "from": 346.81,
+    "to": 348.25,
+    "sid": 186,
+    "location": 2,
+    "content": "不仅仅是这些伤害啊",
+    "music": 0.0
+  },
+  {
+    "from": 348.25,
+    "to": 351.35,
+    "sid": 187,
+    "location": 2,
+    "content": "伦布克博士还发现多巴胺分泌丸",
+    "music": 0.0
+  },
+  {
+    "from": 351.35,
+    "to": 353.09,
+    "sid": 188,
+    "location": 2,
+    "content": "我们并不快乐",
+    "music": 0.0
+  },
+  {
+    "from": 353.09,
+    "to": 355.1,
+    "sid": 189,
+    "location": 2,
+    "content": "它伴随着等量的痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 355.1,
+    "to": 356.57,
+    "sid": 190,
+    "location": 2,
+    "content": "神经学家们发现",
+    "music": 0.0
+  },
+  {
+    "from": 356.57,
+    "to": 359.99,
+    "sid": 191,
+    "location": 2,
+    "content": "大脑处理快乐和痛苦的区域是重叠的",
+    "music": 0.0
+  },
+  {
+    "from": 359.99,
+    "to": 360.36,
+    "sid": 192,
+    "location": 2,
+    "content": "幻影",
+    "music": 0.0
+  },
+  {
+    "from": 360.36,
+    "to": 362.46,
+    "sid": 193,
+    "location": 2,
+    "content": "快乐和痛苦就像天平",
+    "music": 0.0
+  },
+  {
+    "from": 362.46,
+    "to": 364.32,
+    "sid": 194,
+    "location": 2,
+    "content": "天平是大脑底层控制",
+    "music": 0.0
+  },
+  {
+    "from": 364.32,
+    "to": 365.76,
+    "sid": 195,
+    "location": 2,
+    "content": "他天生的想要平衡",
+    "music": 0.0
+  },
+  {
+    "from": 365.76,
+    "to": 368.22,
+    "sid": 196,
+    "location": 2,
+    "content": "而多巴胺的分泌让人太快乐了",
+    "music": 0.0
+  },
+  {
+    "from": 368.22,
+    "to": 369.48,
+    "sid": 197,
+    "location": 2,
+    "content": "身体开始制衡",
+    "music": 0.0
+  },
+  {
+    "from": 369.48,
+    "to": 372.03,
+    "sid": 198,
+    "location": 2,
+    "content": "就会有很多的小精灵跑到痛苦的那一端",
+    "music": 0.0
+  },
+  {
+    "from": 372.03,
+    "to": 372.72,
+    "sid": 199,
+    "location": 2,
+    "content": "另外一侧",
+    "music": 0.0
+  },
+  {
+    "from": 372.72,
+    "to": 374.58,
+    "sid": 200,
+    "location": 2,
+    "content": "另外一边痛苦的小精灵多了",
+    "music": 0.0
+  },
+  {
+    "from": 374.58,
+    "to": 376.74,
+    "sid": 201,
+    "location": 2,
+    "content": "高多巴胺的行为会产生耐受性",
+    "music": 0.0
+  },
+  {
+    "from": 376.74,
+    "to": 379.38,
+    "sid": 202,
+    "location": 2,
+    "content": "就是你刷短视频前面很快乐",
+    "music": 0.0
+  },
+  {
+    "from": 379.38,
+    "to": 380.38,
+    "sid": 203,
+    "location": 2,
+    "content": "后面就很疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 380.38,
+    "to": 382.54,
+    "sid": 204,
+    "location": 2,
+    "content": "你需要更多的刺激才能维持多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 382.54,
+    "to": 384.46,
+    "sid": 205,
+    "location": 2,
+    "content": "而现实是没有那么多刺激",
+    "music": 0.0
+  },
+  {
+    "from": 384.46,
+    "to": 386.89,
+    "sid": 206,
+    "location": 2,
+    "content": "所以这个天平最终会倾向于痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 386.89,
+    "to": 390.58,
+    "sid": 207,
+    "location": 2,
+    "content": "这个过程科学家们称为神经适应你Emo了",
+    "music": 0.0
+  },
+  {
+    "from": 390.58,
+    "to": 392.64,
+    "sid": 208,
+    "location": 2,
+    "content": "而小精灵都在痛苦的那边",
+    "music": 0.0
+  },
+  {
+    "from": 392.64,
+    "to": 393.81,
+    "sid": 209,
+    "location": 2,
+    "content": "弄好房子了",
+    "music": 0.0
+  },
+  {
+    "from": 393.81,
+    "to": 395.16,
+    "sid": 210,
+    "location": 2,
+    "content": "烧烤架也架好了",
+    "music": 0.0
+  },
+  {
+    "from": 395.16,
+    "to": 396.3,
+    "sid": 211,
+    "location": 2,
+    "content": "开始烧烤了",
+    "music": 0.0
+  },
+  {
+    "from": 396.3,
+    "to": 397.299,
+    "sid": 212,
+    "location": 2,
+    "content": "还有一个现象",
+    "music": 0.0
+  },
+  {
+    "from": 397.299,
+    "to": 398.979,
+    "sid": 213,
+    "location": 2,
+    "content": "很多人借一段时间啊",
+    "music": 0.0
+  },
+  {
+    "from": 398.979,
+    "to": 401.3,
+    "sid": 214,
+    "location": 2,
+    "content": "这个小精灵在痛苦端不走了",
+    "music": 0.0
+  },
+  {
+    "from": 401.3,
+    "to": 402.44,
+    "sid": 215,
+    "location": 2,
+    "content": "就你感觉怎么着呢",
+    "music": 0.0
+  },
+  {
+    "from": 402.44,
+    "to": 404.48,
+    "sid": 216,
+    "location": 2,
+    "content": "我好像不做这个成瘾这个事儿",
+    "music": 0.0
+  },
+  {
+    "from": 404.48,
+    "to": 406.16,
+    "sid": 217,
+    "location": 2,
+    "content": "仿佛我要一直痛苦下去",
+    "music": 0.0
+  },
+  {
+    "from": 406.16,
+    "to": 407.06,
+    "sid": 218,
+    "location": 2,
+    "content": "比如戒烟啊",
+    "music": 0.0
+  },
+  {
+    "from": 407.06,
+    "to": 408.44,
+    "sid": 219,
+    "location": 2,
+    "content": "还有借各种各样的东西",
+    "music": 0.0
+  },
+  {
+    "from": 408.44,
+    "to": 409.94,
+    "sid": 220,
+    "location": 2,
+    "content": "那么很多人又成瘾",
+    "music": 0.0
+  },
+  {
+    "from": 409.94,
+    "to": 411.14,
+    "sid": 221,
+    "location": 2,
+    "content": "不是为了快乐",
+    "music": 0.0
+  },
+  {
+    "from": 411.14,
+    "to": 412.82,
+    "sid": 222,
+    "location": 2,
+    "content": "而是为了让痛苦中断",
+    "music": 0.0
+  },
+  {
+    "from": 412.82,
+    "to": 414.6,
+    "sid": 223,
+    "location": 2,
+    "content": "恢复感觉的那个平衡",
+    "music": 0.0
+  },
+  {
+    "from": 414.6,
+    "to": 415.92,
+    "sid": 224,
+    "location": 2,
+    "content": "这是一个很现实的情况",
+    "music": 0.0
+  },
+  {
+    "from": 415.92,
+    "to": 418.74,
+    "sid": 225,
+    "location": 2,
+    "content": "而我们需要的是真正的恢复这个天平",
+    "music": 0.0
+  },
+  {
+    "from": 418.74,
+    "to": 420.48,
+    "sid": 226,
+    "location": 2,
+    "content": "这时候肯定有很多弹幕就说了",
+    "music": 0.0
+  },
+  {
+    "from": 420.48,
+    "to": 421.8,
+    "sid": 227,
+    "location": 2,
+    "content": "不要逼逼赖赖",
+    "music": 0.0
+  },
+  {
+    "from": 421.8,
+    "to": 424.62,
+    "sid": 228,
+    "location": 2,
+    "content": "快点给我说方法方法就是经过研究",
+    "music": 0.0
+  },
+  {
+    "from": 424.62,
+    "to": 427.26,
+    "sid": 229,
+    "location": 2,
+    "content": "大脑如果长时间没有接触成瘾物质",
+    "music": 0.0
+  },
+  {
+    "from": 427.26,
+    "to": 430.1,
+    "sid": 230,
+    "location": 2,
+    "content": "大脑能够重新适应没有成瘾物质的状态",
+    "music": 0.0
+  },
+  {
+    "from": 430.1,
+    "to": 432.74,
+    "sid": 231,
+    "location": 2,
+    "content": "重新建立起身体的内稳态天平",
+    "music": 0.0
+  },
+  {
+    "from": 432.74,
+    "to": 433.78,
+    "sid": 232,
+    "location": 2,
+    "content": "一旦恢复水平",
+    "music": 0.0
+  },
+  {
+    "from": 433.78,
+    "to": 436.0,
+    "sid": 233,
+    "location": 2,
+    "content": "你就又可以发现生活中微小的美",
+    "music": 0.0
+  },
+  {
+    "from": 436.0,
+    "to": 437.92,
+    "sid": 234,
+    "location": 2,
+    "content": "从简单的事物中感受到快乐",
+    "music": 0.0
+  },
+  {
+    "from": 437.92,
+    "to": 439.14,
+    "sid": 235,
+    "location": 2,
+    "content": "但坏消息有两",
+    "music": 0.0
+  },
+  {
+    "from": 439.14,
+    "to": 441.0,
+    "sid": 236,
+    "location": 2,
+    "content": "如果人染上的是毒瘾",
+    "music": 0.0
+  },
+  {
+    "from": 441.0,
+    "to": 443.22,
+    "sid": 237,
+    "location": 2,
+    "content": "那么人的大脑会被永久的改变",
+    "music": 0.0
+  },
+  {
+    "from": 443.22,
+    "to": 445.58,
+    "sid": 238,
+    "location": 2,
+    "content": "科学家给大叔们做了一个实验啊",
+    "music": 0.0
+  },
+  {
+    "from": 447.38,
+    "to": 450.38,
+    "sid": 239,
+    "location": 2,
+    "content": "大鼠从第一天的慢跑发展成最后一天的狂奔",
+    "music": 0.0
+  },
+  {
+    "from": 450.38,
+    "to": 451.52,
+    "sid": 240,
+    "location": 2,
+    "content": "停止注射之后",
+    "music": 0.0
+  },
+  {
+    "from": 451.52,
+    "to": 452.72,
+    "sid": 241,
+    "location": 2,
+    "content": "大鼠停止跑动",
+    "music": 0.0
+  },
+  {
+    "from": 452.72,
+    "to": 453.82,
+    "sid": 242,
+    "location": 2,
+    "content": "但在一年之后",
+    "music": 0.0
+  },
+  {
+    "from": 455.8,
+    "to": 457.6,
+    "sid": 243,
+    "location": 2,
+    "content": "大鼠呢会立即狂奔起来",
+    "music": 0.0
+  },
+  {
+    "from": 457.6,
+    "to": 458.62,
+    "sid": 244,
+    "location": 2,
+    "content": "跟最后一天一样",
+    "music": 0.0
+  },
+  {
+    "from": 458.62,
+    "to": 461.5,
+    "sid": 245,
+    "location": 2,
+    "content": "这种大脑奖赏回路的改变是永久性的",
+    "music": 0.0
+  },
+  {
+    "from": 461.5,
+    "to": 463.78,
+    "sid": 246,
+    "location": 2,
+    "content": "第二个坏消息是有这么一个实验啊",
+    "music": 0.0
+  },
+  {
+    "from": 466.06,
+    "to": 467.86,
+    "sid": 247,
+    "location": 2,
+    "content": "每次注射前绑定一个信号",
+    "music": 0.0
+  },
+  {
+    "from": 467.86,
+    "to": 468.48,
+    "sid": 248,
+    "location": 2,
+    "content": "比如灯光",
+    "music": 0.0
+  },
+  {
+    "from": 468.48,
+    "to": 469.56,
+    "sid": 249,
+    "location": 2,
+    "content": "当信号出现",
+    "music": 0.0
+  },
+  {
+    "from": 469.56,
+    "to": 471.3,
+    "sid": 250,
+    "location": 2,
+    "content": "大鼠就开始释放多巴胺了",
+    "music": 0.0
+  },
+  {
+    "from": 471.3,
+    "to": 472.32,
+    "sid": 251,
+    "location": 2,
+    "content": "但如果没有奖励",
+    "music": 0.0
+  },
+  {
+    "from": 472.32,
+    "to": 473.04,
+    "sid": 252,
+    "location": 2,
+    "content": "直接关灯",
+    "music": 0.0
+  },
+  {
+    "from": 473.04,
+    "to": 476.96,
+    "sid": 253,
+    "location": 2,
+    "content": "大鼠大脑的多巴胺水平并不会回到水平线",
+    "music": 0.0
+  },
+  {
+    "from": 476.96,
+    "to": 478.28,
+    "sid": 254,
+    "location": 2,
+    "content": "而是低于水平线",
+    "music": 0.0
+  },
+  {
+    "from": 478.28,
+    "to": 479.24,
+    "sid": 255,
+    "location": 2,
+    "content": "这代表一个事",
+    "music": 0.0
+  },
+  {
+    "from": 479.24,
+    "to": 482.4,
+    "sid": 256,
+    "location": 2,
+    "content": "就是戒瘾这件事情是有戒断反应的",
+    "music": 0.0
+  },
+  {
+    "from": 482.4,
+    "to": 483.9,
+    "sid": 257,
+    "location": 2,
+    "content": "你会难受一段时间",
+    "music": 0.0
+  },
+  {
+    "from": 483.9,
+    "to": 485.82,
+    "sid": 258,
+    "location": 2,
+    "content": "最难受是你前两个星期",
+    "music": 0.0
+  },
+  {
+    "from": 485.82,
+    "to": 488.42,
+    "sid": 259,
+    "location": 2,
+    "content": "而之后的两个星期你会感到越来越好",
+    "music": 0.0
+  },
+  {
+    "from": 488.42,
+    "to": 490.64,
+    "sid": 260,
+    "location": 2,
+    "content": "几乎所有能够刺激大脑回路的物质",
+    "music": 0.0
+  },
+  {
+    "from": 490.64,
+    "to": 493.16,
+    "sid": 261,
+    "location": 2,
+    "content": "都有可能改变大脑焦虑的极限水平",
+    "music": 0.0
+  },
+  {
+    "from": 493.16,
+    "to": 495.96,
+    "sid": 262,
+    "location": 2,
+    "content": "一般重置回路的最短时间是一个月",
+    "music": 0.0
+  },
+  {
+    "from": 495.96,
+    "to": 496.89,
+    "sid": 263,
+    "location": 2,
+    "content": "有一位科学家",
+    "music": 0.0
+  },
+  {
+    "from": 496.89,
+    "to": 499.62,
+    "sid": 264,
+    "location": 2,
+    "content": "马克研究了一组每天大量饮酒的男性",
+    "music": 0.0
+  },
+  {
+    "from": 499.62,
+    "to": 501.96,
+    "sid": 265,
+    "location": 2,
+    "content": "发现他们属于重度抑郁障碍的标准",
+    "music": 0.0
+  },
+  {
+    "from": 501.96,
+    "to": 503.28,
+    "sid": 266,
+    "location": 2,
+    "content": "但这些人住院之后",
+    "music": 0.0
+  },
+  {
+    "from": 503.28,
+    "to": 504.96,
+    "sid": 267,
+    "location": 2,
+    "content": "唯一受到管制的就是戒酒",
+    "music": 0.0
+  },
+  {
+    "from": 504.96,
+    "to": 506.28,
+    "sid": 268,
+    "location": 2,
+    "content": "其他的治疗什么都没有",
+    "music": 0.0
+  },
+  {
+    "from": 506.28,
+    "to": 507.42,
+    "sid": 269,
+    "location": 2,
+    "content": "戒酒一个月之后",
+    "music": 0.0
+  },
+  {
+    "from": 507.42,
+    "to": 510.18,
+    "sid": 270,
+    "location": 2,
+    "content": "80%的人不再符合临床上抑郁的标准",
+    "music": 0.0
+  },
+  {
+    "from": 510.18,
+    "to": 511.42,
+    "sid": 271,
+    "location": 2,
+    "content": "有的人还会问啊",
+    "music": 0.0
+  },
+  {
+    "from": 511.7,
+    "to": 515.0,
+    "sid": 272,
+    "location": 2,
+    "content": "我能不能用色情作品替代电子游戏呢",
+    "music": 0.0
+  },
+  {
+    "from": 515.0,
+    "to": 517.439,
+    "sid": 273,
+    "location": 2,
+    "content": "或者用香烟替代酒精呢",
+    "music": 0.0
+  },
+  {
+    "from": 518.66,
+    "to": 520.24,
+    "sid": 274,
+    "location": 2,
+    "content": "你真是个大聪明啊",
+    "music": 0.0
+  },
+  {
+    "from": 520.24,
+    "to": 522.4,
+    "sid": 275,
+    "location": 2,
+    "content": "你这不是在寺庙里面看片吗",
+    "music": 0.0
+  },
+  {
+    "from": 522.4,
+    "to": 523.09,
+    "sid": 276,
+    "location": 2,
+    "content": "当然不行",
+    "music": 0.0
+  },
+  {
+    "from": 523.09,
+    "to": 524.26,
+    "sid": 277,
+    "location": 2,
+    "content": "如果你不舍得借",
+    "music": 0.0
+  },
+  {
+    "from": 524.26,
+    "to": 525.9,
+    "sid": 278,
+    "location": 2,
+    "content": "那么我想请问你一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 525.9,
+    "to": 528.96,
+    "sid": 279,
+    "location": 2,
+    "content": "你愿意在未来10年还像现在一样成瘾吗",
+    "music": 0.0
+  },
+  {
+    "from": 528.96,
+    "to": 529.86,
+    "sid": 280,
+    "location": 2,
+    "content": "10年如一日",
+    "music": 0.0
+  },
+  {
+    "from": 529.86,
+    "to": 531.3,
+    "sid": 281,
+    "location": 2,
+    "content": "那未来的5年呢",
+    "music": 0.0
+  },
+  {
+    "from": 531.3,
+    "to": 534.36,
+    "sid": 282,
+    "location": 2,
+    "content": "那未来的一年呢可以把你的答案打到弹幕上",
+    "music": 0.0
+  },
+  {
+    "from": 534.36,
+    "to": 535.68,
+    "sid": 283,
+    "location": 2,
+    "content": "如果你不愿意这样",
+    "music": 0.0
+  },
+  {
+    "from": 535.68,
+    "to": 536.78,
+    "sid": 284,
+    "location": 2,
+    "content": "那么让我们开始吧",
+    "music": 0.0
+  },
+  {
+    "from": 536.78,
+    "to": 537.8,
+    "sid": 285,
+    "location": 2,
+    "content": "这里需要提醒一下",
+    "music": 0.0
+  },
+  {
+    "from": 537.8,
+    "to": 539.3,
+    "sid": 286,
+    "location": 2,
+    "content": "严重酒精成瘾和药物成瘾",
+    "music": 0.0
+  },
+  {
+    "from": 539.3,
+    "to": 541.16,
+    "sid": 287,
+    "location": 2,
+    "content": "不可以突然停止服药或者停酒",
+    "music": 0.0
+  },
+  {
+    "from": 541.16,
+    "to": 542.24,
+    "sid": 288,
+    "location": 2,
+    "content": "需要逐渐减少",
+    "music": 0.0
+  },
+  {
+    "from": 542.24,
+    "to": 543.14,
+    "sid": 289,
+    "location": 2,
+    "content": "否则有生命危险",
+    "music": 0.0
+  },
+  {
+    "from": 543.14,
+    "to": 544.96,
+    "sid": 290,
+    "location": 2,
+    "content": "如果你有精神障碍的问题",
+    "music": 0.0
+  },
+  {
+    "from": 544.96,
+    "to": 547.18,
+    "sid": 291,
+    "location": 2,
+    "content": "请在戒烟的同时进行精神的治疗",
+    "music": 0.0
+  },
+  {
+    "from": 547.18,
+    "to": 549.64,
+    "sid": 292,
+    "location": 2,
+    "content": "同时需要在治疗之前把重疾险买上",
+    "music": 0.0
+  },
+  {
+    "from": 549.64,
+    "to": 552.39,
+    "sid": 293,
+    "location": 2,
+    "content": "很多重疾险会有类似精神的相关告知",
+    "music": 0.0
+  },
+  {
+    "from": 552.39,
+    "to": 553.47,
+    "sid": 294,
+    "location": 2,
+    "content": "需要大家注意啊",
+    "music": 0.0
+  },
+  {
+    "from": 553.47,
+    "to": 554.49,
+    "sid": 295,
+    "location": 2,
+    "content": "当然我不卖保险",
+    "music": 0.0
+  },
+  {
+    "from": 554.49,
+    "to": 555.57,
+    "sid": 296,
+    "location": 2,
+    "content": "我只是提醒一下",
+    "music": 0.0
+  },
+  {
+    "from": 555.57,
+    "to": 556.77,
+    "sid": 297,
+    "location": 2,
+    "content": "接下来我们说方法",
+    "music": 0.0
+  },
+  {
+    "from": 556.77,
+    "to": 558.21,
+    "sid": 298,
+    "location": 2,
+    "content": "这时候有朋友发弹幕说了",
+    "music": 0.0
+  },
+  {
+    "from": 558.21,
+    "to": 559.14,
+    "sid": 299,
+    "location": 2,
+    "content": "废话那么多",
+    "music": 0.0
+  },
+  {
+    "from": 559.14,
+    "to": 560.64,
+    "sid": 300,
+    "location": 2,
+    "content": "脑子要是自己能成",
+    "music": 0.0
+  },
+  {
+    "from": 560.64,
+    "to": 562.26,
+    "sid": 301,
+    "location": 2,
+    "content": "早他妈能成了好",
+    "music": 0.0
+  },
+  {
+    "from": 562.26,
+    "to": 565.2,
+    "sid": 302,
+    "location": 2,
+    "content": "我就喜欢你这种又横又怂的性格",
+    "music": 0.0
+  },
+  {
+    "from": 565.2,
+    "to": 567.06,
+    "sid": 303,
+    "location": 2,
+    "content": "我们来说方法最牛的方法",
+    "music": 0.0
+  },
+  {
+    "from": 567.06,
+    "to": 568.14,
+    "sid": 304,
+    "location": 2,
+    "content": "我放到最后一个",
+    "music": 0.0
+  },
+  {
+    "from": 568.14,
+    "to": 568.67,
+    "sid": 305,
+    "location": 2,
+    "content": "第一步",
+    "music": 0.0
+  },
+  {
+    "from": 568.67,
+    "to": 570.59,
+    "sid": 306,
+    "location": 2,
+    "content": "首先你需要宣誓宣誓词",
+    "music": 0.0
+  },
+  {
+    "from": 570.59,
+    "to": 571.07,
+    "sid": 307,
+    "location": 2,
+    "content": "在这里",
+    "music": 0.0
+  },
+  {
+    "from": 571.07,
+    "to": 572.54,
+    "sid": 308,
+    "location": 2,
+    "content": "我知道这看起来很蠢",
+    "music": 0.0
+  },
+  {
+    "from": 572.54,
+    "to": 574.32,
+    "sid": 309,
+    "location": 2,
+    "content": "这个过程你念得越大声",
+    "music": 0.0
+  },
+  {
+    "from": 574.32,
+    "to": 575.79,
+    "sid": 310,
+    "location": 2,
+    "content": "旁边的人越多越好",
+    "music": 0.0
+  },
+  {
+    "from": 575.79,
+    "to": 577.74,
+    "sid": 311,
+    "location": 2,
+    "content": "因为社死的经历太深刻了",
+    "music": 0.0
+  },
+  {
+    "from": 577.74,
+    "to": 579.3,
+    "sid": 312,
+    "location": 2,
+    "content": "而且人是社会性动物",
+    "music": 0.0
+  },
+  {
+    "from": 579.3,
+    "to": 582.14,
+    "sid": 313,
+    "location": 2,
+    "content": "人均表演型人格成功率会翻倍的",
+    "music": 0.0
+  },
+  {
+    "from": 582.14,
+    "to": 584.06,
+    "sid": 314,
+    "location": 2,
+    "content": "我知道宣誓这一部蠢得要死",
+    "music": 0.0
+  },
+  {
+    "from": 584.06,
+    "to": 585.4,
+    "sid": 315,
+    "location": 2,
+    "content": "但你真的不要试试么",
+    "music": 0.0
+  },
+  {
+    "from": 585.4,
+    "to": 586.84,
+    "sid": 316,
+    "location": 2,
+    "content": "这是对自己的一个承诺",
+    "music": 0.0
+  },
+  {
+    "from": 586.84,
+    "to": 588.22,
+    "sid": 317,
+    "location": 2,
+    "content": "是非常重要的一个环节",
+    "music": 0.0
+  },
+  {
+    "from": 588.22,
+    "to": 590.06,
+    "sid": 318,
+    "location": 2,
+    "content": "哪怕自己对着电脑念是可以的",
+    "music": 0.0
+  },
+  {
+    "from": 590.06,
+    "to": 590.54,
+    "sid": 319,
+    "location": 2,
+    "content": "第二步",
+    "music": 0.0
+  },
+  {
+    "from": 590.54,
+    "to": 592.46,
+    "sid": 320,
+    "location": 2,
+    "content": "物理策略也就是空间隔离",
+    "music": 0.0
+  },
+  {
+    "from": 592.46,
+    "to": 593.84,
+    "sid": 321,
+    "location": 2,
+    "content": "不要考验自己的人性",
+    "music": 0.0
+  },
+  {
+    "from": 593.84,
+    "to": 595.88,
+    "sid": 322,
+    "location": 2,
+    "content": "你需要让自己与成瘾物质之间",
+    "music": 0.0
+  },
+  {
+    "from": 595.88,
+    "to": 597.98,
+    "sid": 323,
+    "location": 2,
+    "content": "建立物理或者是地理的障碍",
+    "music": 0.0
+  },
+  {
+    "from": 597.98,
+    "to": 599.54,
+    "sid": 324,
+    "location": 2,
+    "content": "你可以把成瘾的设备藏起来",
+    "music": 0.0
+  },
+  {
+    "from": 599.54,
+    "to": 600.92,
+    "sid": 325,
+    "location": 2,
+    "content": "放到别人的邻居家里",
+    "music": 0.0
+  },
+  {
+    "from": 600.92,
+    "to": 604.02,
+    "sid": 326,
+    "location": 2,
+    "content": "你也可以把所有的信用卡花呗借呗注销",
+    "music": 0.0
+  },
+  {
+    "from": 604.02,
+    "to": 605.28,
+    "sid": 327,
+    "location": 2,
+    "content": "然后取出现金",
+    "music": 0.0
+  },
+  {
+    "from": 605.28,
+    "to": 606.48,
+    "sid": 328,
+    "location": 2,
+    "content": "每个月定期生活",
+    "music": 0.0
+  },
+  {
+    "from": 606.48,
+    "to": 610.22,
+    "sid": 329,
+    "location": 2,
+    "content": "你还可以把高刷的手机和IPAD放到保险柜里之后",
+    "music": 0.0
+  },
+  {
+    "from": 610.22,
+    "to": 611.48,
+    "sid": 330,
+    "location": 2,
+    "content": "只让亲友知道密码",
+    "music": 0.0
+  },
+  {
+    "from": 611.48,
+    "to": 613.64,
+    "sid": 331,
+    "location": 2,
+    "content": "你可以一遍又一遍的删掉游戏",
+    "music": 0.0
+  },
+  {
+    "from": 613.64,
+    "to": 615.68,
+    "sid": 332,
+    "location": 2,
+    "content": "并且设置不准下载新软件",
+    "music": 0.0
+  },
+  {
+    "from": 615.68,
+    "to": 616.619,
+    "sid": 333,
+    "location": 2,
+    "content": "我告诉你怎么设啊",
+    "music": 0.0
+  },
+  {
+    "from": 616.619,
+    "to": 618.599,
+    "sid": 334,
+    "location": 2,
+    "content": "首先打开苹果手机的设置",
+    "music": 0.0
+  },
+  {
+    "from": 618.599,
+    "to": 621.329,
+    "sid": 335,
+    "location": 2,
+    "content": "然后点击屏幕使用时间内容和隐私",
+    "music": 0.0
+  },
+  {
+    "from": 621.329,
+    "to": 623.27,
+    "sid": 336,
+    "location": 2,
+    "content": "app store安装app",
+    "music": 0.0
+  },
+  {
+    "from": 623.27,
+    "to": 624.62,
+    "sid": 337,
+    "location": 2,
+    "content": "然后设置为不允许",
+    "music": 0.0
+  },
+  {
+    "from": 624.62,
+    "to": 627.86,
+    "sid": 338,
+    "location": 2,
+    "content": "然后把密码让女朋友或者是亲友改了",
+    "music": 0.0
+  },
+  {
+    "from": 627.86,
+    "to": 629.3,
+    "sid": 339,
+    "location": 2,
+    "content": "然后你自己要保持不知道",
+    "music": 0.0
+  },
+  {
+    "from": 629.3,
+    "to": 631.74,
+    "sid": 340,
+    "location": 2,
+    "content": "那么你是无论如何也下不下来的",
+    "music": 0.0
+  },
+  {
+    "from": 631.74,
+    "to": 635.06,
+    "sid": 341,
+    "location": 2,
+    "content": "操作之前请你把所有的app全部下好对",
+    "music": 0.0
+  },
+  {
+    "from": 635.06,
+    "to": 636.5,
+    "sid": 342,
+    "location": 2,
+    "content": "否则你真的什么也下不下来",
+    "music": 0.0
+  },
+  {
+    "from": 636.5,
+    "to": 639.62,
+    "sid": 343,
+    "location": 2,
+    "content": "接着你可以取关所有你感受到危险的账号",
+    "music": 0.0
+  },
+  {
+    "from": 639.62,
+    "to": 642.26,
+    "sid": 344,
+    "location": 2,
+    "content": "而且你也知道怎么做是最干净的啊",
+    "music": 0.0
+  },
+  {
+    "from": 642.26,
+    "to": 643.9,
+    "sid": 345,
+    "location": 2,
+    "content": "你最懂对自己要狠一点",
+    "music": 0.0
+  },
+  {
+    "from": 643.9,
+    "to": 647.32,
+    "sid": 346,
+    "location": 2,
+    "content": "操作的逻辑是怎么把完成成瘾这个行为",
+    "music": 0.0
+  },
+  {
+    "from": 647.32,
+    "to": 649.779,
+    "sid": 347,
+    "location": 2,
+    "content": "中间设置上80一个障碍",
+    "music": 0.0
+  },
+  {
+    "from": 649.779,
+    "to": 651.699,
+    "sid": 348,
+    "location": 2,
+    "content": "搞一次跟他妈取经一样的男人",
+    "music": 0.0
+  },
+  {
+    "from": 651.699,
+    "to": 652.479,
+    "sid": 349,
+    "location": 2,
+    "content": "你就赢了",
+    "music": 0.0
+  },
+  {
+    "from": 652.479,
+    "to": 655.82,
+    "sid": 350,
+    "location": 2,
+    "content": "嗯饮啊往往懂得了原理",
+    "music": 0.0
+  },
+  {
+    "from": 655.82,
+    "to": 657.71,
+    "sid": 351,
+    "location": 2,
+    "content": "加上对自己狠就可以戒掉",
+    "music": 0.0
+  },
+  {
+    "from": 657.71,
+    "to": 658.76,
+    "sid": 352,
+    "location": 2,
+    "content": "然后第三部啊",
+    "music": 0.0
+  },
+  {
+    "from": 658.76,
+    "to": 661.34,
+    "sid": 353,
+    "location": 2,
+    "content": "如果你的瘾想一周啊",
+    "music": 0.0
+  },
+  {
+    "from": 661.34,
+    "to": 664.31,
+    "sid": 354,
+    "location": 2,
+    "content": "或者是一个月来一次也是可以的",
+    "music": 0.0
+  },
+  {
+    "from": 664.31,
+    "to": 668.69,
+    "sid": 355,
+    "location": 2,
+    "content": "你需要把自己的这个作案工具啊上交啊",
+    "music": 0.0
+  },
+  {
+    "from": 668.69,
+    "to": 671.04,
+    "sid": 356,
+    "location": 2,
+    "content": "交不出去吗",
+    "music": 0.0
+  },
+  {
+    "from": 672.18,
+    "to": 674.0,
+    "sid": 357,
+    "location": 2,
+    "content": "好像确实蹬不下来哈",
+    "music": 0.0
+  },
+  {
+    "from": 674.0,
+    "to": 674.96,
+    "sid": 358,
+    "location": 2,
+    "content": "再蹬坏了",
+    "music": 0.0
+  },
+  {
+    "from": 674.96,
+    "to": 676.52,
+    "sid": 359,
+    "location": 2,
+    "content": "大家能上交",
+    "music": 0.0
+  },
+  {
+    "from": 676.52,
+    "to": 677.78,
+    "sid": 360,
+    "location": 2,
+    "content": "尽量上交啊",
+    "music": 0.0
+  },
+  {
+    "from": 677.78,
+    "to": 680.28,
+    "sid": 361,
+    "location": 2,
+    "content": "你不要自己测试自己的自控力啊",
+    "music": 0.0
+  },
+  {
+    "from": 680.28,
+    "to": 682.9,
+    "sid": 362,
+    "location": 2,
+    "content": "第四步是梳理成瘾员",
+    "music": 0.0
+  },
+  {
+    "from": 682.9,
+    "to": 685.3,
+    "sid": 363,
+    "location": 2,
+    "content": "很多这个瘾是有诱发的源头的",
+    "music": 0.0
+  },
+  {
+    "from": 685.3,
+    "to": 685.96,
+    "sid": 364,
+    "location": 2,
+    "content": "比如性瘾",
+    "music": 0.0
+  },
+  {
+    "from": 685.96,
+    "to": 689.74,
+    "sid": 365,
+    "location": 2,
+    "content": "可能是你在这个视频上或者是街上看到了美女",
+    "music": 0.0
+  },
+  {
+    "from": 689.74,
+    "to": 692.0,
+    "sid": 366,
+    "location": 2,
+    "content": "然后有些男人和女人就乱了",
+    "music": 0.0
+  },
+  {
+    "from": 692.0,
+    "to": 693.5,
+    "sid": 367,
+    "location": 2,
+    "content": "很多女同学也不要介意啊",
+    "music": 0.0
+  },
+  {
+    "from": 693.5,
+    "to": 694.88,
+    "sid": 368,
+    "location": 2,
+    "content": "毕竟你看帅哥你也乱",
+    "music": 0.0
+  },
+  {
+    "from": 694.88,
+    "to": 696.0,
+    "sid": 369,
+    "location": 2,
+    "content": "人人都是老色批",
+    "music": 0.0
+  },
+  {
+    "from": 696.0,
+    "to": 698.82,
+    "sid": 370,
+    "location": 2,
+    "content": "所以你需要在电影之前先观察自己有什么",
+    "music": 0.0
+  },
+  {
+    "from": 698.82,
+    "to": 699.72,
+    "sid": 371,
+    "location": 2,
+    "content": "我看到之后",
+    "music": 0.0
+  },
+  {
+    "from": 699.72,
+    "to": 701.64,
+    "sid": 372,
+    "location": 2,
+    "content": "我立马想做成瘾的行为的",
+    "music": 0.0
+  },
+  {
+    "from": 701.64,
+    "to": 704.61,
+    "sid": 373,
+    "location": 2,
+    "content": "然后你尽量把各个渠道的提示员控制到最低",
+    "music": 0.0
+  },
+  {
+    "from": 704.61,
+    "to": 705.9,
+    "sid": 374,
+    "location": 2,
+    "content": "你尽量去控制",
+    "music": 0.0
+  },
+  {
+    "from": 705.9,
+    "to": 707.82,
+    "sid": 375,
+    "location": 2,
+    "content": "然后做到极致就可以了",
+    "music": 0.0
+  },
+  {
+    "from": 707.82,
+    "to": 709.42,
+    "sid": 376,
+    "location": 2,
+    "content": "这些步骤有没有用",
+    "music": 0.0
+  },
+  {
+    "from": 709.42,
+    "to": 710.44,
+    "sid": 377,
+    "location": 2,
+    "content": "我说个实验啊",
+    "music": 0.0
+  },
+  {
+    "from": 710.44,
+    "to": 712.18,
+    "sid": 378,
+    "location": 2,
+    "content": "你肯定听过棉花糖实验",
+    "music": 0.0
+  },
+  {
+    "from": 712.18,
+    "to": 714.34,
+    "sid": 379,
+    "location": 2,
+    "content": "就是把棉花糖放在孩子面前说啊",
+    "music": 0.0
+  },
+  {
+    "from": 714.34,
+    "to": 715.84,
+    "sid": 380,
+    "location": 2,
+    "content": "宝贝如果15分钟之后",
+    "music": 0.0
+  },
+  {
+    "from": 715.84,
+    "to": 716.68,
+    "sid": 381,
+    "location": 2,
+    "content": "你忍住不吃",
+    "music": 0.0
+  },
+  {
+    "from": 716.68,
+    "to": 719.24,
+    "sid": 382,
+    "location": 2,
+    "content": "我再过来的时候再给你变成两个棉花糖",
+    "music": 0.0
+  },
+  {
+    "from": 719.24,
+    "to": 721.16,
+    "sid": 383,
+    "location": 2,
+    "content": "最后啊这些成功忍住的孩子",
+    "music": 0.0
+  },
+  {
+    "from": 721.16,
+    "to": 723.02,
+    "sid": 384,
+    "location": 2,
+    "content": "他在未来这辈子挣的钱",
+    "music": 0.0
+  },
+  {
+    "from": 723.02,
+    "to": 725.87,
+    "sid": 385,
+    "location": 2,
+    "content": "事业寿命都会比忍不住的孩子更长",
+    "music": 0.0
+  },
+  {
+    "from": 725.87,
+    "to": 728.45,
+    "sid": 386,
+    "location": 2,
+    "content": "但实验的过程你可能从来没有听过",
+    "music": 0.0
+  },
+  {
+    "from": 728.45,
+    "to": 729.31,
+    "sid": 387,
+    "location": 2,
+    "content": "有的孩子啊",
+    "music": 0.0
+  },
+  {
+    "from": 729.31,
+    "to": 730.75,
+    "sid": 388,
+    "location": 2,
+    "content": "他捂住自己的眼睛",
+    "music": 0.0
+  },
+  {
+    "from": 730.75,
+    "to": 732.67,
+    "sid": 389,
+    "location": 2,
+    "content": "有的孩子他不看棉花糖",
+    "music": 0.0
+  },
+  {
+    "from": 732.67,
+    "to": 734.93,
+    "sid": 390,
+    "location": 2,
+    "content": "有的孩子把棉花糖当成宠物",
+    "music": 0.0
+  },
+  {
+    "from": 734.93,
+    "to": 735.819,
+    "sid": 391,
+    "location": 2,
+    "content": "不舍得吃",
+    "music": 0.0
+  },
+  {
+    "from": 735.819,
+    "to": 738.339,
+    "sid": 392,
+    "location": 2,
+    "content": "就是因为这些看起来很可爱很笨的办法",
+    "music": 0.0
+  },
+  {
+    "from": 738.339,
+    "to": 740.079,
+    "sid": 393,
+    "location": 2,
+    "content": "导致了很多的孩子能够忍住",
+    "music": 0.0
+  },
+  {
+    "from": 740.079,
+    "to": 741.22,
+    "sid": 394,
+    "location": 2,
+    "content": "这个方法叫什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 741.22,
+    "to": 742.42,
+    "sid": 395,
+    "location": 2,
+    "content": "逃避虽可耻",
+    "music": 0.0
+  },
+  {
+    "from": 742.42,
+    "to": 743.02,
+    "sid": 396,
+    "location": 2,
+    "content": "但有用",
+    "music": 0.0
+  },
+  {
+    "from": 743.02,
+    "to": 745.33,
+    "sid": 397,
+    "location": 2,
+    "content": "我这个取名努力我太厉害了",
+    "music": 0.0
+  },
+  {
+    "from": 745.33,
+    "to": 748.62,
+    "sid": 398,
+    "location": 2,
+    "content": "但是再厉害还是得跟你要饭啊",
+    "music": 0.0
+  },
+  {
+    "from": 748.62,
+    "to": 750.99,
+    "sid": 399,
+    "location": 2,
+    "content": "不得不在你的淫威下低头啊",
+    "music": 0.0
+  },
+  {
+    "from": 750.99,
+    "to": 752.31,
+    "sid": 400,
+    "location": 2,
+    "content": "因为有时候我发现",
+    "music": 0.0
+  },
+  {
+    "from": 752.31,
+    "to": 755.28,
+    "sid": 401,
+    "location": 2,
+    "content": "视频的质量跟数据有时候没有必然的联系",
+    "music": 0.0
+  },
+  {
+    "from": 755.28,
+    "to": 757.47,
+    "sid": 402,
+    "location": 2,
+    "content": "而且要饭真香啊",
+    "music": 0.0
+  },
+  {
+    "from": 757.47,
+    "to": 759.69,
+    "sid": 403,
+    "location": 2,
+    "content": "我一般做这种视频要看三本以上的书",
+    "music": 0.0
+  },
+  {
+    "from": 759.69,
+    "to": 761.88,
+    "sid": 404,
+    "location": 2,
+    "content": "还要研究你真正想看什么",
+    "music": 0.0
+  },
+  {
+    "from": 761.88,
+    "to": 763.53,
+    "sid": 405,
+    "location": 2,
+    "content": "一个周期下来20天",
+    "music": 0.0
+  },
+  {
+    "from": 763.53,
+    "to": 765.63,
+    "sid": 406,
+    "location": 2,
+    "content": "而且今年呢确实没有加做饭",
+    "music": 0.0
+  },
+  {
+    "from": 765.63,
+    "to": 768.2,
+    "sid": 407,
+    "location": 2,
+    "content": "所以为了让我用爱发电的更起劲",
+    "music": 0.0
+  },
+  {
+    "from": 768.2,
+    "to": 769.85,
+    "sid": 408,
+    "location": 2,
+    "content": "请大家帮我点点赞",
+    "music": 0.0
+  },
+  {
+    "from": 769.85,
+    "to": 771.32,
+    "sid": 409,
+    "location": 2,
+    "content": "投个币或者收个藏",
+    "music": 0.0
+  },
+  {
+    "from": 771.32,
+    "to": 772.4,
+    "sid": 410,
+    "location": 2,
+    "content": "谢谢女朋友",
+    "music": 0.0
+  },
+  {
+    "from": 772.4,
+    "to": 773.06,
+    "sid": 411,
+    "location": 2,
+    "content": "我爱你",
+    "music": 0.0
+  },
+  {
+    "from": 773.06,
+    "to": 774.86,
+    "sid": 412,
+    "location": 2,
+    "content": "我一辈子对你好点",
+    "music": 0.0
+  },
+  {
+    "from": 774.86,
+    "to": 776.18,
+    "sid": 413,
+    "location": 2,
+    "content": "完了吗好",
+    "music": 0.0
+  },
+  {
+    "from": 776.18,
+    "to": 778.37,
+    "sid": 414,
+    "location": 2,
+    "content": "那我们就说下一个第五步",
+    "music": 0.0
+  },
+  {
+    "from": 778.37,
+    "to": 779.81,
+    "sid": 415,
+    "location": 2,
+    "content": "少他妈自己呆着",
+    "music": 0.0
+  },
+  {
+    "from": 779.81,
+    "to": 780.95,
+    "sid": 416,
+    "location": 2,
+    "content": "你是干正事吗",
+    "music": 0.0
+  },
+  {
+    "from": 780.95,
+    "to": 782.46,
+    "sid": 417,
+    "location": 2,
+    "content": "坚持去人多的地方",
+    "music": 0.0
+  },
+  {
+    "from": 782.46,
+    "to": 783.39,
+    "sid": 418,
+    "location": 2,
+    "content": "首选图书馆",
+    "music": 0.0
+  },
+  {
+    "from": 783.39,
+    "to": 785.52,
+    "sid": 419,
+    "location": 2,
+    "content": "每天去图书馆或者去健身房",
+    "music": 0.0
+  },
+  {
+    "from": 785.52,
+    "to": 788.22,
+    "sid": 420,
+    "location": 2,
+    "content": "因为每个不同的环境背后都有不同的场",
+    "music": 0.0
+  },
+  {
+    "from": 788.22,
+    "to": 790.38,
+    "sid": 421,
+    "location": 2,
+    "content": "这种厂就是一种精神力量",
+    "music": 0.0
+  },
+  {
+    "from": 790.38,
+    "to": 793.009,
+    "sid": 422,
+    "location": 2,
+    "content": "因为人类本身就是社会性的动物",
+    "music": 0.0
+  },
+  {
+    "from": 793.009,
+    "to": 794.929,
+    "sid": 423,
+    "location": 2,
+    "content": "如果你在一个图书馆打游戏",
+    "music": 0.0
+  },
+  {
+    "from": 794.929,
+    "to": 797.359,
+    "sid": 424,
+    "location": 2,
+    "content": "那么你就会成为图书馆的异类",
+    "music": 0.0
+  },
+  {
+    "from": 797.359,
+    "to": 799.66,
+    "sid": 425,
+    "location": 2,
+    "content": "你可以坚持打游戏一天两天",
+    "music": 0.0
+  },
+  {
+    "from": 799.66,
+    "to": 802.69,
+    "sid": 426,
+    "location": 2,
+    "content": "但在图书馆连续打满七天",
+    "music": 0.0
+  },
+  {
+    "from": 802.69,
+    "to": 804.22,
+    "sid": 427,
+    "location": 2,
+    "content": "或者是30天以上的人",
+    "music": 0.0
+  },
+  {
+    "from": 804.22,
+    "to": 805.81,
+    "sid": 428,
+    "location": 2,
+    "content": "我没有见到过没有",
+    "music": 0.0
+  },
+  {
+    "from": 805.81,
+    "to": 807.76,
+    "sid": 429,
+    "location": 2,
+    "content": "就你可能是游戏老哥",
+    "music": 0.0
+  },
+  {
+    "from": 807.76,
+    "to": 809.32,
+    "sid": 430,
+    "location": 2,
+    "content": "你坚持去图书馆之后",
+    "music": 0.0
+  },
+  {
+    "from": 809.32,
+    "to": 812.43,
+    "sid": 431,
+    "location": 2,
+    "content": "你想我是不是也应该翻本书装一装啊",
+    "music": 0.0
+  },
+  {
+    "from": 812.43,
+    "to": 814.6,
+    "sid": 432,
+    "location": 2,
+    "content": "同学们装一装装多了",
+    "music": 0.0
+  },
+  {
+    "from": 814.6,
+    "to": 815.98,
+    "sid": 433,
+    "location": 2,
+    "content": "那么你就是这样的人了",
+    "music": 0.0
+  },
+  {
+    "from": 815.98,
+    "to": 817.24,
+    "sid": 434,
+    "location": 2,
+    "content": "健身房也是同理啊",
+    "music": 0.0
+  },
+  {
+    "from": 817.24,
+    "to": 819.42,
+    "sid": 435,
+    "location": 2,
+    "content": "你势必会被其他人影响",
+    "music": 0.0
+  },
+  {
+    "from": 819.42,
+    "to": 821.1,
+    "sid": 436,
+    "location": 2,
+    "content": "从而顺从这个厂的力量",
+    "music": 0.0
+  },
+  {
+    "from": 821.1,
+    "to": 823.26,
+    "sid": 437,
+    "location": 2,
+    "content": "开始做阅读或者健身这种行为",
+    "music": 0.0
+  },
+  {
+    "from": 823.26,
+    "to": 824.88,
+    "sid": 438,
+    "location": 2,
+    "content": "而且去图书馆还有一个好处",
+    "music": 0.0
+  },
+  {
+    "from": 824.88,
+    "to": 826.38,
+    "sid": 439,
+    "location": 2,
+    "content": "就是你没有作案时间",
+    "music": 0.0
+  },
+  {
+    "from": 826.38,
+    "to": 827.68,
+    "sid": 440,
+    "location": 2,
+    "content": "比如性瘾和烟瘾",
+    "music": 0.0
+  },
+  {
+    "from": 827.68,
+    "to": 829.42,
+    "sid": 441,
+    "location": 2,
+    "content": "图书馆一般不让抽烟",
+    "music": 0.0
+  },
+  {
+    "from": 829.42,
+    "to": 831.1,
+    "sid": 442,
+    "location": 2,
+    "content": "而且性瘾你想要发作",
+    "music": 0.0
+  },
+  {
+    "from": 831.1,
+    "to": 833.66,
+    "sid": 443,
+    "location": 2,
+    "content": "你的作案工具是不太方便拿得出来的",
+    "music": 0.0
+  },
+  {
+    "from": 833.66,
+    "to": 834.44,
+    "sid": 444,
+    "location": 2,
+    "content": "你要硬掏",
+    "music": 0.0
+  },
+  {
+    "from": 834.44,
+    "to": 835.64,
+    "sid": 445,
+    "location": 2,
+    "content": "真有人报警抓你",
+    "music": 0.0
+  },
+  {
+    "from": 835.64,
+    "to": 836.24,
+    "sid": 446,
+    "location": 2,
+    "content": "开玩笑啊",
+    "music": 0.0
+  },
+  {
+    "from": 836.24,
+    "to": 837.62,
+    "sid": 447,
+    "location": 2,
+    "content": "开玩笑是不是有点过了",
+    "music": 0.0
+  },
+  {
+    "from": 837.62,
+    "to": 840.14,
+    "sid": 448,
+    "location": 2,
+    "content": "所以很多时候最需要解决的反而是",
+    "music": 0.0
+  },
+  {
+    "from": 840.14,
+    "to": 843.52,
+    "sid": 449,
+    "location": 2,
+    "content": "我怎么才能把自己这一坨运动图书馆",
+    "music": 0.0
+  },
+  {
+    "from": 843.52,
+    "to": 845.58,
+    "sid": 450,
+    "location": 2,
+    "content": "运动健身房当你去了之后",
+    "music": 0.0
+  },
+  {
+    "from": 845.58,
+    "to": 847.02,
+    "sid": 451,
+    "location": 2,
+    "content": "你就不需要思考了呀",
+    "music": 0.0
+  },
+  {
+    "from": 847.02,
+    "to": 848.1,
+    "sid": 452,
+    "location": 2,
+    "content": "也不需要意志力了",
+    "music": 0.0
+  },
+  {
+    "from": 848.1,
+    "to": 849.24,
+    "sid": 453,
+    "location": 2,
+    "content": "你会顺从而",
+    "music": 0.0
+  },
+  {
+    "from": 849.24,
+    "to": 849.84,
+    "sid": 454,
+    "location": 2,
+    "content": "去了之后",
+    "music": 0.0
+  },
+  {
+    "from": 849.84,
+    "to": 851.28,
+    "sid": 455,
+    "location": 2,
+    "content": "对自己也不要太苛刻",
+    "music": 0.0
+  },
+  {
+    "from": 851.28,
+    "to": 853.95,
+    "sid": 456,
+    "location": 2,
+    "content": "比如说我要去看100本书",
+    "music": 0.0
+  },
+  {
+    "from": 853.95,
+    "to": 855.51,
+    "sid": 457,
+    "location": 2,
+    "content": "我深蹲150kg",
+    "music": 0.0
+  },
+  {
+    "from": 855.51,
+    "to": 856.32,
+    "sid": 458,
+    "location": 2,
+    "content": "朋友们啊",
+    "music": 0.0
+  },
+  {
+    "from": 856.32,
+    "to": 857.82,
+    "sid": 459,
+    "location": 2,
+    "content": "对自己不要那么狠",
+    "music": 0.0
+  },
+  {
+    "from": 857.82,
+    "to": 859.98,
+    "sid": 460,
+    "location": 2,
+    "content": "你你再把我电子宠物养死了",
+    "music": 0.0
+  },
+  {
+    "from": 859.98,
+    "to": 860.94,
+    "sid": 461,
+    "location": 2,
+    "content": "别取消点赞",
+    "music": 0.0
+  },
+  {
+    "from": 860.94,
+    "to": 861.6,
+    "sid": 462,
+    "location": 2,
+    "content": "我错了",
+    "music": 0.0
+  },
+  {
+    "from": 861.6,
+    "to": 862.94,
+    "sid": 463,
+    "location": 2,
+    "content": "我是你的电子宠物",
+    "music": 0.0
+  },
+  {
+    "from": 862.94,
+    "to": 863.96,
+    "sid": 464,
+    "location": 2,
+    "content": "这样不行吗",
+    "music": 0.0
+  },
+  {
+    "from": 863.96,
+    "to": 866.45,
+    "sid": 465,
+    "location": 2,
+    "content": "那么怎么忽悠自己把自己运过去呢",
+    "music": 0.0
+  },
+  {
+    "from": 866.45,
+    "to": 869.53,
+    "sid": 466,
+    "location": 2,
+    "content": "这个图书馆和健身房很多帅哥和美女",
+    "music": 0.0
+  },
+  {
+    "from": 869.53,
+    "to": 872.77,
+    "sid": 467,
+    "location": 2,
+    "content": "你就用多巴胺这种渴望把自己运过去就可以了",
+    "music": 0.0
+  },
+  {
+    "from": 872.77,
+    "to": 874.87,
+    "sid": 468,
+    "location": 2,
+    "content": "多巴胺都没想到还有这么一天",
+    "music": 0.0
+  },
+  {
+    "from": 874.87,
+    "to": 876.18,
+    "sid": 469,
+    "location": 2,
+    "content": "你只要这么想准确",
+    "music": 0.0
+  },
+  {
+    "from": 876.18,
+    "to": 879.12,
+    "sid": 470,
+    "location": 2,
+    "content": "第六步正念抽离这个阶段期的痛苦啊",
+    "music": 0.0
+  },
+  {
+    "from": 879.12,
+    "to": 879.96,
+    "sid": 471,
+    "location": 2,
+    "content": "我们得重视",
+    "music": 0.0
+  },
+  {
+    "from": 879.96,
+    "to": 880.92,
+    "sid": 472,
+    "location": 2,
+    "content": "怎么对待呢",
+    "music": 0.0
+  },
+  {
+    "from": 880.92,
+    "to": 883.47,
+    "sid": 473,
+    "location": 2,
+    "content": "在冥想的基础上抽离自己的人格",
+    "music": 0.0
+  },
+  {
+    "from": 883.47,
+    "to": 884.82,
+    "sid": 474,
+    "location": 2,
+    "content": "到第三者的角度",
+    "music": 0.0
+  },
+  {
+    "from": 884.82,
+    "to": 886.56,
+    "sid": 475,
+    "location": 2,
+    "content": "旁观自己的这个难受的状态",
+    "music": 0.0
+  },
+  {
+    "from": 886.56,
+    "to": 889.74,
+    "sid": 476,
+    "location": 2,
+    "content": "就是旁观自己大脑中各种各样不好的这个想法",
+    "music": 0.0
+  },
+  {
+    "from": 889.74,
+    "to": 891.86,
+    "sid": 477,
+    "location": 2,
+    "content": "冥想大家都可以去搜索一下教程啊",
+    "music": 0.0
+  },
+  {
+    "from": 891.86,
+    "to": 893.66,
+    "sid": 478,
+    "location": 2,
+    "content": "有很多等你看完之后再去啊",
+    "music": 0.0
+  },
+  {
+    "from": 893.66,
+    "to": 894.86,
+    "sid": 479,
+    "location": 2,
+    "content": "这个抽离是什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 894.86,
+    "to": 896.03,
+    "sid": 480,
+    "location": 2,
+    "content": "用我们自己的大脑",
+    "music": 0.0
+  },
+  {
+    "from": 896.03,
+    "to": 897.42,
+    "sid": 481,
+    "location": 2,
+    "content": "跳出自己的躯壳",
+    "music": 0.0
+  },
+  {
+    "from": 897.42,
+    "to": 898.62,
+    "sid": 482,
+    "location": 2,
+    "content": "观察自己的想法",
+    "music": 0.0
+  },
+  {
+    "from": 898.62,
+    "to": 899.46,
+    "sid": 483,
+    "location": 2,
+    "content": "自己的身体",
+    "music": 0.0
+  },
+  {
+    "from": 899.46,
+    "to": 900.24,
+    "sid": 484,
+    "location": 2,
+    "content": "自己的神态",
+    "music": 0.0
+  },
+  {
+    "from": 900.24,
+    "to": 901.08,
+    "sid": 485,
+    "location": 2,
+    "content": "自己的人生",
+    "music": 0.0
+  },
+  {
+    "from": 901.08,
+    "to": 902.4,
+    "sid": 486,
+    "location": 2,
+    "content": "这个戒断的时刻呢",
+    "music": 0.0
+  },
+  {
+    "from": 902.4,
+    "to": 903.9,
+    "sid": 487,
+    "location": 2,
+    "content": "你的欲望在勾引着你",
+    "music": 0.0
+  },
+  {
+    "from": 903.9,
+    "to": 906.84,
+    "sid": 488,
+    "location": 2,
+    "content": "你的身体里仿佛有毒虫一样在蛊惑你",
+    "music": 0.0
+  },
+  {
+    "from": 906.84,
+    "to": 908.64,
+    "sid": 489,
+    "location": 2,
+    "content": "但你需要面对的是忍受",
+    "music": 0.0
+  },
+  {
+    "from": 908.64,
+    "to": 909.6,
+    "sid": 490,
+    "location": 2,
+    "content": "是正视它",
+    "music": 0.0
+  },
+  {
+    "from": 909.6,
+    "to": 910.26,
+    "sid": 491,
+    "location": 2,
+    "content": "不要害怕",
+    "music": 0.0
+  },
+  {
+    "from": 910.26,
+    "to": 911.82,
+    "sid": 492,
+    "location": 2,
+    "content": "你知道他蹦跶不了多久了",
+    "music": 0.0
+  },
+  {
+    "from": 911.82,
+    "to": 912.66,
+    "sid": 493,
+    "location": 2,
+    "content": "第七部啊",
+    "music": 0.0
+  },
+  {
+    "from": 912.66,
+    "to": 913.68,
+    "sid": 494,
+    "location": 2,
+    "content": "也是最猛的一步",
+    "music": 0.0
+  },
+  {
+    "from": 913.68,
+    "to": 915.25,
+    "sid": 495,
+    "location": 2,
+    "content": "我们聊一下内啡肽",
+    "music": 0.0
+  },
+  {
+    "from": 915.25,
+    "to": 916.45,
+    "sid": 496,
+    "location": 2,
+    "content": "有句话是这么说的",
+    "music": 0.0
+  },
+  {
+    "from": 916.45,
+    "to": 917.859,
+    "sid": 497,
+    "location": 2,
+    "content": "年少只是多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 917.859,
+    "to": 919.359,
+    "sid": 498,
+    "location": 2,
+    "content": "中年才懂内啡肽",
+    "music": 0.0
+  },
+  {
+    "from": 919.359,
+    "to": 921.099,
+    "sid": 499,
+    "location": 2,
+    "content": "这个内啡肽才是真正的爽",
+    "music": 0.0
+  },
+  {
+    "from": 921.099,
+    "to": 922.359,
+    "sid": 500,
+    "location": 2,
+    "content": "也是真正的愉悦感",
+    "music": 0.0
+  },
+  {
+    "from": 924.53,
+    "to": 925.79,
+    "sid": 501,
+    "location": 2,
+    "content": "而且从不上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 925.79,
+    "to": 928.1,
+    "sid": 502,
+    "location": 2,
+    "content": "无敌内啡肽可以细分为三种",
+    "music": 0.0
+  },
+  {
+    "from": 928.1,
+    "to": 930.48,
+    "sid": 503,
+    "location": 2,
+    "content": "但三种主要的作用就是抑制疼痛",
+    "music": 0.0
+  },
+  {
+    "from": 930.48,
+    "to": 931.74,
+    "sid": 504,
+    "location": 2,
+    "content": "身体疼痛的时候",
+    "music": 0.0
+  },
+  {
+    "from": 931.74,
+    "to": 933.27,
+    "sid": 505,
+    "location": 2,
+    "content": "内啡肽兵分两路",
+    "music": 0.0
+  },
+  {
+    "from": 933.27,
+    "to": 935.67,
+    "sid": 506,
+    "location": 2,
+    "content": "一路大脑一路身体共同止痛",
+    "music": 0.0
+  },
+  {
+    "from": 935.67,
+    "to": 937.62,
+    "sid": 507,
+    "location": 2,
+    "content": "还能抑制多巴胺的产生",
+    "music": 0.0
+  },
+  {
+    "from": 937.62,
+    "to": 938.55,
+    "sid": 508,
+    "location": 2,
+    "content": "间接止痛",
+    "music": 0.0
+  },
+  {
+    "from": 938.55,
+    "to": 939.53,
+    "sid": 509,
+    "location": 2,
+    "content": "搞笑的是",
+    "music": 0.0
+  },
+  {
+    "from": 939.53,
+    "to": 942.41,
+    "sid": 510,
+    "location": 2,
+    "content": "大笑可能会刺激大脑生产内啡肽",
+    "music": 0.0
+  },
+  {
+    "from": 942.41,
+    "to": 944.03,
+    "sid": 511,
+    "location": 2,
+    "content": "有的朋友立马就应用了",
+    "music": 0.0
+  },
+  {
+    "from": 944.03,
+    "to": 945.29,
+    "sid": 512,
+    "location": 2,
+    "content": "有一天他崴脚了",
+    "music": 0.0
+  },
+  {
+    "from": 945.29,
+    "to": 945.99,
+    "sid": 513,
+    "location": 2,
+    "content": "很严重",
+    "music": 0.0
+  },
+  {
+    "from": 945.99,
+    "to": 946.95,
+    "sid": 514,
+    "location": 2,
+    "content": "突然之间",
+    "music": 0.0
+  },
+  {
+    "from": 950.55,
+    "to": 952.75,
+    "sid": 515,
+    "location": 2,
+    "content": "路人问你怎么了",
+    "music": 0.0
+  },
+  {
+    "from": 952.75,
+    "to": 955.579,
+    "sid": 516,
+    "location": 2,
+    "content": "你说大小可以止疼",
+    "music": 0.0
+  },
+  {
+    "from": 955.579,
+    "to": 957.799,
+    "sid": 517,
+    "location": 2,
+    "content": "不过别这么操作啊",
+    "music": 0.0
+  },
+  {
+    "from": 957.799,
+    "to": 959.569,
+    "sid": 518,
+    "location": 2,
+    "content": "人家给你拉精神病医院去了",
+    "music": 0.0
+  },
+  {
+    "from": 959.569,
+    "to": 965.04,
+    "sid": 519,
+    "location": 2,
+    "content": "为什么跑步单车划船网球游泳之后都很爽的",
+    "music": 0.0
+  },
+  {
+    "from": 965.04,
+    "to": 968.28,
+    "sid": 520,
+    "location": 2,
+    "content": "因为你开始运动之后会让肌肉里的糖原耗尽",
+    "music": 0.0
+  },
+  {
+    "from": 968.28,
+    "to": 970.079,
+    "sid": 521,
+    "location": 2,
+    "content": "让肌肉产生疼痛",
+    "music": 0.0
+  },
+  {
+    "from": 970.079,
+    "to": 971.339,
+    "sid": 522,
+    "location": 2,
+    "content": "为了继续运动呢",
+    "music": 0.0
+  },
+  {
+    "from": 971.339,
+    "to": 973.679,
+    "sid": 523,
+    "location": 2,
+    "content": "身体会释放内啡肽进入身体",
+    "music": 0.0
+  },
+  {
+    "from": 973.679,
+    "to": 974.869,
+    "sid": 524,
+    "location": 2,
+    "content": "给身体止疼",
+    "music": 0.0
+  },
+  {
+    "from": 974.869,
+    "to": 976.849,
+    "sid": 525,
+    "location": 2,
+    "content": "所以你感受到了快乐",
+    "music": 0.0
+  },
+  {
+    "from": 976.849,
+    "to": 978.02,
+    "sid": 526,
+    "location": 2,
+    "content": "除了内啡肽",
+    "music": 0.0
+  },
+  {
+    "from": 978.02,
+    "to": 978.74,
+    "sid": 527,
+    "location": 2,
+    "content": "运动后呢",
+    "music": 0.0
+  },
+  {
+    "from": 978.74,
+    "to": 981.68,
+    "sid": 528,
+    "location": 2,
+    "content": "还会分泌脑源性神经营养因子的蛋白质",
+    "music": 0.0
+  },
+  {
+    "from": 981.68,
+    "to": 983.359,
+    "sid": 529,
+    "location": 2,
+    "content": "这在我看过另外一本书",
+    "music": 0.0
+  },
+  {
+    "from": 983.359,
+    "to": 985.459,
+    "sid": 530,
+    "location": 2,
+    "content": "为什么精英这样用脑不会累",
+    "music": 0.0
+  },
+  {
+    "from": 985.459,
+    "to": 986.719,
+    "sid": 531,
+    "location": 2,
+    "content": "也提到过这个物质",
+    "music": 0.0
+  },
+  {
+    "from": 986.719,
+    "to": 988.909,
+    "sid": 532,
+    "location": 2,
+    "content": "然后这个作者呢也是一个脑科学家",
+    "music": 0.0
+  },
+  {
+    "from": 988.909,
+    "to": 991.97,
+    "sid": 533,
+    "location": 2,
+    "content": "我现在就是每天下午四点钟啊",
+    "music": 0.0
+  },
+  {
+    "from": 991.97,
+    "to": 993.56,
+    "sid": 534,
+    "location": 2,
+    "content": "出门跑100km",
+    "music": 0.0
+  },
+  {
+    "from": 993.56,
+    "to": 995.12,
+    "sid": 535,
+    "location": 2,
+    "content": "然后去买了一个西瓜",
+    "music": 0.0
+  },
+  {
+    "from": 995.12,
+    "to": 997.76,
+    "sid": 536,
+    "location": 2,
+    "content": "拎着这个西瓜呢回来再跑100km",
+    "music": 0.0
+  },
+  {
+    "from": 997.76,
+    "to": 999.7,
+    "sid": 537,
+    "location": 2,
+    "content": "然后回家吃吃一点西瓜",
+    "music": 0.0
+  },
+  {
+    "from": 999.7,
+    "to": 1001.5,
+    "sid": 538,
+    "location": 2,
+    "content": "然后之后就可以写稿子了",
+    "music": 0.0
+  },
+  {
+    "from": 1001.5,
+    "to": 1004.5,
+    "sid": 539,
+    "location": 2,
+    "content": "一般的笑的稿子都是在这个时间段写的",
+    "music": 0.0
+  },
+  {
+    "from": 1004.5,
+    "to": 1006.36,
+    "sid": 540,
+    "location": 2,
+    "content": "这种蛋白质在面对压力的情况",
+    "music": 0.0
+  },
+  {
+    "from": 1006.36,
+    "to": 1008.28,
+    "sid": 541,
+    "location": 2,
+    "content": "保护记忆的神经细胞",
+    "music": 0.0
+  },
+  {
+    "from": 1008.28,
+    "to": 1010.2,
+    "sid": 542,
+    "location": 2,
+    "content": "有的时候会有重启开关的作用",
+    "music": 0.0
+  },
+  {
+    "from": 1010.2,
+    "to": 1011.46,
+    "sid": 543,
+    "location": 2,
+    "content": "就你一天很疲劳了",
+    "music": 0.0
+  },
+  {
+    "from": 1011.46,
+    "to": 1012.9,
+    "sid": 544,
+    "location": 2,
+    "content": "然后做一下这种有氧运动",
+    "music": 0.0
+  },
+  {
+    "from": 1012.9,
+    "to": 1014.7,
+    "sid": 545,
+    "location": 2,
+    "content": "你又可以精神满满的看看书",
+    "music": 0.0
+  },
+  {
+    "from": 1014.7,
+    "to": 1015.36,
+    "sid": 546,
+    "location": 2,
+    "content": "写稿子",
+    "music": 0.0
+  },
+  {
+    "from": 1015.36,
+    "to": 1016.86,
+    "sid": 547,
+    "location": 2,
+    "content": "超级高效的一种方式啊",
+    "music": 0.0
+  },
+  {
+    "from": 1016.86,
+    "to": 1018.89,
+    "sid": 548,
+    "location": 2,
+    "content": "你会觉得运动后非常快乐",
+    "music": 0.0
+  },
+  {
+    "from": 1018.89,
+    "to": 1020.21,
+    "sid": 549,
+    "location": 2,
+    "content": "还会觉得大脑清晰",
+    "music": 0.0
+  },
+  {
+    "from": 1020.21,
+    "to": 1020.87,
+    "sid": 550,
+    "location": 2,
+    "content": "没有脑雾",
+    "music": 0.0
+  },
+  {
+    "from": 1020.87,
+    "to": 1022.55,
+    "sid": 551,
+    "location": 2,
+    "content": "说到脑部有人感兴趣",
+    "music": 0.0
+  },
+  {
+    "from": 1022.55,
+    "to": 1024.82,
+    "sid": 552,
+    "location": 2,
+    "content": "怎么让自己的大脑恢复那种清明",
+    "music": 0.0
+  },
+  {
+    "from": 1024.82,
+    "to": 1026.62,
+    "sid": 553,
+    "location": 2,
+    "content": "然后运算高效的状态吗",
+    "music": 0.0
+  },
+  {
+    "from": 1026.62,
+    "to": 1027.82,
+    "sid": 554,
+    "location": 2,
+    "content": "大家点到3万赞",
+    "music": 0.0
+  },
+  {
+    "from": 1027.82,
+    "to": 1028.96,
+    "sid": 555,
+    "location": 2,
+    "content": "我就更新下一期",
+    "music": 0.0
+  },
+  {
+    "from": 1028.96,
+    "to": 1031.86,
+    "sid": 556,
+    "location": 2,
+    "content": "所以内啡肽才是真正的快乐物质",
+    "music": 0.0
+  },
+  {
+    "from": 1031.86,
+    "to": 1033.72,
+    "sid": 557,
+    "location": 2,
+    "content": "也就是我们做一些痛苦的事情",
+    "music": 0.0
+  },
+  {
+    "from": 1033.72,
+    "to": 1035.88,
+    "sid": 558,
+    "location": 2,
+    "content": "身体的平衡机制又在发挥作用了",
+    "music": 0.0
+  },
+  {
+    "from": 1035.88,
+    "to": 1038.119,
+    "sid": 559,
+    "location": 2,
+    "content": "然后小精灵会跑到快乐的那一边",
+    "music": 0.0
+  },
+  {
+    "from": 1038.119,
+    "to": 1039.919,
+    "sid": 560,
+    "location": 2,
+    "content": "这样你就能感受到真正的快乐",
+    "music": 0.0
+  },
+  {
+    "from": 1039.919,
+    "to": 1041.869,
+    "sid": 561,
+    "location": 2,
+    "content": "这也是为什么很多人运动啊",
+    "music": 0.0
+  },
+  {
+    "from": 1041.869,
+    "to": 1043.159,
+    "sid": 562,
+    "location": 2,
+    "content": "冷水遇成瘾啊",
+    "music": 0.0
+  },
+  {
+    "from": 1043.159,
+    "to": 1043.939,
+    "sid": 563,
+    "location": 2,
+    "content": "是因为真的爽",
+    "music": 0.0
+  },
+  {
+    "from": 1043.939,
+    "to": 1046.159,
+    "sid": 564,
+    "location": 2,
+    "content": "追逐多巴胺不如追逐内啡肽",
+    "music": 0.0
+  },
+  {
+    "from": 1046.159,
+    "to": 1046.54,
+    "sid": 565,
+    "location": 2,
+    "content": "多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 1046.54,
+    "to": 1048.22,
+    "sid": 566,
+    "location": 2,
+    "content": "但一般会伴随着亢奋",
+    "music": 0.0
+  },
+  {
+    "from": 1048.22,
+    "to": 1050.56,
+    "sid": 567,
+    "location": 2,
+    "content": "而内啡肽伴随着的是瓶颈",
+    "music": 0.0
+  },
+  {
+    "from": 1050.56,
+    "to": 1052.45,
+    "sid": 568,
+    "location": 2,
+    "content": "多巴胺的分泌忽高忽低",
+    "music": 0.0
+  },
+  {
+    "from": 1052.45,
+    "to": 1055.1,
+    "sid": 569,
+    "location": 2,
+    "content": "而内啡肽的分泌持续稳定",
+    "music": 0.0
+  },
+  {
+    "from": 1055.1,
+    "to": 1056.36,
+    "sid": 570,
+    "location": 2,
+    "content": "多巴胺是医院的beach",
+    "music": 0.0
+  },
+  {
+    "from": 1056.36,
+    "to": 1058.64,
+    "sid": 571,
+    "location": 2,
+    "content": "那么内啡肽才是你应该娶的那个人",
+    "music": 0.0
+  },
+  {
+    "from": 1058.64,
+    "to": 1059.96,
+    "sid": 572,
+    "location": 2,
+    "content": "内啡肽让你变得有钱",
+    "music": 0.0
+  },
+  {
+    "from": 1059.96,
+    "to": 1061.52,
+    "sid": 573,
+    "location": 2,
+    "content": "多巴胺让你变得没钱",
+    "music": 0.0
+  },
+  {
+    "from": 1061.52,
+    "to": 1063.38,
+    "sid": 574,
+    "location": 2,
+    "content": "但是我觉得大家都是俗人嘛",
+    "music": 0.0
+  },
+  {
+    "from": 1063.38,
+    "to": 1067.14,
+    "sid": 575,
+    "location": 2,
+    "content": "所以就是警惕那种成瘾荒废自己的人生的那种",
+    "music": 0.0
+  },
+  {
+    "from": 1067.14,
+    "to": 1068.82,
+    "sid": 576,
+    "location": 2,
+    "content": "就浪费时间的成瘾就好了",
+    "music": 0.0
+  },
+  {
+    "from": 1068.82,
+    "to": 1071.659,
+    "sid": 577,
+    "location": 2,
+    "content": "有的时候我个人觉得是内啡肽和多巴胺",
+    "music": 0.0
+  },
+  {
+    "from": 1071.659,
+    "to": 1072.679,
+    "sid": 578,
+    "location": 2,
+    "content": "搭配起来使用",
+    "music": 0.0
+  },
+  {
+    "from": 1072.679,
+    "to": 1074.299,
+    "sid": 579,
+    "location": 2,
+    "content": "然后让我们去延迟满足",
+    "music": 0.0
+  },
+  {
+    "from": 1074.299,
+    "to": 1074.899,
+    "sid": 580,
+    "location": 2,
+    "content": "去成长",
+    "music": 0.0
+  },
+  {
+    "from": 1074.899,
+    "to": 1076.11,
+    "sid": 581,
+    "location": 2,
+    "content": "去做痛苦的事情",
+    "music": 0.0
+  },
+  {
+    "from": 1076.11,
+    "to": 1080.55,
+    "sid": 582,
+    "location": 2,
+    "content": "开始早起阅读运动健身瑜伽学习",
+    "music": 0.0
+  },
+  {
+    "from": 1080.55,
+    "to": 1082.59,
+    "sid": 583,
+    "location": 2,
+    "content": "然后把电子宠物养壮实一点",
+    "music": 0.0
+  },
+  {
+    "from": 1082.59,
+    "to": 1084.21,
+    "sid": 584,
+    "location": 2,
+    "content": "这样哪天线下见面了",
+    "music": 0.0
+  },
+  {
+    "from": 1084.21,
+    "to": 1086.639,
+    "sid": 585,
+    "location": 2,
+    "content": "你还可以捶我跟大家汇报一下近况啊",
+    "music": 0.0
+  },
+  {
+    "from": 1086.639,
+    "to": 1088.199,
+    "sid": 586,
+    "location": 2,
+    "content": "目前我没有办法周更",
+    "music": 0.0
+  },
+  {
+    "from": 1088.199,
+    "to": 1089.639,
+    "sid": 587,
+    "location": 2,
+    "content": "因为确实赚不到什么钱",
+    "music": 0.0
+  },
+  {
+    "from": 1089.639,
+    "to": 1091.739,
+    "sid": 588,
+    "location": 2,
+    "content": "我现在也只能在其他平台搞钱",
+    "music": 0.0
+  },
+  {
+    "from": 1091.739,
+    "to": 1093.719,
+    "sid": 589,
+    "location": 2,
+    "content": "然后再花钱培养自己的这边",
+    "music": 0.0
+  },
+  {
+    "from": 1093.719,
+    "to": 1095.64,
+    "sid": 590,
+    "location": 2,
+    "content": "所以劳烦大家点点赞",
+    "music": 0.0
+  },
+  {
+    "from": 1095.64,
+    "to": 1096.45,
+    "sid": 591,
+    "location": 2,
+    "content": "来个赞助商",
+    "music": 0.0
+  },
+  {
+    "from": 1096.45,
+    "to": 1097.41,
+    "sid": 592,
+    "location": 2,
+    "content": "因为得吃饭嘛",
+    "music": 0.0
+  },
+  {
+    "from": 1097.41,
+    "to": 1098.07,
+    "sid": 593,
+    "location": 2,
+    "content": "赚的越多",
+    "music": 0.0
+  },
+  {
+    "from": 1098.07,
+    "to": 1098.91,
+    "sid": 594,
+    "location": 2,
+    "content": "更新的越多",
+    "music": 0.0
+  },
+  {
+    "from": 1098.91,
+    "to": 1100.36,
+    "sid": 595,
+    "location": 2,
+    "content": "确实就这么现实",
+    "music": 0.0
+  },
+  {
+    "from": 1100.36,
+    "to": 1101.26,
+    "sid": 596,
+    "location": 2,
+    "content": "大家理解一下",
+    "music": 0.0
+  },
+  {
+    "from": 1101.26,
+    "to": 1102.76,
+    "sid": 597,
+    "location": 2,
+    "content": "那么我们下个视频再见吧",
+    "music": 0.0
+  },
+  {
+    "from": 1102.76,
+    "to": 1103.6,
+    "sid": 598,
+    "location": 2,
+    "content": "我是歌白羊",
+    "music": 0.0
+  },
+  {
+    "from": 1103.6,
+    "to": 1104.88,
+    "sid": 599,
+    "location": 2,
+    "content": "会一直陪着你的",
+    "music": 0.0
+  },
+  {
+    "from": 1112.88,
+    "to": 1116.82,
+    "sid": 600,
+    "location": 2,
+    "content": "So get away another way to be",
+    "music": 0.9999999600000017
+  },
+  {
+    "from": 1116.82,
+    "to": 1119.55,
+    "sid": 601,
+    "location": 2,
+    "content": "Or you did not yourself to know",
+    "music": 0.9999999585062258
+  },
+  {
+    "from": 1119.55,
+    "to": 1122.28,
+    "sid": 602,
+    "location": 2,
+    "content": "And let yourself go",
+    "music": 0.9999999259259313
+  },
+  {
+    "from": 1122.28,
+    "to": 1126.2,
+    "sid": 603,
+    "location": 2,
+    "content": "You know you do that is so control",
+    "music": 0.9999999600000017
+  },
+  {
+    "from": 1126.2,
+    "to": 1130.43,
+    "sid": 604,
+    "location": 2,
+    "content": "It's not at the right turn away",
+    "music": 0.9999999621212137
+  },
+  {
+    "from": 1130.43,
+    "to": 1132.62,
+    "sid": 605,
+    "location": 2,
+    "content": "I know the way to be your way",
+    "music": 0.9999999500000026
+  },
+  {
+    "from": 1132.62,
+    "to": 1134.46,
+    "sid": 606,
+    "location": 2,
+    "content": "You do your star",
+    "music": 0.9999999056603862
+  }
+]

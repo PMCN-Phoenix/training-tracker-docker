@@ -1,0 +1,1498 @@
+[
+  {
+    "from": 0.0,
+    "to": 0.68,
+    "sid": 1,
+    "location": 2,
+    "content": "你有没有发现",
+    "music": 0.0
+  },
+  {
+    "from": 0.68,
+    "to": 2.68,
+    "sid": 2,
+    "location": 2,
+    "content": "为什么现在AI的效率越来越高",
+    "music": 0.0
+  },
+  {
+    "from": 2.68,
+    "to": 5.66,
+    "sid": 3,
+    "location": 2,
+    "content": "你却越来越难以专注的去做一件事情了",
+    "music": 0.0
+  },
+  {
+    "from": 5.66,
+    "to": 6.58,
+    "sid": 4,
+    "location": 2,
+    "content": "以我自己为例哈",
+    "music": 0.0
+  },
+  {
+    "from": 6.58,
+    "to": 9.42,
+    "sid": 5,
+    "location": 2,
+    "content": "我日常会用很多个AI同时并行的辅助",
+    "music": 0.0
+  },
+  {
+    "from": 9.42,
+    "to": 10.6,
+    "sid": 6,
+    "location": 2,
+    "content": "我进行高效的工作",
+    "music": 0.0
+  },
+  {
+    "from": 10.6,
+    "to": 12.91,
+    "sid": 7,
+    "location": 2,
+    "content": "看起来我好像我的效率提升了很多倍",
+    "music": 0.0
+  },
+  {
+    "from": 12.91,
+    "to": 16.25,
+    "sid": 8,
+    "location": 2,
+    "content": "但我发现我总是会处在一个人浮于世",
+    "music": 0.0
+  },
+  {
+    "from": 16.25,
+    "to": 19.39,
+    "sid": 9,
+    "location": 2,
+    "content": "很难专注地做一件事情的状态下",
+    "music": 0.0
+  },
+  {
+    "from": 19.39,
+    "to": 22.18,
+    "sid": 10,
+    "location": 2,
+    "content": "然后我最近读了一本书叫做深度工作",
+    "music": 0.0
+  },
+  {
+    "from": 22.18,
+    "to": 25.38,
+    "sid": 11,
+    "location": 2,
+    "content": "从这本书里面我找到了一个关键的答案",
+    "music": 0.0
+  },
+  {
+    "from": 25.38,
+    "to": 26.94,
+    "sid": 12,
+    "location": 2,
+    "content": "就是在AI时代",
+    "music": 0.0
+  },
+  {
+    "from": 26.94,
+    "to": 28.98,
+    "sid": 13,
+    "location": 2,
+    "content": "如果你想要让自己能够进入到这种",
+    "music": 0.0
+  },
+  {
+    "from": 28.98,
+    "to": 30.56,
+    "sid": 14,
+    "location": 2,
+    "content": "深度工作的状态下的话",
+    "music": 0.0
+  },
+  {
+    "from": 30.56,
+    "to": 33.22,
+    "sid": 15,
+    "location": 2,
+    "content": "你可能要刻意的去对抗一个东西",
+    "music": 0.0
+  },
+  {
+    "from": 33.22,
+    "to": 35.3,
+    "sid": 16,
+    "location": 2,
+    "content": "叫做注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 35.3,
+    "to": 37.22,
+    "sid": 17,
+    "location": 2,
+    "content": "那什么是注意力残留呢",
+    "music": 0.0
+  },
+  {
+    "from": 37.22,
+    "to": 38.78,
+    "sid": 18,
+    "location": 2,
+    "content": "我尝试用最简单的语言",
+    "music": 0.0
+  },
+  {
+    "from": 38.78,
+    "to": 40.14,
+    "sid": 19,
+    "location": 2,
+    "content": "向你解释一下这个概念啊",
+    "music": 0.0
+  },
+  {
+    "from": 40.14,
+    "to": 41.12,
+    "sid": 20,
+    "location": 2,
+    "content": "首先第一点",
+    "music": 0.0
+  },
+  {
+    "from": 41.12,
+    "to": 43.02,
+    "sid": 21,
+    "location": 2,
+    "content": "切换任务会带来注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 43.02,
+    "to": 44.42,
+    "sid": 22,
+    "location": 2,
+    "content": "这是一个大前提",
+    "music": 0.0
+  },
+  {
+    "from": 44.42,
+    "to": 45.22,
+    "sid": 23,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 45.22,
+    "to": 48.06,
+    "sid": 24,
+    "location": 2,
+    "content": "比如说我们现在做完了任务A切换到任务B了",
+    "music": 0.0
+  },
+  {
+    "from": 48.06,
+    "to": 48.66,
+    "sid": 25,
+    "location": 2,
+    "content": "理论上",
+    "music": 0.0
+  },
+  {
+    "from": 48.66,
+    "to": 51.459,
+    "sid": 26,
+    "location": 2,
+    "content": "我们的注意力应该100分都放在任务B上",
+    "music": 0.0
+  },
+  {
+    "from": 51.459,
+    "to": 52.699,
+    "sid": 27,
+    "location": 2,
+    "content": "但其实不是这样的",
+    "music": 0.0
+  },
+  {
+    "from": 52.699,
+    "to": 54.019,
+    "sid": 28,
+    "location": 2,
+    "content": "你的100分的注意力里面",
+    "music": 0.0
+  },
+  {
+    "from": 54.019,
+    "to": 57.239,
+    "sid": 29,
+    "location": 2,
+    "content": "有20分的注意力残留还停留在A上",
+    "music": 0.0
+  },
+  {
+    "from": 57.239,
+    "to": 59.83,
+    "sid": 30,
+    "location": 2,
+    "content": "所以你留给任务B的只有80分",
+    "music": 0.0
+  },
+  {
+    "from": 59.83,
+    "to": 60.73,
+    "sid": 31,
+    "location": 2,
+    "content": "也就是说",
+    "music": 0.0
+  },
+  {
+    "from": 60.73,
+    "to": 62.99,
+    "sid": 32,
+    "location": 2,
+    "content": "注意力残留会占用你大脑",
+    "music": 0.0
+  },
+  {
+    "from": 62.99,
+    "to": 65.53,
+    "sid": 33,
+    "location": 2,
+    "content": "对当前任务的可用带宽",
+    "music": 0.0
+  },
+  {
+    "from": 65.53,
+    "to": 68.55,
+    "sid": 34,
+    "location": 2,
+    "content": "那假设哈当你把任务B也完成了",
+    "music": 0.0
+  },
+  {
+    "from": 68.55,
+    "to": 69.73,
+    "sid": 35,
+    "location": 2,
+    "content": "切换到任务C了",
+    "music": 0.0
+  },
+  {
+    "from": 69.73,
+    "to": 72.83,
+    "sid": 36,
+    "location": 2,
+    "content": "那可能这时候任务A的残留还没有完全消失",
+    "music": 0.0
+  },
+  {
+    "from": 72.83,
+    "to": 74.4,
+    "sid": 37,
+    "location": 2,
+    "content": "它可能占据了十分",
+    "music": 0.0
+  },
+  {
+    "from": 74.4,
+    "to": 76.44,
+    "sid": 38,
+    "location": 2,
+    "content": "任务B的残留占据了20分",
+    "music": 0.0
+  },
+  {
+    "from": 76.44,
+    "to": 79.52,
+    "sid": 39,
+    "location": 2,
+    "content": "所以留给任务C的注意力呢可能只有70分",
+    "music": 0.0
+  },
+  {
+    "from": 79.52,
+    "to": 81.69,
+    "sid": 40,
+    "location": 2,
+    "content": "你就会发现频繁的切换",
+    "music": 0.0
+  },
+  {
+    "from": 81.69,
+    "to": 84.95,
+    "sid": 41,
+    "location": 2,
+    "content": "你的整个注意力会被切成很多个小的碎片",
+    "music": 0.0
+  },
+  {
+    "from": 84.95,
+    "to": 86.23,
+    "sid": 42,
+    "location": 2,
+    "content": "这也是为什么我们经常讲",
+    "music": 0.0
+  },
+  {
+    "from": 86.23,
+    "to": 88.03,
+    "sid": 43,
+    "location": 2,
+    "content": "如果你想要去专注的工作的话",
+    "music": 0.0
+  },
+  {
+    "from": 88.03,
+    "to": 90.17,
+    "sid": 44,
+    "location": 2,
+    "content": "你可能需要把你的手机关掉",
+    "music": 0.0
+  },
+  {
+    "from": 90.17,
+    "to": 91.85,
+    "sid": 45,
+    "location": 2,
+    "content": "原因是当你打开手机",
+    "music": 0.0
+  },
+  {
+    "from": 91.85,
+    "to": 92.91,
+    "sid": 46,
+    "location": 2,
+    "content": "手机上那些app",
+    "music": 0.0
+  },
+  {
+    "from": 92.91,
+    "to": 94.4,
+    "sid": 47,
+    "location": 2,
+    "content": "比如说小红书抖音",
+    "music": 0.0
+  },
+  {
+    "from": 94.4,
+    "to": 95.58,
+    "sid": 48,
+    "location": 2,
+    "content": "微信啊",
+    "music": 0.0
+  },
+  {
+    "from": 95.58,
+    "to": 96.56,
+    "sid": 49,
+    "location": 2,
+    "content": "视频号啊",
+    "music": 0.0
+  },
+  {
+    "from": 96.56,
+    "to": 97.32,
+    "sid": 50,
+    "location": 2,
+    "content": "或者是B站",
+    "music": 0.0
+  },
+  {
+    "from": 97.32,
+    "to": 99.88,
+    "sid": 51,
+    "location": 2,
+    "content": "他们都在尝试占据你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 99.88,
+    "to": 102.65,
+    "sid": 52,
+    "location": 2,
+    "content": "看起来你好像只是刷了一回抖音",
+    "music": 0.0
+  },
+  {
+    "from": 102.65,
+    "to": 103.83,
+    "sid": 53,
+    "location": 2,
+    "content": "刷了一回小红书",
+    "music": 0.0
+  },
+  {
+    "from": 103.83,
+    "to": 104.45,
+    "sid": 54,
+    "location": 2,
+    "content": "刷了一会",
+    "music": 0.0
+  },
+  {
+    "from": 104.45,
+    "to": 105.75,
+    "sid": 55,
+    "location": 2,
+    "content": "B站刷了一会微信",
+    "music": 0.0
+  },
+  {
+    "from": 105.75,
+    "to": 108.49,
+    "sid": 56,
+    "location": 2,
+    "content": "但其实你的整个注意力已经被切成很多",
+    "music": 0.0
+  },
+  {
+    "from": 108.49,
+    "to": 110.26,
+    "sid": 57,
+    "location": 2,
+    "content": "很很多个细小的碎片了",
+    "music": 0.0
+  },
+  {
+    "from": 110.26,
+    "to": 112.8,
+    "sid": 58,
+    "location": 2,
+    "content": "以至于你很难有一个完整的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 112.8,
+    "to": 114.8,
+    "sid": 59,
+    "location": 2,
+    "content": "去专注在一件事情上",
+    "music": 0.0
+  },
+  {
+    "from": 114.8,
+    "to": 115.8,
+    "sid": 60,
+    "location": 2,
+    "content": "为什么在AI时代",
+    "music": 0.0
+  },
+  {
+    "from": 115.8,
+    "to": 118.06,
+    "sid": 61,
+    "location": 2,
+    "content": "我们更要去注意对抗注意力残留呢",
+    "music": 0.0
+  },
+  {
+    "from": 118.06,
+    "to": 119.12,
+    "sid": 62,
+    "location": 2,
+    "content": "以我自己为例哈",
+    "music": 0.0
+  },
+  {
+    "from": 119.12,
+    "to": 122.12,
+    "sid": 63,
+    "location": 2,
+    "content": "我日常会使用很多个高效的自动化的AI工具",
+    "music": 0.0
+  },
+  {
+    "from": 122.12,
+    "to": 124.11,
+    "sid": 64,
+    "location": 2,
+    "content": "比如说menu cos空间",
+    "music": 0.0
+  },
+  {
+    "from": 124.11,
+    "to": 124.77,
+    "sid": 65,
+    "location": 2,
+    "content": "A deep sick",
+    "music": 0.0
+  },
+  {
+    "from": 124.77,
+    "to": 126.759,
+    "sid": 66,
+    "location": 2,
+    "content": "germini cursor winserve等等",
+    "music": 0.0
+  },
+  {
+    "from": 126.759,
+    "to": 129.879,
+    "sid": 67,
+    "location": 2,
+    "content": "我会用它们去帮我并行的做很多个事情",
+    "music": 0.0
+  },
+  {
+    "from": 129.879,
+    "to": 131.159,
+    "sid": 68,
+    "location": 2,
+    "content": "那理想情况是",
+    "music": 0.0
+  },
+  {
+    "from": 131.159,
+    "to": 134.519,
+    "sid": 69,
+    "location": 2,
+    "content": "AI可以全自动的帮我们完成十件事情",
+    "music": 0.0
+  },
+  {
+    "from": 134.519,
+    "to": 136.27,
+    "sid": 70,
+    "location": 2,
+    "content": "这个全自动指的是",
+    "music": 0.0
+  },
+  {
+    "from": 136.27,
+    "to": 139.03,
+    "sid": 71,
+    "location": 2,
+    "content": "我们不需要人为的去介入和参与啊",
+    "music": 0.0
+  },
+  {
+    "from": 139.03,
+    "to": 140.03,
+    "sid": 72,
+    "location": 2,
+    "content": "我们只要把任务交给他",
+    "music": 0.0
+  },
+  {
+    "from": 140.03,
+    "to": 140.63,
+    "sid": 73,
+    "location": 2,
+    "content": "他去执行",
+    "music": 0.0
+  },
+  {
+    "from": 140.63,
+    "to": 141.79,
+    "sid": 74,
+    "location": 2,
+    "content": "然后结束了就OK",
+    "music": 0.0
+  },
+  {
+    "from": 141.79,
+    "to": 144.55,
+    "sid": 75,
+    "location": 2,
+    "content": "所以我们可能会同时并发很多个事件",
+    "music": 0.0
+  },
+  {
+    "from": 144.55,
+    "to": 146.69,
+    "sid": 76,
+    "location": 2,
+    "content": "看起来好像我们的效率提升了很多倍",
+    "music": 0.0
+  },
+  {
+    "from": 146.69,
+    "to": 148.65,
+    "sid": 77,
+    "location": 2,
+    "content": "但现实情况是",
+    "music": 0.0
+  },
+  {
+    "from": 148.65,
+    "to": 153.08,
+    "sid": 78,
+    "location": 2,
+    "content": "大部分时候我们是需要人去人为的监督AI",
+    "music": 0.0
+  },
+  {
+    "from": 153.08,
+    "to": 154.56,
+    "sid": 79,
+    "location": 2,
+    "content": "或者是介入AI",
+    "music": 0.0
+  },
+  {
+    "from": 154.56,
+    "to": 157.08,
+    "sid": 80,
+    "location": 2,
+    "content": "比如说可能AI在中间某一步出错了",
+    "music": 0.0
+  },
+  {
+    "from": 157.08,
+    "to": 158.9,
+    "sid": 81,
+    "location": 2,
+    "content": "你需要去对它进行一些调整",
+    "music": 0.0
+  },
+  {
+    "from": 158.9,
+    "to": 161.76,
+    "sid": 82,
+    "location": 2,
+    "content": "比如说AI产出最终的结果你不太满意",
+    "music": 0.0
+  },
+  {
+    "from": 161.76,
+    "to": 162.76,
+    "sid": 83,
+    "location": 2,
+    "content": "你需要给他一些建议",
+    "music": 0.0
+  },
+  {
+    "from": 162.76,
+    "to": 163.74,
+    "sid": 84,
+    "location": 2,
+    "content": "让他去修改",
+    "music": 0.0
+  },
+  {
+    "from": 163.74,
+    "to": 164.9,
+    "sid": 85,
+    "location": 2,
+    "content": "所以这个时候呢",
+    "music": 0.0
+  },
+  {
+    "from": 164.9,
+    "to": 166.06,
+    "sid": 86,
+    "location": 2,
+    "content": "如果你并行的任务很多",
+    "music": 0.0
+  },
+  {
+    "from": 166.06,
+    "to": 168.34,
+    "sid": 87,
+    "location": 2,
+    "content": "你同样会遇到这个注意力残留的问题",
+    "music": 0.0
+  },
+  {
+    "from": 168.34,
+    "to": 170.25,
+    "sid": 88,
+    "location": 2,
+    "content": "而且会变得非常严重",
+    "music": 0.0
+  },
+  {
+    "from": 170.25,
+    "to": 173.45,
+    "sid": 89,
+    "location": 2,
+    "content": "我甚至觉得这种啊工作方式",
+    "music": 0.0
+  },
+  {
+    "from": 173.45,
+    "to": 174.89,
+    "sid": 90,
+    "location": 2,
+    "content": "其实跟我们刚才讲的",
+    "music": 0.0
+  },
+  {
+    "from": 174.89,
+    "to": 176.52,
+    "sid": 91,
+    "location": 2,
+    "content": "你去同时打开手机",
+    "music": 0.0
+  },
+  {
+    "from": 176.52,
+    "to": 177.12,
+    "sid": 92,
+    "location": 2,
+    "content": "刷抖音",
+    "music": 0.0
+  },
+  {
+    "from": 177.12,
+    "to": 177.68,
+    "sid": 93,
+    "location": 2,
+    "content": "刷B站",
+    "music": 0.0
+  },
+  {
+    "from": 177.68,
+    "to": 180.94,
+    "sid": 94,
+    "location": 2,
+    "content": "刷小红书带来的危害是一样严重的",
+    "music": 0.0
+  },
+  {
+    "from": 180.94,
+    "to": 182.46,
+    "sid": 95,
+    "location": 2,
+    "content": "虽然很多人可能会自我安慰",
+    "music": 0.0
+  },
+  {
+    "from": 182.46,
+    "to": 183.98,
+    "sid": 96,
+    "location": 2,
+    "content": "就是我这么多啊",
+    "music": 0.0
+  },
+  {
+    "from": 183.98,
+    "to": 186.0,
+    "sid": 97,
+    "location": 2,
+    "content": "并行的任务是为了去处理工作",
+    "music": 0.0
+  },
+  {
+    "from": 186.0,
+    "to": 187.2,
+    "sid": 98,
+    "location": 2,
+    "content": "而不是为了娱乐",
+    "music": 0.0
+  },
+  {
+    "from": 187.2,
+    "to": 189.44,
+    "sid": 99,
+    "location": 2,
+    "content": "但其实如果你长久的这样下去",
+    "music": 0.0
+  },
+  {
+    "from": 189.44,
+    "to": 192.52,
+    "sid": 100,
+    "location": 2,
+    "content": "你会发现你就很难再把你的注意力集中起来",
+    "music": 0.0
+  },
+  {
+    "from": 192.52,
+    "to": 194.82,
+    "sid": 101,
+    "location": 2,
+    "content": "因为你的行为习惯就一直是很分散的",
+    "music": 0.0
+  },
+  {
+    "from": 194.82,
+    "to": 196.34,
+    "sid": 102,
+    "location": 2,
+    "content": "好那说完了这些问题",
+    "music": 0.0
+  },
+  {
+    "from": 196.34,
+    "to": 197.58,
+    "sid": 103,
+    "location": 2,
+    "content": "我其实想分享一下",
+    "music": 0.0
+  },
+  {
+    "from": 197.58,
+    "to": 200.78,
+    "sid": 104,
+    "location": 2,
+    "content": "我自己是怎么样去对抗这个AI时代的",
+    "music": 0.0
+  },
+  {
+    "from": 200.78,
+    "to": 201.94,
+    "sid": 105,
+    "location": 2,
+    "content": "注意力残留的问题的",
+    "music": 0.0
+  },
+  {
+    "from": 201.94,
+    "to": 205.49,
+    "sid": 106,
+    "location": 2,
+    "content": "我自己有呃三个主要的方法",
+    "music": 0.0
+  },
+  {
+    "from": 205.49,
+    "to": 205.99,
+    "sid": 107,
+    "location": 2,
+    "content": "第一个呢",
+    "music": 0.0
+  },
+  {
+    "from": 205.99,
+    "to": 208.01,
+    "sid": 108,
+    "location": 2,
+    "content": "我会尝试从我的日常工作里面去",
+    "music": 0.0
+  },
+  {
+    "from": 208.01,
+    "to": 210.17,
+    "sid": 109,
+    "location": 2,
+    "content": "分离出一些全自动的任务",
+    "music": 0.0
+  },
+  {
+    "from": 210.17,
+    "to": 210.75,
+    "sid": 110,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 210.75,
+    "to": 212.97,
+    "sid": 111,
+    "location": 2,
+    "content": "比如说我是一人公司",
+    "music": 0.0
+  },
+  {
+    "from": 212.97,
+    "to": 214.71,
+    "sid": 112,
+    "location": 2,
+    "content": "所以我日常可能会有一些税务问题",
+    "music": 0.0
+  },
+  {
+    "from": 214.71,
+    "to": 216.05,
+    "sid": 113,
+    "location": 2,
+    "content": "而我可能需要整理我的发票",
+    "music": 0.0
+  },
+  {
+    "from": 216.05,
+    "to": 217.29,
+    "sid": 114,
+    "location": 2,
+    "content": "然后变成excel",
+    "music": 0.0
+  },
+  {
+    "from": 217.29,
+    "to": 219.45,
+    "sid": 115,
+    "location": 2,
+    "content": "然后再交给我的代账公司",
+    "music": 0.0
+  },
+  {
+    "from": 219.45,
+    "to": 220.41,
+    "sid": 116,
+    "location": 2,
+    "content": "那这个任务呢",
+    "music": 0.0
+  },
+  {
+    "from": 220.41,
+    "to": 222.97,
+    "sid": 117,
+    "location": 2,
+    "content": "我其实是用win serf打造了一个小的工具",
+    "music": 0.0
+  },
+  {
+    "from": 222.97,
+    "to": 226.03,
+    "sid": 118,
+    "location": 2,
+    "content": "把这整套啊SOP完全的工具",
+    "music": 0.0
+  },
+  {
+    "from": 226.03,
+    "to": 227.65,
+    "sid": 119,
+    "location": 2,
+    "content": "我只需要去启动这个工具",
+    "music": 0.0
+  },
+  {
+    "from": 227.65,
+    "to": 229.17,
+    "sid": 120,
+    "location": 2,
+    "content": "就能够把这个任务很好的完成",
+    "music": 0.0
+  },
+  {
+    "from": 229.17,
+    "to": 231.65,
+    "sid": 121,
+    "location": 2,
+    "content": "而且我知道这个任务执行的过程当中",
+    "music": 0.0
+  },
+  {
+    "from": 231.65,
+    "to": 233.59,
+    "sid": 122,
+    "location": 2,
+    "content": "我是不需要参与进去的",
+    "music": 0.0
+  },
+  {
+    "from": 233.59,
+    "to": 235.63,
+    "sid": 123,
+    "location": 2,
+    "content": "他百分之百是全自动的好",
+    "music": 0.0
+  },
+  {
+    "from": 235.63,
+    "to": 237.15,
+    "sid": 124,
+    "location": 2,
+    "content": "那这一部分的全自动任务",
+    "music": 0.0
+  },
+  {
+    "from": 237.15,
+    "to": 239.23,
+    "sid": 125,
+    "location": 2,
+    "content": "对于你整个并行是没有任何的影响的",
+    "music": 0.0
+  },
+  {
+    "from": 239.23,
+    "to": 241.59,
+    "sid": 126,
+    "location": 2,
+    "content": "因为你确实可以放心的交给他",
+    "music": 0.0
+  },
+  {
+    "from": 241.59,
+    "to": 243.03,
+    "sid": 127,
+    "location": 2,
+    "content": "第二点呢很重要",
+    "music": 0.0
+  },
+  {
+    "from": 243.03,
+    "to": 246.19,
+    "sid": 128,
+    "location": 2,
+    "content": "就是你需要刻意的控制并行的数量",
+    "music": 0.0
+  },
+  {
+    "from": 246.19,
+    "to": 249.0,
+    "sid": 129,
+    "location": 2,
+    "content": "你不能因为现在AI能够做很多的事情",
+    "music": 0.0
+  },
+  {
+    "from": 249.0,
+    "to": 251.5,
+    "sid": 130,
+    "location": 2,
+    "content": "你就一直把自己的病情数量拉到很高",
+    "music": 0.0
+  },
+  {
+    "from": 251.5,
+    "to": 253.12,
+    "sid": 131,
+    "location": 2,
+    "content": "我自己的经验是啊",
+    "music": 0.0
+  },
+  {
+    "from": 253.12,
+    "to": 255.67,
+    "sid": 132,
+    "location": 2,
+    "content": "我会控制这个数量不超过三个呃",
+    "music": 0.0
+  },
+  {
+    "from": 255.67,
+    "to": 258.51,
+    "sid": 133,
+    "location": 2,
+    "content": "这个是在我大脑的处理的带宽范畴之内的",
+    "music": 0.0
+  },
+  {
+    "from": 258.51,
+    "to": 261.03,
+    "sid": 134,
+    "location": 2,
+    "content": "我能够很好的去完成第三件事情",
+    "music": 0.0
+  },
+  {
+    "from": 261.03,
+    "to": 263.15,
+    "sid": 135,
+    "location": 2,
+    "content": "其实跟第二件事情是一脉相承的",
+    "music": 0.0
+  },
+  {
+    "from": 263.15,
+    "to": 265.74,
+    "sid": 136,
+    "location": 2,
+    "content": "就是我会控制并行任务的类型",
+    "music": 0.0
+  },
+  {
+    "from": 265.74,
+    "to": 266.4,
+    "sid": 137,
+    "location": 2,
+    "content": "什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 266.4,
+    "to": 267.94,
+    "sid": 138,
+    "location": 2,
+    "content": "我尝试并行的任务",
+    "music": 0.0
+  },
+  {
+    "from": 267.94,
+    "to": 271.1,
+    "sid": 139,
+    "location": 2,
+    "content": "都是同属在一个大任务下的子任务",
+    "music": 0.0
+  },
+  {
+    "from": 271.1,
+    "to": 272.68,
+    "sid": 140,
+    "location": 2,
+    "content": "他们的背景是差不多的",
+    "music": 0.0
+  },
+  {
+    "from": 272.68,
+    "to": 274.18,
+    "sid": 141,
+    "location": 2,
+    "content": "这样的话你在切换的时候",
+    "music": 0.0
+  },
+  {
+    "from": 274.18,
+    "to": 277.27,
+    "sid": 142,
+    "location": 2,
+    "content": "其实你的注意力损耗就影响没有那么的大了",
+    "music": 0.0
+  },
+  {
+    "from": 277.27,
+    "to": 279.01,
+    "sid": 143,
+    "location": 2,
+    "content": "如果你能够做到以上三点",
+    "music": 0.0
+  },
+  {
+    "from": 279.01,
+    "to": 280.19,
+    "sid": 144,
+    "location": 2,
+    "content": "那么注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 280.19,
+    "to": 282.63,
+    "sid": 145,
+    "location": 2,
+    "content": "对于你去做事情的影响是最小的",
+    "music": 0.0
+  },
+  {
+    "from": 282.63,
+    "to": 284.33,
+    "sid": 146,
+    "location": 2,
+    "content": "同时切换任务的时候",
+    "music": 0.0
+  },
+  {
+    "from": 284.33,
+    "to": 286.62,
+    "sid": 147,
+    "location": 2,
+    "content": "注意力损耗的成本也是最低的",
+    "music": 0.0
+  },
+  {
+    "from": 286.62,
+    "to": 287.78,
+    "sid": 148,
+    "location": 2,
+    "content": "那以我自己为例",
+    "music": 0.0
+  },
+  {
+    "from": 287.78,
+    "to": 290.92,
+    "sid": 149,
+    "location": 2,
+    "content": "老粉都知道我有一部分业务是做企业的AI培训",
+    "music": 0.0
+  },
+  {
+    "from": 290.92,
+    "to": 292.02,
+    "sid": 150,
+    "location": 2,
+    "content": "那像日常工作里面",
+    "music": 0.0
+  },
+  {
+    "from": 292.02,
+    "to": 295.41,
+    "sid": 151,
+    "location": 2,
+    "content": "我们可能会同时的并行去写培训的课纲",
+    "music": 0.0
+  },
+  {
+    "from": 295.41,
+    "to": 296.62,
+    "sid": 152,
+    "location": 2,
+    "content": "写培训的课件",
+    "music": 0.0
+  },
+  {
+    "from": 296.62,
+    "to": 297.72,
+    "sid": 153,
+    "location": 2,
+    "content": "写培训的海报",
+    "music": 0.0
+  },
+  {
+    "from": 297.72,
+    "to": 301.22,
+    "sid": 154,
+    "location": 2,
+    "content": "那这三件事情同属于一个大的任务下的子任务",
+    "music": 0.0
+  },
+  {
+    "from": 301.22,
+    "to": 303.54,
+    "sid": 155,
+    "location": 2,
+    "content": "所以我会同时的并行的去执行它",
+    "music": 0.0
+  },
+  {
+    "from": 303.54,
+    "to": 304.46,
+    "sid": 156,
+    "location": 2,
+    "content": "那这个时候",
+    "music": 0.0
+  },
+  {
+    "from": 304.46,
+    "to": 307.08,
+    "sid": 157,
+    "location": 2,
+    "content": "如果我有了一个非常好的web coding的id",
+    "music": 0.0
+  },
+  {
+    "from": 307.08,
+    "to": 309.02,
+    "sid": 158,
+    "location": 2,
+    "content": "我是不会把这个web coding",
+    "music": 0.0
+  },
+  {
+    "from": 309.02,
+    "to": 311.34,
+    "sid": 159,
+    "location": 2,
+    "content": "做项目这件事情放到我的并行栏里面",
+    "music": 0.0
+  },
+  {
+    "from": 311.34,
+    "to": 312.22,
+    "sid": 160,
+    "location": 2,
+    "content": "原因有两个",
+    "music": 0.0
+  },
+  {
+    "from": 312.22,
+    "to": 313.4,
+    "sid": 161,
+    "location": 2,
+    "content": "第一个加上它",
+    "music": 0.0
+  },
+  {
+    "from": 313.4,
+    "to": 314.96,
+    "sid": 162,
+    "location": 2,
+    "content": "我的并行数量超过三个了",
+    "music": 0.0
+  },
+  {
+    "from": 314.96,
+    "to": 318.45,
+    "sid": 163,
+    "location": 2,
+    "content": "第二个web coding做项目跟刚才写课件",
+    "music": 0.0
+  },
+  {
+    "from": 318.45,
+    "to": 318.97,
+    "sid": 164,
+    "location": 2,
+    "content": "写课纲",
+    "music": 0.0
+  },
+  {
+    "from": 318.97,
+    "to": 319.49,
+    "sid": 165,
+    "location": 2,
+    "content": "写海报",
+    "music": 0.0
+  },
+  {
+    "from": 319.49,
+    "to": 322.57,
+    "sid": 166,
+    "location": 2,
+    "content": "这三件事其实它不属于一个大的任务下",
+    "music": 0.0
+  },
+  {
+    "from": 322.57,
+    "to": 324.01,
+    "sid": 167,
+    "location": 2,
+    "content": "所以在做任务切换的时候",
+    "music": 0.0
+  },
+  {
+    "from": 324.01,
+    "to": 325.95,
+    "sid": 168,
+    "location": 2,
+    "content": "你的注意力损耗影响是非常大的",
+    "music": 0.0
+  },
+  {
+    "from": 325.95,
+    "to": 327.31,
+    "sid": 169,
+    "location": 2,
+    "content": "另外一个很重要的点是",
+    "music": 0.0
+  },
+  {
+    "from": 327.31,
+    "to": 330.26,
+    "sid": 170,
+    "location": 2,
+    "content": "我会刻意的用我上一期视频里面讲的",
+    "music": 0.0
+  },
+  {
+    "from": 330.26,
+    "to": 331.78,
+    "sid": 171,
+    "location": 2,
+    "content": "集中上下文工作法",
+    "music": 0.0
+  },
+  {
+    "from": 331.78,
+    "to": 333.48,
+    "sid": 172,
+    "location": 2,
+    "content": "就比如说我的写课件",
+    "music": 0.0
+  },
+  {
+    "from": 333.48,
+    "to": 334.08,
+    "sid": 173,
+    "location": 2,
+    "content": "写课纲",
+    "music": 0.0
+  },
+  {
+    "from": 334.08,
+    "to": 334.66,
+    "sid": 174,
+    "location": 2,
+    "content": "写海报",
+    "music": 0.0
+  },
+  {
+    "from": 334.66,
+    "to": 337.69,
+    "sid": 175,
+    "location": 2,
+    "content": "我是在WINDOCF这一个工具下面去完成的",
+    "music": 0.0
+  },
+  {
+    "from": 337.69,
+    "to": 340.43,
+    "sid": 176,
+    "location": 2,
+    "content": "我不会频繁地切换我的不同的工具",
+    "music": 0.0
+  },
+  {
+    "from": 340.43,
+    "to": 342.35,
+    "sid": 177,
+    "location": 2,
+    "content": "所以它会进一步的降低",
+    "music": 0.0
+  },
+  {
+    "from": 342.35,
+    "to": 345.67,
+    "sid": 178,
+    "location": 2,
+    "content": "我在并行做这些任务的时候的注意力损耗呃",
+    "music": 0.0
+  },
+  {
+    "from": 345.67,
+    "to": 347.19,
+    "sid": 179,
+    "location": 2,
+    "content": "以上是这些视频的全部内容",
+    "music": 0.0
+  },
+  {
+    "from": 347.19,
+    "to": 348.409,
+    "sid": 180,
+    "location": 2,
+    "content": "希望对你有所启发",
+    "music": 0.0
+  },
+  {
+    "from": 348.409,
+    "to": 351.069,
+    "sid": 181,
+    "location": 2,
+    "content": "也希望各位在看了这期视频之后",
+    "music": 0.0
+  },
+  {
+    "from": 351.069,
+    "to": 354.829,
+    "sid": 182,
+    "location": 2,
+    "content": "能够在AI时代刻意的去对抗注意力残留",
+    "music": 0.0
+  },
+  {
+    "from": 354.829,
+    "to": 356.709,
+    "sid": 183,
+    "location": 2,
+    "content": "能够控制自己的并行数量",
+    "music": 0.0
+  },
+  {
+    "from": 356.709,
+    "to": 357.589,
+    "sid": 184,
+    "location": 2,
+    "content": "并不是并行的",
+    "music": 0.0
+  },
+  {
+    "from": 357.589,
+    "to": 358.289,
+    "sid": 185,
+    "location": 2,
+    "content": "数量越多",
+    "music": 0.0
+  },
+  {
+    "from": 358.289,
+    "to": 359.729,
+    "sid": 186,
+    "location": 2,
+    "content": "你的效率就会越高",
+    "music": 0.0
+  },
+  {
+    "from": 359.729,
+    "to": 360.64,
+    "sid": 187,
+    "location": 2,
+    "content": "OK拜拜",
+    "music": 0.0
+  }
+]

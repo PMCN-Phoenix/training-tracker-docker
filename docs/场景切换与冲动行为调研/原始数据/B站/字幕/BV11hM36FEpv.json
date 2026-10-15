@@ -1,0 +1,2346 @@
+[
+  {
+    "from": 5.04,
+    "to": 7.34,
+    "sid": 1,
+    "location": 2,
+    "content": "你会和自己打架吗",
+    "music": 0.0
+  },
+  {
+    "from": 7.34,
+    "to": 8.76,
+    "sid": 2,
+    "location": 2,
+    "content": "我会啊",
+    "music": 0.0
+  },
+  {
+    "from": 8.76,
+    "to": 11.49,
+    "sid": 3,
+    "location": 2,
+    "content": "左右互搏反刍",
+    "music": 0.0
+  },
+  {
+    "from": 11.49,
+    "to": 14.659,
+    "sid": 4,
+    "location": 2,
+    "content": "以前的我呀没什么事的时候",
+    "music": 0.0
+  },
+  {
+    "from": 14.659,
+    "to": 16.619,
+    "sid": 5,
+    "location": 2,
+    "content": "就会去想三天前",
+    "music": 0.0
+  },
+  {
+    "from": 16.619,
+    "to": 21.13,
+    "sid": 6,
+    "location": 2,
+    "content": "一周前甚至是一个月之前的某个情景啊",
+    "music": 0.0
+  },
+  {
+    "from": 21.13,
+    "to": 23.119,
+    "sid": 7,
+    "location": 2,
+    "content": "反复的评判",
+    "music": 0.0
+  },
+  {
+    "from": 23.119,
+    "to": 27.259,
+    "sid": 8,
+    "location": 2,
+    "content": "比如说啊当时我那句话说的好不好啊",
+    "music": 0.0
+  },
+  {
+    "from": 27.259,
+    "to": 28.639,
+    "sid": 9,
+    "location": 2,
+    "content": "我换个语气",
+    "music": 0.0
+  },
+  {
+    "from": 28.639,
+    "to": 31.52,
+    "sid": 10,
+    "location": 2,
+    "content": "换一句话会不会更好啊",
+    "music": 0.0
+  },
+  {
+    "from": 31.52,
+    "to": 33.68,
+    "sid": 11,
+    "location": 2,
+    "content": "反反复复的琢磨",
+    "music": 0.0
+  },
+  {
+    "from": 33.68,
+    "to": 37.44,
+    "sid": 12,
+    "location": 2,
+    "content": "有的时候啊睡觉之前都要想个半个小时",
+    "music": 0.0
+  },
+  {
+    "from": 37.44,
+    "to": 39.74,
+    "sid": 13,
+    "location": 2,
+    "content": "一个小时甚至更久",
+    "music": 0.0
+  },
+  {
+    "from": 39.74,
+    "to": 41.74,
+    "sid": 14,
+    "location": 2,
+    "content": "影响到我的睡眠啊",
+    "music": 0.0
+  },
+  {
+    "from": 41.74,
+    "to": 43.46,
+    "sid": 15,
+    "location": 2,
+    "content": "让自己睡不着",
+    "music": 0.0
+  },
+  {
+    "from": 43.46,
+    "to": 47.16,
+    "sid": 16,
+    "location": 2,
+    "content": "我自己也知道说这种不断的回味",
+    "music": 0.0
+  },
+  {
+    "from": 47.16,
+    "to": 48.4,
+    "sid": 17,
+    "location": 2,
+    "content": "不断的反刍",
+    "music": 0.0
+  },
+  {
+    "from": 48.4,
+    "to": 49.86,
+    "sid": 18,
+    "location": 2,
+    "content": "它并没有什么意义",
+    "music": 0.0
+  },
+  {
+    "from": 49.86,
+    "to": 51.26,
+    "sid": 19,
+    "location": 2,
+    "content": "没有任何作用",
+    "music": 0.0
+  },
+  {
+    "from": 51.26,
+    "to": 53.52,
+    "sid": 20,
+    "location": 2,
+    "content": "但是呢就是停不下来",
+    "music": 0.0
+  },
+  {
+    "from": 53.52,
+    "to": 55.86,
+    "sid": 21,
+    "location": 2,
+    "content": "你有类似的情景吗",
+    "music": 0.0
+  },
+  {
+    "from": 55.86,
+    "to": 60.41,
+    "sid": 22,
+    "location": 2,
+    "content": "哈哈其实啊你脑子里面有一套物理回路",
+    "music": 0.0
+  },
+  {
+    "from": 60.41,
+    "to": 62.73,
+    "sid": 23,
+    "location": 2,
+    "content": "在你什么都不做的时候",
+    "music": 0.0
+  },
+  {
+    "from": 62.73,
+    "to": 64.66,
+    "sid": 24,
+    "location": 2,
+    "content": "它就会自动点火",
+    "music": 0.0
+  },
+  {
+    "from": 64.66,
+    "to": 67.84,
+    "sid": 25,
+    "location": 2,
+    "content": "专门啊把你给拽回过去",
+    "music": 0.0
+  },
+  {
+    "from": 67.84,
+    "to": 70.63,
+    "sid": 26,
+    "location": 2,
+    "content": "它叫做默认模式网络",
+    "music": 0.0
+  },
+  {
+    "from": 70.63,
+    "to": 73.23,
+    "sid": 27,
+    "location": 2,
+    "content": "你越是躺着什么都不做的时候",
+    "music": 0.0
+  },
+  {
+    "from": 73.23,
+    "to": 75.15,
+    "sid": 28,
+    "location": 2,
+    "content": "哎他呀越是活跃",
+    "music": 0.0
+  },
+  {
+    "from": 75.15,
+    "to": 79.26,
+    "sid": 29,
+    "location": 2,
+    "content": "把你三天前说错的某一句话翻出来",
+    "music": 0.0
+  },
+  {
+    "from": 79.26,
+    "to": 80.74,
+    "sid": 30,
+    "location": 2,
+    "content": "反复的回放",
+    "music": 0.0
+  },
+  {
+    "from": 80.74,
+    "to": 82.48,
+    "sid": 31,
+    "location": 2,
+    "content": "所谓的反刍啊",
+    "music": 0.0
+  },
+  {
+    "from": 82.48,
+    "to": 85.77,
+    "sid": 32,
+    "location": 2,
+    "content": "就是这套电路的自动运行",
+    "music": 0.0
+  },
+  {
+    "from": 85.77,
+    "to": 87.79,
+    "sid": 33,
+    "location": 2,
+    "content": "那硬件就是这样",
+    "music": 0.0
+  },
+  {
+    "from": 87.79,
+    "to": 89.85,
+    "sid": 34,
+    "location": 2,
+    "content": "你的大脑在空闲的时候",
+    "music": 0.0
+  },
+  {
+    "from": 89.85,
+    "to": 92.41,
+    "sid": 35,
+    "location": 2,
+    "content": "它会自动开启审判模式",
+    "music": 0.0
+  },
+  {
+    "from": 92.41,
+    "to": 94.2,
+    "sid": 36,
+    "location": 2,
+    "content": "而我后来啊",
+    "music": 0.0
+  },
+  {
+    "from": 94.2,
+    "to": 97.9,
+    "sid": 37,
+    "location": 2,
+    "content": "是怎么从这台审判机器里面脱身的呢",
+    "music": 0.0
+  },
+  {
+    "from": 97.9,
+    "to": 101.63,
+    "sid": 38,
+    "location": 2,
+    "content": "啊答案藏在一个更深的发现里面",
+    "music": 0.0
+  },
+  {
+    "from": 101.63,
+    "to": 105.02,
+    "sid": 39,
+    "location": 2,
+    "content": "我体内不止一个人",
+    "music": 0.0
+  },
+  {
+    "from": 105.02,
+    "to": 108.98,
+    "sid": 40,
+    "location": 2,
+    "content": "这个机制让我们持续不断的回味过去",
+    "music": 0.0
+  },
+  {
+    "from": 108.98,
+    "to": 111.38,
+    "sid": 41,
+    "location": 2,
+    "content": "甚至陷入一种不停的自我审判",
+    "music": 0.0
+  },
+  {
+    "from": 111.38,
+    "to": 114.26,
+    "sid": 42,
+    "location": 2,
+    "content": "就好像本来好好过着日子",
+    "music": 0.0
+  },
+  {
+    "from": 114.26,
+    "to": 117.86,
+    "sid": 43,
+    "location": 2,
+    "content": "但是身体里面却多出来了一个审判官",
+    "music": 0.0
+  },
+  {
+    "from": 118.86,
+    "to": 122.43,
+    "sid": 44,
+    "location": 2,
+    "content": "那么如果再进一步挖掘的话",
+    "music": 0.0
+  },
+  {
+    "from": 122.43,
+    "to": 128.16,
+    "sid": 45,
+    "location": 2,
+    "content": "我们身体里面的角色可不只有审判官一个",
+    "music": 0.0
+  },
+  {
+    "from": 128.16,
+    "to": 132.8,
+    "sid": 46,
+    "location": 2,
+    "content": "我们身体里面呀冲突时时刻刻都在上演啊",
+    "music": 0.0
+  },
+  {
+    "from": 132.8,
+    "to": 133.52,
+    "sid": 47,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 133.52,
+    "to": 136.11,
+    "sid": 48,
+    "location": 2,
+    "content": "你今天去超市买酸奶",
+    "music": 0.0
+  },
+  {
+    "from": 136.11,
+    "to": 137.39,
+    "sid": 49,
+    "location": 2,
+    "content": "两个口味之间",
+    "music": 0.0
+  },
+  {
+    "from": 137.39,
+    "to": 138.53,
+    "sid": 50,
+    "location": 2,
+    "content": "你去选啊",
+    "music": 0.0
+  },
+  {
+    "from": 138.53,
+    "to": 141.55,
+    "sid": 51,
+    "location": 2,
+    "content": "比如说啊假设是你最喜欢的两个口味",
+    "music": 0.0
+  },
+  {
+    "from": 141.55,
+    "to": 142.87,
+    "sid": 52,
+    "location": 2,
+    "content": "草莓和巧克力",
+    "music": 0.0
+  },
+  {
+    "from": 142.87,
+    "to": 145.7,
+    "sid": 53,
+    "location": 2,
+    "content": "你不知道今天到底买哪个回家",
+    "music": 0.0
+  },
+  {
+    "from": 145.7,
+    "to": 149.02,
+    "sid": 54,
+    "location": 2,
+    "content": "你会感觉两边都有一个声音",
+    "music": 0.0
+  },
+  {
+    "from": 149.02,
+    "to": 151.579,
+    "sid": 55,
+    "location": 2,
+    "content": "或者说都有一种力量",
+    "music": 0.0
+  },
+  {
+    "from": 151.579,
+    "to": 155.319,
+    "sid": 56,
+    "location": 2,
+    "content": "它就像是你在货架前犹豫的那三秒钟",
+    "music": 0.0
+  },
+  {
+    "from": 155.319,
+    "to": 156.199,
+    "sid": 57,
+    "location": 2,
+    "content": "但是啊",
+    "music": 0.0
+  },
+  {
+    "from": 156.199,
+    "to": 160.37,
+    "sid": 58,
+    "location": 2,
+    "content": "你大脑里面可正在发生一场物理层面的内战",
+    "music": 0.0
+  },
+  {
+    "from": 160.37,
+    "to": 165.51,
+    "sid": 59,
+    "location": 2,
+    "content": "你脑中呃草莓和巧克力各自是一群神经元",
+    "music": 0.0
+  },
+  {
+    "from": 165.51,
+    "to": 169.71,
+    "sid": 60,
+    "location": 2,
+    "content": "它们之间有一种叫做GABA的分子哎",
+    "music": 0.0
+  },
+  {
+    "from": 169.71,
+    "to": 171.12,
+    "sid": 61,
+    "location": 2,
+    "content": "互相踩刹车",
+    "music": 0.0
+  },
+  {
+    "from": 171.12,
+    "to": 173.02,
+    "sid": 62,
+    "location": 2,
+    "content": "你犹豫的那几秒钟",
+    "music": 0.0
+  },
+  {
+    "from": 173.02,
+    "to": 175.8,
+    "sid": 63,
+    "location": 2,
+    "content": "他们就在物理性的相互压制",
+    "music": 0.0
+  },
+  {
+    "from": 175.8,
+    "to": 179.44,
+    "sid": 64,
+    "location": 2,
+    "content": "你的脑子里啊是真实的在拔河的",
+    "music": 0.0
+  },
+  {
+    "from": 179.44,
+    "to": 181.26,
+    "sid": 65,
+    "location": 2,
+    "content": "而物理现实是这样",
+    "music": 0.0
+  },
+  {
+    "from": 181.26,
+    "to": 186.36,
+    "sid": 66,
+    "location": 2,
+    "content": "那这台机器天生我们的脑子它就是并行的矛盾",
+    "music": 0.0
+  },
+  {
+    "from": 186.36,
+    "to": 188.06,
+    "sid": 67,
+    "location": 2,
+    "content": "就是它的默认状态",
+    "music": 0.0
+  },
+  {
+    "from": 188.06,
+    "to": 193.929,
+    "sid": 68,
+    "location": 2,
+    "content": "那么问题可能就不再是我怎么去消灭矛盾了",
+    "music": 0.0
+  },
+  {
+    "from": 193.929,
+    "to": 199.08,
+    "sid": 69,
+    "location": 2,
+    "content": "而是变成了我怎么让这些打架的声音坐下来",
+    "music": 0.0
+  },
+  {
+    "from": 199.08,
+    "to": 200.2,
+    "sid": 70,
+    "location": 2,
+    "content": "开个会",
+    "music": 0.0
+  },
+  {
+    "from": 200.2,
+    "to": 202.78,
+    "sid": 71,
+    "location": 2,
+    "content": "而反映在现实情景上",
+    "music": 0.0
+  },
+  {
+    "from": 202.78,
+    "to": 205.079,
+    "sid": 72,
+    "location": 2,
+    "content": "最终你做出来一个决定",
+    "music": 0.0
+  },
+  {
+    "from": 205.079,
+    "to": 208.599,
+    "sid": 73,
+    "location": 2,
+    "content": "但是这个时候又有一个新的麻烦了",
+    "music": 0.0
+  },
+  {
+    "from": 208.599,
+    "to": 210.2,
+    "sid": 74,
+    "location": 2,
+    "content": "你决定了一个口味",
+    "music": 0.0
+  },
+  {
+    "from": 210.2,
+    "to": 211.64,
+    "sid": 75,
+    "location": 2,
+    "content": "那你又要选择",
+    "music": 0.0
+  },
+  {
+    "from": 211.64,
+    "to": 214.88,
+    "sid": 76,
+    "location": 2,
+    "content": "是今天晚上我就把所有的酸奶都吃光",
+    "music": 0.0
+  },
+  {
+    "from": 214.88,
+    "to": 216.48,
+    "sid": 77,
+    "location": 2,
+    "content": "还是只吃一半儿",
+    "music": 0.0
+  },
+  {
+    "from": 216.48,
+    "to": 219.52,
+    "sid": 78,
+    "location": 2,
+    "content": "那刚才开会的那种情景又要再来一次",
+    "music": 0.0
+  },
+  {
+    "from": 219.52,
+    "to": 222.829,
+    "sid": 79,
+    "location": 2,
+    "content": "那生活中啊这种情况是数不胜数的",
+    "music": 0.0
+  },
+  {
+    "from": 222.829,
+    "to": 227.929,
+    "sid": 80,
+    "location": 2,
+    "content": "那你看我们心里面难道真的只有一个声音吗",
+    "music": 0.0
+  },
+  {
+    "from": 227.929,
+    "to": 233.7,
+    "sid": 81,
+    "location": 2,
+    "content": "它里边会产生数之不尽的念头和想法",
+    "music": 0.0
+  },
+  {
+    "from": 233.7,
+    "to": 237.3,
+    "sid": 82,
+    "location": 2,
+    "content": "有一句话或者说一个思想啊",
+    "music": 0.0
+  },
+  {
+    "from": 237.3,
+    "to": 239.48,
+    "sid": 83,
+    "location": 2,
+    "content": "影响了当时的我呃",
+    "music": 0.0
+  },
+  {
+    "from": 239.48,
+    "to": 241.18,
+    "sid": 84,
+    "location": 2,
+    "content": "在学精神分析",
+    "music": 0.0
+  },
+  {
+    "from": 241.18,
+    "to": 243.34,
+    "sid": 85,
+    "location": 2,
+    "content": "大概第三个年头的时候",
+    "music": 0.0
+  },
+  {
+    "from": 243.34,
+    "to": 244.96,
+    "sid": 86,
+    "location": 2,
+    "content": "我听到了一个观点",
+    "music": 0.0
+  },
+  {
+    "from": 244.96,
+    "to": 247.74,
+    "sid": 87,
+    "location": 2,
+    "content": "从武志红老师那儿听来的啊",
+    "music": 0.0
+  },
+  {
+    "from": 247.74,
+    "to": 249.12,
+    "sid": 88,
+    "location": 2,
+    "content": "他是这么说的",
+    "music": 0.0
+  },
+  {
+    "from": 249.12,
+    "to": 253.73,
+    "sid": 89,
+    "location": 2,
+    "content": "我们心里面每一个想法都有他的生命",
+    "music": 0.0
+  },
+  {
+    "from": 253.73,
+    "to": 257.14,
+    "sid": 90,
+    "location": 2,
+    "content": "每一个念头都有他自己的生命",
+    "music": 0.0
+  },
+  {
+    "from": 257.14,
+    "to": 260.0,
+    "sid": 91,
+    "location": 2,
+    "content": "如果我们想要斩断一个念头",
+    "music": 0.0
+  },
+  {
+    "from": 260.0,
+    "to": 263.58,
+    "sid": 92,
+    "location": 2,
+    "content": "彻底杀死它或者杀死一种情绪",
+    "music": 0.0
+  },
+  {
+    "from": 263.58,
+    "to": 267.16,
+    "sid": 93,
+    "location": 2,
+    "content": "那对于这个念头或者情绪本身来说",
+    "music": 0.0
+  },
+  {
+    "from": 267.16,
+    "to": 269.69,
+    "sid": 94,
+    "location": 2,
+    "content": "就是一种巨大的威胁",
+    "music": 0.0
+  },
+  {
+    "from": 269.69,
+    "to": 273.76,
+    "sid": 95,
+    "location": 2,
+    "content": "你没有办法杀死自己脑内的东西",
+    "music": 0.0
+  },
+  {
+    "from": 273.76,
+    "to": 275.52,
+    "sid": 96,
+    "location": 2,
+    "content": "你越想驱逐他",
+    "music": 0.0
+  },
+  {
+    "from": 275.52,
+    "to": 276.92,
+    "sid": 97,
+    "location": 2,
+    "content": "越想消解它",
+    "music": 0.0
+  },
+  {
+    "from": 276.92,
+    "to": 279.299,
+    "sid": 98,
+    "location": 2,
+    "content": "它就越奋起反抗",
+    "music": 0.0
+  },
+  {
+    "from": 279.299,
+    "to": 283.28,
+    "sid": 99,
+    "location": 2,
+    "content": "那既然每个念头都有它的生命力",
+    "music": 0.0
+  },
+  {
+    "from": 283.28,
+    "to": 288.64,
+    "sid": 100,
+    "location": 2,
+    "content": "那我的体内有没有可能存在很多很多个我呢",
+    "music": 0.0
+  },
+  {
+    "from": 288.64,
+    "to": 291.52,
+    "sid": 101,
+    "location": 2,
+    "content": "他们的想法是不一样的",
+    "music": 0.0
+  },
+  {
+    "from": 291.52,
+    "to": 293.64,
+    "sid": 102,
+    "location": 2,
+    "content": "甚至截然相反",
+    "music": 0.0
+  },
+  {
+    "from": 293.64,
+    "to": 296.35,
+    "sid": 103,
+    "location": 2,
+    "content": "他们的记忆也不相同",
+    "music": 0.0
+  },
+  {
+    "from": 296.35,
+    "to": 299.53,
+    "sid": 104,
+    "location": 2,
+    "content": "有一些我的记忆停留在两年前",
+    "music": 0.0
+  },
+  {
+    "from": 299.53,
+    "to": 302.039,
+    "sid": 105,
+    "location": 2,
+    "content": "有一些停留在昨天",
+    "music": 0.0
+  },
+  {
+    "from": 302.039,
+    "to": 305.039,
+    "sid": 106,
+    "location": 2,
+    "content": "而每个我的性格也不一样啊",
+    "music": 0.0
+  },
+  {
+    "from": 305.039,
+    "to": 307.159,
+    "sid": 107,
+    "location": 2,
+    "content": "有的是个火爆脾气啊",
+    "music": 0.0
+  },
+  {
+    "from": 307.159,
+    "to": 309.26,
+    "sid": 108,
+    "location": 2,
+    "content": "每别人啊说一句话",
+    "music": 0.0
+  },
+  {
+    "from": 309.26,
+    "to": 312.73,
+    "sid": 109,
+    "location": 2,
+    "content": "那就直接涌起了熊熊的怒火啊",
+    "music": 0.0
+  },
+  {
+    "from": 312.73,
+    "to": 314.95,
+    "sid": 110,
+    "location": 2,
+    "content": "有的他又温文尔雅",
+    "music": 0.0
+  },
+  {
+    "from": 314.95,
+    "to": 316.31,
+    "sid": 111,
+    "location": 2,
+    "content": "非常宽容",
+    "music": 0.0
+  },
+  {
+    "from": 316.31,
+    "to": 319.79,
+    "sid": 112,
+    "location": 2,
+    "content": "非常坦诚的接受和别人的冲突啊",
+    "music": 0.0
+  },
+  {
+    "from": 319.79,
+    "to": 320.71,
+    "sid": 113,
+    "location": 2,
+    "content": "就是这样",
+    "music": 0.0
+  },
+  {
+    "from": 320.71,
+    "to": 326.11,
+    "sid": 114,
+    "location": 2,
+    "content": "貌似矛盾好多好多的人聚集在了自己的体内",
+    "music": 0.0
+  },
+  {
+    "from": 326.11,
+    "to": 328.12,
+    "sid": 115,
+    "location": 2,
+    "content": "才组成了我",
+    "music": 0.0
+  },
+  {
+    "from": 328.12,
+    "to": 330.64,
+    "sid": 116,
+    "location": 2,
+    "content": "他们都不是我",
+    "music": 0.0
+  },
+  {
+    "from": 330.64,
+    "to": 336.19,
+    "sid": 117,
+    "location": 2,
+    "content": "而他们都是我顺着这个想法思考下去",
+    "music": 0.0
+  },
+  {
+    "from": 336.19,
+    "to": 337.85,
+    "sid": 118,
+    "location": 2,
+    "content": "慢慢在现实中啊",
+    "music": 0.0
+  },
+  {
+    "from": 337.85,
+    "to": 341.25,
+    "sid": 119,
+    "location": 2,
+    "content": "我和自己相处的方式就发生了变化",
+    "music": 0.0
+  },
+  {
+    "from": 341.25,
+    "to": 345.1,
+    "sid": 120,
+    "location": 2,
+    "content": "我不再把自己的想法当成一件确定的事儿了",
+    "music": 0.0
+  },
+  {
+    "from": 345.1,
+    "to": 348.08,
+    "sid": 121,
+    "location": 2,
+    "content": "很多情景下我怎么想的",
+    "music": 0.0
+  },
+  {
+    "from": 348.08,
+    "to": 349.44,
+    "sid": 122,
+    "location": 2,
+    "content": "怎么思考的",
+    "music": 0.0
+  },
+  {
+    "from": 349.44,
+    "to": 352.36,
+    "sid": 123,
+    "location": 2,
+    "content": "面对某一些情景会怎么样",
+    "music": 0.0
+  },
+  {
+    "from": 352.36,
+    "to": 354.88,
+    "sid": 124,
+    "location": 2,
+    "content": "这完全不是我可以预测的",
+    "music": 0.0
+  },
+  {
+    "from": 354.88,
+    "to": 356.68,
+    "sid": 125,
+    "location": 2,
+    "content": "这要交给不同的神经元",
+    "music": 0.0
+  },
+  {
+    "from": 356.68,
+    "to": 360.58,
+    "sid": 126,
+    "location": 2,
+    "content": "激活不同的记忆以及相邻的神经元去做出反应",
+    "music": 0.0
+  },
+  {
+    "from": 360.58,
+    "to": 361.94,
+    "sid": 127,
+    "location": 2,
+    "content": "这甚至让我觉得",
+    "music": 0.0
+  },
+  {
+    "from": 361.94,
+    "to": 365.78,
+    "sid": 128,
+    "location": 2,
+    "content": "我的身体里面有不同性格的人存在",
+    "music": 0.0
+  },
+  {
+    "from": 365.78,
+    "to": 367.78,
+    "sid": 129,
+    "location": 2,
+    "content": "面对好朋友的时候啊",
+    "music": 0.0
+  },
+  {
+    "from": 367.78,
+    "to": 368.9,
+    "sid": 130,
+    "location": 2,
+    "content": "我很放松",
+    "music": 0.0
+  },
+  {
+    "from": 368.9,
+    "to": 370.94,
+    "sid": 131,
+    "location": 2,
+    "content": "自然也不拘小节",
+    "music": 0.0
+  },
+  {
+    "from": 370.94,
+    "to": 373.12,
+    "sid": 132,
+    "location": 2,
+    "content": "那面对陌生人的时候",
+    "music": 0.0
+  },
+  {
+    "from": 373.12,
+    "to": 374.64,
+    "sid": 133,
+    "location": 2,
+    "content": "我可以有礼貌",
+    "music": 0.0
+  },
+  {
+    "from": 374.64,
+    "to": 377.59,
+    "sid": 134,
+    "location": 2,
+    "content": "要有明确的距离感",
+    "music": 0.0
+  },
+  {
+    "from": 377.59,
+    "to": 380.83,
+    "sid": 135,
+    "location": 2,
+    "content": "甚至有的时候啊对某些陌生人",
+    "music": 0.0
+  },
+  {
+    "from": 380.83,
+    "to": 383.87,
+    "sid": 136,
+    "location": 2,
+    "content": "我可以说是漠不关心",
+    "music": 0.0
+  },
+  {
+    "from": 383.87,
+    "to": 389.24,
+    "sid": 137,
+    "location": 2,
+    "content": "那不同性格的我在我的体内同时存在",
+    "music": 0.0
+  },
+  {
+    "from": 389.24,
+    "to": 391.92,
+    "sid": 138,
+    "location": 2,
+    "content": "而感受到这些不同的人啊",
+    "music": 0.0
+  },
+  {
+    "from": 391.92,
+    "to": 394.14,
+    "sid": 139,
+    "location": 2,
+    "content": "他们都是有生化实体的",
+    "music": 0.0
+  },
+  {
+    "from": 394.14,
+    "to": 400.24,
+    "sid": 140,
+    "location": 2,
+    "content": "是你的神经硬件确实在以模块化的方式在运行",
+    "music": 0.0
+  },
+  {
+    "from": 400.24,
+    "to": 406.1,
+    "sid": 141,
+    "location": 2,
+    "content": "每一组回路都是一套独立的人格子程序",
+    "music": 0.0
+  },
+  {
+    "from": 406.1,
+    "to": 412.2,
+    "sid": 142,
+    "location": 2,
+    "content": "IFS理论里面说的部分那些流放者管理者",
+    "music": 0.0
+  },
+  {
+    "from": 412.2,
+    "to": 413.299,
+    "sid": 143,
+    "location": 2,
+    "content": "消防员",
+    "music": 0.0
+  },
+  {
+    "from": 413.299,
+    "to": 418.75,
+    "sid": 144,
+    "location": 2,
+    "content": "在神经层面是三条被不同经历强化出来的",
+    "music": 0.0
+  },
+  {
+    "from": 418.75,
+    "to": 419.77,
+    "sid": 145,
+    "location": 2,
+    "content": "独立回路",
+    "music": 0.0
+  },
+  {
+    "from": 419.77,
+    "to": 423.549,
+    "sid": 146,
+    "location": 2,
+    "content": "他们有各自的情绪记忆和行为模式",
+    "music": 0.0
+  },
+  {
+    "from": 423.549,
+    "to": 427.009,
+    "sid": 147,
+    "location": 2,
+    "content": "而那个能冷静观察他们的真",
+    "music": 0.0
+  },
+  {
+    "from": 427.009,
+    "to": 431.46,
+    "sid": 148,
+    "location": 2,
+    "content": "我对应的是前额叶对于杏仁核的调节",
+    "music": 0.0
+  },
+  {
+    "from": 431.46,
+    "to": 433.14,
+    "sid": 149,
+    "location": 2,
+    "content": "前额叶激活的越强",
+    "music": 0.0
+  },
+  {
+    "from": 433.14,
+    "to": 438.84,
+    "sid": 150,
+    "location": 2,
+    "content": "你就越能从啊被情绪吞没切换到看着情绪来去",
+    "music": 0.0
+  },
+  {
+    "from": 438.84,
+    "to": 441.02,
+    "sid": 151,
+    "location": 2,
+    "content": "哎硬件原理是这样啊",
+    "music": 0.0
+  },
+  {
+    "from": 441.02,
+    "to": 444.82,
+    "sid": 152,
+    "location": 2,
+    "content": "你的大脑其实是以模块化方式去运行的",
+    "music": 0.0
+  },
+  {
+    "from": 444.82,
+    "to": 449.04,
+    "sid": 153,
+    "location": 2,
+    "content": "每一个部分它都像是一种独立的回路",
+    "music": 0.0
+  },
+  {
+    "from": 449.04,
+    "to": 452.0,
+    "sid": 154,
+    "location": 2,
+    "content": "而我当时在心理和行动上",
+    "music": 0.0
+  },
+  {
+    "from": 452.0,
+    "to": 456.5,
+    "sid": 155,
+    "location": 2,
+    "content": "是怎么用最微小的动作去拿回我的主权",
+    "music": 0.0
+  },
+  {
+    "from": 456.5,
+    "to": 457.28,
+    "sid": 156,
+    "location": 2,
+    "content": "找回我的真",
+    "music": 0.0
+  },
+  {
+    "from": 457.28,
+    "to": 462.1,
+    "sid": 157,
+    "location": 2,
+    "content": "我的答案是不去压制任何一条回路",
+    "music": 0.0
+  },
+  {
+    "from": 462.1,
+    "to": 464.679,
+    "sid": 158,
+    "location": 2,
+    "content": "学会让他们各司其职",
+    "music": 0.0
+  },
+  {
+    "from": 464.679,
+    "to": 466.619,
+    "sid": 159,
+    "location": 2,
+    "content": "我个人体验下来啊",
+    "music": 0.0
+  },
+  {
+    "from": 466.619,
+    "to": 468.32,
+    "sid": 160,
+    "location": 2,
+    "content": "啊我们的分身",
+    "music": 0.0
+  },
+  {
+    "from": 468.32,
+    "to": 470.18,
+    "sid": 161,
+    "location": 2,
+    "content": "我们内部的成员",
+    "music": 0.0
+  },
+  {
+    "from": 470.18,
+    "to": 476.06,
+    "sid": 162,
+    "location": 2,
+    "content": "其实并不只是IFS理论里面提到的那些角色",
+    "music": 0.0
+  },
+  {
+    "from": 476.06,
+    "to": 477.4,
+    "sid": 163,
+    "location": 2,
+    "content": "甚至更多",
+    "music": 0.0
+  },
+  {
+    "from": 477.4,
+    "to": 480.85,
+    "sid": 164,
+    "location": 2,
+    "content": "远远超过呃他说的那些",
+    "music": 0.0
+  },
+  {
+    "from": 480.85,
+    "to": 483.15,
+    "sid": 165,
+    "location": 2,
+    "content": "而我之前的生命体验中啊",
+    "music": 0.0
+  },
+  {
+    "from": 483.15,
+    "to": 487.63,
+    "sid": 166,
+    "location": 2,
+    "content": "最常做的事或者说最常做的错事",
+    "music": 0.0
+  },
+  {
+    "from": 487.83,
+    "to": 491.55,
+    "sid": 167,
+    "location": 2,
+    "content": "就是去压抑压制某一部分的我",
+    "music": 0.0
+  },
+  {
+    "from": 491.55,
+    "to": 492.15,
+    "sid": 168,
+    "location": 2,
+    "content": "呃",
+    "music": 0.0
+  },
+  {
+    "from": 492.15,
+    "to": 493.73,
+    "sid": 169,
+    "location": 2,
+    "content": "我越压制他",
+    "music": 0.0
+  },
+  {
+    "from": 493.73,
+    "to": 496.23,
+    "sid": 170,
+    "location": 2,
+    "content": "就比如说那个害怕的",
+    "music": 0.0
+  },
+  {
+    "from": 496.23,
+    "to": 499.4,
+    "sid": 171,
+    "location": 2,
+    "content": "我那个不喜欢陌生人的小男孩",
+    "music": 0.0
+  },
+  {
+    "from": 499.4,
+    "to": 503.289,
+    "sid": 172,
+    "location": 2,
+    "content": "如果我强行让他去面对陌生人的话",
+    "music": 0.0
+  },
+  {
+    "from": 503.289,
+    "to": 505.029,
+    "sid": 173,
+    "location": 2,
+    "content": "他就会越来越孤僻",
+    "music": 0.0
+  },
+  {
+    "from": 505.029,
+    "to": 508.53,
+    "sid": 174,
+    "location": 2,
+    "content": "他会觉得社交是件特别痛苦的事",
+    "music": 0.0
+  },
+  {
+    "from": 508.53,
+    "to": 511.57,
+    "sid": 175,
+    "location": 2,
+    "content": "我之前确实深受这件事的影响啊",
+    "music": 0.0
+  },
+  {
+    "from": 511.57,
+    "to": 515.15,
+    "sid": 176,
+    "location": 2,
+    "content": "不断的逼迫那个恐惧的我去面对恐惧",
+    "music": 0.0
+  },
+  {
+    "from": 515.15,
+    "to": 517.91,
+    "sid": 177,
+    "location": 2,
+    "content": "现在想想真的觉得很荒唐",
+    "music": 0.0
+  },
+  {
+    "from": 517.91,
+    "to": 523.12,
+    "sid": 178,
+    "location": 2,
+    "content": "让恐惧的人去面对恐惧本身就不太对啊",
+    "music": 0.0
+  },
+  {
+    "from": 523.12,
+    "to": 525.76,
+    "sid": 179,
+    "location": 2,
+    "content": "让勇敢的人去面对恐惧",
+    "music": 0.0
+  },
+  {
+    "from": 525.76,
+    "to": 528.2,
+    "sid": 180,
+    "location": 2,
+    "content": "让谨慎的人去处理细节",
+    "music": 0.0
+  },
+  {
+    "from": 528.2,
+    "to": 530.7,
+    "sid": 181,
+    "location": 2,
+    "content": "让真诚的人去和好朋友相处",
+    "music": 0.0
+  },
+  {
+    "from": 530.7,
+    "to": 533.43,
+    "sid": 182,
+    "location": 2,
+    "content": "每个角色都有他擅长的事儿",
+    "music": 0.0
+  },
+  {
+    "from": 533.43,
+    "to": 537.89,
+    "sid": 183,
+    "location": 2,
+    "content": "我花了好多好多年才真正搞明白这件事",
+    "music": 0.0
+  },
+  {
+    "from": 537.89,
+    "to": 544.33,
+    "sid": 184,
+    "location": 2,
+    "content": "而不是说知道是搞明白神经系统的并行不悖",
+    "music": 0.0
+  },
+  {
+    "from": 544.33,
+    "to": 549.79,
+    "sid": 185,
+    "location": 2,
+    "content": "和IFS内在家族系统理论如果联合起来",
+    "music": 0.0
+  },
+  {
+    "from": 549.95,
+    "to": 553.21,
+    "sid": 186,
+    "location": 2,
+    "content": "会产生一些非常有意思的东西",
+    "music": 0.0
+  },
+  {
+    "from": 553.21,
+    "to": 555.35,
+    "sid": 187,
+    "location": 2,
+    "content": "我们不只有一个人",
+    "music": 0.0
+  },
+  {
+    "from": 555.35,
+    "to": 557.64,
+    "sid": 188,
+    "location": 2,
+    "content": "而且这些人会同时存在",
+    "music": 0.0
+  },
+  {
+    "from": 557.64,
+    "to": 562.19,
+    "sid": 189,
+    "location": 2,
+    "content": "如果顺着这条思路去感受我们体内的各种分身",
+    "music": 0.0
+  },
+  {
+    "from": 562.19,
+    "to": 565.33,
+    "sid": 190,
+    "location": 2,
+    "content": "每一个想法就像我现在录制一样",
+    "music": 0.0
+  },
+  {
+    "from": 565.33,
+    "to": 569.04,
+    "sid": 191,
+    "location": 2,
+    "content": "我压根就不知道我会以什么样的表情在录制",
+    "music": 0.0
+  },
+  {
+    "from": 569.32,
+    "to": 572.44,
+    "sid": 192,
+    "location": 2,
+    "content": "他们并没有对错强弱啊",
+    "music": 0.0
+  },
+  {
+    "from": 572.44,
+    "to": 573.76,
+    "sid": 193,
+    "location": 2,
+    "content": "再往深一点",
+    "music": 0.0
+  },
+  {
+    "from": 573.76,
+    "to": 577.37,
+    "sid": 194,
+    "location": 2,
+    "content": "他们甚至可能没有好坏之分",
+    "music": 0.0
+  },
+  {
+    "from": 577.37,
+    "to": 580.12,
+    "sid": 195,
+    "location": 2,
+    "content": "我经常这样比喻",
+    "music": 0.0
+  },
+  {
+    "from": 580.12,
+    "to": 583.6,
+    "sid": 196,
+    "location": 2,
+    "content": "我把自己比作一个王国",
+    "music": 0.0
+  },
+  {
+    "from": 583.6,
+    "to": 588.57,
+    "sid": 197,
+    "location": 2,
+    "content": "我是国王麾下有很多很多不同的子民",
+    "music": 0.0
+  },
+  {
+    "from": 588.57,
+    "to": 590.17,
+    "sid": 198,
+    "location": 2,
+    "content": "不一样的性格",
+    "music": 0.0
+  },
+  {
+    "from": 590.17,
+    "to": 591.49,
+    "sid": 199,
+    "location": 2,
+    "content": "不一样的记忆",
+    "music": 0.0
+  },
+  {
+    "from": 591.49,
+    "to": 592.97,
+    "sid": 200,
+    "location": 2,
+    "content": "不一样的爱好",
+    "music": 0.0
+  },
+  {
+    "from": 592.97,
+    "to": 595.089,
+    "sid": 201,
+    "location": 2,
+    "content": "不一样的想法",
+    "music": 0.0
+  },
+  {
+    "from": 595.289,
+    "to": 598.149,
+    "sid": 202,
+    "location": 2,
+    "content": "对一件事有不一样的意见",
+    "music": 0.0
+  },
+  {
+    "from": 598.149,
+    "to": 603.079,
+    "sid": 203,
+    "location": 2,
+    "content": "同时我也是这个王国所有人的仆人",
+    "music": 0.0
+  },
+  {
+    "from": 603.079,
+    "to": 604.639,
+    "sid": 204,
+    "location": 2,
+    "content": "我要恭敬地",
+    "music": 0.0
+  },
+  {
+    "from": 604.639,
+    "to": 605.699,
+    "sid": 205,
+    "location": 2,
+    "content": "谦虚地",
+    "music": 0.0
+  },
+  {
+    "from": 605.699,
+    "to": 607.499,
+    "sid": 206,
+    "location": 2,
+    "content": "认真地听取",
+    "music": 0.0
+  },
+  {
+    "from": 607.499,
+    "to": 610.9,
+    "sid": 207,
+    "location": 2,
+    "content": "每一个是每一个角色的话",
+    "music": 0.0
+  },
+  {
+    "from": 610.9,
+    "to": 613.91,
+    "sid": 208,
+    "location": 2,
+    "content": "我要静静的侧耳倾听",
+    "music": 0.0
+  },
+  {
+    "from": 613.91,
+    "to": 616.69,
+    "sid": 209,
+    "location": 2,
+    "content": "听恐惧跟我说什么",
+    "music": 0.0
+  },
+  {
+    "from": 616.69,
+    "to": 619.29,
+    "sid": 210,
+    "location": 2,
+    "content": "听自卑在讲什么",
+    "music": 0.0
+  },
+  {
+    "from": 619.29,
+    "to": 620.61,
+    "sid": 211,
+    "location": 2,
+    "content": "听愤怒",
+    "music": 0.0
+  },
+  {
+    "from": 620.61,
+    "to": 625.68,
+    "sid": 212,
+    "location": 2,
+    "content": "为什么愤怒听嫉妒到底在渴望什么",
+    "music": 0.0
+  },
+  {
+    "from": 626.0,
+    "to": 628.3,
+    "sid": 213,
+    "location": 2,
+    "content": "他们都不是我",
+    "music": 0.0
+  },
+  {
+    "from": 628.3,
+    "to": 633.29,
+    "sid": 214,
+    "location": 2,
+    "content": "但他们都是我以前的我啊",
+    "music": 0.0
+  },
+  {
+    "from": 633.29,
+    "to": 636.19,
+    "sid": 215,
+    "location": 2,
+    "content": "很爱听那些正面情绪的话",
+    "music": 0.0
+  },
+  {
+    "from": 636.19,
+    "to": 638.77,
+    "sid": 216,
+    "location": 2,
+    "content": "比如说友善坦诚",
+    "music": 0.0
+  },
+  {
+    "from": 638.77,
+    "to": 640.73,
+    "sid": 217,
+    "location": 2,
+    "content": "勇敢热情",
+    "music": 0.0
+  },
+  {
+    "from": 640.73,
+    "to": 643.37,
+    "sid": 218,
+    "location": 2,
+    "content": "我非常喜欢听他们的",
+    "music": 0.0
+  },
+  {
+    "from": 643.37,
+    "to": 645.75,
+    "sid": 219,
+    "location": 2,
+    "content": "但在这个王国里",
+    "music": 0.0
+  },
+  {
+    "from": 645.75,
+    "to": 648.45,
+    "sid": 220,
+    "location": 2,
+    "content": "如果只信一部分人的话",
+    "music": 0.0
+  },
+  {
+    "from": 648.45,
+    "to": 650.17,
+    "sid": 221,
+    "location": 2,
+    "content": "那就会变得盲目",
+    "music": 0.0
+  },
+  {
+    "from": 650.17,
+    "to": 651.84,
+    "sid": 222,
+    "location": 2,
+    "content": "会变得分裂",
+    "music": 0.0
+  },
+  {
+    "from": 651.84,
+    "to": 658.11,
+    "sid": 223,
+    "location": 2,
+    "content": "所以我尝试仔细去听那些人性不好的面过去",
+    "music": 0.0
+  },
+  {
+    "from": 658.11,
+    "to": 661.79,
+    "sid": 224,
+    "location": 2,
+    "content": "我排斥的觉得一定是坏的东西",
+    "music": 0.0
+  },
+  {
+    "from": 661.79,
+    "to": 667.84,
+    "sid": 225,
+    "location": 2,
+    "content": "我学着去听一个字一个字的去听这件事啊",
+    "music": 0.0
+  },
+  {
+    "from": 667.84,
+    "to": 669.12,
+    "sid": 226,
+    "location": 2,
+    "content": "并不容易",
+    "music": 0.0
+  },
+  {
+    "from": 669.12,
+    "to": 673.16,
+    "sid": 227,
+    "location": 2,
+    "content": "比如说把羞耻放在手上",
+    "music": 0.0
+  },
+  {
+    "from": 673.16,
+    "to": 673.82,
+    "sid": 228,
+    "location": 2,
+    "content": "听",
+    "music": 0.0
+  },
+  {
+    "from": 673.82,
+    "to": 676.4,
+    "sid": 229,
+    "location": 2,
+    "content": "他想跟我说什么",
+    "music": 0.0
+  },
+  {
+    "from": 676.4,
+    "to": 679.0,
+    "sid": 230,
+    "location": 2,
+    "content": "一开始心里会很膈应",
+    "music": 0.0
+  },
+  {
+    "from": 679.0,
+    "to": 680.24,
+    "sid": 231,
+    "location": 2,
+    "content": "不舒服",
+    "music": 0.0
+  },
+  {
+    "from": 680.24,
+    "to": 682.86,
+    "sid": 232,
+    "location": 2,
+    "content": "因为他是羞耻吗",
+    "music": 0.0
+  },
+  {
+    "from": 682.86,
+    "to": 685.9,
+    "sid": 233,
+    "location": 2,
+    "content": "这种情感本身就是不舒服的",
+    "music": 0.0
+  },
+  {
+    "from": 685.9,
+    "to": 688.22,
+    "sid": 234,
+    "location": 2,
+    "content": "但一点儿一点儿开始做",
+    "music": 0.0
+  },
+  {
+    "from": 688.22,
+    "to": 690.48,
+    "sid": 235,
+    "location": 2,
+    "content": "从我自己能接受的程度",
+    "music": 0.0
+  },
+  {
+    "from": 690.48,
+    "to": 693.35,
+    "sid": 236,
+    "location": 2,
+    "content": "从我自己愿意尝试的程度去做",
+    "music": 0.0
+  },
+  {
+    "from": 693.35,
+    "to": 696.31,
+    "sid": 237,
+    "location": 2,
+    "content": "把羞耻一点点的先拿出来",
+    "music": 0.0
+  },
+  {
+    "from": 696.31,
+    "to": 702.089,
+    "sid": 238,
+    "location": 2,
+    "content": "一点放在手上去感受它没有那么可怕",
+    "music": 0.0
+  },
+  {
+    "from": 702.449,
+    "to": 705.269,
+    "sid": 239,
+    "location": 2,
+    "content": "在之后越来越多",
+    "music": 0.0
+  },
+  {
+    "from": 705.269,
+    "to": 707.069,
+    "sid": 240,
+    "location": 2,
+    "content": "越来越强烈",
+    "music": 0.0
+  },
+  {
+    "from": 707.069,
+    "to": 710.99,
+    "sid": 241,
+    "location": 2,
+    "content": "还有其他情感嫉妒",
+    "music": 0.0
+  },
+  {
+    "from": 710.99,
+    "to": 712.99,
+    "sid": 242,
+    "location": 2,
+    "content": "愤怒哦",
+    "music": 0.0
+  },
+  {
+    "from": 712.99,
+    "to": 715.57,
+    "sid": 243,
+    "location": 2,
+    "content": "愤怒他真的不好控制",
+    "music": 0.0
+  },
+  {
+    "from": 715.57,
+    "to": 717.23,
+    "sid": 244,
+    "location": 2,
+    "content": "他真的很狂躁",
+    "music": 0.0
+  },
+  {
+    "from": 717.23,
+    "to": 719.04,
+    "sid": 245,
+    "location": 2,
+    "content": "他很不好相处",
+    "music": 0.0
+  },
+  {
+    "from": 719.04,
+    "to": 721.72,
+    "sid": 246,
+    "location": 2,
+    "content": "而恐惧恐惧",
+    "music": 0.0
+  },
+  {
+    "from": 721.72,
+    "to": 724.24,
+    "sid": 247,
+    "location": 2,
+    "content": "它永远不会消失和消散",
+    "music": 0.0
+  },
+  {
+    "from": 724.6,
+    "to": 729.93,
+    "sid": 248,
+    "location": 2,
+    "content": "其实所有的分身他们都不会真正的消散消解",
+    "music": 0.0
+  },
+  {
+    "from": 729.93,
+    "to": 735.91,
+    "sid": 249,
+    "location": 2,
+    "content": "以前的我会通过玩游戏去做运动去消化它们",
+    "music": 0.0
+  },
+  {
+    "from": 735.91,
+    "to": 738.15,
+    "sid": 250,
+    "location": 2,
+    "content": "但我能清晰地感受到",
+    "music": 0.0
+  },
+  {
+    "from": 738.15,
+    "to": 741.909,
+    "sid": 251,
+    "location": 2,
+    "content": "他们依然还在每一个化身",
+    "music": 0.0
+  },
+  {
+    "from": 741.909,
+    "to": 743.349,
+    "sid": 252,
+    "location": 2,
+    "content": "每一个分身",
+    "music": 0.0
+  },
+  {
+    "from": 743.349,
+    "to": 745.609,
+    "sid": 253,
+    "location": 2,
+    "content": "他们都希望被看见",
+    "music": 0.0
+  },
+  {
+    "from": 745.609,
+    "to": 747.91,
+    "sid": 254,
+    "location": 2,
+    "content": "他们都希望表达自己",
+    "music": 0.0
+  },
+  {
+    "from": 747.91,
+    "to": 750.81,
+    "sid": 255,
+    "location": 2,
+    "content": "因为他们背后是有使命的",
+    "music": 0.0
+  },
+  {
+    "from": 750.81,
+    "to": 752.59,
+    "sid": 256,
+    "location": 2,
+    "content": "使命完成之前",
+    "music": 0.0
+  },
+  {
+    "from": 752.59,
+    "to": 754.85,
+    "sid": 257,
+    "location": 2,
+    "content": "他们不可能离开",
+    "music": 0.0
+  },
+  {
+    "from": 755.17,
+    "to": 758.94,
+    "sid": 258,
+    "location": 2,
+    "content": "愤怒的职责是为了保护边界",
+    "music": 0.0
+  },
+  {
+    "from": 758.94,
+    "to": 763.26,
+    "sid": 259,
+    "location": 2,
+    "content": "恐惧的职责是让我远离危险而",
+    "music": 0.0
+  },
+  {
+    "from": 763.26,
+    "to": 765.55,
+    "sid": 260,
+    "location": 2,
+    "content": "嫉妒的职责是什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 765.55,
+    "to": 766.73,
+    "sid": 261,
+    "location": 2,
+    "content": "他告诉我",
+    "music": 0.0
+  },
+  {
+    "from": 766.73,
+    "to": 767.99,
+    "sid": 262,
+    "location": 2,
+    "content": "我还想要",
+    "music": 0.0
+  },
+  {
+    "from": 767.99,
+    "to": 771.38,
+    "sid": 263,
+    "location": 2,
+    "content": "我还渴望我还可以变得更好",
+    "music": 0.0
+  },
+  {
+    "from": 771.38,
+    "to": 774.46,
+    "sid": 264,
+    "location": 2,
+    "content": "我还有提升自己的方向",
+    "music": 0.0
+  },
+  {
+    "from": 774.86,
+    "to": 780.02,
+    "sid": 265,
+    "location": 2,
+    "content": "每一个所谓的负面情绪都有职责在身",
+    "music": 0.0
+  },
+  {
+    "from": 780.02,
+    "to": 783.74,
+    "sid": 266,
+    "location": 2,
+    "content": "只是他们通过各自的方式去表现",
+    "music": 0.0
+  },
+  {
+    "from": 783.74,
+    "to": 784.87,
+    "sid": 267,
+    "location": 2,
+    "content": "去表达",
+    "music": 0.0
+  },
+  {
+    "from": 784.87,
+    "to": 787.17,
+    "sid": 268,
+    "location": 2,
+    "content": "当我们接受他们",
+    "music": 0.0
+  },
+  {
+    "from": 787.17,
+    "to": 788.55,
+    "sid": 269,
+    "location": 2,
+    "content": "当我们看到了",
+    "music": 0.0
+  },
+  {
+    "from": 788.55,
+    "to": 791.65,
+    "sid": 270,
+    "location": 2,
+    "content": "听到了他语言背后的语言",
+    "music": 0.0
+  },
+  {
+    "from": 791.65,
+    "to": 795.03,
+    "sid": 271,
+    "location": 2,
+    "content": "他到底想跟我们传达什么",
+    "music": 0.0
+  },
+  {
+    "from": 795.27,
+    "to": 797.75,
+    "sid": 272,
+    "location": 2,
+    "content": "我们把它放在怀里",
+    "music": 0.0
+  },
+  {
+    "from": 799.21,
+    "to": 801.33,
+    "sid": 273,
+    "location": 2,
+    "content": "带着她一起前进",
+    "music": 0.0
+  },
+  {
+    "from": 801.33,
+    "to": 807.01,
+    "sid": 274,
+    "location": 2,
+    "content": "这个时候反常识的事就会出现",
+    "music": 0.0
+  },
+  {
+    "from": 807.21,
+    "to": 810.13,
+    "sid": 275,
+    "location": 2,
+    "content": "他们不会再折磨我们了",
+    "music": 0.0
+  },
+  {
+    "from": 810.13,
+    "to": 814.33,
+    "sid": 276,
+    "location": 2,
+    "content": "他们反而会带给我们力量",
+    "music": 0.0
+  },
+  {
+    "from": 814.93,
+    "to": 819.31,
+    "sid": 277,
+    "location": 2,
+    "content": "人们总以为树根和树干是分开的",
+    "music": 0.0
+  },
+  {
+    "from": 819.31,
+    "to": 823.59,
+    "sid": 278,
+    "location": 2,
+    "content": "但一棵大树枝叶多么茂密",
+    "music": 0.0
+  },
+  {
+    "from": 823.59,
+    "to": 825.87,
+    "sid": 279,
+    "location": 2,
+    "content": "树干多么粗壮",
+    "music": 0.0
+  },
+  {
+    "from": 825.87,
+    "to": 828.67,
+    "sid": 280,
+    "location": 2,
+    "content": "顶端多么冲向蓝天",
+    "music": 0.0
+  },
+  {
+    "from": 828.67,
+    "to": 832.99,
+    "sid": 281,
+    "location": 2,
+    "content": "那它的根就以相同的粗壮",
+    "music": 0.0
+  },
+  {
+    "from": 832.99,
+    "to": 839.13,
+    "sid": 282,
+    "location": 2,
+    "content": "同样有力的深深的扎进那黑暗的地下",
+    "music": 0.0
+  },
+  {
+    "from": 839.52,
+    "to": 844.81,
+    "sid": 283,
+    "location": 2,
+    "content": "我曾经认为是树根供养着树干",
+    "music": 0.0
+  },
+  {
+    "from": 844.81,
+    "to": 848.51,
+    "sid": 284,
+    "location": 2,
+    "content": "但后来的我慢慢明白",
+    "music": 0.0
+  },
+  {
+    "from": 848.51,
+    "to": 852.02,
+    "sid": 285,
+    "location": 2,
+    "content": "树根就是树干",
+    "music": 0.0
+  },
+  {
+    "from": 853.28,
+    "to": 854.88,
+    "sid": 286,
+    "location": 2,
+    "content": "如果你喜欢这期视频",
+    "music": 0.0
+  },
+  {
+    "from": 854.88,
+    "to": 857.1,
+    "sid": 287,
+    "location": 2,
+    "content": "可以点赞收藏关注我",
+    "music": 0.0
+  },
+  {
+    "from": 857.1,
+    "to": 859.81,
+    "sid": 288,
+    "location": 2,
+    "content": "这对我真的很重要",
+    "music": 0.0
+  },
+  {
+    "from": 860.13,
+    "to": 862.89,
+    "sid": 289,
+    "location": 2,
+    "content": "我自己是这个王国的国王",
+    "music": 0.0
+  },
+  {
+    "from": 862.89,
+    "to": 864.72,
+    "sid": 290,
+    "location": 2,
+    "content": "也是他的仆人",
+    "music": 0.0
+  },
+  {
+    "from": 864.72,
+    "to": 867.78,
+    "sid": 291,
+    "location": 2,
+    "content": "这条路我走了很多年",
+    "music": 0.0
+  },
+  {
+    "from": 867.78,
+    "to": 869.5,
+    "sid": 292,
+    "location": 2,
+    "content": "现在还在走",
+    "music": 0.0
+  },
+  {
+    "from": 869.5,
+    "to": 871.36,
+    "sid": 293,
+    "location": 2,
+    "content": "我们下期见",
+    "music": 0.0
+  }
+]

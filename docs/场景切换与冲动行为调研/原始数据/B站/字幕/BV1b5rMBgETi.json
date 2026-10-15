@@ -1,0 +1,602 @@
+[
+  {
+    "from": 0.04,
+    "to": 1.6,
+    "sid": 1,
+    "location": 2,
+    "content": "我觉得意志力是一个消耗品",
+    "music": 0.0
+  },
+  {
+    "from": 1.6,
+    "to": 2.8,
+    "sid": 2,
+    "location": 2,
+    "content": "但是很多人都认识不到",
+    "music": 0.0
+  },
+  {
+    "from": 2.8,
+    "to": 5.62,
+    "sid": 3,
+    "location": 2,
+    "content": "就是可能你觉得你一直在全力的往前跑",
+    "music": 0.0
+  },
+  {
+    "from": 5.62,
+    "to": 6.58,
+    "sid": 4,
+    "location": 2,
+    "content": "但其实不知不觉间",
+    "music": 0.0
+  },
+  {
+    "from": 6.58,
+    "to": 7.72,
+    "sid": 5,
+    "location": 2,
+    "content": "你的速度已经下来了",
+    "music": 0.0
+  },
+  {
+    "from": 7.72,
+    "to": 8.7,
+    "sid": 6,
+    "location": 2,
+    "content": "确实花了时间",
+    "music": 0.0
+  },
+  {
+    "from": 8.7,
+    "to": 9.4,
+    "sid": 7,
+    "location": 2,
+    "content": "你也在做",
+    "music": 0.0
+  },
+  {
+    "from": 9.4,
+    "to": 12.23,
+    "sid": 8,
+    "location": 2,
+    "content": "但是嗯嗯你可能是一种麻木的状态",
+    "music": 0.0
+  },
+  {
+    "from": 12.23,
+    "to": 14.27,
+    "sid": 9,
+    "location": 2,
+    "content": "就是如果我查一下你的工作量",
+    "music": 0.0
+  },
+  {
+    "from": 14.27,
+    "to": 16.02,
+    "sid": 10,
+    "location": 2,
+    "content": "查一下你的效率其实不会很高",
+    "music": 0.0
+  },
+  {
+    "from": 16.02,
+    "to": 16.86,
+    "sid": 11,
+    "location": 2,
+    "content": "为什么会这样呢",
+    "music": 0.0
+  },
+  {
+    "from": 16.86,
+    "to": 18.26,
+    "sid": 12,
+    "location": 2,
+    "content": "就是因为你的意志被消耗完了",
+    "music": 0.0
+  },
+  {
+    "from": 18.26,
+    "to": 19.02,
+    "sid": 13,
+    "location": 2,
+    "content": "没有补充上",
+    "music": 0.0
+  },
+  {
+    "from": 19.02,
+    "to": 22.86,
+    "sid": 14,
+    "location": 2,
+    "content": "所以我会觉得就是不能一直一昧的往前跑",
+    "music": 0.0
+  },
+  {
+    "from": 22.86,
+    "to": 24.24,
+    "sid": 15,
+    "location": 2,
+    "content": "就是你偶尔也要停一停",
+    "music": 0.0
+  },
+  {
+    "from": 24.24,
+    "to": 25.64,
+    "sid": 16,
+    "location": 2,
+    "content": "你可以抬头看一看",
+    "music": 0.0
+  },
+  {
+    "from": 25.64,
+    "to": 26.42,
+    "sid": 17,
+    "location": 2,
+    "content": "看什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 26.42,
+    "to": 27.7,
+    "sid": 18,
+    "location": 2,
+    "content": "就是我很喜欢的一句话",
+    "music": 0.0
+  },
+  {
+    "from": 27.7,
+    "to": 30.44,
+    "sid": 19,
+    "location": 2,
+    "content": "就是用宏大的世界稀释痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 30.44,
+    "to": 32.08,
+    "sid": 20,
+    "location": 2,
+    "content": "从生活的小事感知幸福",
+    "music": 0.0
+  },
+  {
+    "from": 32.08,
+    "to": 32.8,
+    "sid": 21,
+    "location": 2,
+    "content": "就是你想嘛",
+    "music": 0.0
+  },
+  {
+    "from": 32.8,
+    "to": 34.32,
+    "sid": 22,
+    "location": 2,
+    "content": "为什么你的意志力会被消耗完呢",
+    "music": 0.0
+  },
+  {
+    "from": 34.32,
+    "to": 35.54,
+    "sid": 23,
+    "location": 2,
+    "content": "要么就是没有补充上",
+    "music": 0.0
+  },
+  {
+    "from": 35.54,
+    "to": 37.0,
+    "sid": 24,
+    "location": 2,
+    "content": "要么就是消耗的太快了",
+    "music": 0.0
+  },
+  {
+    "from": 37.0,
+    "to": 37.88,
+    "sid": 25,
+    "location": 2,
+    "content": "消耗的太快了",
+    "music": 0.0
+  },
+  {
+    "from": 37.88,
+    "to": 39.12,
+    "sid": 26,
+    "location": 2,
+    "content": "就是遇到了一些不好的事情",
+    "music": 0.0
+  },
+  {
+    "from": 39.12,
+    "to": 40.42,
+    "sid": 27,
+    "location": 2,
+    "content": "你感觉到痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 40.42,
+    "to": 41.48,
+    "sid": 28,
+    "location": 2,
+    "content": "你感觉到焦虑",
+    "music": 0.0
+  },
+  {
+    "from": 41.48,
+    "to": 43.0,
+    "sid": 29,
+    "location": 2,
+    "content": "这个时候你就可以抬头看一看",
+    "music": 0.0
+  },
+  {
+    "from": 43.0,
+    "to": 44.58,
+    "sid": 30,
+    "location": 2,
+    "content": "你看一看这广阔的天空",
+    "music": 0.0
+  },
+  {
+    "from": 44.58,
+    "to": 46.1,
+    "sid": 31,
+    "location": 2,
+    "content": "现在是晚上就变成星空",
+    "music": 0.0
+  },
+  {
+    "from": 46.1,
+    "to": 49.06,
+    "sid": 32,
+    "location": 2,
+    "content": "你会发现你在想的那件事情可能真的很小",
+    "music": 0.0
+  },
+  {
+    "from": 49.06,
+    "to": 50.82,
+    "sid": 33,
+    "location": 2,
+    "content": "就是你把这个维度拉长",
+    "music": 0.0
+  },
+  {
+    "from": 50.82,
+    "to": 51.9,
+    "sid": 34,
+    "location": 2,
+    "content": "把时间维度拉长",
+    "music": 0.0
+  },
+  {
+    "from": 51.9,
+    "to": 52.94,
+    "sid": 35,
+    "location": 2,
+    "content": "把空间维度拉大",
+    "music": 0.0
+  },
+  {
+    "from": 52.94,
+    "to": 53.5,
+    "sid": 36,
+    "location": 2,
+    "content": "就是你会发现",
+    "music": 0.0
+  },
+  {
+    "from": 53.5,
+    "to": 55.4,
+    "sid": 37,
+    "location": 2,
+    "content": "它可能真的是一件很小很小的事情",
+    "music": 0.0
+  },
+  {
+    "from": 55.4,
+    "to": 56.3,
+    "sid": 38,
+    "location": 2,
+    "content": "今晚作业没写完",
+    "music": 0.0
+  },
+  {
+    "from": 56.3,
+    "to": 56.86,
+    "sid": 39,
+    "location": 2,
+    "content": "怎么了呢",
+    "music": 0.0
+  },
+  {
+    "from": 56.86,
+    "to": 57.98,
+    "sid": 40,
+    "location": 2,
+    "content": "这次考试扣了20分",
+    "music": 0.0
+  },
+  {
+    "from": 57.98,
+    "to": 58.58,
+    "sid": 41,
+    "location": 2,
+    "content": "怎么了呢",
+    "music": 0.0
+  },
+  {
+    "from": 58.58,
+    "to": 59.78,
+    "sid": 42,
+    "location": 2,
+    "content": "同学和我闹矛盾了",
+    "music": 0.0
+  },
+  {
+    "from": 59.78,
+    "to": 60.34,
+    "sid": 43,
+    "location": 2,
+    "content": "怎么了呢",
+    "music": 0.0
+  },
+  {
+    "from": 60.34,
+    "to": 61.98,
+    "sid": 44,
+    "location": 2,
+    "content": "都是很小很小的事情",
+    "music": 0.0
+  },
+  {
+    "from": 61.98,
+    "to": 63.14,
+    "sid": 45,
+    "location": 2,
+    "content": "就有点像你现在想一想",
+    "music": 0.0
+  },
+  {
+    "from": 63.14,
+    "to": 64.14,
+    "sid": 46,
+    "location": 2,
+    "content": "你小学的时候对吧",
+    "music": 0.0
+  },
+  {
+    "from": 64.14,
+    "to": 65.62,
+    "sid": 47,
+    "location": 2,
+    "content": "你不会再为那些事情感到烦扰了",
+    "music": 0.0
+  },
+  {
+    "from": 65.62,
+    "to": 67.08,
+    "sid": 48,
+    "location": 2,
+    "content": "你觉得那就是很小很小的事情",
+    "music": 0.0
+  },
+  {
+    "from": 67.08,
+    "to": 68.76,
+    "sid": 49,
+    "location": 2,
+    "content": "所以试着去稀释一下痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 68.76,
+    "to": 70.74,
+    "sid": 50,
+    "location": 2,
+    "content": "这样的话就不会让你的意志力消耗的太快",
+    "music": 0.0
+  },
+  {
+    "from": 70.74,
+    "to": 72.6,
+    "sid": 51,
+    "location": 2,
+    "content": "然后关于补充就是感知幸福",
+    "music": 0.0
+  },
+  {
+    "from": 72.6,
+    "to": 75.74,
+    "sid": 52,
+    "location": 2,
+    "content": "因为我们现在就是拼的太麻木之后",
+    "music": 0.0
+  },
+  {
+    "from": 75.74,
+    "to": 78.08,
+    "sid": 53,
+    "location": 2,
+    "content": "你可能没有办法从小时候感觉到幸福",
+    "music": 0.0
+  },
+  {
+    "from": 78.08,
+    "to": 79.5,
+    "sid": 54,
+    "location": 2,
+    "content": "所以你抬头的时候想一想",
+    "music": 0.0
+  },
+  {
+    "from": 79.5,
+    "to": 81.2,
+    "sid": 55,
+    "location": 2,
+    "content": "是不是哪一次测验我们进步了呀",
+    "music": 0.0
+  },
+  {
+    "from": 81.2,
+    "to": 83.54,
+    "sid": 56,
+    "location": 2,
+    "content": "哎是不是哪一次我们睡觉睡的很香啊",
+    "music": 0.0
+  },
+  {
+    "from": 83.54,
+    "to": 85.54,
+    "sid": 57,
+    "location": 2,
+    "content": "诶是不是放学的时候老师夸了我一句",
+    "music": 0.0
+  },
+  {
+    "from": 85.54,
+    "to": 86.76,
+    "sid": 58,
+    "location": 2,
+    "content": "我感到很开心啊",
+    "music": 0.0
+  },
+  {
+    "from": 86.76,
+    "to": 87.2,
+    "sid": 59,
+    "location": 2,
+    "content": "这些东西",
+    "music": 0.0
+  },
+  {
+    "from": 87.2,
+    "to": 90.02,
+    "sid": 60,
+    "location": 2,
+    "content": "你可能当下看起来好像就是很小很小的幸福",
+    "music": 0.0
+  },
+  {
+    "from": 90.02,
+    "to": 91.12,
+    "sid": 61,
+    "location": 2,
+    "content": "但是你感知到它",
+    "music": 0.0
+  },
+  {
+    "from": 91.12,
+    "to": 92.24,
+    "sid": 62,
+    "location": 2,
+    "content": "你把它储备起来",
+    "music": 0.0
+  },
+  {
+    "from": 92.24,
+    "to": 95.11,
+    "sid": 63,
+    "location": 2,
+    "content": "其实可以在你不开心的时候做抵抗",
+    "music": 0.0
+  },
+  {
+    "from": 95.11,
+    "to": 97.33,
+    "sid": 64,
+    "location": 2,
+    "content": "你的动力就是这么一点一点累加起来的",
+    "music": 0.0
+  },
+  {
+    "from": 97.33,
+    "to": 99.05,
+    "sid": 65,
+    "location": 2,
+    "content": "所以我是觉得就你现在这么努力",
+    "music": 0.0
+  },
+  {
+    "from": 99.05,
+    "to": 99.53,
+    "sid": 66,
+    "location": 2,
+    "content": "这么用功",
+    "music": 0.0
+  },
+  {
+    "from": 99.53,
+    "to": 100.31,
+    "sid": 67,
+    "location": 2,
+    "content": "也这么辛苦",
+    "music": 0.0
+  },
+  {
+    "from": 100.31,
+    "to": 101.99,
+    "sid": 68,
+    "location": 2,
+    "content": "就是还是要稍微停下来",
+    "music": 0.0
+  },
+  {
+    "from": 101.99,
+    "to": 102.79,
+    "sid": 69,
+    "location": 2,
+    "content": "抬头看一看",
+    "music": 0.0
+  },
+  {
+    "from": 102.79,
+    "to": 103.79,
+    "sid": 70,
+    "location": 2,
+    "content": "稀释一下痛苦",
+    "music": 0.0
+  },
+  {
+    "from": 103.79,
+    "to": 104.93,
+    "sid": 71,
+    "location": 2,
+    "content": "也感知一下幸福",
+    "music": 0.0
+  },
+  {
+    "from": 104.93,
+    "to": 106.48,
+    "sid": 72,
+    "location": 2,
+    "content": "可能会让我们走的更远",
+    "music": 0.0
+  },
+  {
+    "from": 106.48,
+    "to": 109.96,
+    "sid": 73,
+    "location": 2,
+    "content": "得不坚定",
+    "music": 0.9999999193548451
+  },
+  {
+    "from": 111.52,
+    "to": 116.56,
+    "sid": 74,
+    "location": 2,
+    "content": "陪我颠沛流离",
+    "music": 0.9999999549549571
+  },
+  {
+    "from": 119.02,
+    "to": 121.32,
+    "sid": 75,
+    "location": 2,
+    "content": "丝之中",
+    "music": 0.9999999122807094
+  }
+]

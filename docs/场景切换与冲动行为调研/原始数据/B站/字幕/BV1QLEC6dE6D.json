@@ -1,0 +1,370 @@
+[
+  {
+    "from": 0.08,
+    "to": 3.71,
+    "sid": 1,
+    "location": 2,
+    "content": "今天我们讲心智犹疑",
+    "music": 0.0
+  },
+  {
+    "from": 3.71,
+    "to": 5.37,
+    "sid": 2,
+    "location": 2,
+    "content": "你是不是也常常这样",
+    "music": 0.0
+  },
+  {
+    "from": 5.37,
+    "to": 6.91,
+    "sid": 3,
+    "location": 2,
+    "content": "开会时眼神放空",
+    "music": 0.0
+  },
+  {
+    "from": 6.91,
+    "to": 8.6,
+    "sid": 4,
+    "location": 2,
+    "content": "思绪飘到了别处",
+    "music": 0.0
+  },
+  {
+    "from": 8.6,
+    "to": 10.0,
+    "sid": 5,
+    "location": 2,
+    "content": "看书时翻了好几页",
+    "music": 0.0
+  },
+  {
+    "from": 10.0,
+    "to": 11.4,
+    "sid": 6,
+    "location": 2,
+    "content": "一个字都没读进去",
+    "music": 0.0
+  },
+  {
+    "from": 11.4,
+    "to": 14.64,
+    "sid": 7,
+    "location": 2,
+    "content": "然后心里暗暗责怪自己怎么又走神了",
+    "music": 0.0
+  },
+  {
+    "from": 14.64,
+    "to": 18.15,
+    "sid": 8,
+    "location": 2,
+    "content": "但你有没有想过洗澡时冒出的好点子",
+    "music": 0.0
+  },
+  {
+    "from": 18.15,
+    "to": 20.53,
+    "sid": 9,
+    "location": 2,
+    "content": "散步时突然想通的难题",
+    "music": 0.0
+  },
+  {
+    "from": 20.53,
+    "to": 22.65,
+    "sid": 10,
+    "location": 2,
+    "content": "也是在你走神的时候发生的",
+    "music": 0.0
+  },
+  {
+    "from": 22.65,
+    "to": 26.41,
+    "sid": 11,
+    "location": 2,
+    "content": "心理学上有一个概念叫做心智游移",
+    "music": 0.0
+  },
+  {
+    "from": 26.41,
+    "to": 28.67,
+    "sid": 12,
+    "location": 2,
+    "content": "就是俗称的走神",
+    "music": 0.0
+  },
+  {
+    "from": 28.67,
+    "to": 31.87,
+    "sid": 13,
+    "location": 2,
+    "content": "研究发现走神不是大脑在偷懒",
+    "music": 0.0
+  },
+  {
+    "from": 31.87,
+    "to": 34.13,
+    "sid": 14,
+    "location": 2,
+    "content": "而是他在进行后台运算",
+    "music": 0.0
+  },
+  {
+    "from": 34.13,
+    "to": 35.89,
+    "sid": 15,
+    "location": 2,
+    "content": "整合信息连接想法",
+    "music": 0.0
+  },
+  {
+    "from": 35.89,
+    "to": 36.23,
+    "sid": 16,
+    "location": 2,
+    "content": "规划",
+    "music": 0.0
+  },
+  {
+    "from": 36.23,
+    "to": 38.8,
+    "sid": 17,
+    "location": 2,
+    "content": "未来很多创造性的突破",
+    "music": 0.0
+  },
+  {
+    "from": 38.8,
+    "to": 41.14,
+    "sid": 18,
+    "location": 2,
+    "content": "都不是在拼命专注时出现的",
+    "music": 0.0
+  },
+  {
+    "from": 41.14,
+    "to": 45.01,
+    "sid": 19,
+    "location": 2,
+    "content": "而是在放松走神的那一刻灵光一现",
+    "music": 0.0
+  },
+  {
+    "from": 45.01,
+    "to": 46.47,
+    "sid": 20,
+    "location": 2,
+    "content": "所以走神不是病",
+    "music": 0.0
+  },
+  {
+    "from": 46.47,
+    "to": 50.25,
+    "sid": 21,
+    "location": 2,
+    "content": "它是大脑在你看不见的地方默默工作",
+    "music": 0.0
+  },
+  {
+    "from": 50.25,
+    "to": 54.85,
+    "sid": 22,
+    "location": 2,
+    "content": "关键在于区分无意义的涣散和有生产力的神游",
+    "music": 0.0
+  },
+  {
+    "from": 54.85,
+    "to": 57.49,
+    "sid": 23,
+    "location": 2,
+    "content": "如果你在做重要任务时反复走神",
+    "music": 0.0
+  },
+  {
+    "from": 57.49,
+    "to": 59.09,
+    "sid": 24,
+    "location": 2,
+    "content": "那不是神游的价值",
+    "music": 0.0
+  },
+  {
+    "from": 59.09,
+    "to": 61.37,
+    "sid": 25,
+    "location": 2,
+    "content": "是注意力需要调整的信号",
+    "music": 0.0
+  },
+  {
+    "from": 61.37,
+    "to": 63.45,
+    "sid": 26,
+    "location": 2,
+    "content": "而如果你已经专注了一段时间",
+    "music": 0.0
+  },
+  {
+    "from": 63.45,
+    "to": 66.32,
+    "sid": 27,
+    "location": 2,
+    "content": "允许自己走神5分钟去散个步",
+    "music": 0.0
+  },
+  {
+    "from": 66.32,
+    "to": 66.76,
+    "sid": 28,
+    "location": 2,
+    "content": "洗个澡",
+    "music": 0.0
+  },
+  {
+    "from": 66.76,
+    "to": 67.6,
+    "sid": 29,
+    "location": 2,
+    "content": "发会儿呆",
+    "music": 0.0
+  },
+  {
+    "from": 67.6,
+    "to": 69.76,
+    "sid": 30,
+    "location": 2,
+    "content": "那可能是在为灵感铺路",
+    "music": 0.0
+  },
+  {
+    "from": 69.76,
+    "to": 73.06,
+    "sid": 31,
+    "location": 2,
+    "content": "你可以尝试把走神分成两种",
+    "music": 0.0
+  },
+  {
+    "from": 73.06,
+    "to": 74.16,
+    "sid": 32,
+    "location": 2,
+    "content": "一种需要管理",
+    "music": 0.0
+  },
+  {
+    "from": 74.16,
+    "to": 76.56,
+    "sid": 33,
+    "location": 2,
+    "content": "一种可以邀请重要任务时",
+    "music": 0.0
+  },
+  {
+    "from": 76.56,
+    "to": 78.49,
+    "sid": 34,
+    "location": 2,
+    "content": "用番茄钟保护专注",
+    "music": 0.0
+  },
+  {
+    "from": 78.49,
+    "to": 80.85,
+    "sid": 35,
+    "location": 2,
+    "content": "走神了就把思绪轻轻拉回来",
+    "music": 0.0
+  },
+  {
+    "from": 80.85,
+    "to": 82.45,
+    "sid": 36,
+    "location": 2,
+    "content": "完成一段专注后",
+    "music": 0.0
+  },
+  {
+    "from": 82.45,
+    "to": 85.49,
+    "sid": 37,
+    "location": 2,
+    "content": "主动给自己一段心智犹疑的时间",
+    "music": 0.0
+  },
+  {
+    "from": 85.49,
+    "to": 86.29,
+    "sid": 38,
+    "location": 2,
+    "content": "不刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 86.29,
+    "to": 87.1,
+    "sid": 39,
+    "location": 2,
+    "content": "不追剧",
+    "music": 0.0
+  },
+  {
+    "from": 87.1,
+    "to": 89.6,
+    "sid": 40,
+    "location": 2,
+    "content": "只是散步洗澡或者看着窗外",
+    "music": 0.0
+  },
+  {
+    "from": 89.6,
+    "to": 90.72,
+    "sid": 41,
+    "location": 2,
+    "content": "请记住",
+    "music": 0.0
+  },
+  {
+    "from": 90.72,
+    "to": 92.44,
+    "sid": 42,
+    "location": 2,
+    "content": "你不是在浪费时间",
+    "music": 0.0
+  },
+  {
+    "from": 92.44,
+    "to": 95.77,
+    "sid": 43,
+    "location": 2,
+    "content": "你是在给大脑创造后台运算的机会",
+    "music": 0.0
+  },
+  {
+    "from": 95.77,
+    "to": 98.45,
+    "sid": 44,
+    "location": 2,
+    "content": "真正的效率不是永远专注",
+    "music": 0.0
+  },
+  {
+    "from": 98.45,
+    "to": 100.29,
+    "sid": 45,
+    "location": 2,
+    "content": "而是知道什么时候该专注",
+    "music": 0.0
+  },
+  {
+    "from": 100.29,
+    "to": 101.76,
+    "sid": 46,
+    "location": 2,
+    "content": "什么时候该犹疑",
+    "music": 0.0
+  }
+]

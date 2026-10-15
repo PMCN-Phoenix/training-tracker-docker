@@ -1,0 +1,1346 @@
+[
+  {
+    "from": 0.04,
+    "to": 0.9,
+    "sid": 1,
+    "location": 2,
+    "content": "10月14号",
+    "music": 0.0
+  },
+  {
+    "from": 0.9,
+    "to": 2.28,
+    "sid": 2,
+    "location": 2,
+    "content": "一条热搜冲了上来",
+    "music": 0.0
+  },
+  {
+    "from": 2.28,
+    "to": 3.0,
+    "sid": 3,
+    "location": 2,
+    "content": "五个字",
+    "music": 0.0
+  },
+  {
+    "from": 3.0,
+    "to": 6.34,
+    "sid": 4,
+    "location": 2,
+    "content": "刷短剧降智底下几万条留言",
+    "music": 0.0
+  },
+  {
+    "from": 6.34,
+    "to": 7.02,
+    "sid": 5,
+    "location": 2,
+    "content": "好多人都在说",
+    "music": 0.0
+  },
+  {
+    "from": 7.02,
+    "to": 8.42,
+    "sid": 6,
+    "location": 2,
+    "content": "自己一刷就是十几个小时",
+    "music": 0.0
+  },
+  {
+    "from": 8.42,
+    "to": 9.1,
+    "sid": 7,
+    "location": 2,
+    "content": "放下手机",
+    "music": 0.0
+  },
+  {
+    "from": 9.1,
+    "to": 10.64,
+    "sid": 8,
+    "location": 2,
+    "content": "脑子像塞了一团棉花",
+    "music": 0.0
+  },
+  {
+    "from": 10.64,
+    "to": 12.08,
+    "sid": 9,
+    "location": 2,
+    "content": "为什么会有这种感觉",
+    "music": 0.0
+  },
+  {
+    "from": 12.08,
+    "to": 13.85,
+    "sid": 10,
+    "location": 2,
+    "content": "先别急着骂自己不自律",
+    "music": 0.0
+  },
+  {
+    "from": 13.85,
+    "to": 15.93,
+    "sid": 11,
+    "location": 2,
+    "content": "今天我们把这件事拆开",
+    "music": 0.0
+  },
+  {
+    "from": 15.93,
+    "to": 18.57,
+    "sid": 12,
+    "location": 2,
+    "content": "短剧是怎么一步步把你留住的",
+    "music": 0.0
+  },
+  {
+    "from": 18.57,
+    "to": 20.49,
+    "sid": 13,
+    "location": 2,
+    "content": "还有那种变笨的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 20.49,
+    "to": 22.03,
+    "sid": 14,
+    "location": 2,
+    "content": "到底是不是真的",
+    "music": 0.0
+  },
+  {
+    "from": 22.03,
+    "to": 23.52,
+    "sid": 15,
+    "location": 2,
+    "content": "先看一个数字",
+    "music": 0.0
+  },
+  {
+    "from": 23.52,
+    "to": 24.56,
+    "sid": 16,
+    "location": 2,
+    "content": "有媒体报道",
+    "music": 0.0
+  },
+  {
+    "from": 24.56,
+    "to": 25.66,
+    "sid": 17,
+    "location": 2,
+    "content": "某短句应用",
+    "music": 0.0
+  },
+  {
+    "from": 25.66,
+    "to": 29.2,
+    "sid": 18,
+    "location": 2,
+    "content": "今年8月的日均使用时长是125分钟",
+    "music": 0.0
+  },
+  {
+    "from": 29.2,
+    "to": 30.38,
+    "sid": 19,
+    "location": 2,
+    "content": "这只是平均值",
+    "music": 0.0
+  },
+  {
+    "from": 30.38,
+    "to": 34.1,
+    "sid": 20,
+    "location": 2,
+    "content": "而重度用户的字数是一天十个小时以上",
+    "music": 0.0
+  },
+  {
+    "from": 34.1,
+    "to": 35.5,
+    "sid": 21,
+    "location": 2,
+    "content": "十个小时是什么概念",
+    "music": 0.0
+  },
+  {
+    "from": 35.5,
+    "to": 36.4,
+    "sid": 22,
+    "location": 2,
+    "content": "除了睡觉",
+    "music": 0.0
+  },
+  {
+    "from": 36.4,
+    "to": 38.13,
+    "sid": 23,
+    "location": 2,
+    "content": "你的时间几乎全给了他",
+    "music": 0.0
+  },
+  {
+    "from": 38.13,
+    "to": 40.71,
+    "sid": 24,
+    "location": 2,
+    "content": "你打开它可能只用了一秒钟",
+    "music": 0.0
+  },
+  {
+    "from": 40.71,
+    "to": 43.17,
+    "sid": 25,
+    "location": 2,
+    "content": "一集短剧通常只有一分多钟",
+    "music": 0.0
+  },
+  {
+    "from": 43.17,
+    "to": 44.63,
+    "sid": 26,
+    "location": 2,
+    "content": "但就是这一分多钟",
+    "music": 0.0
+  },
+  {
+    "from": 44.63,
+    "to": 46.99,
+    "sid": 27,
+    "location": 2,
+    "content": "开头三秒必须抛出冲突",
+    "music": 0.0
+  },
+  {
+    "from": 46.99,
+    "to": 48.45,
+    "sid": 28,
+    "location": 2,
+    "content": "离婚被打脸",
+    "music": 0.0
+  },
+  {
+    "from": 48.45,
+    "to": 49.67,
+    "sid": 29,
+    "location": 2,
+    "content": "被赶出家门",
+    "music": 0.0
+  },
+  {
+    "from": 49.67,
+    "to": 51.91,
+    "sid": 30,
+    "location": 2,
+    "content": "十秒之内必须来一个反转",
+    "music": 0.0
+  },
+  {
+    "from": 51.91,
+    "to": 54.04,
+    "sid": 31,
+    "location": 2,
+    "content": "一集里反转能有3~5个",
+    "music": 0.0
+  },
+  {
+    "from": 54.04,
+    "to": 57.5,
+    "sid": 32,
+    "location": 2,
+    "content": "而且每一集的结尾都留着一个没说完的悬念",
+    "music": 0.0
+  },
+  {
+    "from": 57.5,
+    "to": 59.43,
+    "sid": 33,
+    "location": 2,
+    "content": "这个悬念就像鱼线上的钩子",
+    "music": 0.0
+  },
+  {
+    "from": 59.43,
+    "to": 61.45,
+    "sid": 34,
+    "location": 2,
+    "content": "你明知道下一集未必更好看",
+    "music": 0.0
+  },
+  {
+    "from": 61.45,
+    "to": 62.79,
+    "sid": 35,
+    "location": 2,
+    "content": "可你还是想知道",
+    "music": 0.0
+  },
+  {
+    "from": 62.79,
+    "to": 64.819,
+    "sid": 36,
+    "location": 2,
+    "content": "后来呢更关键的是",
+    "music": 0.0
+  },
+  {
+    "from": 64.819,
+    "to": 66.059,
+    "sid": 37,
+    "location": 2,
+    "content": "它是免费看的",
+    "music": 0.0
+  },
+  {
+    "from": 66.059,
+    "to": 69.62,
+    "sid": 38,
+    "location": 2,
+    "content": "他真正赚钱的方式是让你一直留在屏幕前",
+    "music": 0.0
+  },
+  {
+    "from": 69.62,
+    "to": 72.7,
+    "sid": 39,
+    "location": 2,
+    "content": "你停留的每一分钟都会变成他的收入",
+    "music": 0.0
+  },
+  {
+    "from": 72.7,
+    "to": 74.99,
+    "sid": 40,
+    "location": 2,
+    "content": "而你的时间就是这么一分钟",
+    "music": 0.0
+  },
+  {
+    "from": 74.99,
+    "to": 76.71,
+    "sid": 41,
+    "location": 2,
+    "content": "一分钟被花掉的",
+    "music": 0.0
+  },
+  {
+    "from": 76.71,
+    "to": 78.9,
+    "sid": 42,
+    "location": 2,
+    "content": "说到这儿得先纠正一个误会",
+    "music": 0.0
+  },
+  {
+    "from": 78.9,
+    "to": 81.16,
+    "sid": 43,
+    "location": 2,
+    "content": "多巴胺其实不是快乐物质",
+    "music": 0.0
+  },
+  {
+    "from": 81.16,
+    "to": 83.32,
+    "sid": 44,
+    "location": 2,
+    "content": "它更像是一种想要的物质",
+    "music": 0.0
+  },
+  {
+    "from": 83.32,
+    "to": 84.72,
+    "sid": 45,
+    "location": 2,
+    "content": "神经科学家发现",
+    "music": 0.0
+  },
+  {
+    "from": 84.72,
+    "to": 86.34,
+    "sid": 46,
+    "location": 2,
+    "content": "多巴胺大量释放的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 86.34,
+    "to": 88.42,
+    "sid": 47,
+    "location": 2,
+    "content": "往往不是在你得到奖励的时候",
+    "music": 0.0
+  },
+  {
+    "from": 88.42,
+    "to": 90.52,
+    "sid": 48,
+    "location": 2,
+    "content": "而是在你预期奖励的时候",
+    "music": 0.0
+  },
+  {
+    "from": 90.52,
+    "to": 95.37,
+    "sid": 49,
+    "location": 2,
+    "content": "哼说白了真正让你上瘾的是那句话",
+    "music": 0.0
+  },
+  {
+    "from": 95.37,
+    "to": 97.75,
+    "sid": 50,
+    "location": 2,
+    "content": "下一个会不会更好",
+    "music": 0.0
+  },
+  {
+    "from": 97.75,
+    "to": 101.449,
+    "sid": 51,
+    "location": 2,
+    "content": "而其中最让人停不下来的是不确定",
+    "music": 0.0
+  },
+  {
+    "from": 101.449,
+    "to": 104.669,
+    "sid": 52,
+    "location": 2,
+    "content": "20世纪心理学家做过一个著名的实验",
+    "music": 0.0
+  },
+  {
+    "from": 104.669,
+    "to": 107.29,
+    "sid": 53,
+    "location": 2,
+    "content": "当奖励变得随机不确定时",
+    "music": 0.0
+  },
+  {
+    "from": 107.29,
+    "to": 110.79,
+    "sid": 54,
+    "location": 2,
+    "content": "动物按压杠杆的次数会远远超过奖励",
+    "music": 0.0
+  },
+  {
+    "from": 110.79,
+    "to": 111.81,
+    "sid": 55,
+    "location": 2,
+    "content": "固定的时候",
+    "music": 0.0
+  },
+  {
+    "from": 111.81,
+    "to": 113.85,
+    "sid": 56,
+    "location": 2,
+    "content": "老虎机是这个原理",
+    "music": 0.0
+  },
+  {
+    "from": 113.85,
+    "to": 118.24,
+    "sid": 57,
+    "location": 2,
+    "content": "短句也是你永远猜不到下一个反转是什么",
+    "music": 0.0
+  },
+  {
+    "from": 118.24,
+    "to": 120.7,
+    "sid": 58,
+    "location": 2,
+    "content": "所以你的手指就永远停不下来",
+    "music": 0.0
+  },
+  {
+    "from": 120.7,
+    "to": 124.22,
+    "sid": 59,
+    "location": 2,
+    "content": "每一次下滑其实都是一次小小的下注",
+    "music": 0.0
+  },
+  {
+    "from": 124.22,
+    "to": 125.34,
+    "sid": 60,
+    "location": 2,
+    "content": "你不亏钱",
+    "music": 0.0
+  },
+  {
+    "from": 125.34,
+    "to": 127.22,
+    "sid": 61,
+    "location": 2,
+    "content": "你亏的是时间",
+    "music": 0.0
+  },
+  {
+    "from": 127.22,
+    "to": 129.769,
+    "sid": 62,
+    "location": 2,
+    "content": "那这么一直刺激下去会发生什么",
+    "music": 0.0
+  },
+  {
+    "from": 129.769,
+    "to": 132.81,
+    "sid": 63,
+    "location": 2,
+    "content": "浙江有位临床心理科的医生给了一个说法",
+    "music": 0.0
+  },
+  {
+    "from": 132.81,
+    "to": 134.73,
+    "sid": 64,
+    "location": 2,
+    "content": "多巴胺储备透支",
+    "music": 0.0
+  },
+  {
+    "from": 134.73,
+    "to": 137.71,
+    "sid": 65,
+    "location": 2,
+    "content": "意思是短剧里那些密集的反转",
+    "music": 0.0
+  },
+  {
+    "from": 137.71,
+    "to": 140.67,
+    "sid": 66,
+    "location": 2,
+    "content": "让你的大脑一直处在被动兴奋的状态",
+    "music": 0.0
+  },
+  {
+    "from": 140.67,
+    "to": 142.01,
+    "sid": 67,
+    "location": 2,
+    "content": "一次两次没事",
+    "music": 0.0
+  },
+  {
+    "from": 142.01,
+    "to": 143.07,
+    "sid": 68,
+    "location": 2,
+    "content": "可时间一长",
+    "music": 0.0
+  },
+  {
+    "from": 143.07,
+    "to": 145.69,
+    "sid": 69,
+    "location": 2,
+    "content": "大脑就习惯了这种高强度的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 145.69,
+    "to": 147.93,
+    "sid": 70,
+    "location": 2,
+    "content": "他把阈值一点点抬高了",
+    "music": 0.0
+  },
+  {
+    "from": 147.93,
+    "to": 149.42,
+    "sid": 71,
+    "location": 2,
+    "content": "就像吃辣",
+    "music": 0.0
+  },
+  {
+    "from": 149.42,
+    "to": 151.82,
+    "sid": 72,
+    "location": 2,
+    "content": "吃惯了重辣清汤面",
+    "music": 0.0
+  },
+  {
+    "from": 151.82,
+    "to": 152.98,
+    "sid": 73,
+    "location": 2,
+    "content": "就变得没味道",
+    "music": 0.0
+  },
+  {
+    "from": 152.98,
+    "to": 156.14,
+    "sid": 74,
+    "location": 2,
+    "content": "结果就是现实里那些慢一点的事",
+    "music": 0.0
+  },
+  {
+    "from": 156.14,
+    "to": 157.69,
+    "sid": 75,
+    "location": 2,
+    "content": "变得越来越难忍",
+    "music": 0.0
+  },
+  {
+    "from": 157.69,
+    "to": 158.75,
+    "sid": 76,
+    "location": 2,
+    "content": "一本书翻两页",
+    "music": 0.0
+  },
+  {
+    "from": 158.75,
+    "to": 159.87,
+    "sid": 77,
+    "location": 2,
+    "content": "就想拿起手机",
+    "music": 0.0
+  },
+  {
+    "from": 159.87,
+    "to": 161.41,
+    "sid": 78,
+    "location": 2,
+    "content": "一部电影要开三倍速",
+    "music": 0.0
+  },
+  {
+    "from": 161.41,
+    "to": 164.24,
+    "sid": 79,
+    "location": 2,
+    "content": "连安安静静听完一首歌都变得困难",
+    "music": 0.0
+  },
+  {
+    "from": 164.24,
+    "to": 166.16,
+    "sid": 80,
+    "location": 2,
+    "content": "这就是很多人说的变笨",
+    "music": 0.0
+  },
+  {
+    "from": 166.16,
+    "to": 167.28,
+    "sid": 81,
+    "location": 2,
+    "content": "不是智商掉了",
+    "music": 0.0
+  },
+  {
+    "from": 167.28,
+    "to": 170.78,
+    "sid": 82,
+    "location": 2,
+    "content": "而是你的注意力被训练成了只有一秒钟的耐心",
+    "music": 0.0
+  },
+  {
+    "from": 170.78,
+    "to": 172.68,
+    "sid": 83,
+    "location": 2,
+    "content": "哎想明白这一点",
+    "music": 0.0
+  },
+  {
+    "from": 172.68,
+    "to": 174.62,
+    "sid": 84,
+    "location": 2,
+    "content": "你就知道这不是你的错",
+    "music": 0.0
+  },
+  {
+    "from": 174.62,
+    "to": 175.92,
+    "sid": 85,
+    "location": 2,
+    "content": "更有意思的是",
+    "music": 0.0
+  },
+  {
+    "from": 175.92,
+    "to": 178.84,
+    "sid": 86,
+    "location": 2,
+    "content": "这个现象早就有人给它起过名字",
+    "music": 0.0
+  },
+  {
+    "from": 178.84,
+    "to": 179.96,
+    "sid": 87,
+    "location": 2,
+    "content": "2024年",
+    "music": 0.0
+  },
+  {
+    "from": 179.96,
+    "to": 183.63,
+    "sid": 88,
+    "location": 2,
+    "content": "牛津词典把脑斧这个词选成了年度词汇",
+    "music": 0.0
+  },
+  {
+    "from": 183.63,
+    "to": 187.22,
+    "sid": 89,
+    "location": 2,
+    "content": "它的英文原词直译过来就是脑子腐烂",
+    "music": 0.0
+  },
+  {
+    "from": 187.22,
+    "to": 190.6,
+    "sid": 90,
+    "location": 2,
+    "content": "而这个说法第一次出现是在1854年",
+    "music": 0.0
+  },
+  {
+    "from": 190.6,
+    "to": 192.64,
+    "sid": 91,
+    "location": 2,
+    "content": "比手机早了100多年",
+    "music": 0.0
+  },
+  {
+    "from": 192.64,
+    "to": 195.02,
+    "sid": 92,
+    "location": 2,
+    "content": "梭罗在瓦尔登湖里写过一句话",
+    "music": 0.0
+  },
+  {
+    "from": 195.02,
+    "to": 197.62,
+    "sid": 93,
+    "location": 2,
+    "content": "英国人在努力治土豆的腐烂",
+    "music": 0.0
+  },
+  {
+    "from": 197.62,
+    "to": 200.78,
+    "sid": 94,
+    "location": 2,
+    "content": "怎么没有人来治一治脑子里的腐烂",
+    "music": 0.0
+  },
+  {
+    "from": 200.78,
+    "to": 202.22,
+    "sid": 95,
+    "location": 2,
+    "content": "那时候没有手机",
+    "music": 0.0
+  },
+  {
+    "from": 202.22,
+    "to": 203.38,
+    "sid": 96,
+    "location": 2,
+    "content": "也没有短剧",
+    "music": 0.0
+  },
+  {
+    "from": 203.38,
+    "to": 204.66,
+    "sid": 97,
+    "location": 2,
+    "content": "他抱怨的是",
+    "music": 0.0
+  },
+  {
+    "from": 204.66,
+    "to": 206.4,
+    "sid": 98,
+    "location": 2,
+    "content": "人们宁可看无聊的东西",
+    "music": 0.0
+  },
+  {
+    "from": 206.4,
+    "to": 208.029,
+    "sid": 99,
+    "location": 2,
+    "content": "也不肯读一本好书",
+    "music": 0.0
+  },
+  {
+    "from": 208.029,
+    "to": 209.689,
+    "sid": 100,
+    "location": 2,
+    "content": "170年过去了",
+    "music": 0.0
+  },
+  {
+    "from": 209.689,
+    "to": 212.369,
+    "sid": 101,
+    "location": 2,
+    "content": "这句话听上去像是说给今天听的",
+    "music": 0.0
+  },
+  {
+    "from": 212.369,
+    "to": 214.63,
+    "sid": 102,
+    "location": 2,
+    "content": "但这里要严谨一点",
+    "music": 0.0
+  },
+  {
+    "from": 214.99,
+    "to": 217.95,
+    "sid": 103,
+    "location": 2,
+    "content": "目前的研究大多数只能说明相关",
+    "music": 0.0
+  },
+  {
+    "from": 217.95,
+    "to": 219.41,
+    "sid": 104,
+    "location": 2,
+    "content": "还不能证明因果",
+    "music": 0.0
+  },
+  {
+    "from": 219.41,
+    "to": 221.03,
+    "sid": 105,
+    "location": 2,
+    "content": "所以与其说它是毒药",
+    "music": 0.0
+  },
+  {
+    "from": 221.03,
+    "to": 223.96,
+    "sid": 106,
+    "location": 2,
+    "content": "不如说它是一套被精心设计过的机制",
+    "music": 0.0
+  },
+  {
+    "from": 223.96,
+    "to": 226.55,
+    "sid": 107,
+    "location": 2,
+    "content": "第一个设计是无缝衔接",
+    "music": 0.0
+  },
+  {
+    "from": 226.55,
+    "to": 227.91,
+    "sid": 108,
+    "location": 2,
+    "content": "这一集刚结束",
+    "music": 0.0
+  },
+  {
+    "from": 227.91,
+    "to": 229.27,
+    "sid": 109,
+    "location": 2,
+    "content": "下一集自动开始",
+    "music": 0.0
+  },
+  {
+    "from": 229.27,
+    "to": 230.83,
+    "sid": 110,
+    "location": 2,
+    "content": "你连手指都不用动",
+    "music": 0.0
+  },
+  {
+    "from": 230.83,
+    "to": 233.69,
+    "sid": 111,
+    "location": 2,
+    "content": "第二个设计是无限下拉",
+    "music": 0.0
+  },
+  {
+    "from": 233.69,
+    "to": 235.75,
+    "sid": 112,
+    "location": 2,
+    "content": "屏幕永远没有尽头",
+    "music": 0.0
+  },
+  {
+    "from": 235.75,
+    "to": 239.07,
+    "sid": 113,
+    "location": 2,
+    "content": "你永远看不到已经到底了这几个字",
+    "music": 0.0
+  },
+  {
+    "from": 239.07,
+    "to": 241.17,
+    "sid": 114,
+    "location": 2,
+    "content": "第三个设计是算法",
+    "music": 0.0
+  },
+  {
+    "from": 241.17,
+    "to": 244.78,
+    "sid": 115,
+    "location": 2,
+    "content": "他比你更清楚你在哪一秒没有划走",
+    "music": 0.0
+  },
+  {
+    "from": 244.78,
+    "to": 249.16,
+    "sid": 116,
+    "location": 2,
+    "content": "这些细节是被成千上万次实验一点点调出来的",
+    "music": 0.0
+  },
+  {
+    "from": 249.16,
+    "to": 251.6,
+    "sid": 117,
+    "location": 2,
+    "content": "所以你输给他一点也不奇怪",
+    "music": 0.0
+  },
+  {
+    "from": 251.6,
+    "to": 254.24,
+    "sid": 118,
+    "location": 2,
+    "content": "屏幕的另一头坐着几千个工程师",
+    "music": 0.0
+  },
+  {
+    "from": 254.24,
+    "to": 257.799,
+    "sid": 119,
+    "location": 2,
+    "content": "他们每天的工作就是研究怎么让你多待一会儿",
+    "music": 0.0
+  },
+  {
+    "from": 257.799,
+    "to": 261.559,
+    "sid": 120,
+    "location": 2,
+    "content": "唉而你这边只有一个下了班很累的你",
+    "music": 0.0
+  },
+  {
+    "from": 261.559,
+    "to": 263.079,
+    "sid": 121,
+    "location": 2,
+    "content": "这不是意志力的较量",
+    "music": 0.0
+  },
+  {
+    "from": 263.079,
+    "to": 264.859,
+    "sid": 122,
+    "location": 2,
+    "content": "这是一场不对等的较量",
+    "music": 0.0
+  },
+  {
+    "from": 264.859,
+    "to": 267.75,
+    "sid": 123,
+    "location": 2,
+    "content": "不过也先别急着把手机砸了",
+    "music": 0.0
+  },
+  {
+    "from": 267.75,
+    "to": 270.19,
+    "sid": 124,
+    "location": 2,
+    "content": "短剧本身没那么多可恨之处",
+    "music": 0.0
+  },
+  {
+    "from": 270.19,
+    "to": 272.44,
+    "sid": 125,
+    "location": 2,
+    "content": "它便宜一集一分钟",
+    "music": 0.0
+  },
+  {
+    "from": 272.44,
+    "to": 273.44,
+    "sid": 126,
+    "location": 2,
+    "content": "通勤路上",
+    "music": 0.0
+  },
+  {
+    "from": 273.44,
+    "to": 275.38,
+    "sid": 127,
+    "location": 2,
+    "content": "等电梯的时候填个缝隙",
+    "music": 0.0
+  },
+  {
+    "from": 275.38,
+    "to": 276.32,
+    "sid": 128,
+    "location": 2,
+    "content": "刚刚好",
+    "music": 0.0
+  },
+  {
+    "from": 276.32,
+    "to": 277.3,
+    "sid": 129,
+    "location": 2,
+    "content": "对很多人",
+    "music": 0.0
+  },
+  {
+    "from": 277.3,
+    "to": 278.72,
+    "sid": 130,
+    "location": 2,
+    "content": "尤其是上了年纪的人",
+    "music": 0.0
+  },
+  {
+    "from": 278.72,
+    "to": 280.43,
+    "sid": 131,
+    "location": 2,
+    "content": "他还是一份便宜的陪伴",
+    "music": 0.0
+  },
+  {
+    "from": 280.43,
+    "to": 282.77,
+    "sid": 132,
+    "location": 2,
+    "content": "真正的问题不在于看没看",
+    "music": 0.0
+  },
+  {
+    "from": 282.77,
+    "to": 284.49,
+    "sid": 133,
+    "location": 2,
+    "content": "而在于谁在做决定",
+    "music": 0.0
+  },
+  {
+    "from": 284.49,
+    "to": 286.75,
+    "sid": 134,
+    "location": 2,
+    "content": "是你拿起手机看了20分钟",
+    "music": 0.0
+  },
+  {
+    "from": 286.75,
+    "to": 287.81,
+    "sid": 135,
+    "location": 2,
+    "content": "然后主动放下",
+    "music": 0.0
+  },
+  {
+    "from": 287.81,
+    "to": 289.41,
+    "sid": 136,
+    "location": 2,
+    "content": "还是你只是想看一眼",
+    "music": 0.0
+  },
+  {
+    "from": 289.41,
+    "to": 290.37,
+    "sid": 137,
+    "location": 2,
+    "content": "等回过神来",
+    "music": 0.0
+  },
+  {
+    "from": 290.37,
+    "to": 291.75,
+    "sid": 138,
+    "location": 2,
+    "content": "两个小时已经没了",
+    "music": 0.0
+  },
+  {
+    "from": 291.75,
+    "to": 292.81,
+    "sid": 139,
+    "location": 2,
+    "content": "前者叫娱乐",
+    "music": 0.0
+  },
+  {
+    "from": 292.81,
+    "to": 294.17,
+    "sid": 140,
+    "location": 2,
+    "content": "后者叫被牵着走",
+    "music": 0.0
+  },
+  {
+    "from": 294.17,
+    "to": 295.77,
+    "sid": 141,
+    "location": 2,
+    "content": "分界线就在这里",
+    "music": 0.0
+  },
+  {
+    "from": 295.77,
+    "to": 296.97,
+    "sid": 142,
+    "location": 2,
+    "content": "那我们能做点什么",
+    "music": 0.0
+  },
+  {
+    "from": 296.97,
+    "to": 297.83,
+    "sid": 143,
+    "location": 2,
+    "content": "不用戒掉它",
+    "music": 0.0
+  },
+  {
+    "from": 297.83,
+    "to": 299.11,
+    "sid": 144,
+    "location": 2,
+    "content": "只要做三个小动作",
+    "music": 0.0
+  },
+  {
+    "from": 299.11,
+    "to": 301.71,
+    "sid": 145,
+    "location": 2,
+    "content": "第一个给开始加一点阻力",
+    "music": 0.0
+  },
+  {
+    "from": 301.71,
+    "to": 304.89,
+    "sid": 146,
+    "location": 2,
+    "content": "把那个应用从手机手屏挪出去",
+    "music": 0.0
+  },
+  {
+    "from": 304.89,
+    "to": 305.79,
+    "sid": 147,
+    "location": 2,
+    "content": "顺手关掉",
+    "music": 0.0
+  },
+  {
+    "from": 305.79,
+    "to": 306.73,
+    "sid": 148,
+    "location": 2,
+    "content": "自动播放",
+    "music": 0.0
+  },
+  {
+    "from": 306.73,
+    "to": 309.45,
+    "sid": 149,
+    "location": 2,
+    "content": "多一步操作就能挡住一半的",
+    "music": 0.0
+  },
+  {
+    "from": 309.45,
+    "to": 310.57,
+    "sid": 150,
+    "location": 2,
+    "content": "顺手点开",
+    "music": 0.0
+  },
+  {
+    "from": 310.57,
+    "to": 313.669,
+    "sid": 151,
+    "location": 2,
+    "content": "第二个给结束设一个闹钟",
+    "music": 0.0
+  },
+  {
+    "from": 313.669,
+    "to": 317.739,
+    "sid": 152,
+    "location": 2,
+    "content": "打开之前先定一个20分钟铃一响",
+    "music": 0.0
+  },
+  {
+    "from": 317.739,
+    "to": 319.179,
+    "sid": 153,
+    "location": 2,
+    "content": "不管剧情卡在哪",
+    "music": 0.0
+  },
+  {
+    "from": 319.179,
+    "to": 320.139,
+    "sid": 154,
+    "location": 2,
+    "content": "都先放下",
+    "music": 0.0
+  },
+  {
+    "from": 320.139,
+    "to": 320.879,
+    "sid": 155,
+    "location": 2,
+    "content": "第三个",
+    "music": 0.0
+  },
+  {
+    "from": 320.879,
+    "to": 322.939,
+    "sid": 156,
+    "location": 2,
+    "content": "每天留一段没有刺激的时间",
+    "music": 0.0
+  },
+  {
+    "from": 322.939,
+    "to": 323.919,
+    "sid": 157,
+    "location": 2,
+    "content": "走路的时候",
+    "music": 0.0
+  },
+  {
+    "from": 323.919,
+    "to": 326.24,
+    "sid": 158,
+    "location": 2,
+    "content": "吃饭的时候让眼睛离开屏幕",
+    "music": 0.0
+  },
+  {
+    "from": 326.24,
+    "to": 326.9,
+    "sid": 159,
+    "location": 2,
+    "content": "一会儿",
+    "music": 0.0
+  },
+  {
+    "from": 326.9,
+    "to": 328.46,
+    "sid": 160,
+    "location": 2,
+    "content": "一开始会有点难受",
+    "music": 0.0
+  },
+  {
+    "from": 328.46,
+    "to": 329.32,
+    "sid": 161,
+    "location": 2,
+    "content": "这很正常",
+    "music": 0.0
+  },
+  {
+    "from": 329.32,
+    "to": 331.62,
+    "sid": 162,
+    "location": 2,
+    "content": "那是你的注意力在慢慢恢复",
+    "music": 0.0
+  },
+  {
+    "from": 331.62,
+    "to": 333.2,
+    "sid": 163,
+    "location": 2,
+    "content": "短句不会消失",
+    "music": 0.0
+  },
+  {
+    "from": 333.2,
+    "to": 334.64,
+    "sid": 164,
+    "location": 2,
+    "content": "它还会在那里",
+    "music": 0.0
+  },
+  {
+    "from": 334.64,
+    "to": 337.54,
+    "sid": 165,
+    "location": 2,
+    "content": "但遥控器得拿回到自己手里",
+    "music": 0.0
+  },
+  {
+    "from": 337.54,
+    "to": 339.38,
+    "sid": 166,
+    "location": 2,
+    "content": "我是散装明白人",
+    "music": 0.0
+  },
+  {
+    "from": 339.38,
+    "to": 341.64,
+    "sid": 167,
+    "location": 2,
+    "content": "把热点想复杂再讲简单",
+    "music": 0.0
+  },
+  {
+    "from": 341.64,
+    "to": 342.62,
+    "sid": 168,
+    "location": 2,
+    "content": "我们下期见",
+    "music": 0.0
+  }
+]

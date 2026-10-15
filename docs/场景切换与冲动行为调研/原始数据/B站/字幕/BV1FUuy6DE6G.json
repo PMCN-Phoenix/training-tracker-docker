@@ -1,0 +1,2610 @@
+[
+  {
+    "from": 0.28,
+    "to": 1.78,
+    "sid": 1,
+    "location": 2,
+    "content": "假如书籍会说话",
+    "music": 0.0
+  },
+  {
+    "from": 1.78,
+    "to": 4.06,
+    "sid": 2,
+    "location": 2,
+    "content": "今日对话不可打扰",
+    "music": 0.0
+  },
+  {
+    "from": 4.06,
+    "to": 5.56,
+    "sid": 3,
+    "location": 2,
+    "content": "你说你能帮人专注",
+    "music": 0.0
+  },
+  {
+    "from": 5.56,
+    "to": 7.74,
+    "sid": 4,
+    "location": 2,
+    "content": "但我身边没有一个人靠下定决心",
+    "music": 0.0
+  },
+  {
+    "from": 7.74,
+    "to": 8.9,
+    "sid": 5,
+    "location": 2,
+    "content": "真的戒掉手机的",
+    "music": 0.0
+  },
+  {
+    "from": 8.9,
+    "to": 9.94,
+    "sid": 6,
+    "location": 2,
+    "content": "因为他们搞错了",
+    "music": 0.0
+  },
+  {
+    "from": 9.94,
+    "to": 10.74,
+    "sid": 7,
+    "location": 2,
+    "content": "敌人是谁",
+    "music": 0.0
+  },
+  {
+    "from": 10.74,
+    "to": 11.75,
+    "sid": 8,
+    "location": 2,
+    "content": "什么意思啊",
+    "music": 0.0
+  },
+  {
+    "from": 11.75,
+    "to": 13.37,
+    "sid": 9,
+    "location": 2,
+    "content": "手机不就是敌人吗",
+    "music": 0.0
+  },
+  {
+    "from": 13.37,
+    "to": 14.73,
+    "sid": 10,
+    "location": 2,
+    "content": "手机只是出口",
+    "music": 0.0
+  },
+  {
+    "from": 14.73,
+    "to": 17.97,
+    "sid": 11,
+    "location": 2,
+    "content": "真正的敌人在你脑子里是你想逃跑的那个感觉",
+    "music": 0.0
+  },
+  {
+    "from": 17.97,
+    "to": 20.37,
+    "sid": 12,
+    "location": 2,
+    "content": "逃跑我只是无聊才刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 20.37,
+    "to": 22.18,
+    "sid": 13,
+    "location": 2,
+    "content": "无聊就是一种不适感",
+    "music": 0.0
+  },
+  {
+    "from": 22.18,
+    "to": 24.94,
+    "sid": 14,
+    "location": 2,
+    "content": "你刷手机是因为坐在那里什么都不做",
+    "music": 0.0
+  },
+  {
+    "from": 24.94,
+    "to": 25.74,
+    "sid": 15,
+    "location": 2,
+    "content": "让你难受",
+    "music": 0.0
+  },
+  {
+    "from": 25.74,
+    "to": 27.56,
+    "sid": 16,
+    "location": 2,
+    "content": "那我把手机删了不就行了",
+    "music": 0.0
+  },
+  {
+    "from": 27.56,
+    "to": 29.86,
+    "sid": 17,
+    "location": 2,
+    "content": "删了手机你会去翻冰箱",
+    "music": 0.0
+  },
+  {
+    "from": 29.86,
+    "to": 32.18,
+    "sid": 18,
+    "location": 2,
+    "content": "问题从来不在手机里好",
+    "music": 0.0
+  },
+  {
+    "from": 32.18,
+    "to": 35.12,
+    "sid": 19,
+    "location": 2,
+    "content": "那你说分心的问题到底出在哪",
+    "music": 0.0
+  },
+  {
+    "from": 35.12,
+    "to": 36.86,
+    "sid": 20,
+    "location": 2,
+    "content": "出在你每次感到不舒服",
+    "music": 0.0
+  },
+  {
+    "from": 36.86,
+    "to": 38.66,
+    "sid": 21,
+    "location": 2,
+    "content": "就立刻找东西转移注意力",
+    "music": 0.0
+  },
+  {
+    "from": 38.66,
+    "to": 40.74,
+    "sid": 22,
+    "location": 2,
+    "content": "这个反应才是真正的问题",
+    "music": 0.0
+  },
+  {
+    "from": 40.74,
+    "to": 42.6,
+    "sid": 23,
+    "location": 2,
+    "content": "不舒服就转移注意力",
+    "music": 0.0
+  },
+  {
+    "from": 42.6,
+    "to": 44.22,
+    "sid": 24,
+    "location": 2,
+    "content": "这不是人之常情吗",
+    "music": 0.0
+  },
+  {
+    "from": 44.22,
+    "to": 45.14,
+    "sid": 25,
+    "location": 2,
+    "content": "是常情",
+    "music": 0.0
+  },
+  {
+    "from": 45.14,
+    "to": 46.31,
+    "sid": 26,
+    "location": 2,
+    "content": "但也是陷阱",
+    "music": 0.0
+  },
+  {
+    "from": 46.31,
+    "to": 47.97,
+    "sid": 27,
+    "location": 2,
+    "content": "你越擅长逃避不适",
+    "music": 0.0
+  },
+  {
+    "from": 47.97,
+    "to": 50.35,
+    "sid": 28,
+    "location": 2,
+    "content": "就越没办法做任何需要忍耐的事",
+    "music": 0.0
+  },
+  {
+    "from": 50.35,
+    "to": 52.07,
+    "sid": 29,
+    "location": 2,
+    "content": "那这跟手机有什么关系",
+    "music": 0.0
+  },
+  {
+    "from": 52.07,
+    "to": 54.33,
+    "sid": 30,
+    "location": 2,
+    "content": "手机设计出来就是让人上瘾的",
+    "music": 0.0
+  },
+  {
+    "from": 54.33,
+    "to": 55.63,
+    "sid": 31,
+    "location": 2,
+    "content": "这不是我的错吧",
+    "music": 0.0
+  },
+  {
+    "from": 55.63,
+    "to": 58.27,
+    "sid": 32,
+    "location": 2,
+    "content": "对外部诱惑是真实存在的",
+    "music": 0.0
+  },
+  {
+    "from": 58.27,
+    "to": 60.33,
+    "sid": 33,
+    "location": 2,
+    "content": "但你有没有注意到同一个人",
+    "music": 0.0
+  },
+  {
+    "from": 60.33,
+    "to": 62.93,
+    "sid": 34,
+    "location": 2,
+    "content": "同一部手机有时候能专注几小时",
+    "music": 0.0
+  },
+  {
+    "from": 62.93,
+    "to": 64.55,
+    "sid": 35,
+    "location": 2,
+    "content": "有时候5分钟都撑不住",
+    "music": 0.0
+  },
+  {
+    "from": 64.55,
+    "to": 66.83,
+    "sid": 36,
+    "location": 2,
+    "content": "对确实那是为什么",
+    "music": 0.0
+  },
+  {
+    "from": 66.83,
+    "to": 69.389,
+    "sid": 37,
+    "location": 2,
+    "content": "因为那几小时你没有在逃什么",
+    "music": 0.0
+  },
+  {
+    "from": 69.389,
+    "to": 72.589,
+    "sid": 38,
+    "location": 2,
+    "content": "你当时做的事本身就是你真正想做的",
+    "music": 0.0
+  },
+  {
+    "from": 72.589,
+    "to": 74.809,
+    "sid": 39,
+    "location": 2,
+    "content": "所以你的意思是专注力差",
+    "music": 0.0
+  },
+  {
+    "from": 74.809,
+    "to": 77.58,
+    "sid": 40,
+    "location": 2,
+    "content": "根本原因是我在逃避某种情绪",
+    "music": 0.0
+  },
+  {
+    "from": 78.45,
+    "to": 80.51,
+    "sid": 41,
+    "location": 2,
+    "content": "这本书管他叫内在触发器",
+    "music": 0.0
+  },
+  {
+    "from": 80.51,
+    "to": 81.77,
+    "sid": 42,
+    "location": 2,
+    "content": "焦虑无聊",
+    "music": 0.0
+  },
+  {
+    "from": 81.77,
+    "to": 82.57,
+    "sid": 43,
+    "location": 2,
+    "content": "挫败感",
+    "music": 0.0
+  },
+  {
+    "from": 82.57,
+    "to": 83.77,
+    "sid": 44,
+    "location": 2,
+    "content": "被冷落的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 83.77,
+    "to": 85.29,
+    "sid": 45,
+    "location": 2,
+    "content": "这些情绪一冒出来",
+    "music": 0.0
+  },
+  {
+    "from": 85.29,
+    "to": 86.61,
+    "sid": 46,
+    "location": 2,
+    "content": "你的手就先动了",
+    "music": 0.0
+  },
+  {
+    "from": 86.61,
+    "to": 88.09,
+    "sid": 47,
+    "location": 2,
+    "content": "那我要怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 88.09,
+    "to": 89.78,
+    "sid": 48,
+    "location": 2,
+    "content": "难道要坐在那里硬撑",
+    "music": 0.0
+  },
+  {
+    "from": 89.78,
+    "to": 90.82,
+    "sid": 49,
+    "location": 2,
+    "content": "不是硬撑",
+    "music": 0.0
+  },
+  {
+    "from": 90.82,
+    "to": 92.1,
+    "sid": 50,
+    "location": 2,
+    "content": "是先给它命名",
+    "music": 0.0
+  },
+  {
+    "from": 92.1,
+    "to": 93.24,
+    "sid": 51,
+    "location": 2,
+    "content": "你感到烦躁",
+    "music": 0.0
+  },
+  {
+    "from": 93.24,
+    "to": 94.2,
+    "sid": 52,
+    "location": 2,
+    "content": "就在心里说",
+    "music": 0.0
+  },
+  {
+    "from": 94.2,
+    "to": 95.5,
+    "sid": 53,
+    "location": 2,
+    "content": "我现在烦躁了",
+    "music": 0.0
+  },
+  {
+    "from": 95.5,
+    "to": 96.64,
+    "sid": 54,
+    "location": 2,
+    "content": "就这一句话",
+    "music": 0.0
+  },
+  {
+    "from": 96.64,
+    "to": 99.23,
+    "sid": 55,
+    "location": 2,
+    "content": "就这说一句话有什么用",
+    "music": 0.0
+  },
+  {
+    "from": 99.23,
+    "to": 100.67,
+    "sid": 56,
+    "location": 2,
+    "content": "你一旦给情绪命名",
+    "music": 0.0
+  },
+  {
+    "from": 100.67,
+    "to": 102.53,
+    "sid": 57,
+    "location": 2,
+    "content": "你就从情绪里面跳出来了",
+    "music": 0.0
+  },
+  {
+    "from": 102.53,
+    "to": 103.93,
+    "sid": 58,
+    "location": 2,
+    "content": "变成了观察他的人",
+    "music": 0.0
+  },
+  {
+    "from": 103.93,
+    "to": 106.72,
+    "sid": 59,
+    "location": 2,
+    "content": "他就没那么大力气拖着你跑了好",
+    "music": 0.0
+  },
+  {
+    "from": 106.72,
+    "to": 108.2,
+    "sid": 60,
+    "location": 2,
+    "content": "我承认这有点道理",
+    "music": 0.0
+  },
+  {
+    "from": 108.2,
+    "to": 109.74,
+    "sid": 61,
+    "location": 2,
+    "content": "但光命名有什么用",
+    "music": 0.0
+  },
+  {
+    "from": 109.74,
+    "to": 110.8,
+    "sid": 62,
+    "location": 2,
+    "content": "情绪还在啊",
+    "music": 0.0
+  },
+  {
+    "from": 110.8,
+    "to": 113.06,
+    "sid": 63,
+    "location": 2,
+    "content": "命名之后你就做第二件事",
+    "music": 0.0
+  },
+  {
+    "from": 113.06,
+    "to": 114.27,
+    "sid": 64,
+    "location": 2,
+    "content": "不要立刻逃",
+    "music": 0.0
+  },
+  {
+    "from": 114.27,
+    "to": 115.89,
+    "sid": 65,
+    "location": 2,
+    "content": "就停在那个不舒服里",
+    "music": 0.0
+  },
+  {
+    "from": 115.89,
+    "to": 118.57,
+    "sid": 66,
+    "location": 2,
+    "content": "10分钟你会发现它自己就过去了",
+    "music": 0.0
+  },
+  {
+    "from": 118.57,
+    "to": 119.4,
+    "sid": 67,
+    "location": 2,
+    "content": "10分钟",
+    "music": 0.0
+  },
+  {
+    "from": 119.4,
+    "to": 120.54,
+    "sid": 68,
+    "location": 2,
+    "content": "我现在坐在那里",
+    "music": 0.0
+  },
+  {
+    "from": 120.54,
+    "to": 122.38,
+    "sid": 69,
+    "location": 2,
+    "content": "不到2分钟就要拿手机了",
+    "music": 0.0
+  },
+  {
+    "from": 122.38,
+    "to": 124.19,
+    "sid": 70,
+    "location": 2,
+    "content": "那就从2分钟开始",
+    "music": 0.0
+  },
+  {
+    "from": 124.19,
+    "to": 125.37,
+    "sid": 71,
+    "location": 2,
+    "content": "不是感觉像浪",
+    "music": 0.0
+  },
+  {
+    "from": 125.37,
+    "to": 126.43,
+    "sid": 72,
+    "location": 2,
+    "content": "他会涌上来",
+    "music": 0.0
+  },
+  {
+    "from": 126.43,
+    "to": 127.53,
+    "sid": 73,
+    "location": 2,
+    "content": "但他也会退",
+    "music": 0.0
+  },
+  {
+    "from": 127.53,
+    "to": 128.77,
+    "sid": 74,
+    "location": 2,
+    "content": "你不用打赢他",
+    "music": 0.0
+  },
+  {
+    "from": 128.77,
+    "to": 131.06,
+    "sid": 75,
+    "location": 2,
+    "content": "你只需要不跟着他跑好",
+    "music": 0.0
+  },
+  {
+    "from": 131.06,
+    "to": 132.52,
+    "sid": 76,
+    "location": 2,
+    "content": "假设我能撑住情绪了",
+    "music": 0.0
+  },
+  {
+    "from": 132.52,
+    "to": 133.84,
+    "sid": 77,
+    "location": 2,
+    "content": "但我还有另一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 133.84,
+    "to": 135.22,
+    "sid": 78,
+    "location": 2,
+    "content": "我每天计划了一堆事",
+    "music": 0.0
+  },
+  {
+    "from": 135.22,
+    "to": 136.64,
+    "sid": 79,
+    "location": 2,
+    "content": "最后一件都没做完",
+    "music": 0.0
+  },
+  {
+    "from": 136.64,
+    "to": 138.04,
+    "sid": 80,
+    "location": 2,
+    "content": "这又是怎么回事",
+    "music": 0.0
+  },
+  {
+    "from": 138.04,
+    "to": 139.8,
+    "sid": 81,
+    "location": 2,
+    "content": "因为你的计划是任务清单",
+    "music": 0.0
+  },
+  {
+    "from": 139.8,
+    "to": 141.04,
+    "sid": 82,
+    "location": 2,
+    "content": "不是时间安排",
+    "music": 0.0
+  },
+  {
+    "from": 141.04,
+    "to": 142.64,
+    "sid": 83,
+    "location": 2,
+    "content": "你写了今天要写报告",
+    "music": 0.0
+  },
+  {
+    "from": 142.64,
+    "to": 144.88,
+    "sid": 84,
+    "location": 2,
+    "content": "但你没有写几点到几点写报告",
+    "music": 0.0
+  },
+  {
+    "from": 144.88,
+    "to": 146.04,
+    "sid": 85,
+    "location": 2,
+    "content": "这有区别吗",
+    "music": 0.0
+  },
+  {
+    "from": 146.04,
+    "to": 147.589,
+    "sid": 86,
+    "location": 2,
+    "content": "反正都是要做的事",
+    "music": 0.0
+  },
+  {
+    "from": 147.589,
+    "to": 148.809,
+    "sid": 87,
+    "location": 2,
+    "content": "区别大了",
+    "music": 0.0
+  },
+  {
+    "from": 148.809,
+    "to": 150.069,
+    "sid": 88,
+    "location": 2,
+    "content": "没有时间的任务",
+    "music": 0.0
+  },
+  {
+    "from": 150.069,
+    "to": 152.22,
+    "sid": 89,
+    "location": 2,
+    "content": "会被任何一件插进来的事挤掉",
+    "music": 0.0
+  },
+  {
+    "from": 152.22,
+    "to": 153.54,
+    "sid": 90,
+    "location": 2,
+    "content": "有时间的任务",
+    "music": 0.0
+  },
+  {
+    "from": 153.54,
+    "to": 155.44,
+    "sid": 91,
+    "location": 2,
+    "content": "那个时间段就是他的地盘",
+    "music": 0.0
+  },
+  {
+    "from": 155.44,
+    "to": 156.62,
+    "sid": 92,
+    "location": 2,
+    "content": "别的是进不来",
+    "music": 0.0
+  },
+  {
+    "from": 156.62,
+    "to": 158.52,
+    "sid": 93,
+    "location": 2,
+    "content": "这不就是普通的时间管理吗",
+    "music": 0.0
+  },
+  {
+    "from": 158.52,
+    "to": 160.41,
+    "sid": 94,
+    "location": 2,
+    "content": "我用过番茄钟没用",
+    "music": 0.0
+  },
+  {
+    "from": 160.41,
+    "to": 162.07,
+    "sid": 95,
+    "location": 2,
+    "content": "番茄中管的是任务",
+    "music": 0.0
+  },
+  {
+    "from": 162.07,
+    "to": 164.65,
+    "sid": 96,
+    "location": 2,
+    "content": "这本书说的时间和管的是价值",
+    "music": 0.0
+  },
+  {
+    "from": 164.65,
+    "to": 167.25,
+    "sid": 97,
+    "location": 2,
+    "content": "你真正在乎的是要先占住位置",
+    "music": 0.0
+  },
+  {
+    "from": 167.25,
+    "to": 169.78,
+    "sid": 98,
+    "location": 2,
+    "content": "不是等有空再填进去等等",
+    "music": 0.0
+  },
+  {
+    "from": 169.78,
+    "to": 171.48,
+    "sid": 99,
+    "location": 2,
+    "content": "这两个有什么不一样",
+    "music": 0.0
+  },
+  {
+    "from": 171.48,
+    "to": 173.66,
+    "sid": 100,
+    "location": 2,
+    "content": "你有没有发现你的行事历上",
+    "music": 0.0
+  },
+  {
+    "from": 173.66,
+    "to": 175.2,
+    "sid": 101,
+    "location": 2,
+    "content": "工作会议排的满满的",
+    "music": 0.0
+  },
+  {
+    "from": 175.2,
+    "to": 178.2,
+    "sid": 102,
+    "location": 2,
+    "content": "但陪孩子锻炼学你想学的东西",
+    "music": 0.0
+  },
+  {
+    "from": 178.2,
+    "to": 180.54,
+    "sid": 103,
+    "location": 2,
+    "content": "这些是从来没有固定时间对",
+    "music": 0.0
+  },
+  {
+    "from": 180.54,
+    "to": 182.72,
+    "sid": 104,
+    "location": 2,
+    "content": "因为这些事随时都可以做",
+    "music": 0.0
+  },
+  {
+    "from": 182.72,
+    "to": 183.82,
+    "sid": 105,
+    "location": 2,
+    "content": "随时可以做",
+    "music": 0.0
+  },
+  {
+    "from": 183.82,
+    "to": 185.24,
+    "sid": 106,
+    "location": 2,
+    "content": "就等于随时不做",
+    "music": 0.0
+  },
+  {
+    "from": 185.24,
+    "to": 188.14,
+    "sid": 107,
+    "location": 2,
+    "content": "你最在乎的事反而最容易被挤掉",
+    "music": 0.0
+  },
+  {
+    "from": 188.14,
+    "to": 189.14,
+    "sid": 108,
+    "location": 2,
+    "content": "这话有点渣",
+    "music": 0.0
+  },
+  {
+    "from": 189.14,
+    "to": 190.72,
+    "sid": 109,
+    "location": 2,
+    "content": "那时间和具体怎么用",
+    "music": 0.0
+  },
+  {
+    "from": 190.72,
+    "to": 194.29,
+    "sid": 110,
+    "location": 2,
+    "content": "别跟我说把事情写进日历这种废话三步",
+    "music": 0.0
+  },
+  {
+    "from": 194.29,
+    "to": 196.47,
+    "sid": 111,
+    "location": 2,
+    "content": "第一步先排你自己的事",
+    "music": 0.0
+  },
+  {
+    "from": 196.47,
+    "to": 198.62,
+    "sid": 112,
+    "location": 2,
+    "content": "不是先排工作健身",
+    "music": 0.0
+  },
+  {
+    "from": 198.62,
+    "to": 199.56,
+    "sid": 113,
+    "location": 2,
+    "content": "深度学习",
+    "music": 0.0
+  },
+  {
+    "from": 199.56,
+    "to": 201.32,
+    "sid": 114,
+    "location": 2,
+    "content": "陪家人先占位置",
+    "music": 0.0
+  },
+  {
+    "from": 201.32,
+    "to": 202.22,
+    "sid": 115,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 202.22,
+    "to": 205.18,
+    "sid": 116,
+    "location": 2,
+    "content": "第二步把工作任务填进剩余的格子",
+    "music": 0.0
+  },
+  {
+    "from": 205.18,
+    "to": 206.42,
+    "sid": 117,
+    "location": 2,
+    "content": "而不是反过来",
+    "music": 0.0
+  },
+  {
+    "from": 206.42,
+    "to": 208.26,
+    "sid": 118,
+    "location": 2,
+    "content": "你不是在给工作留时间",
+    "music": 0.0
+  },
+  {
+    "from": 208.26,
+    "to": 209.99,
+    "sid": 119,
+    "location": 2,
+    "content": "你是在给自己留时间",
+    "music": 0.0
+  },
+  {
+    "from": 209.99,
+    "to": 211.03,
+    "sid": 120,
+    "location": 2,
+    "content": "第三步呢",
+    "music": 0.0
+  },
+  {
+    "from": 211.03,
+    "to": 213.07,
+    "sid": 121,
+    "location": 2,
+    "content": "第三步不评判结果",
+    "music": 0.0
+  },
+  {
+    "from": 213.07,
+    "to": 215.34,
+    "sid": 122,
+    "location": 2,
+    "content": "只评判是否按时间和行动了",
+    "music": 0.0
+  },
+  {
+    "from": 215.34,
+    "to": 217.14,
+    "sid": 123,
+    "location": 2,
+    "content": "你在那个时间段做下来了",
+    "music": 0.0
+  },
+  {
+    "from": 217.14,
+    "to": 218.04,
+    "sid": 124,
+    "location": 2,
+    "content": "就算赢了",
+    "music": 0.0
+  },
+  {
+    "from": 218.04,
+    "to": 219.44,
+    "sid": 125,
+    "location": 2,
+    "content": "写了三个字也是赢",
+    "music": 0.0
+  },
+  {
+    "from": 219.44,
+    "to": 220.12,
+    "sid": 126,
+    "location": 2,
+    "content": "等等",
+    "music": 0.0
+  },
+  {
+    "from": 220.12,
+    "to": 221.82,
+    "sid": 127,
+    "location": 2,
+    "content": "写了三个字也算赢",
+    "music": 0.0
+  },
+  {
+    "from": 221.82,
+    "to": 223.43,
+    "sid": 128,
+    "location": 2,
+    "content": "这不是在自我安慰吗",
+    "music": 0.0
+  },
+  {
+    "from": 223.43,
+    "to": 225.37,
+    "sid": 129,
+    "location": 2,
+    "content": "你现在的问题不是产出不够",
+    "music": 0.0
+  },
+  {
+    "from": 225.37,
+    "to": 226.91,
+    "sid": 130,
+    "location": 2,
+    "content": "是根本没做下来",
+    "music": 0.0
+  },
+  {
+    "from": 226.91,
+    "to": 228.75,
+    "sid": 131,
+    "location": 2,
+    "content": "先解决坐下来这件事",
+    "music": 0.0
+  },
+  {
+    "from": 228.75,
+    "to": 231.11,
+    "sid": 132,
+    "location": 2,
+    "content": "产出的问题以后再说好",
+    "music": 0.0
+  },
+  {
+    "from": 231.11,
+    "to": 232.49,
+    "sid": 133,
+    "location": 2,
+    "content": "我排好了时间盒",
+    "music": 0.0
+  },
+  {
+    "from": 232.49,
+    "to": 233.91,
+    "sid": 134,
+    "location": 2,
+    "content": "但到了那个时间点",
+    "music": 0.0
+  },
+  {
+    "from": 233.91,
+    "to": 235.1,
+    "sid": 135,
+    "location": 2,
+    "content": "我还是会分心",
+    "music": 0.0
+  },
+  {
+    "from": 235.1,
+    "to": 237.0,
+    "sid": 136,
+    "location": 2,
+    "content": "还是会拿手机怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 237.0,
+    "to": 238.44,
+    "sid": 137,
+    "location": 2,
+    "content": "这就到了第三层",
+    "music": 0.0
+  },
+  {
+    "from": 238.44,
+    "to": 239.55,
+    "sid": 138,
+    "location": 2,
+    "content": "前置契约",
+    "music": 0.0
+  },
+  {
+    "from": 239.55,
+    "to": 241.19,
+    "sid": 139,
+    "location": 2,
+    "content": "在你意志力崩溃之前",
+    "music": 0.0
+  },
+  {
+    "from": 241.19,
+    "to": 242.47,
+    "sid": 140,
+    "location": 2,
+    "content": "就把退路堵死",
+    "music": 0.0
+  },
+  {
+    "from": 242.47,
+    "to": 243.29,
+    "sid": 141,
+    "location": 2,
+    "content": "怎么赌",
+    "music": 0.0
+  },
+  {
+    "from": 243.29,
+    "to": 245.47,
+    "sid": 142,
+    "location": 2,
+    "content": "最简单的一种叫努力契约",
+    "music": 0.0
+  },
+  {
+    "from": 245.47,
+    "to": 247.329,
+    "sid": 143,
+    "location": 2,
+    "content": "把手机放到另一个房间",
+    "music": 0.0
+  },
+  {
+    "from": 247.329,
+    "to": 248.369,
+    "sid": 144,
+    "location": 2,
+    "content": "不是静音",
+    "music": 0.0
+  },
+  {
+    "from": 248.369,
+    "to": 249.629,
+    "sid": 145,
+    "location": 2,
+    "content": "是物理上拿不到",
+    "music": 0.0
+  },
+  {
+    "from": 249.629,
+    "to": 250.769,
+    "sid": 146,
+    "location": 2,
+    "content": "使用成本一高",
+    "music": 0.0
+  },
+  {
+    "from": 250.769,
+    "to": 251.909,
+    "sid": 147,
+    "location": 2,
+    "content": "你自然就少拿",
+    "music": 0.0
+  },
+  {
+    "from": 251.909,
+    "to": 252.909,
+    "sid": 148,
+    "location": 2,
+    "content": "这我试过",
+    "music": 0.0
+  },
+  {
+    "from": 252.909,
+    "to": 254.78,
+    "sid": 149,
+    "location": 2,
+    "content": "我会站起来走过去拿",
+    "music": 0.0
+  },
+  {
+    "from": 254.78,
+    "to": 256.02,
+    "sid": 150,
+    "location": 2,
+    "content": "那就再加一层",
+    "music": 0.0
+  },
+  {
+    "from": 256.02,
+    "to": 257.48,
+    "sid": 151,
+    "location": 2,
+    "content": "在手机上设一个密码",
+    "music": 0.0
+  },
+  {
+    "from": 257.48,
+    "to": 258.86,
+    "sid": 152,
+    "location": 2,
+    "content": "让你老婆或朋友设",
+    "music": 0.0
+  },
+  {
+    "from": 258.86,
+    "to": 260.0,
+    "sid": 153,
+    "location": 2,
+    "content": "你不知道密码",
+    "music": 0.0
+  },
+  {
+    "from": 260.0,
+    "to": 262.5,
+    "sid": 154,
+    "location": 2,
+    "content": "要用手机就得开口问人",
+    "music": 0.0
+  },
+  {
+    "from": 262.5,
+    "to": 263.74,
+    "sid": 155,
+    "location": 2,
+    "content": "这也太狠了吧",
+    "music": 0.0
+  },
+  {
+    "from": 263.74,
+    "to": 264.75,
+    "sid": 156,
+    "location": 2,
+    "content": "很吗",
+    "music": 0.0
+  },
+  {
+    "from": 264.75,
+    "to": 266.75,
+    "sid": 157,
+    "location": 2,
+    "content": "你每次拿手机刷半小时",
+    "music": 0.0
+  },
+  {
+    "from": 266.75,
+    "to": 268.15,
+    "sid": 158,
+    "location": 2,
+    "content": "那才叫真的狠狠的",
+    "music": 0.0
+  },
+  {
+    "from": 268.15,
+    "to": 269.79,
+    "sid": 159,
+    "location": 2,
+    "content": "是你自己的时间好",
+    "music": 0.0
+  },
+  {
+    "from": 269.79,
+    "to": 271.26,
+    "sid": 160,
+    "location": 2,
+    "content": "还有其他契约吗",
+    "music": 0.0
+  },
+  {
+    "from": 271.26,
+    "to": 273.08,
+    "sid": 161,
+    "location": 2,
+    "content": "还有一种叫身份契约",
+    "music": 0.0
+  },
+  {
+    "from": 273.08,
+    "to": 274.36,
+    "sid": 162,
+    "location": 2,
+    "content": "这是最强的一种",
+    "music": 0.0
+  },
+  {
+    "from": 274.36,
+    "to": 275.82,
+    "sid": 163,
+    "location": 2,
+    "content": "你不说我要专注",
+    "music": 0.0
+  },
+  {
+    "from": 275.82,
+    "to": 277.56,
+    "sid": 164,
+    "location": 2,
+    "content": "你说我是一个专注的人",
+    "music": 0.0
+  },
+  {
+    "from": 277.56,
+    "to": 279.909,
+    "sid": 165,
+    "location": 2,
+    "content": "这不就是自我暗示有用吗",
+    "music": 0.0
+  },
+  {
+    "from": 279.909,
+    "to": 281.729,
+    "sid": 166,
+    "location": 2,
+    "content": "当你认为自己是某种人",
+    "music": 0.0
+  },
+  {
+    "from": 281.729,
+    "to": 283.98,
+    "sid": 167,
+    "location": 2,
+    "content": "你就会做出那种人该做的选择",
+    "music": 0.0
+  },
+  {
+    "from": 283.98,
+    "to": 286.1,
+    "sid": 168,
+    "location": 2,
+    "content": "身份是最难打破的契约",
+    "music": 0.0
+  },
+  {
+    "from": 286.1,
+    "to": 289.23,
+    "sid": 169,
+    "location": 2,
+    "content": "因为打破它你要先承认自己不是那种人",
+    "music": 0.0
+  },
+  {
+    "from": 289.23,
+    "to": 290.53,
+    "sid": 170,
+    "location": 2,
+    "content": "那如果我照做了",
+    "music": 0.0
+  },
+  {
+    "from": 290.53,
+    "to": 292.39,
+    "sid": 171,
+    "location": 2,
+    "content": "排了时间河堵了退路",
+    "music": 0.0
+  },
+  {
+    "from": 292.39,
+    "to": 293.65,
+    "sid": 172,
+    "location": 2,
+    "content": "结果还是破防了",
+    "music": 0.0
+  },
+  {
+    "from": 293.65,
+    "to": 295.72,
+    "sid": 173,
+    "location": 2,
+    "content": "还是刷了一小时手机怎么办",
+    "music": 0.0
+  },
+  {
+    "from": 295.72,
+    "to": 297.12,
+    "sid": 174,
+    "location": 2,
+    "content": "先问自己一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 297.12,
+    "to": 299.12,
+    "sid": 175,
+    "location": 2,
+    "content": "这一小时我在淘什么",
+    "music": 0.0
+  },
+  {
+    "from": 299.12,
+    "to": 301.32,
+    "sid": 176,
+    "location": 2,
+    "content": "不是骂自己是真的问",
+    "music": 0.0
+  },
+  {
+    "from": 301.32,
+    "to": 302.16,
+    "sid": 177,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 302.16,
+    "to": 304.789,
+    "sid": 178,
+    "location": 2,
+    "content": "问完了又怎样把答案写下来",
+    "music": 0.0
+  },
+  {
+    "from": 304.789,
+    "to": 305.97,
+    "sid": 179,
+    "location": 2,
+    "content": "不用写很多",
+    "music": 0.0
+  },
+  {
+    "from": 305.97,
+    "to": 306.95,
+    "sid": 180,
+    "location": 2,
+    "content": "一句话就行",
+    "music": 0.0
+  },
+  {
+    "from": 306.95,
+    "to": 309.21,
+    "sid": 181,
+    "location": 2,
+    "content": "我再逃那份没写完的方案写下来",
+    "music": 0.0
+  },
+  {
+    "from": 309.21,
+    "to": 311.49,
+    "sid": 182,
+    "location": 2,
+    "content": "你就知道下次的战场在哪里了",
+    "music": 0.0
+  },
+  {
+    "from": 311.49,
+    "to": 313.15,
+    "sid": 183,
+    "location": 2,
+    "content": "如果我写下来了",
+    "music": 0.0
+  },
+  {
+    "from": 313.15,
+    "to": 314.59,
+    "sid": 184,
+    "location": 2,
+    "content": "但下次还是逃呢",
+    "music": 0.0
+  },
+  {
+    "from": 314.59,
+    "to": 316.57,
+    "sid": 185,
+    "location": 2,
+    "content": "那就说明那件事本身有问题",
+    "music": 0.0
+  },
+  {
+    "from": 316.57,
+    "to": 317.61,
+    "sid": 186,
+    "location": 2,
+    "content": "要么太难",
+    "music": 0.0
+  },
+  {
+    "from": 317.61,
+    "to": 319.05,
+    "sid": 187,
+    "location": 2,
+    "content": "要么你根本不想做",
+    "music": 0.0
+  },
+  {
+    "from": 319.05,
+    "to": 321.49,
+    "sid": 188,
+    "location": 2,
+    "content": "只是觉得自己应该做这两个问题",
+    "music": 0.0
+  },
+  {
+    "from": 321.49,
+    "to": 323.81,
+    "sid": 189,
+    "location": 2,
+    "content": "比分心更值得解决等等",
+    "music": 0.0
+  },
+  {
+    "from": 323.81,
+    "to": 324.85,
+    "sid": 190,
+    "location": 2,
+    "content": "你的意思是",
+    "music": 0.0
+  },
+  {
+    "from": 324.85,
+    "to": 327.78,
+    "sid": 191,
+    "location": 2,
+    "content": "有时候分心是因为我根本不想做那件事",
+    "music": 0.0
+  },
+  {
+    "from": 328.71,
+    "to": 330.71,
+    "sid": 192,
+    "location": 2,
+    "content": "很多人以为自己是拖延症",
+    "music": 0.0
+  },
+  {
+    "from": 330.71,
+    "to": 332.27,
+    "sid": 193,
+    "location": 2,
+    "content": "其实是价值观错位",
+    "music": 0.0
+  },
+  {
+    "from": 332.27,
+    "to": 335.31,
+    "sid": 194,
+    "location": 2,
+    "content": "你在努力完成一件对你来说根本不重要的事",
+    "music": 0.0
+  },
+  {
+    "from": 335.31,
+    "to": 338.26,
+    "sid": 195,
+    "location": 2,
+    "content": "那我怎么判断这件事是真的重要",
+    "music": 0.0
+  },
+  {
+    "from": 338.26,
+    "to": 340.34,
+    "sid": 196,
+    "location": 2,
+    "content": "还是我只是觉得应该做",
+    "music": 0.0
+  },
+  {
+    "from": 340.34,
+    "to": 341.2,
+    "sid": 197,
+    "location": 2,
+    "content": "问自己",
+    "music": 0.0
+  },
+  {
+    "from": 341.2,
+    "to": 343.06,
+    "sid": 198,
+    "location": 2,
+    "content": "如果没人知道我做了这件事",
+    "music": 0.0
+  },
+  {
+    "from": 343.06,
+    "to": 344.169,
+    "sid": 199,
+    "location": 2,
+    "content": "我还会做吗",
+    "music": 0.0
+  },
+  {
+    "from": 344.169,
+    "to": 345.429,
+    "sid": 200,
+    "location": 2,
+    "content": "答案是不会",
+    "music": 0.0
+  },
+  {
+    "from": 345.429,
+    "to": 347.449,
+    "sid": 201,
+    "location": 2,
+    "content": "那他可能只是为了别人的眼光",
+    "music": 0.0
+  },
+  {
+    "from": 347.449,
+    "to": 349.089,
+    "sid": 202,
+    "location": 2,
+    "content": "不是你真正的牵引力",
+    "music": 0.0
+  },
+  {
+    "from": 349.089,
+    "to": 349.949,
+    "sid": 203,
+    "location": 2,
+    "content": "牵引力",
+    "music": 0.0
+  },
+  {
+    "from": 349.949,
+    "to": 351.15,
+    "sid": 204,
+    "location": 2,
+    "content": "这是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 351.15,
+    "to": 352.85,
+    "sid": 205,
+    "location": 2,
+    "content": "这本书把行为分两种",
+    "music": 0.0
+  },
+  {
+    "from": 352.85,
+    "to": 356.17,
+    "sid": 206,
+    "location": 2,
+    "content": "牵引力是把你拉向你真正想要的生活的行动",
+    "music": 0.0
+  },
+  {
+    "from": 356.17,
+    "to": 358.85,
+    "sid": 207,
+    "location": 2,
+    "content": "分心是把你推离那个方向的行动",
+    "music": 0.0
+  },
+  {
+    "from": 358.85,
+    "to": 360.47,
+    "sid": 208,
+    "location": 2,
+    "content": "追剧可能是牵引力",
+    "music": 0.0
+  },
+  {
+    "from": 360.47,
+    "to": 361.69,
+    "sid": 209,
+    "location": 2,
+    "content": "也可能是分心",
+    "music": 0.0
+  },
+  {
+    "from": 361.69,
+    "to": 364.29,
+    "sid": 210,
+    "location": 2,
+    "content": "关键是你有没有提前决定要做这件事",
+    "music": 0.0
+  },
+  {
+    "from": 364.29,
+    "to": 366.8,
+    "sid": 211,
+    "location": 2,
+    "content": "所以提前决定就是关键",
+    "music": 0.0
+  },
+  {
+    "from": 367.7,
+    "to": 369.5,
+    "sid": 212,
+    "location": 2,
+    "content": "你提前在时间盒里写了",
+    "music": 0.0
+  },
+  {
+    "from": 369.5,
+    "to": 370.88,
+    "sid": 213,
+    "location": 2,
+    "content": "晚上八点看一几句",
+    "music": 0.0
+  },
+  {
+    "from": 370.88,
+    "to": 371.96,
+    "sid": 214,
+    "location": 2,
+    "content": "那就是牵引力",
+    "music": 0.0
+  },
+  {
+    "from": 371.96,
+    "to": 374.62,
+    "sid": 215,
+    "location": 2,
+    "content": "你做完正事之后顺手刷了两小时",
+    "music": 0.0
+  },
+  {
+    "from": 374.62,
+    "to": 375.789,
+    "sid": 216,
+    "location": 2,
+    "content": "那就是分心",
+    "music": 0.0
+  },
+  {
+    "from": 375.789,
+    "to": 378.869,
+    "sid": 217,
+    "location": 2,
+    "content": "同一件事主动选择和被动滑进去",
+    "music": 0.0
+  },
+  {
+    "from": 378.869,
+    "to": 380.289,
+    "sid": 218,
+    "location": 2,
+    "content": "性质完全不同",
+    "music": 0.0
+  },
+  {
+    "from": 380.289,
+    "to": 382.699,
+    "sid": 219,
+    "location": 2,
+    "content": "好我现在想把这些东西落地",
+    "music": 0.0
+  },
+  {
+    "from": 382.699,
+    "to": 385.319,
+    "sid": 220,
+    "location": 2,
+    "content": "你能不能给我一个今晚就能用的最小动作",
+    "music": 0.0
+  },
+  {
+    "from": 385.319,
+    "to": 386.099,
+    "sid": 221,
+    "location": 2,
+    "content": "不要大道理",
+    "music": 0.0
+  },
+  {
+    "from": 386.099,
+    "to": 387.27,
+    "sid": 222,
+    "location": 2,
+    "content": "就一个具体的",
+    "music": 0.0
+  },
+  {
+    "from": 387.27,
+    "to": 390.47,
+    "sid": 223,
+    "location": 2,
+    "content": "拿一张纸写下明天你最想完成的一件事",
+    "music": 0.0
+  },
+  {
+    "from": 390.47,
+    "to": 392.55,
+    "sid": 224,
+    "location": 2,
+    "content": "然后在旁边写几点开始",
+    "music": 0.0
+  },
+  {
+    "from": 392.55,
+    "to": 393.47,
+    "sid": 225,
+    "location": 2,
+    "content": "几点结束",
+    "music": 0.0
+  },
+  {
+    "from": 393.47,
+    "to": 395.92,
+    "sid": 226,
+    "location": 2,
+    "content": "就这两件事写完之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 395.92,
+    "to": 398.48,
+    "sid": 227,
+    "location": 2,
+    "content": "把手机放到那张纸看不见的地方",
+    "music": 0.0
+  },
+  {
+    "from": 398.48,
+    "to": 399.92,
+    "sid": 228,
+    "location": 2,
+    "content": "明天到了那个时间",
+    "music": 0.0
+  },
+  {
+    "from": 399.92,
+    "to": 400.94,
+    "sid": 229,
+    "location": 2,
+    "content": "你先坐下来",
+    "music": 0.0
+  },
+  {
+    "from": 400.94,
+    "to": 402.22,
+    "sid": 230,
+    "location": 2,
+    "content": "不管状态好不好",
+    "music": 0.0
+  },
+  {
+    "from": 402.22,
+    "to": 403.24,
+    "sid": 231,
+    "location": 2,
+    "content": "先坐下来",
+    "music": 0.0
+  },
+  {
+    "from": 403.24,
+    "to": 404.56,
+    "sid": 232,
+    "location": 2,
+    "content": "如果坐下来之后",
+    "music": 0.0
+  },
+  {
+    "from": 404.56,
+    "to": 405.62,
+    "sid": 233,
+    "location": 2,
+    "content": "我还是烦躁",
+    "music": 0.0
+  },
+  {
+    "from": 405.62,
+    "to": 407.05,
+    "sid": 234,
+    "location": 2,
+    "content": "还是想拿手机呢",
+    "music": 0.0
+  },
+  {
+    "from": 407.05,
+    "to": 408.43,
+    "sid": 235,
+    "location": 2,
+    "content": "就在心里说那句话",
+    "music": 0.0
+  },
+  {
+    "from": 408.43,
+    "to": 409.75,
+    "sid": 236,
+    "location": 2,
+    "content": "我现在烦躁了",
+    "music": 0.0
+  },
+  {
+    "from": 409.75,
+    "to": 410.79,
+    "sid": 237,
+    "location": 2,
+    "content": "然后问自己",
+    "music": 0.0
+  },
+  {
+    "from": 410.79,
+    "to": 411.97,
+    "sid": 238,
+    "location": 2,
+    "content": "我在淘什么",
+    "music": 0.0
+  },
+  {
+    "from": 411.97,
+    "to": 414.03,
+    "sid": 239,
+    "location": 2,
+    "content": "把答案写在那张纸的背面",
+    "music": 0.0
+  },
+  {
+    "from": 414.03,
+    "to": 415.92,
+    "sid": 240,
+    "location": 2,
+    "content": "写完再看看那件事",
+    "music": 0.0
+  },
+  {
+    "from": 415.92,
+    "to": 417.54,
+    "sid": 241,
+    "location": 2,
+    "content": "从最小的一步开始动",
+    "music": 0.0
+  },
+  {
+    "from": 417.54,
+    "to": 420.03,
+    "sid": 242,
+    "location": 2,
+    "content": "如果我写完了还是动不了呢",
+    "music": 0.0
+  },
+  {
+    "from": 420.03,
+    "to": 422.39,
+    "sid": 243,
+    "location": 2,
+    "content": "那就说明这件事对你来说太大了",
+    "music": 0.0
+  },
+  {
+    "from": 422.39,
+    "to": 423.43,
+    "sid": 244,
+    "location": 2,
+    "content": "需要拆小",
+    "music": 0.0
+  },
+  {
+    "from": 423.43,
+    "to": 425.21,
+    "sid": 245,
+    "location": 2,
+    "content": "你不用写完整篇报告",
+    "music": 0.0
+  },
+  {
+    "from": 425.21,
+    "to": 427.05,
+    "sid": 246,
+    "location": 2,
+    "content": "你只需要写第一个标题",
+    "music": 0.0
+  },
+  {
+    "from": 427.05,
+    "to": 428.85,
+    "sid": 247,
+    "location": 2,
+    "content": "就一个标题五个字",
+    "music": 0.0
+  },
+  {
+    "from": 428.85,
+    "to": 429.85,
+    "sid": 248,
+    "location": 2,
+    "content": "然后你可以停",
+    "music": 0.0
+  },
+  {
+    "from": 429.85,
+    "to": 431.93,
+    "sid": 249,
+    "location": 2,
+    "content": "如果我真的写了一个标题",
+    "music": 0.0
+  },
+  {
+    "from": 431.93,
+    "to": 432.98,
+    "sid": 250,
+    "location": 2,
+    "content": "然后停了",
+    "music": 0.0
+  },
+  {
+    "from": 432.98,
+    "to": 435.16,
+    "sid": 251,
+    "location": 2,
+    "content": "我不会觉得自己在骗自己吗",
+    "music": 0.0
+  },
+  {
+    "from": 435.16,
+    "to": 437.5,
+    "sid": 252,
+    "location": 2,
+    "content": "你骗自己的方式是刷了一小时手机",
+    "music": 0.0
+  },
+  {
+    "from": 437.5,
+    "to": 439.13,
+    "sid": 253,
+    "location": 2,
+    "content": "然后告诉自己明天再说",
+    "music": 0.0
+  },
+  {
+    "from": 439.13,
+    "to": 441.33,
+    "sid": 254,
+    "location": 2,
+    "content": "写一个标题是真的动了",
+    "music": 0.0
+  },
+  {
+    "from": 441.33,
+    "to": 444.33,
+    "sid": 255,
+    "location": 2,
+    "content": "这两件事差距不是一点点好",
+    "music": 0.0
+  },
+  {
+    "from": 444.33,
+    "to": 445.49,
+    "sid": 256,
+    "location": 2,
+    "content": "最后一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 445.49,
+    "to": 446.77,
+    "sid": 257,
+    "location": 2,
+    "content": "如果我身边的人",
+    "music": 0.0
+  },
+  {
+    "from": 446.77,
+    "to": 449.05,
+    "sid": 258,
+    "location": 2,
+    "content": "同事家人一直来打断我",
+    "music": 0.0
+  },
+  {
+    "from": 449.05,
+    "to": 450.49,
+    "sid": 259,
+    "location": 2,
+    "content": "这些方法还有用吗",
+    "music": 0.0
+  },
+  {
+    "from": 450.49,
+    "to": 452.4,
+    "sid": 260,
+    "location": 2,
+    "content": "这是外部触发器的问题",
+    "music": 0.0
+  },
+  {
+    "from": 452.4,
+    "to": 455.1,
+    "sid": 261,
+    "location": 2,
+    "content": "你需要让周围的人知道你在专注时间里",
+    "music": 0.0
+  },
+  {
+    "from": 455.1,
+    "to": 456.26,
+    "sid": 262,
+    "location": 2,
+    "content": "怎么让他们知道",
+    "music": 0.0
+  },
+  {
+    "from": 456.26,
+    "to": 457.76,
+    "sid": 263,
+    "location": 2,
+    "content": "难道我要贴个牌子",
+    "music": 0.0
+  },
+  {
+    "from": 457.76,
+    "to": 459.07,
+    "sid": 264,
+    "location": 2,
+    "content": "可以真的贴",
+    "music": 0.0
+  },
+  {
+    "from": 459.07,
+    "to": 460.77,
+    "sid": 265,
+    "location": 2,
+    "content": "或者你可以直接说一句话",
+    "music": 0.0
+  },
+  {
+    "from": 460.77,
+    "to": 462.83,
+    "sid": 266,
+    "location": 2,
+    "content": "我现在有一个小时的专注时间",
+    "music": 0.0
+  },
+  {
+    "from": 462.83,
+    "to": 465.7,
+    "sid": 267,
+    "location": 2,
+    "content": "非紧急的事情一小时后再说可以吗",
+    "music": 0.0
+  },
+  {
+    "from": 465.7,
+    "to": 466.68,
+    "sid": 268,
+    "location": 2,
+    "content": "就这一句",
+    "music": 0.0
+  },
+  {
+    "from": 466.68,
+    "to": 468.34,
+    "sid": 269,
+    "location": 2,
+    "content": "大多数人会配合的",
+    "music": 0.0
+  },
+  {
+    "from": 468.34,
+    "to": 470.34,
+    "sid": 270,
+    "location": 2,
+    "content": "如果对方说这很紧急",
+    "music": 0.0
+  },
+  {
+    "from": 470.34,
+    "to": 472.04,
+    "sid": 271,
+    "location": 2,
+    "content": "但其实根本不紧急呢",
+    "music": 0.0
+  },
+  {
+    "from": 472.04,
+    "to": 473.74,
+    "sid": 272,
+    "location": 2,
+    "content": "你可以接着问这件事",
+    "music": 0.0
+  },
+  {
+    "from": 473.74,
+    "to": 475.02,
+    "sid": 273,
+    "location": 2,
+    "content": "如果一小时后再处理",
+    "music": 0.0
+  },
+  {
+    "from": 475.02,
+    "to": 476.169,
+    "sid": 274,
+    "location": 2,
+    "content": "会有什么后果",
+    "music": 0.0
+  },
+  {
+    "from": 476.169,
+    "to": 479.649,
+    "sid": 275,
+    "location": 2,
+    "content": "大多数时候对方想一想会说没什么后果",
+    "music": 0.0
+  },
+  {
+    "from": 479.649,
+    "to": 481.289,
+    "sid": 276,
+    "location": 2,
+    "content": "如果对方直接不高兴",
+    "music": 0.0
+  },
+  {
+    "from": 481.289,
+    "to": 482.799,
+    "sid": 277,
+    "location": 2,
+    "content": "觉得我在摆架子呢",
+    "music": 0.0
+  },
+  {
+    "from": 482.799,
+    "to": 484.799,
+    "sid": 278,
+    "location": 2,
+    "content": "那你就说我不是不管你",
+    "music": 0.0
+  },
+  {
+    "from": 484.799,
+    "to": 486.839,
+    "sid": 279,
+    "location": 2,
+    "content": "我是想把这件事做好再来帮你",
+    "music": 0.0
+  },
+  {
+    "from": 486.839,
+    "to": 487.979,
+    "sid": 280,
+    "location": 2,
+    "content": "这样对你更有用",
+    "music": 0.0
+  },
+  {
+    "from": 487.979,
+    "to": 491.26,
+    "sid": 281,
+    "location": 2,
+    "content": "这句话把保护自己的时间变成了对对方负责",
+    "music": 0.0
+  },
+  {
+    "from": 491.26,
+    "to": 492.3,
+    "sid": 282,
+    "location": 2,
+    "content": "这话说出来",
+    "music": 0.0
+  },
+  {
+    "from": 492.3,
+    "to": 494.1,
+    "sid": 283,
+    "location": 2,
+    "content": "大多数人应该能接受",
+    "music": 0.0
+  },
+  {
+    "from": 494.1,
+    "to": 495.26,
+    "sid": 284,
+    "location": 2,
+    "content": "能接受的人",
+    "music": 0.0
+  },
+  {
+    "from": 495.26,
+    "to": 496.88,
+    "sid": 285,
+    "location": 2,
+    "content": "你们的关系更健康了",
+    "music": 0.0
+  },
+  {
+    "from": 496.88,
+    "to": 499.08,
+    "sid": 286,
+    "location": 2,
+    "content": "不能接受的人说明他们习惯了",
+    "music": 0.0
+  },
+  {
+    "from": 499.08,
+    "to": 500.36,
+    "sid": 287,
+    "location": 2,
+    "content": "你随时可以被打断",
+    "music": 0.0
+  },
+  {
+    "from": 500.36,
+    "to": 502.72,
+    "sid": 288,
+    "location": 2,
+    "content": "这个习惯是你自己养出来的",
+    "music": 0.0
+  },
+  {
+    "from": 502.72,
+    "to": 503.76,
+    "sid": 289,
+    "location": 2,
+    "content": "这话有点重",
+    "music": 0.0
+  },
+  {
+    "from": 503.76,
+    "to": 506.11,
+    "sid": 290,
+    "location": 2,
+    "content": "但是真的你没有边界",
+    "music": 0.0
+  },
+  {
+    "from": 506.11,
+    "to": 507.55,
+    "sid": 291,
+    "location": 2,
+    "content": "不是因为别人太强势",
+    "music": 0.0
+  },
+  {
+    "from": 507.55,
+    "to": 509.49,
+    "sid": 292,
+    "location": 2,
+    "content": "是因为你从来没有设过边界",
+    "music": 0.0
+  },
+  {
+    "from": 509.49,
+    "to": 511.47,
+    "sid": 293,
+    "location": 2,
+    "content": "第一次射会有摩擦",
+    "music": 0.0
+  },
+  {
+    "from": 511.47,
+    "to": 513.43,
+    "sid": 294,
+    "location": 2,
+    "content": "但摩擦会消失的好",
+    "music": 0.0
+  },
+  {
+    "from": 513.43,
+    "to": 515.31,
+    "sid": 295,
+    "location": 2,
+    "content": "我想把今天说的东西串一下",
+    "music": 0.0
+  },
+  {
+    "from": 515.31,
+    "to": 516.95,
+    "sid": 296,
+    "location": 2,
+    "content": "你给我一个最经典的版本",
+    "music": 0.0
+  },
+  {
+    "from": 516.95,
+    "to": 518.62,
+    "sid": 297,
+    "location": 2,
+    "content": "我到底要做哪几件事",
+    "music": 0.0
+  },
+  {
+    "from": 518.62,
+    "to": 519.82,
+    "sid": 298,
+    "location": 2,
+    "content": "三件事",
+    "music": 0.0
+  },
+  {
+    "from": 519.82,
+    "to": 522.33,
+    "sid": 299,
+    "location": 2,
+    "content": "第一下次想拿手机的时候",
+    "music": 0.0
+  },
+  {
+    "from": 522.33,
+    "to": 523.63,
+    "sid": 300,
+    "location": 2,
+    "content": "先说出你的情绪",
+    "music": 0.0
+  },
+  {
+    "from": 523.63,
+    "to": 525.09,
+    "sid": 301,
+    "location": 2,
+    "content": "哪怕只是在心里说",
+    "music": 0.0
+  },
+  {
+    "from": 525.09,
+    "to": 525.97,
+    "sid": 302,
+    "location": 2,
+    "content": "第二呢",
+    "music": 0.0
+  },
+  {
+    "from": 525.97,
+    "to": 527.86,
+    "sid": 303,
+    "location": 2,
+    "content": "第二今晚拿一张纸",
+    "music": 0.0
+  },
+  {
+    "from": 527.86,
+    "to": 530.56,
+    "sid": 304,
+    "location": 2,
+    "content": "写下明天最重要的一件事和他的时间",
+    "music": 0.0
+  },
+  {
+    "from": 530.56,
+    "to": 532.34,
+    "sid": 305,
+    "location": 2,
+    "content": "手机放到另一个房间",
+    "music": 0.0
+  },
+  {
+    "from": 532.34,
+    "to": 533.24,
+    "sid": 306,
+    "location": 2,
+    "content": "第三呢",
+    "music": 0.0
+  },
+  {
+    "from": 533.24,
+    "to": 535.22,
+    "sid": 307,
+    "location": 2,
+    "content": "第三从今天开始",
+    "music": 0.0
+  },
+  {
+    "from": 535.22,
+    "to": 537.48,
+    "sid": 308,
+    "location": 2,
+    "content": "把自己当成一个专注的人来对待",
+    "music": 0.0
+  },
+  {
+    "from": 537.48,
+    "to": 539.66,
+    "sid": 309,
+    "location": 2,
+    "content": "不是等你做到了再这么叫自己",
+    "music": 0.0
+  },
+  {
+    "from": 539.66,
+    "to": 541.069,
+    "sid": 310,
+    "location": 2,
+    "content": "是现在就这么叫",
+    "music": 0.0
+  },
+  {
+    "from": 541.069,
+    "to": 542.749,
+    "sid": 311,
+    "location": 2,
+    "content": "如果我做了这三件事",
+    "music": 0.0
+  },
+  {
+    "from": 542.749,
+    "to": 544.269,
+    "sid": 312,
+    "location": 2,
+    "content": "明天还是失败了呢",
+    "music": 0.0
+  },
+  {
+    "from": 544.269,
+    "to": 545.329,
+    "sid": 313,
+    "location": 2,
+    "content": "那就问自己",
+    "music": 0.0
+  },
+  {
+    "from": 545.329,
+    "to": 546.829,
+    "sid": 314,
+    "location": 2,
+    "content": "今天我在淘什么",
+    "music": 0.0
+  },
+  {
+    "from": 546.829,
+    "to": 547.9,
+    "sid": 315,
+    "location": 2,
+    "content": "写下来",
+    "music": 0.0
+  },
+  {
+    "from": 547.9,
+    "to": 550.32,
+    "sid": 316,
+    "location": 2,
+    "content": "然后后天再来一次专注",
+    "music": 0.0
+  },
+  {
+    "from": 550.32,
+    "to": 551.39,
+    "sid": 317,
+    "location": 2,
+    "content": "不是一次成功",
+    "music": 0.0
+  },
+  {
+    "from": 551.39,
+    "to": 554.19,
+    "sid": 318,
+    "location": 2,
+    "content": "是每次失败之后还愿意再做下来",
+    "music": 0.0
+  },
+  {
+    "from": 554.19,
+    "to": 556.19,
+    "sid": 319,
+    "location": 2,
+    "content": "这话说的还挺清醒的",
+    "music": 0.0
+  },
+  {
+    "from": 556.19,
+    "to": 558.37,
+    "sid": 320,
+    "location": 2,
+    "content": "你不需要变成一个从不分心的人",
+    "music": 0.0
+  },
+  {
+    "from": 558.37,
+    "to": 561.21,
+    "sid": 321,
+    "location": 2,
+    "content": "你只需要成为一个知道自己在逃什么",
+    "music": 0.0
+  },
+  {
+    "from": 561.21,
+    "to": 562.49,
+    "sid": 322,
+    "location": 2,
+    "content": "还愿意回来的人",
+    "music": 0.0
+  },
+  {
+    "from": 562.49,
+    "to": 563.05,
+    "sid": 323,
+    "location": 2,
+    "content": "好",
+    "music": 0.0
+  },
+  {
+    "from": 563.05,
+    "to": 564.23,
+    "sid": 324,
+    "location": 2,
+    "content": "这期就聊到这",
+    "music": 0.0
+  },
+  {
+    "from": 564.23,
+    "to": 565.45,
+    "sid": 325,
+    "location": 2,
+    "content": "觉得有用的点个赞",
+    "music": 0.0
+  },
+  {
+    "from": 565.45,
+    "to": 566.32,
+    "sid": 326,
+    "location": 2,
+    "content": "咱们下期见",
+    "music": 0.0
+  }
+]
