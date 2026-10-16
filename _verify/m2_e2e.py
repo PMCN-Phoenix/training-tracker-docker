@@ -68,6 +68,23 @@ for text, ts in seed:
     r = nr_post(text, ts)
     print(f"  [{r.status_code}] {text[:30]} -> {r.json().get('message') if r.ok else r.text[:80]}")
 
+# ★ 种子 session / 感悟 id 推导（与 Node-RED 逻辑一致）：
+#   session_id = "s"+毫秒戳；ref_id = "ref_YYYYMMDD(UTC+8)_"+毫秒戳hex末8位。
+#   清理段只删这些 id，绝不枚举窗口内全部数据（防止误删真实数据 —— 10-16 曾因此误删 10-09 推日 PR）。
+from datetime import datetime, timedelta
+
+def _ms(ts):
+    return int(datetime.fromisoformat(ts.replace("Z", "+00:00")).timestamp() * 1000)
+
+SEED_SIDS = {"s" + str(_ms(ts)) for _, ts in seed}
+SEED_REF_IDS = set()
+for text, ts in seed:
+    if any(k in text for k in ("感悟", "心得", "笔记")):
+        ms = _ms(ts)
+        d8 = (datetime.fromisoformat(ts.replace("Z", "+00:00")) + timedelta(hours=8)).strftime("%Y%m%d")
+        SEED_REF_IDS.add(f"ref_{d8}_{ms:08x}")
+SEED_IMAGERY_SID = "s" + str(_ms("2026-10-08T12:30:00Z"))
+
 print("== 1) 感悟 CRUD 循环（原子）==")
 r = api("POST", "/api/reflections", json={
     "date": "2026-10-08", "content": "补录：第2组发力感好", "exercise": "平板卧推",
@@ -119,8 +136,12 @@ r = api("GET", "/api/pr/tests?start_date=2026-10-08&end_date=2026-10-09")
 exs = {e["exercise"]: e for e in r.json()["data"]["exercises"]}
 check("PR-含平板卧推", "平板卧推" in exs)
 t = exs["平板卧推"]["tests"]
-check("PR-2次测试", len(t) == 2, f"got {len(t)}")
-check("PR-编号日期升序", [x["test_no"] for x in t] == [1, 2] and t[0]["date"] < t[1]["date"])
+# ★ 2026-10-16：断言改为容忍窗口内真实数据并存（共享库不假设独占；
+#   真实 10-09 推日 PR 恢复后平板在该窗口有第 3 次测试，旧断言 len==2 会误报）
+check("PR-至少2次测试(真实PR可并存)", len(t) >= 2, f"got {len(t)}")
+check("PR-日期升序且编号递增",
+      [x["date"] for x in t] == sorted(x["date"] for x in t)
+      and all(t[i]["test_no"] < t[i + 1]["test_no"] for i in range(len(t) - 1)))
 check("PR-#1 三档", [(p["weight_kg"], p["max_reps"]) for p in t[0]["points"]] == [(60, 5), (55, 8), (50, 10)],
       str(t[0]["points"]))
 check("PR-#2 两档", [(p["weight_kg"], p["max_reps"]) for p in t[1]["points"]] == [(62.5, 3), (57.5, 6)],
@@ -143,36 +164,20 @@ st = r.json()["data"]
 check("stats-总数≥2(种子2条)", st["total_count"] >= 2, str(st))
 check("stats-覆盖动作≥1", st["exercise_count"] >= 1, str(st))
 
-print("== 7) 精确清理（按 session_id / id）==")
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-10T00:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_pr_test") |> keep(columns: ["session_id"]) |> distinct(column: "session_id")''')
-pr_sids = {r.get("_value") for r in parse_csv(csv) if r.get("_value")}
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-10T00:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_push_bench_flat") |> keep(columns: ["session_id"]) |> distinct(column: "session_id")''')
-tr_sids = {r.get("_value") for r in parse_csv(csv) if r.get("_value")}
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-10T00:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_morning_hr") |> keep(columns: ["session_id"]) |> distinct(column: "session_id")''')
-hr_sids = {r.get("_value") for r in parse_csv(csv) if r.get("_value")}
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-10T00:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_reflection") |> keep(columns: ["id"]) |> distinct(column: "id")''')
-ref_ids = {r.get("_value") for r in parse_csv(csv) if r.get("_value")}
-all_sids = pr_sids | tr_sids | hr_sids
-for sid in all_sids:
-    for meas in ["ppl_pr_test", "ppl_push_bench_flat", "ppl_morning_hr"]:
+print("== 7) 精确清理（只删本测试种子的 session / id，不枚举窗口）==")
+# ★ 2026-10-16 修复：旧逻辑枚举 10-08~10-10 窗口内全部 session 并全删，
+#   曾误删真实数据（10-09 推日 PR 第三轮 23 档）。现只删种子推导出的 id。
+for meas in ["ppl_pr_test", "ppl_push_bench_flat", "ppl_morning_hr", "ppl_reflection", "ppl_imagery"]:
+    for sid in SEED_SIDS:
         influx_delete(f'_measurement="{meas}" AND session_id="{sid}"')
-for rid in ref_ids:
+for rid in SEED_REF_IDS:
     influx_delete(f'_measurement="ppl_reflection" AND id="{rid}"')
-influx_delete('_measurement="ppl_imagery" AND session_id="s1730000000000"')  # 意象(消息time 10-08T12:30Z, session_id 由ts生成) 兜底按窗口删
-# 意象没有 session_id 兜底窗口删（只删 10-08 窗口内意象，无用户数据风险窗口极小）
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-08T23:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_imagery")''')
-left = parse_csv(csv)
-if left:
-    influx_delete('_measurement="ppl_imagery"')  # 兜底：仅本次测试窗口内意象为空才执行
-# 验证清理
-csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-08T00:00:00Z, stop: 2026-10-10T00:00:00Z)
-  |> filter(fn: (r) => r._measurement == "ppl_reflection" or r._measurement == "ppl_pr_test" or r._measurement == "ppl_push_bench_flat" or r._measurement == "ppl_morning_hr" or r._measurement == "ppl_imagery")''')
-check("清理后窗口内无残留", len(parse_csv(csv)) == 0, f"got {len(parse_csv(csv))}")
+# 验证清理：种子 session 无残留（窗口内真实数据不受影响、不做断言）
+or_sids = " or ".join(f'r.session_id == "{sid}"' for sid in sorted(SEED_SIDS))
+csv = flux(f'''from(bucket:"{BUCKET}") |> range(start: 2026-10-01T00:00:00Z, stop: 2026-10-20T00:00:00Z)
+  |> filter(fn: (r) => r._measurement =~ /^ppl_(pr_test|push_bench_flat|morning_hr|reflection|imagery)$/)
+  |> filter(fn: (r) => {or_sids})''')
+check("清理后种子 session 无残留", len(parse_csv(csv)) == 0, f"got {len(parse_csv(csv))}")
 
 print(f"\nM2 验证: {pass_n} PASS / {fail_n} FAIL")
 sys.exit(0 if fail_n == 0 else 1)

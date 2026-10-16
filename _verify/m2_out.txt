@@ -27,8 +27,8 @@
   PASS 交叉-实查训练组数一致
 == 4) PR 测试（集成）==
   PASS PR-含平板卧推
-  PASS PR-2次测试
-  PASS PR-编号日期升序
+  PASS PR-至少2次测试(真实PR可并存)
+  PASS PR-日期升序且编号递增
   PASS PR-#1 三档
   PASS PR-#2 两档
 == 5) 按日全貌（端到端）==
@@ -42,7 +42,7 @@
 == 6) 统计（交叉）==
   PASS stats-总数≥2(种子2条)
   PASS stats-覆盖动作≥1
-== 7) 精确清理（按 session_id / id）==
-  PASS 清理后窗口内无残留
+== 7) 精确清理（只删本测试种子的 session / id，不枚举窗口）==
+  PASS 清理后种子 session 无残留
 
 M2 验证: 33 PASS / 0 FAIL
