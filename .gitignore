@@ -40,3 +40,6 @@ _verify/m3_unit_out.txt
 _verify/m4_*_out*.txt
 _verify/m4_debug_enc.py
 _verify/m4_direct.txt
+
+# Agent 项目记忆（本地）
+.workbuddy/
