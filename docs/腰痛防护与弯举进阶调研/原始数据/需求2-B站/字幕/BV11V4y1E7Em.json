@@ -1,0 +1,467 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.3.0.2",
+  "body": [
+    {
+      "from": 2.28,
+      "to": 3.5,
+      "sid": 1,
+      "location": 2,
+      "content": "今天卖个小骗子"
+    },
+    {
+      "from": 3.5,
+      "to": 5.3,
+      "sid": 2,
+      "location": 2,
+      "content": "很多网友不清楚这个小片能干啥"
+    },
+    {
+      "from": 5.3,
+      "to": 6.44,
+      "sid": 3,
+      "location": 2,
+      "content": "以为是给小孩用的"
+    },
+    {
+      "from": 6.44,
+      "to": 7.85,
+      "sid": 4,
+      "location": 2,
+      "content": "这这是什么啊"
+    },
+    {
+      "from": 7.85,
+      "to": 8.88,
+      "sid": 5,
+      "location": 2,
+      "content": "再说小片之前"
+    },
+    {
+      "from": 8.88,
+      "to": 10.14,
+      "sid": 6,
+      "location": 2,
+      "content": "我先说一个重要的概念"
+    },
+    {
+      "from": 10.14,
+      "to": 11.22,
+      "sid": 7,
+      "location": 2,
+      "content": "就是渐进超负荷"
+    },
+    {
+      "from": 11.22,
+      "to": 13.26,
+      "sid": 8,
+      "location": 2,
+      "content": "意思就是说如果你想要进步"
+    },
+    {
+      "from": 13.28,
+      "to": 14.84,
+      "sid": 9,
+      "location": 2,
+      "content": "要慢慢增加训练的难度"
+    },
+    {
+      "from": 14.84,
+      "to": 16.82,
+      "sid": 10,
+      "location": 2,
+      "content": "这个小片就是帮你慢慢增加难度的"
+    },
+    {
+      "from": 16.82,
+      "to": 18.38,
+      "sid": 11,
+      "location": 2,
+      "content": "不管你是新手还是老手"
+    },
+    {
+      "from": 18.4,
+      "to": 18.94,
+      "sid": 12,
+      "location": 2,
+      "content": "意义重大"
+    },
+    {
+      "from": 18.94,
+      "to": 19.9,
+      "sid": 13,
+      "location": 2,
+      "content": "开过车的都知道"
+    },
+    {
+      "from": 19.9,
+      "to": 21.82,
+      "sid": 14,
+      "location": 2,
+      "content": "档位多的变速箱才是好变速箱"
+    },
+    {
+      "from": 21.82,
+      "to": 24.0,
+      "sid": 15,
+      "location": 2,
+      "content": "很多健身房最小的片子是5kg的"
+    },
+    {
+      "from": 24.0,
+      "to": 24.6,
+      "sid": 16,
+      "location": 2,
+      "content": "那这么一来"
+    },
+    {
+      "from": 24.6,
+      "to": 26.28,
+      "sid": 17,
+      "location": 2,
+      "content": "5kg一档半档不够丝滑"
+    },
+    {
+      "from": 26.28,
+      "to": 28.74,
+      "sid": 18,
+      "location": 2,
+      "content": "如果你年纪小或者是一个力量差的女生"
+    },
+    {
+      "from": 28.76,
+      "to": 29.6,
+      "sid": 19,
+      "location": 2,
+      "content": "所以只能推空杆"
+    },
+    {
+      "from": 29.6,
+      "to": 31.64,
+      "sid": 20,
+      "location": 2,
+      "content": "如果你用2.5的片子加20kg"
+    },
+    {
+      "from": 31.64,
+      "to": 32.54,
+      "sid": 21,
+      "location": 2,
+      "content": "变成25kg"
+    },
+    {
+      "from": 32.54,
+      "to": 33.74,
+      "sid": 22,
+      "location": 2,
+      "content": "直接加了25%"
+    },
+    {
+      "from": 35.08,
+      "to": 36.7,
+      "sid": 23,
+      "location": 2,
+      "content": "直接变成125kg"
+    },
+    {
+      "from": 36.7,
+      "to": 37.36,
+      "sid": 24,
+      "location": 2,
+      "content": "跨度太大"
+    },
+    {
+      "from": 37.36,
+      "to": 38.86,
+      "sid": 25,
+      "location": 2,
+      "content": "说完了新手再说说老手"
+    },
+    {
+      "from": 38.86,
+      "to": 40.42,
+      "sid": 26,
+      "location": 2,
+      "content": "随着你的训练水平越来越高"
+    },
+    {
+      "from": 40.42,
+      "to": 41.18,
+      "sid": 27,
+      "location": 2,
+      "content": "新手期一过"
+    },
+    {
+      "from": 41.2,
+      "to": 42.91,
+      "sid": 28,
+      "location": 2,
+      "content": "你会觉得进步一点点都非常的难"
+    },
+    {
+      "from": 42.91,
+      "to": 44.56,
+      "sid": 29,
+      "location": 2,
+      "content": "很多老手辛辛苦苦练1年"
+    },
+    {
+      "from": 44.56,
+      "to": 46.32,
+      "sid": 30,
+      "location": 2,
+      "content": "卧推重量也只能增个十来公斤"
+    },
+    {
+      "from": 46.34,
+      "to": 48.08,
+      "sid": 31,
+      "location": 2,
+      "content": "那把他的进步分摊到12个月"
+    },
+    {
+      "from": 48.08,
+      "to": 49.76,
+      "sid": 32,
+      "location": 2,
+      "content": "每个月进步也就1kg左右"
+    },
+    {
+      "from": 49.76,
+      "to": 51.14,
+      "sid": 33,
+      "location": 2,
+      "content": "而我们的状态也是起起伏"
+    },
+    {
+      "from": 51.16,
+      "to": 52.72,
+      "sid": 34,
+      "location": 2,
+      "content": "如果想要渐进超负荷"
+    },
+    {
+      "from": 52.72,
+      "to": 54.22,
+      "sid": 35,
+      "location": 2,
+      "content": "是需要精确的调节重量的"
+    },
+    {
+      "from": 55.9,
+      "to": 57.04,
+      "sid": 36,
+      "location": 2,
+      "content": "你的目标是110"
+    },
+    {
+      "from": 57.04,
+      "to": 57.86,
+      "sid": 37,
+      "location": 2,
+      "content": "那起码100km"
+    },
+    {
+      "from": 57.88,
+      "to": 58.9,
+      "sid": 38,
+      "location": 2,
+      "content": "三个94"
+    },
+    {
+      "from": 58.9,
+      "to": 59.38,
+      "sid": 39,
+      "location": 2,
+      "content": "能五个"
+    },
+    {
+      "from": 59.38,
+      "to": 59.74,
+      "sid": 40,
+      "location": 2,
+      "content": "86"
+    },
+    {
+      "from": 59.74,
+      "to": 60.22,
+      "sid": 41,
+      "location": 2,
+      "content": "能八个"
+    },
+    {
+      "from": 60.22,
+      "to": 61.84,
+      "sid": 42,
+      "location": 2,
+      "content": "你才能拿110的重量"
+    },
+    {
+      "from": 61.84,
+      "to": 65.26,
+      "sid": 43,
+      "location": 2,
+      "content": "像94 86这种重量只能靠这种小的片子才能凑出来"
+    },
+    {
+      "from": 65.26,
+      "to": 67.02,
+      "sid": 44,
+      "location": 2,
+      "content": "这些数据可以通过这张表来算出"
+    },
+    {
+      "from": 67.02,
+      "to": 69.12,
+      "sid": 45,
+      "location": 2,
+      "content": "所以力量训练并不是激情满满"
+    },
+    {
+      "from": 69.12,
+      "to": 70.08,
+      "sid": 46,
+      "location": 2,
+      "content": "练累了就能长的"
+    },
+    {
+      "from": 70.08,
+      "to": 72.0,
+      "sid": 47,
+      "location": 2,
+      "content": "水平越高越像在钢丝上行走"
+    },
+    {
+      "from": 72.0,
+      "to": 74.1,
+      "sid": 48,
+      "location": 2,
+      "content": "越需要用理性来精确地把控重量"
+    },
+    {
+      "from": 74.1,
+      "to": 74.92,
+      "sid": 49,
+      "location": 2,
+      "content": "同时随着水平"
+    },
+    {
+      "from": 74.94,
+      "to": 76.68,
+      "sid": 50,
+      "location": 2,
+      "content": "你的感知也会越来越敏锐"
+    },
+    {
+      "from": 76.68,
+      "to": 78.6,
+      "sid": 51,
+      "location": 2,
+      "content": "加一点点重量都会感到巨大的不同"
+    },
+    {
+      "from": 78.6,
+      "to": 80.04,
+      "sid": 52,
+      "location": 2,
+      "content": "例如一些人类顶端的运动员"
+    },
+    {
+      "from": 80.04,
+      "to": 81.94,
+      "sid": 53,
+      "location": 2,
+      "content": "他们的胜负也就在0.5kg"
+    },
+    {
+      "from": 81.96,
+      "to": 83.52,
+      "sid": 54,
+      "location": 2,
+      "content": "如果你处在上升期"
+    },
+    {
+      "from": 83.52,
+      "to": 85.8,
+      "sid": 55,
+      "location": 2,
+      "content": "建议每周增加2%到5%的重量"
+    },
+    {
+      "from": 85.8,
+      "to": 86.46,
+      "sid": 56,
+      "location": 2,
+      "content": "慢慢进步"
+    },
+    {
+      "from": 86.46,
+      "to": 87.54,
+      "sid": 57,
+      "location": 2,
+      "content": "如果你在疲劳期"
+    },
+    {
+      "from": 87.54,
+      "to": 89.46,
+      "sid": 58,
+      "location": 2,
+      "content": "那建议减10%到15的重量"
+    },
+    {
+      "from": 89.46,
+      "to": 90.12,
+      "sid": 59,
+      "location": 2,
+      "content": "以退为进"
+    },
+    {
+      "from": 90.14,
+      "to": 92.66,
+      "sid": 60,
+      "location": 2,
+      "content": "建议大部分人自己配对1.25的就够用了"
+    },
+    {
+      "from": 92.66,
+      "to": 94.58,
+      "sid": 61,
+      "location": 2,
+      "content": "如果你是力气小的女生或者卡瓶颈"
+    },
+    {
+      "from": 94.58,
+      "to": 95.54,
+      "sid": 62,
+      "location": 2,
+      "content": "卡了很久的老手"
+    },
+    {
+      "from": 95.54,
+      "to": 96.74,
+      "sid": 63,
+      "location": 2,
+      "content": "再配一些更小的片子"
+    },
+    {
+      "from": 96.74,
+      "to": 98.24,
+      "sid": 64,
+      "location": 2,
+      "content": "让自己的换挡更加丝滑"
+    },
+    {
+      "from": 98.24,
+      "to": 98.9,
+      "sid": 65,
+      "location": 2,
+      "content": "需要的来"
+    }
+  ]
+}

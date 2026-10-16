@@ -1,0 +1,492 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 4.04,
+      "to": 4.85,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 4.85,
+      "to": 6.92,
+      "sid": 2,
+      "location": 2,
+      "content": "我是子强",
+      "music": 0.0
+    },
+    {
+      "from": 6.92,
+      "to": 10.16,
+      "sid": 3,
+      "location": 2,
+      "content": "今天我们要讲解的动作是锤式弯举",
+      "music": 0.0
+    },
+    {
+      "from": 10.16,
+      "to": 12.5,
+      "sid": 4,
+      "location": 2,
+      "content": "垂式弯举看起来很简单",
+      "music": 0.0
+    },
+    {
+      "from": 12.5,
+      "to": 15.26,
+      "sid": 5,
+      "location": 2,
+      "content": "但是很多人做错很多",
+      "music": 0.0
+    },
+    {
+      "from": 15.26,
+      "to": 17.51,
+      "sid": 6,
+      "location": 2,
+      "content": "动作上的细节是很讲究的",
+      "music": 0.0
+    },
+    {
+      "from": 17.51,
+      "to": 18.88,
+      "sid": 7,
+      "location": 2,
+      "content": "大家要注意",
+      "music": 0.0
+    },
+    {
+      "from": 18.96,
+      "to": 20.34,
+      "sid": 8,
+      "location": 2,
+      "content": "首先谈两点",
+      "music": 0.0
+    },
+    {
+      "from": 20.34,
+      "to": 22.74,
+      "sid": 9,
+      "location": 2,
+      "content": "第一如何握哑铃",
+      "music": 0.0
+    },
+    {
+      "from": 22.74,
+      "to": 24.0,
+      "sid": 10,
+      "location": 2,
+      "content": "大多数情况下",
+      "music": 0.0
+    },
+    {
+      "from": 24.0,
+      "to": 27.86,
+      "sid": 11,
+      "location": 2,
+      "content": "我们我哑铃都是我在哑铃的中间",
+      "music": 0.0
+    },
+    {
+      "from": 27.86,
+      "to": 29.96,
+      "sid": 12,
+      "location": 2,
+      "content": "做垂式弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 29.96,
+      "to": 32.019,
+      "sid": 13,
+      "location": 2,
+      "content": "我们可以晚上握一些",
+      "music": 0.0
+    },
+    {
+      "from": 33.52,
+      "to": 36.38,
+      "sid": 14,
+      "location": 2,
+      "content": "第二做垂式弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 36.38,
+      "to": 38.21,
+      "sid": 15,
+      "location": 2,
+      "content": "不建议使用太大的重量",
+      "music": 0.0
+    },
+    {
+      "from": 38.21,
+      "to": 41.98,
+      "sid": 16,
+      "location": 2,
+      "content": "建议大家使用每组能做8~12下的重量",
+      "music": 0.0
+    },
+    {
+      "from": 41.98,
+      "to": 44.14,
+      "sid": 17,
+      "location": 2,
+      "content": "挺胸核心收紧",
+      "music": 0.0
+    },
+    {
+      "from": 44.14,
+      "to": 45.88,
+      "sid": 18,
+      "location": 2,
+      "content": "膝盖微微自然弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 45.88,
+      "to": 47.44,
+      "sid": 19,
+      "location": 2,
+      "content": "保持身体的稳定",
+      "music": 0.0
+    },
+    {
+      "from": 47.44,
+      "to": 49.33,
+      "sid": 20,
+      "location": 2,
+      "content": "上臂紧贴着躯干",
+      "music": 0.0
+    },
+    {
+      "from": 49.33,
+      "to": 50.66,
+      "sid": 21,
+      "location": 2,
+      "content": "掌心相对",
+      "music": 0.0
+    },
+    {
+      "from": 58.5,
+      "to": 60.04,
+      "sid": 22,
+      "location": 2,
+      "content": "发力的时候吐气",
+      "music": 0.0
+    },
+    {
+      "from": 68.24,
+      "to": 70.5,
+      "sid": 23,
+      "location": 2,
+      "content": "缓慢控制地下饭",
+      "music": 0.0
+    },
+    {
+      "from": 75.4,
+      "to": 77.5,
+      "sid": 24,
+      "location": 2,
+      "content": "在底部充分的拉伸",
+      "music": 0.0
+    },
+    {
+      "from": 84.62,
+      "to": 85.84,
+      "sid": 25,
+      "location": 2,
+      "content": "有几个常见的错误",
+      "music": 0.0
+    },
+    {
+      "from": 85.84,
+      "to": 86.83,
+      "sid": 26,
+      "location": 2,
+      "content": "大家注意一下",
+      "music": 0.0
+    },
+    {
+      "from": 86.83,
+      "to": 91.86,
+      "sid": 27,
+      "location": 2,
+      "content": "第一最常见的错误就是上臂向前摆动太多",
+      "music": 0.0
+    },
+    {
+      "from": 97.22,
+      "to": 99.82,
+      "sid": 28,
+      "location": 2,
+      "content": "这么做的话就有点像上期我们讲解的",
+      "music": 0.0
+    },
+    {
+      "from": 99.82,
+      "to": 101.08,
+      "sid": 29,
+      "location": 2,
+      "content": "哑铃前平举",
+      "music": 0.0
+    },
+    {
+      "from": 101.3,
+      "to": 104.21,
+      "sid": 30,
+      "location": 2,
+      "content": "三角肌前束就参与发力过多",
+      "music": 0.0
+    },
+    {
+      "from": 104.21,
+      "to": 107.54,
+      "sid": 31,
+      "location": 2,
+      "content": "这就是为什么很多人说第二天手臂没感觉",
+      "music": 0.0
+    },
+    {
+      "from": 107.54,
+      "to": 108.86,
+      "sid": 32,
+      "location": 2,
+      "content": "肩膀很酸",
+      "music": 0.0
+    },
+    {
+      "from": 108.86,
+      "to": 110.88,
+      "sid": 33,
+      "location": 2,
+      "content": "做垂式弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 111.08,
+      "to": 114.7,
+      "sid": 34,
+      "location": 2,
+      "content": "上臂轻微的前后摆动是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 118.2,
+      "to": 119.54,
+      "sid": 35,
+      "location": 2,
+      "content": "但是不能这样乱甩",
+      "music": 0.0
+    },
+    {
+      "from": 122.12,
+      "to": 124.06,
+      "sid": 36,
+      "location": 2,
+      "content": "第二甩着做",
+      "music": 0.0
+    },
+    {
+      "from": 128.399,
+      "to": 131.689,
+      "sid": 37,
+      "location": 2,
+      "content": "这么做的话会对腰产生很大的压力",
+      "music": 0.0
+    },
+    {
+      "from": 131.689,
+      "to": 133.999,
+      "sid": 38,
+      "location": 2,
+      "content": "不单是没有达到训练二头的目的",
+      "music": 0.0
+    },
+    {
+      "from": 133.999,
+      "to": 135.94,
+      "sid": 39,
+      "location": 2,
+      "content": "还增加了伤病的风险",
+      "music": 0.0
+    },
+    {
+      "from": 135.94,
+      "to": 138.58,
+      "sid": 40,
+      "location": 2,
+      "content": "腰一旦受伤就不容易痊愈",
+      "music": 0.0
+    },
+    {
+      "from": 138.839,
+      "to": 141.809,
+      "sid": 41,
+      "location": 2,
+      "content": "男人的腰要是坏了就比较麻烦了",
+      "music": 0.0
+    },
+    {
+      "from": 141.809,
+      "to": 144.479,
+      "sid": 42,
+      "location": 2,
+      "content": "第三手肘太往外",
+      "music": 0.0
+    },
+    {
+      "from": 144.479,
+      "to": 145.6,
+      "sid": 43,
+      "location": 2,
+      "content": "这么做",
+      "music": 0.0
+    },
+    {
+      "from": 148.279,
+      "to": 149.679,
+      "sid": 44,
+      "location": 2,
+      "content": "做垂式弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 149.679,
+      "to": 151.9,
+      "sid": 45,
+      "location": 2,
+      "content": "我们手肘要紧贴着躯干",
+      "music": 0.0
+    },
+    {
+      "from": 160.08,
+      "to": 164.34,
+      "sid": 46,
+      "location": 2,
+      "content": "第四手肘太往后这么做",
+      "music": 0.0
+    },
+    {
+      "from": 167.46,
+      "to": 169.22,
+      "sid": 47,
+      "location": 2,
+      "content": "我们就垂式弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 169.22,
+      "to": 171.66,
+      "sid": 48,
+      "location": 2,
+      "content": "手肘大概是在这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 182.76,
+      "to": 185.12,
+      "sid": 49,
+      "location": 2,
+      "content": "最后我们换个角度再示范一下",
+      "music": 0.0
+    },
+    {
+      "from": 186.339,
+      "to": 188.699,
+      "sid": 50,
+      "location": 2,
+      "content": "挺胸核心收紧",
+      "music": 0.0
+    },
+    {
+      "from": 188.699,
+      "to": 190.349,
+      "sid": 51,
+      "location": 2,
+      "content": "膝盖微微自然弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 190.349,
+      "to": 191.96,
+      "sid": 52,
+      "location": 2,
+      "content": "保持身体的稳定",
+      "music": 0.0
+    },
+    {
+      "from": 195.24,
+      "to": 195.74,
+      "sid": 53,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 197.96,
+      "to": 200.86,
+      "sid": 54,
+      "location": 2,
+      "content": "啊发力时吐气",
+      "music": 0.0
+    },
+    {
+      "from": 205.959,
+      "to": 206.999,
+      "sid": 55,
+      "location": 2,
+      "content": "顶峰收说",
+      "music": 0.0
+    },
+    {
+      "from": 209.159,
+      "to": 211.24,
+      "sid": 56,
+      "location": 2,
+      "content": "缓慢控制地下饭",
+      "music": 0.0
+    },
+    {
+      "from": 215.48,
+      "to": 218.58,
+      "sid": 57,
+      "location": 2,
+      "content": "在底部充分感受二头的拉伸",
+      "music": 0.0
+    },
+    {
+      "from": 228.54,
+      "to": 232.1,
+      "sid": 58,
+      "location": 2,
+      "content": "想要加微信交流群的同学加这个号",
+      "music": 0.0
+    },
+    {
+      "from": 232.1,
+      "to": 234.35,
+      "sid": 59,
+      "location": 2,
+      "content": "咱们下期视频见",
+      "music": 0.0
+    },
+    {
+      "from": 234.35,
+      "to": 235.12,
+      "sid": 60,
+      "location": 2,
+      "content": "谢谢",
+      "music": 0.0
+    }
+  ]
+}

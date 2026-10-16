@@ -1,0 +1,1236 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.68,
+      "sid": 1,
+      "location": 2,
+      "content": "5kg那个很薄的那个片我都看不清啊",
+      "music": 0.0
+    },
+    {
+      "from": 2.68,
+      "to": 4.14,
+      "sid": 2,
+      "location": 2,
+      "content": "我还至少10kg以下啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.14,
+      "to": 6.38,
+      "sid": 3,
+      "location": 2,
+      "content": "反正我加上去他妈的我那动作质量",
+      "music": 0.0
+    },
+    {
+      "from": 6.38,
+      "to": 7.94,
+      "sid": 4,
+      "location": 2,
+      "content": "我的行程就越来越短就完了呗啊",
+      "music": 0.0
+    },
+    {
+      "from": 7.94,
+      "to": 10.62,
+      "sid": 5,
+      "location": 2,
+      "content": "那力量训练计划那些渐进超负荷大家都会",
+      "music": 0.0
+    },
+    {
+      "from": 10.62,
+      "to": 12.18,
+      "sid": 6,
+      "location": 2,
+      "content": "可是我去实行渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 12.18,
+      "to": 13.44,
+      "sid": 7,
+      "location": 2,
+      "content": "为什么我就完不成",
+      "music": 0.0
+    },
+    {
+      "from": 13.44,
+      "to": 15.14,
+      "sid": 8,
+      "location": 2,
+      "content": "为什么我实行渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 15.14,
+      "to": 17.12,
+      "sid": 9,
+      "location": 2,
+      "content": "他妈的加了重量我就卡住了",
+      "music": 0.0
+    },
+    {
+      "from": 17.12,
+      "to": 18.8,
+      "sid": 10,
+      "location": 2,
+      "content": "那还有一个很重要的一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 18.8,
+      "to": 21.12,
+      "sid": 11,
+      "location": 2,
+      "content": "兄弟们加重的幅度",
+      "music": 0.0
+    },
+    {
+      "from": 21.12,
+      "to": 22.96,
+      "sid": 12,
+      "location": 2,
+      "content": "那我记得之前在跟大家讲",
+      "music": 0.0
+    },
+    {
+      "from": 22.96,
+      "to": 24.98,
+      "sid": 13,
+      "location": 2,
+      "content": "周期性的力量训练计划的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 24.98,
+      "to": 27.02,
+      "sid": 14,
+      "location": 2,
+      "content": "我们下肢啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.02,
+      "to": 29.38,
+      "sid": 15,
+      "location": 2,
+      "content": "你加重的幅度可以5kg一加",
+      "music": 0.0
+    },
+    {
+      "from": 29.38,
+      "to": 32.79,
+      "sid": 16,
+      "location": 2,
+      "content": "也就是说一边一个2.5的那个片",
+      "music": 0.0
+    },
+    {
+      "from": 32.79,
+      "to": 34.77,
+      "sid": 17,
+      "location": 2,
+      "content": "大部分的健身房啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.77,
+      "to": 37.33,
+      "sid": 18,
+      "location": 2,
+      "content": "他最小的就是这个2.5kg的一个片子",
+      "music": 0.0
+    },
+    {
+      "from": 37.33,
+      "to": 39.59,
+      "sid": 19,
+      "location": 2,
+      "content": "但是一次增加5kg",
+      "music": 0.0
+    },
+    {
+      "from": 39.59,
+      "to": 42.54,
+      "sid": 20,
+      "location": 2,
+      "content": "对于我们的上总之来说是不是太大了一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 42.54,
+      "to": 44.72,
+      "sid": 21,
+      "location": 2,
+      "content": "特别是对于卧推站姿的实力推举",
+      "music": 0.0
+    },
+    {
+      "from": 44.72,
+      "to": 46.0,
+      "sid": 22,
+      "location": 2,
+      "content": "这样那一次加5kg",
+      "music": 0.0
+    },
+    {
+      "from": 46.0,
+      "to": 47.56,
+      "sid": 23,
+      "location": 2,
+      "content": "那么加不了两次就加不动了呀",
+      "music": 0.0
+    },
+    {
+      "from": 47.56,
+      "to": 48.61,
+      "sid": 24,
+      "location": 2,
+      "content": "那咋办啊",
+      "music": 0.0
+    },
+    {
+      "from": 48.61,
+      "to": 49.69,
+      "sid": 25,
+      "location": 2,
+      "content": "自己买片啊",
+      "music": 0.0
+    },
+    {
+      "from": 49.69,
+      "to": 51.65,
+      "sid": 26,
+      "location": 2,
+      "content": "像我自己也会买片啊",
+      "music": 0.0
+    },
+    {
+      "from": 51.65,
+      "to": 54.47,
+      "sid": 27,
+      "location": 2,
+      "content": "像这种1.25kg的啊",
+      "music": 0.0
+    },
+    {
+      "from": 54.47,
+      "to": 57.25,
+      "sid": 28,
+      "location": 2,
+      "content": "包括0.25kg的",
+      "music": 0.0
+    },
+    {
+      "from": 57.25,
+      "to": 60.09,
+      "sid": 29,
+      "location": 2,
+      "content": "0.75kg的啊",
+      "music": 0.0
+    },
+    {
+      "from": 60.09,
+      "to": 63.67,
+      "sid": 30,
+      "location": 2,
+      "content": "包括这个0.5kg的啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.67,
+      "to": 65.03,
+      "sid": 31,
+      "location": 2,
+      "content": "这样的一个搭配的话",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 66.77,
+      "sid": 32,
+      "location": 2,
+      "content": "实际上你就完完全全可以覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 66.77,
+      "to": 69.16,
+      "sid": 33,
+      "location": 2,
+      "content": "2.5kg以下的一个组织",
+      "music": 0.0
+    },
+    {
+      "from": 69.48,
+      "to": 73.89,
+      "sid": 34,
+      "location": 2,
+      "content": "那么比如说在我们接近啊余量越少的时候",
+      "music": 0.0
+    },
+    {
+      "from": 73.89,
+      "to": 75.25,
+      "sid": 35,
+      "location": 2,
+      "content": "你就不能够去实行啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.25,
+      "to": 76.41,
+      "sid": 36,
+      "location": 2,
+      "content": "像之前说的",
+      "music": 0.0
+    },
+    {
+      "from": 76.41,
+      "to": 78.96,
+      "sid": 37,
+      "location": 2,
+      "content": "还是以1.25kg的去加啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.96,
+      "to": 81.96,
+      "sid": 38,
+      "location": 2,
+      "content": "如果每一次你都做主的训练都去推加啊",
+      "music": 0.0
+    },
+    {
+      "from": 81.96,
+      "to": 84.4,
+      "sid": 39,
+      "location": 2,
+      "content": "这个2.5kg很重啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.4,
+      "to": 85.98,
+      "sid": 40,
+      "location": 2,
+      "content": "你会很容易就完不成了",
+      "music": 0.0
+    },
+    {
+      "from": 85.98,
+      "to": 87.72,
+      "sid": 41,
+      "location": 2,
+      "content": "这个时候我们少一点吧",
+      "music": 0.0
+    },
+    {
+      "from": 87.72,
+      "to": 90.11,
+      "sid": 42,
+      "location": 2,
+      "content": "啊啊我们一次就加1.5kg嘛",
+      "music": 0.0
+    },
+    {
+      "from": 90.11,
+      "to": 91.93,
+      "sid": 43,
+      "location": 2,
+      "content": "啊这个0.75的天啊",
+      "music": 0.0
+    },
+    {
+      "from": 91.93,
+      "to": 92.95,
+      "sid": 44,
+      "location": 2,
+      "content": "越往后走",
+      "music": 0.0
+    },
+    {
+      "from": 92.95,
+      "to": 94.59,
+      "sid": 45,
+      "location": 2,
+      "content": "那我们就加这个一公斤吧",
+      "music": 0.0
+    },
+    {
+      "from": 94.59,
+      "to": 96.14,
+      "sid": 46,
+      "location": 2,
+      "content": "啊这个0.5的天",
+      "music": 0.0
+    },
+    {
+      "from": 96.14,
+      "to": 97.24,
+      "sid": 47,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 97.24,
+      "to": 98.57,
+      "sid": 48,
+      "location": 2,
+      "content": "这样去加",
+      "music": 0.0
+    },
+    {
+      "from": 98.57,
+      "to": 100.17,
+      "sid": 49,
+      "location": 2,
+      "content": "保证我们留有余量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 100.17,
+      "to": 102.57,
+      "sid": 50,
+      "location": 2,
+      "content": "同样的去实行了渐进超负荷啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.57,
+      "to": 103.71,
+      "sid": 51,
+      "location": 2,
+      "content": "不会让你白练",
+      "music": 0.0
+    },
+    {
+      "from": 103.71,
+      "to": 105.97,
+      "sid": 52,
+      "location": 2,
+      "content": "那这个就是非常底层的一个逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 105.97,
+      "to": 109.87,
+      "sid": 53,
+      "location": 2,
+      "content": "因为我们人来到了我们接近极限的时候",
+      "music": 0.0
+    },
+    {
+      "from": 109.87,
+      "to": 112.27,
+      "sid": 54,
+      "location": 2,
+      "content": "他实际上他的进步的幅度以及空间",
+      "music": 0.0
+    },
+    {
+      "from": 112.27,
+      "to": 113.05,
+      "sid": 55,
+      "location": 2,
+      "content": "就没多少了啊",
+      "music": 0.0
+    },
+    {
+      "from": 113.05,
+      "to": 115.31,
+      "sid": 56,
+      "location": 2,
+      "content": "这个时候相当于如果你用股市来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 115.31,
+      "to": 117.42,
+      "sid": 57,
+      "location": 2,
+      "content": "这个时候已经是高位了啊",
+      "music": 0.0
+    },
+    {
+      "from": 117.42,
+      "to": 118.5,
+      "sid": 58,
+      "location": 2,
+      "content": "那高位了",
+      "music": 0.0
+    },
+    {
+      "from": 118.5,
+      "to": 121.1,
+      "sid": 59,
+      "location": 2,
+      "content": "我们就不能够再把钱使命的",
+      "music": 0.0
+    },
+    {
+      "from": 121.1,
+      "to": 123.31,
+      "sid": 60,
+      "location": 2,
+      "content": "大资金的往里面去砸啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.31,
+      "to": 123.99,
+      "sid": 61,
+      "location": 2,
+      "content": "懂不懂",
+      "music": 0.0
+    },
+    {
+      "from": 123.99,
+      "to": 124.63,
+      "sid": 62,
+      "location": 2,
+      "content": "你高位了",
+      "music": 0.0
+    },
+    {
+      "from": 124.63,
+      "to": 125.63,
+      "sid": 63,
+      "location": 2,
+      "content": "你去追涨",
+      "music": 0.0
+    },
+    {
+      "from": 125.63,
+      "to": 127.15,
+      "sid": 64,
+      "location": 2,
+      "content": "你去杀跌啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.15,
+      "to": 129.37,
+      "sid": 65,
+      "location": 2,
+      "content": "那最终就会被套在高位",
+      "music": 0.0
+    },
+    {
+      "from": 129.37,
+      "to": 131.61,
+      "sid": 66,
+      "location": 2,
+      "content": "那回到我们历练训练的一个本书啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.61,
+      "to": 133.37,
+      "sid": 67,
+      "location": 2,
+      "content": "你像这样的片很便宜的啊",
+      "music": 0.0
+    },
+    {
+      "from": 133.37,
+      "to": 134.53,
+      "sid": 68,
+      "location": 2,
+      "content": "那几十块钱就买了",
+      "music": 0.0
+    },
+    {
+      "from": 134.53,
+      "to": 136.83,
+      "sid": 69,
+      "location": 2,
+      "content": "买了之后那也不占地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.83,
+      "to": 137.97,
+      "sid": 70,
+      "location": 2,
+      "content": "你就卖这种小钢片",
+      "music": 0.0
+    },
+    {
+      "from": 137.97,
+      "to": 138.91,
+      "sid": 71,
+      "location": 2,
+      "content": "不占地方的啊",
+      "music": 0.0
+    },
+    {
+      "from": 138.91,
+      "to": 139.91,
+      "sid": 72,
+      "location": 2,
+      "content": "你每次训练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 139.91,
+      "to": 141.23,
+      "sid": 73,
+      "location": 2,
+      "content": "你计划推进到哪个位置",
+      "music": 0.0
+    },
+    {
+      "from": 141.23,
+      "to": 145.02,
+      "sid": 74,
+      "location": 2,
+      "content": "你就去把它啊带着包里去训练就行了",
+      "music": 0.0
+    },
+    {
+      "from": 145.02,
+      "to": 146.42,
+      "sid": 75,
+      "location": 2,
+      "content": "因为现在大部分的健身房啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.42,
+      "to": 148.24,
+      "sid": 76,
+      "location": 2,
+      "content": "他老板也没有这个意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 148.24,
+      "to": 149.58,
+      "sid": 77,
+      "location": 2,
+      "content": "可能老板有这个意识",
+      "music": 0.0
+    },
+    {
+      "from": 149.58,
+      "to": 152.1,
+      "sid": 78,
+      "location": 2,
+      "content": "他也变相的不想让你们这些逼进步啊",
+      "music": 0.0
+    },
+    {
+      "from": 152.1,
+      "to": 154.74,
+      "sid": 79,
+      "location": 2,
+      "content": "那就索性就把最小的片用到那个2.5kg",
+      "music": 0.0
+    },
+    {
+      "from": 154.74,
+      "to": 156.1,
+      "sid": 80,
+      "location": 2,
+      "content": "那一加就加5kg",
+      "music": 0.0
+    },
+    {
+      "from": 156.1,
+      "to": 156.86,
+      "sid": 81,
+      "location": 2,
+      "content": "很多小伙伴啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.86,
+      "to": 157.94,
+      "sid": 82,
+      "location": 2,
+      "content": "你在做上肢推的时候",
+      "music": 0.0
+    },
+    {
+      "from": 157.94,
+      "to": 159.34,
+      "sid": 83,
+      "location": 2,
+      "content": "你就感觉很难啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.34,
+      "to": 161.38,
+      "sid": 84,
+      "location": 2,
+      "content": "不加呢那感觉又轻了一点",
+      "music": 0.0
+    },
+    {
+      "from": 161.38,
+      "to": 163.5,
+      "sid": 85,
+      "location": 2,
+      "content": "那加了又完全就完不成太重了",
+      "music": 0.0
+    },
+    {
+      "from": 163.5,
+      "to": 164.65,
+      "sid": 86,
+      "location": 2,
+      "content": "所以说自己带片啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.65,
+      "to": 165.37,
+      "sid": 87,
+      "location": 2,
+      "content": "自己带片",
+      "music": 0.0
+    },
+    {
+      "from": 165.37,
+      "to": 167.55,
+      "sid": 88,
+      "location": 2,
+      "content": "然后套用到我跟你们说的",
+      "music": 0.0
+    },
+    {
+      "from": 167.55,
+      "to": 170.01,
+      "sid": 89,
+      "location": 2,
+      "content": "周期性的训练计划当中去啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.01,
+      "to": 172.79,
+      "sid": 90,
+      "location": 2,
+      "content": "额去计算好你每一次训练的一个重量",
+      "music": 0.0
+    },
+    {
+      "from": 172.79,
+      "to": 174.45,
+      "sid": 91,
+      "location": 2,
+      "content": "那几乎都是能完得成的啊",
+      "music": 0.0
+    },
+    {
+      "from": 174.45,
+      "to": 176.17,
+      "sid": 92,
+      "location": 2,
+      "content": "不会存在于很多小伙伴说啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.17,
+      "to": 176.77,
+      "sid": 93,
+      "location": 2,
+      "content": "我那卧推",
+      "music": 0.0
+    },
+    {
+      "from": 176.77,
+      "to": 179.11,
+      "sid": 94,
+      "location": 2,
+      "content": "我总之在最后一个会被压",
+      "music": 0.0
+    },
+    {
+      "from": 179.11,
+      "to": 183.49,
+      "sid": 95,
+      "location": 2,
+      "content": "那咋可能会被压呢啊你的训练的本次计划",
+      "music": 0.0
+    },
+    {
+      "from": 183.49,
+      "to": 187.35,
+      "sid": 96,
+      "location": 2,
+      "content": "这个做主的是肯定能保证你能完成的啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.35,
+      "to": 189.23,
+      "sid": 97,
+      "location": 2,
+      "content": "那如果你完不成",
+      "music": 0.0
+    },
+    {
+      "from": 189.23,
+      "to": 192.41,
+      "sid": 98,
+      "location": 2,
+      "content": "那很有一个可能就是在你上一次训练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 192.41,
+      "to": 193.91,
+      "sid": 99,
+      "location": 2,
+      "content": "你掺了水啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.91,
+      "to": 196.61,
+      "sid": 100,
+      "location": 2,
+      "content": "比如说你明明已经啊接近力竭",
+      "music": 0.0
+    },
+    {
+      "from": 196.61,
+      "to": 199.17,
+      "sid": 101,
+      "location": 2,
+      "content": "你要去牺牲掉动作质量去弹啊",
+      "music": 0.0
+    },
+    {
+      "from": 199.17,
+      "to": 200.9,
+      "sid": 102,
+      "location": 2,
+      "content": "歪七扭八的去顶啊",
+      "music": 0.0
+    },
+    {
+      "from": 200.9,
+      "to": 202.26,
+      "sid": 103,
+      "location": 2,
+      "content": "去完成的那个组次数",
+      "music": 0.0
+    },
+    {
+      "from": 202.26,
+      "to": 203.96,
+      "sid": 104,
+      "location": 2,
+      "content": "到下一次训练的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 203.96,
+      "to": 206.76,
+      "sid": 105,
+      "location": 2,
+      "content": "你由于上一次训练你是没有达标的啊",
+      "music": 0.0
+    },
+    {
+      "from": 206.76,
+      "to": 208.04,
+      "sid": 106,
+      "location": 2,
+      "content": "不符合你加重量的",
+      "music": 0.0
+    },
+    {
+      "from": 208.04,
+      "to": 210.58,
+      "sid": 107,
+      "location": 2,
+      "content": "你才会被自己所耍的小聪明给困住",
+      "music": 0.0
+    },
+    {
+      "from": 210.58,
+      "to": 211.36,
+      "sid": 108,
+      "location": 2,
+      "content": "那力量训练",
+      "music": 0.0
+    },
+    {
+      "from": 211.36,
+      "to": 213.03,
+      "sid": 109,
+      "location": 2,
+      "content": "力量训练那是掺不得水的",
+      "music": 0.0
+    },
+    {
+      "from": 213.03,
+      "to": 214.43,
+      "sid": 110,
+      "location": 2,
+      "content": "你掺了水之后",
+      "music": 0.0
+    },
+    {
+      "from": 214.43,
+      "to": 217.23,
+      "sid": 111,
+      "location": 2,
+      "content": "你在随后的训练当中绝对会反馈给你的啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.23,
+      "to": 218.23,
+      "sid": 112,
+      "location": 2,
+      "content": "那就不是正反馈了",
+      "music": 0.0
+    },
+    {
+      "from": 218.23,
+      "to": 219.35,
+      "sid": 113,
+      "location": 2,
+      "content": "那是负反馈了",
+      "music": 0.0
+    },
+    {
+      "from": 219.35,
+      "to": 221.11,
+      "sid": 114,
+      "location": 2,
+      "content": "现在很多小伙伴那越练越倒退",
+      "music": 0.0
+    },
+    {
+      "from": 221.11,
+      "to": 222.03,
+      "sid": 115,
+      "location": 2,
+      "content": "就是这个原因啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.03,
+      "to": 223.91,
+      "sid": 116,
+      "location": 2,
+      "content": "那明明不该你增加重量的时候",
+      "music": 0.0
+    },
+    {
+      "from": 223.91,
+      "to": 224.63,
+      "sid": 117,
+      "location": 2,
+      "content": "你去增加",
+      "music": 0.0
+    },
+    {
+      "from": 224.63,
+      "to": 226.27,
+      "sid": 118,
+      "location": 2,
+      "content": "明明不该你加那么多的时候",
+      "music": 0.0
+    },
+    {
+      "from": 226.27,
+      "to": 228.209,
+      "sid": 119,
+      "location": 2,
+      "content": "你你毛几次都往上加啊",
+      "music": 0.0
+    },
+    {
+      "from": 228.209,
+      "to": 229.969,
+      "sid": 120,
+      "location": 2,
+      "content": "小心驶得万年船",
+      "music": 0.0
+    },
+    {
+      "from": 229.969,
+      "to": 232.909,
+      "sid": 121,
+      "location": 2,
+      "content": "对于立讯来说是非常非常受用的啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.909,
+      "to": 234.889,
+      "sid": 122,
+      "location": 2,
+      "content": "我们跑的不是比谁更快",
+      "music": 0.0
+    },
+    {
+      "from": 234.889,
+      "to": 236.06,
+      "sid": 123,
+      "location": 2,
+      "content": "是要跑的更远",
+      "music": 0.0
+    },
+    {
+      "from": 236.06,
+      "to": 238.0,
+      "sid": 124,
+      "location": 2,
+      "content": "如果啊你不要小看啊",
+      "music": 0.0
+    },
+    {
+      "from": 238.0,
+      "to": 240.84,
+      "sid": 125,
+      "location": 2,
+      "content": "这个比如说就一公斤吧啊一公斤的片",
+      "music": 0.0
+    },
+    {
+      "from": 240.84,
+      "to": 243.44,
+      "sid": 126,
+      "location": 2,
+      "content": "你每次训练你能增加一公斤啊",
+      "music": 0.0
+    },
+    {
+      "from": 243.44,
+      "to": 245.85,
+      "sid": 127,
+      "location": 2,
+      "content": "我们就以一周来算啊",
+      "music": 0.0
+    },
+    {
+      "from": 245.85,
+      "to": 247.77,
+      "sid": 128,
+      "location": 2,
+      "content": "你一年能够进步多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 247.77,
+      "to": 249.85,
+      "sid": 129,
+      "location": 2,
+      "content": "当然这是一个非常理想化的一个状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.85,
+      "to": 251.73,
+      "sid": 130,
+      "location": 2,
+      "content": "实际上也不太可能啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.73,
+      "to": 254.55,
+      "sid": 131,
+      "location": 2,
+      "content": "你一个月啊练到后面能够增加一公斤",
+      "music": 0.0
+    },
+    {
+      "from": 254.55,
+      "to": 257.53,
+      "sid": 132,
+      "location": 2,
+      "content": "那一年都是十几公斤的一个极限的一个增长",
+      "music": 0.0
+    },
+    {
+      "from": 257.53,
+      "to": 260.07,
+      "sid": 133,
+      "location": 2,
+      "content": "那不晓得啊对不对",
+      "music": 0.0
+    },
+    {
+      "from": 260.07,
+      "to": 262.67,
+      "sid": 134,
+      "location": 2,
+      "content": "要这样看吧啊但很多小白他会说啊",
+      "music": 0.0
+    },
+    {
+      "from": 262.67,
+      "to": 263.87,
+      "sid": 135,
+      "location": 2,
+      "content": "那健身房那2.5的片",
+      "music": 0.0
+    },
+    {
+      "from": 263.87,
+      "to": 264.65,
+      "sid": 136,
+      "location": 2,
+      "content": "我他妈都看不起",
+      "music": 0.0
+    },
+    {
+      "from": 264.65,
+      "to": 267.55,
+      "sid": 137,
+      "location": 2,
+      "content": "那5kg那个很薄的那个片我都看不起啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.55,
+      "to": 268.98,
+      "sid": 138,
+      "location": 2,
+      "content": "我还至少10kg以下啊",
+      "music": 0.0
+    },
+    {
+      "from": 268.98,
+      "to": 271.26,
+      "sid": 139,
+      "location": 2,
+      "content": "反正我加上去他妈的我那动作质量",
+      "music": 0.0
+    },
+    {
+      "from": 271.26,
+      "to": 272.7,
+      "sid": 140,
+      "location": 2,
+      "content": "我的行程就越来越短就完了呗",
+      "music": 0.0
+    },
+    {
+      "from": 272.7,
+      "to": 273.9,
+      "sid": 141,
+      "location": 2,
+      "content": "啊很多人都这样练的啊",
+      "music": 0.0
+    },
+    {
+      "from": 273.9,
+      "to": 275.11,
+      "sid": 142,
+      "location": 2,
+      "content": "看起来也很可笑",
+      "music": 0.0
+    },
+    {
+      "from": 275.11,
+      "to": 277.75,
+      "sid": 143,
+      "location": 2,
+      "content": "但是真正的成熟的立讯者啊",
+      "music": 0.0
+    },
+    {
+      "from": 277.75,
+      "to": 280.03,
+      "sid": 144,
+      "location": 2,
+      "content": "一定是会学习思考的好吧",
+      "music": 0.0
+    },
+    {
+      "from": 280.03,
+      "to": 280.83,
+      "sid": 145,
+      "location": 2,
+      "content": "今天的视频就聊到这",
+      "music": 0.0
+    },
+    {
+      "from": 280.83,
+      "to": 281.03,
+      "sid": 146,
+      "location": 2,
+      "content": "多学习",
+      "music": 0.0
+    },
+    {
+      "from": 281.03,
+      "to": 281.35,
+      "sid": 147,
+      "location": 2,
+      "content": "多思考",
+      "music": 0.0
+    },
+    {
+      "from": 281.35,
+      "to": 281.71,
+      "sid": 148,
+      "location": 2,
+      "content": "注意监督",
+      "music": 0.0
+    },
+    {
+      "from": 281.71,
+      "to": 282.55,
+      "sid": 149,
+      "location": 2,
+      "content": "孝敬你所有生者来源",
+      "music": 0.0
+    },
+    {
+      "from": 282.55,
+      "to": 283.05,
+      "sid": 150,
+      "location": 2,
+      "content": "你思考",
+      "music": 0.0
+    },
+    {
+      "from": 283.05,
+      "to": 283.51,
+      "sid": 151,
+      "location": 2,
+      "content": "记住你",
+      "music": 0.0
+    },
+    {
+      "from": 283.51,
+      "to": 284.41,
+      "sid": 152,
+      "location": 2,
+      "content": "听我解散",
+      "music": 0.0
+    },
+    {
+      "from": 284.41,
+      "to": 285.5,
+      "sid": 153,
+      "location": 2,
+      "content": "下课",
+      "music": 0.0
+    }
+  ]
+}

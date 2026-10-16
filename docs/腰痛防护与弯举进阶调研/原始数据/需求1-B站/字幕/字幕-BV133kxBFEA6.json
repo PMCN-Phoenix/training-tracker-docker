@@ -1,0 +1,1198 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.38,
+   "to": 2.02,
+   "sid": 1,
+   "location": 2,
+   "content": "坐姿划船的时候腰疼",
+   "music": 0.0
+  },
+  {
+   "from": 2.02,
+   "to": 6.01,
+   "sid": 2,
+   "location": 2,
+   "content": "那器械划船那重量大了也腰疼",
+   "music": 0.0
+  },
+  {
+   "from": 6.01,
+   "to": 7.41,
+   "sid": 3,
+   "location": 2,
+   "content": "我能不能买个腰带啊",
+   "music": 0.0
+  },
+  {
+   "from": 7.41,
+   "to": 8.85,
+   "sid": 4,
+   "location": 2,
+   "content": "买个那种布的",
+   "music": 0.0
+  },
+  {
+   "from": 8.85,
+   "to": 9.53,
+   "sid": 5,
+   "location": 2,
+   "content": "不是啊",
+   "music": 0.0
+  },
+  {
+   "from": 9.53,
+   "to": 10.19,
+   "sid": 6,
+   "location": 2,
+   "content": "这位朋友",
+   "music": 0.0
+  },
+  {
+   "from": 10.19,
+   "to": 12.07,
+   "sid": 7,
+   "location": 2,
+   "content": "你坐姿划船啊",
+   "music": 0.0
+  },
+  {
+   "from": 12.07,
+   "to": 13.73,
+   "sid": 8,
+   "location": 2,
+   "content": "你前面核心没收紧",
+   "music": 0.0
+  },
+  {
+   "from": 13.73,
+   "to": 16.34,
+   "sid": 9,
+   "location": 2,
+   "content": "你的腰疼啊也就算了啊",
+   "music": 0.0
+  },
+  {
+   "from": 16.34,
+   "to": 18.18,
+   "sid": 10,
+   "location": 2,
+   "content": "你那器械划船",
+   "music": 0.0
+  },
+  {
+   "from": 18.18,
+   "to": 19.44,
+   "sid": 11,
+   "location": 2,
+   "content": "你怎么能腰疼的呀",
+   "music": 0.0
+  },
+  {
+   "from": 19.44,
+   "to": 21.54,
+   "sid": 12,
+   "location": 2,
+   "content": "啊大部分的器械啊",
+   "music": 0.0
+  },
+  {
+   "from": 21.54,
+   "to": 22.52,
+   "sid": 13,
+   "location": 2,
+   "content": "你俯身的拉马",
+   "music": 0.0
+  },
+  {
+   "from": 22.52,
+   "to": 23.52,
+   "sid": 14,
+   "location": 2,
+   "content": "垂直的拉马",
+   "music": 0.0
+  },
+  {
+   "from": 23.52,
+   "to": 25.73,
+   "sid": 15,
+   "location": 2,
+   "content": "他前面一般都有个挡板啊",
+   "music": 0.0
+  },
+  {
+   "from": 25.73,
+   "to": 26.93,
+   "sid": 16,
+   "location": 2,
+   "content": "啊对不对",
+   "music": 0.0
+  },
+  {
+   "from": 26.93,
+   "to": 29.03,
+   "sid": 17,
+   "location": 2,
+   "content": "你通常来说你的器械啊",
+   "music": 0.0
+  },
+  {
+   "from": 29.03,
+   "to": 30.37,
+   "sid": 18,
+   "location": 2,
+   "content": "垂直拉力的动作",
+   "music": 0.0
+  },
+  {
+   "from": 30.37,
+   "to": 31.95,
+   "sid": 19,
+   "location": 2,
+   "content": "那你不可能拉的自己腰疼嘛",
+   "music": 0.0
+  },
+  {
+   "from": 31.95,
+   "to": 34.66,
+   "sid": 20,
+   "location": 2,
+   "content": "啊只有这种水平方向的啊",
+   "music": 0.0
+  },
+  {
+   "from": 34.66,
+   "to": 38.18,
+   "sid": 21,
+   "location": 2,
+   "content": "你去拉那不水平方向的那都是有挡板的",
+   "music": 0.0
+  },
+  {
+   "from": 38.18,
+   "to": 40.14,
+   "sid": 22,
+   "location": 2,
+   "content": "你怎么能把腰给练疼的啊",
+   "music": 0.0
+  },
+  {
+   "from": 40.14,
+   "to": 42.44,
+   "sid": 23,
+   "location": 2,
+   "content": "啊是过度反弓吗",
+   "music": 0.0
+  },
+  {
+   "from": 42.44,
+   "to": 47.73,
+   "sid": 24,
+   "location": 2,
+   "content": "啊过度反弓后仰挤压了你那个腰啊",
+   "music": 0.0
+  },
+  {
+   "from": 47.73,
+   "to": 48.65,
+   "sid": 25,
+   "location": 2,
+   "content": "通常遇到这种情况",
+   "music": 0.0
+  },
+  {
+   "from": 48.65,
+   "to": 50.48,
+   "sid": 26,
+   "location": 2,
+   "content": "腰带是救不了你们的",
+   "music": 0.0
+  },
+  {
+   "from": 50.72,
+   "to": 51.32,
+   "sid": 27,
+   "location": 2,
+   "content": "还有啊",
+   "music": 0.0
+  },
+  {
+   "from": 51.32,
+   "to": 54.06,
+   "sid": 28,
+   "location": 2,
+   "content": "不管像是不是这位朋友的这种情况啊",
+   "music": 0.0
+  },
+  {
+   "from": 54.06,
+   "to": 56.37,
+   "sid": 29,
+   "location": 2,
+   "content": "你们练其他的自由类的动作啊",
+   "music": 0.0
+  },
+  {
+   "from": 56.37,
+   "to": 58.89,
+   "sid": 30,
+   "location": 2,
+   "content": "你训练不要把你的啊",
+   "music": 0.0
+  },
+  {
+   "from": 58.89,
+   "to": 61.25,
+   "sid": 31,
+   "location": 2,
+   "content": "核心安全性都交给你的腰带啊",
+   "music": 0.0
+  },
+  {
+   "from": 61.25,
+   "to": 63.06,
+   "sid": 32,
+   "location": 2,
+   "content": "腰带它只是辅助性的作用",
+   "music": 0.0
+  },
+  {
+   "from": 63.06,
+   "to": 64.72,
+   "sid": 33,
+   "location": 2,
+   "content": "你不能全靠腰带啊",
+   "music": 0.0
+  },
+  {
+   "from": 64.72,
+   "to": 65.98,
+   "sid": 34,
+   "location": 2,
+   "content": "你那核心是松的",
+   "music": 0.0
+  },
+  {
+   "from": 65.98,
+   "to": 67.26,
+   "sid": 35,
+   "location": 2,
+   "content": "你核心收不紧",
+   "music": 0.0
+  },
+  {
+   "from": 67.26,
+   "to": 70.02,
+   "sid": 36,
+   "location": 2,
+   "content": "你带上腰带那也是白搭",
+   "music": 0.0
+  },
+  {
+   "from": 70.35,
+   "to": 73.99,
+   "sid": 37,
+   "location": 2,
+   "content": "懂不懂他腰带是在你核心支撑不住",
+   "music": 0.0
+  },
+  {
+   "from": 73.99,
+   "to": 75.15,
+   "sid": 38,
+   "location": 2,
+   "content": "要崩掉的时候啊",
+   "music": 0.0
+  },
+  {
+   "from": 75.15,
+   "to": 77.65,
+   "sid": 39,
+   "location": 2,
+   "content": "那腰带给你起一定的保护作用啊",
+   "music": 0.0
+  },
+  {
+   "from": 77.65,
+   "to": 79.63,
+   "sid": 40,
+   "location": 2,
+   "content": "让人帮助你更好的去建立腹内压",
+   "music": 0.0
+  },
+  {
+   "from": 79.63,
+   "to": 83.24,
+   "sid": 41,
+   "location": 2,
+   "content": "而不是说你全部去依靠你那个腰带啊",
+   "music": 0.0
+  },
+  {
+   "from": 83.24,
+   "to": 84.94,
+   "sid": 42,
+   "location": 2,
+   "content": "训练训练用进废退啊",
+   "music": 0.0
+  },
+  {
+   "from": 84.94,
+   "to": 86.56,
+   "sid": 43,
+   "location": 2,
+   "content": "各种护具也是的",
+   "music": 0.0
+  },
+  {
+   "from": 86.56,
+   "to": 88.44,
+   "sid": 44,
+   "location": 2,
+   "content": "你们带护具的时候啊",
+   "music": 0.0
+  },
+  {
+   "from": 88.44,
+   "to": 89.979,
+   "sid": 45,
+   "location": 2,
+   "content": "你正常做主",
+   "music": 0.0
+  },
+  {
+   "from": 89.979,
+   "to": 92.699,
+   "sid": 46,
+   "location": 2,
+   "content": "我觉得你正常带腹肌是没有任何问题的啊",
+   "music": 0.0
+  },
+  {
+   "from": 92.699,
+   "to": 94.299,
+   "sid": 47,
+   "location": 2,
+   "content": "如果你青训你减窄",
+   "music": 0.0
+  },
+  {
+   "from": 94.299,
+   "to": 95.099,
+   "sid": 48,
+   "location": 2,
+   "content": "你在热身的时候",
+   "music": 0.0
+  },
+  {
+   "from": 95.099,
+   "to": 97.179,
+   "sid": 49,
+   "location": 2,
+   "content": "你也是完完全全把自己裹的跟粽子一样啊",
+   "music": 0.0
+  },
+  {
+   "from": 97.179,
+   "to": 98.27,
+   "sid": 50,
+   "location": 2,
+   "content": "什么腹肌都带上",
+   "music": 0.0
+  },
+  {
+   "from": 98.27,
+   "to": 99.07,
+   "sid": 51,
+   "location": 2,
+   "content": "你不用它",
+   "music": 0.0
+  },
+  {
+   "from": 99.07,
+   "to": 100.37,
+   "sid": 52,
+   "location": 2,
+   "content": "它就会退化掉",
+   "music": 0.0
+  },
+  {
+   "from": 100.37,
+   "to": 102.33,
+   "sid": 53,
+   "location": 2,
+   "content": "懂不懂这个简单的意思啊",
+   "music": 0.0
+  },
+  {
+   "from": 102.33,
+   "to": 103.65,
+   "sid": 54,
+   "location": 2,
+   "content": "还有一点啊",
+   "music": 0.0
+  },
+  {
+   "from": 103.65,
+   "to": 108.71,
+   "sid": 55,
+   "location": 2,
+   "content": "你们需要非常非常的去重视你们的后侧链啊",
+   "music": 0.0
+  },
+  {
+   "from": 108.71,
+   "to": 111.59,
+   "sid": 56,
+   "location": 2,
+   "content": "很多小伙伴在健身房里刚进到训练的时候",
+   "music": 0.0
+  },
+  {
+   "from": 111.59,
+   "to": 113.06,
+   "sid": 57,
+   "location": 2,
+   "content": "都喜欢去练正面啊",
+   "music": 0.0
+  },
+  {
+   "from": 113.06,
+   "to": 114.14,
+   "sid": 58,
+   "location": 2,
+   "content": "练推啊",
+   "music": 0.0
+  },
+  {
+   "from": 114.14,
+   "to": 116.26,
+   "sid": 59,
+   "location": 2,
+   "content": "去练自己的股市啊",
+   "music": 0.0
+  },
+  {
+   "from": 116.26,
+   "to": 117.9,
+   "sid": 60,
+   "location": 2,
+   "content": "想让自己的正面看起来更饱满",
+   "music": 0.0
+  },
+  {
+   "from": 117.9,
+   "to": 118.78,
+   "sid": 61,
+   "location": 2,
+   "content": "更立体",
+   "music": 0.0
+  },
+  {
+   "from": 118.78,
+   "to": 120.02,
+   "sid": 62,
+   "location": 2,
+   "content": "而自己的后背",
+   "music": 0.0
+  },
+  {
+   "from": 120.02,
+   "to": 121.12,
+   "sid": 63,
+   "location": 2,
+   "content": "自己整个后侧链",
+   "music": 0.0
+  },
+  {
+   "from": 121.12,
+   "to": 124.539,
+   "sid": 64,
+   "location": 2,
+   "content": "在整个生活当中就已经非常非常的羸弱了",
+   "music": 0.0
+  },
+  {
+   "from": 124.539,
+   "to": 127.059,
+   "sid": 65,
+   "location": 2,
+   "content": "再加上训练上面的去重视",
+   "music": 0.0
+  },
+  {
+   "from": 127.059,
+   "to": 129.899,
+   "sid": 66,
+   "location": 2,
+   "content": "前面后面完全很多人是不练的啊",
+   "music": 0.0
+  },
+  {
+   "from": 129.899,
+   "to": 131.36,
+   "sid": 67,
+   "location": 2,
+   "content": "那后侧链非常非常的弱",
+   "music": 0.0
+  },
+  {
+   "from": 131.36,
+   "to": 133.76,
+   "sid": 68,
+   "location": 2,
+   "content": "就会导致自己越练体态就越来越糟糕了嘛",
+   "music": 0.0
+  },
+  {
+   "from": 133.76,
+   "to": 135.12,
+   "sid": 69,
+   "location": 2,
+   "content": "啊随踵而来啊",
+   "music": 0.0
+  },
+  {
+   "from": 135.12,
+   "to": 137.16,
+   "sid": 70,
+   "location": 2,
+   "content": "你们那些各种的问题啊",
+   "music": 0.0
+  },
+  {
+   "from": 137.16,
+   "to": 139.31,
+   "sid": 71,
+   "location": 2,
+   "content": "什么肩峰撞击啦啊",
+   "music": 0.0
+  },
+  {
+   "from": 139.31,
+   "to": 141.69,
+   "sid": 72,
+   "location": 2,
+   "content": "什么二头的这个肌腱炎啊",
+   "music": 0.0
+  },
+  {
+   "from": 141.69,
+   "to": 142.51,
+   "sid": 73,
+   "location": 2,
+   "content": "墙头的啊",
+   "music": 0.0
+  },
+  {
+   "from": 142.51,
+   "to": 144.61,
+   "sid": 74,
+   "location": 2,
+   "content": "包括你们的什么手肘啊",
+   "music": 0.0
+  },
+  {
+   "from": 144.61,
+   "to": 147.61,
+   "sid": 75,
+   "location": 2,
+   "content": "这些问题看似是推类啊",
+   "music": 0.0
+  },
+  {
+   "from": 147.61,
+   "to": 148.77,
+   "sid": 76,
+   "location": 2,
+   "content": "推多了出现了问题",
+   "music": 0.0
+  },
+  {
+   "from": 148.77,
+   "to": 151.75,
+   "sid": 77,
+   "location": 2,
+   "content": "实则是你们整个人体这个积木啊",
+   "music": 0.0
+  },
+  {
+   "from": 151.75,
+   "to": 152.93,
+   "sid": 78,
+   "location": 2,
+   "content": "他对不了胃了",
+   "music": 0.0
+  },
+  {
+   "from": 152.93,
+   "to": 155.75,
+   "sid": 79,
+   "location": 2,
+   "content": "也间接的影响了你在做推的时候啊",
+   "music": 0.0
+  },
+  {
+   "from": 155.75,
+   "to": 157.59,
+   "sid": 80,
+   "location": 2,
+   "content": "他的非常非常的吃力",
+   "music": 0.0
+  },
+  {
+   "from": 157.59,
+   "to": 159.95,
+   "sid": 81,
+   "location": 2,
+   "content": "他们在训练的时候去帮你代偿",
+   "music": 0.0
+  },
+  {
+   "from": 159.95,
+   "to": 161.83,
+   "sid": 82,
+   "location": 2,
+   "content": "这个是一个最底层的逻辑啊",
+   "music": 0.0
+  },
+  {
+   "from": 161.83,
+   "to": 163.93,
+   "sid": 83,
+   "location": 2,
+   "content": "新手多去练你的背啊",
+   "music": 0.0
+  },
+  {
+   "from": 163.93,
+   "to": 165.53,
+   "sid": 84,
+   "location": 2,
+   "content": "多去拉啊",
+   "music": 0.0
+  },
+  {
+   "from": 165.53,
+   "to": 167.03,
+   "sid": 85,
+   "location": 2,
+   "content": "多去练硬拉啊",
+   "music": 0.0
+  },
+  {
+   "from": 167.03,
+   "to": 168.45,
+   "sid": 86,
+   "location": 2,
+   "content": "多去练罗马尼亚硬拉",
+   "music": 0.0
+  },
+  {
+   "from": 168.45,
+   "to": 170.27,
+   "sid": 87,
+   "location": 2,
+   "content": "去加强你的一个后侧链啊",
+   "music": 0.0
+  },
+  {
+   "from": 170.27,
+   "to": 171.81,
+   "sid": 88,
+   "location": 2,
+   "content": "你后撤练强了之后",
+   "music": 0.0
+  },
+  {
+   "from": 171.81,
+   "to": 173.21,
+   "sid": 89,
+   "location": 2,
+   "content": "你再去练你的前面",
+   "music": 0.0
+  },
+  {
+   "from": 173.21,
+   "to": 174.43,
+   "sid": 90,
+   "location": 2,
+   "content": "那就得心应手了",
+   "music": 0.0
+  },
+  {
+   "from": 174.43,
+   "to": 175.73,
+   "sid": 91,
+   "location": 2,
+   "content": "当你的后背坐的时候",
+   "music": 0.0
+  },
+  {
+   "from": 175.73,
+   "to": 177.69,
+   "sid": 92,
+   "location": 2,
+   "content": "你后面没有承载能力",
+   "music": 0.0
+  },
+  {
+   "from": 177.69,
+   "to": 178.65,
+   "sid": 93,
+   "location": 2,
+   "content": "你去练卧推",
+   "music": 0.0
+  },
+  {
+   "from": 178.65,
+   "to": 180.57,
+   "sid": 94,
+   "location": 2,
+   "content": "他一样那个重量会卡住啊",
+   "music": 0.0
+  },
+  {
+   "from": 180.57,
+   "to": 181.93,
+   "sid": 95,
+   "location": 2,
+   "content": "因为你后面太弱了",
+   "music": 0.0
+  },
+  {
+   "from": 181.93,
+   "to": 183.459,
+   "sid": 96,
+   "location": 2,
+   "content": "他撑不住这个重量",
+   "music": 0.0
+  },
+  {
+   "from": 183.459,
+   "to": 186.099,
+   "sid": 97,
+   "location": 2,
+   "content": "懂不懂你那个杠铃杆一拿出来",
+   "music": 0.0
+  },
+  {
+   "from": 186.099,
+   "to": 188.05,
+   "sid": 98,
+   "location": 2,
+   "content": "那抖的跟啥一样啊",
+   "music": 0.0
+  },
+  {
+   "from": 188.05,
+   "to": 190.45,
+   "sid": 99,
+   "location": 2,
+   "content": "所以说需要去把你的目标",
+   "music": 0.0
+  },
+  {
+   "from": 190.45,
+   "to": 193.85,
+   "sid": 100,
+   "location": 2,
+   "content": "训练的重心去放在你们的后侧练啊",
+   "music": 0.0
+  },
+  {
+   "from": 193.85,
+   "to": 194.89,
+   "sid": 101,
+   "location": 2,
+   "content": "去学好三枪对位",
+   "music": 0.0
+  },
+  {
+   "from": 194.89,
+   "to": 196.12,
+   "sid": 102,
+   "location": 2,
+   "content": "去学好呼吸嘛",
+   "music": 0.0
+  },
+  {
+   "from": 196.12,
+   "to": 198.98,
+   "sid": 103,
+   "location": 2,
+   "content": "我的那个主页你们去搜呼吸怎么呼吸的啊",
+   "music": 0.0
+  },
+  {
+   "from": 198.98,
+   "to": 201.94,
+   "sid": 104,
+   "location": 2,
+   "content": "很多小伙伴都不知道那核心怎么收集啊",
+   "music": 0.0
+  },
+  {
+   "from": 201.94,
+   "to": 204.26,
+   "sid": 105,
+   "location": 2,
+   "content": "总以为带了个腰带就正常的呼吸就行了",
+   "music": 0.0
+  },
+  {
+   "from": 204.26,
+   "to": 207.19,
+   "sid": 106,
+   "location": 2,
+   "content": "或者说去鼓肚子那种都是错误的啊",
+   "music": 0.0
+  },
+  {
+   "from": 207.19,
+   "to": 210.23,
+   "sid": 107,
+   "location": 2,
+   "content": "你自己的核心就是你最好的腰带",
+   "music": 0.0
+  },
+  {
+   "from": 210.23,
+   "to": 212.23,
+   "sid": 108,
+   "location": 2,
+   "content": "而很多的小伙伴在健身房里训练",
+   "music": 0.0
+  },
+  {
+   "from": 212.23,
+   "to": 213.67,
+   "sid": 109,
+   "location": 2,
+   "content": "是丢掉了自己的核心",
+   "music": 0.0
+  },
+  {
+   "from": 213.67,
+   "to": 215.85,
+   "sid": 110,
+   "location": 2,
+   "content": "丢掉了这根最好的腰带",
+   "music": 0.0
+  },
+  {
+   "from": 215.85,
+   "to": 217.25,
+   "sid": 111,
+   "location": 2,
+   "content": "而导致了本末倒置",
+   "music": 0.0
+  },
+  {
+   "from": 217.25,
+   "to": 218.25,
+   "sid": 112,
+   "location": 2,
+   "content": "导致了自己的体态",
+   "music": 0.0
+  },
+  {
+   "from": 218.25,
+   "to": 220.94,
+   "sid": 113,
+   "location": 2,
+   "content": "导致了自己的伤病接踵而来",
+   "music": 0.0
+  },
+  {
+   "from": 220.94,
+   "to": 221.64,
+   "sid": 114,
+   "location": 2,
+   "content": "好吧",
+   "music": 0.0
+  },
+  {
+   "from": 221.64,
+   "to": 223.2,
+   "sid": 115,
+   "location": 2,
+   "content": "关于这位小伙伴啊",
+   "music": 0.0
+  },
+  {
+   "from": 223.2,
+   "to": 224.84,
+   "sid": 116,
+   "location": 2,
+   "content": "动作上面的问题啊",
+   "music": 0.0
+  },
+  {
+   "from": 224.84,
+   "to": 227.93,
+   "sid": 117,
+   "location": 2,
+   "content": "自己去录像去反思啊",
+   "music": 0.0
+  },
+  {
+   "from": 227.93,
+   "to": 229.51,
+   "sid": 118,
+   "location": 2,
+   "content": "你像这种坐坐姿划船",
+   "music": 0.0
+  },
+  {
+   "from": 229.51,
+   "to": 231.61,
+   "sid": 119,
+   "location": 2,
+   "content": "你前侧核心你肯定是要收紧的啊",
+   "music": 0.0
+  },
+  {
+   "from": 231.61,
+   "to": 232.61,
+   "sid": 120,
+   "location": 2,
+   "content": "前侧收紧",
+   "music": 0.0
+  },
+  {
+   "from": 232.61,
+   "to": 234.13,
+   "sid": 121,
+   "location": 2,
+   "content": "脚在前面蹬住啊",
+   "music": 0.0
+  },
+  {
+   "from": 234.13,
+   "to": 237.67,
+   "sid": 122,
+   "location": 2,
+   "content": "以宽跟核心稳摁住你的这个整个躯干",
+   "music": 0.0
+  },
+  {
+   "from": 237.67,
+   "to": 239.3,
+   "sid": 123,
+   "location": 2,
+   "content": "然后上半身啊",
+   "music": 0.0
+  },
+  {
+   "from": 239.3,
+   "to": 240.14,
+   "sid": 124,
+   "location": 2,
+   "content": "不要去挺胸",
+   "music": 0.0
+  },
+  {
+   "from": 240.14,
+   "to": 241.38,
+   "sid": 125,
+   "location": 2,
+   "content": "不要去过度的挺胸啊",
+   "music": 0.0
+  },
+  {
+   "from": 241.38,
+   "to": 242.74,
+   "sid": 126,
+   "location": 2,
+   "content": "胸腔在中立位",
+   "music": 0.0
+  },
+  {
+   "from": 242.74,
+   "to": 244.16,
+   "sid": 127,
+   "location": 2,
+   "content": "你不要过度的去含胸",
+   "music": 0.0
+  },
+  {
+   "from": 244.16,
+   "to": 246.16,
+   "sid": 128,
+   "location": 2,
+   "content": "中立位中立位是啥啊",
+   "music": 0.0
+  },
+  {
+   "from": 246.16,
+   "to": 247.1,
+   "sid": 129,
+   "location": 2,
+   "content": "你躺在地上",
+   "music": 0.0
+  },
+  {
+   "from": 247.1,
+   "to": 247.72,
+   "sid": 130,
+   "location": 2,
+   "content": "你去看一看",
+   "music": 0.0
+  },
+  {
+   "from": 247.72,
+   "to": 248.42,
+   "sid": 131,
+   "location": 2,
+   "content": "把脚拿起来",
+   "music": 0.0
+  },
+  {
+   "from": 248.42,
+   "to": 250.41,
+   "sid": 132,
+   "location": 2,
+   "content": "那个就是你的三枪的中立位",
+   "music": 0.0
+  },
+  {
+   "from": 250.69,
+   "to": 253.41,
+   "sid": 133,
+   "location": 2,
+   "content": "去看一看三枪对位是什么样的",
+   "music": 0.0
+  },
+  {
+   "from": 253.41,
+   "to": 254.51,
+   "sid": 134,
+   "location": 2,
+   "content": "去拉啊",
+   "music": 0.0
+  },
+  {
+   "from": 254.51,
+   "to": 256.13,
+   "sid": 135,
+   "location": 2,
+   "content": "还有就是器械的划船",
+   "music": 0.0
+  },
+  {
+   "from": 256.13,
+   "to": 257.69,
+   "sid": 136,
+   "location": 2,
+   "content": "你不要过度的去反攻嘛",
+   "music": 0.0
+  },
+  {
+   "from": 257.69,
+   "to": 259.09,
+   "sid": 137,
+   "location": 2,
+   "content": "啊那个前面都有一个挡板了",
+   "music": 0.0
+  },
+  {
+   "from": 259.09,
+   "to": 260.47,
+   "sid": 138,
+   "location": 2,
+   "content": "你都能把腰练酸",
+   "music": 0.0
+  },
+  {
+   "from": 260.47,
+   "to": 261.79,
+   "sid": 139,
+   "location": 2,
+   "content": "那都是怎么练的嘛",
+   "music": 0.0
+  },
+  {
+   "from": 261.79,
+   "to": 263.63,
+   "sid": 140,
+   "location": 2,
+   "content": "啊去看自己的动作啊",
+   "music": 0.0
+  },
+  {
+   "from": 263.63,
+   "to": 264.71,
+   "sid": 141,
+   "location": 2,
+   "content": "如果你自己训练的动作",
+   "music": 0.0
+  },
+  {
+   "from": 264.71,
+   "to": 265.73,
+   "sid": 142,
+   "location": 2,
+   "content": "你都觉得非常的丑",
+   "music": 0.0
+  },
+  {
+   "from": 265.73,
+   "to": 267.68,
+   "sid": 143,
+   "location": 2,
+   "content": "那百分之百都有问题好吧",
+   "music": 0.0
+  },
+  {
+   "from": 267.68,
+   "to": 268.36,
+   "sid": 144,
+   "location": 2,
+   "content": "今天视频就聊到这",
+   "music": 0.0
+  },
+  {
+   "from": 268.36,
+   "to": 268.84,
+   "sid": 145,
+   "location": 2,
+   "content": "多学多思考",
+   "music": 0.0
+  },
+  {
+   "from": 268.84,
+   "to": 269.16,
+   "sid": 146,
+   "location": 2,
+   "content": "祝先制",
+   "music": 0.0
+  },
+  {
+   "from": 269.16,
+   "to": 270.38,
+   "sid": 147,
+   "location": 2,
+   "content": "相信所有成长来为你思考",
+   "music": 0.0
+  },
+  {
+   "from": 270.38,
+   "to": 271.64,
+   "sid": 148,
+   "location": 2,
+   "content": "进入点听波解散",
+   "music": 0.0
+  },
+  {
+   "from": 271.64,
+   "to": 272.72,
+   "sid": 149,
+   "location": 2,
+   "content": "下课",
+   "music": 0.0
+  }
+ ]
+}

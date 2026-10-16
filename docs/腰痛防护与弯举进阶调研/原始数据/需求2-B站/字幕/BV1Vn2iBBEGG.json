@@ -1,0 +1,180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "如果你一直在尝试锻炼肱二头肌",
+      "from": 0.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 1.48
+    },
+    {
+      "content": "我敢说你肯定在某个时候使用过某种简易杠铃弯举",
+      "from": 1.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 4.84
+    },
+    {
+      "content": "这些杠铃的实际结构设计",
+      "from": 4.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 6.7
+    },
+    {
+      "content": "是它们被设定为保持在支架上的固定位置",
+      "from": 6.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 11.18
+    },
+    {
+      "content": "所有杠铃都会自动归位到同一位置",
+      "from": 11.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 12.88
+    },
+    {
+      "content": "这是因为杠铃的工程设计原理",
+      "from": 12.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 14.76
+    },
+    {
+      "content": "重心使其保持这种状态",
+      "from": 14.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 16.59
+    },
+    {
+      "content": "但如果你这样抓握",
+      "from": 16.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 18.45
+    },
+    {
+      "content": "看看会发生什么",
+      "from": 18.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 19.45
+    },
+    {
+      "content": "我实际上正在做对肱二头肌不够高效的动作",
+      "from": 19.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 23.64
+    },
+    {
+      "content": "这是因为我从一个更不利的位置抓握了杠铃",
+      "from": 23.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 28.63
+    },
+    {
+      "content": "你可以看到我的手腕角度",
+      "from": 28.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 31.48
+    },
+    {
+      "content": "当我放下时是这样的未翻转状态",
+      "from": 31.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 36.31
+    },
+    {
+      "content": "如果你想从这个动作中获得更多效果",
+      "from": 36.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 39.09
+    },
+    {
+      "content": "需要在抓握前将杠铃翻转过来",
+      "from": 39.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 41.83
+    },
+    {
+      "content": "这样当我现在抓住外侧把手时",
+      "from": 41.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 44.34
+    },
+    {
+      "content": "可以看到手腕需要更充分发力",
+      "from": 44.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 47.36
+    },
+    {
+      "content": "抓住相同的握点",
+      "from": 47.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 48.74
+    },
+    {
+      "content": "然后调整到这个位置以获得更强的肱二头肌收缩",
+      "from": 48.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 53.59
+    },
+    {
+      "content": "并避免前臂主导肘部弯曲",
+      "from": 53.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 57.59
+    },
+    {
+      "content": "将杠铃拉至顶端",
+      "from": 57.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 59.04
+    }
+  ]
+}

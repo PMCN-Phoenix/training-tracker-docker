@@ -1,0 +1,1540 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 0.14,
+      "to": 0.62,
+      "sid": 1,
+      "location": 2,
+      "content": "嗨大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.62,
+      "to": 1.4,
+      "sid": 2,
+      "location": 2,
+      "content": "我是ALEX",
+      "music": 0.0
+    },
+    {
+      "from": 1.4,
+      "to": 2.66,
+      "sid": 3,
+      "location": 2,
+      "content": "欢迎大家回到我的频道",
+      "music": 0.0
+    },
+    {
+      "from": 2.66,
+      "to": 5.279,
+      "sid": 4,
+      "location": 2,
+      "content": "今天这期视频我们带来了手臂训练",
+      "music": 0.0
+    },
+    {
+      "from": 5.279,
+      "to": 8.519,
+      "sid": 5,
+      "location": 2,
+      "content": "今天所分享的动作呢也是在视频留言当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 8.519,
+      "to": 12.5,
+      "sid": 6,
+      "location": 2,
+      "content": "体脂率比较高的牧师凳弯举",
+      "music": 0.0
+    },
+    {
+      "from": 20.08,
+      "to": 22.2,
+      "sid": 7,
+      "location": 2,
+      "content": "想要让你的肱二头肌猛长的话",
+      "music": 0.0
+    },
+    {
+      "from": 22.2,
+      "to": 24.6,
+      "sid": 8,
+      "location": 2,
+      "content": "那么弯举是一个不可避免的训练动作",
+      "music": 0.0
+    },
+    {
+      "from": 24.6,
+      "to": 25.76,
+      "sid": 9,
+      "location": 2,
+      "content": "而其中的牧师凳",
+      "music": 0.0
+    },
+    {
+      "from": 25.76,
+      "to": 28.46,
+      "sid": 10,
+      "location": 2,
+      "content": "弯举呢又是一个非常好的去孤立训练",
+      "music": 0.0
+    },
+    {
+      "from": 28.46,
+      "to": 29.63,
+      "sid": 11,
+      "location": 2,
+      "content": "肱二头肌的动作",
+      "music": 0.0
+    },
+    {
+      "from": 29.63,
+      "to": 31.22,
+      "sid": 12,
+      "location": 2,
+      "content": "我们在训练的过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.22,
+      "to": 32.76,
+      "sid": 13,
+      "location": 2,
+      "content": "只需要一个牧师凳啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.76,
+      "to": 33.3,
+      "sid": 14,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 33.3,
+      "to": 36.18,
+      "sid": 15,
+      "location": 2,
+      "content": "就是一个适合你自己重量的杠铃就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 36.18,
+      "to": 38.28,
+      "sid": 16,
+      "location": 2,
+      "content": "其实牧师凳的设置呢非常简单啊",
+      "music": 0.0
+    },
+    {
+      "from": 38.28,
+      "to": 39.72,
+      "sid": 17,
+      "location": 2,
+      "content": "这里只有一个可以调节的",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 40.86,
+      "sid": 18,
+      "location": 2,
+      "content": "就是我们凳子的高度啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.86,
+      "to": 43.2,
+      "sid": 19,
+      "location": 2,
+      "content": "这个呢也取决于你上半身的伸长啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.2,
+      "to": 47.18,
+      "sid": 20,
+      "location": 2,
+      "content": "我们怎么样去衡量一个适合自己的坐姿高度呢",
+      "music": 0.0
+    },
+    {
+      "from": 47.18,
+      "to": 50.86,
+      "sid": 21,
+      "location": 2,
+      "content": "我们可以保证整个上臂完全贴合在靠板上啊",
+      "music": 0.0
+    },
+    {
+      "from": 50.86,
+      "to": 55.98,
+      "sid": 22,
+      "location": 2,
+      "content": "是用你的背的外侧和上臂去夹住这个靠板啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.98,
+      "to": 57.9,
+      "sid": 23,
+      "location": 2,
+      "content": "接下来呢就是我们双手的距离啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.9,
+      "to": 60.07,
+      "sid": 24,
+      "location": 2,
+      "content": "其实在训练弯举的动作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.07,
+      "to": 62.41,
+      "sid": 25,
+      "location": 2,
+      "content": "这是一个最标准的姿势",
+      "music": 0.0
+    },
+    {
+      "from": 62.41,
+      "to": 65.65,
+      "sid": 26,
+      "location": 2,
+      "content": "也就是说我们两个手臂和你的肩膀是同宽的啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.65,
+      "to": 68.5,
+      "sid": 27,
+      "location": 2,
+      "content": "保证两个手臂是一个平行的状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.5,
+      "to": 70.3,
+      "sid": 28,
+      "location": 2,
+      "content": "这样呢是一个比较标准的",
+      "music": 0.0
+    },
+    {
+      "from": 70.3,
+      "to": 73.12,
+      "sid": 29,
+      "location": 2,
+      "content": "去训练整个肱二头肌的动作啊",
+      "music": 0.0
+    },
+    {
+      "from": 73.12,
+      "to": 75.86,
+      "sid": 30,
+      "location": 2,
+      "content": "而如果我们把上臂打开的比较多",
+      "music": 0.0
+    },
+    {
+      "from": 75.86,
+      "to": 77.78,
+      "sid": 31,
+      "location": 2,
+      "content": "再向上拉起来会怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 77.78,
+      "to": 81.2,
+      "sid": 32,
+      "location": 2,
+      "content": "我们会更多的刺激在肱二头肌的外侧上啊",
+      "music": 0.0
+    },
+    {
+      "from": 81.2,
+      "to": 82.76,
+      "sid": 33,
+      "location": 2,
+      "content": "所以说大家在训练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 82.76,
+      "to": 84.86,
+      "sid": 34,
+      "location": 2,
+      "content": "一定要保持一个正确的训练理念啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.86,
+      "to": 87.02,
+      "sid": 35,
+      "location": 2,
+      "content": "一定要明白你训练的是哪里啊",
+      "music": 0.0
+    },
+    {
+      "from": 87.02,
+      "to": 87.8,
+      "sid": 36,
+      "location": 2,
+      "content": "我个人比较喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 87.8,
+      "to": 90.14,
+      "sid": 37,
+      "location": 2,
+      "content": "关键是我非常推荐大家在做牧师凳",
+      "music": 0.0
+    },
+    {
+      "from": 90.14,
+      "to": 93.38,
+      "sid": 38,
+      "location": 2,
+      "content": "弯举去使用的杠铃呢是驱杆的杠铃啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.38,
+      "to": 96.38,
+      "sid": 39,
+      "location": 2,
+      "content": "因为这个更符合我们手腕的角度啊",
+      "music": 0.0
+    },
+    {
+      "from": 96.38,
+      "to": 98.3,
+      "sid": 40,
+      "location": 2,
+      "content": "不管你是在向上和向下的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 98.3,
+      "to": 100.09,
+      "sid": 41,
+      "location": 2,
+      "content": "手腕的压力都不会特别大啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.09,
+      "to": 102.67,
+      "sid": 42,
+      "location": 2,
+      "content": "如果我们使用直杆呢也是可以的啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.67,
+      "to": 105.79,
+      "sid": 43,
+      "location": 2,
+      "content": "但是呢如果你本身就已经有手腕不舒服的情况",
+      "music": 0.0
+    },
+    {
+      "from": 105.79,
+      "to": 107.34,
+      "sid": 44,
+      "location": 2,
+      "content": "那么我们在训练的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 107.34,
+      "to": 109.98,
+      "sid": 45,
+      "location": 2,
+      "content": "可能会在重量上对你有所限制",
+      "music": 0.0
+    },
+    {
+      "from": 109.98,
+      "to": 110.58,
+      "sid": 46,
+      "location": 2,
+      "content": "而曲杆",
+      "music": 0.0
+    },
+    {
+      "from": 110.58,
+      "to": 113.58,
+      "sid": 47,
+      "location": 2,
+      "content": "杠铃呢可以非常好的帮助你去改善这个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 113.58,
+      "to": 116.62,
+      "sid": 48,
+      "location": 2,
+      "content": "既能让你使用一个相对比较大的重量",
+      "music": 0.0
+    },
+    {
+      "from": 116.62,
+      "to": 119.17,
+      "sid": 49,
+      "location": 2,
+      "content": "又能非常好的去刺激整个肱二头肌",
+      "music": 0.0
+    },
+    {
+      "from": 119.17,
+      "to": 120.4,
+      "sid": 50,
+      "location": 2,
+      "content": "大家可以看到曲杆",
+      "music": 0.0
+    },
+    {
+      "from": 120.4,
+      "to": 122.6,
+      "sid": 51,
+      "location": 2,
+      "content": "杠铃呢其实是有不一样的顶点的",
+      "music": 0.0
+    },
+    {
+      "from": 122.6,
+      "to": 123.68,
+      "sid": 52,
+      "location": 2,
+      "content": "我们在使用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 123.68,
+      "to": 125.0,
+      "sid": 53,
+      "location": 2,
+      "content": "如果我们采用一个手臂",
+      "music": 0.0
+    },
+    {
+      "from": 125.0,
+      "to": 126.74,
+      "sid": 54,
+      "location": 2,
+      "content": "比较竖直和标准的方式的时候",
+      "music": 0.0
+    },
+    {
+      "from": 126.74,
+      "to": 130.31,
+      "sid": 55,
+      "location": 2,
+      "content": "我们是握在这个模杀的最顶端的啊",
+      "music": 0.0
+    },
+    {
+      "from": 130.31,
+      "to": 131.75,
+      "sid": 56,
+      "location": 2,
+      "content": "是这么去抓住的",
+      "music": 0.0
+    },
+    {
+      "from": 131.75,
+      "to": 133.55,
+      "sid": 57,
+      "location": 2,
+      "content": "也就是说你的拇指和食指呢",
+      "music": 0.0
+    },
+    {
+      "from": 133.55,
+      "to": 137.0,
+      "sid": 58,
+      "location": 2,
+      "content": "是握在这个磨砂区域的顶端",
+      "music": 0.0
+    },
+    {
+      "from": 137.0,
+      "to": 138.62,
+      "sid": 59,
+      "location": 2,
+      "content": "而另外一个顶点在哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 138.62,
+      "to": 139.97,
+      "sid": 60,
+      "location": 2,
+      "content": "在另外一侧啊",
+      "music": 0.0
+    },
+    {
+      "from": 139.97,
+      "to": 141.98,
+      "sid": 61,
+      "location": 2,
+      "content": "是这里啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.98,
+      "to": 142.73,
+      "sid": 62,
+      "location": 2,
+      "content": "装好之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.73,
+      "to": 145.4,
+      "sid": 63,
+      "location": 2,
+      "content": "接下来就来到了整个运动的运动轨迹啊",
+      "music": 0.0
+    },
+    {
+      "from": 145.4,
+      "to": 147.02,
+      "sid": 64,
+      "location": 2,
+      "content": "我们保证整个身体坐稳",
+      "music": 0.0
+    },
+    {
+      "from": 147.02,
+      "to": 148.58,
+      "sid": 65,
+      "location": 2,
+      "content": "上臂完全靠住之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.58,
+      "to": 151.28,
+      "sid": 66,
+      "location": 2,
+      "content": "接下来呢所有的发力就来自于哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 151.28,
+      "to": 152.98,
+      "sid": 67,
+      "location": 2,
+      "content": "手掌手腕",
+      "music": 0.0
+    },
+    {
+      "from": 152.98,
+      "to": 154.81,
+      "sid": 68,
+      "location": 2,
+      "content": "还有呢我们的小臂啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.81,
+      "to": 156.34,
+      "sid": 69,
+      "location": 2,
+      "content": "在运动的过程当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.34,
+      "to": 157.24,
+      "sid": 70,
+      "location": 2,
+      "content": "向下的时候",
+      "music": 0.0
+    },
+    {
+      "from": 157.24,
+      "to": 159.2,
+      "sid": 71,
+      "location": 2,
+      "content": "这个是一个非常需要注意的点啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.2,
+      "to": 161.66,
+      "sid": 72,
+      "location": 2,
+      "content": "我们的手臂不是完全绷直的啊",
+      "music": 0.0
+    },
+    {
+      "from": 161.66,
+      "to": 164.48,
+      "sid": 73,
+      "location": 2,
+      "content": "一定要保持整个手臂的张力啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.48,
+      "to": 168.32,
+      "sid": 74,
+      "location": 2,
+      "content": "所以说差不多呢向下完成度是多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 168.32,
+      "to": 170.14,
+      "sid": 75,
+      "location": 2,
+      "content": "90%啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.14,
+      "to": 172.42,
+      "sid": 76,
+      "location": 2,
+      "content": "肘关节还是保持一个微弯的状态",
+      "music": 0.0
+    },
+    {
+      "from": 172.42,
+      "to": 175.14,
+      "sid": 77,
+      "location": 2,
+      "content": "但是呢在底端一定要有控制和停留",
+      "music": 0.0
+    },
+    {
+      "from": 175.14,
+      "to": 177.03,
+      "sid": 78,
+      "location": 2,
+      "content": "再去向上拉起来啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.03,
+      "to": 179.25,
+      "sid": 79,
+      "location": 2,
+      "content": "而我们向上抬高又抬到多少呢",
+      "music": 0.0
+    },
+    {
+      "from": 179.25,
+      "to": 181.72,
+      "sid": 80,
+      "location": 2,
+      "content": "不是说撞到你的鼻子或者是嘴巴的位置啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.72,
+      "to": 183.46,
+      "sid": 81,
+      "location": 2,
+      "content": "我们在向上拉起来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 183.46,
+      "to": 185.56,
+      "sid": 82,
+      "location": 2,
+      "content": "差不多是保证你的小臂",
+      "music": 0.0
+    },
+    {
+      "from": 185.56,
+      "to": 187.99,
+      "sid": 83,
+      "location": 2,
+      "content": "是基本上接近于垂直地面的",
+      "music": 0.0
+    },
+    {
+      "from": 187.99,
+      "to": 191.2,
+      "sid": 84,
+      "location": 2,
+      "content": "也就是说我们衡量的方式可以是这样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 191.2,
+      "to": 192.91,
+      "sid": 85,
+      "location": 2,
+      "content": "差不多在这个角度的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.91,
+      "to": 195.54,
+      "sid": 86,
+      "location": 2,
+      "content": "上臂和小臂的夹角在90度",
+      "music": 0.0
+    },
+    {
+      "from": 195.54,
+      "to": 198.35,
+      "sid": 87,
+      "location": 2,
+      "content": "而再向上抬高一半的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.35,
+      "to": 199.8,
+      "sid": 88,
+      "location": 2,
+      "content": "大家一定要注意到",
+      "music": 0.0
+    },
+    {
+      "from": 199.8,
+      "to": 201.18,
+      "sid": 89,
+      "location": 2,
+      "content": "这是接近于直角啊",
+      "music": 0.0
+    },
+    {
+      "from": 201.18,
+      "to": 202.56,
+      "sid": 90,
+      "location": 2,
+      "content": "也不是完全垂直的",
+      "music": 0.0
+    },
+    {
+      "from": 202.56,
+      "to": 203.64,
+      "sid": 91,
+      "location": 2,
+      "content": "因为我们可以想象一下",
+      "music": 0.0
+    },
+    {
+      "from": 203.64,
+      "to": 206.6,
+      "sid": 92,
+      "location": 2,
+      "content": "如果我们把手臂小臂保持垂直地面的话",
+      "music": 0.0
+    },
+    {
+      "from": 206.6,
+      "to": 208.28,
+      "sid": 93,
+      "location": 2,
+      "content": "或者是再向后会怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 208.28,
+      "to": 209.0,
+      "sid": 94,
+      "location": 2,
+      "content": "其实这个时候",
+      "music": 0.0
+    },
+    {
+      "from": 209.0,
+      "to": 211.81,
+      "sid": 95,
+      "location": 2,
+      "content": "肱二头肌已经是完全放松的状态了啊",
+      "music": 0.0
+    },
+    {
+      "from": 211.81,
+      "to": 215.06,
+      "sid": 96,
+      "location": 2,
+      "content": "那么这个时候呢肌肉的张力就会减少啊",
+      "music": 0.0
+    },
+    {
+      "from": 216.98,
+      "to": 219.2,
+      "sid": 97,
+      "location": 2,
+      "content": "所以说我们在训练的过程当中呢",
+      "music": 0.0
+    },
+    {
+      "from": 219.2,
+      "to": 220.16,
+      "sid": 98,
+      "location": 2,
+      "content": "轨迹很重要啊",
+      "music": 0.0
+    },
+    {
+      "from": 220.16,
+      "to": 222.2,
+      "sid": 99,
+      "location": 2,
+      "content": "但是呢控制要比轨迹更重要",
+      "music": 0.0
+    },
+    {
+      "from": 222.2,
+      "to": 223.7,
+      "sid": 100,
+      "location": 2,
+      "content": "因为这个动作本身呢是一个",
+      "music": 0.0
+    },
+    {
+      "from": 223.7,
+      "to": 226.52,
+      "sid": 101,
+      "location": 2,
+      "content": "更偏向于单关节主导的孤立动作",
+      "music": 0.0
+    },
+    {
+      "from": 226.52,
+      "to": 228.44,
+      "sid": 102,
+      "location": 2,
+      "content": "所以说在训练的轨迹方面",
+      "music": 0.0
+    },
+    {
+      "from": 228.44,
+      "to": 230.21,
+      "sid": 103,
+      "location": 2,
+      "content": "并不会产生太大的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.21,
+      "to": 232.7,
+      "sid": 104,
+      "location": 2,
+      "content": "容易产生的问题主要出现在哪里呢",
+      "music": 0.0
+    },
+    {
+      "from": 232.7,
+      "to": 235.06,
+      "sid": 105,
+      "location": 2,
+      "content": "接下来我们就来一个一个了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 235.06,
+      "to": 236.44,
+      "sid": 106,
+      "location": 2,
+      "content": "第一个容易出现的问题",
+      "music": 0.0
+    },
+    {
+      "from": 236.44,
+      "to": 238.03,
+      "sid": 107,
+      "location": 2,
+      "content": "主要出现在我们的手腕啊",
+      "music": 0.0
+    },
+    {
+      "from": 238.03,
+      "to": 240.31,
+      "sid": 108,
+      "location": 2,
+      "content": "尤其是在我们下放的过程当中啊",
+      "music": 0.0
+    },
+    {
+      "from": 240.31,
+      "to": 242.05,
+      "sid": 109,
+      "location": 2,
+      "content": "在接近于落到底的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 242.05,
+      "to": 244.16,
+      "sid": 110,
+      "location": 2,
+      "content": "手腕容易产生松动啊",
+      "music": 0.0
+    },
+    {
+      "from": 244.16,
+      "to": 247.1,
+      "sid": 111,
+      "location": 2,
+      "content": "我们一定要想着在做弯举的动作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 247.1,
+      "to": 250.58,
+      "sid": 112,
+      "location": 2,
+      "content": "你的手腕是一个很固定的方式啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.58,
+      "to": 252.9,
+      "sid": 113,
+      "location": 2,
+      "content": "在全程都是参与发力的啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.92,
+      "to": 256.1,
+      "sid": 114,
+      "location": 2,
+      "content": "抓好之后手腕略微向上旋转一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 256.1,
+      "to": 258.839,
+      "sid": 115,
+      "location": 2,
+      "content": "保证呢抓好握把之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 258.839,
+      "to": 260.699,
+      "sid": 116,
+      "location": 2,
+      "content": "你的整个手臂从前面来看",
+      "music": 0.0
+    },
+    {
+      "from": 260.699,
+      "to": 262.56,
+      "sid": 117,
+      "location": 2,
+      "content": "是一个接近于平的状态啊",
+      "music": 0.0
+    },
+    {
+      "from": 262.56,
+      "to": 264.33,
+      "sid": 118,
+      "location": 2,
+      "content": "你也不要去用手腕向上勾",
+      "music": 0.0
+    },
+    {
+      "from": 264.33,
+      "to": 267.31,
+      "sid": 119,
+      "location": 2,
+      "content": "也不要去向下放松的太多啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.405,
+      "to": 269.11,
+      "sid": 120,
+      "location": 2,
+      "content": "所以说抓好之后",
+      "music": 0.0
+    },
+    {
+      "from": 269.11,
+      "to": 270.19,
+      "sid": 121,
+      "location": 2,
+      "content": "从这里开始呢",
+      "music": 0.0
+    },
+    {
+      "from": 270.19,
+      "to": 271.81,
+      "sid": 122,
+      "location": 2,
+      "content": "手腕是最先发力的啊",
+      "music": 0.0
+    },
+    {
+      "from": 271.81,
+      "to": 275.42,
+      "sid": 123,
+      "location": 2,
+      "content": "保证整个手臂呢都是处于一个平和直的状态",
+      "music": 0.0
+    },
+    {
+      "from": 275.42,
+      "to": 276.98,
+      "sid": 124,
+      "location": 2,
+      "content": "从手腕开始向上延伸",
+      "music": 0.0
+    },
+    {
+      "from": 276.98,
+      "to": 279.08,
+      "sid": 125,
+      "location": 2,
+      "content": "第二个容易出现的问题就是出现在了",
+      "music": 0.0
+    },
+    {
+      "from": 279.08,
+      "to": 280.44,
+      "sid": 126,
+      "location": 2,
+      "content": "我们的肘关节",
+      "music": 0.0
+    },
+    {
+      "from": 280.44,
+      "to": 283.02,
+      "sid": 127,
+      "location": 2,
+      "content": "因为呢这个牧师凳弯举的主要作用",
+      "music": 0.0
+    },
+    {
+      "from": 283.02,
+      "to": 286.02,
+      "sid": 128,
+      "location": 2,
+      "content": "就是孤立你的上臂去完成肱二头肌的训练啊",
+      "music": 0.0
+    },
+    {
+      "from": 286.02,
+      "to": 287.76,
+      "sid": 129,
+      "location": 2,
+      "content": "所以说我们在做弯举的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 287.76,
+      "to": 290.5,
+      "sid": 130,
+      "location": 2,
+      "content": "尽量保证贴在靠板上的部位呢",
+      "music": 0.0
+    },
+    {
+      "from": 290.5,
+      "to": 292.06,
+      "sid": 131,
+      "location": 2,
+      "content": "是不离开这个靠板的啊",
+      "music": 0.0
+    },
+    {
+      "from": 292.06,
+      "to": 294.4,
+      "sid": 132,
+      "location": 2,
+      "content": "刚开始的时候非常容易出现的问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 294.4,
+      "to": 296.26,
+      "sid": 133,
+      "location": 2,
+      "content": "就是我们在向上拉起来的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 296.26,
+      "to": 298.18,
+      "sid": 134,
+      "location": 2,
+      "content": "可能是因为重量太大了",
+      "music": 0.0
+    },
+    {
+      "from": 298.18,
+      "to": 299.62,
+      "sid": 135,
+      "location": 2,
+      "content": "或者瘦手臂力量不够",
+      "music": 0.0
+    },
+    {
+      "from": 299.62,
+      "to": 301.9,
+      "sid": 136,
+      "location": 2,
+      "content": "就会产生在向上拉起来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 301.9,
+      "to": 302.89,
+      "sid": 137,
+      "location": 2,
+      "content": "一个爆发力",
+      "music": 0.0
+    },
+    {
+      "from": 302.89,
+      "to": 307.58,
+      "sid": 138,
+      "location": 2,
+      "content": "造成上臂的不稳定和肘关节的抬升啊",
+      "music": 0.0
+    },
+    {
+      "from": 307.58,
+      "to": 310.58,
+      "sid": 139,
+      "location": 2,
+      "content": "有的时候呢这种抬升是一个非常轻微的向后",
+      "music": 0.0
+    },
+    {
+      "from": 310.58,
+      "to": 311.12,
+      "sid": 140,
+      "location": 2,
+      "content": "一样",
+      "music": 0.0
+    },
+    {
+      "from": 311.12,
+      "to": 311.93,
+      "sid": 141,
+      "location": 2,
+      "content": "是这样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 311.93,
+      "to": 313.44,
+      "sid": 142,
+      "location": 2,
+      "content": "你可能也感觉不到",
+      "music": 0.0
+    },
+    {
+      "from": 313.44,
+      "to": 315.72,
+      "sid": 143,
+      "location": 2,
+      "content": "但是呢如果你通过拍视频的方式的话",
+      "music": 0.0
+    },
+    {
+      "from": 315.72,
+      "to": 317.51,
+      "sid": 144,
+      "location": 2,
+      "content": "是可以非常直观的看到",
+      "music": 0.0
+    },
+    {
+      "from": 317.51,
+      "to": 319.85,
+      "sid": 145,
+      "location": 2,
+      "content": "你的上臂有没有完全贴合在这里",
+      "music": 0.0
+    },
+    {
+      "from": 319.85,
+      "to": 321.41,
+      "sid": 146,
+      "location": 2,
+      "content": "肘关节在向上之后",
+      "music": 0.0
+    },
+    {
+      "from": 321.41,
+      "to": 325.47,
+      "sid": 147,
+      "location": 2,
+      "content": "有没有主动的一个抬升或者是向后拖拽的动作",
+      "music": 0.0
+    },
+    {
+      "from": 325.47,
+      "to": 326.76,
+      "sid": 148,
+      "location": 2,
+      "content": "第三个容易出现的问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 326.76,
+      "to": 329.25,
+      "sid": 149,
+      "location": 2,
+      "content": "就是我们整个身体的躯干啊",
+      "music": 0.0
+    },
+    {
+      "from": 329.25,
+      "to": 330.75,
+      "sid": 150,
+      "location": 2,
+      "content": "就是在我们接近力竭",
+      "music": 0.0
+    },
+    {
+      "from": 330.75,
+      "to": 333.27,
+      "sid": 151,
+      "location": 2,
+      "content": "或者是重量比较大的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 333.27,
+      "to": 336.09,
+      "sid": 152,
+      "location": 2,
+      "content": "向上拉的时候会有一个非常类似于钓鱼的动作",
+      "music": 0.0
+    },
+    {
+      "from": 336.09,
+      "to": 339.2,
+      "sid": 153,
+      "location": 2,
+      "content": "把整个身体往前去移动啊",
+      "music": 0.0
+    },
+    {
+      "from": 339.2,
+      "to": 341.84,
+      "sid": 154,
+      "location": 2,
+      "content": "我们在训练的时候一定要想着去孤立的",
+      "music": 0.0
+    },
+    {
+      "from": 341.84,
+      "to": 343.28,
+      "sid": 155,
+      "location": 2,
+      "content": "只训练你的手臂的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 343.28,
+      "to": 346.6,
+      "sid": 156,
+      "location": 2,
+      "content": "那我们整个身体都处于一个比较放松的状态啊",
+      "music": 0.13207546754480134
+    },
+    {
+      "from": 346.6,
+      "to": 349.9,
+      "sid": 157,
+      "location": 2,
+      "content": "千万不要有产生重量向上拉起来的时候",
+      "music": 0.05696202351384476
+    },
+    {
+      "from": 349.9,
+      "to": 352.0,
+      "sid": 158,
+      "location": 2,
+      "content": "整个身体向后仰去",
+      "music": 0.22093021971335317
+    },
+    {
+      "from": 352.0,
+      "to": 354.82,
+      "sid": 159,
+      "location": 2,
+      "content": "帮助你把重量拖拽起来的动作啊",
+      "music": 0.0
+    },
+    {
+      "from": 354.82,
+      "to": 356.56,
+      "sid": 160,
+      "location": 2,
+      "content": "关于这个动作呼吸技巧啊",
+      "music": 0.0
+    },
+    {
+      "from": 356.56,
+      "to": 359.5,
+      "sid": 161,
+      "location": 2,
+      "content": "我们在最底端的时候吸足一口气",
+      "music": 0.0
+    },
+    {
+      "from": 359.5,
+      "to": 361.0,
+      "sid": 162,
+      "location": 2,
+      "content": "向上拉起来",
+      "music": 0.0
+    },
+    {
+      "from": 361.0,
+      "to": 363.24,
+      "sid": 163,
+      "location": 2,
+      "content": "拉到顶点的时候再去呼气啊",
+      "music": 0.0
+    },
+    {
+      "from": 363.24,
+      "to": 364.08,
+      "sid": 164,
+      "location": 2,
+      "content": "呼气呢",
+      "music": 0.0
+    },
+    {
+      "from": 364.08,
+      "to": 367.5,
+      "sid": 165,
+      "location": 2,
+      "content": "同时也是为了保持你在顶端有一秒钟的停留",
+      "music": 0.0
+    },
+    {
+      "from": 367.5,
+      "to": 370.32,
+      "sid": 166,
+      "location": 2,
+      "content": "然后呢慢一点向下",
+      "music": 0.0
+    },
+    {
+      "from": 373.64,
+      "to": 376.49,
+      "sid": 167,
+      "location": 2,
+      "content": "向上的时候呼气呼",
+      "music": 0.0
+    },
+    {
+      "from": 376.49,
+      "to": 378.62,
+      "sid": 168,
+      "location": 2,
+      "content": "为了让你的肌肉达到更好的收缩",
+      "music": 0.0
+    },
+    {
+      "from": 378.62,
+      "to": 379.45,
+      "sid": 169,
+      "location": 2,
+      "content": "停住一秒钟",
+      "music": 0.0
+    },
+    {
+      "from": 379.45,
+      "to": 381.19,
+      "sid": 170,
+      "location": 2,
+      "content": "慢一点再向下",
+      "music": 0.0
+    },
+    {
+      "from": 381.19,
+      "to": 382.69,
+      "sid": 171,
+      "location": 2,
+      "content": "然后顶点抬高",
+      "music": 0.0
+    },
+    {
+      "from": 382.69,
+      "to": 384.64,
+      "sid": 172,
+      "location": 2,
+      "content": "保持向下",
+      "music": 0.0
+    },
+    {
+      "from": 384.64,
+      "to": 386.02,
+      "sid": 173,
+      "location": 2,
+      "content": "关于这个动作训练安排呢",
+      "music": 0.0
+    },
+    {
+      "from": 386.02,
+      "to": 388.06,
+      "sid": 174,
+      "location": 2,
+      "content": "我建议大家每一组做8~12次",
+      "music": 0.0
+    },
+    {
+      "from": 388.06,
+      "to": 389.56,
+      "sid": 175,
+      "location": 2,
+      "content": "选择一个适合自己的重量",
+      "music": 0.0
+    },
+    {
+      "from": 389.56,
+      "to": 390.73,
+      "sid": 176,
+      "location": 2,
+      "content": "做3~4组",
+      "music": 0.0
+    },
+    {
+      "from": 390.73,
+      "to": 393.7,
+      "sid": 177,
+      "location": 2,
+      "content": "组间的休息呢可以保持在2分钟左右啊",
+      "music": 0.0
+    },
+    {
+      "from": 393.7,
+      "to": 396.43,
+      "sid": 178,
+      "location": 2,
+      "content": "利用好这个时间呢也进行一些手臂的拉伸",
+      "music": 0.0
+    },
+    {
+      "from": 396.43,
+      "to": 399.92,
+      "sid": 179,
+      "location": 2,
+      "content": "而让你下组的训练呢也可以有更好的运动表现",
+      "music": 0.0
+    },
+    {
+      "from": 399.92,
+      "to": 401.36,
+      "sid": 180,
+      "location": 2,
+      "content": "以上呢就是今天这期视频",
+      "music": 0.0
+    },
+    {
+      "from": 401.36,
+      "to": 402.98,
+      "sid": 181,
+      "location": 2,
+      "content": "牧师凳弯举的全部内容啊",
+      "music": 0.0
+    },
+    {
+      "from": 402.98,
+      "to": 404.9,
+      "sid": 182,
+      "location": 2,
+      "content": "下次在你训练了手臂之后",
+      "music": 0.0
+    },
+    {
+      "from": 404.9,
+      "to": 406.94,
+      "sid": 183,
+      "location": 2,
+      "content": "记得回来告诉我你的感受怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 406.94,
+      "to": 408.02,
+      "sid": 184,
+      "location": 2,
+      "content": "还是按照老规矩啊",
+      "music": 0.0
+    },
+    {
+      "from": 408.02,
+      "to": 408.74,
+      "sid": 185,
+      "location": 2,
+      "content": "一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 408.74,
+      "to": 409.52,
+      "sid": 186,
+      "location": 2,
+      "content": "喜欢我的视频",
+      "music": 0.0
+    },
+    {
+      "from": 409.52,
+      "to": 411.87,
+      "sid": 187,
+      "location": 2,
+      "content": "记得把视频分享给你身边的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 411.87,
+      "to": 413.25,
+      "sid": 188,
+      "location": 2,
+      "content": "下期视频想学什么",
+      "music": 0.0
+    },
+    {
+      "from": 413.25,
+      "to": 415.35,
+      "sid": 189,
+      "location": 2,
+      "content": "记得在下方留言和我互动吧",
+      "music": 0.0
+    },
+    {
+      "from": 415.35,
+      "to": 417.21,
+      "sid": 190,
+      "location": 2,
+      "content": "我是分享健身干货的ALEX",
+      "music": 0.0
+    },
+    {
+      "from": 417.21,
+      "to": 420.029,
+      "sid": 191,
+      "location": 2,
+      "content": "我们下期视频再见了",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# 需求2 弯举进阶阶梯 — 视频清单
+
+> 抓取日期：2026-10-12
+> 工具：yt-dlp 2026.08.19 + proxy 127.0.0.1:7892 + `--extractor-args "youtube:player_client=android"`
+> 字幕策略：先 `--write-subs`（人工），失败回落 `--write-auto-subs`（自动）
+
+## 成功抓到字幕（17 个）
+
+| # | 视频 ID | 频道 | 标题 | 时长 | 字幕类型 |
+|---|---------|------|------|------|----------|
+| 1 | GNO4OtYoCYk | Jeff Nippard | The Best And Worst Biceps Exercises | 16:23 | auto |
+| 2 | q8jjwZbhBas | Renaissance Periodization (Dr. Mike Israetel) | The 5 Rules of Bicep Training | 7:00 | auto |
+| 3 | 20ibpB635Rw | Jeremy Ethier | The Best Science-Based DUMBBELL Biceps Exercises | 7:54 | auto |
+| 4 | i1YgFZB6alI | Jeff Nippard | How To Build Huge Biceps: Optimal Training Explained | 9:54 | auto |
+| 5 | gS-xsC48xTs | House of Hypertrophy | Incline vs Preacher Curls for Biceps Growth (NEW Research) | 12:19 | auto |
+| 6 | dBZC24qvK8k | musclemonsters | How to Progress With Isolation Lifts / Biceps Curls | 4:57 | auto |
+| 7 | MBjezf-qinM | Alex Leonidas | Microloading Isn't Worth It? | 8:56 | auto |
+| 8 | cEEyH6JtCqQ | Sean Nalewanyj | The Quickest Way To Gain Muscle (Dynamic Double Progression) | 11:11 | auto |
+| 9 | mYf7QhCRYFw | ScottHermanFitness | Barbell Curl VS Cable Curl | 12:05 | manual |
+| 10 | qia2yOo6VJo | ScottHermanFitness | Dumbbell Bicep Curl VS Hammer Curl | 9:30 | manual |
+| 11 | Je3tL6M5B54 | RippedBody | A SMARTER Way To Train (Autoregulated Double Progression) | 8:38 | auto |
+| 12 | KIxPOMNbnFs | Jason Blaha's Strength and Fitness | Microloading With Fractional Plates - Secret Weapon For Gains | 10:06 | auto |
+| 13 | p7k9LFQTzpU | ATHLEAN-X | Barbells vs Dumbbells vs Cables (THE WINNER IS?) | 5:04 | manual |
+| 14 | lzQLqfbY0dA | Ben Yanes | Are Hammer Curls Stupid? | 10:38 | auto |
+| 15 | jjnJHhzZUUM | Jeremy Ethier | STOP Doing Bicep Curls Like This (5 Mistakes) | 7:34 | auto |
+| 16 | iL0AsMX4-hA | Natural Hypertrophy | 13 YEARS OF CHEAT CURLS: Was it worth it? | 20:15 | auto |
+| 17 | 9e2EgsKo_qU | Jeremy Ethier | More Gains, Half the Time (rest-pause/drop sets/supersets) | 11:43 | auto |
+
+## 无字幕 / 放弃（1 个）
+
+| 视频 ID | 频道 | 标题 | 原因 |
+|---------|------|------|------|
+| aYKsmKP5kd4 | Starting Strength | Microloading and Non-Standard Equipment at Starting Strength Gyms | 1:15 短视频，YouTube 无 en 字幕轨道（人工/自动均无） |
+
+## 搜索留档
+
+`searches/` 目录下 12 份 `*.info.json`：
+- biceps_curl_progressive_overload / cable_curl_vs_dumbbell_curl_biceps / ez_barbell_curl_biceps_EMG / micro_loading_plates_microloading_gym / adjustable_dumbbells_incremental_weight / double_progression_method_lifting / hammer_curl_vs_barbell_curl_biceps / best_biceps_exercises_science / biceps_curl_plateau_stuck / rest_pause_set_biceps_growth / cheat_reps_biceps_benefits / preacher_curl_incline_curl_EMG_biceps

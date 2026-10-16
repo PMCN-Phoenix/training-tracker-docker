@@ -1,0 +1,598 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.3,
+   "to": 2.24,
+   "sid": 1,
+   "location": 2,
+   "content": "在坐姿划船的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 2.24,
+   "to": 6.87,
+   "sid": 2,
+   "location": 2,
+   "content": "常见的另外一个错误就是你肩伸展的幅度不够",
+   "music": 0.0
+  },
+  {
+   "from": 6.87,
+   "to": 9.4,
+   "sid": 3,
+   "location": 2,
+   "content": "你用腰的伸展来帮忙",
+   "music": 0.0
+  },
+  {
+   "from": 9.4,
+   "to": 12.19,
+   "sid": 4,
+   "location": 2,
+   "content": "比如说正常我们在坐姿划船的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 12.19,
+   "to": 13.66,
+   "sid": 5,
+   "location": 2,
+   "content": "你正常拉回来的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 13.66,
+   "to": 15.88,
+   "sid": 6,
+   "location": 2,
+   "content": "你的拳头应该是在身体的后方",
+   "music": 0.0
+  },
+  {
+   "from": 15.88,
+   "to": 18.03,
+   "sid": 7,
+   "location": 2,
+   "content": "也就是说是你的身体这是一个平面",
+   "music": 0.0
+  },
+  {
+   "from": 18.03,
+   "to": 20.68,
+   "sid": 8,
+   "location": 2,
+   "content": "你要跑到身体前面这个平面的后方去",
+   "music": 0.0
+  },
+  {
+   "from": 20.68,
+   "to": 23.14,
+   "sid": 9,
+   "location": 2,
+   "content": "那这时候呢你的后背才能充分收紧",
+   "music": 0.0
+  },
+  {
+   "from": 23.14,
+   "to": 24.49,
+   "sid": 10,
+   "location": 2,
+   "content": "你的肩胛才能收住",
+   "music": 0.0
+  },
+  {
+   "from": 24.49,
+   "to": 26.34,
+   "sid": 11,
+   "location": 2,
+   "content": "那很多人呃",
+   "music": 0.0
+  },
+  {
+   "from": 26.34,
+   "to": 29.31,
+   "sid": 12,
+   "location": 2,
+   "content": "要不就是胸椎伸展的幅度受限了",
+   "music": 0.0
+  },
+  {
+   "from": 29.31,
+   "to": 31.84,
+   "sid": 13,
+   "location": 2,
+   "content": "要么就是肩前面的肌肉太紧张",
+   "music": 0.0
+  },
+  {
+   "from": 31.84,
+   "to": 33.88,
+   "sid": 14,
+   "location": 2,
+   "content": "他的肩往后伸展幅度不够",
+   "music": 0.0
+  },
+  {
+   "from": 33.88,
+   "to": 35.9,
+   "sid": 15,
+   "location": 2,
+   "content": "所以呢拉到这个位置呢",
+   "music": 0.0
+  },
+  {
+   "from": 35.9,
+   "to": 37.25,
+   "sid": 16,
+   "location": 2,
+   "content": "他就拉不过去了",
+   "music": 0.0
+  },
+  {
+   "from": 37.25,
+   "to": 39.02,
+   "sid": 17,
+   "location": 2,
+   "content": "那感觉后背又没有收紧",
+   "music": 0.0
+  },
+  {
+   "from": 39.02,
+   "to": 40.55,
+   "sid": 18,
+   "location": 2,
+   "content": "又想让后背收的更紧",
+   "music": 0.0
+  },
+  {
+   "from": 40.55,
+   "to": 42.92,
+   "sid": 19,
+   "location": 2,
+   "content": "那这个时候呢就会挺腰来帮忙",
+   "music": 0.0
+  },
+  {
+   "from": 42.92,
+   "to": 47.36,
+   "sid": 20,
+   "location": 2,
+   "content": "所以呢你要检验这个会员的基本功是不是正常",
+   "music": 0.0
+  },
+  {
+   "from": 47.36,
+   "to": 51.56,
+   "sid": 21,
+   "location": 2,
+   "content": "也就是说握拳他是不是能拿拉到身体的后方",
+   "music": 0.0
+  },
+  {
+   "from": 51.56,
+   "to": 53.39,
+   "sid": 22,
+   "location": 2,
+   "content": "如果他能拉到身体的后方",
+   "music": 0.0
+  },
+  {
+   "from": 53.39,
+   "to": 55.4,
+   "sid": 23,
+   "location": 2,
+   "content": "在做坐姿划船的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 55.4,
+   "to": 58.18,
+   "sid": 24,
+   "location": 2,
+   "content": "它就可以充分的把整个后背收紧",
+   "music": 0.0
+  },
+  {
+   "from": 58.18,
+   "to": 60.98,
+   "sid": 25,
+   "location": 2,
+   "content": "接下来我来演示一下这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 63.66,
+   "to": 65.78,
+   "sid": 26,
+   "location": 2,
+   "content": "正常是可以拉到身体的后方",
+   "music": 0.0
+  },
+  {
+   "from": 65.78,
+   "to": 67.34,
+   "sid": 27,
+   "location": 2,
+   "content": "这样整个后背收紧",
+   "music": 0.0
+  },
+  {
+   "from": 67.34,
+   "to": 69.92,
+   "sid": 28,
+   "location": 2,
+   "content": "但如果你的会员胸椎伸展受限",
+   "music": 0.0
+  },
+  {
+   "from": 69.92,
+   "to": 71.6,
+   "sid": 29,
+   "location": 2,
+   "content": "或者是你的健身受限",
+   "music": 0.0
+  },
+  {
+   "from": 71.6,
+   "to": 73.76,
+   "sid": 30,
+   "location": 2,
+   "content": "所以拉到这就过不去了",
+   "music": 0.0
+  },
+  {
+   "from": 73.76,
+   "to": 75.8,
+   "sid": 31,
+   "location": 2,
+   "content": "那这个时候呢你要想让后背收紧",
+   "music": 0.0
+  },
+  {
+   "from": 75.8,
+   "to": 76.91,
+   "sid": 32,
+   "location": 2,
+   "content": "所以只能挺腰",
+   "music": 0.0
+  },
+  {
+   "from": 76.91,
+   "to": 80.0,
+   "sid": 33,
+   "location": 2,
+   "content": "所以很多的会员后半程在拉的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 80.0,
+   "to": 82.74,
+   "sid": 34,
+   "location": 2,
+   "content": "就变成了就变成了腰椎的伸展",
+   "music": 0.0
+  },
+  {
+   "from": 82.74,
+   "to": 84.45,
+   "sid": 35,
+   "location": 2,
+   "content": "就挺腰来完成这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 84.45,
+   "to": 85.74,
+   "sid": 36,
+   "location": 2,
+   "content": "所以这个时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 85.74,
+   "to": 88.32,
+   "sid": 37,
+   "location": 2,
+   "content": "你的后背的肌肉得不到充分刺激",
+   "music": 0.0
+  },
+  {
+   "from": 88.32,
+   "to": 90.17,
+   "sid": 38,
+   "location": 2,
+   "content": "反而腰也不容易酸",
+   "music": 0.0
+  },
+  {
+   "from": 90.17,
+   "to": 93.22,
+   "sid": 39,
+   "location": 2,
+   "content": "坐姿划船整个后背的感觉不好的",
+   "music": 0.0
+  },
+  {
+   "from": 95.71,
+   "to": 98.759,
+   "sid": 40,
+   "location": 2,
+   "content": "但如果你重点是想要练中上背",
+   "music": 0.0
+  },
+  {
+   "from": 98.759,
+   "to": 101.039,
+   "sid": 41,
+   "location": 2,
+   "content": "所以你在坐姿划船的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 101.039,
+   "to": 102.869,
+   "sid": 42,
+   "location": 2,
+   "content": "最好选择胸式呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 102.869,
+   "to": 104.699,
+   "sid": 43,
+   "location": 2,
+   "content": "胸式呼吸的时候就是收束腹",
+   "music": 0.0
+  },
+  {
+   "from": 104.699,
+   "to": 106.58,
+   "sid": 44,
+   "location": 2,
+   "content": "把整个的胸腔打开",
+   "music": 0.0
+  },
+  {
+   "from": 106.58,
+   "to": 108.86,
+   "sid": 45,
+   "location": 2,
+   "content": "因为你的背阔肌是从你的骨盆",
+   "music": 0.0
+  },
+  {
+   "from": 108.86,
+   "to": 110.32,
+   "sid": 46,
+   "location": 2,
+   "content": "是是从骶骨",
+   "music": 0.0
+  },
+  {
+   "from": 110.32,
+   "to": 112.0,
+   "sid": 47,
+   "location": 2,
+   "content": "然后跨过你的肋骨",
+   "music": 0.0
+  },
+  {
+   "from": 112.0,
+   "to": 114.82,
+   "sid": 48,
+   "location": 2,
+   "content": "然后从腋下长到你的大臂上",
+   "music": 0.0
+  },
+  {
+   "from": 114.82,
+   "to": 116.88,
+   "sid": 49,
+   "location": 2,
+   "content": "所以这个时候呢你吸气的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 116.88,
+   "to": 118.2,
+   "sid": 50,
+   "location": 2,
+   "content": "把整个肋骨撑开",
+   "music": 0.0
+  },
+  {
+   "from": 118.2,
+   "to": 120.48,
+   "sid": 51,
+   "location": 2,
+   "content": "你的背阔肌呢就保持了一定的张力",
+   "music": 0.0
+  },
+  {
+   "from": 120.48,
+   "to": 122.14,
+   "sid": 52,
+   "location": 2,
+   "content": "而且肋骨稳定的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 122.14,
+   "to": 124.81,
+   "sid": 53,
+   "location": 2,
+   "content": "你的背阔肌收缩的可以更彻底",
+   "music": 0.0
+  },
+  {
+   "from": 124.81,
+   "to": 126.5,
+   "sid": 54,
+   "location": 2,
+   "content": "那接下来我演示一下",
+   "music": 0.0
+  },
+  {
+   "from": 126.5,
+   "to": 128.0,
+   "sid": 55,
+   "location": 2,
+   "content": "就是你在做的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 128.0,
+   "to": 128.78,
+   "sid": 56,
+   "location": 2,
+   "content": "先收祝福",
+   "music": 0.0
+  },
+  {
+   "from": 130.4,
+   "to": 132.86,
+   "sid": 57,
+   "location": 2,
+   "content": "然后吸满整个胸腔",
+   "music": 0.0
+  },
+  {
+   "from": 142.02,
+   "to": 144.86,
+   "sid": 58,
+   "location": 2,
+   "content": "这样你的中上背就会收的更彻底",
+   "music": 0.0
+  },
+  {
+   "from": 144.86,
+   "to": 147.24,
+   "sid": 59,
+   "location": 2,
+   "content": "但如果是你吸着肚子里",
+   "music": 0.0
+  },
+  {
+   "from": 147.76,
+   "to": 149.22,
+   "sid": 60,
+   "location": 2,
+   "content": "你在拉的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 149.22,
+   "to": 151.08,
+   "sid": 61,
+   "location": 2,
+   "content": "你上面的胸廓是不稳定的",
+   "music": 0.0
+  },
+  {
+   "from": 151.08,
+   "to": 153.04,
+   "sid": 62,
+   "location": 2,
+   "content": "你的肋骨呢也没有充分打开",
+   "music": 0.0
+  },
+  {
+   "from": 153.04,
+   "to": 156.4,
+   "sid": 63,
+   "location": 2,
+   "content": "所以这时候呢你的后背的收缩的感觉是不好的",
+   "music": 0.0
+  },
+  {
+   "from": 156.4,
+   "to": 160.139,
+   "sid": 64,
+   "location": 2,
+   "content": "那如果是你想练到下背背阔肌的下段",
+   "music": 0.0
+  },
+  {
+   "from": 160.139,
+   "to": 163.199,
+   "sid": 65,
+   "location": 2,
+   "content": "那这个时候呢你要吸到肚子里",
+   "music": 0.0
+  },
+  {
+   "from": 169.34,
+   "to": 171.64,
+   "sid": 66,
+   "location": 2,
+   "content": "为了避免让竖脊肌发力",
+   "music": 0.0
+  },
+  {
+   "from": 171.64,
+   "to": 174.5,
+   "sid": 67,
+   "location": 2,
+   "content": "你可以选择不做脊柱的伸啊",
+   "music": 0.0
+  },
+  {
+   "from": 174.5,
+   "to": 175.4,
+   "sid": 68,
+   "location": 2,
+   "content": "只做健身",
+   "music": 0.0
+  },
+  {
+   "from": 175.4,
+   "to": 177.44,
+   "sid": 69,
+   "location": 2,
+   "content": "在脊柱屈曲的状态下做健身",
+   "music": 0.0
+  },
+  {
+   "from": 177.44,
+   "to": 178.86,
+   "sid": 70,
+   "location": 2,
+   "content": "但是要吸到肚子里",
+   "music": 0.0
+  },
+  {
+   "from": 178.86,
+   "to": 180.42,
+   "sid": 71,
+   "location": 2,
+   "content": "把胸腰筋膜撑开",
+   "music": 0.0
+  },
+  {
+   "from": 180.42,
+   "to": 183.86,
+   "sid": 72,
+   "location": 2,
+   "content": "如果你能憋住气是最好",
+   "music": 0.0
+  },
+  {
+   "from": 190.5,
+   "to": 192.02,
+   "sid": 73,
+   "location": 2,
+   "content": "练不同的部位",
+   "music": 0.0
+  },
+  {
+   "from": 193.58,
+   "to": 195.84,
+   "sid": 74,
+   "location": 2,
+   "content": "会让你的训练效果事半功倍",
+   "music": 0.0
+  }
+ ]
+}

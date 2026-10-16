@@ -1,0 +1,716 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.24,
+      "to": 3.96,
+      "sid": 1,
+      "location": 2,
+      "content": "最近很多人都说哎呀我这个健身房没有小片啊",
+      "music": 0.0
+    },
+    {
+      "from": 3.96,
+      "to": 6.18,
+      "sid": 2,
+      "location": 2,
+      "content": "他指的这个小片就是1.25kg",
+      "music": 0.0
+    },
+    {
+      "from": 6.18,
+      "to": 9.53,
+      "sid": 3,
+      "location": 2,
+      "content": "或者说1.25kg在小一点的这样的片",
+      "music": 0.0
+    },
+    {
+      "from": 9.53,
+      "to": 12.74,
+      "sid": 4,
+      "location": 2,
+      "content": "说没有健身房最小的片就是2.5kg的",
+      "music": 0.0
+    },
+    {
+      "from": 12.74,
+      "to": 16.39,
+      "sid": 5,
+      "location": 2,
+      "content": "那么小片对于长力量而言到底重不重要",
+      "music": 0.0
+    },
+    {
+      "from": 16.39,
+      "to": 19.28,
+      "sid": 6,
+      "location": 2,
+      "content": "咱们接下来就来简单说一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 19.28,
+      "to": 20.12,
+      "sid": 7,
+      "location": 2,
+      "content": "大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 20.12,
+      "to": 22.88,
+      "sid": 8,
+      "location": 2,
+      "content": "咱们还是拿举例卧推啊",
+      "music": 0.0
+    },
+    {
+      "from": 22.88,
+      "to": 26.11,
+      "sid": 9,
+      "location": 2,
+      "content": "咱们就按照你的卧推成绩在100kg左右",
+      "music": 0.0
+    },
+    {
+      "from": 26.11,
+      "to": 30.43,
+      "sid": 10,
+      "location": 2,
+      "content": "那么这个时候的话通常来讲我们去做5×5啊",
+      "music": 0.0
+    },
+    {
+      "from": 30.43,
+      "to": 31.61,
+      "sid": 11,
+      "location": 2,
+      "content": "打个比方做5×5",
+      "music": 0.0
+    },
+    {
+      "from": 31.61,
+      "to": 36.33,
+      "sid": 12,
+      "location": 2,
+      "content": "那么如果说你第一次用75kg做55啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.33,
+      "to": 37.77,
+      "sid": 13,
+      "location": 2,
+      "content": "那么这个相对于你来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 37.77,
+      "to": 39.97,
+      "sid": 14,
+      "location": 2,
+      "content": "是比较轻松的一个值",
+      "music": 0.0
+    },
+    {
+      "from": 39.97,
+      "to": 42.7,
+      "sid": 15,
+      "location": 2,
+      "content": "哎那么由于你的健身房没有小片",
+      "music": 0.0
+    },
+    {
+      "from": 42.7,
+      "to": 44.17,
+      "sid": 16,
+      "location": 2,
+      "content": "你下一次的话你想着哎",
+      "music": 0.0
+    },
+    {
+      "from": 44.17,
+      "to": 46.379,
+      "sid": 17,
+      "location": 2,
+      "content": "我这个75kg55啊",
+      "music": 0.0
+    },
+    {
+      "from": 46.379,
+      "to": 47.519,
+      "sid": 18,
+      "location": 2,
+      "content": "我想的太轻松了",
+      "music": 0.0
+    },
+    {
+      "from": 47.519,
+      "to": 49.289,
+      "sid": 19,
+      "location": 2,
+      "content": "我想加加一次重量",
+      "music": 0.0
+    },
+    {
+      "from": 49.289,
+      "to": 51.659,
+      "sid": 20,
+      "location": 2,
+      "content": "那么就只能一边加一个2.5kg",
+      "music": 0.0
+    },
+    {
+      "from": 51.659,
+      "to": 53.18,
+      "sid": 21,
+      "location": 2,
+      "content": "就是一共加了5kg",
+      "music": 0.0
+    },
+    {
+      "from": 53.18,
+      "to": 56.42,
+      "sid": 22,
+      "location": 2,
+      "content": "然后的话这个重量就到了80kg55了啊",
+      "music": 0.0
+    },
+    {
+      "from": 56.42,
+      "to": 58.73,
+      "sid": 23,
+      "location": 2,
+      "content": "这时候你就感觉没那么轻松了",
+      "music": 0.0
+    },
+    {
+      "from": 58.73,
+      "to": 61.22,
+      "sid": 24,
+      "location": 2,
+      "content": "诶然后呢这是第二次训练",
+      "music": 0.0
+    },
+    {
+      "from": 61.22,
+      "to": 63.2,
+      "sid": 25,
+      "location": 2,
+      "content": "下一次再去练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 63.2,
+      "to": 64.64,
+      "sid": 26,
+      "location": 2,
+      "content": "你又想往上加重量",
+      "music": 0.0
+    },
+    {
+      "from": 64.64,
+      "to": 68.28,
+      "sid": 27,
+      "location": 2,
+      "content": "你发现诶我再加的话只能加到85kg",
+      "music": 0.0
+    },
+    {
+      "from": 68.28,
+      "to": 69.09,
+      "sid": 28,
+      "location": 2,
+      "content": "5×5了",
+      "music": 0.0
+    },
+    {
+      "from": 69.09,
+      "to": 70.14,
+      "sid": 29,
+      "location": 2,
+      "content": "80kg",
+      "music": 0.0
+    },
+    {
+      "from": 70.14,
+      "to": 71.63,
+      "sid": 30,
+      "location": 2,
+      "content": "我感觉有余量",
+      "music": 0.0
+    },
+    {
+      "from": 71.63,
+      "to": 73.61,
+      "sid": 31,
+      "location": 2,
+      "content": "85kg我也完不成",
+      "music": 0.0
+    },
+    {
+      "from": 73.61,
+      "to": 75.36,
+      "sid": 32,
+      "location": 2,
+      "content": "这个时候怎么办啊",
+      "music": 0.0
+    },
+    {
+      "from": 75.36,
+      "to": 78.24,
+      "sid": 33,
+      "location": 2,
+      "content": "所以这个事也是很多人都在都在纠结的",
+      "music": 0.0
+    },
+    {
+      "from": 78.24,
+      "to": 78.84,
+      "sid": 34,
+      "location": 2,
+      "content": "问我的问题",
+      "music": 0.0
+    },
+    {
+      "from": 78.84,
+      "to": 79.44,
+      "sid": 35,
+      "location": 2,
+      "content": "他说峰哥",
+      "music": 0.0
+    },
+    {
+      "from": 79.44,
+      "to": 81.72,
+      "sid": 36,
+      "location": 2,
+      "content": "我这个健身房没有没有小片啊",
+      "music": 0.0
+    },
+    {
+      "from": 81.72,
+      "to": 83.18,
+      "sid": 37,
+      "location": 2,
+      "content": "我那我怎么办诶",
+      "music": 0.0
+    },
+    {
+      "from": 83.18,
+      "to": 84.68,
+      "sid": 38,
+      "location": 2,
+      "content": "那么大家可以看一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.68,
+      "to": 86.84,
+      "sid": 39,
+      "location": 2,
+      "content": "如果你的最大重量卧推100kg",
+      "music": 0.0
+    },
+    {
+      "from": 86.84,
+      "to": 89.2,
+      "sid": 40,
+      "location": 2,
+      "content": "那么2.5kg的小片",
+      "music": 0.0
+    },
+    {
+      "from": 89.2,
+      "to": 90.04,
+      "sid": 41,
+      "location": 2,
+      "content": "这种片的话",
+      "music": 0.0
+    },
+    {
+      "from": 90.04,
+      "to": 91.72,
+      "sid": 42,
+      "location": 2,
+      "content": "一边加一个就是5kg",
+      "music": 0.0
+    },
+    {
+      "from": 91.72,
+      "to": 94.54,
+      "sid": 43,
+      "location": 2,
+      "content": "也就是说你每次往上递增的重量的话",
+      "music": 0.0
+    },
+    {
+      "from": 94.54,
+      "to": 96.71,
+      "sid": 44,
+      "location": 2,
+      "content": "那就相当于最大重量的5%",
+      "music": 0.0
+    },
+    {
+      "from": 96.71,
+      "to": 100.66,
+      "sid": 45,
+      "location": 2,
+      "content": "那么这个递增的速度是非常非常快的啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.66,
+      "to": 101.98,
+      "sid": 46,
+      "location": 2,
+      "content": "基本上你加个两次",
+      "music": 0.0
+    },
+    {
+      "from": 101.98,
+      "to": 103.96,
+      "sid": 47,
+      "location": 2,
+      "content": "你就会发现完不成了啊",
+      "music": 0.0
+    },
+    {
+      "from": 103.96,
+      "to": 104.92,
+      "sid": 48,
+      "location": 2,
+      "content": "那这时候怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 104.92,
+      "to": 106.42,
+      "sid": 49,
+      "location": 2,
+      "content": "就只能通过小片",
+      "music": 0.0
+    },
+    {
+      "from": 106.42,
+      "to": 108.62,
+      "sid": 50,
+      "location": 2,
+      "content": "这个小片的话也不用特别小",
+      "music": 0.0
+    },
+    {
+      "from": 108.62,
+      "to": 111.05,
+      "sid": 51,
+      "location": 2,
+      "content": "比如说什么0.5kg的呀",
+      "music": 0.0
+    },
+    {
+      "from": 111.05,
+      "to": 112.43,
+      "sid": 52,
+      "location": 2,
+      "content": "这个其实也没有必要",
+      "music": 0.0
+    },
+    {
+      "from": 112.43,
+      "to": 116.52,
+      "sid": 53,
+      "location": 2,
+      "content": "就是建议大家的话能够有1.25kg的一对",
+      "music": 0.0
+    },
+    {
+      "from": 116.52,
+      "to": 118.32,
+      "sid": 54,
+      "location": 2,
+      "content": "这样的一个小片其实就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 118.32,
+      "to": 119.52,
+      "sid": 55,
+      "location": 2,
+      "content": "健身房没有没有怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 119.52,
+      "to": 120.54,
+      "sid": 56,
+      "location": 2,
+      "content": "自己买一对嘛",
+      "music": 0.0
+    },
+    {
+      "from": 120.54,
+      "to": 122.82,
+      "sid": 57,
+      "location": 2,
+      "content": "这个东西这多方便啊是吧",
+      "music": 0.0
+    },
+    {
+      "from": 122.82,
+      "to": 124.61,
+      "sid": 58,
+      "location": 2,
+      "content": "你自己买一对啊",
+      "music": 0.0
+    },
+    {
+      "from": 124.61,
+      "to": 126.83,
+      "sid": 59,
+      "location": 2,
+      "content": "练的时候背去不练啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.83,
+      "to": 128.21,
+      "sid": 60,
+      "location": 2,
+      "content": "练完以后再拿回来嘛",
+      "music": 0.0
+    },
+    {
+      "from": 128.21,
+      "to": 129.83,
+      "sid": 61,
+      "location": 2,
+      "content": "自己留着不就完事了吗",
+      "music": 0.0
+    },
+    {
+      "from": 129.83,
+      "to": 130.49,
+      "sid": 62,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 130.49,
+      "to": 132.92,
+      "sid": 63,
+      "location": 2,
+      "content": "但是的话这个1.25kg的小片",
+      "music": 0.0
+    },
+    {
+      "from": 132.92,
+      "to": 134.54,
+      "sid": 64,
+      "location": 2,
+      "content": "对于大部分人来讲",
+      "music": 0.0
+    },
+    {
+      "from": 134.54,
+      "to": 136.94,
+      "sid": 65,
+      "location": 2,
+      "content": "无论是你做卧推",
+      "music": 0.0
+    },
+    {
+      "from": 136.94,
+      "to": 138.2,
+      "sid": 66,
+      "location": 2,
+      "content": "深蹲还是硬拉",
+      "music": 0.0
+    },
+    {
+      "from": 138.2,
+      "to": 141.379,
+      "sid": 67,
+      "location": 2,
+      "content": "其实都需要他对于卧推的影响是最大的",
+      "music": 0.0
+    },
+    {
+      "from": 141.379,
+      "to": 142.579,
+      "sid": 68,
+      "location": 2,
+      "content": "因为你的卧推的话",
+      "music": 0.0
+    },
+    {
+      "from": 142.579,
+      "to": 144.289,
+      "sid": 69,
+      "location": 2,
+      "content": "相对于深蹲硬拉来讲",
+      "music": 0.0
+    },
+    {
+      "from": 144.289,
+      "to": 146.599,
+      "sid": 70,
+      "location": 2,
+      "content": "就是说没那么力量",
+      "music": 0.0
+    },
+    {
+      "from": 146.599,
+      "to": 148.16,
+      "sid": 71,
+      "location": 2,
+      "content": "没那么大对吧",
+      "music": 0.0
+    },
+    {
+      "from": 148.16,
+      "to": 150.0,
+      "sid": 72,
+      "location": 2,
+      "content": "但是你又想去完成增",
+      "music": 0.0
+    },
+    {
+      "from": 150.0,
+      "to": 151.38,
+      "sid": 73,
+      "location": 2,
+      "content": "你一边加一个2.5",
+      "music": 0.0
+    },
+    {
+      "from": 151.38,
+      "to": 153.03,
+      "sid": 74,
+      "location": 2,
+      "content": "这个重量可不小啊",
+      "music": 0.0
+    },
+    {
+      "from": 153.03,
+      "to": 155.43,
+      "sid": 75,
+      "location": 2,
+      "content": "相当于你最大重量的5%了",
+      "music": 0.0
+    },
+    {
+      "from": 155.43,
+      "to": 156.15,
+      "sid": 76,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 156.15,
+      "to": 159.34,
+      "sid": 77,
+      "location": 2,
+      "content": "那你基本上你你是加不上去的啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.34,
+      "to": 160.54,
+      "sid": 78,
+      "location": 2,
+      "content": "如果你没有小片的话",
+      "music": 0.0
+    },
+    {
+      "from": 160.54,
+      "to": 163.33,
+      "sid": 79,
+      "location": 2,
+      "content": "你会感觉真的是很难受很难受啊",
+      "music": 0.0
+    },
+    {
+      "from": 163.33,
+      "to": 169.35,
+      "sid": 80,
+      "location": 2,
+      "content": "5×5你可以去比原来加的这个呃次数会更多",
+      "music": 0.0
+    },
+    {
+      "from": 169.35,
+      "to": 171.42,
+      "sid": 81,
+      "location": 2,
+      "content": "3×3的话更是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 171.42,
+      "to": 174.24,
+      "sid": 82,
+      "location": 2,
+      "content": "如果说你用3×3去做锻炼",
+      "music": 0.0
+    },
+    {
+      "from": 174.24,
+      "to": 176.7,
+      "sid": 83,
+      "location": 2,
+      "content": "那么3×3会比原来加的这个",
+      "music": 0.0
+    },
+    {
+      "from": 176.7,
+      "to": 178.5,
+      "sid": 84,
+      "location": 2,
+      "content": "次数会也会更加多",
+      "music": 0.0
+    },
+    {
+      "from": 178.5,
+      "to": 181.54,
+      "sid": 85,
+      "location": 2,
+      "content": "它会比5×5的这个范围会更广一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.54,
+      "to": 184.66,
+      "sid": 86,
+      "location": 2,
+      "content": "所以建议大家能够还是自己备一对1.2",
+      "music": 0.0
+    },
+    {
+      "from": 184.66,
+      "to": 185.62,
+      "sid": 87,
+      "location": 2,
+      "content": "5kg的小片",
+      "music": 0.0
+    },
+    {
+      "from": 185.62,
+      "to": 187.04,
+      "sid": 88,
+      "location": 2,
+      "content": "其实是很有必要的",
+      "music": 0.0
+    }
+  ]
+}

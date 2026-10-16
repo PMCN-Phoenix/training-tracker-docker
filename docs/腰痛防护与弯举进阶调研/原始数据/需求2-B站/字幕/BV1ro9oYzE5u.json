@@ -1,0 +1,964 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.4,
+      "to": 1.18,
+      "sid": 1,
+      "location": 2,
+      "content": "老铁们好",
+      "music": 0.0
+    },
+    {
+      "from": 1.18,
+      "to": 4.18,
+      "sid": 2,
+      "location": 2,
+      "content": "今天呢我们来聊一聊二头经典的训练动作",
+      "music": 0.0
+    },
+    {
+      "from": 4.18,
+      "to": 5.74,
+      "sid": 3,
+      "location": 2,
+      "content": "坐姿哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 5.74,
+      "to": 6.78,
+      "sid": 4,
+      "location": 2,
+      "content": "既然是坐姿",
+      "music": 0.0
+    },
+    {
+      "from": 6.78,
+      "to": 7.82,
+      "sid": 5,
+      "location": 2,
+      "content": "就有很多种",
+      "music": 0.0
+    },
+    {
+      "from": 7.82,
+      "to": 10.38,
+      "sid": 6,
+      "location": 2,
+      "content": "一种呢是靠在这种上斜椅上坐",
+      "music": 0.0
+    },
+    {
+      "from": 10.38,
+      "to": 12.88,
+      "sid": 7,
+      "location": 2,
+      "content": "还有一种呢就是自己坐在平椅上",
+      "music": 0.0
+    },
+    {
+      "from": 12.88,
+      "to": 14.26,
+      "sid": 8,
+      "location": 2,
+      "content": "自己这么坐",
+      "music": 0.0
+    },
+    {
+      "from": 14.26,
+      "to": 15.71,
+      "sid": 9,
+      "location": 2,
+      "content": "那哪种好呢",
+      "music": 0.0
+    },
+    {
+      "from": 15.71,
+      "to": 17.71,
+      "sid": 10,
+      "location": 2,
+      "content": "我个人认为呢上斜椅的坐姿",
+      "music": 0.0
+    },
+    {
+      "from": 17.71,
+      "to": 20.09,
+      "sid": 11,
+      "location": 2,
+      "content": "哑铃弯举对二头刺激会更强",
+      "music": 0.0
+    },
+    {
+      "from": 20.09,
+      "to": 20.97,
+      "sid": 12,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 20.97,
+      "to": 22.11,
+      "sid": 13,
+      "location": 2,
+      "content": "大家可以想一下",
+      "music": 0.0
+    },
+    {
+      "from": 22.11,
+      "to": 24.21,
+      "sid": 14,
+      "location": 2,
+      "content": "当我们身体呈坐姿的时候",
+      "music": 0.0
+    },
+    {
+      "from": 24.21,
+      "to": 26.39,
+      "sid": 15,
+      "location": 2,
+      "content": "背是靠在上斜椅上的",
+      "music": 0.0
+    },
+    {
+      "from": 26.39,
+      "to": 29.73,
+      "sid": 16,
+      "location": 2,
+      "content": "这时候呢你的胳膊就可以充分的被解放出来",
+      "music": 0.0
+    },
+    {
+      "from": 29.73,
+      "to": 31.06,
+      "sid": 17,
+      "location": 2,
+      "content": "来做弯举动作",
+      "music": 0.0
+    },
+    {
+      "from": 31.06,
+      "to": 32.26,
+      "sid": 18,
+      "location": 2,
+      "content": "但如果没有靠背",
+      "music": 0.0
+    },
+    {
+      "from": 32.26,
+      "to": 33.5,
+      "sid": 19,
+      "location": 2,
+      "content": "我们直接这么做的话",
+      "music": 0.0
+    },
+    {
+      "from": 33.5,
+      "to": 35.58,
+      "sid": 20,
+      "location": 2,
+      "content": "第一你得花一部分精力出来",
+      "music": 0.0
+    },
+    {
+      "from": 35.58,
+      "to": 37.16,
+      "sid": 21,
+      "location": 2,
+      "content": "控制上半身的稳定性",
+      "music": 0.0
+    },
+    {
+      "from": 37.16,
+      "to": 39.74,
+      "sid": 22,
+      "location": 2,
+      "content": "第二呢他的离心会不够强",
+      "music": 0.0
+    },
+    {
+      "from": 39.74,
+      "to": 41.66,
+      "sid": 23,
+      "location": 2,
+      "content": "因为我们在做二头离心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 41.66,
+      "to": 44.49,
+      "sid": 24,
+      "location": 2,
+      "content": "最好呢是把肘关节略微往前伸",
+      "music": 0.0
+    },
+    {
+      "from": 44.49,
+      "to": 46.269,
+      "sid": 25,
+      "location": 2,
+      "content": "然后做离心",
+      "music": 0.0
+    },
+    {
+      "from": 46.269,
+      "to": 48.989,
+      "sid": 26,
+      "location": 2,
+      "content": "这样的方法呢对二头的刺激是最强的",
+      "music": 0.0
+    },
+    {
+      "from": 48.989,
+      "to": 50.949,
+      "sid": 27,
+      "location": 2,
+      "content": "但是在我们做没有靠背的坐姿",
+      "music": 0.0
+    },
+    {
+      "from": 50.949,
+      "to": 51.989,
+      "sid": 28,
+      "location": 2,
+      "content": "哑铃弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 51.989,
+      "to": 54.46,
+      "sid": 29,
+      "location": 2,
+      "content": "大多数人的大胳膊呢是垂直朝下的",
+      "music": 0.0
+    },
+    {
+      "from": 54.46,
+      "to": 56.1,
+      "sid": 30,
+      "location": 2,
+      "content": "他在这么做",
+      "music": 0.0
+    },
+    {
+      "from": 57.63,
+      "to": 60.25,
+      "sid": 31,
+      "location": 2,
+      "content": "如果他的肘关节在下落的时候往前伸的话",
+      "music": 0.0
+    },
+    {
+      "from": 60.25,
+      "to": 62.35,
+      "sid": 32,
+      "location": 2,
+      "content": "他就很难控制身体的平衡",
+      "music": 0.0
+    },
+    {
+      "from": 62.35,
+      "to": 64.47,
+      "sid": 33,
+      "location": 2,
+      "content": "所以呢没有靠背的坐姿",
+      "music": 0.0
+    },
+    {
+      "from": 64.47,
+      "to": 65.34,
+      "sid": 34,
+      "location": 2,
+      "content": "哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 65.34,
+      "to": 68.54,
+      "sid": 35,
+      "location": 2,
+      "content": "在我看来很难对二头造成一个非常强烈的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 68.54,
+      "to": 70.35,
+      "sid": 36,
+      "location": 2,
+      "content": "相反呢我们有了靠背",
+      "music": 0.0
+    },
+    {
+      "from": 70.35,
+      "to": 71.99,
+      "sid": 37,
+      "location": 2,
+      "content": "把身体固定在上面",
+      "music": 0.0
+    },
+    {
+      "from": 71.99,
+      "to": 74.13,
+      "sid": 38,
+      "location": 2,
+      "content": "至少把我们的背部固定在椅子上",
+      "music": 0.0
+    },
+    {
+      "from": 74.13,
+      "to": 75.71,
+      "sid": 39,
+      "location": 2,
+      "content": "这样就可以充分解放出来",
+      "music": 0.0
+    },
+    {
+      "from": 75.71,
+      "to": 77.11,
+      "sid": 40,
+      "location": 2,
+      "content": "我们的胳膊来做这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 77.11,
+      "to": 78.51,
+      "sid": 41,
+      "location": 2,
+      "content": "这是我想说的第一点",
+      "music": 0.0
+    },
+    {
+      "from": 78.51,
+      "to": 80.37,
+      "sid": 42,
+      "location": 2,
+      "content": "第二点呢就是这个动作的要领",
+      "music": 0.0
+    },
+    {
+      "from": 80.37,
+      "to": 83.45,
+      "sid": 43,
+      "location": 2,
+      "content": "上斜的角度呢我一般调到75度左右",
+      "music": 0.0
+    },
+    {
+      "from": 83.45,
+      "to": 85.87,
+      "sid": 44,
+      "location": 2,
+      "content": "下面这个座椅呢稍微让它倾斜",
+      "music": 0.0
+    },
+    {
+      "from": 85.87,
+      "to": 88.63,
+      "sid": 45,
+      "location": 2,
+      "content": "这样可以把我们身体更好的卡在这个椅子上",
+      "music": 0.0
+    },
+    {
+      "from": 88.63,
+      "to": 89.83,
+      "sid": 46,
+      "location": 2,
+      "content": "然后在我们坐的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 89.83,
+      "to": 91.32,
+      "sid": 47,
+      "location": 2,
+      "content": "标准动作是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 91.32,
+      "to": 93.14,
+      "sid": 48,
+      "location": 2,
+      "content": "肩关节尽量不动",
+      "music": 0.0
+    },
+    {
+      "from": 93.14,
+      "to": 95.08,
+      "sid": 49,
+      "location": 2,
+      "content": "动的是肘关节",
+      "music": 0.0
+    },
+    {
+      "from": 95.08,
+      "to": 96.82,
+      "sid": 50,
+      "location": 2,
+      "content": "动的是肘关节",
+      "music": 0.0
+    },
+    {
+      "from": 96.82,
+      "to": 99.0,
+      "sid": 51,
+      "location": 2,
+      "content": "而且为了更好的顶峰收缩呢",
+      "music": 0.0
+    },
+    {
+      "from": 99.0,
+      "to": 100.92,
+      "sid": 52,
+      "location": 2,
+      "content": "我们在做向心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 100.92,
+      "to": 105.16,
+      "sid": 53,
+      "location": 2,
+      "content": "可以把肘关节略微往前向心收缩",
+      "music": 0.0
+    },
+    {
+      "from": 105.44,
+      "to": 108.96,
+      "sid": 54,
+      "location": 2,
+      "content": "在下来的时候也是把肘关节略微往前抛",
+      "music": 0.0
+    },
+    {
+      "from": 108.96,
+      "to": 110.06,
+      "sid": 55,
+      "location": 2,
+      "content": "做离心",
+      "music": 0.0
+    },
+    {
+      "from": 110.06,
+      "to": 113.289,
+      "sid": 56,
+      "location": 2,
+      "content": "这样会给我们的二头肌带来很强的离心刺激",
+      "music": 0.0
+    },
+    {
+      "from": 113.569,
+      "to": 117.78,
+      "sid": 57,
+      "location": 2,
+      "content": "向心离心向心离心",
+      "music": 0.0
+    },
+    {
+      "from": 117.78,
+      "to": 120.16,
+      "sid": 58,
+      "location": 2,
+      "content": "下面呢我用哑铃给大家做一个示范",
+      "music": 0.0
+    },
+    {
+      "from": 120.16,
+      "to": 122.0,
+      "sid": 59,
+      "location": 2,
+      "content": "而且呢不光背部的动作",
+      "music": 0.0
+    },
+    {
+      "from": 122.0,
+      "to": 123.69,
+      "sid": 60,
+      "location": 2,
+      "content": "在练二头弯举的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 123.69,
+      "to": 125.37,
+      "sid": 61,
+      "location": 2,
+      "content": "我也喜欢用助力带",
+      "music": 0.0
+    },
+    {
+      "from": 125.37,
+      "to": 127.77,
+      "sid": 62,
+      "location": 2,
+      "content": "这样可以最大限度地解放我们的前臂",
+      "music": 0.0
+    },
+    {
+      "from": 127.77,
+      "to": 131.13,
+      "sid": 63,
+      "location": 2,
+      "content": "把所有的注意力都集中在目标肌肱二头肌上",
+      "music": 0.0
+    },
+    {
+      "from": 131.13,
+      "to": 133.09,
+      "sid": 64,
+      "location": 2,
+      "content": "所以呢不仅练背的时候",
+      "music": 0.0
+    },
+    {
+      "from": 133.09,
+      "to": 134.09,
+      "sid": 65,
+      "location": 2,
+      "content": "练二头的时候",
+      "music": 0.0
+    },
+    {
+      "from": 134.09,
+      "to": 135.43,
+      "sid": 66,
+      "location": 2,
+      "content": "我也要用助力带",
+      "music": 0.0
+    },
+    {
+      "from": 135.43,
+      "to": 138.81,
+      "sid": 67,
+      "location": 2,
+      "content": "我们先来取一副17.5kg的哑铃",
+      "music": 0.0
+    },
+    {
+      "from": 142.68,
+      "to": 144.52,
+      "sid": 68,
+      "location": 2,
+      "content": "最后呢就是关于借力的问题",
+      "music": 0.0
+    },
+    {
+      "from": 144.52,
+      "to": 146.29,
+      "sid": 69,
+      "location": 2,
+      "content": "在二头自由重量的训练里",
+      "music": 0.0
+    },
+    {
+      "from": 146.29,
+      "to": 148.27,
+      "sid": 70,
+      "location": 2,
+      "content": "我一般会用一个比较大的重量",
+      "music": 0.0
+    },
+    {
+      "from": 148.27,
+      "to": 151.29,
+      "sid": 71,
+      "location": 2,
+      "content": "然后呢借力上来再让它离心下去",
+      "music": 0.0
+    },
+    {
+      "from": 151.29,
+      "to": 151.99,
+      "sid": 72,
+      "location": 2,
+      "content": "这样的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 151.99,
+      "to": 153.68,
+      "sid": 73,
+      "location": 2,
+      "content": "比如我借力用了5kg",
+      "music": 0.0
+    },
+    {
+      "from": 153.68,
+      "to": 155.94,
+      "sid": 74,
+      "location": 2,
+      "content": "那我向心做工是12.5kg",
+      "music": 0.0
+    },
+    {
+      "from": 155.94,
+      "to": 159.08,
+      "sid": 75,
+      "location": 2,
+      "content": "但是离心呢我做的是17.5kg的重量",
+      "music": 0.0
+    },
+    {
+      "from": 159.08,
+      "to": 161.3,
+      "sid": 76,
+      "location": 2,
+      "content": "但如果我要用很标准的动作",
+      "music": 0.0
+    },
+    {
+      "from": 161.3,
+      "to": 164.28,
+      "sid": 77,
+      "location": 2,
+      "content": "那我离心向心都是12.5kg",
+      "music": 0.0
+    },
+    {
+      "from": 164.28,
+      "to": 168.639,
+      "sid": 78,
+      "location": 2,
+      "content": "所以呢我更愿意用大动作来借力做向心",
+      "music": 0.0
+    },
+    {
+      "from": 168.639,
+      "to": 170.87,
+      "sid": 79,
+      "location": 2,
+      "content": "然后普通做离心",
+      "music": 0.0
+    },
+    {
+      "from": 170.87,
+      "to": 173.31,
+      "sid": 80,
+      "location": 2,
+      "content": "这样给我们肌肉的刺激会更强",
+      "music": 0.0
+    },
+    {
+      "from": 173.31,
+      "to": 174.11,
+      "sid": 81,
+      "location": 2,
+      "content": "我做一组",
+      "music": 0.0
+    },
+    {
+      "from": 174.11,
+      "to": 176.12,
+      "sid": 82,
+      "location": 2,
+      "content": "大家看一下",
+      "music": 0.0
+    },
+    {
+      "from": 227.4,
+      "to": 230.31,
+      "sid": 83,
+      "location": 2,
+      "content": "这就是我每次二头训练的必做动作之一",
+      "music": 0.0
+    },
+    {
+      "from": 230.31,
+      "to": 231.89,
+      "sid": 84,
+      "location": 2,
+      "content": "上斜哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 231.89,
+      "to": 235.17,
+      "sid": 85,
+      "location": 2,
+      "content": "通常呢第一个动作我会做站姿的杠铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 235.17,
+      "to": 237.13,
+      "sid": 86,
+      "location": 2,
+      "content": "第二个动作呢牧师椅",
+      "music": 0.0
+    },
+    {
+      "from": 237.13,
+      "to": 239.57,
+      "sid": 87,
+      "location": 2,
+      "content": "一般第三个动作就是这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 239.57,
+      "to": 241.13,
+      "sid": 88,
+      "location": 2,
+      "content": "上斜哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 241.13,
+      "to": 243.38,
+      "sid": 89,
+      "location": 2,
+      "content": "但如果在家没有牧师椅呢",
+      "music": 0.0
+    },
+    {
+      "from": 243.38,
+      "to": 245.86,
+      "sid": 90,
+      "location": 2,
+      "content": "我就会再选择一个别的动作来代替",
+      "music": 0.0
+    },
+    {
+      "from": 245.86,
+      "to": 247.5,
+      "sid": 91,
+      "location": 2,
+      "content": "但是上斜哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 247.5,
+      "to": 249.5,
+      "sid": 92,
+      "location": 2,
+      "content": "无论你在家还是在健身房",
+      "music": 0.0
+    },
+    {
+      "from": 249.5,
+      "to": 251.82,
+      "sid": 93,
+      "location": 2,
+      "content": "我们都可以做到好",
+      "music": 0.0
+    },
+    {
+      "from": 251.82,
+      "to": 253.22,
+      "sid": 94,
+      "location": 2,
+      "content": "我们今天的视频就到这",
+      "music": 0.0
+    },
+    {
+      "from": 253.22,
+      "to": 253.86,
+      "sid": 95,
+      "location": 2,
+      "content": "My protech",
+      "music": 0.0
+    },
+    {
+      "from": 256.63,
+      "to": 258.23,
+      "sid": 96,
+      "location": 2,
+      "content": "从东哥链接购买呢",
+      "music": 0.0
+    },
+    {
+      "from": 258.23,
+      "to": 260.31,
+      "sid": 97,
+      "location": 2,
+      "content": "享受天猫淘宝最低优惠价格",
+      "music": 0.0
+    },
+    {
+      "from": 260.31,
+      "to": 262.8,
+      "sid": 98,
+      "location": 2,
+      "content": "而且还有赠品详情和链接呢",
+      "music": 0.0
+    },
+    {
+      "from": 262.8,
+      "to": 264.84,
+      "sid": 99,
+      "location": 2,
+      "content": "我们在B站视频的评论区置顶",
+      "music": 0.0
+    },
+    {
+      "from": 264.84,
+      "to": 266.12,
+      "sid": 100,
+      "location": 2,
+      "content": "需要的老铁可以下单",
+      "music": 0.0
+    },
+    {
+      "from": 266.12,
+      "to": 267.55,
+      "sid": 101,
+      "location": 2,
+      "content": "感谢老铁们的支持",
+      "music": 0.0
+    },
+    {
+      "from": 267.55,
+      "to": 271.17,
+      "sid": 102,
+      "location": 2,
+      "content": "另外呢这两天三八节可调节哑铃也在搞活动了",
+      "music": 0.0
+    },
+    {
+      "from": 271.17,
+      "to": 272.89,
+      "sid": 103,
+      "location": 2,
+      "content": "活动呢截止到3月8号",
+      "music": 0.0
+    },
+    {
+      "from": 272.89,
+      "to": 275.11,
+      "sid": 104,
+      "location": 2,
+      "content": "如果这两天有买可调节哑铃的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 275.11,
+      "to": 277.01,
+      "sid": 105,
+      "location": 2,
+      "content": "那你从东哥链接点进去之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 277.01,
+      "to": 277.87,
+      "sid": 106,
+      "location": 2,
+      "content": "跟客服说",
+      "music": 0.0
+    },
+    {
+      "from": 277.87,
+      "to": 279.58,
+      "sid": 107,
+      "location": 2,
+      "content": "暗号烧毁一切就是美",
+      "music": 0.0
+    },
+    {
+      "from": 279.58,
+      "to": 280.64,
+      "sid": 108,
+      "location": 2,
+      "content": "可以拿到赠品",
+      "music": 0.0
+    },
+    {
+      "from": 280.64,
+      "to": 282.4,
+      "sid": 109,
+      "location": 2,
+      "content": "并且享受优惠价格好",
+      "music": 0.0
+    },
+    {
+      "from": 282.4,
+      "to": 283.72,
+      "sid": 110,
+      "location": 2,
+      "content": "今天的视频就到这",
+      "music": 0.0
+    },
+    {
+      "from": 283.72,
+      "to": 285.78,
+      "sid": 111,
+      "location": 2,
+      "content": "喜欢东哥视频的朋友还是别忘了点个赞",
+      "music": 0.0
+    },
+    {
+      "from": 285.78,
+      "to": 286.5,
+      "sid": 112,
+      "location": 2,
+      "content": "关个注",
+      "music": 0.0
+    },
+    {
+      "from": 286.5,
+      "to": 288.55,
+      "sid": 113,
+      "location": 2,
+      "content": "下回听干货不迷路",
+      "music": 0.0
+    },
+    {
+      "from": 288.55,
+      "to": 289.33,
+      "sid": 114,
+      "location": 2,
+      "content": "老铁们",
+      "music": 0.0
+    },
+    {
+      "from": 289.33,
+      "to": 292.75,
+      "sid": 115,
+      "location": 2,
+      "content": "我们报下回见",
+      "music": 0.0
+    },
+    {
+      "from": 307.24,
+      "to": 309.0,
+      "sid": 116,
+      "location": 2,
+      "content": "See you see me",
+      "music": 0.9999992857147959
+    },
+    {
+      "from": 309.0,
+      "to": 310.82,
+      "sid": 117,
+      "location": 2,
+      "content": "See see me",
+      "music": 0.0
+    },
+    {
+      "from": 310.82,
+      "to": 311.4,
+      "sid": 118,
+      "location": 2,
+      "content": "See",
+      "music": 0.0
+    },
+    {
+      "from": 329.34,
+      "to": 333.42,
+      "sid": 119,
+      "location": 2,
+      "content": "你see me me me",
+      "music": 0.0
+    }
+  ]
+}

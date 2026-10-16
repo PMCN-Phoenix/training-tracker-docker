@@ -1,0 +1,643 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.14,
+   "to": 0.74,
+   "sid": 1,
+   "location": 2,
+   "content": "大家好"
+  },
+  {
+   "from": 0.74,
+   "to": 2.78,
+   "sid": 2,
+   "location": 2,
+   "content": "欢迎来到米娅的健身频道"
+  },
+  {
+   "from": 2.78,
+   "to": 5.54,
+   "sid": 3,
+   "location": 2,
+   "content": "今天我们一起训练核心稳定性"
+  },
+  {
+   "from": 5.54,
+   "to": 6.59,
+   "sid": 4,
+   "location": 2,
+   "content": "保护脊柱"
+  },
+  {
+   "from": 6.59,
+   "to": 7.64,
+   "sid": 5,
+   "location": 2,
+   "content": "改善体态"
+  },
+  {
+   "from": 7.64,
+   "to": 9.25,
+   "sid": 6,
+   "location": 2,
+   "content": "防止运动损伤"
+  },
+  {
+   "from": 9.25,
+   "to": 12.07,
+   "sid": 7,
+   "location": 2,
+   "content": "第一个动作是高位平板手碰肩"
+  },
+  {
+   "from": 12.07,
+   "to": 14.71,
+   "sid": 8,
+   "location": 2,
+   "content": "首先做一个标准的高位平板支撑"
+  },
+  {
+   "from": 14.71,
+   "to": 17.92,
+   "sid": 9,
+   "location": 2,
+   "content": "然后单手离地碰相反方向的肩膀"
+  },
+  {
+   "from": 17.92,
+   "to": 20.82,
+   "sid": 10,
+   "location": 2,
+   "content": "此时由于缺少了一只手臂的支撑"
+  },
+  {
+   "from": 20.82,
+   "to": 23.22,
+   "sid": 11,
+   "location": 2,
+   "content": "核心发力的感觉会更加明显"
+  },
+  {
+   "from": 23.22,
+   "to": 24.51,
+   "sid": 12,
+   "location": 2,
+   "content": "手臂离地时"
+  },
+  {
+   "from": 24.51,
+   "to": 26.37,
+   "sid": 13,
+   "location": 2,
+   "content": "臀部不要向两侧翻转"
+  },
+  {
+   "from": 26.37,
+   "to": 27.55,
+   "sid": 14,
+   "location": 2,
+   "content": "也不要上翘"
+  },
+  {
+   "from": 27.55,
+   "to": 29.32,
+   "sid": 15,
+   "location": 2,
+   "content": "保持匀称的呼吸节奏"
+  },
+  {
+   "from": 29.32,
+   "to": 30.42,
+   "sid": 16,
+   "location": 2,
+   "content": "不要憋气"
+  },
+  {
+   "from": 34.28,
+   "to": 35.379,
+   "sid": 17,
+   "location": 2,
+   "content": "别别别别"
+  },
+  {
+   "from": 43.7,
+   "to": 47.2,
+   "sid": 18,
+   "location": 2,
+   "content": "第二个动作同样是在高位平板支撑的基础上"
+  },
+  {
+   "from": 47.2,
+   "to": 49.48,
+   "sid": 19,
+   "location": 2,
+   "content": "撤离身体1/4的支撑"
+  },
+  {
+   "from": 49.48,
+   "to": 52.44,
+   "sid": 20,
+   "location": 2,
+   "content": "提高对核心稳定性的挑战难度"
+  },
+  {
+   "from": 52.64,
+   "to": 55.61,
+   "sid": 21,
+   "location": 2,
+   "content": "在整个身体保持基本不动的基础上"
+  },
+  {
+   "from": 55.61,
+   "to": 57.58,
+   "sid": 22,
+   "location": 2,
+   "content": "单腿依次抬离地面"
+  },
+  {
+   "from": 67.54,
+   "to": 68.539,
+   "sid": 23,
+   "location": 2,
+   "content": "嗯嗯"
+  },
+  {
+   "from": 83.38,
+   "to": 85.65,
+   "sid": 24,
+   "location": 2,
+   "content": "接下来我们仰卧在垫子上"
+  },
+  {
+   "from": 85.65,
+   "to": 86.79,
+   "sid": 25,
+   "location": 2,
+   "content": "起始位置"
+  },
+  {
+   "from": 86.79,
+   "to": 89.12,
+   "sid": 26,
+   "location": 2,
+   "content": "手臂与大腿和地面垂直"
+  },
+  {
+   "from": 89.12,
+   "to": 90.26,
+   "sid": 27,
+   "location": 2,
+   "content": "腹部收紧"
+  },
+  {
+   "from": 90.26,
+   "to": 92.12,
+   "sid": 28,
+   "location": 2,
+   "content": "腰部紧紧贴在垫子上"
+  },
+  {
+   "from": 92.12,
+   "to": 93.44,
+   "sid": 29,
+   "location": 2,
+   "content": "不要留有空隙"
+  },
+  {
+   "from": 93.44,
+   "to": 96.94,
+   "sid": 30,
+   "location": 2,
+   "content": "相对方向的手臂和腿同时向两侧伸直"
+  },
+  {
+   "from": 97.12,
+   "to": 99.16,
+   "sid": 31,
+   "location": 2,
+   "content": "全程核心收紧腰椎"
+  },
+  {
+   "from": 99.16,
+   "to": 101.3,
+   "sid": 32,
+   "location": 2,
+   "content": "不要离地交换方向"
+  },
+  {
+   "from": 123.9,
+   "to": 126.59,
+   "sid": 33,
+   "location": 2,
+   "content": "下面的动作是我们熟悉的剪刀腿"
+  },
+  {
+   "from": 126.59,
+   "to": 128.16,
+   "sid": 34,
+   "location": 2,
+   "content": "为了保护腰椎"
+  },
+  {
+   "from": 128.16,
+   "to": 129.72,
+   "sid": 35,
+   "location": 2,
+   "content": "上背抬离地面"
+  },
+  {
+   "from": 129.72,
+   "to": 132.09,
+   "sid": 36,
+   "location": 2,
+   "content": "消除腰部与地面的空隙"
+  },
+  {
+   "from": 132.09,
+   "to": 133.92,
+   "sid": 37,
+   "location": 2,
+   "content": "下腹部收紧发力"
+  },
+  {
+   "from": 133.92,
+   "to": 135.59,
+   "sid": 38,
+   "location": 2,
+   "content": "双腿尽量伸直"
+  },
+  {
+   "from": 135.59,
+   "to": 137.51,
+   "sid": 39,
+   "location": 2,
+   "content": "像剪刀一样依次下落"
+  },
+  {
+   "from": 137.51,
+   "to": 138.36,
+   "sid": 40,
+   "location": 2,
+   "content": "抬起"
+  },
+  {
+   "from": 162.3,
+   "to": 165.82,
+   "sid": 41,
+   "location": 2,
+   "content": "我们跪在垫子上做鸟狗式摆腿"
+  },
+  {
+   "from": 165.959,
+   "to": 169.739,
+   "sid": 42,
+   "location": 2,
+   "content": "首先身体像桌子一样稳固的支撑在地面上"
+  },
+  {
+   "from": 169.739,
+   "to": 173.02,
+   "sid": 43,
+   "location": 2,
+   "content": "然后抬起右手和左腿同时画圈"
+  },
+  {
+   "from": 173.06,
+   "to": 175.19,
+   "sid": 44,
+   "location": 2,
+   "content": "此时你应该收紧核心"
+  },
+  {
+   "from": 175.19,
+   "to": 177.18,
+   "sid": 45,
+   "location": 2,
+   "content": "维持身体的稳定性"
+  },
+  {
+   "from": 177.22,
+   "to": 180.25,
+   "sid": 46,
+   "location": 2,
+   "content": "收紧了核心区域始终平行于地面"
+  },
+  {
+   "from": 180.25,
+   "to": 181.18,
+   "sid": 47,
+   "location": 2,
+   "content": "不要塌腰"
+  },
+  {
+   "from": 181.18,
+   "to": 182.34,
+   "sid": 48,
+   "location": 2,
+   "content": "也不要弓背"
+  },
+  {
+   "from": 184.339,
+   "to": 185.36,
+   "sid": 49,
+   "location": 2,
+   "content": "应该是"
+  },
+  {
+   "from": 205.58,
+   "to": 206.86,
+   "sid": 50,
+   "location": 2,
+   "content": "另外一侧"
+  },
+  {
+   "from": 238.88,
+   "to": 239.72,
+   "sid": 51,
+   "location": 2,
+   "content": "妈"
+  },
+  {
+   "from": 245.04,
+   "to": 246.29,
+   "sid": 52,
+   "location": 2,
+   "content": "俯卧在垫子上"
+  },
+  {
+   "from": 246.29,
+   "to": 248.33,
+   "sid": 53,
+   "location": 2,
+   "content": "我们来训练后腰肌群"
+  },
+  {
+   "from": 248.33,
+   "to": 249.53,
+   "sid": 54,
+   "location": 2,
+   "content": "腰背肌群"
+  },
+  {
+   "from": 249.53,
+   "to": 251.81,
+   "sid": 55,
+   "location": 2,
+   "content": "竖脊肌和臀大肌同时发力"
+  },
+  {
+   "from": 251.81,
+   "to": 254.17,
+   "sid": 56,
+   "location": 2,
+   "content": "抬起相对一侧的手臂和腿"
+  },
+  {
+   "from": 254.17,
+   "to": 255.25,
+   "sid": 57,
+   "location": 2,
+   "content": "稍作停顿"
+  },
+  {
+   "from": 255.25,
+   "to": 257.83,
+   "sid": 58,
+   "location": 2,
+   "content": "慢慢还原交换方向"
+  },
+  {
+   "from": 257.83,
+   "to": 259.24,
+   "sid": 59,
+   "location": 2,
+   "content": "呼气发力"
+  },
+  {
+   "from": 259.24,
+   "to": 260.48,
+   "sid": 60,
+   "location": 2,
+   "content": "吸气还原"
+  },
+  {
+   "from": 271.92,
+   "to": 272.82,
+   "sid": 61,
+   "location": 2,
+   "content": "it's my"
+  },
+  {
+   "from": 288.38,
+   "to": 290.17,
+   "sid": 62,
+   "location": 2,
+   "content": "下面我们加大难度"
+  },
+  {
+   "from": 290.17,
+   "to": 292.72,
+   "sid": 63,
+   "location": 2,
+   "content": "双手双腿同时上抬"
+  },
+  {
+   "from": 292.72,
+   "to": 293.86,
+   "sid": 64,
+   "location": 2,
+   "content": "顶峰收缩"
+  },
+  {
+   "from": 293.86,
+   "to": 294.94,
+   "sid": 65,
+   "location": 2,
+   "content": "稍作停顿"
+  },
+  {
+   "from": 294.94,
+   "to": 298.04,
+   "sid": 66,
+   "location": 2,
+   "content": "感受身体后侧肌群整体收紧"
+  },
+  {
+   "from": 298.38,
+   "to": 302.49,
+   "sid": 67,
+   "location": 2,
+   "content": "这个动作不仅可以很好地训练到后腰核心肌群"
+  },
+  {
+   "from": 302.49,
+   "to": 306.06,
+   "sid": 68,
+   "location": 2,
+   "content": "还有利于我们改善含胸驼背的不良体态"
+  },
+  {
+   "from": 325.8,
+   "to": 327.8,
+   "sid": 69,
+   "location": 2,
+   "content": "我们转移到侧腰肌群"
+  },
+  {
+   "from": 327.8,
+   "to": 329.92,
+   "sid": 70,
+   "location": 2,
+   "content": "做侧向平板支撑"
+  },
+  {
+   "from": 330.02,
+   "to": 332.12,
+   "sid": 71,
+   "location": 2,
+   "content": "手肘在肩膀的正下方"
+  },
+  {
+   "from": 332.12,
+   "to": 333.8,
+   "sid": 72,
+   "location": 2,
+   "content": "下侧腰部发力"
+  },
+  {
+   "from": 333.8,
+   "to": 335.63,
+   "sid": 73,
+   "location": 2,
+   "content": "臀部上挺肩膀"
+  },
+  {
+   "from": 335.63,
+   "to": 338.81,
+   "sid": 74,
+   "location": 2,
+   "content": "髋关节和脚踝保持在一条直线上"
+  },
+  {
+   "from": 338.81,
+   "to": 340.36,
+   "sid": 75,
+   "location": 2,
+   "content": "坚持30秒"
+  },
+  {
+   "from": 345.74,
+   "to": 346.88,
+   "sid": 76,
+   "location": 2,
+   "content": "so you can get"
+  },
+  {
+   "from": 364.4,
+   "to": 365.88,
+   "sid": 77,
+   "location": 2,
+   "content": "交换方向"
+  },
+  {
+   "from": 396.759,
+   "to": 397.64,
+   "sid": 78,
+   "location": 2,
+   "content": "嗯"
+  },
+  {
+   "from": 402.9,
+   "to": 404.96,
+   "sid": 79,
+   "location": 2,
+   "content": "我们完成了第一轮训练"
+  },
+  {
+   "from": 404.96,
+   "to": 407.21,
+   "sid": 80,
+   "location": 2,
+   "content": "重新回到高位平板的姿势"
+  },
+  {
+   "from": 407.21,
+   "to": 408.98,
+   "sid": 81,
+   "location": 2,
+   "content": "挑战第二轮训练"
+  },
+  {
+   "from": 441.32,
+   "to": 442.54,
+   "sid": 82,
+   "location": 2,
+   "content": "你怎么敢的"
+  },
+  {
+   "from": 596.34,
+   "to": 597.18,
+   "sid": 83,
+   "location": 2,
+   "content": "嗯"
+  },
+  {
+   "from": 707.68,
+   "to": 708.56,
+   "sid": 84,
+   "location": 2,
+   "content": "哈"
+  },
+  {
+   "from": 804.78,
+   "to": 808.54,
+   "sid": 85,
+   "location": 2,
+   "content": "恭喜大家完成了全部的核心稳定性训练"
+  },
+  {
+   "from": 808.74,
+   "to": 811.26,
+   "sid": 86,
+   "location": 2,
+   "content": "现在我们通过30秒的眼镜蛇"
+  },
+  {
+   "from": 811.26,
+   "to": 812.52,
+   "sid": 87,
+   "location": 2,
+   "content": "是腹肌拉伸"
+  },
+  {
+   "from": 812.52,
+   "to": 814.9,
+   "sid": 88,
+   "location": 2,
+   "content": "放松紧张的核心肌群"
+  },
+  {
+   "from": 842.94,
+   "to": 846.28,
+   "sid": 89,
+   "location": 2,
+   "content": "大家如果有任何问题请在下方留言"
+  },
+  {
+   "from": 846.54,
+   "to": 848.79,
+   "sid": 90,
+   "location": 2,
+   "content": "欢迎点赞关注和转发"
+  },
+  {
+   "from": 848.79,
+   "to": 850.22,
+   "sid": 91,
+   "location": 2,
+   "content": "我们下期再见"
+  }
+ ]
+}

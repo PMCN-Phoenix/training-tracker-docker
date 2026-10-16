@@ -1,0 +1,1590 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.04,
+   "to": 1.78,
+   "sid": 1,
+   "location": 2,
+   "content": "如果背部训练很累",
+   "music": 0.0
+  },
+  {
+   "from": 1.78,
+   "to": 3.84,
+   "sid": 2,
+   "location": 2,
+   "content": "但背部还是没有增长",
+   "music": 0.0
+  },
+  {
+   "from": 3.84,
+   "to": 7.0,
+   "sid": 3,
+   "location": 2,
+   "content": "可能是手臂和惯性抢走了工作",
+   "music": 0.0
+  },
+  {
+   "from": 7.0,
+   "to": 9.0,
+   "sid": 4,
+   "location": 2,
+   "content": "纠正这四种拉类动作",
+   "music": 0.0
+  },
+  {
+   "from": 9.0,
+   "to": 12.26,
+   "sid": 5,
+   "location": 2,
+   "content": "让每一组真正刺激目标肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 12.58,
+   "to": 15.8,
+   "sid": 6,
+   "location": 2,
+   "content": "背阔肌决定了大部分视觉宽度",
+   "music": 0.0
+  },
+  {
+   "from": 15.8,
+   "to": 20.4,
+   "sid": 7,
+   "location": 2,
+   "content": "菱形肌和中斜方肌等中背部肌群则增加厚度",
+   "music": 0.0
+  },
+  {
+   "from": 20.4,
+   "to": 22.23,
+   "sid": 8,
+   "location": 2,
+   "content": "并控制肩胛骨",
+   "music": 0.0
+  },
+  {
+   "from": 22.23,
+   "to": 25.09,
+   "sid": 9,
+   "location": 2,
+   "content": "今天用垂直下拉水平划船",
+   "music": 0.0
+  },
+  {
+   "from": 25.09,
+   "to": 29.36,
+   "sid": 10,
+   "location": 2,
+   "content": "单侧动作和直臂孤立动作完成训练",
+   "music": 0.0
+  },
+  {
+   "from": 29.72,
+   "to": 31.0,
+   "sid": 11,
+   "location": 2,
+   "content": "先做中立握",
+   "music": 0.0
+  },
+  {
+   "from": 31.0,
+   "to": 32.38,
+   "sid": 12,
+   "location": 2,
+   "content": "距高位下拉",
+   "music": 0.0
+  },
+  {
+   "from": 32.38,
+   "to": 36.78,
+   "sid": 13,
+   "location": 2,
+   "content": "中立握通常能让肩膀走在更舒服的轨迹上",
+   "music": 0.0
+  },
+  {
+   "from": 36.78,
+   "to": 39.98,
+   "sid": 14,
+   "location": 2,
+   "content": "也方便把手肘向下拉向肋骨",
+   "music": 0.0
+  },
+  {
+   "from": 39.98,
+   "to": 43.239,
+   "sid": 15,
+   "location": 2,
+   "content": "重量必须在全程都能控制",
+   "music": 0.0
+  },
+  {
+   "from": 43.559,
+   "to": 44.939,
+   "sid": 16,
+   "location": 2,
+   "content": "调整压腿垫",
+   "music": 0.0
+  },
+  {
+   "from": 44.939,
+   "to": 46.179,
+   "sid": 17,
+   "location": 2,
+   "content": "让双腿稳定",
+   "music": 0.0
+  },
+  {
+   "from": 46.179,
+   "to": 47.72,
+   "sid": 18,
+   "location": 2,
+   "content": "但不感到不适",
+   "music": 0.0
+  },
+  {
+   "from": 47.72,
+   "to": 49.82,
+   "sid": 19,
+   "location": 2,
+   "content": "坐直双脚踩稳",
+   "music": 0.0
+  },
+  {
+   "from": 49.82,
+   "to": 50.94,
+   "sid": 20,
+   "location": 2,
+   "content": "核心收紧",
+   "music": 0.0
+  },
+  {
+   "from": 50.94,
+   "to": 53.2,
+   "sid": 21,
+   "location": 2,
+   "content": "只保持很小的后倾",
+   "music": 0.0
+  },
+  {
+   "from": 53.2,
+   "to": 54.9,
+   "sid": 22,
+   "location": 2,
+   "content": "在第一次动作前",
+   "music": 0.12307691360946582
+  },
+  {
+   "from": 54.9,
+   "to": 57.14,
+   "sid": 23,
+   "location": 2,
+   "content": "躯干就应该稳定",
+   "music": 0.0
+  },
+  {
+   "from": 57.46,
+   "to": 60.47,
+   "sid": 24,
+   "location": 2,
+   "content": "起始时双臂在头顶伸长",
+   "music": 0.0
+  },
+  {
+   "from": 60.47,
+   "to": 62.49,
+   "sid": 25,
+   "location": 2,
+   "content": "先让肩膀远离耳朵",
+   "music": 0.0
+  },
+  {
+   "from": 62.49,
+   "to": 65.15,
+   "sid": 26,
+   "location": 2,
+   "content": "再把手肘向身体两侧下拉",
+   "music": 0.12068964997027112
+  },
+  {
+   "from": 65.15,
+   "to": 66.51,
+   "sid": 27,
+   "location": 2,
+   "content": "把握把拉向上",
+   "music": 0.0
+  },
+  {
+   "from": 66.51,
+   "to": 66.97,
+   "sid": 28,
+   "location": 2,
+   "content": "胸部",
+   "music": 0.0
+  },
+  {
+   "from": 66.97,
+   "to": 69.05,
+   "sid": 29,
+   "location": 2,
+   "content": "不要猛然后仰",
+   "music": 0.0
+  },
+  {
+   "from": 69.33,
+   "to": 70.81,
+   "sid": 30,
+   "location": 2,
+   "content": "注意移动上臂",
+   "music": 0.0
+  },
+  {
+   "from": 70.81,
+   "to": 73.21,
+   "sid": 31,
+   "location": 2,
+   "content": "而不是只用双手拉握把",
+   "music": 0.0
+  },
+  {
+   "from": 73.21,
+   "to": 74.67,
+   "sid": 32,
+   "location": 2,
+   "content": "在最低点",
+   "music": 0.0
+  },
+  {
+   "from": 74.67,
+   "to": 76.05,
+   "sid": 33,
+   "location": 2,
+   "content": "手肘应朝下",
+   "music": 0.0
+  },
+  {
+   "from": 76.05,
+   "to": 77.93,
+   "sid": 34,
+   "location": 2,
+   "content": "并位于躯干两侧",
+   "music": 0.0
+  },
+  {
+   "from": 77.93,
+   "to": 80.95,
+   "sid": 35,
+   "location": 2,
+   "content": "当手肘开始向身体后方移动时",
+   "music": 0.0
+  },
+  {
+   "from": 80.95,
+   "to": 82.81,
+   "sid": 36,
+   "location": 2,
+   "content": "就该停止",
+   "music": 0.0
+  },
+  {
+   "from": 83.05,
+   "to": 86.31,
+   "sid": 37,
+   "location": 2,
+   "content": "最常见的错误是把下拉变成摆动",
+   "music": 0.0
+  },
+  {
+   "from": 86.31,
+   "to": 89.58,
+   "sid": 38,
+   "location": 2,
+   "content": "划船大幅后仰会改变发力方向",
+   "music": 0.0
+  },
+  {
+   "from": 89.58,
+   "to": 92.64,
+   "sid": 39,
+   "location": 2,
+   "content": "也让惯性和肌肉发力难以区分",
+   "music": 0.0
+  },
+  {
+   "from": 92.64,
+   "to": 93.74,
+   "sid": 40,
+   "location": 2,
+   "content": "减轻重量",
+   "music": 0.0
+  },
+  {
+   "from": 93.74,
+   "to": 96.889,
+   "sid": 41,
+   "location": 2,
+   "content": "让胸口位置几乎保持不变",
+   "music": 0.0
+  },
+  {
+   "from": 97.249,
+   "to": 98.989,
+   "sid": 42,
+   "location": 2,
+   "content": "平稳下拉配重片",
+   "music": 0.0
+  },
+  {
+   "from": 98.989,
+   "to": 99.949,
+   "sid": 43,
+   "location": 2,
+   "content": "不要反弹",
+   "music": 0.0
+  },
+  {
+   "from": 99.949,
+   "to": 101.149,
+   "sid": 44,
+   "location": 2,
+   "content": "短暂停顿",
+   "music": 0.0
+  },
+  {
+   "from": 101.149,
+   "to": 103.8,
+   "sid": 45,
+   "location": 2,
+   "content": "再用大约两秒回到头顶",
+   "music": 0.24999998922413688
+  },
+  {
+   "from": 103.8,
+   "to": 105.78,
+   "sid": 46,
+   "location": 2,
+   "content": "具体描述不是重点",
+   "music": 0.0
+  },
+  {
+   "from": 105.78,
+   "to": 108.22,
+   "sid": 47,
+   "location": 2,
+   "content": "重点是消除突然加速",
+   "music": 0.0
+  },
+  {
+   "from": 108.22,
+   "to": 111.0,
+   "sid": 48,
+   "location": 2,
+   "content": "让绳索始终保持张力",
+   "music": 0.0
+  },
+  {
+   "from": 111.32,
+   "to": 112.36,
+   "sid": 49,
+   "location": 2,
+   "content": "做三组",
+   "music": 0.0
+  },
+  {
+   "from": 112.36,
+   "to": 114.42,
+   "sid": 50,
+   "location": 2,
+   "content": "每组8~12次",
+   "music": 0.0
+  },
+  {
+   "from": 114.42,
+   "to": 118.81,
+   "sid": 51,
+   "location": 2,
+   "content": "大多数组结束时保留一到两次标准动作",
+   "music": 0.0
+  },
+  {
+   "from": 118.81,
+   "to": 120.97,
+   "sid": 52,
+   "location": 2,
+   "content": "如果目标肌肉还没疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 120.97,
+   "to": 122.49,
+   "sid": 53,
+   "location": 2,
+   "content": "身体就开始摆动",
+   "music": 0.0
+  },
+  {
+   "from": 122.49,
+   "to": 124.34,
+   "sid": 54,
+   "location": 2,
+   "content": "说明重量太大",
+   "music": 0.0
+  },
+  {
+   "from": 124.34,
+   "to": 127.48,
+   "sid": 55,
+   "location": 2,
+   "content": "第二个动作是坐姿绳索划船",
+   "music": 0.0
+  },
+  {
+   "from": 127.48,
+   "to": 131.28,
+   "sid": 56,
+   "location": 2,
+   "content": "通过水平拉动训练背阔肌和中背部",
+   "music": 0.09999999705882445
+  },
+  {
+   "from": 131.28,
+   "to": 133.78,
+   "sid": 57,
+   "location": 2,
+   "content": "目标不是让身体前后摆动",
+   "music": 0.0
+  },
+  {
+   "from": 133.78,
+   "to": 135.44,
+   "sid": 58,
+   "location": 2,
+   "content": "而是让躯干稳定",
+   "music": 0.0
+  },
+  {
+   "from": 135.44,
+   "to": 137.61,
+   "sid": 59,
+   "location": 2,
+   "content": "持有握把在移动",
+   "music": 0.0
+  },
+  {
+   "from": 137.89,
+   "to": 140.07,
+   "sid": 60,
+   "location": 2,
+   "content": "双脚稳稳踩在踏板上",
+   "music": 0.0
+  },
+  {
+   "from": 140.07,
+   "to": 141.51,
+   "sid": 61,
+   "location": 2,
+   "content": "膝盖微屈",
+   "music": 0.0
+  },
+  {
+   "from": 141.51,
+   "to": 142.77,
+   "sid": 62,
+   "location": 2,
+   "content": "身体坐直",
+   "music": 0.0
+  },
+  {
+   "from": 142.77,
+   "to": 145.37,
+   "sid": 63,
+   "location": 2,
+   "content": "让胸廓位于骨盆正上方",
+   "music": 0.0
+  },
+  {
+   "from": 145.37,
+   "to": 147.07,
+   "sid": 64,
+   "location": 2,
+   "content": "手臂向前伸展",
+   "music": 0.0
+  },
+  {
+   "from": 147.07,
+   "to": 148.19,
+   "sid": 65,
+   "location": 2,
+   "content": "但不要塌腰",
+   "music": 0.0
+  },
+  {
+   "from": 148.19,
+   "to": 150.6,
+   "sid": 66,
+   "location": 2,
+   "content": "也不要把头伸向握把",
+   "music": 0.0
+  },
+  {
+   "from": 150.88,
+   "to": 154.04,
+   "sid": 67,
+   "location": 2,
+   "content": "把握把拉向下肋骨或上腹部",
+   "music": 0.0
+  },
+  {
+   "from": 154.04,
+   "to": 155.74,
+   "sid": 68,
+   "location": 2,
+   "content": "手腕保持中立",
+   "music": 0.0
+  },
+  {
+   "from": 155.74,
+   "to": 158.59,
+   "sid": 69,
+   "location": 2,
+   "content": "手肘靠近躯干绳索",
+   "music": 0.0
+  },
+  {
+   "from": 158.59,
+   "to": 163.15,
+   "sid": 70,
+   "location": 2,
+   "content": "双手和手肘应该沿着稳定一致的轨迹移动",
+   "music": 0.04687499877929864
+  },
+  {
+   "from": 163.51,
+   "to": 165.13,
+   "sid": 71,
+   "location": 2,
+   "content": "握把接近躯干",
+   "music": 0.0
+  },
+  {
+   "from": 165.13,
+   "to": 168.61,
+   "sid": 72,
+   "location": 2,
+   "content": "肩胛骨自然靠拢时短暂停顿",
+   "music": 0.0
+  },
+  {
+   "from": 168.61,
+   "to": 170.29,
+   "sid": 73,
+   "location": 2,
+   "content": "不要继续拉到肩膀",
+   "music": 0.0
+  },
+  {
+   "from": 170.29,
+   "to": 171.31,
+   "sid": 74,
+   "location": 2,
+   "content": "向前滚动",
+   "music": 0.0
+  },
+  {
+   "from": 171.31,
+   "to": 174.93,
+   "sid": 75,
+   "location": 2,
+   "content": "或手肘远远超过身体更大的幅度",
+   "music": 0.0
+  },
+  {
+   "from": 174.93,
+   "to": 176.82,
+   "sid": 76,
+   "location": 2,
+   "content": "不一定更有效",
+   "music": 0.0
+  },
+  {
+   "from": 177.14,
+   "to": 181.37,
+   "sid": 77,
+   "location": 2,
+   "content": "不要把整段脊柱弯曲来制造虚假的拉伸感",
+   "music": 0.0
+  },
+  {
+   "from": 181.37,
+   "to": 183.77,
+   "sid": 78,
+   "location": 2,
+   "content": "肩胛骨自然移动没有问题",
+   "music": 0.0
+  },
+  {
+   "from": 183.77,
+   "to": 185.77,
+   "sid": 79,
+   "location": 2,
+   "content": "但躯干必须受控",
+   "music": 0.0
+  },
+  {
+   "from": 185.77,
+   "to": 188.19,
+   "sid": 80,
+   "location": 2,
+   "content": "如果重量把你拉离位置",
+   "music": 0.0
+  },
+  {
+   "from": 188.19,
+   "to": 190.65,
+   "sid": 81,
+   "location": 2,
+   "content": "下一组就要减重",
+   "music": 0.0
+  },
+  {
+   "from": 190.77,
+   "to": 194.37,
+   "sid": 82,
+   "location": 2,
+   "content": "如果每次都要大幅后仰才能完成划船",
+   "music": 0.0
+  },
+  {
+   "from": 194.37,
+   "to": 197.18,
+   "sid": 83,
+   "location": 2,
+   "content": "说明重量超出了控制范围",
+   "music": 0.0
+  },
+  {
+   "from": 197.18,
+   "to": 200.14,
+   "sid": 84,
+   "location": 2,
+   "content": "小幅自然的躯干角度可以接受",
+   "music": 0.0
+  },
+  {
+   "from": 200.14,
+   "to": 203.41,
+   "sid": 85,
+   "location": 2,
+   "content": "但每一次的角度都不同就不行",
+   "music": 0.0
+  },
+  {
+   "from": 203.77,
+   "to": 204.81,
+   "sid": 86,
+   "location": 2,
+   "content": "做三组",
+   "music": 0.0
+  },
+  {
+   "from": 204.81,
+   "to": 206.93,
+   "sid": 87,
+   "location": 2,
+   "content": "每组8~12次",
+   "music": 0.0
+  },
+  {
+   "from": 206.93,
+   "to": 209.03,
+   "sid": 88,
+   "location": 2,
+   "content": "组间休息约90秒",
+   "music": 0.0
+  },
+  {
+   "from": 209.03,
+   "to": 212.05,
+   "sid": 89,
+   "location": 2,
+   "content": "让下一组真正由背部肌肉限制",
+   "music": 0.0
+  },
+  {
+   "from": 212.05,
+   "to": 215.67,
+   "sid": 90,
+   "location": 2,
+   "content": "而不是被呼吸或仓促的准备限制",
+   "music": 0.0
+  },
+  {
+   "from": 215.95,
+   "to": 219.81,
+   "sid": 91,
+   "location": 2,
+   "content": "第三个动作是有支撑的单臂哑铃划船",
+   "music": 0.0
+  },
+  {
+   "from": 219.81,
+   "to": 222.33,
+   "sid": 92,
+   "location": 2,
+   "content": "每一侧独立训练长凳",
+   "music": 0.0
+  },
+  {
+   "from": 222.33,
+   "to": 223.93,
+   "sid": 93,
+   "location": 2,
+   "content": "降低了稳定需求",
+   "music": 0.0
+  },
+  {
+   "from": 223.93,
+   "to": 225.37,
+   "sid": 94,
+   "location": 2,
+   "content": "更容易专注工作",
+   "music": 0.0
+  },
+  {
+   "from": 225.37,
+   "to": 229.395,
+   "sid": 95,
+   "location": 2,
+   "content": "手臂也能发现两侧力量或协调差异",
+   "music": 0.0
+  },
+  {
+   "from": 229.71,
+   "to": 232.89,
+   "sid": 96,
+   "location": 2,
+   "content": "同侧的手和膝盖支撑在长凳上",
+   "music": 0.0
+  },
+  {
+   "from": 232.89,
+   "to": 234.93,
+   "sid": 97,
+   "location": 2,
+   "content": "另一只脚稳稳踩着",
+   "music": 0.31515149605141235
+  },
+  {
+   "from": 234.93,
+   "to": 238.39,
+   "sid": 98,
+   "location": 2,
+   "content": "收紧核心髋部和肩膀保持方正",
+   "music": 0.0
+  },
+  {
+   "from": 238.39,
+   "to": 242.27,
+   "sid": 99,
+   "location": 2,
+   "content": "让哑铃垂在工作侧肩膀正下方",
+   "music": 0.0
+  },
+  {
+   "from": 242.47,
+   "to": 246.13,
+   "sid": 100,
+   "location": 2,
+   "content": "把工作侧手肘拉向髋部和下肋骨",
+   "music": 0.18633539793990161
+  },
+  {
+   "from": 246.13,
+   "to": 247.75,
+   "sid": 101,
+   "location": 2,
+   "content": "哑铃贴近身体",
+   "music": 0.0
+  },
+  {
+   "from": 247.75,
+   "to": 252.27,
+   "sid": 102,
+   "location": 2,
+   "content": "在必须扭转躯干之前停止移动的是上臂",
+   "music": 0.0
+  },
+  {
+   "from": 252.27,
+   "to": 253.59,
+   "sid": 103,
+   "location": 2,
+   "content": "脊柱和骨盆",
+   "music": 0.0
+  },
+  {
+   "from": 253.59,
+   "to": 255.19,
+   "sid": 104,
+   "location": 2,
+   "content": "保持稳定",
+   "music": 0.0
+  },
+  {
+   "from": 255.43,
+   "to": 257.13,
+   "sid": 105,
+   "location": 2,
+   "content": "较低的手肘轨迹",
+   "music": 0.0
+  },
+  {
+   "from": 257.13,
+   "to": 259.53,
+   "sid": 106,
+   "location": 2,
+   "content": "通常更能强调背阔肌",
+   "music": 0.0
+  },
+  {
+   "from": 259.53,
+   "to": 262.53,
+   "sid": 107,
+   "location": 2,
+   "content": "不要把工作侧肩膀耸向耳朵",
+   "music": 0.0
+  },
+  {
+   "from": 262.53,
+   "to": 264.15,
+   "sid": 108,
+   "location": 2,
+   "content": "保持脖子拉长",
+   "music": 0.0
+  },
+  {
+   "from": 264.15,
+   "to": 265.87,
+   "sid": 109,
+   "location": 2,
+   "content": "在顶端控制肩膀",
+   "music": 0.0
+  },
+  {
+   "from": 265.87,
+   "to": 268.28,
+   "sid": 110,
+   "location": 2,
+   "content": "不要过度向后硬拉",
+   "music": 0.0
+  },
+  {
+   "from": 268.6,
+   "to": 269.68,
+   "sid": 111,
+   "location": 2,
+   "content": "平稳拉起",
+   "music": 0.0
+  },
+  {
+   "from": 269.68,
+   "to": 271.54,
+   "sid": 112,
+   "location": 2,
+   "content": "在顶端短暂停顿",
+   "music": 0.0
+  },
+  {
+   "from": 271.54,
+   "to": 273.539,
+   "sid": 113,
+   "location": 2,
+   "content": "再有控制的放下",
+   "music": 0.0
+  },
+  {
+   "from": 273.539,
+   "to": 275.419,
+   "sid": 114,
+   "location": 2,
+   "content": "如果哑铃突然加速",
+   "music": 0.0
+  },
+  {
+   "from": 275.419,
+   "to": 277.699,
+   "sid": 115,
+   "location": 2,
+   "content": "而且每次躯干都在扭转",
+   "music": 0.0
+  },
+  {
+   "from": 277.699,
+   "to": 278.999,
+   "sid": 116,
+   "location": 2,
+   "content": "就减轻重量",
+   "music": 0.0
+  },
+  {
+   "from": 278.999,
+   "to": 281.18,
+   "sid": 117,
+   "location": 2,
+   "content": "重新建立动作",
+   "music": 0.0
+  },
+  {
+   "from": 281.42,
+   "to": 283.6,
+   "sid": 118,
+   "location": 2,
+   "content": "一侧完成10~12次",
+   "music": 0.0
+  },
+  {
+   "from": 283.6,
+   "to": 285.19,
+   "sid": 119,
+   "location": 2,
+   "content": "再换另一侧",
+   "music": 0.0
+  },
+  {
+   "from": 285.19,
+   "to": 287.03,
+   "sid": 120,
+   "location": 2,
+   "content": "先练较弱的一侧",
+   "music": 0.0
+  },
+  {
+   "from": 287.03,
+   "to": 289.41,
+   "sid": 121,
+   "location": 2,
+   "content": "强侧只做相同次数",
+   "music": 0.0
+  },
+  {
+   "from": 289.41,
+   "to": 291.47,
+   "sid": 122,
+   "location": 2,
+   "content": "两侧都完成后再休息",
+   "music": 0.0
+  },
+  {
+   "from": 291.47,
+   "to": 294.64,
+   "sid": 123,
+   "location": 2,
+   "content": "不需要每一次动作之间停顿",
+   "music": 0.0
+  },
+  {
+   "from": 294.84,
+   "to": 297.5,
+   "sid": 124,
+   "location": 2,
+   "content": "最后做直臂绳索下拉",
+   "music": 0.0
+  },
+  {
+   "from": 297.5,
+   "to": 300.78,
+   "sid": 125,
+   "location": 2,
+   "content": "这个动作以较少的肘部弯曲完成",
+   "music": 0.0
+  },
+  {
+   "from": 300.78,
+   "to": 303.72,
+   "sid": 126,
+   "location": 2,
+   "content": "肩身能在负荷下拉和划船之后",
+   "music": 0.0
+  },
+  {
+   "from": 303.72,
+   "to": 306.35,
+   "sid": 127,
+   "location": 2,
+   "content": "更集中的训练背阔肌",
+   "music": 0.0
+  },
+  {
+   "from": 306.63,
+   "to": 309.07,
+   "sid": 128,
+   "location": 2,
+   "content": "把绳索接在高位滑轮上",
+   "music": 0.1511111043950762
+  },
+  {
+   "from": 309.07,
+   "to": 311.62,
+   "sid": 129,
+   "location": 2,
+   "content": "向后站到绳索保持张力",
+   "music": 0.0
+  },
+  {
+   "from": 311.62,
+   "to": 313.38,
+   "sid": 130,
+   "location": 2,
+   "content": "髋部轻微折叠",
+   "music": 0.0
+  },
+  {
+   "from": 313.38,
+   "to": 314.46,
+   "sid": 131,
+   "location": 2,
+   "content": "核心收紧",
+   "music": 0.0
+  },
+  {
+   "from": 314.46,
+   "to": 315.8,
+   "sid": 132,
+   "location": 2,
+   "content": "双臂伸长",
+   "music": 0.0
+  },
+  {
+   "from": 315.8,
+   "to": 318.1,
+   "sid": 133,
+   "location": 2,
+   "content": "手肘保持很小的弯曲",
+   "music": 0.0
+  },
+  {
+   "from": 318.1,
+   "to": 320.289,
+   "sid": 134,
+   "location": 2,
+   "content": "而且全程不改变",
+   "music": 0.0
+  },
+  {
+   "from": 320.769,
+   "to": 323.049,
+   "sid": 135,
+   "location": 2,
+   "content": "双臂沿着大弧线向下扫",
+   "music": 0.0
+  },
+  {
+   "from": 323.049,
+   "to": 325.61,
+   "sid": 136,
+   "location": 2,
+   "content": "直到双手接近大腿上部",
+   "music": 0.0
+  },
+  {
+   "from": 325.61,
+   "to": 327.23,
+   "sid": 137,
+   "location": 2,
+   "content": "肩膀远离耳朵",
+   "music": 0.0
+  },
+  {
+   "from": 327.23,
+   "to": 329.01,
+   "sid": 138,
+   "location": 2,
+   "content": "躯干保持稳定",
+   "music": 0.0
+  },
+  {
+   "from": 329.01,
+   "to": 331.99,
+   "sid": 139,
+   "location": 2,
+   "content": "绳索移动是因为上臂在运动",
+   "music": 0.0
+  },
+  {
+   "from": 331.99,
+   "to": 334.78,
+   "sid": 140,
+   "location": 2,
+   "content": "不是因为手肘用力伸直",
+   "music": 0.0
+  },
+  {
+   "from": 335.06,
+   "to": 339.04,
+   "sid": 141,
+   "location": 2,
+   "content": "如果手肘在每次动作中反复弯曲和伸直",
+   "music": 0.0
+  },
+  {
+   "from": 339.04,
+   "to": 341.51,
+   "sid": 142,
+   "location": 2,
+   "content": "这就更像三头肌下压",
+   "music": 0.0
+  },
+  {
+   "from": 341.51,
+   "to": 342.67,
+   "sid": 143,
+   "location": 2,
+   "content": "降低重量",
+   "music": 0.0
+  },
+  {
+   "from": 342.67,
+   "to": 348.17,
+   "sid": 144,
+   "location": 2,
+   "content": "从拉伸位置到结束位置都保持相同的轻微曲肘",
+   "music": 0.0
+  },
+  {
+   "from": 348.37,
+   "to": 352.21,
+   "sid": 145,
+   "location": 2,
+   "content": "不要用腰椎反弓或站直来完成动作",
+   "music": 0.0
+  },
+  {
+   "from": 352.21,
+   "to": 353.49,
+   "sid": 146,
+   "location": 2,
+   "content": "控制肋骨",
+   "music": 0.0
+  },
+  {
+   "from": 353.49,
+   "to": 356.19,
+   "sid": 147,
+   "location": 2,
+   "content": "保持相同的髋部角度",
+   "music": 0.0
+  },
+  {
+   "from": 356.19,
+   "to": 359.39,
+   "sid": 148,
+   "location": 2,
+   "content": "双手到达大腿背阔肌充分收缩",
+   "music": 0.0
+  },
+  {
+   "from": 359.39,
+   "to": 362.06,
+   "sid": 149,
+   "location": 2,
+   "content": "且没有代偿时就停止",
+   "music": 0.0
+  },
+  {
+   "from": 362.34,
+   "to": 363.82,
+   "sid": 150,
+   "location": 2,
+   "content": "这是孤立动作",
+   "music": 0.0
+  },
+  {
+   "from": 363.82,
+   "to": 366.38,
+   "sid": 151,
+   "location": 2,
+   "content": "没有必要追求最大重量",
+   "music": 0.0
+  },
+  {
+   "from": 366.38,
+   "to": 369.1,
+   "sid": 152,
+   "location": 2,
+   "content": "做12~15次可控动作",
+   "music": 0.0
+  },
+  {
+   "from": 369.1,
+   "to": 370.99,
+   "sid": 153,
+   "location": 2,
+   "content": "让绳索平稳移动",
+   "music": 0.0
+  },
+  {
+   "from": 370.99,
+   "to": 376.25,
+   "sid": 154,
+   "location": 2,
+   "content": "当手肘角度或躯干位置开始改变时就结束",
+   "music": 0.0
+  },
+  {
+   "from": 376.49,
+   "to": 378.57,
+   "sid": 155,
+   "location": 2,
+   "content": "在复合拉类动作之后",
+   "music": 0.0
+  },
+  {
+   "from": 378.57,
+   "to": 381.03,
+   "sid": 156,
+   "location": 2,
+   "content": "做两到三组就足够了",
+   "music": 0.04807692076554396
+  },
+  {
+   "from": 381.03,
+   "to": 383.24,
+   "sid": 157,
+   "location": 2,
+   "content": "组间休息约60秒",
+   "music": 0.0
+  },
+  {
+   "from": 383.24,
+   "to": 387.14,
+   "sid": 158,
+   "location": 2,
+   "content": "目标是用稳定张力完成背阔肌训练",
+   "music": 0.0
+  },
+  {
+   "from": 387.14,
+   "to": 390.659,
+   "sid": 159,
+   "location": 2,
+   "content": "而不是靠随意摆动制造疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 390.939,
+   "to": 394.79,
+   "sid": 160,
+   "location": 2,
+   "content": "现在把四个动作按简单顺序组合起来",
+   "music": 0.0
+  },
+  {
+   "from": 394.79,
+   "to": 396.05,
+   "sid": 161,
+   "location": 2,
+   "content": "体力充足时",
+   "music": 0.0
+  },
+  {
+   "from": 396.05,
+   "to": 397.43,
+   "sid": 162,
+   "location": 2,
+   "content": "先做高位下拉",
+   "music": 0.0
+  },
+  {
+   "from": 397.43,
+   "to": 398.93,
+   "sid": 163,
+   "location": 2,
+   "content": "然后坐姿划船",
+   "music": 0.0
+  },
+  {
+   "from": 398.93,
+   "to": 400.37,
+   "sid": 164,
+   "location": 2,
+   "content": "再用单臂划船",
+   "music": 0.0
+  },
+  {
+   "from": 400.37,
+   "to": 401.87,
+   "sid": 165,
+   "location": 2,
+   "content": "分别训练两侧",
+   "music": 0.0
+  },
+  {
+   "from": 401.87,
+   "to": 404.495,
+   "sid": 166,
+   "location": 2,
+   "content": "最后用直臂下拉收尾",
+   "music": 0.0
+  },
+  {
+   "from": 404.8,
+   "to": 408.02,
+   "sid": 167,
+   "location": 2,
+   "content": "完整训练是三组中立握高位下拉",
+   "music": 0.0
+  },
+  {
+   "from": 408.02,
+   "to": 410.13,
+   "sid": 168,
+   "location": 2,
+   "content": "三组坐姿绳索划船",
+   "music": 0.0
+  },
+  {
+   "from": 410.13,
+   "to": 412.29,
+   "sid": 169,
+   "location": 2,
+   "content": "三组有支撑单臂划船",
+   "music": 0.0
+  },
+  {
+   "from": 412.29,
+   "to": 414.79,
+   "sid": 170,
+   "location": 2,
+   "content": "以及两到三组直臂下拉",
+   "music": 0.0
+  },
+  {
+   "from": 414.79,
+   "to": 417.53,
+   "sid": 171,
+   "location": 2,
+   "content": "这样的训练量足以认真训练",
+   "music": 0.057613166353386605
+  },
+  {
+   "from": 417.53,
+   "to": 420.0,
+   "sid": 172,
+   "location": 2,
+   "content": "又不会堆积无效果",
+   "music": 0.0
+  },
+  {
+   "from": 420.36,
+   "to": 423.03,
+   "sid": 173,
+   "location": 2,
+   "content": "使用简单的双重渐进法",
+   "music": 0.0
+  },
+  {
+   "from": 423.03,
+   "to": 424.75,
+   "sid": 174,
+   "location": 2,
+   "content": "保持同样重量",
+   "music": 0.0
+  },
+  {
+   "from": 424.75,
+   "to": 429.23,
+   "sid": 175,
+   "location": 2,
+   "content": "直到每一组都能用一致动作达到次数上限",
+   "music": 0.0
+  },
+  {
+   "from": 429.23,
+   "to": 431.83,
+   "sid": 176,
+   "location": 2,
+   "content": "然后用最小幅度增加重量",
+   "music": 0.0
+  },
+  {
+   "from": 431.83,
+   "to": 434.1,
+   "sid": 177,
+   "location": 2,
+   "content": "再重新累积次数",
+   "music": 0.0
+  },
+  {
+   "from": 434.38,
+   "to": 438.34,
+   "sid": 178,
+   "location": 2,
+   "content": "大多数工作组都保留一到两次高质量余力",
+   "music": 0.0
+  },
+  {
+   "from": 438.34,
+   "to": 441.53,
+   "sid": 179,
+   "location": 2,
+   "content": "不必每组都强迫自己做到力竭",
+   "music": 0.0
+  },
+  {
+   "from": 441.53,
+   "to": 446.75,
+   "sid": 180,
+   "location": 2,
+   "content": "当下一次必须摆动扭转耸肩或失去回程控制时",
+   "music": 0.0
+  },
+  {
+   "from": 446.75,
+   "to": 448.6,
+   "sid": 181,
+   "location": 2,
+   "content": "就应该停止",
+   "music": 0.0
+  },
+  {
+   "from": 448.88,
+   "to": 451.06,
+   "sid": 182,
+   "location": 2,
+   "content": "每周完成一次这套训练",
+   "music": 0.0
+  },
+  {
+   "from": 451.06,
+   "to": 453.16,
+   "sid": 183,
+   "location": 2,
+   "content": "如果恢复和时间允许",
+   "music": 0.0
+  },
+  {
+   "from": 453.16,
+   "to": 456.7,
+   "sid": 184,
+   "location": 2,
+   "content": "也可以把相同的周训练量分成两次",
+   "music": 0.0
+  },
+  {
+   "from": 456.7,
+   "to": 459.02,
+   "sid": 185,
+   "location": 2,
+   "content": "只有动作努力程度",
+   "music": 0.0
+  },
+  {
+   "from": 459.02,
+   "to": 461.52,
+   "sid": 186,
+   "location": 2,
+   "content": "睡眠和总负荷都可控时",
+   "music": 0.0
+  },
+  {
+   "from": 461.52,
+   "to": 464.049,
+   "sid": 187,
+   "location": 2,
+   "content": "提高频率才有帮助",
+   "music": 0.0
+  },
+  {
+   "from": 464.249,
+   "to": 467.509,
+   "sid": 188,
+   "location": 2,
+   "content": "背部训练应该带来肌肉发力和疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 467.509,
+   "to": 471.549,
+   "sid": 189,
+   "location": 2,
+   "content": "而不是肩肘或下背部的尖锐疼痛",
+   "music": 0.0
+  },
+  {
+   "from": 471.549,
+   "to": 474.369,
+   "sid": 190,
+   "location": 2,
+   "content": "根据自身结构调整幅度",
+   "music": 0.0
+  },
+  {
+   "from": 474.369,
+   "to": 475.609,
+   "sid": 191,
+   "location": 2,
+   "content": "握把和重量",
+   "music": 0.0
+  },
+  {
+   "from": 475.609,
+   "to": 477.209,
+   "sid": 192,
+   "location": 2,
+   "content": "如果疼痛持续",
+   "music": 0.0
+  },
+  {
+   "from": 477.209,
+   "to": 481.899,
+   "sid": 193,
+   "location": 2,
+   "content": "请寻求专业帮助保存这套训练记录",
+   "music": 0.0
+  },
+  {
+   "from": 481.899,
+   "to": 482.839,
+   "sid": 194,
+   "location": 2,
+   "content": "每组次数",
+   "music": 0.0
+  },
+  {
+   "from": 482.839,
+   "to": 485.64,
+   "sid": 195,
+   "location": 2,
+   "content": "让动作每次都能稳定重复",
+   "music": 0.0
+  },
+  {
+   "from": 485.64,
+   "to": 487.4,
+   "sid": 196,
+   "location": 2,
+   "content": "想看更多不复杂",
+   "music": 0.0
+  },
+  {
+   "from": 487.4,
+   "to": 489.64,
+   "sid": 197,
+   "location": 2,
+   "content": "能直接使用的动作指南",
+   "music": 0.0
+  },
+  {
+   "from": 489.64,
+   "to": 491.24,
+   "sid": 198,
+   "location": 2,
+   "content": "欢迎关注build by four",
+   "music": 0.0
+  }
+ ]
+}

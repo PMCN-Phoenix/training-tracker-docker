@@ -1,0 +1,62 @@
+需求1：绳索坐姿划船腰痛 — YouTube 视频清单
+抓取日期：2026-10-12
+工具：yt-dlp 2026.08.19 + --proxy http://127.0.0.1:7892 + --write-subs --write-auto-subs --sub-langs en.*
+
+=== 成功抓到字幕（10 个，全部人工字幕 en-orig.vtt） ===
+
+1. ChLmR-1UBMI | Jeremy Ethier ft. Dr. Stuart McGill | STOP Doing Deadlifts Like This (SAVE YOUR SPINE!) | 10:29 | 3.76M views
+   URL: https://www.youtube.com/watch?v=ChLmR-1UBMI
+   方向：硬拉脊柱安全 / 疼痛性质区分（锐痛 vs 适应痛）/ lifter's wedge
+
+2. 2_e4I-brfqs | Squat University | The 3 Best Core Exercises [Do These Every Day] (McGill Big 3) | 9:09 | 6.01M views
+   URL: https://www.youtube.com/watch?v=2_e4I-brfqs
+   方向：核心稳定训练（McGill Big 3：curl-up / side plank / bird-dog），10 秒等长 hold
+
+3. tfjjVKvjPZo | Brian Alsruhe (Neversate) | Stop Lower Back Pain While Rowing! BACK BASICS II | 7:24 | 72.9K views
+   URL: https://www.youtube.com/watch?v=tfjjVKvjPZo
+   方向：划船腰痛机制 / 360° bracing / 髋铰链 / bar over mid-foot / 呼吸节奏
+
+4. S1yGwfdF-iM | Renaissance Periodization (Dr. Mike Israetel) | Tips For Spinal Erector Growth | 6:00 | 332K views
+   URL: https://www.youtube.com/watch?v=S1yGwfdF-iM
+   方向：竖脊肌肥大训练 / 划船倾角 45-90° / axial fatigue 管理 / 训练量阈值
+
+5. OOeVY13EHRA | Chris Duffin (Kabuki Strength) | MOTD - Dealing with Erector Fatigue and Back Pain in Training | 3:29 | 13K views
+   URL: https://www.youtube.com/watch?v=OOeVY13EHRA
+   方向：训练中竖脊肌疲劳/疼痛的 triage（腹肌刚性重置）/ intra-workout 恢复
+
+6. mEMYcrccSzw | ATHLEAN-X (Jeff Cavaliere) | Fix Low Back Pain | 5 Red Flags (WARNING!) | 12:08 | 1.73M views
+   URL: https://www.youtube.com/watch?v=mEMYcrccSzw
+   方向：腰痛红旗（髋屈肌紧 / 臀肌无力 / 竖脊肌耐力不足 / 扁平足 / 塌坐姿势）
+
+7. onY5Wn3ZJ5Y | DocUnlock | Low Back Pain Causes (and 7 Worrying Signs) | 8:59 | 2.56M views
+   URL: https://www.youtube.com/watch?v=onY5Wn3ZJ5Y
+   方向：医学红旗（>6 周不愈 / 进行性加重 / 神经症状 / 发热盗汗 / 不明体重下降）
+
+8. y-HqXxBLAFg | STRETCHING SAMURAI (Patrick Feval) | Seated Low Row Vs Shallow Deadlift Row for Lower Back Pain & Shoulder Impingement | 3:59 | 845 views
+   URL: https://www.youtube.com/watch?v=y-HqXxBLAFg
+   方向：坐姿划船膝盖 15-20° 弯 / 拉向肚脐 / 上半身 5-10° 后倾 / 骨盆前后动 vs 固定
+
+9. NwQHTdl-82o | Sports Rehab Expert | Do You Have Low Back Pain After Deadlifting? | 3:27 | 3.4K views
+   URL: https://www.youtube.com/watch?v=NwQHTdl-82o
+   方向：膝盖后移→重量离中线→腰椎力臂变长→腰痛（moment arm 机制）
+
+10. lFqZX4c6pr0 | The Movement System | Why You Feel RDLs in Your Lower Back | Form Fix | 1:01 | 190K views
+    URL: https://www.youtube.com/watch?v=lFqZX4c6pr0
+    方向：膝角度固定 vs 后移 / 胫骨垂直 / 髋后推 / 下背代劳机制
+
+=== 未抓到字幕（2 个，3 次 429 Too Many Requests） ===
+
+X. V6_AvZ2Fh4Y | Training Tall | INSTANTLY FIX LOWER BACK PAIN FROM ROWING | 3:14 | 251K views
+   URL: https://www.youtube.com/watch?v=V6_AvZ2Fh4Y
+   结果：3 次尝试均 429（代理 IP 被 timedtext CDN 限流），未产出 vtt
+
+X. Wb59EbLAZlI | Fitness 4 Back Pain | 3 Tricks For A Pain-Free Seated Cable Row | 7:48 | 17K views
+   URL: https://www.youtube.com/watch?v=Wb59EbLAZlI
+   结果：3 次尝试均 429，未产出 vtt
+
+=== 搜索留档 ===
+searches/01_seated_cable_row_back_pain.txt   (15 候选)
+searches/02_deadlift_then_row_order.txt      (12 候选)
+searches/03_erector_spinae_bracing.txt       (12 候选)
+searches/04_red_flags.txt                     (10 候选)
+searches/05_mcgill_big3.txt                   (10 候选)

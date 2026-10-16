@@ -1,0 +1,766 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.04,
+   "to": 3.09,
+   "sid": 1,
+   "location": 2,
+   "content": "嘿所有每天都要做很久的朋友们",
+   "music": 0.0
+  },
+  {
+   "from": 3.09,
+   "to": 5.75,
+   "sid": 2,
+   "location": 2,
+   "content": "如果你也经常感觉腰酸背痛",
+   "music": 0.0
+  },
+  {
+   "from": 5.75,
+   "to": 8.39,
+   "sid": 3,
+   "location": 2,
+   "content": "那接下来这60秒你可得听好了",
+   "music": 0.0
+  },
+  {
+   "from": 8.39,
+   "to": 9.809,
+   "sid": 4,
+   "location": 2,
+   "content": "绝对能帮到你",
+   "music": 0.0
+  },
+  {
+   "from": 9.809,
+   "to": 11.789,
+   "sid": 5,
+   "location": 2,
+   "content": "你是不是也特纳闷儿",
+   "music": 0.0
+  },
+  {
+   "from": 11.789,
+   "to": 16.35,
+   "sid": 6,
+   "location": 2,
+   "content": "明明花大价钱买了一把特别好的人体工学椅",
+   "music": 0.0
+  },
+  {
+   "from": 16.35,
+   "to": 18.95,
+   "sid": 7,
+   "location": 2,
+   "content": "可结果呢腰还是照样疼",
+   "music": 0.0
+  },
+  {
+   "from": 18.95,
+   "to": 21.82,
+   "sid": 8,
+   "location": 2,
+   "content": "这问题到底出在哪了呢",
+   "music": 0.0
+  },
+  {
+   "from": 21.82,
+   "to": 25.39,
+   "sid": 9,
+   "location": 2,
+   "content": "嗯原因说出来可能有点吓人",
+   "music": 0.0
+  },
+  {
+   "from": 25.39,
+   "to": 30.21,
+   "sid": 10,
+   "location": 2,
+   "content": "你很可能啊正处在一种慢性自杀式坐姿里",
+   "music": 0.0
+  },
+  {
+   "from": 30.21,
+   "to": 31.77,
+   "sid": 11,
+   "location": 2,
+   "content": "对你没听错",
+   "music": 0.0
+  },
+  {
+   "from": 31.77,
+   "to": 33.67,
+   "sid": 12,
+   "location": 2,
+   "content": "这个词儿听着是挺夸张的",
+   "music": 0.0
+  },
+  {
+   "from": 33.67,
+   "to": 36.4,
+   "sid": 13,
+   "location": 2,
+   "content": "但它恰恰就点出了问题的核心",
+   "music": 0.0
+  },
+  {
+   "from": 36.4,
+   "to": 40.02,
+   "sid": 14,
+   "location": 2,
+   "content": "那么真正的罪魁祸首到底是什么",
+   "music": 0.0
+  },
+  {
+   "from": 40.02,
+   "to": 41.51,
+   "sid": 15,
+   "location": 2,
+   "content": "我先给你剧透一下啊",
+   "music": 0.0
+  },
+  {
+   "from": 41.51,
+   "to": 44.72,
+   "sid": 16,
+   "location": 2,
+   "content": "问题啊压根儿就不在你的椅子上",
+   "music": 0.0
+  },
+  {
+   "from": 44.72,
+   "to": 47.04,
+   "sid": 17,
+   "location": 2,
+   "content": "您看咱们绝大多数人",
+   "music": 0.0
+  },
+  {
+   "from": 47.04,
+   "to": 49.4,
+   "sid": 18,
+   "location": 2,
+   "content": "其实都会犯一个最根本的错误",
+   "music": 0.0
+  },
+  {
+   "from": 49.4,
+   "to": 51.04,
+   "sid": 19,
+   "location": 2,
+   "content": "我们是用尾骨在做",
+   "music": 0.0
+  },
+  {
+   "from": 51.04,
+   "to": 52.4,
+   "sid": 20,
+   "location": 2,
+   "content": "而不是用坐骨",
+   "music": 0.0
+  },
+  {
+   "from": 52.4,
+   "to": 54.2,
+   "sid": 21,
+   "location": 2,
+   "content": "你仔细看左边这个图",
+   "music": 0.0
+  },
+  {
+   "from": 54.2,
+   "to": 55.32,
+   "sid": 22,
+   "location": 2,
+   "content": "用尾骨做",
+   "music": 0.0
+  },
+  {
+   "from": 55.32,
+   "to": 57.0,
+   "sid": 23,
+   "location": 2,
+   "content": "整个骨盆就会向后倒",
+   "music": 0.0
+  },
+  {
+   "from": 57.0,
+   "to": 58.48,
+   "sid": 24,
+   "location": 2,
+   "content": "腰那里是悬空的",
+   "music": 0.0
+  },
+  {
+   "from": 58.48,
+   "to": 60.96,
+   "sid": 25,
+   "location": 2,
+   "content": "所有的压力就全压在那儿了",
+   "music": 0.0
+  },
+  {
+   "from": 60.96,
+   "to": 64.74,
+   "sid": 26,
+   "location": 2,
+   "content": "但你看右边一旦用坐骨坐骨盆马上就回正了",
+   "music": 0.0
+  },
+  {
+   "from": 64.74,
+   "to": 66.32,
+   "sid": 27,
+   "location": 2,
+   "content": "脊柱自然就直了",
+   "music": 0.0
+  },
+  {
+   "from": 66.32,
+   "to": 67.9,
+   "sid": 28,
+   "location": 2,
+   "content": "整个身体的那个地基啊",
+   "music": 0.0
+  },
+  {
+   "from": 67.9,
+   "to": 69.12,
+   "sid": 29,
+   "location": 2,
+   "content": "一下子就稳了",
+   "music": 0.0
+  },
+  {
+   "from": 69.12,
+   "to": 71.12,
+   "sid": 30,
+   "location": 2,
+   "content": "那这个坐骨到底是啥",
+   "music": 0.0
+  },
+  {
+   "from": 71.12,
+   "to": 72.46,
+   "sid": 31,
+   "location": 2,
+   "content": "其实特别简单",
+   "music": 0.0
+  },
+  {
+   "from": 72.46,
+   "to": 75.87,
+   "sid": 32,
+   "location": 2,
+   "content": "就是你屁股底下那两块硬邦邦的骨头",
+   "music": 0.0
+  },
+  {
+   "from": 75.87,
+   "to": 77.51,
+   "sid": 33,
+   "location": 2,
+   "content": "你可以把它想象成什么呢",
+   "music": 0.0
+  },
+  {
+   "from": 77.51,
+   "to": 80.59,
+   "sid": 34,
+   "location": 2,
+   "content": "想象成你整个脊柱的起重机底座",
+   "music": 0.0
+  },
+  {
+   "from": 80.59,
+   "to": 81.45,
+   "sid": 35,
+   "location": 2,
+   "content": "这么一说",
+   "music": 0.0
+  },
+  {
+   "from": 81.45,
+   "to": 83.44,
+   "sid": 36,
+   "location": 2,
+   "content": "是不是一下就明白了",
+   "music": 0.0
+  },
+  {
+   "from": 83.44,
+   "to": 84.2,
+   "sid": 37,
+   "location": 2,
+   "content": "好了",
+   "music": 0.0
+  },
+  {
+   "from": 84.2,
+   "to": 85.8,
+   "sid": 38,
+   "location": 2,
+   "content": "知道问题在哪儿了",
+   "music": 0.0
+  },
+  {
+   "from": 85.8,
+   "to": 87.71,
+   "sid": 39,
+   "location": 2,
+   "content": "咱们就马上来解决它",
+   "music": 0.0
+  },
+  {
+   "from": 87.71,
+   "to": 88.97,
+   "sid": 40,
+   "location": 2,
+   "content": "接下来这一招啊",
+   "music": 0.0
+  },
+  {
+   "from": 88.97,
+   "to": 90.11,
+   "sid": 41,
+   "location": 2,
+   "content": "超级简单",
+   "music": 0.0
+  },
+  {
+   "from": 90.11,
+   "to": 91.87,
+   "sid": 42,
+   "location": 2,
+   "content": "但是效果我跟你说",
+   "music": 0.0
+  },
+  {
+   "from": 91.87,
+   "to": 92.81,
+   "sid": 43,
+   "location": 2,
+   "content": "立竿见影",
+   "music": 0.0
+  },
+  {
+   "from": 92.81,
+   "to": 94.06,
+   "sid": 44,
+   "location": 2,
+   "content": "准备好了吗",
+   "music": 0.0
+  },
+  {
+   "from": 94.06,
+   "to": 96.58,
+   "sid": 45,
+   "location": 2,
+   "content": "来现在就跟着我一起做",
+   "music": 0.0
+  },
+  {
+   "from": 96.58,
+   "to": 100.03,
+   "sid": 46,
+   "location": 2,
+   "content": "就现在第一步把你的手伸到屁股底下",
+   "music": 0.0
+  },
+  {
+   "from": 100.03,
+   "to": 102.11,
+   "sid": 47,
+   "location": 2,
+   "content": "第二步去感受一下",
+   "music": 0.0
+  },
+  {
+   "from": 102.11,
+   "to": 104.15,
+   "sid": 48,
+   "location": 2,
+   "content": "找到那两个硬硬的骨头点",
+   "music": 0.0
+  },
+  {
+   "from": 104.15,
+   "to": 104.97,
+   "sid": 49,
+   "location": 2,
+   "content": "找到了吧",
+   "music": 0.0
+  },
+  {
+   "from": 104.97,
+   "to": 106.31,
+   "sid": 50,
+   "location": 2,
+   "content": "好第三步",
+   "music": 0.0
+  },
+  {
+   "from": 106.31,
+   "to": 109.63,
+   "sid": 51,
+   "location": 2,
+   "content": "用手把你屁股上的肉向后向外拨开",
+   "music": 0.0
+  },
+  {
+   "from": 109.63,
+   "to": 113.31,
+   "sid": 52,
+   "location": 2,
+   "content": "最后一步让你刚才找到的那两块坐骨",
+   "music": 0.0
+  },
+  {
+   "from": 113.31,
+   "to": 116.6,
+   "sid": 53,
+   "location": 2,
+   "content": "稳稳当当地扎扎实实地坐到椅子上",
+   "music": 0.0
+  },
+  {
+   "from": 116.6,
+   "to": 117.34,
+   "sid": 54,
+   "location": 2,
+   "content": "怎么样",
+   "music": 0.0
+  },
+  {
+   "from": 117.34,
+   "to": 118.43,
+   "sid": 55,
+   "location": 2,
+   "content": "感觉到了吗",
+   "music": 0.0
+  },
+  {
+   "from": 118.43,
+   "to": 120.97,
+   "sid": 56,
+   "location": 2,
+   "content": "就在你做完这个动作的一瞬间",
+   "music": 0.0
+  },
+  {
+   "from": 120.97,
+   "to": 123.39,
+   "sid": 57,
+   "location": 2,
+   "content": "有没有觉得你的脊柱唰地一下",
+   "music": 0.0
+  },
+  {
+   "from": 123.39,
+   "to": 124.83,
+   "sid": 58,
+   "location": 2,
+   "content": "自己就挺直了",
+   "music": 0.0
+  },
+  {
+   "from": 124.83,
+   "to": 126.78,
+   "sid": 59,
+   "location": 2,
+   "content": "根本不用你刻意去用力",
+   "music": 0.0
+  },
+  {
+   "from": 126.78,
+   "to": 129.54,
+   "sid": 60,
+   "location": 2,
+   "content": "整个上半身都感觉松快了不少",
+   "music": 0.0
+  },
+  {
+   "from": 129.54,
+   "to": 133.519,
+   "sid": 61,
+   "location": 2,
+   "content": "这种感觉上的变化可不是什么心理作用哦",
+   "music": 0.0
+  },
+  {
+   "from": 133.519,
+   "to": 137.26,
+   "sid": 62,
+   "location": 2,
+   "content": "他的背后是身体力学的一个根本改变",
+   "music": 0.0
+  },
+  {
+   "from": 137.26,
+   "to": 140.28,
+   "sid": 63,
+   "location": 2,
+   "content": "咱们来看看就这么一个简单的动作",
+   "music": 0.0
+  },
+  {
+   "from": 140.28,
+   "to": 143.65,
+   "sid": 64,
+   "location": 2,
+   "content": "到底给你带来了什么样的即时回报",
+   "music": 0.0
+  },
+  {
+   "from": 143.65,
+   "to": 144.65,
+   "sid": 65,
+   "location": 2,
+   "content": "你想啊",
+   "music": 0.0
+  },
+  {
+   "from": 144.65,
+   "to": 146.66,
+   "sid": 66,
+   "location": 2,
+   "content": "当你的起重机底座",
+   "music": 0.0
+  },
+  {
+   "from": 146.66,
+   "to": 150.02,
+   "sid": 67,
+   "location": 2,
+   "content": "也就是你的坐骨稳稳地扎在地上了",
+   "music": 0.0
+  },
+  {
+   "from": 150.02,
+   "to": 150.86,
+   "sid": 68,
+   "location": 2,
+   "content": "那你腰椎",
+   "music": 0.0
+  },
+  {
+   "from": 150.86,
+   "to": 154.7,
+   "sid": 69,
+   "location": 2,
+   "content": "这个起重机吊臂还需要拼了命的去发力",
+   "music": 0.0
+  },
+  {
+   "from": 154.7,
+   "to": 155.78,
+   "sid": 70,
+   "location": 2,
+   "content": "维持平衡吗",
+   "music": 0.0
+  },
+  {
+   "from": 155.78,
+   "to": 157.26,
+   "sid": 71,
+   "location": 2,
+   "content": "当然就不需要了",
+   "music": 0.0
+  },
+  {
+   "from": 157.26,
+   "to": 161.64,
+   "sid": 72,
+   "location": 2,
+   "content": "所以啊压在你下背部的那股劲儿瞬间就消失了",
+   "music": 0.0
+  },
+  {
+   "from": 161.64,
+   "to": 165.37,
+   "sid": 73,
+   "location": 2,
+   "content": "所以你看这可能就是你能找到的最省钱",
+   "music": 0.0
+  },
+  {
+   "from": 165.37,
+   "to": 168.29,
+   "sid": 74,
+   "location": 2,
+   "content": "最经济实惠的护腰黑科技了",
+   "music": 0.0
+  },
+  {
+   "from": 168.29,
+   "to": 169.73,
+   "sid": 75,
+   "location": 2,
+   "content": "你什么都不用买",
+   "music": 0.0
+  },
+  {
+   "from": 169.73,
+   "to": 171.89,
+   "sid": 76,
+   "location": 2,
+   "content": "就这么一个简单的小动作",
+   "music": 0.0
+  },
+  {
+   "from": 171.89,
+   "to": 174.0,
+   "sid": 77,
+   "location": 2,
+   "content": "就能保护好你的脊柱",
+   "music": 0.0
+  },
+  {
+   "from": 174.0,
+   "to": 174.66,
+   "sid": 78,
+   "location": 2,
+   "content": "好了",
+   "music": 0.0
+  },
+  {
+   "from": 174.66,
+   "to": 177.82,
+   "sid": 79,
+   "location": 2,
+   "content": "咱们快速回顾一下今天的核心要点",
+   "music": 0.0
+  },
+  {
+   "from": 177.82,
+   "to": 180.25,
+   "sid": 80,
+   "location": 2,
+   "content": "第一别再怪椅子了",
+   "music": 0.0
+  },
+  {
+   "from": 180.25,
+   "to": 182.49,
+   "sid": 81,
+   "location": 2,
+   "content": "真正的问题是你的坐姿",
+   "music": 0.0
+  },
+  {
+   "from": 182.49,
+   "to": 186.29,
+   "sid": 82,
+   "location": 2,
+   "content": "第二请记住要用你的两块坐骨去做",
+   "music": 0.0
+  },
+  {
+   "from": 186.29,
+   "to": 187.49,
+   "sid": 83,
+   "location": 2,
+   "content": "而不是尾巴骨",
+   "music": 0.0
+  },
+  {
+   "from": 187.49,
+   "to": 190.51,
+   "sid": 84,
+   "location": 2,
+   "content": "每次坐下的时候就花一秒钟调整一下",
+   "music": 0.0
+  },
+  {
+   "from": 190.51,
+   "to": 192.42,
+   "sid": 85,
+   "location": 2,
+   "content": "你就能立刻感到放松",
+   "music": 0.0
+  },
+  {
+   "from": 192.42,
+   "to": 193.52,
+   "sid": 86,
+   "location": 2,
+   "content": "最关键的是",
+   "music": 0.0
+  },
+  {
+   "from": 193.52,
+   "to": 195.54,
+   "sid": 87,
+   "location": 2,
+   "content": "你这是在为你的整个脊柱",
+   "music": 0.0
+  },
+  {
+   "from": 195.54,
+   "to": 198.13,
+   "sid": 88,
+   "location": 2,
+   "content": "打下了一个无比坚实的地基",
+   "music": 0.0
+  },
+  {
+   "from": 198.13,
+   "to": 201.73,
+   "sid": 89,
+   "location": 2,
+   "content": "那么现在你已经掌握了这个小工具了",
+   "music": 0.0
+  },
+  {
+   "from": 201.73,
+   "to": 203.67,
+   "sid": 90,
+   "location": 2,
+   "content": "不妨花点时间想一想",
+   "music": 0.0
+  },
+  {
+   "from": 203.67,
+   "to": 207.67,
+   "sid": 91,
+   "location": 2,
+   "content": "就是这样一个每天都在重复的一秒钟的小动作",
+   "music": 0.0
+  },
+  {
+   "from": 207.67,
+   "to": 209.05,
+   "sid": 92,
+   "location": 2,
+   "content": "从长远来看",
+   "music": 0.0
+  },
+  {
+   "from": 209.05,
+   "to": 210.85,
+   "sid": 93,
+   "location": 2,
+   "content": "它会给你的工作效率",
+   "music": 0.0
+  },
+  {
+   "from": 210.85,
+   "to": 211.99,
+   "sid": 94,
+   "location": 2,
+   "content": "你的专注力",
+   "music": 0.0
+  },
+  {
+   "from": 211.99,
+   "to": 216.58,
+   "sid": 95,
+   "location": 2,
+   "content": "甚至你的整体健康带来多么巨大的改变呢",
+   "music": 0.0
+  }
+ ]
+}

@@ -1,0 +1,732 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 0.8,
+      "sid": 1,
+      "location": 2,
+      "content": "老铁们好",
+      "music": 0.0
+    },
+    {
+      "from": 0.8,
+      "to": 3.8,
+      "sid": 2,
+      "location": 2,
+      "content": "现在的时间是8月18号晚上22点整",
+      "music": 0.0
+    },
+    {
+      "from": 3.8,
+      "to": 6.18,
+      "sid": 3,
+      "location": 2,
+      "content": "今天呢我们来聊一个二头动作",
+      "music": 0.0
+    },
+    {
+      "from": 6.18,
+      "to": 7.6,
+      "sid": 4,
+      "location": 2,
+      "content": "绳索弯举",
+      "music": 0.0
+    },
+    {
+      "from": 7.6,
+      "to": 8.88,
+      "sid": 5,
+      "location": 2,
+      "content": "绳索弯举啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.88,
+      "to": 10.97,
+      "sid": 6,
+      "location": 2,
+      "content": "这个动作虽然不是一个主流动作",
+      "music": 0.0
+    },
+    {
+      "from": 10.97,
+      "to": 13.99,
+      "sid": 7,
+      "location": 2,
+      "content": "但是呢它同样可以对二头产生一个很好的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 13.99,
+      "to": 16.13,
+      "sid": 8,
+      "location": 2,
+      "content": "而我呢虽然不是每次必做",
+      "music": 0.0
+    },
+    {
+      "from": 16.13,
+      "to": 17.71,
+      "sid": 9,
+      "location": 2,
+      "content": "但在日常的手臂训练中",
+      "music": 0.0
+    },
+    {
+      "from": 17.71,
+      "to": 19.15,
+      "sid": 10,
+      "location": 2,
+      "content": "这个动作也经常会做到",
+      "music": 0.0
+    },
+    {
+      "from": 19.15,
+      "to": 20.85,
+      "sid": 11,
+      "location": 2,
+      "content": "用来打破常规的动作",
+      "music": 0.0
+    },
+    {
+      "from": 20.85,
+      "to": 22.39,
+      "sid": 12,
+      "location": 2,
+      "content": "来给手臂一个新的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 22.39,
+      "to": 24.31,
+      "sid": 13,
+      "location": 2,
+      "content": "它比起我们传统的杠铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 24.31,
+      "to": 25.37,
+      "sid": 14,
+      "location": 2,
+      "content": "哑铃锤式弯举",
+      "music": 0.0
+    },
+    {
+      "from": 25.37,
+      "to": 27.13,
+      "sid": 15,
+      "location": 2,
+      "content": "包括坐姿的上斜哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 27.13,
+      "to": 29.41,
+      "sid": 16,
+      "location": 2,
+      "content": "这个动作的离心感都没有那么强",
+      "music": 0.0
+    },
+    {
+      "from": 29.41,
+      "to": 31.43,
+      "sid": 17,
+      "location": 2,
+      "content": "但是呢他对二头的顶峰收缩",
+      "music": 0.0
+    },
+    {
+      "from": 31.43,
+      "to": 33.17,
+      "sid": 18,
+      "location": 2,
+      "content": "超过了这里任何一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 33.17,
+      "to": 36.01,
+      "sid": 19,
+      "location": 2,
+      "content": "下面呢我们就来为大家详细的解剖一下",
+      "music": 0.0
+    },
+    {
+      "from": 36.01,
+      "to": 36.72,
+      "sid": 20,
+      "location": 2,
+      "content": "这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 36.72,
+      "to": 39.04,
+      "sid": 21,
+      "location": 2,
+      "content": "首先呢绳索弯举是站姿的",
+      "music": 0.0
+    },
+    {
+      "from": 39.04,
+      "to": 41.07,
+      "sid": 22,
+      "location": 2,
+      "content": "你把绳索固定到最低点",
+      "music": 0.0
+    },
+    {
+      "from": 41.07,
+      "to": 42.23,
+      "sid": 23,
+      "location": 2,
+      "content": "用直杆也行",
+      "music": 0.0
+    },
+    {
+      "from": 42.23,
+      "to": 44.05,
+      "sid": 24,
+      "location": 2,
+      "content": "用W的曲杆也可以",
+      "music": 0.0
+    },
+    {
+      "from": 44.05,
+      "to": 45.65,
+      "sid": 25,
+      "location": 2,
+      "content": "有的人呢喜欢用绳索",
+      "music": 0.0
+    },
+    {
+      "from": 45.65,
+      "to": 49.12,
+      "sid": 26,
+      "location": 2,
+      "content": "但其实呢用绳索会减弱二头的离心刺激",
+      "music": 0.0
+    },
+    {
+      "from": 49.12,
+      "to": 52.32,
+      "sid": 27,
+      "location": 2,
+      "content": "所以呢我更喜欢用W型的曲杆或者是直杆",
+      "music": 0.0
+    },
+    {
+      "from": 52.32,
+      "to": 53.68,
+      "sid": 28,
+      "location": 2,
+      "content": "动作要领是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 53.68,
+      "to": 55.36,
+      "sid": 29,
+      "location": 2,
+      "content": "首先我们做一下错误的示范",
+      "music": 0.0
+    },
+    {
+      "from": 55.36,
+      "to": 57.52,
+      "sid": 30,
+      "location": 2,
+      "content": "错误的示范就是你在站姿的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 57.52,
+      "to": 58.94,
+      "sid": 31,
+      "location": 2,
+      "content": "离那个绳索很近",
+      "music": 0.0
+    },
+    {
+      "from": 58.94,
+      "to": 60.61,
+      "sid": 32,
+      "location": 2,
+      "content": "做起来是这样嗯",
+      "music": 0.0
+    },
+    {
+      "from": 62.19,
+      "to": 63.55,
+      "sid": 33,
+      "location": 2,
+      "content": "很多人都是这样做啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.55,
+      "to": 64.07,
+      "sid": 34,
+      "location": 2,
+      "content": "这样做",
+      "music": 0.0
+    },
+    {
+      "from": 64.07,
+      "to": 64.89,
+      "sid": 35,
+      "location": 2,
+      "content": "老铁注意了",
+      "music": 0.0
+    },
+    {
+      "from": 64.89,
+      "to": 66.03,
+      "sid": 36,
+      "location": 2,
+      "content": "你往后退半步",
+      "music": 0.0
+    },
+    {
+      "from": 66.03,
+      "to": 67.13,
+      "sid": 37,
+      "location": 2,
+      "content": "你往后退半步",
+      "music": 0.0
+    },
+    {
+      "from": 67.13,
+      "to": 68.5,
+      "sid": 38,
+      "location": 2,
+      "content": "并且呢挺起胸",
+      "music": 0.0
+    },
+    {
+      "from": 68.5,
+      "to": 71.18,
+      "sid": 39,
+      "location": 2,
+      "content": "在做之前你先做一个离心的动作",
+      "music": 0.0
+    },
+    {
+      "from": 71.18,
+      "to": 72.3,
+      "sid": 40,
+      "location": 2,
+      "content": "往后退半步",
+      "music": 0.0
+    },
+    {
+      "from": 72.3,
+      "to": 73.14,
+      "sid": 41,
+      "location": 2,
+      "content": "挺起胸",
+      "music": 0.0
+    },
+    {
+      "from": 73.14,
+      "to": 74.509,
+      "sid": 42,
+      "location": 2,
+      "content": "略微往后仰",
+      "music": 0.0
+    },
+    {
+      "from": 74.509,
+      "to": 76.189,
+      "sid": 43,
+      "location": 2,
+      "content": "手肘尽量往前放",
+      "music": 0.0
+    },
+    {
+      "from": 76.189,
+      "to": 77.42,
+      "sid": 44,
+      "location": 2,
+      "content": "而不是往下放",
+      "music": 0.0
+    },
+    {
+      "from": 77.42,
+      "to": 78.94,
+      "sid": 45,
+      "location": 2,
+      "content": "手肘尽量往前放",
+      "music": 0.0
+    },
+    {
+      "from": 78.94,
+      "to": 81.0,
+      "sid": 46,
+      "location": 2,
+      "content": "大概和身体呈45度角",
+      "music": 0.0
+    },
+    {
+      "from": 81.0,
+      "to": 82.16,
+      "sid": 47,
+      "location": 2,
+      "content": "这是你的起点",
+      "music": 0.0
+    },
+    {
+      "from": 82.16,
+      "to": 85.52,
+      "sid": 48,
+      "location": 2,
+      "content": "然后呢弯举的时候手肘略微往高",
+      "music": 0.0
+    },
+    {
+      "from": 85.52,
+      "to": 86.74,
+      "sid": 49,
+      "location": 2,
+      "content": "而不是往后撤",
+      "music": 0.0
+    },
+    {
+      "from": 86.74,
+      "to": 88.34,
+      "sid": 50,
+      "location": 2,
+      "content": "手肘千万不要往后撤",
+      "music": 0.0
+    },
+    {
+      "from": 88.34,
+      "to": 90.18,
+      "sid": 51,
+      "location": 2,
+      "content": "弯举的同时略微往高",
+      "music": 0.0
+    },
+    {
+      "from": 90.18,
+      "to": 91.28,
+      "sid": 52,
+      "location": 2,
+      "content": "大胳膊不动",
+      "music": 0.0
+    },
+    {
+      "from": 91.28,
+      "to": 92.4,
+      "sid": 53,
+      "location": 2,
+      "content": "肘关节动",
+      "music": 0.0
+    },
+    {
+      "from": 92.4,
+      "to": 94.41,
+      "sid": 54,
+      "location": 2,
+      "content": "在你做顶峰收缩的时候",
+      "music": 0.0
+    },
+    {
+      "from": 94.41,
+      "to": 95.31,
+      "sid": 55,
+      "location": 2,
+      "content": "含下巴",
+      "music": 0.0
+    },
+    {
+      "from": 95.31,
+      "to": 97.91,
+      "sid": 56,
+      "location": 2,
+      "content": "这个时候你可以最好的做到顶峰收缩",
+      "music": 0.0
+    },
+    {
+      "from": 97.91,
+      "to": 99.199,
+      "sid": 57,
+      "location": 2,
+      "content": "在离心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 99.199,
+      "to": 100.259,
+      "sid": 58,
+      "location": 2,
+      "content": "一边往后仰",
+      "music": 0.0
+    },
+    {
+      "from": 100.259,
+      "to": 101.059,
+      "sid": 59,
+      "location": 2,
+      "content": "一边挺胸",
+      "music": 0.0
+    },
+    {
+      "from": 101.059,
+      "to": 102.659,
+      "sid": 60,
+      "location": 2,
+      "content": "一直到你45度的时候",
+      "music": 0.0
+    },
+    {
+      "from": 102.659,
+      "to": 106.47,
+      "sid": 61,
+      "location": 2,
+      "content": "胳膊伸直给他一个最大离心向心含下巴",
+      "music": 0.0
+    },
+    {
+      "from": 106.47,
+      "to": 107.71,
+      "sid": 62,
+      "location": 2,
+      "content": "离心挺胸",
+      "music": 0.0
+    },
+    {
+      "from": 107.71,
+      "to": 109.0,
+      "sid": 63,
+      "location": 2,
+      "content": "最大离心张力",
+      "music": 0.0
+    },
+    {
+      "from": 109.0,
+      "to": 110.46,
+      "sid": 64,
+      "location": 2,
+      "content": "这就是这个动作的要点",
+      "music": 0.0
+    },
+    {
+      "from": 110.46,
+      "to": 111.6,
+      "sid": 65,
+      "location": 2,
+      "content": "因为它是绳索",
+      "music": 0.0
+    },
+    {
+      "from": 111.6,
+      "to": 113.94,
+      "sid": 66,
+      "location": 2,
+      "content": "所以你在象形顶峰的时候可以停住",
+      "music": 0.0
+    },
+    {
+      "from": 113.94,
+      "to": 116.04,
+      "sid": 67,
+      "location": 2,
+      "content": "然后呢也正是因为它是绳索",
+      "music": 0.0
+    },
+    {
+      "from": 116.04,
+      "to": 117.66,
+      "sid": 68,
+      "location": 2,
+      "content": "你可以把离心做的很慢",
+      "music": 0.0
+    },
+    {
+      "from": 117.66,
+      "to": 120.36,
+      "sid": 69,
+      "location": 2,
+      "content": "但是呢向心你可以用爆发力收回来",
+      "music": 0.0
+    },
+    {
+      "from": 120.36,
+      "to": 122.14,
+      "sid": 70,
+      "location": 2,
+      "content": "并且顶峰停一下",
+      "music": 0.0
+    },
+    {
+      "from": 122.14,
+      "to": 123.44,
+      "sid": 71,
+      "location": 2,
+      "content": "然后再慢下",
+      "music": 0.0
+    },
+    {
+      "from": 123.44,
+      "to": 125.04,
+      "sid": 72,
+      "location": 2,
+      "content": "直到给他最大的离心",
+      "music": 0.0
+    },
+    {
+      "from": 125.04,
+      "to": 126.57,
+      "sid": 73,
+      "location": 2,
+      "content": "挺着胸给离心",
+      "music": 0.0
+    },
+    {
+      "from": 126.57,
+      "to": 128.67,
+      "sid": 74,
+      "location": 2,
+      "content": "虽然它也用不了特别大的重量",
+      "music": 0.0
+    },
+    {
+      "from": 128.67,
+      "to": 130.8,
+      "sid": 75,
+      "location": 2,
+      "content": "也不会产生非常大的离心感",
+      "music": 0.0
+    },
+    {
+      "from": 130.8,
+      "to": 132.0,
+      "sid": 76,
+      "location": 2,
+      "content": "但是他的收缩感",
+      "music": 0.0
+    },
+    {
+      "from": 132.0,
+      "to": 133.88,
+      "sid": 77,
+      "location": 2,
+      "content": "是任何一个二头动作都比不了的",
+      "music": 0.0
+    },
+    {
+      "from": 133.88,
+      "to": 135.32,
+      "sid": 78,
+      "location": 2,
+      "content": "正好呢前两天的二头训练",
+      "music": 0.0
+    },
+    {
+      "from": 135.32,
+      "to": 136.3,
+      "sid": 79,
+      "location": 2,
+      "content": "我做了这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 136.3,
+      "to": 138.4,
+      "sid": 80,
+      "location": 2,
+      "content": "我们来看训练视频",
+      "music": 0.0
+    },
+    {
+      "from": 169.0,
+      "to": 175.12,
+      "sid": 81,
+      "location": 2,
+      "content": "一起听一一起一听",
+      "music": 0.7422680029758758
+    },
+    {
+      "from": 186.56,
+      "to": 189.12,
+      "sid": 82,
+      "location": 2,
+      "content": "好训练视频看完了",
+      "music": 0.0
+    },
+    {
+      "from": 189.12,
+      "to": 189.7,
+      "sid": 83,
+      "location": 2,
+      "content": "老铁们",
+      "music": 0.0
+    },
+    {
+      "from": 189.7,
+      "to": 190.82,
+      "sid": 84,
+      "location": 2,
+      "content": "你们学到了吗",
+      "music": 0.0
+    },
+    {
+      "from": 190.82,
+      "to": 192.32,
+      "sid": 85,
+      "location": 2,
+      "content": "今天的视频就到这",
+      "music": 0.0
+    },
+    {
+      "from": 192.32,
+      "to": 194.66,
+      "sid": 86,
+      "location": 2,
+      "content": "喜欢东哥视频的朋友还是别忘了点个赞",
+      "music": 0.0
+    },
+    {
+      "from": 194.66,
+      "to": 195.42,
+      "sid": 87,
+      "location": 2,
+      "content": "关个注",
+      "music": 0.0
+    },
+    {
+      "from": 195.42,
+      "to": 197.58,
+      "sid": 88,
+      "location": 2,
+      "content": "下回听干货不迷路",
+      "music": 0.0
+    },
+    {
+      "from": 197.58,
+      "to": 198.26,
+      "sid": 89,
+      "location": 2,
+      "content": "老铁们",
+      "music": 0.0
+    },
+    {
+      "from": 198.26,
+      "to": 201.95,
+      "sid": 90,
+      "location": 2,
+      "content": "我们下回见",
+      "music": 0.0
+    }
+  ]
+}

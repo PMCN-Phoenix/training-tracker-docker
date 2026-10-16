@@ -1,0 +1,486 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 4.9,
+   "to": 5.5,
+   "sid": 1,
+   "location": 2,
+   "content": "大家好",
+   "music": 0.0
+  },
+  {
+   "from": 5.5,
+   "to": 7.21,
+   "sid": 2,
+   "location": 2,
+   "content": "我是梓强",
+   "music": 0.0
+  },
+  {
+   "from": 7.21,
+   "to": 10.5,
+   "sid": 3,
+   "location": 2,
+   "content": "今天我们讲解的动作是坐姿划船",
+   "music": 0.0
+  },
+  {
+   "from": 10.559,
+   "to": 13.349,
+   "sid": 4,
+   "location": 2,
+   "content": "很多同学问为什么坐姿划船",
+   "music": 0.0
+  },
+  {
+   "from": 13.349,
+   "to": 14.669,
+   "sid": 5,
+   "location": 2,
+   "content": "背部没有感觉",
+   "music": 0.0
+  },
+  {
+   "from": 14.669,
+   "to": 17.0,
+   "sid": 6,
+   "location": 2,
+   "content": "小臂和二头反而很酸",
+   "music": 0.0
+  },
+  {
+   "from": 17.14,
+   "to": 18.43,
+   "sid": 7,
+   "location": 2,
+   "content": "先谈几点",
+   "music": 0.0
+  },
+  {
+   "from": 18.43,
+   "to": 20.72,
+   "sid": 8,
+   "location": 2,
+   "content": "第一如何握杆",
+   "music": 0.0
+  },
+  {
+   "from": 21.44,
+   "to": 23.62,
+   "sid": 9,
+   "location": 2,
+   "content": "握杆的时候不需要握太紧",
+   "music": 0.0
+  },
+  {
+   "from": 23.62,
+   "to": 24.16,
+   "sid": 10,
+   "location": 2,
+   "content": "紧",
+   "music": 0.0
+  },
+  {
+   "from": 24.16,
+   "to": 25.12,
+   "sid": 11,
+   "location": 2,
+   "content": "握着杆的话",
+   "music": 0.0
+  },
+  {
+   "from": 25.12,
+   "to": 27.24,
+   "sid": 12,
+   "location": 2,
+   "content": "小臂就参与发力过多",
+   "music": 0.0
+  },
+  {
+   "from": 28.54,
+   "to": 30.84,
+   "sid": 13,
+   "location": 2,
+   "content": "想象你的手是一个钩子",
+   "music": 0.0
+  },
+  {
+   "from": 30.84,
+   "to": 32.67,
+   "sid": 14,
+   "location": 2,
+   "content": "勾住杆就可以了",
+   "music": 0.0
+  },
+  {
+   "from": 32.67,
+   "to": 35.67,
+   "sid": 15,
+   "location": 2,
+   "content": "第二在拉的时候",
+   "music": 0.0
+  },
+  {
+   "from": 35.67,
+   "to": 38.76,
+   "sid": 16,
+   "location": 2,
+   "content": "我们肘部要紧贴着躯干",
+   "music": 0.0
+  },
+  {
+   "from": 38.76,
+   "to": 41.4,
+   "sid": 17,
+   "location": 2,
+   "content": "由肘部驱动往后拉",
+   "music": 0.0
+  },
+  {
+   "from": 45.02,
+   "to": 46.879,
+   "sid": 18,
+   "location": 2,
+   "content": "而不是靠手在这边拉",
+   "music": 0.0
+  },
+  {
+   "from": 47.66,
+   "to": 51.66,
+   "sid": 19,
+   "location": 2,
+   "content": "第三很多高手在做坐姿划船的时候",
+   "music": 0.0
+  },
+  {
+   "from": 52.88,
+   "to": 56.019,
+   "sid": 20,
+   "location": 2,
+   "content": "还原的时候会把上身往前送",
+   "music": 0.0
+  },
+  {
+   "from": 64.88,
+   "to": 67.21,
+   "sid": 21,
+   "location": 2,
+   "content": "大家可以去看阿诺的训练视频",
+   "music": 0.0
+  },
+  {
+   "from": 67.21,
+   "to": 68.6,
+   "sid": 22,
+   "location": 2,
+   "content": "他就是这么做的",
+   "music": 0.0
+  },
+  {
+   "from": 68.6,
+   "to": 70.7,
+   "sid": 23,
+   "location": 2,
+   "content": "这是属于比较高阶的做法",
+   "music": 0.0
+  },
+  {
+   "from": 70.7,
+   "to": 75.33,
+   "sid": 24,
+   "location": 2,
+   "content": "这么做的目的是在离心的时候充分拉伸背阔肌",
+   "music": 0.0
+  },
+  {
+   "from": 75.33,
+   "to": 79.1,
+   "sid": 25,
+   "location": 2,
+   "content": "但是新学员在刚开始学这个动作的时候",
+   "music": 0.0
+  },
+  {
+   "from": 79.1,
+   "to": 80.33,
+   "sid": 26,
+   "location": 2,
+   "content": "不建议这么做",
+   "music": 0.0
+  },
+  {
+   "from": 80.33,
+   "to": 83.679,
+   "sid": 27,
+   "location": 2,
+   "content": "我们要先掌握好固定位的做法",
+   "music": 0.0
+  },
+  {
+   "from": 88.4,
+   "to": 90.619,
+   "sid": 28,
+   "location": 2,
+   "content": "今天我们以桅杆做示范",
+   "music": 0.0
+  },
+  {
+   "from": 93.6,
+   "to": 95.12,
+   "sid": 29,
+   "location": 2,
+   "content": "膝盖微微弯曲",
+   "music": 0.0
+  },
+  {
+   "from": 95.12,
+   "to": 97.1,
+   "sid": 30,
+   "location": 2,
+   "content": "挺胸核心收紧",
+   "music": 0.0
+  },
+  {
+   "from": 97.1,
+   "to": 98.51,
+   "sid": 31,
+   "location": 2,
+   "content": "不要耸肩",
+   "music": 0.0
+  },
+  {
+   "from": 98.51,
+   "to": 100.259,
+   "sid": 32,
+   "location": 2,
+   "content": "肩膀不要往前溜",
+   "music": 0.0
+  },
+  {
+   "from": 101.2,
+   "to": 102.72,
+   "sid": 33,
+   "location": 2,
+   "content": "肩胛骨收紧",
+   "music": 0.0
+  },
+  {
+   "from": 110.62,
+   "to": 113.539,
+   "sid": 34,
+   "location": 2,
+   "content": "顶峰收缩感受背阔肌的收缩",
+   "music": 0.0
+  },
+  {
+   "from": 120.6,
+   "to": 122.14,
+   "sid": 35,
+   "location": 2,
+   "content": "发力色吐气",
+   "music": 0.0
+  },
+  {
+   "from": 130.88,
+   "to": 132.1,
+   "sid": 36,
+   "location": 2,
+   "content": "怀孕的时候要慢",
+   "music": 0.0
+  },
+  {
+   "from": 133.96,
+   "to": 135.34,
+   "sid": 37,
+   "location": 2,
+   "content": "要控制住",
+   "music": 0.0
+  },
+  {
+   "from": 149.6,
+   "to": 150.46,
+   "sid": 38,
+   "location": 2,
+   "content": "哇",
+   "music": 0.0
+  },
+  {
+   "from": 152.74,
+   "to": 153.76,
+   "sid": 39,
+   "location": 2,
+   "content": "有几个常见的错误",
+   "music": 0.0
+  },
+  {
+   "from": 153.76,
+   "to": 154.88,
+   "sid": 40,
+   "location": 2,
+   "content": "大家注意一下",
+   "music": 0.0
+  },
+  {
+   "from": 155.8,
+   "to": 157.02,
+   "sid": 41,
+   "location": 2,
+   "content": "借力往后拉",
+   "music": 0.0
+  },
+  {
+   "from": 157.02,
+   "to": 158.58,
+   "sid": 42,
+   "location": 2,
+   "content": "上升过于后倾",
+   "music": 0.0
+  },
+  {
+   "from": 168.679,
+   "to": 171.939,
+   "sid": 43,
+   "location": 2,
+   "content": "第二寒霜驼背",
+   "music": 0.0
+  },
+  {
+   "from": 176.179,
+   "to": 177.099,
+   "sid": 44,
+   "location": 2,
+   "content": "这么做的话",
+   "music": 0.0
+  },
+  {
+   "from": 177.099,
+   "to": 178.599,
+   "sid": 45,
+   "location": 2,
+   "content": "背部是没有办法发力的",
+   "music": 0.0
+  },
+  {
+   "from": 178.599,
+   "to": 180.099,
+   "sid": 46,
+   "location": 2,
+   "content": "完全是靠手在拉",
+   "music": 0.0
+  },
+  {
+   "from": 180.099,
+   "to": 181.54,
+   "sid": 47,
+   "location": 2,
+   "content": "我们要挺胸",
+   "music": 0.0
+  },
+  {
+   "from": 182.88,
+   "to": 185.12,
+   "sid": 48,
+   "location": 2,
+   "content": "肩胛骨收紧",
+   "music": 0.0
+  },
+  {
+   "from": 187.7,
+   "to": 190.74,
+   "sid": 49,
+   "location": 2,
+   "content": "不过我最爱你",
+   "music": 0.0
+  },
+  {
+   "from": 193.539,
+   "to": 196.289,
+   "sid": 50,
+   "location": 2,
+   "content": "第三没有做全程的动作",
+   "music": 0.0
+  },
+  {
+   "from": 196.289,
+   "to": 199.18,
+   "sid": 51,
+   "location": 2,
+   "content": "我看哪位的人这么做上很大的重量",
+   "music": 0.0
+  },
+  {
+   "from": 205.08,
+   "to": 207.08,
+   "sid": 52,
+   "location": 2,
+   "content": "我们要做全程的动作",
+   "music": 0.0
+  },
+  {
+   "from": 207.08,
+   "to": 209.75,
+   "sid": 53,
+   "location": 2,
+   "content": "保证每一下动作完成的质量",
+   "music": 0.0
+  },
+  {
+   "from": 209.75,
+   "to": 211.04,
+   "sid": 54,
+   "location": 2,
+   "content": "还是那句话",
+   "music": 0.0
+  },
+  {
+   "from": 211.04,
+   "to": 212.62,
+   "sid": 55,
+   "location": 2,
+   "content": "不要欺骗你自己",
+   "music": 0.0
+  },
+  {
+   "from": 213.04,
+   "to": 216.34,
+   "sid": 56,
+   "location": 2,
+   "content": "第四脖子往前探",
+   "music": 0.0
+  },
+  {
+   "from": 224.439,
+   "to": 227.84,
+   "sid": 57,
+   "location": 2,
+   "content": "我们划船的时候目视前方",
+   "music": 0.0
+  },
+  {
+   "from": 241.96,
+   "to": 245.13,
+   "sid": 58,
+   "location": 2,
+   "content": "想要进交流群的同学加这个号",
+   "music": 0.0
+  },
+  {
+   "from": 245.13,
+   "to": 247.44,
+   "sid": 59,
+   "location": 2,
+   "content": "咱们下期视频见",
+   "music": 0.0
+  },
+  {
+   "from": 247.44,
+   "to": 248.2,
+   "sid": 60,
+   "location": 2,
+   "content": "谢谢",
+   "music": 0.0
+  }
+ ]
+}

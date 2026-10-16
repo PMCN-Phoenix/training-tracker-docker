@@ -1,0 +1,1246 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.0,
+   "to": 1.72,
+   "sid": 1,
+   "location": 2,
+   "content": "健身中的你有没有感觉到练硬拉",
+   "music": 0.0
+  },
+  {
+   "from": 1.72,
+   "to": 2.12,
+   "sid": 2,
+   "location": 2,
+   "content": "划船",
+   "music": 0.0
+  },
+  {
+   "from": 2.12,
+   "to": 4.7,
+   "sid": 3,
+   "location": 2,
+   "content": "推举这些复合动作时动作很难保持稳定",
+   "music": 0.0
+  },
+  {
+   "from": 4.7,
+   "to": 5.62,
+   "sid": 4,
+   "location": 2,
+   "content": "你的健身计划中",
+   "music": 0.0
+  },
+  {
+   "from": 5.62,
+   "to": 7.6,
+   "sid": 5,
+   "location": 2,
+   "content": "有没有安排腰部竖脊肌的训练呢",
+   "music": 0.0
+  },
+  {
+   "from": 7.6,
+   "to": 8.78,
+   "sid": 6,
+   "location": 2,
+   "content": "你千万不要认为它是一块",
+   "music": 0.0
+  },
+  {
+   "from": 8.78,
+   "to": 9.98,
+   "sid": 7,
+   "location": 2,
+   "content": "不需要独立训练的肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 9.98,
+   "to": 12.06,
+   "sid": 8,
+   "location": 2,
+   "content": "如果长期不做专项竖脊肌训练",
+   "music": 0.0
+  },
+  {
+   "from": 12.06,
+   "to": 15.34,
+   "sid": 9,
+   "location": 2,
+   "content": "会让运动表现视觉效果和健康方面全面下降",
+   "music": 0.0
+  },
+  {
+   "from": 15.34,
+   "to": 17.24,
+   "sid": 10,
+   "location": 2,
+   "content": "此视频是背部训练思路的第三集",
+   "music": 0.0
+  },
+  {
+   "from": 17.24,
+   "to": 20.18,
+   "sid": 11,
+   "location": 2,
+   "content": "我们讲第三组竖脊肌和腰方肌",
+   "music": 0.0
+  },
+  {
+   "from": 21.54,
+   "to": 23.62,
+   "sid": 12,
+   "location": 2,
+   "content": "竖脊肌掌管着全身力量的传导",
+   "music": 0.0
+  },
+  {
+   "from": 23.62,
+   "to": 25.6,
+   "sid": 13,
+   "location": 2,
+   "content": "不管你练背练腿甚至练胸",
+   "music": 0.0
+  },
+  {
+   "from": 25.6,
+   "to": 27.62,
+   "sid": 14,
+   "location": 2,
+   "content": "都需需要竖脊肌来保持身体稳定",
+   "music": 0.0
+  },
+  {
+   "from": 27.62,
+   "to": 28.62,
+   "sid": 15,
+   "location": 2,
+   "content": "如果他太薄弱",
+   "music": 0.0
+  },
+  {
+   "from": 28.62,
+   "to": 29.86,
+   "sid": 16,
+   "location": 2,
+   "content": "会影响你的动作质量",
+   "music": 0.0
+  },
+  {
+   "from": 29.86,
+   "to": 31.2,
+   "sid": 17,
+   "location": 2,
+   "content": "大大增加受伤风险",
+   "music": 0.0
+  },
+  {
+   "from": 31.2,
+   "to": 32.62,
+   "sid": 18,
+   "location": 2,
+   "content": "很多人硬拉能拉的很重",
+   "music": 0.0
+  },
+  {
+   "from": 32.62,
+   "to": 33.88,
+   "sid": 19,
+   "location": 2,
+   "content": "但从来不练竖脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 33.88,
+   "to": 35.92,
+   "sid": 20,
+   "location": 2,
+   "content": "最终很可能在一大重量训练中",
+   "music": 0.0
+  },
+  {
+   "from": 35.92,
+   "to": 37.28,
+   "sid": 21,
+   "location": 2,
+   "content": "因为竖脊肌突然失利",
+   "music": 0.0
+  },
+  {
+   "from": 37.28,
+   "to": 38.6,
+   "sid": 22,
+   "location": 2,
+   "content": "导致腰椎间盘突出",
+   "music": 0.0
+  },
+  {
+   "from": 38.6,
+   "to": 41.06,
+   "sid": 23,
+   "location": 2,
+   "content": "加强竖脊肌也是对自己的安全引起重视",
+   "music": 0.0
+  },
+  {
+   "from": 41.06,
+   "to": 43.86,
+   "sid": 24,
+   "location": 2,
+   "content": "首先竖脊以及是由三块纵向排列的肌肉组成的",
+   "music": 0.0
+  },
+  {
+   "from": 43.86,
+   "to": 44.26,
+   "sid": 25,
+   "location": 2,
+   "content": "肌群",
+   "music": 0.0
+  },
+  {
+   "from": 44.26,
+   "to": 47.46,
+   "sid": 26,
+   "location": 2,
+   "content": "由内到外分别是最内侧紧贴脊柱的脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 47.46,
+   "to": 49.42,
+   "sid": 27,
+   "location": 2,
+   "content": "中间最粗最拉达的最长肌",
+   "music": 0.0
+  },
+  {
+   "from": 49.42,
+   "to": 51.58,
+   "sid": 28,
+   "location": 2,
+   "content": "最外侧沿着肋骨边缘的髂肋肌",
+   "music": 0.0
+  },
+  {
+   "from": 51.58,
+   "to": 54.46,
+   "sid": 29,
+   "location": 2,
+   "content": "竖脊肌群从你的尾巴骨一直延伸到你的后脑勺",
+   "music": 0.0
+  },
+  {
+   "from": 54.46,
+   "to": 55.66,
+   "sid": 30,
+   "location": 2,
+   "content": "贯穿整个脊柱",
+   "music": 0.0
+  },
+  {
+   "from": 55.66,
+   "to": 57.14,
+   "sid": 31,
+   "location": 2,
+   "content": "主要功能是脊柱伸展",
+   "music": 0.0
+  },
+  {
+   "from": 57.14,
+   "to": 59.5,
+   "sid": 32,
+   "location": 2,
+   "content": "就是把脊柱从弯曲到伸直的过程",
+   "music": 0.0
+  },
+  {
+   "from": 59.5,
+   "to": 62.68,
+   "sid": 33,
+   "location": 2,
+   "content": "功能上可按脊柱截段划分为胸椎段和腰椎段",
+   "music": 0.0
+  },
+  {
+   "from": 62.68,
+   "to": 63.2,
+   "sid": 34,
+   "location": 2,
+   "content": "腰椎段",
+   "music": 0.0
+  },
+  {
+   "from": 63.2,
+   "to": 65.12,
+   "sid": 35,
+   "location": 2,
+   "content": "竖脊肌变强后再进行减脂",
+   "music": 0.0
+  },
+  {
+   "from": 65.12,
+   "to": 66.54,
+   "sid": 36,
+   "location": 2,
+   "content": "就会让下背出现线条",
+   "music": 0.0
+  },
+  {
+   "from": 66.54,
+   "to": 67.56,
+   "sid": 37,
+   "location": 2,
+   "content": "俗称圣诞树",
+   "music": 0.0
+  },
+  {
+   "from": 67.56,
+   "to": 69.06,
+   "sid": 38,
+   "location": 2,
+   "content": "背阔肌是圣诞树的外框",
+   "music": 0.0
+  },
+  {
+   "from": 69.06,
+   "to": 70.76,
+   "sid": 39,
+   "location": 2,
+   "content": "负责勾勒两侧的边界",
+   "music": 0.0
+  },
+  {
+   "from": 70.76,
+   "to": 73.32,
+   "sid": 40,
+   "location": 2,
+   "content": "中间凸起的两条肌肉是竖脊肌中的最长肌",
+   "music": 0.0
+  },
+  {
+   "from": 73.32,
+   "to": 74.14,
+   "sid": 41,
+   "location": 2,
+   "content": "你可能会问",
+   "music": 0.0
+  },
+  {
+   "from": 74.14,
+   "to": 75.68,
+   "sid": 42,
+   "location": 2,
+   "content": "有些人的下背会出现像这种",
+   "music": 0.0
+  },
+  {
+   "from": 75.68,
+   "to": 77.22,
+   "sid": 43,
+   "location": 2,
+   "content": "像腹肌一样的横向纹路",
+   "music": 0.0
+  },
+  {
+   "from": 77.22,
+   "to": 78.72,
+   "sid": 44,
+   "location": 2,
+   "content": "这是不是横着长的竖脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 78.72,
+   "to": 80.32,
+   "sid": 45,
+   "location": 2,
+   "content": "竖脊肌绝对不会横着长",
+   "music": 0.0
+  },
+  {
+   "from": 80.32,
+   "to": 81.72,
+   "sid": 46,
+   "location": 2,
+   "content": "这是下后锯肌的线条",
+   "music": 0.0
+  },
+  {
+   "from": 81.72,
+   "to": 83.4,
+   "sid": 47,
+   "location": 2,
+   "content": "是背部很罕见的线条",
+   "music": 0.0
+  },
+  {
+   "from": 83.4,
+   "to": 85.02,
+   "sid": 48,
+   "location": 2,
+   "content": "下后举肌在背阔肌的深层",
+   "music": 0.0
+  },
+  {
+   "from": 85.02,
+   "to": 86.82,
+   "sid": 49,
+   "location": 2,
+   "content": "竖脊肌的浅层能是降肋",
+   "music": 0.0
+  },
+  {
+   "from": 86.82,
+   "to": 87.58,
+   "sid": 50,
+   "location": 2,
+   "content": "辅助吐气",
+   "music": 0.0
+  },
+  {
+   "from": 87.58,
+   "to": 89.58,
+   "sid": 51,
+   "location": 2,
+   "content": "同时在脊柱侧屈和同侧旋转中",
+   "music": 0.0
+  },
+  {
+   "from": 89.58,
+   "to": 90.92,
+   "sid": 52,
+   "location": 2,
+   "content": "起到辅助稳定作用",
+   "music": 0.0
+  },
+  {
+   "from": 90.92,
+   "to": 92.38,
+   "sid": 53,
+   "location": 2,
+   "content": "只有当体脂率超低时",
+   "music": 0.0
+  },
+  {
+   "from": 92.38,
+   "to": 93.04,
+   "sid": 54,
+   "location": 2,
+   "content": "才会显现",
+   "music": 0.0
+  },
+  {
+   "from": 93.04,
+   "to": 95.04,
+   "sid": 55,
+   "location": 2,
+   "content": "比腹肌和圣诞树还要难出",
+   "music": 0.0
+  },
+  {
+   "from": 95.04,
+   "to": 96.2,
+   "sid": 56,
+   "location": 2,
+   "content": "几乎不能练出来",
+   "music": 0.0
+  },
+  {
+   "from": 96.2,
+   "to": 97.9,
+   "sid": 57,
+   "location": 2,
+   "content": "它的形态和数量是天生的",
+   "music": 0.0
+  },
+  {
+   "from": 97.9,
+   "to": 99.2,
+   "sid": 58,
+   "location": 2,
+   "content": "训练只会让它稍微饱满",
+   "music": 0.0
+  },
+  {
+   "from": 99.2,
+   "to": 101.1,
+   "sid": 59,
+   "location": 2,
+   "content": "一内内几乎所有俯身的动作",
+   "music": 0.0
+  },
+  {
+   "from": 101.1,
+   "to": 103.96,
+   "sid": 60,
+   "location": 2,
+   "content": "尤其是划船发力吐气时会最明显的显现",
+   "music": 0.0
+  },
+  {
+   "from": 103.96,
+   "to": 104.54,
+   "sid": 61,
+   "location": 2,
+   "content": "重点来了",
+   "music": 0.0
+  },
+  {
+   "from": 104.54,
+   "to": 106.86,
+   "sid": 62,
+   "location": 2,
+   "content": "不是所有的竖脊肌都需要单独训练",
+   "music": 0.0
+  },
+  {
+   "from": 106.86,
+   "to": 109.48,
+   "sid": 63,
+   "location": 2,
+   "content": "比如胸椎段竖脊肌一般不需要单独训练",
+   "music": 0.0
+  },
+  {
+   "from": 109.48,
+   "to": 111.7,
+   "sid": 64,
+   "location": 2,
+   "content": "你做的所有划船下拉硬拉动作",
+   "music": 0.0
+  },
+  {
+   "from": 111.7,
+   "to": 113.5,
+   "sid": 65,
+   "location": 2,
+   "content": "胸椎段竖脊肌都会自动发力",
+   "music": 0.0
+  },
+  {
+   "from": 113.5,
+   "to": 115.74,
+   "sid": 66,
+   "location": 2,
+   "content": "稳定脊柱已经得到了足够的刺激",
+   "music": 0.0
+  },
+  {
+   "from": 115.74,
+   "to": 118.12,
+   "sid": 67,
+   "location": 2,
+   "content": "而腰椎段竖脊肌必须重点训练",
+   "music": 0.0
+  },
+  {
+   "from": 118.12,
+   "to": 120.22,
+   "sid": 68,
+   "location": 2,
+   "content": "因为他是下背稳定的重点薄弱",
+   "music": 0.0
+  },
+  {
+   "from": 120.22,
+   "to": 121.78,
+   "sid": 69,
+   "location": 2,
+   "content": "会直接导致许多复合动作",
+   "music": 0.0
+  },
+  {
+   "from": 121.78,
+   "to": 122.88,
+   "sid": 70,
+   "location": 2,
+   "content": "腰椎稳定性不足",
+   "music": 0.0
+  },
+  {
+   "from": 122.88,
+   "to": 124.68,
+   "sid": 71,
+   "location": 2,
+   "content": "日常久坐会让他极度薄弱",
+   "music": 0.0
+  },
+  {
+   "from": 124.68,
+   "to": 126.06,
+   "sid": 72,
+   "location": 2,
+   "content": "几乎所有人都需要加强",
+   "music": 0.0
+  },
+  {
+   "from": 126.06,
+   "to": 127.54,
+   "sid": 73,
+   "location": 2,
+   "content": "我只推荐一个训练动作",
+   "music": 0.0
+  },
+  {
+   "from": 127.54,
+   "to": 128.639,
+   "sid": 74,
+   "location": 2,
+   "content": "就是山羊挺身",
+   "music": 0.0
+  },
+  {
+   "from": 128.639,
+   "to": 130.359,
+   "sid": 75,
+   "location": 2,
+   "content": "它是一个既能练腰椎段竖脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 130.359,
+   "to": 132.159,
+   "sid": 76,
+   "location": 2,
+   "content": "又能练臀和大腿后侧的动作",
+   "music": 0.0
+  },
+  {
+   "from": 132.159,
+   "to": 133.759,
+   "sid": 77,
+   "location": 2,
+   "content": "我们只讲练竖脊肌的方法",
+   "music": 0.0
+  },
+  {
+   "from": 133.759,
+   "to": 135.54,
+   "sid": 78,
+   "location": 2,
+   "content": "首先器械的前挡板要调节到",
+   "music": 0.0
+  },
+  {
+   "from": 135.54,
+   "to": 137.08,
+   "sid": 79,
+   "location": 2,
+   "content": "刚好卡在你的髂前上棘",
+   "music": 0.0
+  },
+  {
+   "from": 137.08,
+   "to": 139.24,
+   "sid": 80,
+   "location": 2,
+   "content": "也就是骨盆最前面的骨头尖儿的位置",
+   "music": 0.0
+  },
+  {
+   "from": 139.24,
+   "to": 141.76,
+   "sid": 81,
+   "location": 2,
+   "content": "如果挡板太会把你整个骨盆固定住",
+   "music": 0.0
+  },
+  {
+   "from": 141.76,
+   "to": 142.82,
+   "sid": 82,
+   "location": 2,
+   "content": "腰椎无法活动",
+   "music": 0.0
+  },
+  {
+   "from": 142.82,
+   "to": 143.66,
+   "sid": 83,
+   "location": 2,
+   "content": "如果挡板太低",
+   "music": 0.0
+  },
+  {
+   "from": 143.66,
+   "to": 144.72,
+   "sid": 84,
+   "location": 2,
+   "content": "骨盆会向前滑",
+   "music": 0.0
+  },
+  {
+   "from": 144.72,
+   "to": 146.48,
+   "sid": 85,
+   "location": 2,
+   "content": "腰椎过度弯曲容易受伤",
+   "music": 0.0
+  },
+  {
+   "from": 146.48,
+   "to": 147.58,
+   "sid": 86,
+   "location": 2,
+   "content": "双脚踩实踏板",
+   "music": 0.0
+  },
+  {
+   "from": 147.58,
+   "to": 148.68,
+   "sid": 87,
+   "location": 2,
+   "content": "脚尖向外15度",
+   "music": 0.0
+  },
+  {
+   "from": 148.68,
+   "to": 149.64,
+   "sid": 88,
+   "location": 2,
+   "content": "腿部自然伸直",
+   "music": 0.0
+  },
+  {
+   "from": 149.64,
+   "to": 150.76,
+   "sid": 89,
+   "location": 2,
+   "content": "不要刻意主动发力",
+   "music": 0.0
+  },
+  {
+   "from": 150.76,
+   "to": 151.44,
+   "sid": 90,
+   "location": 2,
+   "content": "锁死腿部",
+   "music": 0.0
+  },
+  {
+   "from": 151.44,
+   "to": 152.7,
+   "sid": 91,
+   "location": 2,
+   "content": "也不需要主动弯曲",
+   "music": 0.0
+  },
+  {
+   "from": 152.7,
+   "to": 154.32,
+   "sid": 92,
+   "location": 2,
+   "content": "大腿前侧紧贴挡板",
+   "music": 0.0
+  },
+  {
+   "from": 154.32,
+   "to": 155.7,
+   "sid": 93,
+   "location": 2,
+   "content": "双手交叉抱在胸前",
+   "music": 0.0
+  },
+  {
+   "from": 155.7,
+   "to": 156.48,
+   "sid": 94,
+   "location": 2,
+   "content": "不建议抱头",
+   "music": 0.0
+  },
+  {
+   "from": 156.48,
+   "to": 156.82,
+   "sid": 95,
+   "location": 2,
+   "content": "抱头",
+   "music": 0.0
+  },
+  {
+   "from": 156.82,
+   "to": 158.34,
+   "sid": 96,
+   "location": 2,
+   "content": "会给颈椎带来额外剪切力",
+   "music": 0.0
+  },
+  {
+   "from": 158.34,
+   "to": 159.36,
+   "sid": 97,
+   "location": 2,
+   "content": "会让脖子很酸",
+   "music": 0.0
+  },
+  {
+   "from": 159.36,
+   "to": 160.54,
+   "sid": 98,
+   "location": 2,
+   "content": "先曲胸椎再屈",
+   "music": 0.0
+  },
+  {
+   "from": 160.54,
+   "to": 162.04,
+   "sid": 99,
+   "location": 2,
+   "content": "腰椎逐节向下弯曲",
+   "music": 0.0
+  },
+  {
+   "from": 162.04,
+   "to": 163.78,
+   "sid": 100,
+   "location": 2,
+   "content": "骨盆和大腿全程固定不动",
+   "music": 0.0
+  },
+  {
+   "from": 163.78,
+   "to": 165.48,
+   "sid": 101,
+   "location": 2,
+   "content": "下放速度控制在两到三秒",
+   "music": 0.0
+  },
+  {
+   "from": 165.48,
+   "to": 167.5,
+   "sid": 102,
+   "location": 2,
+   "content": "感受腰椎竖脊肌被慢慢拉长",
+   "music": 0.0
+  },
+  {
+   "from": 167.5,
+   "to": 168.42,
+   "sid": 103,
+   "location": 2,
+   "content": "向上阶段发力",
+   "music": 0.0
+  },
+  {
+   "from": 168.42,
+   "to": 169.44,
+   "sid": 104,
+   "location": 2,
+   "content": "把上半身拉起来",
+   "music": 0.0
+  },
+  {
+   "from": 169.44,
+   "to": 172.08,
+   "sid": 105,
+   "location": 2,
+   "content": "向上拉到身体与大腿呈一条直线即可",
+   "music": 0.0
+  },
+  {
+   "from": 172.08,
+   "to": 173.26,
+   "sid": 106,
+   "location": 2,
+   "content": "不要向上伸展过多",
+   "music": 0.0
+  },
+  {
+   "from": 173.26,
+   "to": 175.16,
+   "sid": 107,
+   "location": 2,
+   "content": "过多伸展会挤压腰椎小关节",
+   "music": 0.0
+  },
+  {
+   "from": 175.16,
+   "to": 176.24,
+   "sid": 108,
+   "location": 2,
+   "content": "长期会导致腰痛",
+   "music": 0.0
+  },
+  {
+   "from": 176.24,
+   "to": 177.52,
+   "sid": 109,
+   "location": 2,
+   "content": "顶峰停顿一到两秒",
+   "music": 0.0
+  },
+  {
+   "from": 177.52,
+   "to": 178.82,
+   "sid": 110,
+   "location": 2,
+   "content": "感受竖脊肌的紧绷感",
+   "music": 0.0
+  },
+  {
+   "from": 178.82,
+   "to": 180.02,
+   "sid": 111,
+   "location": 2,
+   "content": "呼吸节奏为向下",
+   "music": 0.0
+  },
+  {
+   "from": 180.02,
+   "to": 181.18,
+   "sid": 112,
+   "location": 2,
+   "content": "俯身时缓慢吸气",
+   "music": 0.0
+  },
+  {
+   "from": 181.18,
+   "to": 182.54,
+   "sid": 113,
+   "location": 2,
+   "content": "向上拉起时吐气",
+   "music": 0.0
+  },
+  {
+   "from": 182.54,
+   "to": 184.16,
+   "sid": 114,
+   "location": 2,
+   "content": "顶峰收缩时憋气一秒",
+   "music": 0.0
+  },
+  {
+   "from": 184.16,
+   "to": 186.14,
+   "sid": 115,
+   "location": 2,
+   "content": "也可以用杠铃片或哑铃作为负重",
+   "music": 0.0
+  },
+  {
+   "from": 186.14,
+   "to": 188.3,
+   "sid": 116,
+   "location": 2,
+   "content": "这个动作建议大在每次背部训练日的时候",
+   "music": 0.0
+  },
+  {
+   "from": 188.3,
+   "to": 189.82,
+   "sid": 117,
+   "location": 2,
+   "content": "最后做三组小重量",
+   "music": 0.0
+  },
+  {
+   "from": 189.82,
+   "to": 191.52,
+   "sid": 118,
+   "location": 2,
+   "content": "每组12~15次即可",
+   "music": 0.0
+  },
+  {
+   "from": 191.52,
+   "to": 193.08,
+   "sid": 119,
+   "location": 2,
+   "content": "如果第二天安排了腿部训练",
+   "music": 0.0
+  },
+  {
+   "from": 193.08,
+   "to": 193.8,
+   "sid": 120,
+   "location": 2,
+   "content": "那就不要做了",
+   "music": 0.0
+  },
+  {
+   "from": 193.8,
+   "to": 196.24,
+   "sid": 121,
+   "location": 2,
+   "content": "我不建议在腿部训练日前一天练竖脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 196.24,
+   "to": 197.58,
+   "sid": 122,
+   "location": 2,
+   "content": "可以放到其他日子做",
+   "music": 0.0
+  },
+  {
+   "from": 197.58,
+   "to": 198.94,
+   "sid": 123,
+   "location": 2,
+   "content": "最后我们讲一下腰方肌",
+   "music": 0.0
+  },
+  {
+   "from": 198.94,
+   "to": 200.22,
+   "sid": 124,
+   "location": 2,
+   "content": "它长在腰椎两侧",
+   "music": 0.0
+  },
+  {
+   "from": 200.22,
+   "to": 201.52,
+   "sid": 125,
+   "location": 2,
+   "content": "是一块四边形的肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 201.52,
+   "to": 202.94,
+   "sid": 126,
+   "location": 2,
+   "content": "核心功能是脊柱侧屈",
+   "music": 0.0
+  },
+  {
+   "from": 202.94,
+   "to": 204.66,
+   "sid": 127,
+   "location": 2,
+   "content": "稳定腰椎和固定第12肋",
+   "music": 0.0
+  },
+  {
+   "from": 204.66,
+   "to": 205.88,
+   "sid": 128,
+   "location": 2,
+   "content": "也就是向侧面弯腰",
+   "music": 0.0
+  },
+  {
+   "from": 205.88,
+   "to": 207.1,
+   "sid": 129,
+   "location": 2,
+   "content": "你做单腿动作时",
+   "music": 0.0
+  },
+  {
+   "from": 207.1,
+   "to": 208.16,
+   "sid": 130,
+   "location": 2,
+   "content": "腰方肌就在发力",
+   "music": 0.0
+  },
+  {
+   "from": 208.16,
+   "to": 209.18,
+   "sid": 131,
+   "location": 2,
+   "content": "保持身体平衡",
+   "music": 0.0
+  },
+  {
+   "from": 209.18,
+   "to": 211.02,
+   "sid": 132,
+   "location": 2,
+   "content": "在背部稳定中是纯稳定肌",
+   "music": 0.0
+  },
+  {
+   "from": 211.02,
+   "to": 212.28,
+   "sid": 133,
+   "location": 2,
+   "content": "不是主要训练目标",
+   "music": 0.0
+  },
+  {
+   "from": 212.28,
+   "to": 213.38,
+   "sid": 134,
+   "location": 2,
+   "content": "所有俯身动作",
+   "music": 0.0
+  },
+  {
+   "from": 213.38,
+   "to": 214.24,
+   "sid": 135,
+   "location": 2,
+   "content": "硬拉划船",
+   "music": 0.0
+  },
+  {
+   "from": 214.24,
+   "to": 215.56,
+   "sid": 136,
+   "location": 2,
+   "content": "腰方肌都会自动发力",
+   "music": 0.0
+  },
+  {
+   "from": 215.56,
+   "to": 216.22,
+   "sid": 137,
+   "location": 2,
+   "content": "稳定身体",
+   "music": 0.0
+  },
+  {
+   "from": 216.22,
+   "to": 217.4,
+   "sid": 138,
+   "location": 2,
+   "content": "不需要单独训练它",
+   "music": 0.0
+  },
+  {
+   "from": 217.4,
+   "to": 217.96,
+   "sid": 139,
+   "location": 2,
+   "content": "健康的人",
+   "music": 0.0
+  },
+  {
+   "from": 217.96,
+   "to": 220.32,
+   "sid": 140,
+   "location": 2,
+   "content": "只需要在训练前做2分钟的拉伸和放松",
+   "music": 0.0
+  },
+  {
+   "from": 220.32,
+   "to": 221.96,
+   "sid": 141,
+   "location": 2,
+   "content": "保证它的功能正常就可以了",
+   "music": 0.0
+  },
+  {
+   "from": 221.96,
+   "to": 222.74,
+   "sid": 142,
+   "location": 2,
+   "content": "还有一种情况",
+   "music": 0.0
+  },
+  {
+   "from": 222.74,
+   "to": 224.74,
+   "sid": 143,
+   "location": 2,
+   "content": "就是你有明显的单侧腰痛和高低",
+   "music": 0.0
+  },
+  {
+   "from": 224.74,
+   "to": 225.9,
+   "sid": 144,
+   "location": 2,
+   "content": "肩以及骨盆倾斜",
+   "music": 0.0
+  },
+  {
+   "from": 225.9,
+   "to": 228.8,
+   "sid": 145,
+   "location": 2,
+   "content": "那就有可能是因为腰方肌肌力不平衡导致的",
+   "music": 0.0
+  },
+  {
+   "from": 228.8,
+   "to": 230.42,
+   "sid": 146,
+   "location": 2,
+   "content": "这种情况就可以强化一下",
+   "music": 0.0
+  },
+  {
+   "from": 230.42,
+   "to": 231.76,
+   "sid": 147,
+   "location": 2,
+   "content": "但这是运动康复领域",
+   "music": 0.0
+  },
+  {
+   "from": 231.76,
+   "to": 233.06,
+   "sid": 148,
+   "location": 2,
+   "content": "本视频不进行讲解",
+   "music": 0.0
+  },
+  {
+   "from": 233.06,
+   "to": 234.4,
+   "sid": 149,
+   "location": 2,
+   "content": "下一集也就是第四集",
+   "music": 0.0
+  },
+  {
+   "from": 234.4,
+   "to": 236.3,
+   "sid": 150,
+   "location": 2,
+   "content": "我们将迎来练这系列的大结局",
+   "music": 0.0
+  },
+  {
+   "from": 236.3,
+   "to": 238.78,
+   "sid": 151,
+   "location": 2,
+   "content": "我将详细讲解兼秀司机和其余协同",
+   "music": 0.0
+  },
+  {
+   "from": 238.78,
+   "to": 240.56,
+   "sid": 152,
+   "location": 2,
+   "content": "稳定肌群的功能以及热身方式",
+   "music": 0.0
+  },
+  {
+   "from": 240.56,
+   "to": 242.5,
+   "sid": 153,
+   "location": 2,
+   "content": "并且再结合前三集的所有内容",
+   "music": 0.0
+  },
+  {
+   "from": 242.5,
+   "to": 245.46,
+   "sid": 154,
+   "location": 2,
+   "content": "给大家制定出最安全健康高效的练背方案",
+   "music": 0.0
+  },
+  {
+   "from": 245.46,
+   "to": 248.52,
+   "sid": 155,
+   "location": 2,
+   "content": "不是你自己给你自己制定你的专属方案",
+   "music": 0.0
+  }
+ ]
+}

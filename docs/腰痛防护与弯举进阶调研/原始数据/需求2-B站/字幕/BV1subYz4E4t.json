@@ -1,0 +1,2700 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "兄弟们练二头不需要花里胡哨的动作",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 4.1,
+      "sid": 2,
+      "location": 2,
+      "content": "这里介绍十个练二头的动作",
+      "music": 0.0
+    },
+    {
+      "from": 4.1,
+      "to": 5.16,
+      "sid": 3,
+      "location": 2,
+      "content": "从最差到最好",
+      "music": 0.0
+    },
+    {
+      "from": 5.16,
+      "to": 5.98,
+      "sid": 4,
+      "location": 2,
+      "content": "做了一个排名",
+      "music": 0.0
+    },
+    {
+      "from": 5.98,
+      "to": 8.28,
+      "sid": 5,
+      "location": 2,
+      "content": "学会你也能拥有一对硕大的麒麟臂",
+      "music": 0.0
+    },
+    {
+      "from": 8.28,
+      "to": 9.36,
+      "sid": 6,
+      "location": 2,
+      "content": "排名第十的动作",
+      "music": 0.0
+    },
+    {
+      "from": 9.36,
+      "to": 10.54,
+      "sid": 7,
+      "location": 2,
+      "content": "正手杠杆弯举",
+      "music": 0.0
+    },
+    {
+      "from": 10.54,
+      "to": 11.92,
+      "sid": 8,
+      "location": 2,
+      "content": "这个动作虽然是弯举啊",
+      "music": 0.0
+    },
+    {
+      "from": 11.92,
+      "to": 13.88,
+      "sid": 9,
+      "location": 2,
+      "content": "但是我不建议大家用来练二头",
+      "music": 0.0
+    },
+    {
+      "from": 13.88,
+      "to": 16.24,
+      "sid": 10,
+      "location": 2,
+      "content": "要知道能精准刺激二头的弯举动作",
+      "music": 0.0
+    },
+    {
+      "from": 16.24,
+      "to": 17.48,
+      "sid": 11,
+      "location": 2,
+      "content": "有一个关键的前提",
+      "music": 0.0
+    },
+    {
+      "from": 17.48,
+      "to": 19.8,
+      "sid": 12,
+      "location": 2,
+      "content": "那就是手心朝向自己的同时呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.8,
+      "to": 20.98,
+      "sid": 13,
+      "location": 2,
+      "content": "小臂朝外打开",
+      "music": 0.0
+    },
+    {
+      "from": 20.98,
+      "to": 23.78,
+      "sid": 14,
+      "location": 2,
+      "content": "这样才能让二头肌的肌纤维充分参与发力",
+      "music": 0.0
+    },
+    {
+      "from": 23.78,
+      "to": 25.02,
+      "sid": 15,
+      "location": 2,
+      "content": "而正手杠杆弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 25.02,
+      "to": 26.18,
+      "sid": 16,
+      "location": 2,
+      "content": "手心是朝下的",
+      "music": 0.0
+    },
+    {
+      "from": 26.18,
+      "to": 27.94,
+      "sid": 17,
+      "location": 2,
+      "content": "发力时小臂会向内旋转",
+      "music": 0.0
+    },
+    {
+      "from": 27.94,
+      "to": 30.82,
+      "sid": 18,
+      "location": 2,
+      "content": "这样就会更偏向训练我们的攻击和肱桡肌",
+      "music": 0.0
+    },
+    {
+      "from": 30.82,
+      "to": 33.34,
+      "sid": 19,
+      "location": 2,
+      "content": "二头的收益会减少50%都不止",
+      "music": 0.0
+    },
+    {
+      "from": 33.34,
+      "to": 35.7,
+      "sid": 20,
+      "location": 2,
+      "content": "但要是想刺激攻击和肱桡肌的兄弟啊",
+      "music": 0.0
+    },
+    {
+      "from": 35.7,
+      "to": 37.46,
+      "sid": 21,
+      "location": 2,
+      "content": "这个动作反倒是个不错的选择",
+      "music": 0.0
+    },
+    {
+      "from": 37.46,
+      "to": 38.56,
+      "sid": 22,
+      "location": 2,
+      "content": "排名第九的动作",
+      "music": 0.0
+    },
+    {
+      "from": 38.56,
+      "to": 39.42,
+      "sid": 23,
+      "location": 2,
+      "content": "杠铃片弯举",
+      "music": 0.0
+    },
+    {
+      "from": 39.42,
+      "to": 40.6,
+      "sid": 24,
+      "location": 2,
+      "content": "这种鸡肋的动作",
+      "music": 0.0
+    },
+    {
+      "from": 40.6,
+      "to": 42.22,
+      "sid": 25,
+      "location": 2,
+      "content": "咱们在健身房碰都不要碰",
+      "music": 0.0
+    },
+    {
+      "from": 42.22,
+      "to": 44.36,
+      "sid": 26,
+      "location": 2,
+      "content": "因为这个动作其实是练我们攻击的",
+      "music": 0.0
+    },
+    {
+      "from": 44.36,
+      "to": 45.92,
+      "sid": 27,
+      "location": 2,
+      "content": "就是大臂侧面那块肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 45.92,
+      "to": 47.04,
+      "sid": 28,
+      "location": 2,
+      "content": "对我们二头的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 47.04,
+      "to": 48.24,
+      "sid": 29,
+      "location": 2,
+      "content": "那是1/3都没有",
+      "music": 0.0
+    },
+    {
+      "from": 48.24,
+      "to": 49.18,
+      "sid": 30,
+      "location": 2,
+      "content": "咱们新手练二头",
+      "music": 0.0
+    },
+    {
+      "from": 49.18,
+      "to": 51.1,
+      "sid": 31,
+      "location": 2,
+      "content": "首先要考虑的是整体的维度",
+      "music": 0.0
+    },
+    {
+      "from": 51.1,
+      "to": 52.92,
+      "sid": 32,
+      "location": 2,
+      "content": "只盯着这一小块肌肉死磕",
+      "music": 0.0
+    },
+    {
+      "from": 52.92,
+      "to": 54.38,
+      "sid": 33,
+      "location": 2,
+      "content": "就算把他练的再突出",
+      "music": 0.0
+    },
+    {
+      "from": 54.38,
+      "to": 55.5,
+      "sid": 34,
+      "location": 2,
+      "content": "你二头不饱满",
+      "music": 0.0
+    },
+    {
+      "from": 55.5,
+      "to": 56.74,
+      "sid": 35,
+      "location": 2,
+      "content": "也很难被人注意到",
+      "music": 0.0
+    },
+    {
+      "from": 56.74,
+      "to": 59.36,
+      "sid": 36,
+      "location": 2,
+      "content": "所以新手要做的首先是要把肉量堆起来",
+      "music": 0.0
+    },
+    {
+      "from": 59.36,
+      "to": 62.52,
+      "sid": 37,
+      "location": 2,
+      "content": "等你哪天能轻松用50kg的杠铃弯举做足了",
+      "music": 0.0
+    },
+    {
+      "from": 62.52,
+      "to": 63.66,
+      "sid": 38,
+      "location": 2,
+      "content": "再来练它也不迟",
+      "music": 0.0
+    },
+    {
+      "from": 63.66,
+      "to": 65.88,
+      "sid": 39,
+      "location": 2,
+      "content": "现阶段没必要在这上面浪费时间",
+      "music": 0.0
+    },
+    {
+      "from": 65.88,
+      "to": 66.94,
+      "sid": 40,
+      "location": 2,
+      "content": "排名第八的动作",
+      "music": 0.0
+    },
+    {
+      "from": 66.94,
+      "to": 67.66,
+      "sid": 41,
+      "location": 2,
+      "content": "锤式弯举",
+      "music": 0.0
+    },
+    {
+      "from": 67.66,
+      "to": 69.28,
+      "sid": 42,
+      "location": 2,
+      "content": "这个动作以练攻击为主",
+      "music": 0.0
+    },
+    {
+      "from": 69.28,
+      "to": 70.88,
+      "sid": 43,
+      "location": 2,
+      "content": "顺带也能刺激到我们二头",
+      "music": 0.0
+    },
+    {
+      "from": 70.88,
+      "to": 72.42,
+      "sid": 44,
+      "location": 2,
+      "content": "但我在健身房观察过",
+      "music": 0.0
+    },
+    {
+      "from": 72.42,
+      "to": 74.42,
+      "sid": 45,
+      "location": 2,
+      "content": "很多人做这个动作都做不标准",
+      "music": 0.0
+    },
+    {
+      "from": 74.42,
+      "to": 75.78,
+      "sid": 46,
+      "location": 2,
+      "content": "单纯就是靠小臂发力",
+      "music": 0.0
+    },
+    {
+      "from": 75.78,
+      "to": 76.74,
+      "sid": 47,
+      "location": 2,
+      "content": "把哑铃举了起来",
+      "music": 0.0
+    },
+    {
+      "from": 76.74,
+      "to": 77.58,
+      "sid": 48,
+      "location": 2,
+      "content": "别说二头了",
+      "music": 0.0
+    },
+    {
+      "from": 77.58,
+      "to": 79.1,
+      "sid": 49,
+      "location": 2,
+      "content": "连攻击都没有参与进来",
+      "music": 0.0
+    },
+    {
+      "from": 79.1,
+      "to": 80.02,
+      "sid": 50,
+      "location": 2,
+      "content": "纯纯的是瞎搞",
+      "music": 0.0
+    },
+    {
+      "from": 80.02,
+      "to": 82.94,
+      "sid": 51,
+      "location": 2,
+      "content": "所以做这个动作的正确方法是大臂要保持不动",
+      "music": 0.0
+    },
+    {
+      "from": 82.94,
+      "to": 83.82,
+      "sid": 52,
+      "location": 2,
+      "content": "抬起哑铃时",
+      "music": 0.0
+    },
+    {
+      "from": 83.82,
+      "to": 85.7,
+      "sid": 53,
+      "location": 2,
+      "content": "记得让小臂碰到二头肌弯",
+      "music": 0.0
+    },
+    {
+      "from": 85.7,
+      "to": 87.28,
+      "sid": 54,
+      "location": 2,
+      "content": "举起来时记得顶峰收缩",
+      "music": 0.0
+    },
+    {
+      "from": 87.28,
+      "to": 89.1,
+      "sid": 55,
+      "location": 2,
+      "content": "这样攻击和二头才能受力",
+      "music": 0.0
+    },
+    {
+      "from": 89.1,
+      "to": 91.38,
+      "sid": 56,
+      "location": 2,
+      "content": "但毕竟这个动作对我们的二头作用不大",
+      "music": 0.0
+    },
+    {
+      "from": 91.38,
+      "to": 92.7,
+      "sid": 57,
+      "location": 2,
+      "content": "没必要主攻这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 92.7,
+      "to": 95.66,
+      "sid": 58,
+      "location": 2,
+      "content": "只建议在做哑铃弯举的最后来几下就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 96.7,
+      "sid": 59,
+      "location": 2,
+      "content": "排名第七的动作",
+      "music": 0.0
+    },
+    {
+      "from": 96.7,
+      "to": 97.5,
+      "sid": 60,
+      "location": 2,
+      "content": "蜘蛛弯举",
+      "music": 0.0
+    },
+    {
+      "from": 97.5,
+      "to": 99.26,
+      "sid": 61,
+      "location": 2,
+      "content": "这个动作顶峰收缩确实牛",
+      "music": 0.0
+    },
+    {
+      "from": 99.26,
+      "to": 101.02,
+      "sid": 62,
+      "location": 2,
+      "content": "但是当哑铃下放到最低点",
+      "music": 0.0
+    },
+    {
+      "from": 101.02,
+      "to": 103.14,
+      "sid": 63,
+      "location": 2,
+      "content": "二就感受不到任何的负荷重量",
+      "music": 0.0
+    },
+    {
+      "from": 103.14,
+      "to": 105.26,
+      "sid": 64,
+      "location": 2,
+      "content": "要知道咱们练二头拉伸和收缩",
+      "music": 0.0
+    },
+    {
+      "from": 105.26,
+      "to": 106.38,
+      "sid": 65,
+      "location": 2,
+      "content": "那是同等重要的",
+      "music": 0.0
+    },
+    {
+      "from": 106.38,
+      "to": 107.74,
+      "sid": 66,
+      "location": 2,
+      "content": "尤其是当我们拉伸的时候",
+      "music": 0.0
+    },
+    {
+      "from": 107.74,
+      "to": 109.76,
+      "sid": 67,
+      "location": 2,
+      "content": "那肌纤维的撕裂效率是最高的",
+      "music": 0.0
+    },
+    {
+      "from": 109.76,
+      "to": 111.78,
+      "sid": 68,
+      "location": 2,
+      "content": "这个动作光靠拉起来的收缩感啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.78,
+      "to": 114.76,
+      "sid": 69,
+      "location": 2,
+      "content": "却没有了最能促进肌纤维生长的拉伸阶段",
+      "music": 0.0
+    },
+    {
+      "from": 114.76,
+      "to": 116.52,
+      "sid": 70,
+      "location": 2,
+      "content": "这样对二头的刺激不够全面",
+      "music": 0.0
+    },
+    {
+      "from": 116.52,
+      "to": 118.6,
+      "sid": 71,
+      "location": 2,
+      "content": "增肌效果自然也是大打折扣",
+      "music": 0.0
+    },
+    {
+      "from": 118.6,
+      "to": 120.84,
+      "sid": 72,
+      "location": 2,
+      "content": "所以以后要是遇到像这种拉伸环节",
+      "music": 0.0
+    },
+    {
+      "from": 120.84,
+      "to": 121.84,
+      "sid": 73,
+      "location": 2,
+      "content": "效率不高的动作",
+      "music": 0.0
+    },
+    {
+      "from": 121.84,
+      "to": 123.2,
+      "sid": 74,
+      "location": 2,
+      "content": "基本可以直接淘汰了",
+      "music": 0.0
+    },
+    {
+      "from": 123.2,
+      "to": 124.28,
+      "sid": 75,
+      "location": 2,
+      "content": "排名第六的动作",
+      "music": 0.0
+    },
+    {
+      "from": 124.28,
+      "to": 125.44,
+      "sid": 76,
+      "location": 2,
+      "content": "蹲姿的绳索弯举",
+      "music": 0.0
+    },
+    {
+      "from": 125.44,
+      "to": 126.9,
+      "sid": 77,
+      "location": 2,
+      "content": "这个动作本身是挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 126.9,
+      "to": 129.54,
+      "sid": 78,
+      "location": 2,
+      "content": "毕竟绳索的持续张力能让肌肉一直受力",
+      "music": 0.0
+    },
+    {
+      "from": 129.54,
+      "to": 131.38,
+      "sid": 79,
+      "location": 2,
+      "content": "但可惜的是对新手不太友好",
+      "music": 0.0
+    },
+    {
+      "from": 131.38,
+      "to": 133.26,
+      "sid": 80,
+      "location": 2,
+      "content": "因为新手本身力量就不够",
+      "music": 0.0
+    },
+    {
+      "from": 133.26,
+      "to": 134.56,
+      "sid": 81,
+      "location": 2,
+      "content": "身体核心也稳不住",
+      "music": 0.0
+    },
+    {
+      "from": 134.56,
+      "to": 135.58,
+      "sid": 82,
+      "location": 2,
+      "content": "拉绳索的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 135.58,
+      "to": 137.42,
+      "sid": 83,
+      "location": 2,
+      "content": "精力全都用在维持平衡上了",
+      "music": 0.0
+    },
+    {
+      "from": 137.42,
+      "to": 139.42,
+      "sid": 84,
+      "location": 2,
+      "content": "注意怎么能全部集中到二头呢",
+      "music": 0.0
+    },
+    {
+      "from": 139.42,
+      "to": 141.46,
+      "sid": 85,
+      "location": 2,
+      "content": "而且这个动作一旦上点大重量了",
+      "music": 0.0
+    },
+    {
+      "from": 141.46,
+      "to": 143.06,
+      "sid": 86,
+      "location": 2,
+      "content": "就不是你主动在拉绳索了",
+      "music": 0.0
+    },
+    {
+      "from": 143.06,
+      "to": 144.52,
+      "sid": 87,
+      "location": 2,
+      "content": "反倒是绳索在拉你了",
+      "music": 0.0
+    },
+    {
+      "from": 144.52,
+      "to": 146.42,
+      "sid": 88,
+      "location": 2,
+      "content": "等后期你核心足够稳定呢",
+      "music": 0.0
+    },
+    {
+      "from": 146.42,
+      "to": 149.06,
+      "sid": 89,
+      "location": 2,
+      "content": "能将更多的注意力集中到二头肌的收缩上",
+      "music": 0.0
+    },
+    {
+      "from": 149.06,
+      "to": 150.46,
+      "sid": 90,
+      "location": 2,
+      "content": "这个动作你就放心练吧",
+      "music": 0.0
+    },
+    {
+      "from": 150.46,
+      "to": 151.54,
+      "sid": 91,
+      "location": 2,
+      "content": "排名第五的动作",
+      "music": 0.0
+    },
+    {
+      "from": 151.54,
+      "to": 152.68,
+      "sid": 92,
+      "location": 2,
+      "content": "上斜的哑铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 152.68,
+      "to": 154.44,
+      "sid": 93,
+      "location": 2,
+      "content": "这个动作跟蜘蛛弯举很像",
+      "music": 0.0
+    },
+    {
+      "from": 154.44,
+      "to": 156.12,
+      "sid": 94,
+      "location": 2,
+      "content": "对二头的拉伸效果非常好",
+      "music": 0.0
+    },
+    {
+      "from": 156.12,
+      "to": 157.46,
+      "sid": 95,
+      "location": 2,
+      "content": "哑铃弯举到顶点",
+      "music": 0.0
+    },
+    {
+      "from": 157.46,
+      "to": 158.92,
+      "sid": 96,
+      "location": 2,
+      "content": "二头肌的泵感很炸裂",
+      "music": 0.0
+    },
+    {
+      "from": 158.92,
+      "to": 160.86,
+      "sid": 97,
+      "location": 2,
+      "content": "但是哑铃慢慢放下来的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 160.86,
+      "to": 162.48,
+      "sid": 98,
+      "location": 2,
+      "content": "二头的受力会逐渐减弱",
+      "music": 0.0
+    },
+    {
+      "from": 162.48,
+      "to": 164.2,
+      "sid": 99,
+      "location": 2,
+      "content": "没有收缩阶段那么明显",
+      "music": 0.0
+    },
+    {
+      "from": 164.2,
+      "to": 166.06,
+      "sid": 100,
+      "location": 2,
+      "content": "不过毕竟他的运动行程很长",
+      "music": 0.0
+    },
+    {
+      "from": 166.06,
+      "to": 168.04,
+      "sid": 101,
+      "location": 2,
+      "content": "二头有大半的时间都在发力",
+      "music": 0.0
+    },
+    {
+      "from": 168.04,
+      "to": 170.64,
+      "sid": 102,
+      "location": 2,
+      "content": "所以这个动作可以放到大重量的弯举之后做",
+      "music": 0.0
+    },
+    {
+      "from": 170.64,
+      "to": 171.98,
+      "sid": 103,
+      "location": 2,
+      "content": "用中等重量做组",
+      "music": 0.0
+    },
+    {
+      "from": 171.98,
+      "to": 173.54,
+      "sid": 104,
+      "location": 2,
+      "content": "彻底榨干二头的糖原",
+      "music": 0.0
+    },
+    {
+      "from": 173.54,
+      "to": 174.62,
+      "sid": 105,
+      "location": 2,
+      "content": "排名第四的动作",
+      "music": 0.0
+    },
+    {
+      "from": 174.62,
+      "to": 175.32,
+      "sid": 106,
+      "location": 2,
+      "content": "集中弯举",
+      "music": 0.0
+    },
+    {
+      "from": 175.32,
+      "to": 176.92,
+      "sid": 107,
+      "location": 2,
+      "content": "这是最常见的二头动作",
+      "music": 0.0
+    },
+    {
+      "from": 176.92,
+      "to": 178.08,
+      "sid": 108,
+      "location": 2,
+      "content": "大家基本都做过",
+      "music": 0.0
+    },
+    {
+      "from": 178.08,
+      "to": 180.04,
+      "sid": 109,
+      "location": 2,
+      "content": "但也是最容易做错的二头动作",
+      "music": 0.0
+    },
+    {
+      "from": 180.04,
+      "to": 181.28,
+      "sid": 110,
+      "location": 2,
+      "content": "这个动作的问题在于",
+      "music": 0.0
+    },
+    {
+      "from": 181.28,
+      "to": 182.24,
+      "sid": 111,
+      "location": 2,
+      "content": "很多人做的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 182.24,
+      "to": 184.48,
+      "sid": 112,
+      "location": 2,
+      "content": "都会将大臂牢牢的顶在大腿上",
+      "music": 0.0
+    },
+    {
+      "from": 184.48,
+      "to": 186.1,
+      "sid": 113,
+      "location": 2,
+      "content": "肘部跟个固定的支点一样",
+      "music": 0.0
+    },
+    {
+      "from": 186.1,
+      "to": 187.62,
+      "sid": 114,
+      "location": 2,
+      "content": "将哑铃抬起来的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 187.62,
+      "to": 188.58,
+      "sid": 115,
+      "location": 2,
+      "content": "就跟杠杆似的",
+      "music": 0.0
+    },
+    {
+      "from": 188.58,
+      "to": 189.46,
+      "sid": 116,
+      "location": 2,
+      "content": "暗戳戳的接力",
+      "music": 0.0
+    },
+    {
+      "from": 189.46,
+      "to": 190.98,
+      "sid": 117,
+      "location": 2,
+      "content": "这会让动作收益减少",
+      "music": 0.0
+    },
+    {
+      "from": 190.98,
+      "to": 193.18,
+      "sid": 118,
+      "location": 2,
+      "content": "大幅度降低肱二头肌的增肌效率",
+      "music": 0.0
+    },
+    {
+      "from": 193.18,
+      "to": 194.78,
+      "sid": 119,
+      "location": 2,
+      "content": "而且这个问题非常难解决",
+      "music": 0.0
+    },
+    {
+      "from": 194.78,
+      "to": 196.54,
+      "sid": 120,
+      "location": 2,
+      "content": "最好的解决方法是降低重量",
+      "music": 0.0
+    },
+    {
+      "from": 196.54,
+      "to": 198.6,
+      "sid": 121,
+      "location": 2,
+      "content": "但是对于想高效增肌的人来说",
+      "music": 0.0
+    },
+    {
+      "from": 198.6,
+      "to": 200.88,
+      "sid": 122,
+      "location": 2,
+      "content": "咱们还是优先选择既能上大重量",
+      "music": 0.0
+    },
+    {
+      "from": 200.88,
+      "to": 201.96,
+      "sid": 123,
+      "location": 2,
+      "content": "效率又高的动作",
+      "music": 0.0
+    },
+    {
+      "from": 201.96,
+      "to": 203.02,
+      "sid": 124,
+      "location": 2,
+      "content": "排名第三的动作",
+      "music": 0.0
+    },
+    {
+      "from": 203.02,
+      "to": 204.46,
+      "sid": 125,
+      "location": 2,
+      "content": "双马尾的反身弯举",
+      "music": 0.0
+    },
+    {
+      "from": 204.46,
+      "to": 206.28,
+      "sid": 126,
+      "location": 2,
+      "content": "这个动作虽然呢上不了大重量",
+      "music": 0.0
+    },
+    {
+      "from": 206.28,
+      "to": 207.92,
+      "sid": 127,
+      "location": 2,
+      "content": "但收缩感是真心不错",
+      "music": 0.0
+    },
+    {
+      "from": 207.92,
+      "to": 209.64,
+      "sid": 128,
+      "location": 2,
+      "content": "可以放在训练收尾做几组",
+      "music": 0.0
+    },
+    {
+      "from": 209.64,
+      "to": 212.16,
+      "sid": 129,
+      "location": 2,
+      "content": "而且由于是背对着龙门架弯举绳索",
+      "music": 0.0
+    },
+    {
+      "from": 212.16,
+      "to": 213.0,
+      "sid": 130,
+      "location": 2,
+      "content": "拉起来的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 213.0,
+      "to": 214.12,
+      "sid": 131,
+      "location": 2,
+      "content": "身体就不会往后仰",
+      "music": 0.0
+    },
+    {
+      "from": 214.12,
+      "to": 214.74,
+      "sid": 132,
+      "location": 2,
+      "content": "不容易借力",
+      "music": 0.0
+    },
+    {
+      "from": 214.74,
+      "to": 216.5,
+      "sid": 133,
+      "location": 2,
+      "content": "能让目标肌群精准受力",
+      "music": 0.0
+    },
+    {
+      "from": 216.5,
+      "to": 218.34,
+      "sid": 134,
+      "location": 2,
+      "content": "但注意视频里这种手腕没有打",
+      "music": 0.0
+    },
+    {
+      "from": 218.34,
+      "to": 219.94,
+      "sid": 135,
+      "location": 2,
+      "content": "想要针对二头肌",
+      "music": 0.0
+    },
+    {
+      "from": 219.94,
+      "to": 221.58,
+      "sid": 136,
+      "location": 2,
+      "content": "记得把绳索拉起来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 221.58,
+      "to": 222.66,
+      "sid": 137,
+      "location": 2,
+      "content": "手腕向外打开",
+      "music": 0.0
+    },
+    {
+      "from": 222.66,
+      "to": 224.3,
+      "sid": 138,
+      "location": 2,
+      "content": "这样才能最大化提高效率",
+      "music": 0.0
+    },
+    {
+      "from": 224.3,
+      "to": 225.36,
+      "sid": 139,
+      "location": 2,
+      "content": "排名第二的动作",
+      "music": 0.0
+    },
+    {
+      "from": 225.36,
+      "to": 226.54,
+      "sid": 140,
+      "location": 2,
+      "content": "牧师凳器械弯举",
+      "music": 0.0
+    },
+    {
+      "from": 226.54,
+      "to": 228.76,
+      "sid": 141,
+      "location": 2,
+      "content": "牧师凳弯举呢本身就是一个不错的动作",
+      "music": 0.0
+    },
+    {
+      "from": 228.76,
+      "to": 229.6,
+      "sid": 142,
+      "location": 2,
+      "content": "再加上器械",
+      "music": 0.0
+    },
+    {
+      "from": 229.6,
+      "to": 231.14,
+      "sid": 143,
+      "location": 2,
+      "content": "那效果更是又上了一个档次",
+      "music": 0.0
+    },
+    {
+      "from": 231.14,
+      "to": 233.0,
+      "sid": 144,
+      "location": 2,
+      "content": "首先牧师凳能固定住身体",
+      "music": 0.0
+    },
+    {
+      "from": 233.0,
+      "to": 234.4,
+      "sid": 145,
+      "location": 2,
+      "content": "想摇晃借力都难",
+      "music": 0.0
+    },
+    {
+      "from": 234.4,
+      "to": 236.12,
+      "sid": 146,
+      "location": 2,
+      "content": "再加上固定器械立线稳定",
+      "music": 0.0
+    },
+    {
+      "from": 236.12,
+      "to": 237.02,
+      "sid": 147,
+      "location": 2,
+      "content": "受伤风险低",
+      "music": 0.0
+    },
+    {
+      "from": 237.02,
+      "to": 239.48,
+      "sid": 148,
+      "location": 2,
+      "content": "这对关节活动度和柔韧性都不行的",
+      "music": 0.0
+    },
+    {
+      "from": 239.48,
+      "to": 240.52,
+      "sid": 149,
+      "location": 2,
+      "content": "新手小白来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 240.52,
+      "to": 241.56,
+      "sid": 150,
+      "location": 2,
+      "content": "那简直就是福音",
+      "music": 0.0
+    },
+    {
+      "from": 241.56,
+      "to": 243.64,
+      "sid": 151,
+      "location": 2,
+      "content": "只需坐那把器械无脑的举起来",
+      "music": 0.0
+    },
+    {
+      "from": 243.64,
+      "to": 244.68,
+      "sid": 152,
+      "location": 2,
+      "content": "你练个五组下来",
+      "music": 0.0
+    },
+    {
+      "from": 244.68,
+      "to": 246.7,
+      "sid": 153,
+      "location": 2,
+      "content": "二头的泵感直接能撑爆袖口",
+      "music": 0.0
+    },
+    {
+      "from": 246.7,
+      "to": 248.28,
+      "sid": 154,
+      "location": 2,
+      "content": "所以健身房有这个器械的",
+      "music": 0.0
+    },
+    {
+      "from": 248.28,
+      "to": 248.88,
+      "sid": 155,
+      "location": 2,
+      "content": "直接选它",
+      "music": 0.0
+    },
+    {
+      "from": 248.88,
+      "to": 250.12,
+      "sid": 156,
+      "location": 2,
+      "content": "没有的话就选杠铃",
+      "music": 0.0
+    },
+    {
+      "from": 250.12,
+      "to": 251.08,
+      "sid": 157,
+      "location": 2,
+      "content": "木式弯举也行",
+      "music": 0.0
+    },
+    {
+      "from": 251.08,
+      "to": 252.04,
+      "sid": 158,
+      "location": 2,
+      "content": "排名第一的动作",
+      "music": 0.0
+    },
+    {
+      "from": 252.04,
+      "to": 253.08,
+      "sid": 159,
+      "location": 2,
+      "content": "曲杆的杠铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 253.08,
+      "to": 254.52,
+      "sid": 160,
+      "location": 2,
+      "content": "这个动作我可太喜欢了",
+      "music": 0.0
+    },
+    {
+      "from": 254.52,
+      "to": 256.72,
+      "sid": 161,
+      "location": 2,
+      "content": "因为他这个动作由于是曲杆的原因呢",
+      "music": 0.0
+    },
+    {
+      "from": 256.72,
+      "to": 258.72,
+      "sid": 162,
+      "location": 2,
+      "content": "会让我们的手腕和肩膀很舒服",
+      "music": 0.0
+    },
+    {
+      "from": 258.72,
+      "to": 260.6,
+      "sid": 163,
+      "location": 2,
+      "content": "不像有些人用直杆的杠铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 260.6,
+      "to": 262.68,
+      "sid": 164,
+      "location": 2,
+      "content": "练完之后手腕和肩膀都会痛",
+      "music": 0.0
+    },
+    {
+      "from": 262.68,
+      "to": 263.76,
+      "sid": 165,
+      "location": 2,
+      "content": "新手小白练二头",
+      "music": 0.0
+    },
+    {
+      "from": 263.76,
+      "to": 266.32,
+      "sid": 166,
+      "location": 2,
+      "content": "那天呢完全可以直接安排15组的曲杆",
+      "music": 0.0
+    },
+    {
+      "from": 266.32,
+      "to": 268.28,
+      "sid": 167,
+      "location": 2,
+      "content": "杠铃弯举力量没那么够了",
+      "music": 0.0
+    },
+    {
+      "from": 268.28,
+      "to": 269.46,
+      "sid": 168,
+      "location": 2,
+      "content": "就马上组内递减",
+      "music": 0.0
+    },
+    {
+      "from": 269.46,
+      "to": 271.64,
+      "sid": 169,
+      "location": 2,
+      "content": "中间千万不要给二头休息的时间",
+      "music": 0.0
+    },
+    {
+      "from": 271.64,
+      "to": 273.2,
+      "sid": 170,
+      "location": 2,
+      "content": "你就这样坚持一段下来呢",
+      "music": 0.0
+    },
+    {
+      "from": 273.2,
+      "to": 275.28,
+      "sid": 171,
+      "location": 2,
+      "content": "你的二头绝对硬的能开核桃了",
+      "music": 0.0
+    },
+    {
+      "from": 275.28,
+      "to": 277.72,
+      "sid": 172,
+      "location": 2,
+      "content": "兄弟们练三头不需要花里胡哨的动作",
+      "music": 0.0
+    },
+    {
+      "from": 277.72,
+      "to": 279.48,
+      "sid": 173,
+      "location": 2,
+      "content": "这里介绍十个练三头的动作",
+      "music": 0.0
+    },
+    {
+      "from": 279.48,
+      "to": 280.8,
+      "sid": 174,
+      "location": 2,
+      "content": "从最差到最好呢",
+      "music": 0.0
+    },
+    {
+      "from": 280.8,
+      "to": 281.62,
+      "sid": 175,
+      "location": 2,
+      "content": "做了一个排名",
+      "music": 0.0
+    },
+    {
+      "from": 281.62,
+      "to": 283.94,
+      "sid": 176,
+      "location": 2,
+      "content": "学会你也能够拥有一对硕大的麒麟臂",
+      "music": 0.0
+    },
+    {
+      "from": 283.94,
+      "to": 284.96,
+      "sid": 177,
+      "location": 2,
+      "content": "排名第十的动作",
+      "music": 0.0
+    },
+    {
+      "from": 284.96,
+      "to": 285.82,
+      "sid": 178,
+      "location": 2,
+      "content": "钻石俯卧撑",
+      "music": 0.0
+    },
+    {
+      "from": 285.82,
+      "to": 287.58,
+      "sid": 179,
+      "location": 2,
+      "content": "兄弟们练三头的动作很多",
+      "music": 0.0
+    },
+    {
+      "from": 287.58,
+      "to": 289.9,
+      "sid": 180,
+      "location": 2,
+      "content": "咱们不用盯着这种典型的自重训练",
+      "music": 0.0
+    },
+    {
+      "from": 289.9,
+      "to": 292.3,
+      "sid": 181,
+      "location": 2,
+      "content": "因为他没办法进行大重量的重复训练",
+      "music": 0.0
+    },
+    {
+      "from": 292.3,
+      "to": 294.22,
+      "sid": 182,
+      "location": 2,
+      "content": "这就很难充分的刺激到三头",
+      "music": 0.0
+    },
+    {
+      "from": 294.22,
+      "to": 297.12,
+      "sid": 183,
+      "location": 2,
+      "content": "而且钻石俯卧撑呢并不是完全用来练三头的",
+      "music": 0.0
+    },
+    {
+      "from": 297.12,
+      "to": 297.88,
+      "sid": 184,
+      "location": 2,
+      "content": "练的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 297.88,
+      "to": 299.98,
+      "sid": 185,
+      "location": 2,
+      "content": "胸肌和肩膀前束都会借力",
+      "music": 0.0
+    },
+    {
+      "from": 299.98,
+      "to": 301.38,
+      "sid": 186,
+      "location": 2,
+      "content": "也就是说你练这个动作呢",
+      "music": 0.0
+    },
+    {
+      "from": 301.38,
+      "to": 303.26,
+      "sid": 187,
+      "location": 2,
+      "content": "50%的力落在三头上了",
+      "music": 0.0
+    },
+    {
+      "from": 303.26,
+      "to": 304.86,
+      "sid": 188,
+      "location": 2,
+      "content": "剩下的30%到胸肌",
+      "music": 0.0
+    },
+    {
+      "from": 304.86,
+      "to": 307.8,
+      "sid": 189,
+      "location": 2,
+      "content": "20%到前束只有一半的收益到三头",
+      "music": 0.0
+    },
+    {
+      "from": 307.8,
+      "to": 309.34,
+      "sid": 190,
+      "location": 2,
+      "content": "那还练个毛的这个动作呢",
+      "music": 0.0
+    },
+    {
+      "from": 309.34,
+      "to": 310.4,
+      "sid": 191,
+      "location": 2,
+      "content": "排名第九的动作",
+      "music": 0.0
+    },
+    {
+      "from": 310.4,
+      "to": 311.66,
+      "sid": 192,
+      "location": 2,
+      "content": "单臂的颈后臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 311.66,
+      "to": 313.38,
+      "sid": 193,
+      "location": 2,
+      "content": "这个动作由于是单侧训练",
+      "music": 0.0
+    },
+    {
+      "from": 313.38,
+      "to": 315.48,
+      "sid": 194,
+      "location": 2,
+      "content": "相比起双手的哑铃臂屈伸呢",
+      "music": 0.0
+    },
+    {
+      "from": 315.48,
+      "to": 316.88,
+      "sid": 195,
+      "location": 2,
+      "content": "单手的要更加灵活",
+      "music": 0.0
+    },
+    {
+      "from": 316.88,
+      "to": 319.16,
+      "sid": 196,
+      "location": 2,
+      "content": "而且对手腕和肩膀的压力也没那么大",
+      "music": 0.0
+    },
+    {
+      "from": 319.16,
+      "to": 320.96,
+      "sid": 197,
+      "location": 2,
+      "content": "但是这个动作没法上大重量",
+      "music": 0.0
+    },
+    {
+      "from": 320.96,
+      "to": 321.96,
+      "sid": 198,
+      "location": 2,
+      "content": "一旦上大重量",
+      "music": 0.0
+    },
+    {
+      "from": 321.96,
+      "to": 324.6,
+      "sid": 199,
+      "location": 2,
+      "content": "手腕和肩膀会瞬间承受巨大的压力",
+      "music": 0.0
+    },
+    {
+      "from": 324.6,
+      "to": 325.94,
+      "sid": 200,
+      "location": 2,
+      "content": "想要保证训练安全",
+      "music": 0.0
+    },
+    {
+      "from": 325.94,
+      "to": 327.14,
+      "sid": 201,
+      "location": 2,
+      "content": "就只能用轻重量",
+      "music": 0.0
+    },
+    {
+      "from": 327.14,
+      "to": 328.5,
+      "sid": 202,
+      "location": 2,
+      "content": "可想要提升训练效率",
+      "music": 0.0
+    },
+    {
+      "from": 328.5,
+      "to": 329.58,
+      "sid": 203,
+      "location": 2,
+      "content": "又必须上大重量",
+      "music": 0.0
+    },
+    {
+      "from": 329.58,
+      "to": 331.04,
+      "sid": 204,
+      "location": 2,
+      "content": "这不就陷入死循环了吗",
+      "music": 0.0
+    },
+    {
+      "from": 331.04,
+      "to": 334.02,
+      "sid": 205,
+      "location": 2,
+      "content": "所以你用它来纠正左右手臂肌肉不对称的问题",
+      "music": 0.0
+    },
+    {
+      "from": 334.02,
+      "to": 334.34,
+      "sid": 206,
+      "location": 2,
+      "content": "还好",
+      "music": 0.0
+    },
+    {
+      "from": 334.34,
+      "to": 335.88,
+      "sid": 207,
+      "location": 2,
+      "content": "但是要长期练这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 335.88,
+      "to": 336.76,
+      "sid": 208,
+      "location": 2,
+      "content": "要么手腕受伤",
+      "music": 0.0
+    },
+    {
+      "from": 336.76,
+      "to": 337.92,
+      "sid": 209,
+      "location": 2,
+      "content": "要么训练效率不高",
+      "music": 0.0
+    },
+    {
+      "from": 337.92,
+      "to": 339.68,
+      "sid": 210,
+      "location": 2,
+      "content": "所以不推荐排名第八的动作",
+      "music": 0.0
+    },
+    {
+      "from": 339.68,
+      "to": 341.0,
+      "sid": 211,
+      "location": 2,
+      "content": "俯身哑铃的臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 341.0,
+      "to": 343.28,
+      "sid": 212,
+      "location": 2,
+      "content": "这个动作往后弯举到达顶点的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 343.28,
+      "to": 344.96,
+      "sid": 213,
+      "location": 2,
+      "content": "三头肌的张力确实很强",
+      "music": 0.0
+    },
+    {
+      "from": 344.96,
+      "to": 347.4,
+      "sid": 214,
+      "location": 2,
+      "content": "但是哑铃回来的时候张力就彻底没了",
+      "music": 0.0
+    },
+    {
+      "from": 347.4,
+      "to": 348.96,
+      "sid": 215,
+      "location": 2,
+      "content": "所以在整个动作行程中",
+      "music": 0.0
+    },
+    {
+      "from": 348.96,
+      "to": 351.46,
+      "sid": 216,
+      "location": 2,
+      "content": "真正能刺激到三头的运动范围特别小",
+      "music": 0.0
+    },
+    {
+      "from": 351.46,
+      "to": 353.06,
+      "sid": 217,
+      "location": 2,
+      "content": "与其用哑铃做这个动作呢",
+      "music": 0.0
+    },
+    {
+      "from": 353.06,
+      "to": 355.5,
+      "sid": 218,
+      "location": 2,
+      "content": "还不如换成张力更稳定的绳索臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 355.5,
+      "to": 358.02,
+      "sid": 219,
+      "location": 2,
+      "content": "能让三头肌在全程都得到持续的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 358.02,
+      "to": 359.34,
+      "sid": 220,
+      "location": 2,
+      "content": "大大提升训练的效率",
+      "music": 0.0
+    },
+    {
+      "from": 359.34,
+      "to": 360.34,
+      "sid": 221,
+      "location": 2,
+      "content": "排名第七的动作",
+      "music": 0.0
+    },
+    {
+      "from": 360.34,
+      "to": 361.6,
+      "sid": 222,
+      "location": 2,
+      "content": "上斜俯俯身臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 361.6,
+      "to": 364.64,
+      "sid": 223,
+      "location": 2,
+      "content": "这个动作相比俯身哑铃臂屈伸呢有明显的好处",
+      "music": 0.0
+    },
+    {
+      "from": 364.64,
+      "to": 365.84,
+      "sid": 224,
+      "location": 2,
+      "content": "就算借助了上斜凳",
+      "music": 0.0
+    },
+    {
+      "from": 365.84,
+      "to": 367.16,
+      "sid": 225,
+      "location": 2,
+      "content": "这样就牢牢地固定住了",
+      "music": 0.0
+    },
+    {
+      "from": 367.16,
+      "to": 367.48,
+      "sid": 226,
+      "location": 2,
+      "content": "身体",
+      "music": 0.0
+    },
+    {
+      "from": 367.48,
+      "to": 368.52,
+      "sid": 227,
+      "location": 2,
+      "content": "不容易摇晃接力",
+      "music": 0.0
+    },
+    {
+      "from": 368.52,
+      "to": 370.2,
+      "sid": 228,
+      "location": 2,
+      "content": "再一个就是趴在上斜凳上",
+      "music": 0.0
+    },
+    {
+      "from": 370.2,
+      "to": 371.48,
+      "sid": 229,
+      "location": 2,
+      "content": "减少了腰部的压力",
+      "music": 0.0
+    },
+    {
+      "from": 371.48,
+      "to": 372.92,
+      "sid": 230,
+      "location": 2,
+      "content": "安全性是非常有保障的",
+      "music": 0.0
+    },
+    {
+      "from": 372.92,
+      "to": 374.52,
+      "sid": 231,
+      "location": 2,
+      "content": "但是他的缺点和上一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 374.52,
+      "to": 376.0,
+      "sid": 232,
+      "location": 2,
+      "content": "俯身哑铃臂屈伸差不多",
+      "music": 0.0
+    },
+    {
+      "from": 376.0,
+      "to": 377.52,
+      "sid": 233,
+      "location": 2,
+      "content": "可以说是难兄难弟了",
+      "music": 0.0
+    },
+    {
+      "from": 377.52,
+      "to": 378.96,
+      "sid": 234,
+      "location": 2,
+      "content": "所以他俩的排名都不高",
+      "music": 0.0
+    },
+    {
+      "from": 378.96,
+      "to": 380.04,
+      "sid": 235,
+      "location": 2,
+      "content": "排名第六的动作",
+      "music": 0.0
+    },
+    {
+      "from": 380.04,
+      "to": 380.72,
+      "sid": 236,
+      "location": 2,
+      "content": "直杆下压",
+      "music": 0.0
+    },
+    {
+      "from": 380.72,
+      "to": 382.64,
+      "sid": 237,
+      "location": 2,
+      "content": "这个动作是练三头的外侧肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 382.64,
+      "to": 384.64,
+      "sid": 238,
+      "location": 2,
+      "content": "理论上动作是一挺不错的动作",
+      "music": 0.0
+    },
+    {
+      "from": 384.64,
+      "to": 385.84,
+      "sid": 239,
+      "location": 2,
+      "content": "但在实际的训练中",
+      "music": 0.0
+    },
+    {
+      "from": 385.84,
+      "to": 387.86,
+      "sid": 240,
+      "location": 2,
+      "content": "大家做这个动作质量普遍不高",
+      "music": 0.0
+    },
+    {
+      "from": 387.86,
+      "to": 389.12,
+      "sid": 241,
+      "location": 2,
+      "content": "因为做这个动作的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 389.12,
+      "to": 390.72,
+      "sid": 242,
+      "location": 2,
+      "content": "你的肘部要保持固定不动",
+      "music": 0.0
+    },
+    {
+      "from": 390.72,
+      "to": 392.82,
+      "sid": 243,
+      "location": 2,
+      "content": "这样你的力才能集中到三头肌上",
+      "music": 0.0
+    },
+    {
+      "from": 392.82,
+      "to": 394.9,
+      "sid": 244,
+      "location": 2,
+      "content": "但大部分的小白甚至健身老手呢",
+      "music": 0.0
+    },
+    {
+      "from": 394.9,
+      "to": 396.78,
+      "sid": 245,
+      "location": 2,
+      "content": "为了大重量都固定不住肘部",
+      "music": 0.0
+    },
+    {
+      "from": 396.78,
+      "to": 398.34,
+      "sid": 246,
+      "location": 2,
+      "content": "这样力呢都到小臂上去了",
+      "music": 0.0
+    },
+    {
+      "from": 398.34,
+      "to": 400.86,
+      "sid": 247,
+      "location": 2,
+      "content": "而且你做的时候肘部朝外打太多的话",
+      "music": 0.0
+    },
+    {
+      "from": 400.86,
+      "to": 402.38,
+      "sid": 248,
+      "location": 2,
+      "content": "会让你的胸肌参与过多",
+      "music": 0.0
+    },
+    {
+      "from": 402.38,
+      "to": 404.26,
+      "sid": 249,
+      "location": 2,
+      "content": "从而减少三头长头的发力",
+      "music": 0.0
+    },
+    {
+      "from": 404.26,
+      "to": 405.16,
+      "sid": 250,
+      "location": 2,
+      "content": "导致收益不高",
+      "music": 0.0
+    },
+    {
+      "from": 405.16,
+      "to": 406.7,
+      "sid": 251,
+      "location": 2,
+      "content": "最后就是他上不了大重量",
+      "music": 0.0
+    },
+    {
+      "from": 406.7,
+      "to": 408.3,
+      "sid": 252,
+      "location": 2,
+      "content": "有人说龙门架能插到底",
+      "music": 0.0
+    },
+    {
+      "from": 408.3,
+      "to": 410.58,
+      "sid": 253,
+      "location": 2,
+      "content": "但是你一点都不说你身体有多抖啊",
+      "music": 0.0
+    },
+    {
+      "from": 410.58,
+      "to": 411.6,
+      "sid": 254,
+      "location": 2,
+      "content": "排名第五的动作",
+      "music": 0.0
+    },
+    {
+      "from": 411.6,
+      "to": 412.96,
+      "sid": 255,
+      "location": 2,
+      "content": "绳索的交叉下压",
+      "music": 0.0
+    },
+    {
+      "from": 412.96,
+      "to": 415.14,
+      "sid": 256,
+      "location": 2,
+      "content": "这个动作主要针对我们三头的内侧头",
+      "music": 0.0
+    },
+    {
+      "from": 415.14,
+      "to": 417.54,
+      "sid": 257,
+      "location": 2,
+      "content": "绳索的好处就是从头到尾张力都在",
+      "music": 0.0
+    },
+    {
+      "from": 417.54,
+      "to": 419.06,
+      "sid": 258,
+      "location": 2,
+      "content": "从底部到顶峰收缩",
+      "music": 0.0
+    },
+    {
+      "from": 419.06,
+      "to": 420.86,
+      "sid": 259,
+      "location": 2,
+      "content": "力量都能稳稳的落在山头上",
+      "music": 0.0
+    },
+    {
+      "from": 420.86,
+      "to": 421.9,
+      "sid": 260,
+      "location": 2,
+      "content": "对于新手来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 421.9,
+      "to": 423.74,
+      "sid": 261,
+      "location": 2,
+      "content": "很容易就能找到三头的发力感",
+      "music": 0.0
+    },
+    {
+      "from": 423.74,
+      "to": 426.26,
+      "sid": 262,
+      "location": 2,
+      "content": "但是绳索的缺点就是没办法上太大的重量",
+      "music": 0.0
+    },
+    {
+      "from": 426.26,
+      "to": 428.02,
+      "sid": 263,
+      "location": 2,
+      "content": "不能深层次的刺激目标肌群",
+      "music": 0.0
+    },
+    {
+      "from": 428.02,
+      "to": 430.02,
+      "sid": 264,
+      "location": 2,
+      "content": "而且由于绳索的灵活度太高了",
+      "music": 0.0
+    },
+    {
+      "from": 430.02,
+      "to": 431.82,
+      "sid": 265,
+      "location": 2,
+      "content": "做的时候需要我们额外花力气",
+      "music": 0.0
+    },
+    {
+      "from": 431.82,
+      "to": 433.56,
+      "sid": 266,
+      "location": 2,
+      "content": "去稳定身体和手臂的轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 433.56,
+      "to": 436.26,
+      "sid": 267,
+      "location": 2,
+      "content": "意念或者精力就不能全部集中在三头上了",
+      "music": 0.0
+    },
+    {
+      "from": 436.26,
+      "to": 439.2,
+      "sid": 268,
+      "location": 2,
+      "content": "相比那些能承受大重量且发力更集中的动作呢",
+      "music": 0.0
+    },
+    {
+      "from": 439.2,
+      "to": 440.32,
+      "sid": 269,
+      "location": 2,
+      "content": "这个动作还不够好",
+      "music": 0.0
+    },
+    {
+      "from": 440.32,
+      "to": 441.36,
+      "sid": 270,
+      "location": 2,
+      "content": "排名第四的动作",
+      "music": 0.0
+    },
+    {
+      "from": 441.36,
+      "to": 442.04,
+      "sid": 271,
+      "location": 2,
+      "content": "窄距卧推",
+      "music": 0.0
+    },
+    {
+      "from": 442.04,
+      "to": 445.08,
+      "sid": 272,
+      "location": 2,
+      "content": "这个动作是练三头里少数可以上大重量的动作",
+      "music": 0.0
+    },
+    {
+      "from": 445.08,
+      "to": 446.94,
+      "sid": 273,
+      "location": 2,
+      "content": "要知道负荷才能撕裂肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 446.94,
+      "to": 449.7,
+      "sid": 274,
+      "location": 2,
+      "content": "那这种大负荷对三头的刺激是非常强的",
+      "music": 0.0
+    },
+    {
+      "from": 449.7,
+      "to": 452.1,
+      "sid": 275,
+      "location": 2,
+      "content": "虽然过程中力量会被胸肌分走一部分",
+      "music": 0.0
+    },
+    {
+      "from": 452.1,
+      "to": 454.5,
+      "sid": 276,
+      "location": 2,
+      "content": "但还是有大部分的力量能集中到三头上",
+      "music": 0.0
+    },
+    {
+      "from": 454.5,
+      "to": 456.18,
+      "sid": 277,
+      "location": 2,
+      "content": "能够让三头得到充分的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 456.18,
+      "to": 457.64,
+      "sid": 278,
+      "location": 2,
+      "content": "不过一定要注意是窄距",
+      "music": 0.0
+    },
+    {
+      "from": 457.64,
+      "to": 459.34,
+      "sid": 279,
+      "location": 2,
+      "content": "窄距推到最顶部的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 459.34,
+      "to": 460.38,
+      "sid": 280,
+      "location": 2,
+      "content": "肘部一定要夹紧",
+      "music": 0.0
+    },
+    {
+      "from": 460.38,
+      "to": 461.76,
+      "sid": 281,
+      "location": 2,
+      "content": "避免胸肌借力过多",
+      "music": 0.0
+    },
+    {
+      "from": 461.76,
+      "to": 463.76,
+      "sid": 282,
+      "location": 2,
+      "content": "确保更多的负荷落在三头上",
+      "music": 0.0
+    },
+    {
+      "from": 463.76,
+      "to": 464.84,
+      "sid": 283,
+      "location": 2,
+      "content": "排名第三的动作",
+      "music": 0.0
+    },
+    {
+      "from": 464.84,
+      "to": 466.0,
+      "sid": 284,
+      "location": 2,
+      "content": "仰卧哑铃臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 466.0,
+      "to": 467.28,
+      "sid": 285,
+      "location": 2,
+      "content": "在练三头的动作里呢",
+      "music": 0.0
+    },
+    {
+      "from": 467.28,
+      "to": 469.64,
+      "sid": 286,
+      "location": 2,
+      "content": "这个动作对我们的肘关节那是相当友好",
+      "music": 0.0
+    },
+    {
+      "from": 469.64,
+      "to": 470.94,
+      "sid": 287,
+      "location": 2,
+      "content": "这是因为相比于杠铃",
+      "music": 0.0
+    },
+    {
+      "from": 470.94,
+      "to": 474.2,
+      "sid": 288,
+      "location": 2,
+      "content": "采用哑铃能更好地顺应我们肘关节的活动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 474.2,
+      "to": 476.36,
+      "sid": 289,
+      "location": 2,
+      "content": "从而大大减少了肘关节承受的压力",
+      "music": 0.0
+    },
+    {
+      "from": 476.36,
+      "to": 478.08,
+      "sid": 290,
+      "location": 2,
+      "content": "而且这个动作也可以单侧训练",
+      "music": 0.0
+    },
+    {
+      "from": 478.08,
+      "to": 480.34,
+      "sid": 291,
+      "location": 2,
+      "content": "专门针对肱三头肌不对称的问题",
+      "music": 0.0
+    },
+    {
+      "from": 480.34,
+      "to": 481.42,
+      "sid": 292,
+      "location": 2,
+      "content": "哪侧三头力量弱",
+      "music": 0.0
+    },
+    {
+      "from": 481.42,
+      "to": 482.22,
+      "sid": 293,
+      "location": 2,
+      "content": "你就练哪边",
+      "music": 0.0
+    },
+    {
+      "from": 482.22,
+      "to": 484.18,
+      "sid": 294,
+      "location": 2,
+      "content": "这样才能让三头的发展更均衡",
+      "music": 0.0
+    },
+    {
+      "from": 484.18,
+      "to": 486.82,
+      "sid": 295,
+      "location": 2,
+      "content": "但做动作时注意让肘关节不要过度的打开",
+      "music": 0.0
+    },
+    {
+      "from": 486.82,
+      "to": 488.7,
+      "sid": 296,
+      "location": 2,
+      "content": "不然还是有一定的受伤风险哇",
+      "music": 0.0
+    },
+    {
+      "from": 488.7,
+      "to": 489.64,
+      "sid": 297,
+      "location": 2,
+      "content": "排名第二的动作",
+      "music": 0.0
+    },
+    {
+      "from": 489.64,
+      "to": 491.16,
+      "sid": 298,
+      "location": 2,
+      "content": "固定器械的反向臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 491.16,
+      "to": 492.92,
+      "sid": 299,
+      "location": 2,
+      "content": "小白你把这个动作做标准了",
+      "music": 0.0
+    },
+    {
+      "from": 492.92,
+      "to": 494.84,
+      "sid": 300,
+      "location": 2,
+      "content": "不知道还有哪个动作能比得上他",
+      "music": 0.0
+    },
+    {
+      "from": 494.84,
+      "to": 496.2,
+      "sid": 301,
+      "location": 2,
+      "content": "因为研究早就表明",
+      "music": 0.0
+    },
+    {
+      "from": 496.2,
+      "to": 497.88,
+      "sid": 302,
+      "location": 2,
+      "content": "这种举过头顶的臂屈伸呢",
+      "music": 0.0
+    },
+    {
+      "from": 497.88,
+      "to": 499.42,
+      "sid": 303,
+      "location": 2,
+      "content": "比我们讲的下一动作",
+      "music": 0.0
+    },
+    {
+      "from": 499.42,
+      "to": 501.58,
+      "sid": 304,
+      "location": 2,
+      "content": "能让肱三头肌多增长40%",
+      "music": 0.0
+    },
+    {
+      "from": 501.58,
+      "to": 503.62,
+      "sid": 305,
+      "location": 2,
+      "content": "而且这个动作全程张力都很强",
+      "music": 0.0
+    },
+    {
+      "from": 503.62,
+      "to": 504.98,
+      "sid": 306,
+      "location": 2,
+      "content": "能持续刺激三头肌",
+      "music": 0.0
+    },
+    {
+      "from": 504.98,
+      "to": 505.82,
+      "sid": 307,
+      "location": 2,
+      "content": "器械的安全性",
+      "music": 0.0
+    },
+    {
+      "from": 505.82,
+      "to": 506.64,
+      "sid": 308,
+      "location": 2,
+      "content": "也不用担心",
+      "music": 0.0
+    },
+    {
+      "from": 506.64,
+      "to": 508.04,
+      "sid": 309,
+      "location": 2,
+      "content": "对新手小白呢很友好",
+      "music": 0.0
+    },
+    {
+      "from": 508.04,
+      "to": 510.72,
+      "sid": 310,
+      "location": 2,
+      "content": "健身房有这个器械的直接主力安排这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 510.72,
+      "to": 511.68,
+      "sid": 311,
+      "location": 2,
+      "content": "没有的也别灰心",
+      "music": 0.0
+    },
+    {
+      "from": 511.68,
+      "to": 512.88,
+      "sid": 312,
+      "location": 2,
+      "content": "用坐姿的绳索",
+      "music": 0.0
+    },
+    {
+      "from": 512.88,
+      "to": 514.48,
+      "sid": 313,
+      "location": 2,
+      "content": "颈后臂屈伸替代训练",
+      "music": 0.0
+    },
+    {
+      "from": 514.48,
+      "to": 515.68,
+      "sid": 314,
+      "location": 2,
+      "content": "效果也是差不多的好",
+      "music": 0.0
+    },
+    {
+      "from": 515.68,
+      "to": 516.62,
+      "sid": 315,
+      "location": 2,
+      "content": "排名第一的动作",
+      "music": 0.0
+    },
+    {
+      "from": 516.62,
+      "to": 517.52,
+      "sid": 316,
+      "location": 2,
+      "content": "双杠臂屈伸",
+      "music": 0.0
+    },
+    {
+      "from": 517.52,
+      "to": 519.76,
+      "sid": 317,
+      "location": 2,
+      "content": "这动作号称是练上肢的王牌动作",
+      "music": 0.0
+    },
+    {
+      "from": 519.76,
+      "to": 521.0,
+      "sid": 318,
+      "location": 2,
+      "content": "不仅能强化三头肌",
+      "music": 0.0
+    },
+    {
+      "from": 521.0,
+      "to": 523.84,
+      "sid": 319,
+      "location": 2,
+      "content": "还能顺带提升整个上肢的力量与协调性",
+      "music": 0.0
+    },
+    {
+      "from": 523.84,
+      "to": 525.16,
+      "sid": 320,
+      "location": 2,
+      "content": "但祭祖做这个动作时",
+      "music": 0.0
+    },
+    {
+      "from": 525.16,
+      "to": 527.06,
+      "sid": 321,
+      "location": 2,
+      "content": "握窄距才是练的肱三头肌",
+      "music": 0.0
+    },
+    {
+      "from": 527.06,
+      "to": 528.98,
+      "sid": 322,
+      "location": 2,
+      "content": "做的时候身体要尽量保持笔直",
+      "music": 0.0
+    },
+    {
+      "from": 528.98,
+      "to": 530.12,
+      "sid": 323,
+      "location": 2,
+      "content": "避免过度的前倾",
+      "music": 0.0
+    },
+    {
+      "from": 530.12,
+      "to": 531.56,
+      "sid": 324,
+      "location": 2,
+      "content": "这样才能让力量更集中",
+      "music": 0.0
+    },
+    {
+      "from": 531.56,
+      "to": 532.6,
+      "sid": 325,
+      "location": 2,
+      "content": "作用在三头肌上",
+      "music": 0.0
+    },
+    {
+      "from": 532.6,
+      "to": 533.54,
+      "sid": 326,
+      "location": 2,
+      "content": "要是握得太宽",
+      "music": 0.0
+    },
+    {
+      "from": 533.54,
+      "to": 535.2,
+      "sid": 327,
+      "location": 2,
+      "content": "发力重心就会偏向胸肌",
+      "music": 0.0
+    },
+    {
+      "from": 535.2,
+      "to": 537.6,
+      "sid": 328,
+      "location": 2,
+      "content": "练完胸肌鼓鼓的三头却没什么反应",
+      "music": 0.0
+    },
+    {
+      "from": 537.6,
+      "to": 538.6,
+      "sid": 329,
+      "location": 2,
+      "content": "要是核心比较弱",
+      "music": 0.0
+    },
+    {
+      "from": 538.6,
+      "to": 540.52,
+      "sid": 330,
+      "location": 2,
+      "content": "关节灵活度不高的新手小白呢",
+      "music": 0.0
+    },
+    {
+      "from": 540.52,
+      "to": 543.14,
+      "sid": 331,
+      "location": 2,
+      "content": "可以先借助辅助器械慢慢找发力的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 543.14,
+      "to": 544.82,
+      "sid": 332,
+      "location": 2,
+      "content": "即打牢了再撤掉辅助",
+      "music": 0.0
+    },
+    {
+      "from": 544.82,
+      "to": 546.06,
+      "sid": 333,
+      "location": 2,
+      "content": "这样既能保证效率",
+      "music": 0.0
+    },
+    {
+      "from": 546.06,
+      "to": 547.46,
+      "sid": 334,
+      "location": 2,
+      "content": "又能降低受伤的风险",
+      "music": 0.0
+    },
+    {
+      "from": 547.46,
+      "to": 549.3,
+      "sid": 335,
+      "location": 2,
+      "content": "最后是咱检验健身成果的时刻了",
+      "music": 0.0
+    },
+    {
+      "from": 549.3,
+      "to": 551.16,
+      "sid": 336,
+      "location": 2,
+      "content": "来给小卡拉咪看看你的麒麟臂",
+      "music": 0.0
+    }
+  ]
+}

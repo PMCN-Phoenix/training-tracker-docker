@@ -1,0 +1,13 @@
+﻿01_wilke_force_transmission | dXcg4NLPC_Y | manual | 43318B
+02_schleip_orchestration | fOwhjE0VgXA | manual | 37290B
+03_spindle_vs_gto | aboOT94CaR8 | manual | 33087B
+04_autogenic_inhibition | lvqoQQBoLc4 | manual | 65549B
+05_calgary_mind_strength | rq1X5nwmfSQ | none | 0B
+06_huberman_brainbody | 2ZkJtIouKzE | manual | 314260B
+07_optimal_theory | R5Z6caL6SUw | manual | 42972B
+08_attentional_focus | F0dKzQ3bB88 | manual | 127198B
+09_differential_learning | dvRiIxr3CAw | none | 0B
+10_aphantasia_motor_simulation | 9egMuLqjEgA | manual | 264359B
+11_imagery_strength_study | Y8iEsi4Mr5U | manual | 12755B
+12_myofascial_trains_hype | 9N7g6IXqmy8 | manual | 245167B
+13_schleip_podcast | OK6DlVBqACY | manual | 457105B

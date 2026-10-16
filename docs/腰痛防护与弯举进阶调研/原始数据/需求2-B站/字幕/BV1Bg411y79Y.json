@@ -1,0 +1,68 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.4.0.4",
+  "body": [
+    {
+      "from": 38.38,
+      "to": 39.16,
+      "sid": 1,
+      "location": 2,
+      "content": "你好"
+    },
+    {
+      "from": 128.5,
+      "to": 132.28,
+      "sid": 2,
+      "location": 2,
+      "content": "今天会不会有一个厉害的来说"
+    },
+    {
+      "from": 132.28,
+      "to": 142.5,
+      "sid": 3,
+      "location": 2,
+      "content": "我为什么不大不理解的对各位小心兄弟起了00024338"
+    },
+    {
+      "from": 143.5,
+      "to": 146.02,
+      "sid": 4,
+      "location": 2,
+      "content": "但是在观众的观众"
+    },
+    {
+      "from": 148.739,
+      "to": 150.1,
+      "sid": 5,
+      "location": 2,
+      "content": "这个小弟弟"
+    },
+    {
+      "from": 160.72,
+      "to": 167.06,
+      "sid": 6,
+      "location": 2,
+      "content": "321我也会"
+    },
+    {
+      "from": 177.54,
+      "to": 178.62,
+      "sid": 7,
+      "location": 2,
+      "content": "没办法"
+    },
+    {
+      "from": 195.78,
+      "to": 196.48,
+      "sid": 8,
+      "location": 2,
+      "content": "嗯"
+    }
+  ]
+}

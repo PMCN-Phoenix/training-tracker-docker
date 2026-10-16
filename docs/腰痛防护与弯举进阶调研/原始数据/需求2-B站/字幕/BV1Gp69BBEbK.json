@@ -1,0 +1,844 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 3.939,
+      "sid": 1,
+      "location": 2,
+      "content": "一旦你的训练水平稍微有那么一点强度了",
+      "music": 0.0
+    },
+    {
+      "from": 3.939,
+      "to": 7.339,
+      "sid": 2,
+      "location": 2,
+      "content": "这个增加组次数的训练方式",
+      "music": 0.0
+    },
+    {
+      "from": 7.339,
+      "to": 10.29,
+      "sid": 3,
+      "location": 2,
+      "content": "那就是让你们陷入到恢复不了",
+      "music": 0.0
+    },
+    {
+      "from": 10.29,
+      "to": 12.83,
+      "sid": 4,
+      "location": 2,
+      "content": "无法进步的罪魁祸首",
+      "music": 0.0
+    },
+    {
+      "from": 12.83,
+      "to": 15.86,
+      "sid": 5,
+      "location": 2,
+      "content": "关于力量训练里面的渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 15.86,
+      "to": 17.82,
+      "sid": 6,
+      "location": 2,
+      "content": "我健身房里没有那么小的片",
+      "music": 0.0
+    },
+    {
+      "from": 17.82,
+      "to": 19.23,
+      "sid": 7,
+      "location": 2,
+      "content": "我自己也不准备买",
+      "music": 0.0
+    },
+    {
+      "from": 19.23,
+      "to": 22.07,
+      "sid": 8,
+      "location": 2,
+      "content": "我能不能通过增加个数的这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 22.07,
+      "to": 23.59,
+      "sid": 9,
+      "location": 2,
+      "content": "去提升我的渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 23.59,
+      "to": 25.01,
+      "sid": 10,
+      "location": 2,
+      "content": "提升我的训练强度啊",
+      "music": 0.0
+    },
+    {
+      "from": 25.01,
+      "to": 27.18,
+      "sid": 11,
+      "location": 2,
+      "content": "比如说我60kg做58",
+      "music": 0.0
+    },
+    {
+      "from": 27.18,
+      "to": 30.42,
+      "sid": 12,
+      "location": 2,
+      "content": "我下一次就60kg做59好吧",
+      "music": 0.0
+    },
+    {
+      "from": 30.42,
+      "to": 33.02,
+      "sid": 13,
+      "location": 2,
+      "content": "就以想个数来增加渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 33.02,
+      "to": 33.38,
+      "sid": 14,
+      "location": 2,
+      "content": "这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 33.38,
+      "to": 34.94,
+      "sid": 15,
+      "location": 2,
+      "content": "咱们今天展开来聊聊",
+      "music": 0.0
+    },
+    {
+      "from": 34.94,
+      "to": 36.18,
+      "sid": 16,
+      "location": 2,
+      "content": "首先啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.18,
+      "to": 37.82,
+      "sid": 17,
+      "location": 2,
+      "content": "我相信绝大部分的人",
+      "music": 0.0
+    },
+    {
+      "from": 37.82,
+      "to": 39.54,
+      "sid": 18,
+      "location": 2,
+      "content": "在健身房里接触训练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 39.54,
+      "to": 42.779,
+      "sid": 19,
+      "location": 2,
+      "content": "都是通过这样的模式去实现自己的渐进",
+      "music": 0.0
+    },
+    {
+      "from": 42.779,
+      "to": 43.87,
+      "sid": 20,
+      "location": 2,
+      "content": "超负格啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.87,
+      "to": 45.55,
+      "sid": 21,
+      "location": 2,
+      "content": "有很多的博主告诉你们啊",
+      "music": 0.0
+    },
+    {
+      "from": 45.55,
+      "to": 49.29,
+      "sid": 22,
+      "location": 2,
+      "content": "你用做5×8的这个重量慢慢的去给他做",
+      "music": 0.0
+    },
+    {
+      "from": 49.29,
+      "to": 52.12,
+      "sid": 23,
+      "location": 2,
+      "content": "做到能够用这个重量做5×12",
+      "music": 0.0
+    },
+    {
+      "from": 52.12,
+      "to": 55.189,
+      "sid": 24,
+      "location": 2,
+      "content": "退到5×8去加一点重量啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.189,
+      "to": 56.349,
+      "sid": 25,
+      "location": 2,
+      "content": "去实现渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 56.349,
+      "to": 59.029,
+      "sid": 26,
+      "location": 2,
+      "content": "但是为什么绝大部分的人按这个方式去做",
+      "music": 0.0
+    },
+    {
+      "from": 59.029,
+      "to": 60.61,
+      "sid": 27,
+      "location": 2,
+      "content": "它又完不成呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.61,
+      "to": 62.57,
+      "sid": 28,
+      "location": 2,
+      "content": "很多人都这样练的呗",
+      "music": 0.0
+    },
+    {
+      "from": 62.57,
+      "to": 64.89,
+      "sid": 29,
+      "location": 2,
+      "content": "啊用五成把这个重量练练练",
+      "music": 0.0
+    },
+    {
+      "from": 64.89,
+      "to": 65.81,
+      "sid": 30,
+      "location": 2,
+      "content": "加到五成十之后",
+      "music": 0.0
+    },
+    {
+      "from": 65.81,
+      "to": 68.17,
+      "sid": 31,
+      "location": 2,
+      "content": "就刚开始能够完成一组两组后面的赛文成",
+      "music": 0.0
+    },
+    {
+      "from": 68.17,
+      "to": 69.33,
+      "sid": 32,
+      "location": 2,
+      "content": "然后一直卡住",
+      "music": 0.0
+    },
+    {
+      "from": 69.33,
+      "to": 70.77,
+      "sid": 33,
+      "location": 2,
+      "content": "永远都没办法进步了",
+      "music": 0.0
+    },
+    {
+      "from": 70.77,
+      "to": 71.91,
+      "sid": 34,
+      "location": 2,
+      "content": "甚至会卡几年",
+      "music": 0.0
+    },
+    {
+      "from": 71.91,
+      "to": 73.96,
+      "sid": 35,
+      "location": 2,
+      "content": "那为什么呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.16,
+      "to": 78.68,
+      "sid": 36,
+      "location": 2,
+      "content": "因为通常来说单组单次去增加一次的次数",
+      "music": 0.0
+    },
+    {
+      "from": 78.68,
+      "to": 83.039,
+      "sid": 37,
+      "location": 2,
+      "content": "是增加了大概啊一到2kg的重量",
+      "music": 0.0
+    },
+    {
+      "from": 83.039,
+      "to": 84.839,
+      "sid": 38,
+      "location": 2,
+      "content": "那么由此可见",
+      "music": 0.0
+    },
+    {
+      "from": 84.839,
+      "to": 88.84,
+      "sid": 39,
+      "location": 2,
+      "content": "如果你从5×8直接在下一抽",
+      "music": 0.0
+    },
+    {
+      "from": 88.84,
+      "to": 90.66,
+      "sid": 40,
+      "location": 2,
+      "content": "想要去完成5×9",
+      "music": 0.0
+    },
+    {
+      "from": 90.66,
+      "to": 92.74,
+      "sid": 41,
+      "location": 2,
+      "content": "你单次的渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 92.74,
+      "to": 95.72,
+      "sid": 42,
+      "location": 2,
+      "content": "增重的重量大概是在五到10kg",
+      "music": 0.0
+    },
+    {
+      "from": 95.72,
+      "to": 97.58,
+      "sid": 43,
+      "location": 2,
+      "content": "比你去用健身房里面的",
+      "music": 0.0
+    },
+    {
+      "from": 97.58,
+      "to": 101.72,
+      "sid": 44,
+      "location": 2,
+      "content": "那个2.5kg的那个片增重的幅度都还要高",
+      "music": 0.0
+    },
+    {
+      "from": 101.72,
+      "to": 104.3,
+      "sid": 45,
+      "location": 2,
+      "content": "你如何能玩得成呢",
+      "music": 0.0
+    },
+    {
+      "from": 104.3,
+      "to": 106.71,
+      "sid": 46,
+      "location": 2,
+      "content": "这就是为什么很多小伙伴一直在跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 106.71,
+      "to": 108.01,
+      "sid": 47,
+      "location": 2,
+      "content": "我就增加了重量",
+      "music": 0.0
+    },
+    {
+      "from": 108.01,
+      "to": 109.73,
+      "sid": 48,
+      "location": 2,
+      "content": "我就完不成了的一个底层逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 109.73,
+      "to": 113.07,
+      "sid": 49,
+      "location": 2,
+      "content": "因为你没办法去实现超量恢复了啊",
+      "music": 0.0
+    },
+    {
+      "from": 113.07,
+      "to": 114.81,
+      "sid": 50,
+      "location": 2,
+      "content": "你渐进超负荷不了了",
+      "music": 0.0
+    },
+    {
+      "from": 114.81,
+      "to": 116.39,
+      "sid": 51,
+      "location": 2,
+      "content": "你都是在过度的消耗",
+      "music": 0.0
+    },
+    {
+      "from": 116.39,
+      "to": 119.62,
+      "sid": 52,
+      "location": 2,
+      "content": "让你的身体没有办法去突破自己",
+      "music": 0.0
+    },
+    {
+      "from": 119.62,
+      "to": 122.4,
+      "sid": 53,
+      "location": 2,
+      "content": "那么如果你实在啊不想去买小片",
+      "music": 0.0
+    },
+    {
+      "from": 122.4,
+      "to": 125.24,
+      "sid": 54,
+      "location": 2,
+      "content": "你要去增加你做主的这个重量啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.24,
+      "to": 127.11,
+      "sid": 55,
+      "location": 2,
+      "content": "我建议你啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.11,
+      "to": 129.41,
+      "sid": 56,
+      "location": 2,
+      "content": "不是以前教过你们二二法则吗",
+      "music": 0.0
+    },
+    {
+      "from": 129.41,
+      "to": 131.61,
+      "sid": 57,
+      "location": 2,
+      "content": "啊当然那个还是去增加重量",
+      "music": 0.0
+    },
+    {
+      "from": 131.61,
+      "to": 133.47,
+      "sid": 58,
+      "location": 2,
+      "content": "但是你只增加个数的话",
+      "music": 0.0
+    },
+    {
+      "from": 133.47,
+      "to": 136.81,
+      "sid": 59,
+      "location": 2,
+      "content": "是在每一组的最后一个去增加一个重量啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.81,
+      "to": 137.88,
+      "sid": 60,
+      "location": 2,
+      "content": "举个简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 137.88,
+      "to": 140.82,
+      "sid": 61,
+      "location": 2,
+      "content": "你在这一周乙做5×8",
+      "music": 0.0
+    },
+    {
+      "from": 140.82,
+      "to": 144.76,
+      "sid": 62,
+      "location": 2,
+      "content": "那么在第五组尝试做九个啊",
+      "music": 0.0
+    },
+    {
+      "from": 144.76,
+      "to": 150.48,
+      "sid": 63,
+      "location": 2,
+      "content": "第二周你同样的他在最后一组尝试去加两个啊",
+      "music": 0.0
+    },
+    {
+      "from": 150.48,
+      "to": 152.09,
+      "sid": 64,
+      "location": 2,
+      "content": "去加到5×10",
+      "music": 0.0
+    },
+    {
+      "from": 152.09,
+      "to": 154.69,
+      "sid": 65,
+      "location": 2,
+      "content": "如果还能够完成动作也不变形",
+      "music": 0.0
+    },
+    {
+      "from": 154.69,
+      "to": 156.81,
+      "sid": 66,
+      "location": 2,
+      "content": "继续在最后一组加啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.81,
+      "to": 160.09,
+      "sid": 67,
+      "location": 2,
+      "content": "最后一组如果你都能够完成5×12了",
+      "music": 0.0
+    },
+    {
+      "from": 160.09,
+      "to": 163.12,
+      "sid": 68,
+      "location": 2,
+      "content": "这个时候刷新一轮呃",
+      "music": 0.0
+    },
+    {
+      "from": 163.12,
+      "to": 165.32,
+      "sid": 69,
+      "location": 2,
+      "content": "用5×9去增加你的重量",
+      "music": 0.0
+    },
+    {
+      "from": 165.32,
+      "to": 168.04,
+      "sid": 70,
+      "location": 2,
+      "content": "这个是比较符合你们当下训练",
+      "music": 0.0
+    },
+    {
+      "from": 168.04,
+      "to": 170.38,
+      "sid": 71,
+      "location": 2,
+      "content": "去增加个数的一个底层逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.38,
+      "to": 172.239,
+      "sid": 72,
+      "location": 2,
+      "content": "如果完不成了啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.239,
+      "to": 175.299,
+      "sid": 73,
+      "location": 2,
+      "content": "如果我测到5×15乘11啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.299,
+      "to": 176.439,
+      "sid": 74,
+      "location": 2,
+      "content": "那么就卡住了",
+      "music": 0.0
+    },
+    {
+      "from": 176.439,
+      "to": 177.679,
+      "sid": 75,
+      "location": 2,
+      "content": "没办法去突破了",
+      "music": 0.0
+    },
+    {
+      "from": 177.679,
+      "to": 179.599,
+      "sid": 76,
+      "location": 2,
+      "content": "这个时候你就不需要去增加重量",
+      "music": 0.0
+    },
+    {
+      "from": 179.599,
+      "to": 181.11,
+      "sid": 77,
+      "location": 2,
+      "content": "也不需要去增加主次数",
+      "music": 0.0
+    },
+    {
+      "from": 181.11,
+      "to": 183.15,
+      "sid": 78,
+      "location": 2,
+      "content": "直到突破再去增加",
+      "music": 0.0
+    },
+    {
+      "from": 183.15,
+      "to": 185.07,
+      "sid": 79,
+      "location": 2,
+      "content": "包括根据你的一个训练重量",
+      "music": 0.0
+    },
+    {
+      "from": 185.07,
+      "to": 188.12,
+      "sid": 80,
+      "location": 2,
+      "content": "如果你能够自重去用这个重量训练",
+      "music": 0.0
+    },
+    {
+      "from": 188.12,
+      "to": 190.4,
+      "sid": 81,
+      "location": 2,
+      "content": "合理的安排减载以及合理的安排",
+      "music": 0.0
+    },
+    {
+      "from": 190.4,
+      "to": 190.86,
+      "sid": 82,
+      "location": 2,
+      "content": "青训",
+      "music": 0.0
+    },
+    {
+      "from": 190.86,
+      "to": 193.56,
+      "sid": 83,
+      "location": 2,
+      "content": "能够更加的帮助你去更快的去突破",
+      "music": 0.0
+    },
+    {
+      "from": 193.56,
+      "to": 196.649,
+      "sid": 84,
+      "location": 2,
+      "content": "你每一周去所设定的这个目标啊",
+      "music": 0.0
+    },
+    {
+      "from": 196.649,
+      "to": 201.799,
+      "sid": 85,
+      "location": 2,
+      "content": "这个才是一个啊立讯他进步的一个法则啊",
+      "music": 0.0
+    },
+    {
+      "from": 201.799,
+      "to": 206.079,
+      "sid": 86,
+      "location": 2,
+      "content": "由于以前很多啊搞健身的学艺不精啊",
+      "music": 0.0
+    },
+    {
+      "from": 206.079,
+      "to": 209.879,
+      "sid": 87,
+      "location": 2,
+      "content": "跟你们说以这种方式去增加我们的一个主次数",
+      "music": 0.0
+    },
+    {
+      "from": 209.879,
+      "to": 211.719,
+      "sid": 88,
+      "location": 2,
+      "content": "你就能够啊进步了",
+      "music": 0.0
+    },
+    {
+      "from": 211.719,
+      "to": 213.89,
+      "sid": 89,
+      "location": 2,
+      "content": "这个只是在新手阶段啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.89,
+      "to": 215.59,
+      "sid": 90,
+      "location": 2,
+      "content": "恢复值拉满的一个情况下",
+      "music": 0.0
+    },
+    {
+      "from": 215.59,
+      "to": 216.97,
+      "sid": 91,
+      "location": 2,
+      "content": "训练强度不高的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 216.97,
+      "to": 218.63,
+      "sid": 92,
+      "location": 2,
+      "content": "比较理想的一个状态情况下",
+      "music": 0.0
+    },
+    {
+      "from": 218.63,
+      "to": 219.97,
+      "sid": 93,
+      "location": 2,
+      "content": "它才能够去实现",
+      "music": 0.0
+    },
+    {
+      "from": 219.97,
+      "to": 224.15,
+      "sid": 94,
+      "location": 2,
+      "content": "一旦你的训练水平稍微有那么一点强度了",
+      "music": 0.0
+    },
+    {
+      "from": 224.15,
+      "to": 227.55,
+      "sid": 95,
+      "location": 2,
+      "content": "这个增加组次数的训练方式",
+      "music": 0.0
+    },
+    {
+      "from": 227.55,
+      "to": 230.51,
+      "sid": 96,
+      "location": 2,
+      "content": "那就是让你们陷入到恢复不了",
+      "music": 0.0
+    },
+    {
+      "from": 230.51,
+      "to": 233.48,
+      "sid": 97,
+      "location": 2,
+      "content": "无法进步的罪魁祸首",
+      "music": 0.0
+    },
+    {
+      "from": 233.48,
+      "to": 234.26,
+      "sid": 98,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 234.26,
+      "to": 235.24,
+      "sid": 99,
+      "location": 2,
+      "content": "今天的视频就聊到这",
+      "music": 0.0
+    },
+    {
+      "from": 235.24,
+      "to": 235.94,
+      "sid": 100,
+      "location": 2,
+      "content": "多学习多思考",
+      "music": 0.0
+    },
+    {
+      "from": 235.94,
+      "to": 236.68,
+      "sid": 101,
+      "location": 2,
+      "content": "祝你健入佳境",
+      "music": 0.0
+    },
+    {
+      "from": 236.68,
+      "to": 237.86,
+      "sid": 102,
+      "location": 2,
+      "content": "你所有成长来源你思考",
+      "music": 0.0
+    },
+    {
+      "from": 237.86,
+      "to": 238.8,
+      "sid": 103,
+      "location": 2,
+      "content": "记住两天不解散",
+      "music": 0.0
+    },
+    {
+      "from": 240.0,
+      "to": 240.78,
+      "sid": 104,
+      "location": 2,
+      "content": "下课",
+      "music": 0.0
+    }
+  ]
+}

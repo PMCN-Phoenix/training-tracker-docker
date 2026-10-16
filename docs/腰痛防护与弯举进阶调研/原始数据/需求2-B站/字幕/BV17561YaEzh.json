@@ -1,0 +1,1252 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.3,
+      "to": 1.36,
+      "sid": 1,
+      "location": 2,
+      "content": "关于渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 1.36,
+      "to": 3.74,
+      "sid": 2,
+      "location": 2,
+      "content": "很多的朋友随着互联网的日益发达",
+      "music": 0.0
+    },
+    {
+      "from": 5.42,
+      "to": 7.18,
+      "sid": 3,
+      "location": 2,
+      "content": "已经了解到了渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 7.18,
+      "to": 8.36,
+      "sid": 4,
+      "location": 2,
+      "content": "它最基本的模式",
+      "music": 0.0
+    },
+    {
+      "from": 8.36,
+      "to": 10.27,
+      "sid": 5,
+      "location": 2,
+      "content": "也就是说从我们的第一天",
+      "music": 0.0
+    },
+    {
+      "from": 10.27,
+      "to": 13.07,
+      "sid": 6,
+      "location": 2,
+      "content": "我们的训练由30kg做510",
+      "music": 0.0
+    },
+    {
+      "from": 13.07,
+      "to": 15.43,
+      "sid": 7,
+      "location": 2,
+      "content": "第二天我们身上会非常的酸疼",
+      "music": 0.0
+    },
+    {
+      "from": 15.43,
+      "to": 17.47,
+      "sid": 8,
+      "location": 2,
+      "content": "你肯定完不成这个30kg的510",
+      "music": 0.0
+    },
+    {
+      "from": 17.47,
+      "to": 18.42,
+      "sid": 9,
+      "location": 2,
+      "content": "第三天",
+      "music": 0.0
+    },
+    {
+      "from": 18.42,
+      "to": 20.78,
+      "sid": 10,
+      "location": 2,
+      "content": "那么你的恢复能力恢复的好的话",
+      "music": 0.0
+    },
+    {
+      "from": 20.78,
+      "to": 22.78,
+      "sid": 11,
+      "location": 2,
+      "content": "30kg的510你是可以完成的",
+      "music": 0.0
+    },
+    {
+      "from": 22.78,
+      "to": 23.77,
+      "sid": 12,
+      "location": 2,
+      "content": "来到了第四天",
+      "music": 0.0
+    },
+    {
+      "from": 23.77,
+      "to": 25.35,
+      "sid": 13,
+      "location": 2,
+      "content": "我们迎来了超量的恢复",
+      "music": 0.0
+    },
+    {
+      "from": 25.35,
+      "to": 27.21,
+      "sid": 14,
+      "location": 2,
+      "content": "可以用32.5做5×10",
+      "music": 0.0
+    },
+    {
+      "from": 27.21,
+      "to": 29.49,
+      "sid": 15,
+      "location": 2,
+      "content": "以此类推来进行我们的鉴定",
+      "music": 0.0
+    },
+    {
+      "from": 29.49,
+      "to": 30.39,
+      "sid": 16,
+      "location": 2,
+      "content": "超负荷的循环",
+      "music": 0.0
+    },
+    {
+      "from": 30.39,
+      "to": 31.79,
+      "sid": 17,
+      "location": 2,
+      "content": "那么这里面有一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 31.79,
+      "to": 32.47,
+      "sid": 18,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 32.47,
+      "to": 35.87,
+      "sid": 19,
+      "location": 2,
+      "content": "假设我的重量不变",
+      "music": 0.0
+    },
+    {
+      "from": 35.87,
+      "to": 38.57,
+      "sid": 20,
+      "location": 2,
+      "content": "我的总容量也不变",
+      "music": 0.0
+    },
+    {
+      "from": 38.57,
+      "to": 41.25,
+      "sid": 21,
+      "location": 2,
+      "content": "如何来实行渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 41.25,
+      "to": 42.39,
+      "sid": 22,
+      "location": 2,
+      "content": "好先动脑筋",
+      "music": 0.0
+    },
+    {
+      "from": 42.39,
+      "to": 43.49,
+      "sid": 23,
+      "location": 2,
+      "content": "简单的想一想",
+      "music": 0.0
+    },
+    {
+      "from": 43.49,
+      "to": 46.05,
+      "sid": 24,
+      "location": 2,
+      "content": "同样的兄弟们看我的视频不需要付费",
+      "music": 0.0
+    },
+    {
+      "from": 46.05,
+      "to": 48.105,
+      "sid": 25,
+      "location": 2,
+      "content": "但是请你准备好水",
+      "music": 0.0
+    },
+    {
+      "from": 53.7,
+      "to": 54.26,
+      "sid": 26,
+      "location": 2,
+      "content": "怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 54.26,
+      "to": 55.48,
+      "sid": 27,
+      "location": 2,
+      "content": "同学们想出来了吗",
+      "music": 0.0
+    },
+    {
+      "from": 55.48,
+      "to": 56.62,
+      "sid": 28,
+      "location": 2,
+      "content": "有答案了吗",
+      "music": 0.0
+    },
+    {
+      "from": 56.62,
+      "to": 61.14,
+      "sid": 29,
+      "location": 2,
+      "content": "举例同样的用60kg",
+      "music": 0.0
+    },
+    {
+      "from": 63.36,
+      "to": 67.48,
+      "sid": 30,
+      "location": 2,
+      "content": "如何让我们在后来的两个月时间",
+      "music": 0.0
+    },
+    {
+      "from": 67.48,
+      "to": 71.09,
+      "sid": 31,
+      "location": 2,
+      "content": "我们这个做主的重量它不变",
+      "music": 0.0
+    },
+    {
+      "from": 71.09,
+      "to": 73.19,
+      "sid": 32,
+      "location": 2,
+      "content": "我们的总容量也不变",
+      "music": 0.0
+    },
+    {
+      "from": 73.19,
+      "to": 77.3,
+      "sid": 33,
+      "location": 2,
+      "content": "我们需要来到每一次训练做60个",
+      "music": 0.0
+    },
+    {
+      "from": 77.3,
+      "to": 79.979,
+      "sid": 34,
+      "location": 2,
+      "content": "那么如何来实行这个鉴定超负荷呢",
+      "music": 0.0
+    },
+    {
+      "from": 79.979,
+      "to": 82.979,
+      "sid": 35,
+      "location": 2,
+      "content": "那就需要用到我们更高一阶的渐进",
+      "music": 0.0
+    },
+    {
+      "from": 82.979,
+      "to": 83.899,
+      "sid": 36,
+      "location": 2,
+      "content": "超负荷的一个理念",
+      "music": 0.0
+    },
+    {
+      "from": 83.899,
+      "to": 85.299,
+      "sid": 37,
+      "location": 2,
+      "content": "叫做压缩训练",
+      "music": 0.0
+    },
+    {
+      "from": 85.299,
+      "to": 86.4,
+      "sid": 38,
+      "location": 2,
+      "content": "何为压缩训练",
+      "music": 0.0
+    },
+    {
+      "from": 86.4,
+      "to": 90.08,
+      "sid": 39,
+      "location": 2,
+      "content": "就是在我们有限的什么重量容量",
+      "music": 0.0
+    },
+    {
+      "from": 90.08,
+      "to": 93.05,
+      "sid": 40,
+      "location": 2,
+      "content": "还有一个直接去",
+      "music": 0.0
+    },
+    {
+      "from": 93.05,
+      "to": 95.09,
+      "sid": 41,
+      "location": 2,
+      "content": "当然我们刚开始不讲时间",
+      "music": 0.0
+    },
+    {
+      "from": 95.09,
+      "to": 97.27,
+      "sid": 42,
+      "location": 2,
+      "content": "很多的朋友说直接来压缩我们的组间歇",
+      "music": 0.0
+    },
+    {
+      "from": 97.27,
+      "to": 98.87,
+      "sid": 43,
+      "location": 2,
+      "content": "也可以造成我们的机体超不过",
+      "music": 0.0
+    },
+    {
+      "from": 98.87,
+      "to": 100.7,
+      "sid": 44,
+      "location": 2,
+      "content": "但是身为我们的主项",
+      "music": 0.0
+    },
+    {
+      "from": 100.7,
+      "to": 102.9,
+      "sid": 45,
+      "location": 2,
+      "content": "你app的恢复你必须得给他留够那么多时间",
+      "music": 0.0
+    },
+    {
+      "from": 102.9,
+      "to": 106.34,
+      "sid": 46,
+      "location": 2,
+      "content": "你不可能说把安迪本来app所要恢复的时间",
+      "music": 0.0
+    },
+    {
+      "from": 106.34,
+      "to": 107.2,
+      "sid": 47,
+      "location": 2,
+      "content": "全部给他砍掉",
+      "music": 0.0
+    },
+    {
+      "from": 107.2,
+      "to": 108.56,
+      "sid": 48,
+      "location": 2,
+      "content": "但你也完不成",
+      "music": 0.0
+    },
+    {
+      "from": 108.56,
+      "to": 109.92,
+      "sid": 49,
+      "location": 2,
+      "content": "那举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 109.92,
+      "to": 114.97,
+      "sid": 50,
+      "location": 2,
+      "content": "60kg我们做六组十次",
+      "music": 0.0
+    },
+    {
+      "from": 115.31,
+      "to": 116.35,
+      "sid": 51,
+      "location": 2,
+      "content": "有没有思路啦",
+      "music": 0.0
+    },
+    {
+      "from": 116.35,
+      "to": 117.67,
+      "sid": 52,
+      "location": 2,
+      "content": "我写出来还是没有是吧",
+      "music": 0.0
+    },
+    {
+      "from": 118.95,
+      "to": 119.83,
+      "sid": 53,
+      "location": 2,
+      "content": "再往后啊",
+      "music": 0.0
+    },
+    {
+      "from": 120.87,
+      "to": 123.39,
+      "sid": 54,
+      "location": 2,
+      "content": "5×12",
+      "music": 0.0
+    },
+    {
+      "from": 123.99,
+      "to": 126.27,
+      "sid": 55,
+      "location": 2,
+      "content": "4×15",
+      "music": 0.0
+    },
+    {
+      "from": 127.39,
+      "to": 130.4,
+      "sid": 56,
+      "location": 2,
+      "content": "3×20",
+      "music": 0.0
+    },
+    {
+      "from": 131.12,
+      "to": 136.24,
+      "sid": 57,
+      "location": 2,
+      "content": "有过训练经验的老铁肯定现在已经醍醐灌顶",
+      "music": 0.0
+    },
+    {
+      "from": 136.24,
+      "to": 142.81,
+      "sid": 58,
+      "location": 2,
+      "content": "这几个的难度他实际上是在呈指数上升的",
+      "music": 0.0
+    },
+    {
+      "from": 142.81,
+      "to": 145.79,
+      "sid": 59,
+      "location": 2,
+      "content": "虽然说我们60kg的重量没变",
+      "music": 0.0
+    },
+    {
+      "from": 145.79,
+      "to": 153.77,
+      "sid": 60,
+      "location": 2,
+      "content": "但是它提升了我们单次做主的什么RM",
+      "music": 0.0
+    },
+    {
+      "from": 153.77,
+      "to": 156.329,
+      "sid": 61,
+      "location": 2,
+      "content": "你不要以为这是电梯耐力啊",
+      "music": 0.0
+    },
+    {
+      "from": 156.329,
+      "to": 159.769,
+      "sid": 62,
+      "location": 2,
+      "content": "当你从60kg刚开始做610",
+      "music": 0.0
+    },
+    {
+      "from": 159.769,
+      "to": 165.32,
+      "sid": 63,
+      "location": 2,
+      "content": "一般会用到那13或者14rm来套",
+      "music": 0.0
+    },
+    {
+      "from": 165.32,
+      "to": 166.64,
+      "sid": 64,
+      "location": 2,
+      "content": "我们60kg",
+      "music": 0.0
+    },
+    {
+      "from": 167.0,
+      "to": 169.66,
+      "sid": 65,
+      "location": 2,
+      "content": "你能单组做20次",
+      "music": 0.0
+    },
+    {
+      "from": 169.66,
+      "to": 172.37,
+      "sid": 66,
+      "location": 2,
+      "content": "你想想你的力量的提升好",
+      "music": 0.0
+    },
+    {
+      "from": 172.69,
+      "to": 175.35,
+      "sid": 67,
+      "location": 2,
+      "content": "这至少会用到25R2.5以上",
+      "music": 0.0
+    },
+    {
+      "from": 175.35,
+      "to": 178.45,
+      "sid": 68,
+      "location": 2,
+      "content": "但是这个我再往上可能就不太准确了",
+      "music": 0.0
+    },
+    {
+      "from": 178.45,
+      "to": 181.07,
+      "sid": 69,
+      "location": 2,
+      "content": "那么往后我们也可以退接",
+      "music": 0.0
+    },
+    {
+      "from": 181.07,
+      "to": 181.77,
+      "sid": 70,
+      "location": 2,
+      "content": "举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 181.77,
+      "to": 183.37,
+      "sid": 71,
+      "location": 2,
+      "content": "当我们的6×10我们构成的时候",
+      "music": 0.0
+    },
+    {
+      "from": 183.37,
+      "to": 184.93,
+      "sid": 72,
+      "location": 2,
+      "content": "我们可以怎么样做",
+      "music": 0.0
+    },
+    {
+      "from": 188.08,
+      "to": 191.28,
+      "sid": 73,
+      "location": 2,
+      "content": "10×60组六次能不能做",
+      "music": 0.0
+    },
+    {
+      "from": 191.28,
+      "to": 196.45,
+      "sid": 74,
+      "location": 2,
+      "content": "同样的我们可以来退一经低开高走吗",
+      "music": 0.0
+    },
+    {
+      "from": 196.45,
+      "to": 198.98,
+      "sid": 75,
+      "location": 2,
+      "content": "这个就是渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 198.98,
+      "to": 202.52,
+      "sid": 76,
+      "location": 2,
+      "content": "它非常一个大的体系里面的一个分支",
+      "music": 0.0
+    },
+    {
+      "from": 202.52,
+      "to": 205.14,
+      "sid": 77,
+      "location": 2,
+      "content": "当然我最开始跟大家讲的训练计划",
+      "music": 0.0
+    },
+    {
+      "from": 205.14,
+      "to": 208.66,
+      "sid": 78,
+      "location": 2,
+      "content": "只用重量来实行渐进超负荷是最简单的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 208.66,
+      "to": 210.14,
+      "sid": 79,
+      "location": 2,
+      "content": "因为那个东西大家都知道",
+      "music": 0.0
+    },
+    {
+      "from": 210.14,
+      "to": 211.1,
+      "sid": 80,
+      "location": 2,
+      "content": "每一次训练去增加重量",
+      "music": 0.0
+    },
+    {
+      "from": 211.1,
+      "to": 212.3,
+      "sid": 81,
+      "location": 2,
+      "content": "每一次训练去增加重量",
+      "music": 0.0
+    },
+    {
+      "from": 212.3,
+      "to": 215.74,
+      "sid": 82,
+      "location": 2,
+      "content": "然而当有一天我们的训练来到了一定年限之后",
+      "music": 0.0
+    },
+    {
+      "from": 215.74,
+      "to": 218.839,
+      "sid": 83,
+      "location": 2,
+      "content": "你越来越迫近自己基因的上限之后",
+      "music": 0.0
+    },
+    {
+      "from": 218.839,
+      "to": 220.259,
+      "sid": 84,
+      "location": 2,
+      "content": "你的重量加不了了呀",
+      "music": 0.0
+    },
+    {
+      "from": 220.259,
+      "to": 221.099,
+      "sid": 85,
+      "location": 2,
+      "content": "没办法加",
+      "music": 0.0
+    },
+    {
+      "from": 221.099,
+      "to": 224.05,
+      "sid": 86,
+      "location": 2,
+      "content": "那还有更长远一点的",
+      "music": 0.0
+    },
+    {
+      "from": 224.05,
+      "to": 225.61,
+      "sid": 87,
+      "location": 2,
+      "content": "你的训练年限越高",
+      "music": 0.0
+    },
+    {
+      "from": 225.61,
+      "to": 226.87,
+      "sid": 88,
+      "location": 2,
+      "content": "做主力重量越大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 226.87,
+      "to": 229.25,
+      "sid": 89,
+      "location": 2,
+      "content": "还是能有以周为一个单位的鉴定超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 229.25,
+      "to": 231.879,
+      "sid": 90,
+      "location": 2,
+      "content": "比如说我现在我刚开始",
+      "music": 0.0
+    },
+    {
+      "from": 231.879,
+      "to": 234.179,
+      "sid": 91,
+      "location": 2,
+      "content": "现在走到了计划的最末期",
+      "music": 0.0
+    },
+    {
+      "from": 234.179,
+      "to": 235.459,
+      "sid": 92,
+      "location": 2,
+      "content": "用到了最大重量",
+      "music": 0.0
+    },
+    {
+      "from": 235.459,
+      "to": 237.54,
+      "sid": 93,
+      "location": 2,
+      "content": "几乎95%的重量",
+      "music": 0.0
+    },
+    {
+      "from": 237.54,
+      "to": 239.06,
+      "sid": 94,
+      "location": 2,
+      "content": "基本上就3rm嘛",
+      "music": 0.0
+    },
+    {
+      "from": 239.06,
+      "to": 241.5,
+      "sid": 95,
+      "location": 2,
+      "content": "3rm都要看状态来做22",
+      "music": 0.0
+    },
+    {
+      "from": 242.66,
+      "to": 244.62,
+      "sid": 96,
+      "location": 2,
+      "content": "这是第一周啊",
+      "music": 0.0
+    },
+    {
+      "from": 244.62,
+      "to": 247.2,
+      "sid": 97,
+      "location": 2,
+      "content": "我做第一组做三个的话",
+      "music": 0.0
+    },
+    {
+      "from": 247.2,
+      "to": 247.88,
+      "sid": 98,
+      "location": 2,
+      "content": "我完不成",
+      "music": 0.0
+    },
+    {
+      "from": 247.88,
+      "to": 249.84,
+      "sid": 99,
+      "location": 2,
+      "content": "那么第二组很吃力哈",
+      "music": 0.0
+    },
+    {
+      "from": 249.84,
+      "to": 250.86,
+      "sid": 100,
+      "location": 2,
+      "content": "有可能两个都玩不成了",
+      "music": 0.0
+    },
+    {
+      "from": 250.86,
+      "to": 252.94,
+      "sid": 101,
+      "location": 2,
+      "content": "所以说直接用2×2非常的保险",
+      "music": 0.0
+    },
+    {
+      "from": 252.94,
+      "to": 254.73,
+      "sid": 102,
+      "location": 2,
+      "content": "有一定的余力啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.73,
+      "to": 258.15,
+      "sid": 103,
+      "location": 2,
+      "content": "那么第二周只有用三组两次",
+      "music": 0.0
+    },
+    {
+      "from": 258.15,
+      "to": 261.82,
+      "sid": 104,
+      "location": 2,
+      "content": "那么第三周用四组两个",
+      "music": 0.0
+    },
+    {
+      "from": 261.82,
+      "to": 264.46,
+      "sid": 105,
+      "location": 2,
+      "content": "同样的来实现了我们的建议超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 264.46,
+      "to": 268.82,
+      "sid": 106,
+      "location": 2,
+      "content": "那么当我们在训练计划走到了一定的阶段之前",
+      "music": 0.0
+    },
+    {
+      "from": 268.82,
+      "to": 269.95,
+      "sid": 107,
+      "location": 2,
+      "content": "跟大家说",
+      "music": 0.0
+    },
+    {
+      "from": 269.95,
+      "to": 273.47,
+      "sid": 108,
+      "location": 2,
+      "content": "除了我们去缩减我们训练的容量之后",
+      "music": 0.0
+    },
+    {
+      "from": 273.47,
+      "to": 274.47,
+      "sid": 109,
+      "location": 2,
+      "content": "重量递增",
+      "music": 0.0
+    },
+    {
+      "from": 274.47,
+      "to": 280.07,
+      "sid": 110,
+      "location": 2,
+      "content": "也可以保持着我们的做主的重量停留一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 280.07,
+      "to": 280.93,
+      "sid": 111,
+      "location": 2,
+      "content": "提到的时间",
+      "music": 0.0
+    },
+    {
+      "from": 280.93,
+      "to": 284.99,
+      "sid": 112,
+      "location": 2,
+      "content": "同样的适用于我们的常见的4×10的引体向上",
+      "music": 0.0
+    },
+    {
+      "from": 286.86,
+      "to": 289.52,
+      "sid": 113,
+      "location": 2,
+      "content": "那么引体向上如何来实行渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 289.52,
+      "to": 290.62,
+      "sid": 114,
+      "location": 2,
+      "content": "那就是时间呀",
+      "music": 0.0
+    },
+    {
+      "from": 290.62,
+      "to": 293.74,
+      "sid": 115,
+      "location": 2,
+      "content": "很多人说引体向上它不适合渐进超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 293.74,
+      "to": 295.37,
+      "sid": 116,
+      "location": 2,
+      "content": "这里先不说负重啊",
+      "music": 0.0
+    },
+    {
+      "from": 295.37,
+      "to": 297.73,
+      "sid": 117,
+      "location": 2,
+      "content": "呃负重这个看自己的情况",
+      "music": 0.0
+    },
+    {
+      "from": 297.73,
+      "to": 298.75,
+      "sid": 118,
+      "location": 2,
+      "content": "因为负重的话",
+      "music": 0.0
+    },
+    {
+      "from": 298.75,
+      "to": 303.0,
+      "sid": 119,
+      "location": 2,
+      "content": "引体向上你会下意识的在力竭的时候缩短幅度",
+      "music": 0.0
+    },
+    {
+      "from": 303.0,
+      "to": 303.48,
+      "sid": 120,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 303.48,
+      "to": 306.68,
+      "sid": 121,
+      "location": 2,
+      "content": "就是说你在负重很大的情况下会出现幅度",
+      "music": 0.0
+    },
+    {
+      "from": 306.68,
+      "to": 309.92,
+      "sid": 122,
+      "location": 2,
+      "content": "那么如何只用10×10引体来提高我们的经济",
+      "music": 0.0
+    },
+    {
+      "from": 309.92,
+      "to": 310.24,
+      "sid": 123,
+      "location": 2,
+      "content": "超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 310.24,
+      "to": 310.98,
+      "sid": 124,
+      "location": 2,
+      "content": "就是10年呀",
+      "music": 0.0
+    },
+    {
+      "from": 310.98,
+      "to": 313.68,
+      "sid": 125,
+      "location": 2,
+      "content": "你最开始估计刚能完成10×10的时候",
+      "music": 0.0
+    },
+    {
+      "from": 313.68,
+      "to": 316.6,
+      "sid": 126,
+      "location": 2,
+      "content": "这四五十分钟都不一定能够走出完这个10×10",
+      "music": 0.0
+    },
+    {
+      "from": 316.6,
+      "to": 317.7,
+      "sid": 127,
+      "location": 2,
+      "content": "那么越到后面",
+      "music": 0.0
+    },
+    {
+      "from": 317.7,
+      "to": 321.74,
+      "sid": 128,
+      "location": 2,
+      "content": "比如说像我平时在要做专项的引体",
+      "music": 0.0
+    },
+    {
+      "from": 321.74,
+      "to": 323.2,
+      "sid": 129,
+      "location": 2,
+      "content": "这一个月走周期的话",
+      "music": 0.0
+    },
+    {
+      "from": 323.2,
+      "to": 325.38,
+      "sid": 130,
+      "location": 2,
+      "content": "10×10的引体就是用时间来压缩好吧",
+      "music": 0.0
+    },
+    {
+      "from": 325.38,
+      "to": 328.39,
+      "sid": 131,
+      "location": 2,
+      "content": "最后可能10×10完成的时间不超过10分钟",
+      "music": 0.0
+    },
+    {
+      "from": 328.39,
+      "to": 329.07,
+      "sid": 132,
+      "location": 2,
+      "content": "就能够完成",
+      "music": 0.0
+    },
+    {
+      "from": 329.07,
+      "to": 329.59,
+      "sid": 133,
+      "location": 2,
+      "content": "10×10",
+      "music": 0.0
+    },
+    {
+      "from": 329.59,
+      "to": 331.86,
+      "sid": 134,
+      "location": 2,
+      "content": "拉完了下来歇个二三十秒又可以继续拉",
+      "music": 0.0
+    },
+    {
+      "from": 331.86,
+      "to": 335.28,
+      "sid": 135,
+      "location": 2,
+      "content": "所以说当我们训练计划遇到了问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 335.28,
+      "to": 336.84,
+      "sid": 136,
+      "location": 2,
+      "content": "一定要学会去动脑筋",
+      "music": 0.0
+    },
+    {
+      "from": 336.84,
+      "to": 340.93,
+      "sid": 137,
+      "location": 2,
+      "content": "不是说只有怎么去加重量一条路",
+      "music": 0.0
+    },
+    {
+      "from": 340.93,
+      "to": 344.57,
+      "sid": 138,
+      "location": 2,
+      "content": "当我们的重量持续卡了一段时间的瓶颈之后",
+      "music": 0.0
+    },
+    {
+      "from": 344.57,
+      "to": 346.65,
+      "sid": 139,
+      "location": 2,
+      "content": "我们可以就这个重量什么",
+      "music": 0.0
+    },
+    {
+      "from": 346.65,
+      "to": 349.36,
+      "sid": 140,
+      "location": 2,
+      "content": "还可以提高他的离心的速度",
+      "music": 0.0
+    },
+    {
+      "from": 349.36,
+      "to": 351.3,
+      "sid": 141,
+      "location": 2,
+      "content": "比如说平时我们正常做组的一个节奏",
+      "music": 0.0
+    },
+    {
+      "from": 351.3,
+      "to": 360.4,
+      "sid": 142,
+      "location": 2,
+      "content": "这一次我们直接把离心加到两秒三秒四秒",
+      "music": 0.0
+    },
+    {
+      "from": 360.4,
+      "to": 365.59,
+      "sid": 143,
+      "location": 2,
+      "content": "直至下次暂停都可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 366.03,
+      "to": 367.63,
+      "sid": 144,
+      "location": 2,
+      "content": "同样的去鉴定超负荷",
+      "music": 0.0
+    },
+    {
+      "from": 367.63,
+      "to": 368.85,
+      "sid": 145,
+      "location": 2,
+      "content": "去增加它的难度",
+      "music": 0.0
+    },
+    {
+      "from": 368.85,
+      "to": 371.91,
+      "sid": 146,
+      "location": 2,
+      "content": "也是能够给我们身体带来更大的刺激",
+      "music": 0.0
+    },
+    {
+      "from": 371.91,
+      "to": 372.19,
+      "sid": 147,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 372.19,
+      "to": 372.919,
+      "sid": 148,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 372.919,
+      "to": 373.779,
+      "sid": 149,
+      "location": 2,
+      "content": "多思考",
+      "music": 0.0
+    },
+    {
+      "from": 373.779,
+      "to": 374.639,
+      "sid": 150,
+      "location": 2,
+      "content": "多学习",
+      "music": 0.0
+    },
+    {
+      "from": 374.639,
+      "to": 376.819,
+      "sid": 151,
+      "location": 2,
+      "content": "你所有的成长来源于你的思考",
+      "music": 0.0
+    },
+    {
+      "from": 376.819,
+      "to": 378.019,
+      "sid": 152,
+      "location": 2,
+      "content": "祝你渐入佳境",
+      "music": 0.0
+    },
+    {
+      "from": 378.019,
+      "to": 378.639,
+      "sid": 153,
+      "location": 2,
+      "content": "听懂你的",
+      "music": 0.0
+    },
+    {
+      "from": 378.639,
+      "to": 379.379,
+      "sid": 154,
+      "location": 2,
+      "content": "听不解散",
+      "music": 0.0
+    },
+    {
+      "from": 379.379,
+      "to": 380.26,
+      "sid": 155,
+      "location": 2,
+      "content": "下课",
+      "music": 0.0
+    }
+  ]
+}

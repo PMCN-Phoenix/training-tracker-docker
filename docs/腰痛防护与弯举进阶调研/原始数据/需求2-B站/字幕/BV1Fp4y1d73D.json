@@ -1,0 +1,1404 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.06,
+      "to": 3.21,
+      "sid": 1,
+      "location": 2,
+      "content": "兄弟姐妹们都说练完三头以后",
+      "music": 0.0
+    },
+    {
+      "from": 3.21,
+      "to": 3.93,
+      "sid": 2,
+      "location": 2,
+      "content": "二头怎么练",
+      "music": 0.0
+    },
+    {
+      "from": 3.93,
+      "to": 5.61,
+      "sid": 3,
+      "location": 2,
+      "content": "我只分享了一个杠铃弯举",
+      "music": 0.0
+    },
+    {
+      "from": 5.61,
+      "to": 8.26,
+      "sid": 4,
+      "location": 2,
+      "content": "但是我在健身房抢不到那个小杠铃怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 8.26,
+      "to": 10.96,
+      "sid": 5,
+      "location": 2,
+      "content": "那我们今天再分享一个对于二头训练来说",
+      "music": 0.0
+    },
+    {
+      "from": 10.96,
+      "to": 12.22,
+      "sid": 6,
+      "location": 2,
+      "content": "比较高效的动作",
+      "music": 0.0
+    },
+    {
+      "from": 12.22,
+      "to": 14.02,
+      "sid": 7,
+      "location": 2,
+      "content": "哑铃弯举啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.02,
+      "to": 15.58,
+      "sid": 8,
+      "location": 2,
+      "content": "今天叶师傅休息了",
+      "music": 0.0
+    },
+    {
+      "from": 15.58,
+      "to": 16.42,
+      "sid": 9,
+      "location": 2,
+      "content": "就没有模特了",
+      "music": 0.0
+    },
+    {
+      "from": 16.42,
+      "to": 18.46,
+      "sid": 10,
+      "location": 2,
+      "content": "只能我给你们展示了穿的比较多的",
+      "music": 0.0
+    },
+    {
+      "from": 18.46,
+      "to": 19.45,
+      "sid": 11,
+      "location": 2,
+      "content": "你们凑合看吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 19.45,
+      "to": 20.11,
+      "sid": 12,
+      "location": 2,
+      "content": "这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 20.11,
+      "to": 23.71,
+      "sid": 13,
+      "location": 2,
+      "content": "我们还是不建议大家使用盲目的大重量",
+      "music": 0.0
+    },
+    {
+      "from": 23.71,
+      "to": 25.18,
+      "sid": 14,
+      "location": 2,
+      "content": "就是抡啊甩啊",
+      "music": 0.0
+    },
+    {
+      "from": 25.18,
+      "to": 27.76,
+      "sid": 15,
+      "location": 2,
+      "content": "然后我们在这之前做一个君子协议好不好",
+      "music": 0.0
+    },
+    {
+      "from": 27.76,
+      "to": 28.48,
+      "sid": 16,
+      "location": 2,
+      "content": "就是这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 28.48,
+      "to": 31.72,
+      "sid": 17,
+      "location": 2,
+      "content": "第一我们要保证全程啊有张力",
+      "music": 0.0
+    },
+    {
+      "from": 31.72,
+      "to": 33.22,
+      "sid": 18,
+      "location": 2,
+      "content": "不能过分的借力",
+      "music": 0.0
+    },
+    {
+      "from": 33.22,
+      "to": 35.99,
+      "sid": 19,
+      "location": 2,
+      "content": "顶峰的时候有很明显的主动收缩",
+      "music": 0.0
+    },
+    {
+      "from": 35.99,
+      "to": 37.37,
+      "sid": 20,
+      "location": 2,
+      "content": "离心的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 37.37,
+      "to": 38.84,
+      "sid": 21,
+      "location": 2,
+      "content": "要有比较好的控制",
+      "music": 0.0
+    },
+    {
+      "from": 38.84,
+      "to": 43.24,
+      "sid": 22,
+      "location": 2,
+      "content": "在这三条的基础上去选择适合你的重量",
+      "music": 0.0
+    },
+    {
+      "from": 43.24,
+      "to": 45.22,
+      "sid": 23,
+      "location": 2,
+      "content": "做多少次就根据你的训练计划定了",
+      "music": 0.0
+    },
+    {
+      "from": 45.22,
+      "to": 46.3,
+      "sid": 24,
+      "location": 2,
+      "content": "比如八次也好啊",
+      "music": 0.0
+    },
+    {
+      "from": 46.3,
+      "to": 46.66,
+      "sid": 25,
+      "location": 2,
+      "content": "12次",
+      "music": 0.0
+    },
+    {
+      "from": 46.66,
+      "to": 47.62,
+      "sid": 26,
+      "location": 2,
+      "content": "十五六次也可以",
+      "music": 0.0
+    },
+    {
+      "from": 47.62,
+      "to": 48.28,
+      "sid": 27,
+      "location": 2,
+      "content": "然后再多",
+      "music": 0.0
+    },
+    {
+      "from": 48.28,
+      "to": 49.78,
+      "sid": 28,
+      "location": 2,
+      "content": "我觉得意义就不是特别大了",
+      "music": 0.0
+    },
+    {
+      "from": 49.78,
+      "to": 51.88,
+      "sid": 29,
+      "location": 2,
+      "content": "我先拿十的展示好",
+      "music": 0.0
+    },
+    {
+      "from": 51.88,
+      "to": 53.92,
+      "sid": 30,
+      "location": 2,
+      "content": "我们握在这个哑铃的中间的时候",
+      "music": 0.0
+    },
+    {
+      "from": 53.92,
+      "to": 55.54,
+      "sid": 31,
+      "location": 2,
+      "content": "我们还是先看握法",
+      "music": 0.0
+    },
+    {
+      "from": 55.54,
+      "to": 58.53,
+      "sid": 32,
+      "location": 2,
+      "content": "我们不要就是握在手掌靠前的位置",
+      "music": 0.0
+    },
+    {
+      "from": 58.53,
+      "to": 59.79,
+      "sid": 33,
+      "location": 2,
+      "content": "这样起来的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 59.79,
+      "to": 61.47,
+      "sid": 34,
+      "location": 2,
+      "content": "我们肯定会有一个虚腕",
+      "music": 0.0
+    },
+    {
+      "from": 61.47,
+      "to": 62.49,
+      "sid": 35,
+      "location": 2,
+      "content": "小臂就会受力",
+      "music": 0.0
+    },
+    {
+      "from": 62.49,
+      "to": 63.93,
+      "sid": 36,
+      "location": 2,
+      "content": "还是跟杠铃一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 63.93,
+      "to": 65.28,
+      "sid": 37,
+      "location": 2,
+      "content": "我们要尽量靠下",
+      "music": 0.0
+    },
+    {
+      "from": 65.28,
+      "to": 66.99,
+      "sid": 38,
+      "location": 2,
+      "content": "不能握得太靠上",
+      "music": 0.0
+    },
+    {
+      "from": 66.99,
+      "to": 68.34,
+      "sid": 39,
+      "location": 2,
+      "content": "一定要握得啊",
+      "music": 0.0
+    },
+    {
+      "from": 68.34,
+      "to": 69.24,
+      "sid": 40,
+      "location": 2,
+      "content": "足够合适",
+      "music": 0.0
+    },
+    {
+      "from": 69.24,
+      "to": 70.85,
+      "sid": 41,
+      "location": 2,
+      "content": "不要放在手腕的远端",
+      "music": 0.0
+    },
+    {
+      "from": 70.85,
+      "to": 73.79,
+      "sid": 42,
+      "location": 2,
+      "content": "这样你的手腕压力小臂压力就会比较大",
+      "music": 0.0
+    },
+    {
+      "from": 73.79,
+      "to": 77.39,
+      "sid": 43,
+      "location": 2,
+      "content": "需要放在手腕的近端起来的时候",
+      "music": 0.0
+    },
+    {
+      "from": 77.39,
+      "to": 80.73,
+      "sid": 44,
+      "location": 2,
+      "content": "有一种把它托起来的感觉啊",
+      "music": 0.0
+    },
+    {
+      "from": 80.73,
+      "to": 82.02,
+      "sid": 45,
+      "location": 2,
+      "content": "托着托起来的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 82.02,
+      "to": 86.66,
+      "sid": 46,
+      "location": 2,
+      "content": "这样你的手腕跟小臂就不会有特别大的压力啊",
+      "music": 0.0
+    },
+    {
+      "from": 86.66,
+      "to": 88.82,
+      "sid": 47,
+      "location": 2,
+      "content": "这个动作我们主要要练的呢",
+      "music": 0.0
+    },
+    {
+      "from": 88.82,
+      "to": 90.26,
+      "sid": 48,
+      "location": 2,
+      "content": "是我们的肱二头肌区间",
+      "music": 0.0
+    },
+    {
+      "from": 90.26,
+      "to": 92.0,
+      "sid": 49,
+      "location": 2,
+      "content": "屈肘旋外是肱二头肌的作用",
+      "music": 0.0
+    },
+    {
+      "from": 92.0,
+      "to": 93.74,
+      "sid": 50,
+      "location": 2,
+      "content": "很多人说说我放在这的时候",
+      "music": 0.0
+    },
+    {
+      "from": 93.74,
+      "to": 95.449,
+      "sid": 51,
+      "location": 2,
+      "content": "我起来的时候只能竖着起来",
+      "music": 0.0
+    },
+    {
+      "from": 95.449,
+      "to": 97.849,
+      "sid": 52,
+      "location": 2,
+      "content": "然后呢我横着起来的时候很费劲",
+      "music": 0.0
+    },
+    {
+      "from": 97.849,
+      "to": 98.869,
+      "sid": 53,
+      "location": 2,
+      "content": "会碰到我的腿",
+      "music": 0.0
+    },
+    {
+      "from": 98.869,
+      "to": 102.13,
+      "sid": 54,
+      "location": 2,
+      "content": "我先徒手给大家示范一个它启动时候的轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 102.13,
+      "to": 103.75,
+      "sid": 55,
+      "location": 2,
+      "content": "很多人启动的时候会甩",
+      "music": 0.0
+    },
+    {
+      "from": 103.75,
+      "to": 107.62,
+      "sid": 56,
+      "location": 2,
+      "content": "比如说我蹬腿伸髋甩起来",
+      "music": 0.0
+    },
+    {
+      "from": 107.62,
+      "to": 110.2,
+      "sid": 57,
+      "location": 2,
+      "content": "然后没有没有明显的收缩啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.2,
+      "to": 112.06,
+      "sid": 58,
+      "location": 2,
+      "content": "就是收缩的时候其实都是放空的",
+      "music": 0.0
+    },
+    {
+      "from": 112.06,
+      "to": 113.86,
+      "sid": 59,
+      "location": 2,
+      "content": "然后再放下来",
+      "music": 0.0
+    },
+    {
+      "from": 113.86,
+      "to": 117.19,
+      "sid": 60,
+      "location": 2,
+      "content": "这样其实训练效率相对来说会低一些",
+      "music": 0.0
+    },
+    {
+      "from": 117.19,
+      "to": 118.63,
+      "sid": 61,
+      "location": 2,
+      "content": "而且有一定的风险",
+      "music": 0.0
+    },
+    {
+      "from": 118.63,
+      "to": 120.28,
+      "sid": 62,
+      "location": 2,
+      "content": "那么我们要做到的呢",
+      "music": 0.0
+    },
+    {
+      "from": 120.28,
+      "to": 123.21,
+      "sid": 63,
+      "location": 2,
+      "content": "就是起来的时候就要让它有比较明显的张力",
+      "music": 0.0
+    },
+    {
+      "from": 123.21,
+      "to": 125.58,
+      "sid": 64,
+      "location": 2,
+      "content": "首先身体可以微微的前倾",
+      "music": 0.0
+    },
+    {
+      "from": 125.58,
+      "to": 127.11,
+      "sid": 65,
+      "location": 2,
+      "content": "然后固定好你的髋",
+      "music": 0.0
+    },
+    {
+      "from": 127.11,
+      "to": 130.26,
+      "sid": 66,
+      "location": 2,
+      "content": "膝盖呢不要明显的区啊",
+      "music": 0.0
+    },
+    {
+      "from": 130.26,
+      "to": 131.1,
+      "sid": 67,
+      "location": 2,
+      "content": "如果明显区的话",
+      "music": 0.0
+    },
+    {
+      "from": 131.1,
+      "to": 132.26,
+      "sid": 68,
+      "location": 2,
+      "content": "你肯定会借力",
+      "music": 0.0
+    },
+    {
+      "from": 132.26,
+      "to": 133.82,
+      "sid": 69,
+      "location": 2,
+      "content": "所以说膝盖尽量伸直",
+      "music": 0.0
+    },
+    {
+      "from": 133.82,
+      "to": 135.41,
+      "sid": 70,
+      "location": 2,
+      "content": "但不锁死双手",
+      "music": 0.0
+    },
+    {
+      "from": 135.41,
+      "to": 136.7,
+      "sid": 71,
+      "location": 2,
+      "content": "拿着哑铃的时候",
+      "music": 0.0
+    },
+    {
+      "from": 136.7,
+      "to": 138.5,
+      "sid": 72,
+      "location": 2,
+      "content": "手掌相对的不是这个状态",
+      "music": 0.0
+    },
+    {
+      "from": 138.5,
+      "to": 140.829,
+      "sid": 73,
+      "location": 2,
+      "content": "比的过程当中要有一个外圈",
+      "music": 0.0
+    },
+    {
+      "from": 140.829,
+      "to": 142.329,
+      "sid": 74,
+      "location": 2,
+      "content": "要有一个外旋啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.329,
+      "to": 143.899,
+      "sid": 75,
+      "location": 2,
+      "content": "我们不是先屈肘",
+      "music": 0.0
+    },
+    {
+      "from": 143.899,
+      "to": 146.689,
+      "sid": 76,
+      "location": 2,
+      "content": "我们是先驱大臂有一个外旋在",
+      "music": 0.0
+    },
+    {
+      "from": 146.689,
+      "to": 150.54,
+      "sid": 77,
+      "location": 2,
+      "content": "然后呢大臂区把我们的这个整个大臂向前推",
+      "music": 0.0
+    },
+    {
+      "from": 150.54,
+      "to": 153.0,
+      "sid": 78,
+      "location": 2,
+      "content": "然后呢再让你的小臂画一个半圆",
+      "music": 0.0
+    },
+    {
+      "from": 154.44,
+      "to": 156.91,
+      "sid": 79,
+      "location": 2,
+      "content": "在这个位置把你的肱二头肌收紧",
+      "music": 0.0
+    },
+    {
+      "from": 156.91,
+      "to": 159.01,
+      "sid": 80,
+      "location": 2,
+      "content": "很多人问我为什么不能站直",
+      "music": 0.0
+    },
+    {
+      "from": 159.01,
+      "to": 160.15,
+      "sid": 81,
+      "location": 2,
+      "content": "为什么不能后仰",
+      "music": 0.0
+    },
+    {
+      "from": 160.15,
+      "to": 161.23,
+      "sid": 82,
+      "location": 2,
+      "content": "我们可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 161.23,
+      "to": 163.67,
+      "sid": 83,
+      "location": 2,
+      "content": "如果我站直或者后仰在这个状态的话",
+      "music": 0.0
+    },
+    {
+      "from": 163.67,
+      "to": 166.01,
+      "sid": 84,
+      "location": 2,
+      "content": "你的小臂将完全垂直于地面",
+      "music": 0.0
+    },
+    {
+      "from": 166.01,
+      "to": 168.47,
+      "sid": 85,
+      "location": 2,
+      "content": "其实你就也不再有什么抗阻了",
+      "music": 0.0
+    },
+    {
+      "from": 168.47,
+      "to": 170.15,
+      "sid": 86,
+      "location": 2,
+      "content": "所以我们微微前倾以后",
+      "music": 0.0
+    },
+    {
+      "from": 170.15,
+      "to": 172.41,
+      "sid": 87,
+      "location": 2,
+      "content": "那么哪怕我们在顶峰收缩的时候",
+      "music": 0.0
+    },
+    {
+      "from": 172.41,
+      "to": 174.15,
+      "sid": 88,
+      "location": 2,
+      "content": "我们的这个二头啊",
+      "music": 0.0
+    },
+    {
+      "from": 174.15,
+      "to": 176.069,
+      "sid": 89,
+      "location": 2,
+      "content": "它还是有张力的啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.069,
+      "to": 178.079,
+      "sid": 90,
+      "location": 2,
+      "content": "你的顶峰收缩强度会高一些",
+      "music": 0.0
+    },
+    {
+      "from": 178.079,
+      "to": 180.569,
+      "sid": 91,
+      "location": 2,
+      "content": "然后离心的时候我们控制好轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 180.569,
+      "to": 182.5,
+      "sid": 92,
+      "location": 2,
+      "content": "然后最后快接近腿的时候",
+      "music": 0.0
+    },
+    {
+      "from": 182.5,
+      "to": 184.9,
+      "sid": 93,
+      "location": 2,
+      "content": "然后再把这个哑铃给转过来",
+      "music": 0.0
+    },
+    {
+      "from": 184.9,
+      "to": 186.77,
+      "sid": 94,
+      "location": 2,
+      "content": "那我连着做一遍",
+      "music": 0.0
+    },
+    {
+      "from": 187.23,
+      "to": 192.79,
+      "sid": 95,
+      "location": 2,
+      "content": "收紧下来收紧对吧",
+      "music": 0.0
+    },
+    {
+      "from": 192.79,
+      "to": 193.96,
+      "sid": 96,
+      "location": 2,
+      "content": "收紧啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.96,
+      "to": 195.52,
+      "sid": 97,
+      "location": 2,
+      "content": "这样你的二头收缩比较完整",
+      "music": 0.0
+    },
+    {
+      "from": 195.52,
+      "to": 196.48,
+      "sid": 98,
+      "location": 2,
+      "content": "你要如果甩的话",
+      "music": 0.0
+    },
+    {
+      "from": 196.48,
+      "to": 198.59,
+      "sid": 99,
+      "location": 2,
+      "content": "你很多哥们就甩",
+      "music": 0.0
+    },
+    {
+      "from": 198.59,
+      "to": 200.57,
+      "sid": 100,
+      "location": 2,
+      "content": "其实你也就损失了张力",
+      "music": 0.0
+    },
+    {
+      "from": 200.57,
+      "to": 201.59,
+      "sid": 101,
+      "location": 2,
+      "content": "很多哥们说说",
+      "music": 0.0
+    },
+    {
+      "from": 201.59,
+      "to": 202.37,
+      "sid": 102,
+      "location": 2,
+      "content": "那既然这样",
+      "music": 0.0
+    },
+    {
+      "from": 202.37,
+      "to": 207.0,
+      "sid": 103,
+      "location": 2,
+      "content": "我起来的时候我还是会碰到我的这个腿怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 207.0,
+      "to": 209.999,
+      "sid": 104,
+      "location": 2,
+      "content": "那我们做哑铃的站姿弯举的时候",
+      "music": 0.0
+    },
+    {
+      "from": 209.999,
+      "to": 211.919,
+      "sid": 105,
+      "location": 2,
+      "content": "其实我们有一个重心的变化",
+      "music": 0.0
+    },
+    {
+      "from": 211.919,
+      "to": 213.809,
+      "sid": 106,
+      "location": 2,
+      "content": "比如说我在做左边的时候",
+      "music": 0.0
+    },
+    {
+      "from": 213.809,
+      "to": 215.94,
+      "sid": 107,
+      "location": 2,
+      "content": "我的重心要在我的左腿上",
+      "music": 0.0
+    },
+    {
+      "from": 215.94,
+      "to": 216.81,
+      "sid": 108,
+      "location": 2,
+      "content": "然后呢",
+      "music": 0.0
+    },
+    {
+      "from": 216.81,
+      "to": 220.98,
+      "sid": 109,
+      "location": 2,
+      "content": "让我的小臂跟大臂在镜子里是一个重叠的状态",
+      "music": 0.0
+    },
+    {
+      "from": 220.98,
+      "to": 223.11,
+      "sid": 110,
+      "location": 2,
+      "content": "这个状态啊重叠的状态",
+      "music": 0.0
+    },
+    {
+      "from": 223.11,
+      "to": 224.34,
+      "sid": 111,
+      "location": 2,
+      "content": "然后下放",
+      "music": 0.0
+    },
+    {
+      "from": 224.34,
+      "to": 228.78,
+      "sid": 112,
+      "location": 2,
+      "content": "然后做这边的时候重心移到右腿上",
+      "music": 0.0
+    },
+    {
+      "from": 231.02,
+      "to": 233.74,
+      "sid": 113,
+      "location": 2,
+      "content": "下放对",
+      "music": 0.0
+    },
+    {
+      "from": 233.74,
+      "to": 235.12,
+      "sid": 114,
+      "location": 2,
+      "content": "然后你的手好",
+      "music": 0.0
+    },
+    {
+      "from": 235.12,
+      "to": 237.36,
+      "sid": 115,
+      "location": 2,
+      "content": "手腕固定好",
+      "music": 0.0
+    },
+    {
+      "from": 239.12,
+      "to": 241.78,
+      "sid": 116,
+      "location": 2,
+      "content": "然后我们再往下放的时候",
+      "music": 0.0
+    },
+    {
+      "from": 241.78,
+      "to": 242.95,
+      "sid": 117,
+      "location": 2,
+      "content": "很多兄弟都是",
+      "music": 0.0
+    },
+    {
+      "from": 242.95,
+      "to": 245.41,
+      "sid": 118,
+      "location": 2,
+      "content": "比如我在这儿做完顶峰收缩了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 245.41,
+      "to": 246.19,
+      "sid": 119,
+      "location": 2,
+      "content": "然非常紧",
+      "music": 0.0
+    },
+    {
+      "from": 246.19,
+      "to": 247.48,
+      "sid": 120,
+      "location": 2,
+      "content": "然后我离心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 247.48,
+      "to": 250.66,
+      "sid": 121,
+      "location": 2,
+      "content": "我这个小臂还没动呢啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.66,
+      "to": 252.4,
+      "sid": 122,
+      "location": 2,
+      "content": "我先把我的肘关节往后撤了",
+      "music": 0.0
+    },
+    {
+      "from": 252.4,
+      "to": 255.03,
+      "sid": 123,
+      "location": 2,
+      "content": "也就是说我先做了一个伸大臂的动作",
+      "music": 0.0
+    },
+    {
+      "from": 255.31,
+      "to": 257.79,
+      "sid": 124,
+      "location": 2,
+      "content": "那它一下它的抗阻距离",
+      "music": 0.0
+    },
+    {
+      "from": 257.79,
+      "to": 259.74,
+      "sid": 125,
+      "location": 2,
+      "content": "就是离心的行程就变短了",
+      "music": 0.0
+    },
+    {
+      "from": 259.74,
+      "to": 262.929,
+      "sid": 126,
+      "location": 2,
+      "content": "有的人啊撤的特别快",
+      "music": 0.0
+    },
+    {
+      "from": 262.929,
+      "to": 265.389,
+      "sid": 127,
+      "location": 2,
+      "content": "这样一下你的离心强度就降低了",
+      "music": 0.0
+    },
+    {
+      "from": 265.389,
+      "to": 267.039,
+      "sid": 128,
+      "location": 2,
+      "content": "所以说我们在离心的时候",
+      "music": 0.0
+    },
+    {
+      "from": 267.039,
+      "to": 268.779,
+      "sid": 129,
+      "location": 2,
+      "content": "为了增加你的强度",
+      "music": 0.0
+    },
+    {
+      "from": 268.779,
+      "to": 270.249,
+      "sid": 130,
+      "location": 2,
+      "content": "你要去顶着你的肘",
+      "music": 0.0
+    },
+    {
+      "from": 270.249,
+      "to": 272.499,
+      "sid": 131,
+      "location": 2,
+      "content": "就感觉比如说要往前够",
+      "music": 0.0
+    },
+    {
+      "from": 272.499,
+      "to": 275.39,
+      "sid": 132,
+      "location": 2,
+      "content": "往远处够的那个感觉一样去",
+      "music": 0.0
+    },
+    {
+      "from": 275.39,
+      "to": 277.13,
+      "sid": 133,
+      "location": 2,
+      "content": "不要让你的肘关节降下来",
+      "music": 0.0
+    },
+    {
+      "from": 277.13,
+      "to": 280.179,
+      "sid": 134,
+      "location": 2,
+      "content": "先让你的手啊小臂往下放",
+      "music": 0.0
+    },
+    {
+      "from": 280.179,
+      "to": 282.399,
+      "sid": 135,
+      "location": 2,
+      "content": "放到快接近伸直的时候",
+      "music": 0.0
+    },
+    {
+      "from": 282.399,
+      "to": 285.549,
+      "sid": 136,
+      "location": 2,
+      "content": "然后大臂跟着再往后走啊",
+      "music": 0.0
+    },
+    {
+      "from": 285.549,
+      "to": 288.65,
+      "sid": 137,
+      "location": 2,
+      "content": "收紧离心的时候往下放",
+      "music": 0.0
+    },
+    {
+      "from": 288.65,
+      "to": 289.04,
+      "sid": 138,
+      "location": 2,
+      "content": "兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 289.04,
+      "to": 289.94,
+      "sid": 139,
+      "location": 2,
+      "content": "你可以试一下",
+      "music": 0.0
+    },
+    {
+      "from": 289.94,
+      "to": 292.01,
+      "sid": 140,
+      "location": 2,
+      "content": "这样你的强度会非常高",
+      "music": 0.0
+    },
+    {
+      "from": 292.01,
+      "to": 293.42,
+      "sid": 141,
+      "location": 2,
+      "content": "然后呼吸啊",
+      "music": 0.0
+    },
+    {
+      "from": 293.42,
+      "to": 295.04,
+      "sid": 142,
+      "location": 2,
+      "content": "很多兄弟呼吸乱起的时候",
+      "music": 0.0
+    },
+    {
+      "from": 295.04,
+      "to": 296.43,
+      "sid": 143,
+      "location": 2,
+      "content": "向心的时候呼气",
+      "music": 0.0
+    },
+    {
+      "from": 296.43,
+      "to": 298.11,
+      "sid": 144,
+      "location": 2,
+      "content": "然后离心的时候吸气",
+      "music": 0.0
+    },
+    {
+      "from": 298.11,
+      "to": 299.67,
+      "sid": 145,
+      "location": 2,
+      "content": "双手不要重叠啊",
+      "music": 0.0
+    },
+    {
+      "from": 299.67,
+      "to": 301.44,
+      "sid": 146,
+      "location": 2,
+      "content": "做完一边呢再来一边",
+      "music": 0.0
+    },
+    {
+      "from": 301.44,
+      "to": 304.04,
+      "sid": 147,
+      "location": 2,
+      "content": "这个中间不要去改变节奏",
+      "music": 0.0
+    },
+    {
+      "from": 304.04,
+      "to": 305.24,
+      "sid": 148,
+      "location": 2,
+      "content": "别说我特别累啊",
+      "music": 0.0
+    },
+    {
+      "from": 305.24,
+      "to": 307.22,
+      "sid": 149,
+      "location": 2,
+      "content": "我做12个就这个特别酸了",
+      "music": 0.0
+    },
+    {
+      "from": 307.22,
+      "to": 308.95,
+      "sid": 150,
+      "location": 2,
+      "content": "然后哎我中间歇一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 308.95,
+      "to": 309.73,
+      "sid": 151,
+      "location": 2,
+      "content": "放下歇一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 309.73,
+      "to": 310.45,
+      "sid": 152,
+      "location": 2,
+      "content": "然后我再做",
+      "music": 0.0
+    },
+    {
+      "from": 310.45,
+      "to": 311.32,
+      "sid": 153,
+      "location": 2,
+      "content": "不要这样",
+      "music": 0.0
+    },
+    {
+      "from": 311.32,
+      "to": 313.03,
+      "sid": 154,
+      "location": 2,
+      "content": "就是哪怕特别酸了",
+      "music": 0.0
+    },
+    {
+      "from": 313.03,
+      "to": 314.549,
+      "sid": 155,
+      "location": 2,
+      "content": "也不要改变这个节奏",
+      "music": 0.0
+    },
+    {
+      "from": 314.549,
+      "to": 316.229,
+      "sid": 156,
+      "location": 2,
+      "content": "节奏就是强度的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 316.229,
+      "to": 317.849,
+      "sid": 157,
+      "location": 2,
+      "content": "一定要记住我们刚开始说的啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.849,
+      "to": 318.84,
+      "sid": 158,
+      "location": 2,
+      "content": "要有顶峰收缩",
+      "music": 0.0
+    },
+    {
+      "from": 318.84,
+      "to": 320.52,
+      "sid": 159,
+      "location": 2,
+      "content": "要一直让二头有张力",
+      "music": 0.0
+    },
+    {
+      "from": 320.52,
+      "to": 321.18,
+      "sid": 160,
+      "location": 2,
+      "content": "张力不要断",
+      "music": 0.0
+    },
+    {
+      "from": 321.18,
+      "to": 322.47,
+      "sid": 161,
+      "location": 2,
+      "content": "要要有离心的控制",
+      "music": 0.0
+    },
+    {
+      "from": 322.47,
+      "to": 324.69,
+      "sid": 162,
+      "location": 2,
+      "content": "然后下面我给大家示范一下",
+      "music": 0.0
+    },
+    {
+      "from": 324.69,
+      "to": 327.42,
+      "sid": 163,
+      "location": 2,
+      "content": "你会获得一个非常好的泵感",
+      "music": 0.0
+    },
+    {
+      "from": 327.42,
+      "to": 328.48,
+      "sid": 164,
+      "location": 2,
+      "content": "是",
+      "music": 0.0
+    },
+    {
+      "from": 338.02,
+      "to": 343.15,
+      "sid": 165,
+      "location": 2,
+      "content": "这是我最喜欢练的哈尔头的训练动作之一",
+      "music": 0.0
+    },
+    {
+      "from": 343.15,
+      "to": 345.07,
+      "sid": 166,
+      "location": 2,
+      "content": "而你在健身房也非常好找",
+      "music": 0.0
+    },
+    {
+      "from": 345.07,
+      "to": 347.17,
+      "sid": 167,
+      "location": 2,
+      "content": "哑铃比杠铃可能要好找很多",
+      "music": 0.0
+    },
+    {
+      "from": 347.17,
+      "to": 348.91,
+      "sid": 168,
+      "location": 2,
+      "content": "它的技术难点呢也不是特别多",
+      "music": 0.0
+    },
+    {
+      "from": 348.91,
+      "to": 351.46,
+      "sid": 169,
+      "location": 2,
+      "content": "刚开始训练的兄弟们可以去带个护腕",
+      "music": 0.0
+    },
+    {
+      "from": 351.46,
+      "to": 353.65,
+      "sid": 170,
+      "location": 2,
+      "content": "如果你手腕有微微的不适的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 353.65,
+      "to": 355.18,
+      "sid": 171,
+      "location": 2,
+      "content": "然后一定要握好啊",
+      "music": 0.0
+    },
+    {
+      "from": 355.18,
+      "to": 356.419,
+      "sid": 172,
+      "location": 2,
+      "content": "不要放空",
+      "music": 0.0
+    },
+    {
+      "from": 356.419,
+      "to": 358.579,
+      "sid": 173,
+      "location": 2,
+      "content": "然后这个动作就分享到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 358.579,
+      "to": 359.52,
+      "sid": 174,
+      "location": 2,
+      "content": "希望有用",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.4,
+      "sid": 1,
+      "location": 2,
+      "content": "这周重量没增加",
+      "music": 0.0
+    },
+    {
+      "from": 1.4,
+      "to": 3.16,
+      "sid": 2,
+      "location": 2,
+      "content": "就等于没有进步吗",
+      "music": 0.0
+    },
+    {
+      "from": 3.16,
+      "to": 4.279,
+      "sid": 3,
+      "location": 2,
+      "content": "先说结论",
+      "music": 0.0
+    },
+    {
+      "from": 4.279,
+      "to": 5.099,
+      "sid": 4,
+      "location": 2,
+      "content": "不一定",
+      "music": 0.0
+    },
+    {
+      "from": 5.099,
+      "to": 5.679,
+      "sid": 5,
+      "location": 2,
+      "content": "渐进",
+      "music": 0.0
+    },
+    {
+      "from": 5.679,
+      "to": 8.419,
+      "sid": 6,
+      "location": 2,
+      "content": "超负荷的核心是随着身体适应",
+      "music": 0.0
+    },
+    {
+      "from": 8.419,
+      "to": 10.26,
+      "sid": 7,
+      "location": 2,
+      "content": "逐步提高训练刺激",
+      "music": 0.0
+    },
+    {
+      "from": 10.26,
+      "to": 12.94,
+      "sid": 8,
+      "location": 2,
+      "content": "而不是按日历每周硬加重量",
+      "music": 0.0
+    },
+    {
+      "from": 12.94,
+      "to": 17.03,
+      "sid": 9,
+      "location": 2,
+      "content": "对多数健康新手先把动作和目标次数做稳",
+      "music": 0.0
+    },
+    {
+      "from": 17.03,
+      "to": 18.23,
+      "sid": 10,
+      "location": 2,
+      "content": "在小幅加重",
+      "music": 0.0
+    },
+    {
+      "from": 18.23,
+      "to": 21.64,
+      "sid": 11,
+      "location": 2,
+      "content": "通常更容易长期执行训练刺激",
+      "music": 0.0
+    },
+    {
+      "from": 21.64,
+      "to": 23.92,
+      "sid": 12,
+      "location": 2,
+      "content": "可以通过负荷重复次数",
+      "music": 0.0
+    },
+    {
+      "from": 23.92,
+      "to": 27.62,
+      "sid": 13,
+      "location": 2,
+      "content": "训练量频率或动作安排来改变某一周",
+      "music": 0.0
+    },
+    {
+      "from": 27.62,
+      "to": 30.86,
+      "sid": 14,
+      "location": 2,
+      "content": "维持原重量并不自动等于训练无效",
+      "music": 0.0
+    },
+    {
+      "from": 30.86,
+      "to": 32.42,
+      "sid": 15,
+      "location": 2,
+      "content": "真正值得看的是",
+      "music": 0.0
+    },
+    {
+      "from": 32.42,
+      "to": 36.2,
+      "sid": 16,
+      "location": 2,
+      "content": "最近几周你能否在动作稳定的前提下",
+      "music": 0.0
+    },
+    {
+      "from": 36.2,
+      "to": 38.28,
+      "sid": 17,
+      "location": 2,
+      "content": "完成更多有效训练",
+      "music": 0.0
+    },
+    {
+      "from": 38.28,
+      "to": 41.0,
+      "sid": 18,
+      "location": 2,
+      "content": "2022年的一项随机试验",
+      "music": 0.0
+    },
+    {
+      "from": 41.0,
+      "to": 44.66,
+      "sid": 19,
+      "location": 2,
+      "content": "让有训练经验的年轻成人连续训练八周",
+      "music": 0.0
+    },
+    {
+      "from": 44.66,
+      "to": 46.48,
+      "sid": 20,
+      "location": 2,
+      "content": "一组逐步增加重量",
+      "music": 0.0
+    },
+    {
+      "from": 46.48,
+      "to": 49.55,
+      "sid": 21,
+      "location": 2,
+      "content": "另一组保持重量并增加重复次数",
+      "music": 0.0
+    },
+    {
+      "from": 49.55,
+      "to": 52.77,
+      "sid": 22,
+      "location": 2,
+      "content": "两种方法都可以作为短期进阶策略",
+      "music": 0.0
+    },
+    {
+      "from": 52.77,
+      "to": 54.73,
+      "sid": 23,
+      "location": 2,
+      "content": "但样本只有43人",
+      "music": 0.0
+    },
+    {
+      "from": 54.73,
+      "to": 56.15,
+      "sid": 24,
+      "location": 2,
+      "content": "而且不是新手",
+      "music": 0.0
+    },
+    {
+      "from": 56.15,
+      "to": 57.89,
+      "sid": 25,
+      "location": 2,
+      "content": "若目标是最大力量",
+      "music": 0.0
+    },
+    {
+      "from": 57.89,
+      "to": 60.89,
+      "sid": 26,
+      "location": 2,
+      "content": "长期接触更重负荷仍然重要",
+      "music": 0.0
+    },
+    {
+      "from": 60.89,
+      "to": 63.29,
+      "sid": 27,
+      "location": 2,
+      "content": "先给动作设一个次数区间",
+      "music": 0.0
+    },
+    {
+      "from": 63.29,
+      "to": 65.37,
+      "sid": 28,
+      "location": 2,
+      "content": "例如每组8~12次",
+      "music": 0.0
+    },
+    {
+      "from": 65.37,
+      "to": 67.12,
+      "sid": 29,
+      "location": 2,
+      "content": "选择能稳定完成",
+      "music": 0.0
+    },
+    {
+      "from": 67.12,
+      "to": 69.64,
+      "sid": 30,
+      "location": 2,
+      "content": "祖末仍保留合理余力的重量",
+      "music": 0.0
+    },
+    {
+      "from": 69.64,
+      "to": 73.1,
+      "sid": 31,
+      "location": 2,
+      "content": "不要为了碰到12次而缩短动作幅度",
+      "music": 0.0
+    },
+    {
+      "from": 73.1,
+      "to": 76.41,
+      "sid": 32,
+      "location": 2,
+      "content": "借力甩动或者让动作明显变形",
+      "music": 0.0
+    },
+    {
+      "from": 76.41,
+      "to": 79.23,
+      "sid": 33,
+      "location": 2,
+      "content": "假设这次三组分别完成十次",
+      "music": 0.0
+    },
+    {
+      "from": 79.23,
+      "to": 80.69,
+      "sid": 34,
+      "location": 2,
+      "content": "九次和八次",
+      "music": 0.0
+    },
+    {
+      "from": 80.69,
+      "to": 85.68,
+      "sid": 35,
+      "location": 2,
+      "content": "下次先争取做到十九九或者十十九",
+      "music": 0.0
+    },
+    {
+      "from": 85.68,
+      "to": 88.8,
+      "sid": 36,
+      "location": 2,
+      "content": "只要动作标准和努力程度符合计划",
+      "music": 0.0
+    },
+    {
+      "from": 88.8,
+      "to": 91.06,
+      "sid": 37,
+      "location": 2,
+      "content": "这就是可以记录的进步",
+      "music": 0.0
+    },
+    {
+      "from": 91.06,
+      "to": 94.32,
+      "sid": 38,
+      "location": 2,
+      "content": "当你连续两次都达到次数区间上限",
+      "music": 0.0
+    },
+    {
+      "from": 94.32,
+      "to": 95.66,
+      "sid": 39,
+      "location": 2,
+      "content": "动作仍稳定",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 97.58,
+      "sid": 40,
+      "location": 2,
+      "content": "努力程度也符合计划",
+      "music": 0.0
+    },
+    {
+      "from": 97.58,
+      "to": 100.09,
+      "sid": 41,
+      "location": 2,
+      "content": "就可以考虑加重实际执行",
+      "music": 0.0
+    },
+    {
+      "from": 100.09,
+      "to": 101.99,
+      "sid": 42,
+      "location": 2,
+      "content": "不必机械追求百分比",
+      "music": 0.0
+    },
+    {
+      "from": 101.99,
+      "to": 105.59,
+      "sid": 43,
+      "location": 2,
+      "content": "使用器械允许的最小增量通常更简单",
+      "music": 0.0
+    },
+    {
+      "from": 105.59,
+      "to": 108.89,
+      "sid": 44,
+      "location": 2,
+      "content": "加重后次数回到区间下端很正常",
+      "music": 0.0
+    },
+    {
+      "from": 108.89,
+      "to": 111.75,
+      "sid": 45,
+      "location": 2,
+      "content": "然后再从8~9次重新积累",
+      "music": 0.0
+    },
+    {
+      "from": 111.75,
+      "to": 114.84,
+      "sid": 46,
+      "location": 2,
+      "content": "单次表现下降可能只是正常波动",
+      "music": 0.0
+    },
+    {
+      "from": 114.84,
+      "to": 116.6,
+      "sid": 47,
+      "location": 2,
+      "content": "先看3~4周趋势",
+      "music": 0.0
+    },
+    {
+      "from": 116.6,
+      "to": 118.88,
+      "sid": 48,
+      "location": 2,
+      "content": "依次检查记录动作标准",
+      "music": 0.0
+    },
+    {
+      "from": 118.88,
+      "to": 119.84,
+      "sid": 49,
+      "location": 2,
+      "content": "组间休息",
+      "music": 0.0
+    },
+    {
+      "from": 119.84,
+      "to": 120.84,
+      "sid": 50,
+      "location": 2,
+      "content": "疲劳程度",
+      "music": 0.0
+    },
+    {
+      "from": 120.84,
+      "to": 124.08,
+      "sid": 51,
+      "location": 2,
+      "content": "睡眠饮食以及计划是否安排过多",
+      "music": 0.0
+    },
+    {
+      "from": 124.08,
+      "to": 126.3,
+      "sid": 52,
+      "location": 2,
+      "content": "不要同一周同时加重量",
+      "music": 0.0
+    },
+    {
+      "from": 126.3,
+      "to": 127.14,
+      "sid": 53,
+      "location": 2,
+      "content": "加组数",
+      "music": 0.0
+    },
+    {
+      "from": 127.14,
+      "to": 128.1,
+      "sid": 54,
+      "location": 2,
+      "content": "缩短休息",
+      "music": 0.0
+    },
+    {
+      "from": 128.1,
+      "to": 130.779,
+      "sid": 55,
+      "location": 2,
+      "content": "还要求每组更接近力竭",
+      "music": 0.0
+    },
+    {
+      "from": 130.779,
+      "to": 135.039,
+      "sid": 56,
+      "location": 2,
+      "content": "最后记住渐进超负荷不等于每周硬加重量",
+      "music": 0.0
+    },
+    {
+      "from": 135.039,
+      "to": 136.0,
+      "sid": 57,
+      "location": 2,
+      "content": "动作稳定",
+      "music": 0.0
+    },
+    {
+      "from": 136.0,
+      "to": 137.86,
+      "sid": 58,
+      "location": 2,
+      "content": "原重量下增加次数",
+      "music": 0.0
+    },
+    {
+      "from": 137.86,
+      "to": 139.88,
+      "sid": 59,
+      "location": 2,
+      "content": "连续达标后小幅加重",
+      "music": 0.0
+    },
+    {
+      "from": 139.88,
+      "to": 142.26,
+      "sid": 60,
+      "location": 2,
+      "content": "这就是新手够用的双进界",
+      "music": 0.0
+    },
+    {
+      "from": 142.26,
+      "to": 144.16,
+      "sid": 61,
+      "location": 2,
+      "content": "如果训练中出现异常",
+      "music": 0.0
+    },
+    {
+      "from": 144.16,
+      "to": 144.72,
+      "sid": 62,
+      "location": 2,
+      "content": "锐痛",
+      "music": 0.0
+    },
+    {
+      "from": 144.72,
+      "to": 146.4,
+      "sid": 63,
+      "location": 2,
+      "content": "明显肿胀麻木",
+      "music": 0.0
+    },
+    {
+      "from": 146.4,
+      "to": 147.72,
+      "sid": 64,
+      "location": 2,
+      "content": "眩晕或胸闷",
+      "music": 0.0
+    },
+    {
+      "from": 147.72,
+      "to": 148.94,
+      "sid": 65,
+      "location": 2,
+      "content": "应停止训练",
+      "music": 0.0
+    },
+    {
+      "from": 148.94,
+      "to": 150.56,
+      "sid": 66,
+      "location": 2,
+      "content": "并寻求专业帮助",
+      "music": 0.0
+    }
+  ]
+}

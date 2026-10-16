@@ -1,0 +1,1132 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "每一天都有那么一天，",
+      "from": 0.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 1.08
+    },
+    {
+      "content": "我都会看到有人在做我最喜欢的二头肌训练动作",
+      "from": 1.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 3.82
+    },
+    {
+      "content": "那就是哑铃上斜弯举",
+      "from": 3.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 6.06
+    },
+    {
+      "content": "这让我心潮澎湃",
+      "from": 6.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 7.68
+    },
+    {
+      "content": "唯一的问题是他们举不起来",
+      "from": 7.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 10.32
+    },
+    {
+      "content": "这不太好",
+      "from": 10.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 11.45
+    },
+    {
+      "content": "作为物理治疗师，我的职责是",
+      "from": 11.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 13.13
+    },
+    {
+      "content": "确保你正确完成动作",
+      "from": 13.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 14.35
+    },
+    {
+      "content": "这始于你实际执行这个动作",
+      "from": 14.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 16.95
+    },
+    {
+      "content": "你看",
+      "from": 16.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 17.33
+    },
+    {
+      "content": "因为这些不同的弯举动作实际上",
+      "from": 17.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 20.35
+    },
+    {
+      "content": "无法达到上斜哑铃弯举的效果",
+      "from": 20.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 22.85
+    },
+    {
+      "content": "因为它更有效地针对肱二头肌长头",
+      "from": 22.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 26.18
+    },
+    {
+      "content": "也就是负责二头肌峰形的部位",
+      "from": 26.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 28.72
+    },
+    {
+      "content": "最佳方法是找到一个动作",
+      "from": 28.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 31.2
+    },
+    {
+      "content": "能让长头处于更大拉伸状态",
+      "from": 31.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 34.21
+    },
+    {
+      "content": "这个动作能做到",
+      "from": 34.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 35.69
+    },
+    {
+      "content": "但必须正确执行",
+      "from": 35.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 37.13
+    },
+    {
+      "content": "让我教你如何做",
+      "from": 37.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 39.09
+    },
+    {
+      "content": "当然首先要调整凳子的角度",
+      "from": 39.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 41.73
+    },
+    {
+      "content": "因为几乎所有人都在这里出错",
+      "from": 41.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 43.87
+    },
+    {
+      "content": "还没开始做动作就错了",
+      "from": 43.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 45.519
+    },
+    {
+      "content": "这是因为他们把凳子角度调得太低",
+      "from": 45.519,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 49.09
+    },
+    {
+      "content": "换句话说",
+      "from": 49.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 49.79
+    },
+    {
+      "content": "你不需要退这么远",
+      "from": 49.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 52.45
+    },
+    {
+      "content": "试图让手臂后背",
+      "from": 52.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 55.49
+    },
+    {
+      "content": "这很容易做到",
+      "from": 55.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 56.82
+    },
+    {
+      "content": "但你可以测试自己是否过度拉伸",
+      "from": 56.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 61.03
+    },
+    {
+      "content": "你看如果手臂不在垂直向下位置",
+      "from": 61.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 65.649
+    },
+    {
+      "content": "说明你缺乏肱二头肌长头的柔韧性",
+      "from": 65.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 67.869
+    },
+    {
+      "content": "无法安全完成动作而不引发问题",
+      "from": 67.869,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 70.009
+    },
+    {
+      "content": "所以如果下放时手臂略微前倾",
+      "from": 70.009,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 74.249
+    },
+    {
+      "content": "但你知道自己缺乏柔韧性",
+      "from": 74.249,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 78.4
+    },
+    {
+      "content": "那该怎么办",
+      "from": 78.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 80.2
+    },
+    {
+      "content": "只需简单调整杠铃位置",
+      "from": 80.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 81.78
+    },
+    {
+      "content": "现在手臂就能垂直地面",
+      "from": 82.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 84.5
+    },
+    {
+      "content": "且不给肱二头肌腱造成额外压力",
+      "from": 84.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 87.44
+    },
+    {
+      "content": "现在我可以有效增肌而不受伤",
+      "from": 87.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 90.66
+    },
+    {
+      "content": "现在如何开始发力才是关键",
+      "from": 90.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 93.47
+    },
+    {
+      "content": "注意",
+      "from": 93.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 95.77
+    },
+    {
+      "content": "因为我们不希望手臂前移",
+      "from": 95.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 96.11
+    },
+    {
+      "content": "不要让手臂前移来启动动作",
+      "from": 96.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 101.09
+    },
+    {
+      "content": "如果一开始就前移手臂",
+      "from": 101.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 104.09
+    },
+    {
+      "content": "会激活前三角肌",
+      "from": 104.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 106.12
+    },
+    {
+      "content": "让动作更难完成",
+      "from": 106.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 108.56
+    },
+    {
+      "content": "我建议你只需想象屈肘",
+      "from": 108.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 111.8
+    },
+    {
+      "content": "理想情况下不要直接抬起手臂继续",
+      "from": 111.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 115.5
+    },
+    {
+      "content": "否则会失去训练效果",
+      "from": 115.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 119.49
+    },
+    {
+      "content": "因为重力直接通过前臂向下",
+      "from": 119.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 121.75
+    },
+    {
+      "content": "不再对肱二头肌施加力量",
+      "from": 121.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 124.77
+    },
+    {
+      "content": "相反",
+      "from": 124.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 125.15
+    },
+    {
+      "content": "你需要确保哑铃保持与身体有一定距离",
+      "from": 125.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 129.139
+    },
+    {
+      "content": "到了那个点",
+      "from": 129.139,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 130.019
+    },
+    {
+      "content": "不过你不能就此停止",
+      "from": 130.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 131.739
+    },
+    {
+      "content": "可以用肘部稍微发力",
+      "from": 131.739,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 134.459
+    },
+    {
+      "content": "这样能激活前侧部分",
+      "from": 134.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 136.579
+    },
+    {
+      "content": "但在正确时机",
+      "from": 136.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 138.12
+    },
+    {
+      "content": "因为我们知道",
+      "from": 138.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 138.76
+    },
+    {
+      "content": "完全屈曲的肱二头肌会在肘部产生收缩",
+      "from": 138.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 141.8
+    },
+    {
+      "content": "并伴随少许肩部屈曲",
+      "from": 141.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 143.579
+    },
+    {
+      "content": "这里有个关键点",
+      "from": 143.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 144.439
+    },
+    {
+      "content": "但你不应直接将哑铃垂直举起",
+      "from": 144.439,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 146.739
+    },
+    {
+      "content": "让它们处于正前方的位置",
+      "from": 146.739,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 149.87
+    },
+    {
+      "content": "相反",
+      "from": 149.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 150.47
+    },
+    {
+      "content": "我要你将哑铃拉近身体",
+      "from": 150.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 152.69
+    },
+    {
+      "content": "尝试用哑铃内侧触碰胸部",
+      "from": 152.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 156.32
+    },
+    {
+      "content": "因为这样能进一步激活长头",
+      "from": 156.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 160.8
+    },
+    {
+      "content": "将哑铃拉近胸部贴近身体",
+      "from": 160.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 164.41
+    },
+    {
+      "content": "只需到这个位置",
+      "from": 164.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 165.67
+    },
+    {
+      "content": "这样做会",
+      "from": 165.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 167.33
+    },
+    {
+      "content": "更有效地刺激肱二头肌外侧长头",
+      "from": 167.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 170.66
+    },
+    {
+      "content": "你训练的就是你看到的效果",
+      "from": 170.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 172.68
+    },
+    {
+      "content": "如果你在训练",
+      "from": 172.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 173.38
+    },
+    {
+      "content": "并看到肱二头肌内侧更明显",
+      "from": 173.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 175.5
+    },
+    {
+      "content": "那就是短头",
+      "from": 175.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 176.56
+    },
+    {
+      "content": "如果你在训练",
+      "from": 176.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 177.2
+    },
+    {
+      "content": "并看到肱二头肌外侧更明显",
+      "from": 177.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 179.16
+    },
+    {
+      "content": "那就是长头",
+      "from": 179.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 180.26
+    },
+    {
+      "content": "这个动作主要锻炼长头",
+      "from": 180.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 183.0
+    },
+    {
+      "content": "所以要确保动作结束时手臂",
+      "from": 183.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 185.44
+    },
+    {
+      "content": "在顶端稍微内旋一点",
+      "from": 185.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 187.74
+    },
+    {
+      "content": "现在关键点在于下放时",
+      "from": 187.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 190.34
+    },
+    {
+      "content": "你只是让肘部回到垂直底部吗",
+      "from": 190.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 194.4
+    },
+    {
+      "content": "然后再次举起",
+      "from": 194.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 195.52
+    },
+    {
+      "content": "或者可以增强这个动作",
+      "from": 195.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 196.9
+    },
+    {
+      "content": "通过利用牵张反射确实可以增强效果",
+      "from": 196.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 200.61
+    },
+    {
+      "content": "当我下放到底部时",
+      "from": 200.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 202.27
+    },
+    {
+      "content": "我知道可以通过以下方式增加肱二头肌拉伸",
+      "from": 202.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 206.01
+    },
+    {
+      "content": "将前臂贴近身体",
+      "from": 206.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 208.91
+    },
+    {
+      "content": "产生相反的收缩",
+      "from": 208.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 211.53
+    },
+    {
+      "content": "从而获得更强的肱二头肌拉伸",
+      "from": 211.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 213.27
+    },
+    {
+      "content": "然后主动收缩三头肌",
+      "from": 213.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 216.21
+    },
+    {
+      "content": "能让肱二头肌反射性放松",
+      "from": 216.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 219.56
+    },
+    {
+      "content": "获得更多快速拉伸",
+      "from": 219.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 221.42
+    },
+    {
+      "content": "然后迅速从该位置爆发起身",
+      "from": 221.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 224.12
+    },
+    {
+      "content": "充分利用这个拉伸",
+      "from": 224.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 225.56
+    },
+    {
+      "content": "反射性下放到底",
+      "from": 225.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 228.2
+    },
+    {
+      "content": "贴近-收缩",
+      "from": 228.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 229.5
+    },
+    {
+      "content": "起身",
+      "from": 229.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 230.44
+    },
+    {
+      "content": "肘部在此处发力",
+      "from": 230.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 231.86
+    },
+    {
+      "content": "向胸部方向拉近，然后再次下放",
+      "from": 231.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 236.3
+    },
+    {
+      "content": "我想看到三头肌在底部充分收缩",
+      "from": 236.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 238.86
+    },
+    {
+      "content": "卷起身体",
+      "from": 238.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 240.209
+    },
+    {
+      "content": "收紧完成动作",
+      "from": 240.209,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 241.949
+    },
+    {
+      "content": "你可以看到肱二头肌外侧非常用力",
+      "from": 241.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 244.509
+    },
+    {
+      "content": "下放时收缩，再从动作中起身",
+      "from": 244.509,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 247.55
+    },
+    {
+      "content": "每个动作都要缓慢控制",
+      "from": 247.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 249.73
+    },
+    {
+      "content": "因为要利用伸展阶段",
+      "from": 249.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 252.78
+    },
+    {
+      "content": "而拉伸阶段正是增肌的关键",
+      "from": 252.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 256.18
+    },
+    {
+      "content": "最后一点建议",
+      "from": 256.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 257.14
+    },
+    {
+      "content": "我们的头部应该处于什么位置",
+      "from": 257.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 258.93
+    },
+    {
+      "content": "很多人认为必须像这样紧贴在凳子上",
+      "from": 258.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 262.55
+    },
+    {
+      "content": "这其实非常不舒服",
+      "from": 262.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 264.07
+    },
+    {
+      "content": "观察这个动作本身",
+      "from": 264.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 265.45
+    },
+    {
+      "content": "无论我的头在这里还是那里",
+      "from": 265.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 267.59
+    },
+    {
+      "content": "都不会有额外负担",
+      "from": 267.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 268.83
+    },
+    {
+      "content": "事实上",
+      "from": 268.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 269.35
+    },
+    {
+      "content": "我认为头部完全垂直更省力",
+      "from": 269.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 271.97
+    },
+    {
+      "content": "这样会让动作更舒适",
+      "from": 271.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 274.039
+    },
+    {
+      "content": "更舒适的训练",
+      "from": 274.039,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 275.259
+    },
+    {
+      "content": "让你更愿意经常练习",
+      "from": 275.259,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 277.419
+    },
+    {
+      "content": "希望这对大家有帮助",
+      "from": 277.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 278.479
+    },
+    {
+      "content": "如果你需要更多教程",
+      "from": 278.479,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 279.939
+    },
+    {
+      "content": "记住不仅要看练什么动作",
+      "from": 279.939,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 282.16
+    },
+    {
+      "content": "还要看如何正确执行",
+      "from": 282.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 283.74
+    },
+    {
+      "content": "你可以查看",
+      "from": 283.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 284.56
+    },
+    {
+      "content": "如何正确做保加利亚分腿蹲",
+      "from": 284.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 286.36
+    },
+    {
+      "content": "另外",
+      "from": 286.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 286.78
+    },
+    {
+      "content": "如何做面拉动作",
+      "from": 286.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 288.38
+    },
+    {
+      "content": "在这里",
+      "from": 288.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 288.72
+    },
+    {
+      "content": "各位",
+      "from": 288.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 289.1
+    },
+    {
+      "content": "完整训练计划可在athletics.com获取",
+      "from": 289.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 291.1
+    },
+    {
+      "content": "我们的营养补充线",
+      "from": 291.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 292.16
+    },
+    {
+      "content": "全部在apple.com可购",
+      "from": 292.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 293.7
+    },
+    {
+      "content": "现在为在亚马逊购物的你们",
+      "from": 293.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 296.42
+    },
+    {
+      "content": "好的各位",
+      "from": 296.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 296.82
+    },
+    {
+      "content": "希望你们觉得有帮助",
+      "from": 296.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 297.6
+    },
+    {
+      "content": "请订阅并开启通知",
+      "from": 297.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 299.24
+    },
+    {
+      "content": "以免错过新视频",
+      "from": 299.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 300.8
+    },
+    {
+      "content": "我们很快再见",
+      "from": 300.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 301.68
+    }
+  ]
+}

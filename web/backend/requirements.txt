@@ -1,0 +1,8 @@
+# training-tracker web backend dependencies
+# Python >= 3.10 required (uses `X | Y` union syntax)
+fastapi==0.143.2
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+
+# dev/test only (not needed at runtime):
+# httpx==0.28.1

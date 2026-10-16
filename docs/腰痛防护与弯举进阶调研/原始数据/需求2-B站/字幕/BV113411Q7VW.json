@@ -1,0 +1,1116 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 0.56,
+      "to": 3.98,
+      "sid": 1,
+      "location": 2,
+      "content": "正式组做递增组渐进负荷应该如何去做",
+      "music": 0.0
+    },
+    {
+      "from": 3.98,
+      "to": 7.07,
+      "sid": 2,
+      "location": 2,
+      "content": "那么今天的话咱们还是拿卧推来举例",
+      "music": 0.0
+    },
+    {
+      "from": 7.07,
+      "to": 10.18,
+      "sid": 3,
+      "location": 2,
+      "content": "然后的话还是增肌期三个月时间",
+      "music": 0.0
+    },
+    {
+      "from": 10.18,
+      "to": 12.96,
+      "sid": 4,
+      "location": 2,
+      "content": "那么这个时候我来给大家分析一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 12.96,
+      "to": 15.21,
+      "sid": 5,
+      "location": 2,
+      "content": "正式组做地做递增",
+      "music": 0.0
+    },
+    {
+      "from": 15.21,
+      "to": 17.65,
+      "sid": 6,
+      "location": 2,
+      "content": "那么这个增肌方案的话应该如何去做",
+      "music": 0.0
+    },
+    {
+      "from": 17.65,
+      "to": 20.5,
+      "sid": 7,
+      "location": 2,
+      "content": "那么首先的话咱们来看这个卧推",
+      "music": 0.0
+    },
+    {
+      "from": 21.24,
+      "to": 23.78,
+      "sid": 8,
+      "location": 2,
+      "content": "咱们就拿四组来举例啊",
+      "music": 0.0
+    },
+    {
+      "from": 23.78,
+      "to": 26.09,
+      "sid": 9,
+      "location": 2,
+      "content": "咱们第一次做这个卧推的时候",
+      "music": 0.0
+    },
+    {
+      "from": 26.09,
+      "to": 28.38,
+      "sid": 10,
+      "location": 2,
+      "content": "我们是因为你做正式做",
+      "music": 0.0
+    },
+    {
+      "from": 28.38,
+      "to": 29.57,
+      "sid": 11,
+      "location": 2,
+      "content": "我做这个递增",
+      "music": 0.0
+    },
+    {
+      "from": 29.57,
+      "to": 32.75,
+      "sid": 12,
+      "location": 2,
+      "content": "那每一组的这个重量大概应该都是知道的",
+      "music": 0.0
+    },
+    {
+      "from": 32.75,
+      "to": 33.29,
+      "sid": 13,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 33.29,
+      "to": 35.57,
+      "sid": 14,
+      "location": 2,
+      "content": "是你最大重量的百分之多少吧对吧",
+      "music": 0.0
+    },
+    {
+      "from": 35.57,
+      "to": 37.11,
+      "sid": 15,
+      "location": 2,
+      "content": "那么这个首先你要明确",
+      "music": 0.0
+    },
+    {
+      "from": 37.11,
+      "to": 39.21,
+      "sid": 16,
+      "location": 2,
+      "content": "你不可能说我是随便选一个重量",
+      "music": 0.0
+    },
+    {
+      "from": 39.21,
+      "to": 40.05,
+      "sid": 17,
+      "location": 2,
+      "content": "我能推多少个",
+      "music": 0.0
+    },
+    {
+      "from": 40.05,
+      "to": 40.59,
+      "sid": 18,
+      "location": 2,
+      "content": "退多少个",
+      "music": 0.0
+    },
+    {
+      "from": 40.59,
+      "to": 41.13,
+      "sid": 19,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 41.13,
+      "to": 42.38,
+      "sid": 20,
+      "location": 2,
+      "content": "我们要有规划",
+      "music": 0.0
+    },
+    {
+      "from": 42.38,
+      "to": 44.42,
+      "sid": 21,
+      "location": 2,
+      "content": "那么这个时候我们先选啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.42,
+      "to": 47.04,
+      "sid": 22,
+      "location": 2,
+      "content": "最大重量65%做十个啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.04,
+      "to": 51.52,
+      "sid": 23,
+      "location": 2,
+      "content": "这个就是我随随便写的啊啊如果你的是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 51.52,
+      "to": 52.33,
+      "sid": 24,
+      "location": 2,
+      "content": "可以参考",
+      "music": 0.0
+    },
+    {
+      "from": 52.33,
+      "to": 55.06,
+      "sid": 25,
+      "location": 2,
+      "content": "因为最重要的第一组做十个对吧",
+      "music": 0.0
+    },
+    {
+      "from": 55.06,
+      "to": 56.33,
+      "sid": 26,
+      "location": 2,
+      "content": "那么第一组完成了",
+      "music": 0.0
+    },
+    {
+      "from": 56.33,
+      "to": 58.07,
+      "sid": 27,
+      "location": 2,
+      "content": "然后呢到第二组",
+      "music": 0.0
+    },
+    {
+      "from": 58.07,
+      "to": 59.81,
+      "sid": 28,
+      "location": 2,
+      "content": "第二组的话你不说递增吗",
+      "music": 0.0
+    },
+    {
+      "from": 59.81,
+      "to": 63.37,
+      "sid": 29,
+      "location": 2,
+      "content": "那咱们就用最大重量70%去做八个",
+      "music": 0.0
+    },
+    {
+      "from": 63.37,
+      "to": 64.66,
+      "sid": 30,
+      "location": 2,
+      "content": "可以吧对吧",
+      "music": 0.0
+    },
+    {
+      "from": 64.66,
+      "to": 67.95,
+      "sid": 31,
+      "location": 2,
+      "content": "第三组我们用最大重量80%去做六个",
+      "music": 0.0
+    },
+    {
+      "from": 67.95,
+      "to": 68.91,
+      "sid": 32,
+      "location": 2,
+      "content": "第四组的话",
+      "music": 0.0
+    },
+    {
+      "from": 68.91,
+      "to": 71.55,
+      "sid": 33,
+      "location": 2,
+      "content": "我们要重用最大重量85%啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.55,
+      "to": 72.81,
+      "sid": 34,
+      "location": 2,
+      "content": "去做三个啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.81,
+      "to": 74.67,
+      "sid": 35,
+      "location": 2,
+      "content": "或者说做四个其实都可以",
+      "music": 0.0
+    },
+    {
+      "from": 74.67,
+      "to": 76.76,
+      "sid": 36,
+      "location": 2,
+      "content": "我就是说啊随便写的一个",
+      "music": 0.0
+    },
+    {
+      "from": 76.76,
+      "to": 80.42,
+      "sid": 37,
+      "location": 2,
+      "content": "那么这个就是一个递增组的这个呃一套啊",
+      "music": 0.0
+    },
+    {
+      "from": 80.42,
+      "to": 82.3,
+      "sid": 38,
+      "location": 2,
+      "content": "练胸的增肌方案",
+      "music": 0.0
+    },
+    {
+      "from": 82.92,
+      "to": 86.93,
+      "sid": 39,
+      "location": 2,
+      "content": "那么这一套的话哎大家可以看一下",
+      "music": 0.0
+    },
+    {
+      "from": 86.93,
+      "to": 87.86,
+      "sid": 40,
+      "location": 2,
+      "content": "按照这个百分比",
+      "music": 0.0
+    },
+    {
+      "from": 87.86,
+      "to": 91.94,
+      "sid": 41,
+      "location": 2,
+      "content": "按照这个数其实应该是可以比较轻松的完成的",
+      "music": 0.0
+    },
+    {
+      "from": 91.94,
+      "to": 94.07,
+      "sid": 42,
+      "location": 2,
+      "content": "所以说我建议你还是这个增肌",
+      "music": 0.0
+    },
+    {
+      "from": 94.07,
+      "to": 95.27,
+      "sid": 43,
+      "location": 2,
+      "content": "这这个方案的话",
+      "music": 0.0
+    },
+    {
+      "from": 95.27,
+      "to": 98.169,
+      "sid": 44,
+      "location": 2,
+      "content": "还是能够一开始能够重量稍微低一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.169,
+      "to": 99.009,
+      "sid": 45,
+      "location": 2,
+      "content": "强度稍微小一点",
+      "music": 0.0
+    },
+    {
+      "from": 99.009,
+      "to": 100.4,
+      "sid": 46,
+      "location": 2,
+      "content": "就是低开高走",
+      "music": 0.0
+    },
+    {
+      "from": 100.4,
+      "to": 102.47,
+      "sid": 47,
+      "location": 2,
+      "content": "一共三个月的这个增肌周期",
+      "music": 0.0
+    },
+    {
+      "from": 102.47,
+      "to": 105.98,
+      "sid": 48,
+      "location": 2,
+      "content": "那么你前面如果把自己这个强度加特别大",
+      "music": 0.0
+    },
+    {
+      "from": 105.98,
+      "to": 107.0,
+      "sid": 49,
+      "location": 2,
+      "content": "你后面你就没法加了",
+      "music": 0.0
+    },
+    {
+      "from": 107.0,
+      "to": 108.55,
+      "sid": 50,
+      "location": 2,
+      "content": "你没法练了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 108.55,
+      "to": 110.8,
+      "sid": 51,
+      "location": 2,
+      "content": "所以说前面把这个重量啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.8,
+      "to": 112.63,
+      "sid": 52,
+      "location": 2,
+      "content": "强度啊放小一点",
+      "music": 0.0
+    },
+    {
+      "from": 112.63,
+      "to": 115.01,
+      "sid": 53,
+      "location": 2,
+      "content": "这时候我们才能有所递增",
+      "music": 0.0
+    },
+    {
+      "from": 115.01,
+      "to": 115.55,
+      "sid": 54,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 115.55,
+      "to": 117.38,
+      "sid": 55,
+      "location": 2,
+      "content": "不然的话就没有办法递增了",
+      "music": 0.0
+    },
+    {
+      "from": 117.38,
+      "to": 120.209,
+      "sid": 56,
+      "location": 2,
+      "content": "那么我的方案和想法就是还是啊",
+      "music": 0.0
+    },
+    {
+      "from": 120.209,
+      "to": 123.929,
+      "sid": 57,
+      "location": 2,
+      "content": "无论你这个练胸肌一周练一次还是练两次啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.929,
+      "to": 127.229,
+      "sid": 58,
+      "location": 2,
+      "content": "我的整体的这个强度重量的增加的话",
+      "music": 0.0
+    },
+    {
+      "from": 127.229,
+      "to": 130.74,
+      "sid": 59,
+      "location": 2,
+      "content": "我建议能够两周再去加一次啊",
+      "music": 0.0
+    },
+    {
+      "from": 130.74,
+      "to": 133.31,
+      "sid": 60,
+      "location": 2,
+      "content": "两周的时间加一次这个重量其实就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 133.31,
+      "to": 137.81,
+      "sid": 61,
+      "location": 2,
+      "content": "那么咱们第一周啊和第二周就是无论你练几次",
+      "music": 0.0
+    },
+    {
+      "from": 137.81,
+      "to": 141.05,
+      "sid": 62,
+      "location": 2,
+      "content": "就是按照这一个强度去练就完事了",
+      "music": 0.0
+    },
+    {
+      "from": 141.05,
+      "to": 143.66,
+      "sid": 63,
+      "location": 2,
+      "content": "然后的话咱们看第三周和第四周",
+      "music": 0.0
+    },
+    {
+      "from": 143.66,
+      "to": 146.41,
+      "sid": 64,
+      "location": 2,
+      "content": "我们我建议的是能够以呃",
+      "music": 0.0
+    },
+    {
+      "from": 146.41,
+      "to": 149.98,
+      "sid": 65,
+      "location": 2,
+      "content": "这个最大重量的2%左右的这个百分点啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.98,
+      "to": 152.32,
+      "sid": 66,
+      "location": 2,
+      "content": "1.5%到二其实都可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 152.32,
+      "to": 153.79,
+      "sid": 67,
+      "location": 2,
+      "content": "这样的咱们就算2%",
+      "music": 0.0
+    },
+    {
+      "from": 153.79,
+      "to": 156.64,
+      "sid": 68,
+      "location": 2,
+      "content": "那么这个时候的话去做重量递增",
+      "music": 0.0
+    },
+    {
+      "from": 156.64,
+      "to": 158.8,
+      "sid": 69,
+      "location": 2,
+      "content": "那么滑下来之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 158.8,
+      "to": 160.96,
+      "sid": 70,
+      "location": 2,
+      "content": "这时候一开始你用最大重量65%",
+      "music": 0.0
+    },
+    {
+      "from": 160.96,
+      "to": 161.56,
+      "sid": 71,
+      "location": 2,
+      "content": "做十个",
+      "music": 0.0
+    },
+    {
+      "from": 161.56,
+      "to": 162.16,
+      "sid": 72,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 162.16,
+      "to": 165.43,
+      "sid": 73,
+      "location": 2,
+      "content": "那么第三周第四周的话还是做十个",
+      "music": 0.0
+    },
+    {
+      "from": 165.43,
+      "to": 167.47,
+      "sid": 74,
+      "location": 2,
+      "content": "那么这时候用到的重量",
+      "music": 0.0
+    },
+    {
+      "from": 167.47,
+      "to": 170.27,
+      "sid": 75,
+      "location": 2,
+      "content": "就是最大重量的17%啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.27,
+      "to": 172.25,
+      "sid": 76,
+      "location": 2,
+      "content": "就是加了2%的这个重量",
+      "music": 0.0
+    },
+    {
+      "from": 172.25,
+      "to": 173.27,
+      "sid": 77,
+      "location": 2,
+      "content": "以此类推",
+      "music": 0.0
+    },
+    {
+      "from": 173.27,
+      "to": 176.03,
+      "sid": 78,
+      "location": 2,
+      "content": "那么这个的话就是把变到72%",
+      "music": 0.0
+    },
+    {
+      "from": 176.03,
+      "to": 177.54,
+      "sid": 79,
+      "location": 2,
+      "content": "还是做八个啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.54,
+      "to": 180.36,
+      "sid": 80,
+      "location": 2,
+      "content": "这个是变成82%还是做六个啊",
+      "music": 0.0
+    },
+    {
+      "from": 180.36,
+      "to": 183.76,
+      "sid": 81,
+      "location": 2,
+      "content": "然后87%还是做三个这样子啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.76,
+      "to": 186.76,
+      "sid": 82,
+      "location": 2,
+      "content": "那么这个就是呃第三周和第四周的",
+      "music": 0.0
+    },
+    {
+      "from": 186.76,
+      "to": 189.88,
+      "sid": 83,
+      "location": 2,
+      "content": "这个整体的这个重量的递增啊",
+      "music": 0.0
+    },
+    {
+      "from": 189.88,
+      "to": 190.93,
+      "sid": 84,
+      "location": 2,
+      "content": "那么以此类推",
+      "music": 0.0
+    },
+    {
+      "from": 190.93,
+      "to": 195.94,
+      "sid": 85,
+      "location": 2,
+      "content": "那么按照这个这个每两周去增加一次的话",
+      "music": 0.0
+    },
+    {
+      "from": 195.94,
+      "to": 198.59,
+      "sid": 86,
+      "location": 2,
+      "content": "那么差不多三个月的时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.59,
+      "to": 200.15,
+      "sid": 87,
+      "location": 2,
+      "content": "三三个月的这个时间的话",
+      "music": 0.0
+    },
+    {
+      "from": 200.15,
+      "to": 202.97,
+      "sid": 88,
+      "location": 2,
+      "content": "因为我们还是说呃六次嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 202.97,
+      "to": 204.22,
+      "sid": 89,
+      "location": 2,
+      "content": "第六次",
+      "music": 0.0
+    },
+    {
+      "from": 204.22,
+      "to": 205.6,
+      "sid": 90,
+      "location": 2,
+      "content": "那么一共就是递增五次",
+      "music": 0.0
+    },
+    {
+      "from": 205.6,
+      "to": 208.07,
+      "sid": 91,
+      "location": 2,
+      "content": "因为第一次是没有递增的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 208.07,
+      "to": 209.66,
+      "sid": 92,
+      "location": 2,
+      "content": "两周一更嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 209.66,
+      "to": 213.35,
+      "sid": 93,
+      "location": 2,
+      "content": "那么这个时候的到了第三个月这个末尾的时候",
+      "music": 0.0
+    },
+    {
+      "from": 213.35,
+      "to": 217.29,
+      "sid": 94,
+      "location": 2,
+      "content": "那么这个这个其实基本上也就是到了你的极限",
+      "music": 0.0
+    },
+    {
+      "from": 217.29,
+      "to": 218.28,
+      "sid": 95,
+      "location": 2,
+      "content": "甚至来养晦",
+      "music": 0.0
+    },
+    {
+      "from": 218.28,
+      "to": 219.63,
+      "sid": 96,
+      "location": 2,
+      "content": "把极限突破一下",
+      "music": 0.0
+    },
+    {
+      "from": 219.63,
+      "to": 220.41,
+      "sid": 97,
+      "location": 2,
+      "content": "因为那个时候吧",
+      "music": 0.0
+    },
+    {
+      "from": 220.41,
+      "to": 224.389,
+      "sid": 98,
+      "location": 2,
+      "content": "这个这个值已经到了90%几了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 224.389,
+      "to": 228.079,
+      "sid": 99,
+      "location": 2,
+      "content": "那大概就是到了你的这个整体的这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 228.079,
+      "to": 229.399,
+      "sid": 100,
+      "location": 2,
+      "content": "重量的一个极限了",
+      "music": 0.0
+    },
+    {
+      "from": 229.399,
+      "to": 232.23,
+      "sid": 101,
+      "location": 2,
+      "content": "那么这个时候就三个月的这个增肌期",
+      "music": 0.0
+    },
+    {
+      "from": 232.23,
+      "to": 234.03,
+      "sid": 102,
+      "location": 2,
+      "content": "那就基本上就结束了啊",
+      "music": 0.0
+    },
+    {
+      "from": 234.03,
+      "to": 237.03,
+      "sid": 103,
+      "location": 2,
+      "content": "那么这个就是我我给他的这个方案啊",
+      "music": 0.0
+    },
+    {
+      "from": 237.03,
+      "to": 240.34,
+      "sid": 104,
+      "location": 2,
+      "content": "就是递增的这个呃重量应该如何去做",
+      "music": 0.0
+    },
+    {
+      "from": 240.34,
+      "to": 243.8,
+      "sid": 105,
+      "location": 2,
+      "content": "那么在这的话它其实有一个有几个要点",
+      "music": 0.0
+    },
+    {
+      "from": 243.8,
+      "to": 247.37,
+      "sid": 106,
+      "location": 2,
+      "content": "那么我们在做这个递增方案的时候的话",
+      "music": 0.0
+    },
+    {
+      "from": 247.37,
+      "to": 251.1,
+      "sid": 107,
+      "location": 2,
+      "content": "第一个只能是在主项上面去做递增啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.1,
+      "to": 253.38,
+      "sid": 108,
+      "location": 2,
+      "content": "比如说练胸就是杠铃卧推",
+      "music": 0.0
+    },
+    {
+      "from": 253.38,
+      "to": 255.06,
+      "sid": 109,
+      "location": 2,
+      "content": "那么哑铃卧推好不好增",
+      "music": 0.0
+    },
+    {
+      "from": 255.06,
+      "to": 256.97,
+      "sid": 110,
+      "location": 2,
+      "content": "哑铃卧推不好增对吧",
+      "music": 0.0
+    },
+    {
+      "from": 256.97,
+      "to": 258.83,
+      "sid": 111,
+      "location": 2,
+      "content": "因为你哑铃卧推普遍来讲的话",
+      "music": 0.0
+    },
+    {
+      "from": 258.83,
+      "to": 260.63,
+      "sid": 112,
+      "location": 2,
+      "content": "你要放在杠铃卧推之后",
+      "music": 0.0
+    },
+    {
+      "from": 260.63,
+      "to": 263.0,
+      "sid": 113,
+      "location": 2,
+      "content": "所以说他的体能啊",
+      "music": 0.0
+    },
+    {
+      "from": 263.0,
+      "to": 267.07,
+      "sid": 114,
+      "location": 2,
+      "content": "你的这个对这个整体的这个胸肌啊",
+      "music": 0.0
+    },
+    {
+      "from": 267.07,
+      "to": 269.71,
+      "sid": 115,
+      "location": 2,
+      "content": "它其实都是在一个动作锻炼完之后",
+      "music": 0.0
+    },
+    {
+      "from": 269.71,
+      "to": 271.11,
+      "sid": 116,
+      "location": 2,
+      "content": "再去锻炼第二个动作",
+      "music": 0.0
+    },
+    {
+      "from": 271.11,
+      "to": 272.61,
+      "sid": 117,
+      "location": 2,
+      "content": "那么其实哑铃卧推呢",
+      "music": 0.0
+    },
+    {
+      "from": 272.61,
+      "to": 274.56,
+      "sid": 118,
+      "location": 2,
+      "content": "你可以就可以采用不递增",
+      "music": 0.0
+    },
+    {
+      "from": 274.56,
+      "to": 277.05,
+      "sid": 119,
+      "location": 2,
+      "content": "或者说增加容量的方式就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 277.05,
+      "to": 278.13,
+      "sid": 120,
+      "location": 2,
+      "content": "比如说第一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 278.13,
+      "to": 278.91,
+      "sid": 121,
+      "location": 2,
+      "content": "杠铃卧推",
+      "music": 0.0
+    },
+    {
+      "from": 278.91,
+      "to": 281.0,
+      "sid": 122,
+      "location": 2,
+      "content": "该递增的递递增完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 281.0,
+      "to": 283.76,
+      "sid": 123,
+      "location": 2,
+      "content": "哑铃卧推还是按照上个月的一个重量是吧",
+      "music": 0.0
+    },
+    {
+      "from": 283.76,
+      "to": 285.35,
+      "sid": 124,
+      "location": 2,
+      "content": "按照上个月的次数",
+      "music": 0.0
+    },
+    {
+      "from": 285.35,
+      "to": 287.6,
+      "sid": 125,
+      "location": 2,
+      "content": "然后的话如果上个月你做了三组",
+      "music": 0.0
+    },
+    {
+      "from": 287.6,
+      "to": 288.38,
+      "sid": 126,
+      "location": 2,
+      "content": "第二个月的话",
+      "music": 0.0
+    },
+    {
+      "from": 288.38,
+      "to": 290.54,
+      "sid": 127,
+      "location": 2,
+      "content": "你可以尝试做四组或者做五组",
+      "music": 0.0
+    },
+    {
+      "from": 290.54,
+      "to": 293.74,
+      "sid": 128,
+      "location": 2,
+      "content": "那么这个的话去做这样的一个递增就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 293.96,
+      "to": 296.68,
+      "sid": 129,
+      "location": 2,
+      "content": "然后这个时候我我用的是弹幕卧推",
+      "music": 0.0
+    },
+    {
+      "from": 296.68,
+      "to": 300.88,
+      "sid": 130,
+      "location": 2,
+      "content": "那么你用呃深蹲或者说用肩膀",
+      "music": 0.0
+    },
+    {
+      "from": 300.88,
+      "to": 303.94,
+      "sid": 131,
+      "location": 2,
+      "content": "比如杠铃的这个坐姿推肩啊",
+      "music": 0.0
+    },
+    {
+      "from": 303.94,
+      "to": 309.2,
+      "sid": 132,
+      "location": 2,
+      "content": "或者说这个背部的一些你能掌握的非常好的",
+      "music": 0.0
+    },
+    {
+      "from": 309.2,
+      "to": 310.58,
+      "sid": 133,
+      "location": 2,
+      "content": "一些划船类的动作",
+      "music": 0.0
+    },
+    {
+      "from": 310.58,
+      "to": 312.74,
+      "sid": 134,
+      "location": 2,
+      "content": "其实都可以去采用这个方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 312.74,
+      "to": 317.9,
+      "sid": 135,
+      "location": 2,
+      "content": "我觉得相对来讲的话呃只要你做好记录啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.9,
+      "to": 320.96,
+      "sid": 136,
+      "location": 2,
+      "content": "这个方法还是用起来还是比较有用的啊",
+      "music": 0.0
+    },
+    {
+      "from": 320.96,
+      "to": 323.18,
+      "sid": 137,
+      "location": 2,
+      "content": "但是增肌期的话不宜过长",
+      "music": 0.0
+    },
+    {
+      "from": 323.18,
+      "to": 324.42,
+      "sid": 138,
+      "location": 2,
+      "content": "三个月的时间就够了",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,2958 @@
+{
+ "lan": "ai-zh",
+ "lan_doc": "中文",
+ "body": [
+  {
+   "from": 0.06,
+   "to": 1.56,
+   "sid": 1,
+   "location": 2,
+   "content": "兄弟姐妹们",
+   "music": 0.0
+  },
+  {
+   "from": 1.56,
+   "to": 2.76,
+   "sid": 2,
+   "location": 2,
+   "content": "你们都说武神划船",
+   "music": 0.0
+  },
+  {
+   "from": 2.76,
+   "to": 3.9,
+   "sid": 3,
+   "location": 2,
+   "content": "哑铃划船太难了",
+   "music": 0.0
+  },
+  {
+   "from": 3.9,
+   "to": 5.91,
+   "sid": 4,
+   "location": 2,
+   "content": "然后呢有没有更适合新手上来",
+   "music": 0.0
+  },
+  {
+   "from": 5.91,
+   "to": 7.74,
+   "sid": 5,
+   "location": 2,
+   "content": "就是更容易一点的",
+   "music": 0.0
+  },
+  {
+   "from": 7.74,
+   "to": 10.83,
+   "sid": 6,
+   "location": 2,
+   "content": "那我们今天讲这个动作呢叫坐姿划船",
+   "music": 0.0
+  },
+  {
+   "from": 10.83,
+   "to": 11.85,
+   "sid": 7,
+   "location": 2,
+   "content": "那我们话不多说",
+   "music": 0.0
+  },
+  {
+   "from": 11.85,
+   "to": 12.8,
+   "sid": 8,
+   "location": 2,
+   "content": "直接进入正题",
+   "music": 0.0
+  },
+  {
+   "from": 12.8,
+   "to": 14.18,
+   "sid": 9,
+   "location": 2,
+   "content": "我们先说一下脚的位置",
+   "music": 0.0
+  },
+  {
+   "from": 14.18,
+   "to": 17.0,
+   "sid": 10,
+   "location": 2,
+   "content": "尽量大腿小腿的这个夹角要大于90度",
+   "music": 0.0
+  },
+  {
+   "from": 17.0,
+   "to": 19.22,
+   "sid": 11,
+   "location": 2,
+   "content": "这样避免大腿过多的参与对",
+   "music": 0.0
+  },
+  {
+   "from": 19.22,
+   "to": 21.2,
+   "sid": 12,
+   "location": 2,
+   "content": "也就是如果你前面这有一个板的话",
+   "music": 0.0
+  },
+  {
+   "from": 21.2,
+   "to": 22.16,
+   "sid": 13,
+   "location": 2,
+   "content": "你就要踩到上面",
+   "music": 0.0
+  },
+  {
+   "from": 22.16,
+   "to": 23.48,
+   "sid": 14,
+   "location": 2,
+   "content": "如果这没有的话",
+   "music": 0.0
+  },
+  {
+   "from": 23.48,
+   "to": 25.28,
+   "sid": 15,
+   "location": 2,
+   "content": "像我们现在这个位置",
+   "music": 0.0
+  },
+  {
+   "from": 25.28,
+   "to": 27.619,
+   "sid": 16,
+   "location": 2,
+   "content": "你可以去垫一个杠铃片",
+   "music": 0.0
+  },
+  {
+   "from": 27.619,
+   "to": 29.539,
+   "sid": 17,
+   "location": 2,
+   "content": "然后这个脚踩在杠铃片",
+   "music": 0.0
+  },
+  {
+   "from": 29.539,
+   "to": 30.799,
+   "sid": 18,
+   "location": 2,
+   "content": "不能让你发力的时候",
+   "music": 0.0
+  },
+  {
+   "from": 30.799,
+   "to": 32.509,
+   "sid": 19,
+   "location": 2,
+   "content": "身体被往前拉啊",
+   "music": 0.0
+  },
+  {
+   "from": 32.509,
+   "to": 33.079,
+   "sid": 20,
+   "location": 2,
+   "content": "固定好",
+   "music": 0.0
+  },
+  {
+   "from": 33.079,
+   "to": 34.219,
+   "sid": 21,
+   "location": 2,
+   "content": "这个大家知道就行了",
+   "music": 0.0
+  },
+  {
+   "from": 34.219,
+   "to": 34.92,
+   "sid": 22,
+   "location": 2,
+   "content": "然后呢",
+   "music": 0.0
+  },
+  {
+   "from": 34.92,
+   "to": 38.76,
+   "sid": 23,
+   "location": 2,
+   "content": "我们身体的位置跟这个器械尽量留差不多",
+   "music": 0.0
+  },
+  {
+   "from": 38.76,
+   "to": 40.2,
+   "sid": 24,
+   "location": 2,
+   "content": "一拳到两拳的距离",
+   "music": 0.0
+  },
+  {
+   "from": 40.2,
+   "to": 41.849,
+   "sid": 25,
+   "location": 2,
+   "content": "也就是比如说把他拉起来",
+   "music": 0.0
+  },
+  {
+   "from": 41.849,
+   "to": 44.009,
+   "sid": 26,
+   "location": 2,
+   "content": "你看把他把他拉起来",
+   "music": 0.0
+  },
+  {
+   "from": 44.009,
+   "to": 46.139,
+   "sid": 27,
+   "location": 2,
+   "content": "身体调整到重心正好以后",
+   "music": 0.0
+  },
+  {
+   "from": 46.139,
+   "to": 48.749,
+   "sid": 28,
+   "location": 2,
+   "content": "就是差不多会有个一拳到两拳的量",
+   "music": 0.0
+  },
+  {
+   "from": 48.749,
+   "to": 50.2,
+   "sid": 29,
+   "location": 2,
+   "content": "哎你往前两拳",
+   "music": 0.0
+  },
+  {
+   "from": 50.2,
+   "to": 51.76,
+   "sid": 30,
+   "location": 2,
+   "content": "你看就放上了",
+   "music": 0.0
+  },
+  {
+   "from": 51.76,
+   "to": 52.99,
+   "sid": 31,
+   "location": 2,
+   "content": "不能留特别远",
+   "music": 0.0
+  },
+  {
+   "from": 52.99,
+   "to": 54.82,
+   "sid": 32,
+   "location": 2,
+   "content": "这样你腰的压力比较大",
+   "music": 0.0
+  },
+  {
+   "from": 54.82,
+   "to": 56.02,
+   "sid": 33,
+   "location": 2,
+   "content": "也不能特别近",
+   "music": 0.0
+  },
+  {
+   "from": 56.02,
+   "to": 57.4,
+   "sid": 34,
+   "location": 2,
+   "content": "比如说就再往前坐一点",
+   "music": 0.0
+  },
+  {
+   "from": 57.4,
+   "to": 60.12,
+   "sid": 35,
+   "location": 2,
+   "content": "对每回放下去的时候就会砸到",
+   "music": 0.0
+  },
+  {
+   "from": 60.12,
+   "to": 60.93,
+   "sid": 36,
+   "location": 2,
+   "content": "那也不好",
+   "music": 0.0
+  },
+  {
+   "from": 60.93,
+   "to": 62.88,
+   "sid": 37,
+   "location": 2,
+   "content": "所以说这是前后的距离",
+   "music": 0.0
+  },
+  {
+   "from": 62.88,
+   "to": 63.6,
+   "sid": 38,
+   "location": 2,
+   "content": "我们要调整好",
+   "music": 0.0
+  },
+  {
+   "from": 63.6,
+   "to": 66.019,
+   "sid": 39,
+   "location": 2,
+   "content": "然后我们再来说身体的角度哎",
+   "music": 0.0
+  },
+  {
+   "from": 66.019,
+   "to": 67.039,
+   "sid": 40,
+   "location": 2,
+   "content": "往后倾一点",
+   "music": 0.0
+  },
+  {
+   "from": 67.039,
+   "to": 71.77,
+   "sid": 41,
+   "location": 2,
+   "content": "OK我们很多人为了追求被最大程度的受力",
+   "music": 0.0
+  },
+  {
+   "from": 71.77,
+   "to": 73.15,
+   "sid": 42,
+   "location": 2,
+   "content": "就是在力学角度上",
+   "music": 0.0
+  },
+  {
+   "from": 73.15,
+   "to": 74.83,
+   "sid": 43,
+   "location": 2,
+   "content": "那我们就做了一个",
+   "music": 0.0
+  },
+  {
+   "from": 74.83,
+   "to": 78.75,
+   "sid": 44,
+   "location": 2,
+   "content": "比如说身体完全垂直于地面的这么一个状态",
+   "music": 0.0
+  },
+  {
+   "from": 78.75,
+   "to": 80.01,
+   "sid": 45,
+   "location": 2,
+   "content": "这确实在力学角度上",
+   "music": 0.0
+  },
+  {
+   "from": 80.01,
+   "to": 82.29,
+   "sid": 46,
+   "location": 2,
+   "content": "你的背受力是最大化的对吧",
+   "music": 0.0
+  },
+  {
+   "from": 82.29,
+   "to": 84.76,
+   "sid": 47,
+   "location": 2,
+   "content": "也就是我们很多人做俯身杠铃划船的时候",
+   "music": 0.0
+  },
+  {
+   "from": 84.76,
+   "to": 87.64,
+   "sid": 48,
+   "location": 2,
+   "content": "我们我们说的角度其实是在这个角度差不多",
+   "music": 0.0
+  },
+  {
+   "from": 87.64,
+   "to": 89.5,
+   "sid": 49,
+   "location": 2,
+   "content": "但是很多人会追求哎",
+   "music": 0.0
+  },
+  {
+   "from": 89.5,
+   "to": 91.84,
+   "sid": 50,
+   "location": 2,
+   "content": "无限的跟地面平行的这个阶段",
+   "music": 0.0
+  },
+  {
+   "from": 91.84,
+   "to": 94.48,
+   "sid": 51,
+   "location": 2,
+   "content": "这个虽说从理论上说它受力最大化",
+   "music": 0.0
+  },
+  {
+   "from": 94.48,
+   "to": 96.34,
+   "sid": 52,
+   "location": 2,
+   "content": "但是你一旦有负重的话",
+   "music": 0.0
+  },
+  {
+   "from": 96.34,
+   "to": 97.89,
+   "sid": 53,
+   "location": 2,
+   "content": "你的腰也会参与",
+   "music": 0.0
+  },
+  {
+   "from": 97.89,
+   "to": 100.89,
+   "sid": 54,
+   "location": 2,
+   "content": "就是说你的竖脊肌要给它一个向后的力量",
+   "music": 0.0
+  },
+  {
+   "from": 100.89,
+   "to": 103.91,
+   "sid": 55,
+   "location": 2,
+   "content": "才能保证身体不背拉到前面去",
+   "music": 0.0
+  },
+  {
+   "from": 103.91,
+   "to": 104.57,
+   "sid": 56,
+   "location": 2,
+   "content": "也就是说",
+   "music": 0.0
+  },
+  {
+   "from": 104.57,
+   "to": 108.62,
+   "sid": 57,
+   "location": 2,
+   "content": "其实你看似诶把背发展到了一个",
+   "music": 0.0
+  },
+  {
+   "from": 108.62,
+   "to": 109.64,
+   "sid": 58,
+   "location": 2,
+   "content": "最大化的受力角度",
+   "music": 0.0
+  },
+  {
+   "from": 109.64,
+   "to": 111.8,
+   "sid": 59,
+   "location": 2,
+   "content": "但是其实是激活了你的竖脊肌",
+   "music": 0.0
+  },
+  {
+   "from": 111.8,
+   "to": 116.01,
+   "sid": 60,
+   "location": 2,
+   "content": "所以说我们要在垂直地面的情况下后倾啊",
+   "music": 0.0
+  },
+  {
+   "from": 116.01,
+   "to": 118.57,
+   "sid": 61,
+   "location": 2,
+   "content": "差不多15度左右啊",
+   "music": 0.0
+  },
+  {
+   "from": 118.57,
+   "to": 120.52,
+   "sid": 62,
+   "location": 2,
+   "content": "15~20度左右都是没问题的",
+   "music": 0.0
+  },
+  {
+   "from": 120.52,
+   "to": 122.89,
+   "sid": 63,
+   "location": 2,
+   "content": "有很多人为了拉特别大的重量",
+   "music": 0.0
+  },
+  {
+   "from": 122.89,
+   "to": 124.96,
+   "sid": 64,
+   "location": 2,
+   "content": "然后后倾角度特别大啊",
+   "music": 0.0
+  },
+  {
+   "from": 124.96,
+   "to": 126.22,
+   "sid": 65,
+   "location": 2,
+   "content": "这个就没有必要了",
+   "music": 0.0
+  },
+  {
+   "from": 126.22,
+   "to": 127.28,
+   "sid": 66,
+   "location": 2,
+   "content": "因为你越后倾",
+   "music": 0.0
+  },
+  {
+   "from": 127.28,
+   "to": 129.74,
+   "sid": 67,
+   "location": 2,
+   "content": "你受力就可能会更偏上一点",
+   "music": 0.0
+  },
+  {
+   "from": 129.74,
+   "to": 130.82,
+   "sid": 68,
+   "location": 2,
+   "content": "OK我说完了",
+   "music": 0.0
+  },
+  {
+   "from": 130.82,
+   "to": 132.08,
+   "sid": 69,
+   "location": 2,
+   "content": "就是这个身体前后",
+   "music": 0.0
+  },
+  {
+   "from": 132.08,
+   "to": 133.37,
+   "sid": 70,
+   "location": 2,
+   "content": "然后我们说一下胸椎",
+   "music": 0.0
+  },
+  {
+   "from": 133.37,
+   "to": 135.48,
+   "sid": 71,
+   "location": 2,
+   "content": "我们把胸腔想象成一个盆",
+   "music": 0.0
+  },
+  {
+   "from": 135.48,
+   "to": 138.24,
+   "sid": 72,
+   "location": 2,
+   "content": "这个盆往前倒水就是前倾啊",
+   "music": 0.0
+  },
+  {
+   "from": 138.24,
+   "to": 139.63,
+   "sid": 73,
+   "location": 2,
+   "content": "往后倒水就是后倾",
+   "music": 0.0
+  },
+  {
+   "from": 139.63,
+   "to": 141.79,
+   "sid": 74,
+   "location": 2,
+   "content": "很多人做了一个玩命的后倾啊",
+   "music": 0.0
+  },
+  {
+   "from": 141.79,
+   "to": 143.53,
+   "sid": 75,
+   "location": 2,
+   "content": "我认为就是我越挺胸越好",
+   "music": 0.0
+  },
+  {
+   "from": 143.53,
+   "to": 144.85,
+   "sid": 76,
+   "location": 2,
+   "content": "但是如果你看叶",
+   "music": 0.0
+  },
+  {
+   "from": 144.85,
+   "to": 147.05,
+   "sid": 77,
+   "location": 2,
+   "content": "现在这就是一个极度挺胸的状态",
+   "music": 0.0
+  },
+  {
+   "from": 147.05,
+   "to": 149.67,
+   "sid": 78,
+   "location": 2,
+   "content": "你会发现他的腰椎的压力在变大",
+   "music": 0.0
+  },
+  {
+   "from": 149.67,
+   "to": 151.71,
+   "sid": 79,
+   "location": 2,
+   "content": "所以我们不要让我们的胸椎是一个",
+   "music": 0.0
+  },
+  {
+   "from": 151.71,
+   "to": 152.94,
+   "sid": 80,
+   "location": 2,
+   "content": "特别后倾的状态",
+   "music": 0.0
+  },
+  {
+   "from": 152.94,
+   "to": 155.02,
+   "sid": 81,
+   "location": 2,
+   "content": "那么让它中立位啊",
+   "music": 0.0
+  },
+  {
+   "from": 155.02,
+   "to": 156.67,
+   "sid": 82,
+   "location": 2,
+   "content": "中立位这样就OK了",
+   "music": 0.0
+  },
+  {
+   "from": 156.67,
+   "to": 158.35,
+   "sid": 83,
+   "location": 2,
+   "content": "当然也不用特别前倾啊",
+   "music": 0.0
+  },
+  {
+   "from": 158.35,
+   "to": 159.91,
+   "sid": 84,
+   "location": 2,
+   "content": "特别前倾就是另外一种滑法",
+   "music": 0.0
+  },
+  {
+   "from": 159.91,
+   "to": 161.41,
+   "sid": 85,
+   "location": 2,
+   "content": "我们最后说啊",
+   "music": 0.0
+  },
+  {
+   "from": 161.41,
+   "to": 163.33,
+   "sid": 86,
+   "location": 2,
+   "content": "这个是我们胸椎状态跟腰椎状态",
+   "music": 0.0
+  },
+  {
+   "from": 163.33,
+   "to": 164.56,
+   "sid": 87,
+   "location": 2,
+   "content": "还有脚踩的状态",
+   "music": 0.0
+  },
+  {
+   "from": 164.56,
+   "to": 166.09,
+   "sid": 88,
+   "location": 2,
+   "content": "我们现在把它统一完了之后",
+   "music": 0.0
+  },
+  {
+   "from": 166.09,
+   "to": 168.03,
+   "sid": 89,
+   "location": 2,
+   "content": "然后我们说手手的区别",
+   "music": 0.0
+  },
+  {
+   "from": 168.03,
+   "to": 170.31,
+   "sid": 90,
+   "location": 2,
+   "content": "我们这个手拿着负重之后",
+   "music": 0.0
+  },
+  {
+   "from": 170.31,
+   "to": 172.96,
+   "sid": 91,
+   "location": 2,
+   "content": "首先我们肯定要拿这个把手的中间对吧",
+   "music": 0.0
+  },
+  {
+   "from": 172.96,
+   "to": 175.21,
+   "sid": 92,
+   "location": 2,
+   "content": "我们今天讲的是这种对握的把手",
+   "music": 0.0
+  },
+  {
+   "from": 175.21,
+   "to": 177.01,
+   "sid": 93,
+   "location": 2,
+   "content": "但如果它不同的宽度",
+   "music": 0.0
+  },
+  {
+   "from": 177.01,
+   "to": 179.32,
+   "sid": 94,
+   "location": 2,
+   "content": "练的地儿也是不一样的对吧",
+   "music": 0.0
+  },
+  {
+   "from": 179.32,
+   "to": 182.29,
+   "sid": 95,
+   "location": 2,
+   "content": "这个对握的把手我们可以让背整体的发展",
+   "music": 0.0
+  },
+  {
+   "from": 182.29,
+   "to": 183.55,
+   "sid": 96,
+   "location": 2,
+   "content": "比如说中下斜方肌也可以",
+   "music": 0.0
+  },
+  {
+   "from": 183.55,
+   "to": 184.8,
+   "sid": 97,
+   "location": 2,
+   "content": "然后背阔肌也可以",
+   "music": 0.0
+  },
+  {
+   "from": 184.8,
+   "to": 186.66,
+   "sid": 98,
+   "location": 2,
+   "content": "但是如果我们拿那种特别宽的把手",
+   "music": 0.0
+  },
+  {
+   "from": 186.66,
+   "to": 188.28,
+   "sid": 99,
+   "location": 2,
+   "content": "一般都是练上背部的",
+   "music": 0.0
+  },
+  {
+   "from": 188.28,
+   "to": 190.14,
+   "sid": 100,
+   "location": 2,
+   "content": "练下背部的就参与的比较少了",
+   "music": 0.0
+  },
+  {
+   "from": 190.14,
+   "to": 192.52,
+   "sid": 101,
+   "location": 2,
+   "content": "如果我们把这个把手更往上",
+   "music": 0.0
+  },
+  {
+   "from": 192.52,
+   "to": 193.96,
+   "sid": 102,
+   "location": 2,
+   "content": "比如我们来划几个",
+   "music": 0.0
+  },
+  {
+   "from": 193.96,
+   "to": 195.12,
+   "sid": 103,
+   "location": 2,
+   "content": "唉对啊",
+   "music": 0.0
+  },
+  {
+   "from": 195.12,
+   "to": 196.5,
+   "sid": 104,
+   "location": 2,
+   "content": "这太太往上了",
+   "music": 0.0
+  },
+  {
+   "from": 196.5,
+   "to": 197.76,
+   "sid": 105,
+   "location": 2,
+   "content": "就靠近背的位置就可以了",
+   "music": 0.0
+  },
+  {
+   "from": 197.76,
+   "to": 198.9,
+   "sid": 106,
+   "location": 2,
+   "content": "然后我们从后边看",
+   "music": 0.0
+  },
+  {
+   "from": 198.9,
+   "to": 200.85,
+   "sid": 107,
+   "location": 2,
+   "content": "尤其是用肩胛内收带动的时候",
+   "music": 0.0
+  },
+  {
+   "from": 200.85,
+   "to": 202.97,
+   "sid": 108,
+   "location": 2,
+   "content": "这个时候我们的中下斜方肌啊",
+   "music": 0.0
+  },
+  {
+   "from": 202.97,
+   "to": 203.93,
+   "sid": 109,
+   "location": 2,
+   "content": "菱形肌",
+   "music": 0.0
+  },
+  {
+   "from": 203.93,
+   "to": 207.23,
+   "sid": 110,
+   "location": 2,
+   "content": "然后呢包括从大圆上背阔过来说",
+   "music": 0.0
+  },
+  {
+   "from": 207.23,
+   "to": 209.27,
+   "sid": 111,
+   "location": 2,
+   "content": "受力感会比较强一点",
+   "music": 0.0
+  },
+  {
+   "from": 209.27,
+   "to": 211.07,
+   "sid": 112,
+   "location": 2,
+   "content": "然后呢下背阔明显的发力",
+   "music": 0.0
+  },
+  {
+   "from": 211.07,
+   "to": 213.2,
+   "sid": 113,
+   "location": 2,
+   "content": "你看不太好",
+   "music": 0.0
+  },
+  {
+   "from": 213.2,
+   "to": 216.08,
+   "sid": 114,
+   "location": 2,
+   "content": "但是他的上背尤其是中下斜方肌会收紧",
+   "music": 0.0
+  },
+  {
+   "from": 216.08,
+   "to": 217.88,
+   "sid": 115,
+   "location": 2,
+   "content": "那这个时候我们再从前面看",
+   "music": 0.0
+  },
+  {
+   "from": 217.88,
+   "to": 220.37,
+   "sid": 116,
+   "location": 2,
+   "content": "如果我把我的这个把手啊",
+   "music": 0.0
+  },
+  {
+   "from": 220.37,
+   "to": 222.17,
+   "sid": 117,
+   "location": 2,
+   "content": "把手更靠下",
+   "music": 0.0
+  },
+  {
+   "from": 222.17,
+   "to": 223.4,
+   "sid": 118,
+   "location": 2,
+   "content": "靠肚子的位置",
+   "music": 0.0
+  },
+  {
+   "from": 223.4,
+   "to": 224.6,
+   "sid": 119,
+   "location": 2,
+   "content": "那么大家想一想",
+   "music": 0.0
+  },
+  {
+   "from": 224.6,
+   "to": 226.1,
+   "sid": 120,
+   "location": 2,
+   "content": "就比如说我们的背后有一个作用",
+   "music": 0.0
+  },
+  {
+   "from": 226.1,
+   "to": 226.88,
+   "sid": 121,
+   "location": 2,
+   "content": "就是大臂身",
+   "music": 0.0
+  },
+  {
+   "from": 226.88,
+   "to": 227.56,
+   "sid": 122,
+   "location": 2,
+   "content": "对不对",
+   "music": 0.0
+  },
+  {
+   "from": 227.56,
+   "to": 229.0,
+   "sid": 123,
+   "location": 2,
+   "content": "那么如果我们更靠下",
+   "music": 0.0
+  },
+  {
+   "from": 229.0,
+   "to": 232.15,
+   "sid": 124,
+   "location": 2,
+   "content": "那我们大臂伸的这个抗阻距离就会就会多一些",
+   "music": 0.0
+  },
+  {
+   "from": 232.15,
+   "to": 234.85,
+   "sid": 125,
+   "location": 2,
+   "content": "但如果我们更靠上的话啊",
+   "music": 0.0
+  },
+  {
+   "from": 234.85,
+   "to": 238.66,
+   "sid": 126,
+   "location": 2,
+   "content": "我们这个大臂后伸的这个抗阻就会小一些对吧",
+   "music": 0.0
+  },
+  {
+   "from": 238.66,
+   "to": 241.21,
+   "sid": 127,
+   "location": 2,
+   "content": "他水平外展的这个幅度就会大一些",
+   "music": 0.0
+  },
+  {
+   "from": 241.21,
+   "to": 242.47,
+   "sid": 128,
+   "location": 2,
+   "content": "你的厚度都会参与进来",
+   "music": 0.0
+  },
+  {
+   "from": 242.47,
+   "to": 243.61,
+   "sid": 129,
+   "location": 2,
+   "content": "我们往下一点",
+   "music": 0.0
+  },
+  {
+   "from": 243.61,
+   "to": 246.47,
+   "sid": 130,
+   "location": 2,
+   "content": "然后我们再来后面看一看会发生什么变化",
+   "music": 0.0
+  },
+  {
+   "from": 246.47,
+   "to": 249.23,
+   "sid": 131,
+   "location": 2,
+   "content": "同样我们就算还是拿肩胛内收为主",
+   "music": 0.0
+  },
+  {
+   "from": 249.23,
+   "to": 250.79,
+   "sid": 132,
+   "location": 2,
+   "content": "对我们可以看到叶诶",
+   "music": 0.0
+  },
+  {
+   "from": 250.79,
+   "to": 253.37,
+   "sid": 133,
+   "location": 2,
+   "content": "往后对他的背阔能收紧了啊",
+   "music": 0.0
+  },
+  {
+   "from": 253.37,
+   "to": 256.38,
+   "sid": 134,
+   "location": 2,
+   "content": "你看很明显到后边的时候背阔能参与了",
+   "music": 0.0
+  },
+  {
+   "from": 256.38,
+   "to": 258.45,
+   "sid": 135,
+   "location": 2,
+   "content": "然后他整个中下斜方肌和背阔",
+   "music": 0.0
+  },
+  {
+   "from": 258.45,
+   "to": 260.25,
+   "sid": 136,
+   "location": 2,
+   "content": "都是能参与进来的啊",
+   "music": 0.0
+  },
+  {
+   "from": 260.25,
+   "to": 260.91,
+   "sid": 137,
+   "location": 2,
+   "content": "这么一个关系",
+   "music": 0.0
+  },
+  {
+   "from": 260.91,
+   "to": 261.99,
+   "sid": 138,
+   "location": 2,
+   "content": "我们再往上滑一个",
+   "music": 0.0
+  },
+  {
+   "from": 261.99,
+   "to": 262.72,
+   "sid": 139,
+   "location": 2,
+   "content": "看一下",
+   "music": 0.0
+  },
+  {
+   "from": 262.72,
+   "to": 263.8,
+   "sid": 140,
+   "location": 2,
+   "content": "往上滑一个",
+   "music": 0.0
+  },
+  {
+   "from": 263.8,
+   "to": 265.66,
+   "sid": 141,
+   "location": 2,
+   "content": "你看他背就基本是放松状态的",
+   "music": 0.0
+  },
+  {
+   "from": 265.66,
+   "to": 268.59,
+   "sid": 142,
+   "location": 2,
+   "content": "所以说这个大家还是要取舍一点",
+   "music": 0.0
+  },
+  {
+   "from": 268.59,
+   "to": 270.63,
+   "sid": 143,
+   "location": 2,
+   "content": "比如说我练胸练的很多",
+   "music": 0.0
+  },
+  {
+   "from": 270.63,
+   "to": 272.67,
+   "sid": 144,
+   "location": 2,
+   "content": "然后我为了去让我的胸放松",
+   "music": 0.0
+  },
+  {
+   "from": 272.67,
+   "to": 273.9,
+   "sid": 145,
+   "location": 2,
+   "content": "练一下拮抗肌肉群",
+   "music": 0.0
+  },
+  {
+   "from": 273.9,
+   "to": 275.13,
+   "sid": 146,
+   "location": 2,
+   "content": "你们一定要注意一点",
+   "music": 0.0
+  },
+  {
+   "from": 275.13,
+   "to": 276.96,
+   "sid": 147,
+   "location": 2,
+   "content": "就是我推的容量有多少",
+   "music": 0.0
+  },
+  {
+   "from": 276.96,
+   "to": 278.61,
+   "sid": 148,
+   "location": 2,
+   "content": "我拉的容量就一定要多少",
+   "music": 0.0
+  },
+  {
+   "from": 278.61,
+   "to": 280.7,
+   "sid": 149,
+   "location": 2,
+   "content": "然后我们很多人特别喜欢练胸",
+   "music": 0.0
+  },
+  {
+   "from": 280.7,
+   "to": 283.76,
+   "sid": 150,
+   "location": 2,
+   "content": "然后练背的时候特别喜欢干这个背阔啊",
+   "music": 0.0
+  },
+  {
+   "from": 283.76,
+   "to": 284.39,
+   "sid": 151,
+   "location": 2,
+   "content": "干大圆",
+   "music": 0.0
+  },
+  {
+   "from": 284.39,
+   "to": 287.76,
+   "sid": 152,
+   "location": 2,
+   "content": "而忽略了我们比如说中下斜方肌菱形肌的训练",
+   "music": 0.0
+  },
+  {
+   "from": 287.76,
+   "to": 290.16,
+   "sid": 153,
+   "location": 2,
+   "content": "然后导致我们长期呢训练完了之后",
+   "music": 0.0
+  },
+  {
+   "from": 290.16,
+   "to": 291.66,
+   "sid": 154,
+   "location": 2,
+   "content": "我们体态是一个这个状态",
+   "music": 0.0
+  },
+  {
+   "from": 291.66,
+   "to": 294.09,
+   "sid": 155,
+   "location": 2,
+   "content": "然后我们的这个胸小肌非常紧张对吧",
+   "music": 0.0
+  },
+  {
+   "from": 294.09,
+   "to": 296.66,
+   "sid": 156,
+   "location": 2,
+   "content": "三角肌前束背阔特别紧张",
+   "music": 0.0
+  },
+  {
+   "from": 296.66,
+   "to": 299.51,
+   "sid": 157,
+   "location": 2,
+   "content": "然后让我们身体慢慢的哎本来挺挺拔的",
+   "music": 0.0
+  },
+  {
+   "from": 299.51,
+   "to": 302.36,
+   "sid": 158,
+   "location": 2,
+   "content": "但是练成了一个圆肩的状态就大可不必了",
+   "music": 0.0
+  },
+  {
+   "from": 302.36,
+   "to": 305.7,
+   "sid": 159,
+   "location": 2,
+   "content": "所以说背部训练里边中下斜方肌是必不可少的",
+   "music": 0.0
+  },
+  {
+   "from": 305.7,
+   "to": 308.04,
+   "sid": 160,
+   "location": 2,
+   "content": "然后呢我们说完了这两种",
+   "music": 0.0
+  },
+  {
+   "from": 308.04,
+   "to": 310.61,
+   "sid": 161,
+   "location": 2,
+   "content": "就是这个把手高低的区别",
+   "music": 0.0
+  },
+  {
+   "from": 310.61,
+   "to": 312.41,
+   "sid": 162,
+   "location": 2,
+   "content": "然后我们就不吃饭了",
+   "music": 0.0
+  },
+  {
+   "from": 312.41,
+   "to": 313.52,
+   "sid": 163,
+   "location": 2,
+   "content": "但是跟大家说一下",
+   "music": 0.0
+  },
+  {
+   "from": 313.52,
+   "to": 315.5,
+   "sid": 164,
+   "location": 2,
+   "content": "如果我用一个很宽的把手",
+   "music": 0.0
+  },
+  {
+   "from": 315.5,
+   "to": 316.07,
+   "sid": 165,
+   "location": 2,
+   "content": "那是不是",
+   "music": 0.0
+  },
+  {
+   "from": 316.07,
+   "to": 320.07,
+   "sid": 166,
+   "location": 2,
+   "content": "其实我肩胛内收的功能就会更容易做出来一点",
+   "music": 0.0
+  },
+  {
+   "from": 320.07,
+   "to": 320.43,
+   "sid": 167,
+   "location": 2,
+   "content": "对吧",
+   "music": 0.0
+  },
+  {
+   "from": 320.43,
+   "to": 322.71,
+   "sid": 168,
+   "location": 2,
+   "content": "所以说你要想练中下斜的话",
+   "music": 0.0
+  },
+  {
+   "from": 322.71,
+   "to": 324.45,
+   "sid": 169,
+   "location": 2,
+   "content": "你这个把手可以换一个适当的",
+   "music": 0.0
+  },
+  {
+   "from": 324.45,
+   "to": 325.88,
+   "sid": 170,
+   "location": 2,
+   "content": "比如跟跟肩同宽的",
+   "music": 0.0
+  },
+  {
+   "from": 325.88,
+   "to": 327.74,
+   "sid": 171,
+   "location": 2,
+   "content": "或者说比肩宽一点的都没有问题",
+   "music": 0.0
+  },
+  {
+   "from": 327.74,
+   "to": 328.28,
+   "sid": 172,
+   "location": 2,
+   "content": "我们都知道",
+   "music": 0.0
+  },
+  {
+   "from": 328.28,
+   "to": 329.48,
+   "sid": 173,
+   "location": 2,
+   "content": "一般背在形体上",
+   "music": 0.0
+  },
+  {
+   "from": 329.48,
+   "to": 332.669,
+   "sid": 174,
+   "location": 2,
+   "content": "如果都是差在背阔肌上业原来背阔肌也比较差",
+   "music": 0.0
+  },
+  {
+   "from": 332.669,
+   "to": 334.64,
+   "sid": 175,
+   "location": 2,
+   "content": "但是这一年被发展的比较好",
+   "music": 0.0
+  },
+  {
+   "from": 334.64,
+   "to": 336.26,
+   "sid": 176,
+   "location": 2,
+   "content": "然后很多人老让我讲一个动作",
+   "music": 0.0
+  },
+  {
+   "from": 336.26,
+   "to": 337.82,
+   "sid": 177,
+   "location": 2,
+   "content": "叫什么麒麟抱拉",
+   "music": 0.0
+  },
+  {
+   "from": 337.82,
+   "to": 339.08,
+   "sid": 178,
+   "location": 2,
+   "content": "这动作以前我都没听说过",
+   "music": 0.0
+  },
+  {
+   "from": 339.08,
+   "to": 340.67,
+   "sid": 179,
+   "location": 2,
+   "content": "但是听这名就特别狠",
+   "music": 0.0
+  },
+  {
+   "from": 340.67,
+   "to": 342.71,
+   "sid": 180,
+   "location": 2,
+   "content": "然后我看了看他们给我发的那个视频",
+   "music": 0.0
+  },
+  {
+   "from": 342.71,
+   "to": 344.57,
+   "sid": 181,
+   "location": 2,
+   "content": "其实就是这样一种划船方式",
+   "music": 0.0
+  },
+  {
+   "from": 344.57,
+   "to": 345.8,
+   "sid": 182,
+   "location": 2,
+   "content": "其实我们要练背",
+   "music": 0.0
+  },
+  {
+   "from": 345.8,
+   "to": 349.13,
+   "sid": 183,
+   "location": 2,
+   "content": "就要去参考我们肩甲的位置",
+   "music": 0.0
+  },
+  {
+   "from": 349.13,
+   "to": 351.56,
+   "sid": 184,
+   "location": 2,
+   "content": "给大家分享一个很实用的小技巧",
+   "music": 0.0
+  },
+  {
+   "from": 351.56,
+   "to": 353.18,
+   "sid": 185,
+   "location": 2,
+   "content": "你可以看看这两种划船",
+   "music": 0.0
+  },
+  {
+   "from": 353.18,
+   "to": 355.22,
+   "sid": 186,
+   "location": 2,
+   "content": "你自己有没有不一样的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 355.22,
+   "to": 357.71,
+   "sid": 187,
+   "location": 2,
+   "content": "第一种用肩胛内收去带动这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 357.71,
+   "to": 359.84,
+   "sid": 188,
+   "location": 2,
+   "content": "当然你要有很好的肩胛控制能力",
+   "music": 0.0
+  },
+  {
+   "from": 359.84,
+   "to": 360.56,
+   "sid": 189,
+   "location": 2,
+   "content": "如果你没有的话",
+   "music": 0.0
+  },
+  {
+   "from": 360.56,
+   "to": 361.85,
+   "sid": 190,
+   "location": 2,
+   "content": "应该先开发肩胛",
+   "music": 0.0
+  },
+  {
+   "from": 361.85,
+   "to": 365.76,
+   "sid": 191,
+   "location": 2,
+   "content": "第二就是让你的大臂啊",
+   "music": 0.0
+  },
+  {
+   "from": 365.76,
+   "to": 369.06,
+   "sid": 192,
+   "location": 2,
+   "content": "肘关节向后压的同时对哎你这非常好",
+   "music": 0.0
+  },
+  {
+   "from": 369.06,
+   "to": 371.87,
+   "sid": 193,
+   "location": 2,
+   "content": "让肩胛顶在一个外展的状态下",
+   "music": 0.0
+  },
+  {
+   "from": 371.87,
+   "to": 372.86,
+   "sid": 194,
+   "location": 2,
+   "content": "你会发现",
+   "music": 0.0
+  },
+  {
+   "from": 372.86,
+   "to": 376.04,
+   "sid": 195,
+   "location": 2,
+   "content": "那这个时候中下斜方肌菱形肌参与少了",
+   "music": 0.0
+  },
+  {
+   "from": 376.04,
+   "to": 377.63,
+   "sid": 196,
+   "location": 2,
+   "content": "那你哪个位置参与多了",
+   "music": 0.0
+  },
+  {
+   "from": 377.63,
+   "to": 379.19,
+   "sid": 197,
+   "location": 2,
+   "content": "你就背阔参与的就会多了",
+   "music": 0.0
+  },
+  {
+   "from": 379.19,
+   "to": 381.57,
+   "sid": 198,
+   "location": 2,
+   "content": "但是你这时候手得往下放一点对",
+   "music": 0.0
+  },
+  {
+   "from": 381.57,
+   "to": 384.09,
+   "sid": 199,
+   "location": 2,
+   "content": "然后你可以稍微微含胸一点的状态",
+   "music": 0.0
+  },
+  {
+   "from": 384.09,
+   "to": 386.43,
+   "sid": 200,
+   "location": 2,
+   "content": "对这个时候往对往下压",
+   "music": 0.0
+  },
+  {
+   "from": 386.43,
+   "to": 387.88,
+   "sid": 201,
+   "location": 2,
+   "content": "手一定要放松",
+   "music": 0.0
+  },
+  {
+   "from": 387.88,
+   "to": 389.35,
+   "sid": 202,
+   "location": 2,
+   "content": "对手一定要放松",
+   "music": 0.0
+  },
+  {
+   "from": 389.35,
+   "to": 391.84,
+   "sid": 203,
+   "location": 2,
+   "content": "对你看这个时候叶你是不是这样",
+   "music": 0.0
+  },
+  {
+   "from": 391.84,
+   "to": 392.74,
+   "sid": 204,
+   "location": 2,
+   "content": "非常明显",
+   "music": 0.0
+  },
+  {
+   "from": 392.74,
+   "to": 395.2,
+   "sid": 205,
+   "location": 2,
+   "content": "兄弟们看他的表情",
+   "music": 0.0
+  },
+  {
+   "from": 395.78,
+   "to": 397.5,
+   "sid": 206,
+   "location": 2,
+   "content": "有后背有点充血了",
+   "music": 0.0
+  },
+  {
+   "from": 397.5,
+   "to": 400.23,
+   "sid": 207,
+   "location": 2,
+   "content": "然后我们侧面看一下他手的位置",
+   "music": 0.0
+  },
+  {
+   "from": 400.23,
+   "to": 402.81,
+   "sid": 208,
+   "location": 2,
+   "content": "其实如果你能滑到背阔上的话",
+   "music": 0.0
+  },
+  {
+   "from": 402.81,
+   "to": 404.73,
+   "sid": 209,
+   "location": 2,
+   "content": "你看你的这个肘关节",
+   "music": 0.0
+  },
+  {
+   "from": 404.73,
+   "to": 406.79,
+   "sid": 210,
+   "location": 2,
+   "content": "OK可以先放松一下",
+   "music": 0.0
+  },
+  {
+   "from": 406.79,
+   "to": 409.36,
+   "sid": 211,
+   "location": 2,
+   "content": "就是有一个模特不能逮着往死里用",
+   "music": 0.0
+  },
+  {
+   "from": 409.36,
+   "to": 411.28,
+   "sid": 212,
+   "location": 2,
+   "content": "如果你能滑到背阔上的话",
+   "music": 0.0
+  },
+  {
+   "from": 411.28,
+   "to": 414.52,
+   "sid": 213,
+   "location": 2,
+   "content": "你的手不会超出身体太多",
+   "music": 0.0
+  },
+  {
+   "from": 414.52,
+   "to": 416.01,
+   "sid": 214,
+   "location": 2,
+   "content": "你的背阔就收紧了",
+   "music": 0.0
+  },
+  {
+   "from": 416.01,
+   "to": 418.74,
+   "sid": 215,
+   "location": 2,
+   "content": "如果你的手能到这种位置的话",
+   "music": 0.0
+  },
+  {
+   "from": 418.74,
+   "to": 419.07,
+   "sid": 216,
+   "location": 2,
+   "content": "兄弟们",
+   "music": 0.0
+  },
+  {
+   "from": 419.07,
+   "to": 421.84,
+   "sid": 217,
+   "location": 2,
+   "content": "你看看这个时候你的背阔是已经被拉长的",
+   "music": 0.0
+  },
+  {
+   "from": 421.84,
+   "to": 424.57,
+   "sid": 218,
+   "location": 2,
+   "content": "我们在哑铃划船和杠铃划船里边都讲过",
+   "music": 0.0
+  },
+  {
+   "from": 424.57,
+   "to": 427.24,
+   "sid": 219,
+   "location": 2,
+   "content": "你的肩要跟着你的肘关节同时向后",
+   "music": 0.0
+  },
+  {
+   "from": 427.24,
+   "to": 428.44,
+   "sid": 220,
+   "location": 2,
+   "content": "就是我们往后滑的时候",
+   "music": 0.0
+  },
+  {
+   "from": 428.44,
+   "to": 430.39,
+   "sid": 221,
+   "location": 2,
+   "content": "虽说我们的肩胛在一个外展状态",
+   "music": 0.0
+  },
+  {
+   "from": 430.39,
+   "to": 432.07,
+   "sid": 222,
+   "location": 2,
+   "content": "但是我们向后压的时候",
+   "music": 0.0
+  },
+  {
+   "from": 432.07,
+   "to": 433.81,
+   "sid": 223,
+   "location": 2,
+   "content": "你的肩也要跟着往后走",
+   "music": 0.0
+  },
+  {
+   "from": 433.81,
+   "to": 434.83,
+   "sid": 224,
+   "location": 2,
+   "content": "从从侧面看",
+   "music": 0.0
+  },
+  {
+   "from": 434.83,
+   "to": 436.74,
+   "sid": 225,
+   "location": 2,
+   "content": "你这个时候背阔就已经收紧了",
+   "music": 0.0
+  },
+  {
+   "from": 436.74,
+   "to": 438.54,
+   "sid": 226,
+   "location": 2,
+   "content": "对你用的是他后伸的动作",
+   "music": 0.0
+  },
+  {
+   "from": 438.54,
+   "to": 440.22,
+   "sid": 227,
+   "location": 2,
+   "content": "你这个时候不能用肩为轴",
+   "music": 0.0
+  },
+  {
+   "from": 440.22,
+   "to": 442.26,
+   "sid": 228,
+   "location": 2,
+   "content": "然后无限的把你的肘关节往上转",
+   "music": 0.0
+  },
+  {
+   "from": 442.26,
+   "to": 444.27,
+   "sid": 229,
+   "location": 2,
+   "content": "你看我们从后边来看一下这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 444.27,
+   "to": 445.38,
+   "sid": 230,
+   "location": 2,
+   "content": "如果用肩为轴",
+   "music": 0.0
+  },
+  {
+   "from": 445.38,
+   "to": 446.04,
+   "sid": 231,
+   "location": 2,
+   "content": "这儿有一个轴",
+   "music": 0.0
+  },
+  {
+   "from": 446.04,
+   "to": 447.54,
+   "sid": 232,
+   "location": 2,
+   "content": "假设用这这个轴",
+   "music": 0.0
+  },
+  {
+   "from": 447.54,
+   "to": 448.81,
+   "sid": 233,
+   "location": 2,
+   "content": "然后无限的往后转",
+   "music": 0.0
+  },
+  {
+   "from": 448.81,
+   "to": 451.429,
+   "sid": 234,
+   "location": 2,
+   "content": "它的背阔是被拉长的啊",
+   "music": 0.0
+  },
+  {
+   "from": 451.429,
+   "to": 454.009,
+   "sid": 235,
+   "location": 2,
+   "content": "他的三头上斜方反而被激活了",
+   "music": 0.0
+  },
+  {
+   "from": 454.009,
+   "to": 455.629,
+   "sid": 236,
+   "location": 2,
+   "content": "你要想象的这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 455.629,
+   "to": 458.2,
+   "sid": 237,
+   "location": 2,
+   "content": "它就是一个矢状面前后的动作",
+   "music": 0.0
+  },
+  {
+   "from": 458.2,
+   "to": 459.88,
+   "sid": 238,
+   "location": 2,
+   "content": "肩胛顶住了对吧",
+   "music": 0.0
+  },
+  {
+   "from": 459.88,
+   "to": 460.54,
+   "sid": 239,
+   "location": 2,
+   "content": "肩胛顶住了",
+   "music": 0.0
+  },
+  {
+   "from": 460.54,
+   "to": 461.62,
+   "sid": 240,
+   "location": 2,
+   "content": "肘关节向后压",
+   "music": 0.0
+  },
+  {
+   "from": 461.62,
+   "to": 461.86,
+   "sid": 241,
+   "location": 2,
+   "content": "腰",
+   "music": 0.0
+  },
+  {
+   "from": 461.86,
+   "to": 462.61,
+   "sid": 242,
+   "location": 2,
+   "content": "肩也向后",
+   "music": 0.0
+  },
+  {
+   "from": 462.61,
+   "to": 464.9,
+   "sid": 243,
+   "location": 2,
+   "content": "把你的背后压紧就OK了",
+   "music": 0.0
+  },
+  {
+   "from": 464.9,
+   "to": 467.63,
+   "sid": 244,
+   "location": 2,
+   "content": "这时候你一定要有能控制你肩胛的能力",
+   "music": 0.0
+  },
+  {
+   "from": 467.63,
+   "to": 468.68,
+   "sid": 245,
+   "location": 2,
+   "content": "就是你的前锯肌",
+   "music": 0.0
+  },
+  {
+   "from": 468.68,
+   "to": 470.69,
+   "sid": 246,
+   "location": 2,
+   "content": "你的肩胛功能要足够的好",
+   "music": 0.0
+  },
+  {
+   "from": 470.69,
+   "to": 472.92,
+   "sid": 247,
+   "location": 2,
+   "content": "这个换成T杆的话",
+   "music": 0.0
+  },
+  {
+   "from": 472.92,
+   "to": 474.12,
+   "sid": 248,
+   "location": 2,
+   "content": "换成T杆的话",
+   "music": 0.0
+  },
+  {
+   "from": 474.12,
+   "to": 477.06,
+   "sid": 249,
+   "location": 2,
+   "content": "就是你们说的那个叫什么麒麟抱拉",
+   "music": 0.0
+  },
+  {
+   "from": 477.06,
+   "to": 479.27,
+   "sid": 250,
+   "location": 2,
+   "content": "但是我们用绳索去做呢",
+   "music": 0.0
+  },
+  {
+   "from": 479.27,
+   "to": 481.79,
+   "sid": 251,
+   "location": 2,
+   "content": "我们的腰不会有特别大的压力",
+   "music": 0.0
+  },
+  {
+   "from": 481.79,
+   "to": 482.63,
+   "sid": 252,
+   "location": 2,
+   "content": "但是兄弟们",
+   "music": 0.0
+  },
+  {
+   "from": 482.63,
+   "to": 483.65,
+   "sid": 253,
+   "location": 2,
+   "content": "我一定要提醒你们",
+   "music": 0.0
+  },
+  {
+   "from": 483.65,
+   "to": 484.73,
+   "sid": 254,
+   "location": 2,
+   "content": "你说的那个动作",
+   "music": 0.0
+  },
+  {
+   "from": 484.73,
+   "to": 486.05,
+   "sid": 255,
+   "location": 2,
+   "content": "我们在做T杆的时候",
+   "music": 0.0
+  },
+  {
+   "from": 486.05,
+   "to": 487.15,
+   "sid": 256,
+   "location": 2,
+   "content": "我们要俯身",
+   "music": 0.0
+  },
+  {
+   "from": 487.15,
+   "to": 488.47,
+   "sid": 257,
+   "location": 2,
+   "content": "我们要俯身的同时",
+   "music": 0.0
+  },
+  {
+   "from": 488.47,
+   "to": 491.3,
+   "sid": 258,
+   "location": 2,
+   "content": "我们要打开我们的肩胛去做那个动作",
+   "music": 0.0
+  },
+  {
+   "from": 491.3,
+   "to": 492.74,
+   "sid": 259,
+   "location": 2,
+   "content": "如果你找不好重心",
+   "music": 0.0
+  },
+  {
+   "from": 492.74,
+   "to": 493.82,
+   "sid": 260,
+   "location": 2,
+   "content": "你打开肩胛的同时",
+   "music": 0.0
+  },
+  {
+   "from": 493.82,
+   "to": 495.97,
+   "sid": 261,
+   "location": 2,
+   "content": "你腰的压力一定会变大啊",
+   "music": 0.0
+  },
+  {
+   "from": 495.97,
+   "to": 497.71,
+   "sid": 262,
+   "location": 2,
+   "content": "你如果不会构建好腹内压",
+   "music": 0.0
+  },
+  {
+   "from": 497.71,
+   "to": 498.73,
+   "sid": 263,
+   "location": 2,
+   "content": "不会把式呼吸的话",
+   "music": 0.0
+  },
+  {
+   "from": 498.73,
+   "to": 499.93,
+   "sid": 264,
+   "location": 2,
+   "content": "我建议先用这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 499.93,
+   "to": 502.06,
+   "sid": 265,
+   "location": 2,
+   "content": "要不然那个动作就是有点危险的",
+   "music": 0.0
+  },
+  {
+   "from": 502.06,
+   "to": 505.229,
+   "sid": 266,
+   "location": 2,
+   "content": "然后我们最后再说一下练背时候的节奏",
+   "music": 0.0
+  },
+  {
+   "from": 505.229,
+   "to": 507.449,
+   "sid": 267,
+   "location": 2,
+   "content": "这个刚才我看也有一点这个问题",
+   "music": 0.0
+  },
+  {
+   "from": 507.449,
+   "to": 509.72,
+   "sid": 268,
+   "location": 2,
+   "content": "就是我们在练胸的时候",
+   "music": 0.0
+  },
+  {
+   "from": 509.72,
+   "to": 510.68,
+   "sid": 269,
+   "location": 2,
+   "content": "我们都知道一个动作",
+   "music": 0.0
+  },
+  {
+   "from": 510.68,
+   "to": 512.24,
+   "sid": 270,
+   "location": 2,
+   "content": "我们要去做顶峰收缩",
+   "music": 0.0
+  },
+  {
+   "from": 512.24,
+   "to": 513.8,
+   "sid": 271,
+   "location": 2,
+   "content": "你的泵感才会更好",
+   "music": 0.0
+  },
+  {
+   "from": 513.8,
+   "to": 515.48,
+   "sid": 272,
+   "location": 2,
+   "content": "你的乳酸阈值才会更高",
+   "music": 0.0
+  },
+  {
+   "from": 515.48,
+   "to": 517.88,
+   "sid": 273,
+   "location": 2,
+   "content": "但是胸在顶峰收缩的时候",
+   "music": 0.0
+  },
+  {
+   "from": 517.88,
+   "to": 519.68,
+   "sid": 274,
+   "location": 2,
+   "content": "它都是一个省力杠杆了",
+   "music": 0.0
+  },
+  {
+   "from": 519.68,
+   "to": 521.57,
+   "sid": 275,
+   "location": 2,
+   "content": "已经小角度了对吧",
+   "music": 0.0
+  },
+  {
+   "from": 521.57,
+   "to": 524.48,
+   "sid": 276,
+   "location": 2,
+   "content": "我们从最大阻力距已经推到一个很小的角度了",
+   "music": 0.0
+  },
+  {
+   "from": 524.48,
+   "to": 526.14,
+   "sid": 277,
+   "location": 2,
+   "content": "我们完成顶峰收缩",
+   "music": 0.0
+  },
+  {
+   "from": 526.14,
+   "to": 528.12,
+   "sid": 278,
+   "location": 2,
+   "content": "但是贝壳不是对吧",
+   "music": 0.0
+  },
+  {
+   "from": 528.12,
+   "to": 528.81,
+   "sid": 279,
+   "location": 2,
+   "content": "我们划船",
+   "music": 0.0
+  },
+  {
+   "from": 528.81,
+   "to": 530.04,
+   "sid": 280,
+   "location": 2,
+   "content": "你在最下边的时候",
+   "music": 0.0
+  },
+  {
+   "from": 530.04,
+   "to": 531.3,
+   "sid": 281,
+   "location": 2,
+   "content": "你是最省力的",
+   "music": 0.0
+  },
+  {
+   "from": 531.3,
+   "to": 532.32,
+   "sid": 282,
+   "location": 2,
+   "content": "越滑越费力",
+   "music": 0.0
+  },
+  {
+   "from": 532.32,
+   "to": 533.1,
+   "sid": 283,
+   "location": 2,
+   "content": "越滑越费力",
+   "music": 0.0
+  },
+  {
+   "from": 533.1,
+   "to": 534.08,
+   "sid": 284,
+   "location": 2,
+   "content": "越滑越费力",
+   "music": 0.0
+  },
+  {
+   "from": 534.08,
+   "to": 535.64,
+   "sid": 285,
+   "location": 2,
+   "content": "在接近顶峰收缩的时候",
+   "music": 0.0
+  },
+  {
+   "from": 535.64,
+   "to": 537.92,
+   "sid": 286,
+   "location": 2,
+   "content": "你遇到了你最大的阻力距",
+   "music": 0.0
+  },
+  {
+   "from": 537.92,
+   "to": 539.72,
+   "sid": 287,
+   "location": 2,
+   "content": "你看刚才他为什么会觉得特别吃力",
+   "music": 0.0
+  },
+  {
+   "from": 539.72,
+   "to": 543.59,
+   "sid": 288,
+   "location": 2,
+   "content": "因为他在刚开始的时候很慢的启动对吧",
+   "music": 0.0
+  },
+  {
+   "from": 543.59,
+   "to": 547.75,
+   "sid": 289,
+   "location": 2,
+   "content": "这样就会让你的训练其实变得并不高效",
+   "music": 0.0
+  },
+  {
+   "from": 547.75,
+   "to": 549.37,
+   "sid": 290,
+   "location": 2,
+   "content": "就跟我们骑自行车一样",
+   "music": 0.0
+  },
+  {
+   "from": 549.37,
+   "to": 550.72,
+   "sid": 291,
+   "location": 2,
+   "content": "不是越慢越稳",
+   "music": 0.0
+  },
+  {
+   "from": 550.72,
+   "to": 552.91,
+   "sid": 292,
+   "location": 2,
+   "content": "如果这个自行车真正慢到一定程度的话",
+   "music": 0.0
+  },
+  {
+   "from": 552.91,
+   "to": 554.42,
+   "sid": 293,
+   "location": 2,
+   "content": "你会觉得特别吃力",
+   "music": 0.0
+  },
+  {
+   "from": 554.42,
+   "to": 556.94,
+   "sid": 294,
+   "location": 2,
+   "content": "因为我们要调动很多的辅助肌肉群",
+   "music": 0.0
+  },
+  {
+   "from": 556.94,
+   "to": 558.68,
+   "sid": 295,
+   "location": 2,
+   "content": "稳定肌肉群去控制它对吧",
+   "music": 0.0
+  },
+  {
+   "from": 558.68,
+   "to": 560.18,
+   "sid": 296,
+   "location": 2,
+   "content": "你神经消耗也会特别大",
+   "music": 0.0
+  },
+  {
+   "from": 560.18,
+   "to": 561.98,
+   "sid": 297,
+   "location": 2,
+   "content": "所以我们要有一定的节奏",
+   "music": 0.0
+  },
+  {
+   "from": 561.98,
+   "to": 563.57,
+   "sid": 298,
+   "location": 2,
+   "content": "我们向心啊",
+   "music": 0.0
+  },
+  {
+   "from": 563.57,
+   "to": 565.4,
+   "sid": 299,
+   "location": 2,
+   "content": "我不是说那种爆发力加速啊",
+   "music": 0.0
+  },
+  {
+   "from": 565.4,
+   "to": 566.9,
+   "sid": 300,
+   "location": 2,
+   "content": "我们要适当的加速",
+   "music": 0.0
+  },
+  {
+   "from": 566.9,
+   "to": 569.68,
+   "sid": 301,
+   "location": 2,
+   "content": "这样才能帮助你更好的收紧啊",
+   "music": 0.0
+  },
+  {
+   "from": 569.68,
+   "to": 570.67,
+   "sid": 302,
+   "location": 2,
+   "content": "来我们试试",
+   "music": 0.0
+  },
+  {
+   "from": 570.67,
+   "to": 571.36,
+   "sid": 303,
+   "location": 2,
+   "content": "控制好啊",
+   "music": 0.0
+  },
+  {
+   "from": 571.36,
+   "to": 572.47,
+   "sid": 304,
+   "location": 2,
+   "content": "节奏稍微调整一下",
+   "music": 0.0
+  },
+  {
+   "from": 572.47,
+   "to": 574.05,
+   "sid": 305,
+   "location": 2,
+   "content": "然后做六个示范一下就行",
+   "music": 0.0
+  },
+  {
+   "from": 574.05,
+   "to": 575.79,
+   "sid": 306,
+   "location": 2,
+   "content": "收缩一下停好",
+   "music": 0.0
+  },
+  {
+   "from": 575.79,
+   "to": 577.53,
+   "sid": 307,
+   "location": 2,
+   "content": "然后回停太长太长了",
+   "music": 0.0
+  },
+  {
+   "from": 577.53,
+   "to": 581.04,
+   "sid": 308,
+   "location": 2,
+   "content": "停一下就又没停住了",
+   "music": 0.0
+  },
+  {
+   "from": 581.04,
+   "to": 581.52,
+   "sid": 309,
+   "location": 2,
+   "content": "不好控制",
+   "music": 0.0
+  },
+  {
+   "from": 581.52,
+   "to": 583.74,
+   "sid": 310,
+   "location": 2,
+   "content": "你连夜都不好控",
+   "music": 0.0
+  },
+  {
+   "from": 585.28,
+   "to": 588.48,
+   "sid": 311,
+   "location": 2,
+   "content": "好OK然后这就是相信这个相信速度差不多了",
+   "music": 0.0
+  },
+  {
+   "from": 588.48,
+   "to": 590.67,
+   "sid": 312,
+   "location": 2,
+   "content": "然后我们最后说一点就是离心",
+   "music": 0.0
+  },
+  {
+   "from": 590.67,
+   "to": 594.68,
+   "sid": 313,
+   "location": 2,
+   "content": "据我观察就是说70%以上的胸肌",
+   "music": 0.0
+  },
+  {
+   "from": 594.68,
+   "to": 598.52,
+   "sid": 314,
+   "location": 2,
+   "content": "在健身房练背的时候都是向心的时候哎很注意",
+   "music": 0.0
+  },
+  {
+   "from": 598.52,
+   "to": 600.63,
+   "sid": 315,
+   "location": 2,
+   "content": "但是离心的时候像什么划船",
+   "music": 0.0
+  },
+  {
+   "from": 600.63,
+   "to": 601.62,
+   "sid": 316,
+   "location": 2,
+   "content": "高位下拉呀",
+   "music": 0.0
+  },
+  {
+   "from": 601.62,
+   "to": 603.57,
+   "sid": 317,
+   "location": 2,
+   "content": "绳索呀就不控制了",
+   "music": 0.0
+  },
+  {
+   "from": 603.57,
+   "to": 605.28,
+   "sid": 318,
+   "location": 2,
+   "content": "就哎离心就回去了",
+   "music": 0.0
+  },
+  {
+   "from": 605.28,
+   "to": 608.09,
+   "sid": 319,
+   "location": 2,
+   "content": "其实离心像比如说如果做第一个",
+   "music": 0.0
+  },
+  {
+   "from": 608.09,
+   "to": 610.91,
+   "sid": 320,
+   "location": 2,
+   "content": "你要想象肩胛被推开的感觉对吧",
+   "music": 0.0
+  },
+  {
+   "from": 610.91,
+   "to": 613.7,
+   "sid": 321,
+   "location": 2,
+   "content": "第二个就是像你比如说肩胛打开的那种",
+   "music": 0.0
+  },
+  {
+   "from": 613.7,
+   "to": 616.33,
+   "sid": 322,
+   "location": 2,
+   "content": "你要想象这肘关节啊往前",
+   "music": 0.0
+  },
+  {
+   "from": 616.33,
+   "to": 618.01,
+   "sid": 323,
+   "location": 2,
+   "content": "然后把背阔肌拉长的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 618.01,
+   "to": 620.41,
+   "sid": 324,
+   "location": 2,
+   "content": "但其实你的目标肌肉群都是有张力的",
+   "music": 0.0
+  },
+  {
+   "from": 620.41,
+   "to": 622.52,
+   "sid": 325,
+   "location": 2,
+   "content": "你的目标肌肉群不是放松的",
+   "music": 0.0
+  },
+  {
+   "from": 622.52,
+   "to": 623.54,
+   "sid": 326,
+   "location": 2,
+   "content": "能明白这个概念",
+   "music": 0.0
+  },
+  {
+   "from": 623.54,
+   "to": 624.65,
+   "sid": 327,
+   "location": 2,
+   "content": "比如我们拿二头距离",
+   "music": 0.0
+  },
+  {
+   "from": 624.65,
+   "to": 626.66,
+   "sid": 328,
+   "location": 2,
+   "content": "它是一直在有张力的情况下收缩",
+   "music": 0.0
+  },
+  {
+   "from": 626.66,
+   "to": 629.7,
+   "sid": 329,
+   "location": 2,
+   "content": "然后离心的时候也他其实是完成离心收缩",
+   "music": 0.0
+  },
+  {
+   "from": 629.7,
+   "to": 630.96,
+   "sid": 330,
+   "location": 2,
+   "content": "它不是放松的",
+   "music": 0.0
+  },
+  {
+   "from": 630.96,
+   "to": 632.7,
+   "sid": 331,
+   "location": 2,
+   "content": "很多人就是向心收紧",
+   "music": 0.0
+  },
+  {
+   "from": 632.7,
+   "to": 635.14,
+   "sid": 332,
+   "location": 2,
+   "content": "然后离心这种训练",
+   "music": 0.0
+  },
+  {
+   "from": 635.14,
+   "to": 638.38,
+   "sid": 333,
+   "location": 2,
+   "content": "就可能会让你的训练效果就大打折扣了",
+   "music": 0.0
+  },
+  {
+   "from": 638.38,
+   "to": 640.69,
+   "sid": 334,
+   "location": 2,
+   "content": "所以我们再来向心要控制节奏",
+   "music": 0.0
+  },
+  {
+   "from": 640.69,
+   "to": 642.49,
+   "sid": 335,
+   "location": 2,
+   "content": "然后有0.1秒",
+   "music": 0.0
+  },
+  {
+   "from": 642.49,
+   "to": 644.92,
+   "sid": 336,
+   "location": 2,
+   "content": "0.2秒那种停顿的顶峰收缩",
+   "music": 0.0
+  },
+  {
+   "from": 644.92,
+   "to": 647.74,
+   "sid": 337,
+   "location": 2,
+   "content": "然后离心要控制住啊",
+   "music": 0.0
+  },
+  {
+   "from": 651.22,
+   "to": 652.62,
+   "sid": 338,
+   "location": 2,
+   "content": "身体要往后倾一点",
+   "music": 0.0
+  },
+  {
+   "from": 652.62,
+   "to": 654.3,
+   "sid": 339,
+   "location": 2,
+   "content": "哎呀好",
+   "music": 0.0
+  },
+  {
+   "from": 658.64,
+   "to": 660.04,
+   "sid": 340,
+   "location": 2,
+   "content": "哎对就好",
+   "music": 0.0
+  },
+  {
+   "from": 660.04,
+   "to": 662.14,
+   "sid": 341,
+   "location": 2,
+   "content": "很多收的不够紧不对",
+   "music": 0.0
+  },
+  {
+   "from": 662.14,
+   "to": 663.1,
+   "sid": 342,
+   "location": 2,
+   "content": "往后压",
+   "music": 0.0
+  },
+  {
+   "from": 663.1,
+   "to": 666.989,
+   "sid": 343,
+   "location": 2,
+   "content": "然后兄弟们控制呼吸特别重要啊",
+   "music": 0.0
+  },
+  {
+   "from": 666.989,
+   "to": 668.669,
+   "sid": 344,
+   "location": 2,
+   "content": "这种训练如果连着用瓦式呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 668.669,
+   "to": 670.409,
+   "sid": 345,
+   "location": 2,
+   "content": "你颅内压肯定会爆的啊",
+   "music": 0.0
+  },
+  {
+   "from": 670.409,
+   "to": 671.069,
+   "sid": 346,
+   "location": 2,
+   "content": "肯定不行",
+   "music": 0.0
+  },
+  {
+   "from": 671.069,
+   "to": 674.98,
+   "sid": 347,
+   "location": 2,
+   "content": "还有就是很多兄弟为了特别帅啊",
+   "music": 0.0
+  },
+  {
+   "from": 674.98,
+   "to": 675.88,
+   "sid": 348,
+   "location": 2,
+   "content": "追求大重量",
+   "music": 0.0
+  },
+  {
+   "from": 675.88,
+   "to": 678.479,
+   "sid": 349,
+   "location": 2,
+   "content": "然后向心的时候U拿腰借力",
+   "music": 0.0
+  },
+  {
+   "from": 678.479,
+   "to": 679.859,
+   "sid": 350,
+   "location": 2,
+   "content": "然后呢很快的拉回来",
+   "music": 0.0
+  },
+  {
+   "from": 679.859,
+   "to": 680.819,
+   "sid": 351,
+   "location": 2,
+   "content": "然后没有顶峰收缩",
+   "music": 0.0
+  },
+  {
+   "from": 680.819,
+   "to": 681.75,
+   "sid": 352,
+   "location": 2,
+   "content": "又被蹬回去",
+   "music": 0.0
+  },
+  {
+   "from": 681.75,
+   "to": 683.61,
+   "sid": 353,
+   "location": 2,
+   "content": "就在这反复的拉哦",
+   "music": 0.0
+  },
+  {
+   "from": 683.61,
+   "to": 684.81,
+   "sid": 354,
+   "location": 2,
+   "content": "我认为改掉这个习惯",
+   "music": 0.0
+  },
+  {
+   "from": 684.81,
+   "to": 687.2,
+   "sid": 355,
+   "location": 2,
+   "content": "你可能进步的会呃更快一点",
+   "music": 0.0
+  },
+  {
+   "from": 687.2,
+   "to": 688.34,
+   "sid": 356,
+   "location": 2,
+   "content": "这个重量的选择呢",
+   "music": 0.0
+  },
+  {
+   "from": 688.34,
+   "to": 689.6,
+   "sid": 357,
+   "location": 2,
+   "content": "如果你用的不同的器械",
+   "music": 0.0
+  },
+  {
+   "from": 689.6,
+   "to": 690.92,
+   "sid": 358,
+   "location": 2,
+   "content": "你记的时候要有一个区别",
+   "music": 0.0
+  },
+  {
+   "from": 690.92,
+   "to": 692.96,
+   "sid": 359,
+   "location": 2,
+   "content": "你看比如说这个小龙门架",
+   "music": 0.0
+  },
+  {
+   "from": 692.96,
+   "to": 694.82,
+   "sid": 360,
+   "location": 2,
+   "content": "它是有一个定滑轮",
+   "music": 0.0
+  },
+  {
+   "from": 694.82,
+   "to": 696.5,
+   "sid": 361,
+   "location": 2,
+   "content": "有一个动滑轮啊",
+   "music": 0.0
+  },
+  {
+   "from": 696.5,
+   "to": 697.76,
+   "sid": 362,
+   "location": 2,
+   "content": "这个重量是减半的",
+   "music": 0.0
+  },
+  {
+   "from": 697.76,
+   "to": 699.92,
+   "sid": 363,
+   "location": 2,
+   "content": "如果像我们里边那种固定的训练架",
+   "music": 0.0
+  },
+  {
+   "from": 699.92,
+   "to": 700.88,
+   "sid": 364,
+   "location": 2,
+   "content": "它是一个定滑轮",
+   "music": 0.0
+  },
+  {
+   "from": 700.88,
+   "to": 702.69,
+   "sid": 365,
+   "location": 2,
+   "content": "它的重量能上很大啊",
+   "music": 0.0
+  },
+  {
+   "from": 702.69,
+   "to": 703.71,
+   "sid": 366,
+   "location": 2,
+   "content": "那重量能上很大",
+   "music": 0.0
+  },
+  {
+   "from": 703.71,
+   "to": 705.51,
+   "sid": 367,
+   "location": 2,
+   "content": "大家自己选择好了就行",
+   "music": 0.0
+  },
+  {
+   "from": 705.51,
+   "to": 709.82,
+   "sid": 368,
+   "location": 2,
+   "content": "这是今天对坐姿的这个绳索划船的所有讲解",
+   "music": 0.0
+  },
+  {
+   "from": 709.82,
+   "to": 711.46,
+   "sid": 369,
+   "location": 2,
+   "content": "希望能帮到兄弟们",
+   "music": 0.0
+  }
+ ]
+}
