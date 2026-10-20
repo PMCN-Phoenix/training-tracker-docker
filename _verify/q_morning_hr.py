@@ -1,10 +1,19 @@
 # -*- coding: utf-8 -*-
-"""查近 14 天晨脉，验证 10-16 录入"""
+"""查近 14 天晨脉"""
+import datetime
+
 import requests
 
 INFLUX = "http://127.0.0.1:8086"
 ORG = "training-org"
 TOKEN = "training-super-secret-token-2026"
+
+
+def to_bj(ts):
+    """InfluxDB 返回 UTC（Z），转北京时间，避免日期看错一天。"""
+    t = datetime.datetime.fromisoformat(ts.replace("Z", "+00:00"))
+    return (t + datetime.timedelta(hours=8)).strftime("%Y-%m-%d %H:%M")
+
 
 q = 'from(bucket:"training")\n  |> range(start: -14d)\n  |> filter(fn: (r) => r._measurement == "ppl_morning_hr")\n  |> keep(columns:["_time", "_value", "session_id", "source"])\n  |> sort(columns:["_time"])'
 r = requests.post(f"{INFLUX}/api/v2/query?org={ORG}", data=q.encode(),
@@ -23,4 +32,4 @@ for ln in r.text.splitlines():
         continue
     if header and len(parts) == len(header):
         row = dict(zip(header, parts))
-        print(row["_time"][:16], "| bpm =", row["_value"], "| sid =", row.get("session_id", ""))
+        print(to_bj(row["_time"]), "| bpm =", row["_value"], "| sid =", row.get("session_id", ""))
