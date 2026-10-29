@@ -40,8 +40,10 @@ def main():
         print(f"[dry-run] body: {text}")
         return 0
 
-    r = requests.post(url, data=text.encode("utf-8"),
-                      headers={"Content-Type": "text/plain; charset=utf-8"}, timeout=30)
+    s = requests.Session()
+    s.trust_env = False  # 绕过系统代理拦截 localhost
+    r = s.post(url, data=text.encode("utf-8"),
+               headers={"Content-Type": "text/plain; charset=utf-8"}, timeout=30)
     try:
         body = r.json()
     except Exception:

@@ -13,8 +13,10 @@ ts = datetime.now(tz8).strftime("%Y-%m-%dT%H:%M:%S+08:00")
 
 text = f"晨脉 {val}"
 url = f"{NR}/add-training?source=phone&time={ts}"
-r = requests.post(url, data=text.encode("utf-8"),
-                  headers={"Content-Type": "text/plain; charset=utf-8"}, timeout=30)
+s = requests.Session()
+s.trust_env = False  # 绕过系统代理拦截 localhost
+r = s.post(url, data=text.encode("utf-8"),
+           headers={"Content-Type": "text/plain; charset=utf-8"}, timeout=30)
 try:
     msg = r.json()
 except Exception:
