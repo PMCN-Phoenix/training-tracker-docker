@@ -5,15 +5,18 @@
 - 目标文件: codex-list/外部对话交接包.md
 - 仅重写 <!-- AUTO:BEGIN --> ... <!-- AUTO:END --> 之间的内容，其余段落保留
 - 数据源: InfluxDB（晨脉 / 底座习惯 / 做组记录 / PR 梯队）
+- 镜像: 同步复制一份到 docs/简报/交接包-全量快照.md，随规则 1 的 git push 上 Gitee
 - 约定: 每次录入数据或重大文档更新后跑一次，保持快照新鲜
 """
 import re
+import shutil
 import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
 
 TARGET = r"D:\11.project\iwen-codex\codex-list\外部对话交接包.md"
+MIRROR = r"D:\11.project\iwen-codex\codex-list\training-tracker-docker\docs\简报\交接包-全量快照.md"
 INFLUX = "http://127.0.0.1:8086"
 ORG, TOKEN = "training-org", "training-super-secret-token-2026"
 TZ8 = timezone(timedelta(hours=8))
@@ -200,8 +203,9 @@ def main():
         return 1
     with open(TARGET, "w", encoding="utf-8") as f:
         f.write(new)
+    shutil.copyfile(TARGET, MIRROR)  # 镜像进仓库，随规则 1 推上 Gitee
     stamp = datetime.now(TZ8).strftime("%Y-%m-%d %H:%M")
-    print(f"[OK] 数据段已更新 -> {TARGET}（{stamp}）")
+    print(f"[OK] 数据段已更新 -> {TARGET}（{stamp}），镜像 -> docs/简报/交接包-全量快照.md")
     return 0
 
 
